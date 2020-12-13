@@ -1,4 +1,0 @@
-id=8  property=dbp:title  object=United States Representatives by seniority  NumberOfEntitiesFoundForObject=23
-us-repräsentantenhaus-NN  multiply=0.223267  P(us-repräsentantenhaus|object)=0.826087  P(object|us-repräsentantenhaus)=0.27027    
-seit-JJ  multiply=0.167531  P(seit|object)=0.869565  P(object|seit)=0.192661    
-

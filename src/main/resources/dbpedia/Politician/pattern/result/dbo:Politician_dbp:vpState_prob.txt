@@ -1,3 +1,0 @@
-id=79  property=dbp:vpState  
-successfully_advocate  RB_VBN  multiply=0.2  P(successfully_advocate|dbp:vpState)=1.0  P(dbp:vpState|successfully_advocate)=0.2    
-
