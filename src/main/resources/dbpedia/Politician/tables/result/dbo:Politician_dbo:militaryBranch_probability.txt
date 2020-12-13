@@ -1,0 +1,4 @@
+id=67  property=dbo:militaryBranch  object=http://dbpedia.org/resource/United_States_Army  NumberOfEntitiesFoundForObject=53
+war-NN  multiply=0.15283  P(war|object)=0.509434  P(object|war)=0.3    
+american-JJ  multiply=0.150066  P(american|object)=0.339623  P(object|american)=0.44186    
+
