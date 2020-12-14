@@ -1,8 +1,0 @@
-id=37  property=dbp:birthPlace  
-under_contract  IN_NN  multiply=6.28E-4  P(under_contract|dbp:birthPlace)=0.001571  P(dbp:birthPlace|under_contract)=0.4    
-winner_of  NN_IN  multiply=3.37E-4  P(winner_of|dbp:birthPlace)=0.002357  P(dbp:birthPlace|winner_of)=0.142857    
-enter  VBN  multiply=2.46E-4  P(enter|dbp:birthPlace)=0.003142  P(dbp:birthPlace|enter)=0.078431    
-elect_one  VBN_CD  multiply=2.24E-4  P(elect_one|dbp:birthPlace)=0.004713  P(dbp:birthPlace|elect_one)=0.047619    
-bear_in  VBN_IN  multiply=2.23E-4  P(bear_in|dbp:birthPlace)=0.009427  P(dbp:birthPlace|bear_in)=0.023622    
-become_first  VBD_RB  multiply=1.44E-4  P(become_first|dbp:birthPlace)=0.003142  P(dbp:birthPlace|become_first)=0.045977    
-

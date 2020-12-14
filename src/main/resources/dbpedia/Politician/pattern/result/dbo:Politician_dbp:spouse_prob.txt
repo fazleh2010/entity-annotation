@@ -1,3 +1,0 @@
-id=69  property=dbp:spouse  
-marry_to  VBN_TO  multiply=7.0E-4  P(marry_to|dbp:spouse)=0.003117  P(dbp:spouse|marry_to)=0.22449    
-
