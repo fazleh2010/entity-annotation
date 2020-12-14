@@ -1,3 +1,0 @@
-id=44  property=dbp:education  
-bear_in  VBN_IN  multiply=1.79E-4  P(bear_in|dbp:education)=0.030303  P(dbp:education|bear_in)=0.005906    
-

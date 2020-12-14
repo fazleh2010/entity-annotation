@@ -1,3 +1,0 @@
-id=40  property=dbp:constituency  
-represent_his  VBN_PRP$  multiply=4.5E-5  P(represent_his|dbp:constituency)=0.009174  P(dbp:constituency|represent_his)=0.004938    
-
