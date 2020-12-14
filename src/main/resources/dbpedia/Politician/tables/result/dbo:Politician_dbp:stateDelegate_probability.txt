@@ -1,0 +1,8 @@
+id=50  property=dbp:stateDelegate  object=Maryland  NumberOfEntitiesFoundForObject=55
+district-NN  multiply=0.593842  P(district|object)=0.818182  P(object|district)=0.725806    
+politician-NN  multiply=0.549525  P(politician|object)=0.818182  P(object|politician)=0.671642    
+
+id=51  property=dbp:stateDelegate  object=Virginia  NumberOfEntitiesFoundForObject=24
+politician-NN  multiply=0.300995  P(politician|object)=0.916667  P(object|politician)=0.328358    
+part-NN  multiply=0.292969  P(part|object)=0.625  P(object|part)=0.46875    
+

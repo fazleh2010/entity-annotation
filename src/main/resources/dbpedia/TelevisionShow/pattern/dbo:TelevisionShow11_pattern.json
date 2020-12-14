@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11053",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%8Cesko_hled%C3%A1_SuperStar",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11054",
+  "entityUrl" : "http://dbpedia.org/resource/%C2%A1Mucha_Lucha!",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11055",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%9Awiat_wed%C5%82ug_Kiepskich",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11056",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%8Ddolos_(Brazilian_TV_series)",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11057",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%8Ddolos_(Portuguese_TV_series)",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11058",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%80_la_Recherche_de_la_Nouvelle_Star",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]
