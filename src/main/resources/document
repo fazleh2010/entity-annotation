@@ -1,0 +1,10 @@
+most frequent class
+
+SELECT ?s (COUNT(*) AS ?count)
+WHERE
+   {
+       ?a a ?s
+}
+
+GROUP BY ?s
+ORDER BY DESC(?count) 
