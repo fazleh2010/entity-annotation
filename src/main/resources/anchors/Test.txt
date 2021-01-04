@@ -1,0 +1,12 @@
+Germany = Germany
+genus = Genus
+gastropod = Gastropod
+German = Germany
+Greece = Greece
+German = German_language
+gene = Gene
+Georgia = Georgia_(U.S._state)
+Greek = Greek_language
+Glasgow = Glasgow
+Great Depression = Great_Depression
+George W. Bush = George_W._Bush
