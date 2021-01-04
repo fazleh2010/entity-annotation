@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.pattern;
+package citec.wikipedia.entity.pattern;
 
 import citec.wikipedia.writer.table.DBpediaEntity;
 import com.fasterxml.jackson.annotation.JsonIgnore;

@@ -1,7 +1,6 @@
-package citec.correlation.wikipedia.linking;
+package citec.wikipedia.entity.linking;
 
-import static citec.correlation.wikipedia.linking.EntityAnnotation.SUBJECT;
-import citec.correlation.wikipedia.utils.NLPTools;
+import citec.wikipedia.entity.utils.NLPTools;
 import static citec.wikipedia.writer.analyzer.TextAnalyzer.ENGLISH_SELECTED_STOPWORDS;
 import citec.wikipedia.writer.utils.FormatAndMatch;
 import java.util.ArrayList;
@@ -9,6 +8,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import org.javatuples.Pair;
+import static citec.wikipedia.entity.linking.EntityAnnotation.PRONOUN;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -28,7 +28,7 @@ public class ContextWordFinder {
         List<String> sentences = NLPTools.getSentenceInList(annotatedSentence);
         annotatedSentence = this.findSubject(sentences, annotatedSentence, subjectLink, annotatedNgram);
 
-        if (annotatedSentence.contains(SUBJECT)) {
+        if (annotatedSentence.contains(PRONOUN)) {
             Pair<String, List<String>> pair = this.findContextWords(annotatedSentence, windowSize);
             String subject = subjectLink.toLowerCase().replace("_", " ");
             Pair<String,String> objectPair = this.getTerm(pair.getValue0(), annotatedNgram);
@@ -82,11 +82,11 @@ public class ContextWordFinder {
                 if (annotatedNgram.get(string) != null) {
                     Pair<String, String> link = annotatedNgram.get(string);
                     if (link.getValue1().contains(subjectLink)) {
-                        return sentence.replace(string, SUBJECT);
+                        return sentence.replace(string, PRONOUN);
                     }
                 }
                 
-            } else if (string.contains(EntityAnnotation.SUBJECT)) {
+            } else if (string.contains(EntityAnnotation.PRONOUN)) {
                return sentence;
             }
         }
@@ -116,7 +116,7 @@ public class ContextWordFinder {
         Integer index = 0;
         for (String sen : sentence) {
             if (index == subjectIndex) {
-                modifySentence[index] = SUBJECT;
+                modifySentence[index] = PRONOUN;
             } else {
                 modifySentence[index] = sen;
                 index = index + 1;
@@ -130,8 +130,8 @@ public class ContextWordFinder {
     private Integer findSubjectIndex(List<String> tokens) {
         Integer index = 0;
         for (String token : tokens) {
-            if (token.contains(SUBJECT)) {
-                return tokens.indexOf(SUBJECT)+1;
+            if (token.contains(PRONOUN)) {
+                return tokens.indexOf(PRONOUN)+1;
             }
 
         }

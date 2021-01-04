@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.linking;
+package citec.wikipedia.entity.linking;
 
 import java.util.List;
 import java.util.Map;
@@ -16,7 +16,7 @@ import org.javatuples.Pair;
 public interface EntityAnnotation  {
 
     public static String ENTITY = "ENTITY";
-    public static String SUBJECT = "PRONOUN";
+    public static String PRONOUN = "PRONOUN";
 
 
     public String getPattern();

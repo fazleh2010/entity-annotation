@@ -1,4 +1,4 @@
-package citec.correlation.wikipedia.utils;
+package citec.wikipedia.entity.utils;
 
 import citec.wikipedia.writer.utils.FormatAndMatch;
 import java.util.ArrayList;

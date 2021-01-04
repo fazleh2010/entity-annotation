@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package citec.correlation.wikipedia.utils;
+package citec.wikipedia.entity.utils;
 
-import citec.correlation.wikipedia.linking.SentenceEntityLinker;
+import citec.wikipedia.entity.linking.SentenceEntityLinker;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
