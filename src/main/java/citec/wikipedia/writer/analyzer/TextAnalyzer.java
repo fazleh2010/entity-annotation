@@ -32,8 +32,8 @@ public interface TextAnalyzer {
     
     public static final LinkedHashMap<String, Set<String>> CLASSES = new LinkedHashMap<String, Set<String>>() {
         {
-            put(Property.dbo_Album, new HashSet<String>(Arrays.asList("the_album_", "this_album_")));
-            put(Property.dbo_Book, new HashSet<String>(Arrays.asList("the_book_", "this_book_")));
+            put(Property.dbo_Album, new HashSet<String>(Arrays.asList("it", "this")));
+            put(Property.dbo_Book, new HashSet<String>(Arrays.asList("it", "this")));
             put(Property.dbo_City, new HashSet<String>(Arrays.asList("the_city_", "this_city_")));
             put(Property.dbo_Colour, new HashSet<String>(Arrays.asList("the_color_", "this_color_", "it_is_", "this_is_")));
             put(Property.dbo_Company, new HashSet<String>(Arrays.asList("the_company_", "this_company_", "it_is_", "this_is_")));

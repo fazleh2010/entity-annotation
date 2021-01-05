@@ -1,0 +1,102 @@
+[ {
+  "entityIndex" : "entity15069",
+  "entityUrl" : "http://dbpedia.org/resource/Andalucia_(album)",
+  "dboClass" : "Album",
+  "triples" : {
+    "1" : "s(Andalucia_(album)) dbo:artist o'<Tito_&_Tarantula>",
+    "2" : "s(Andalucia_(album)) dbo:genre o'<Chicano_rock>",
+    "3" : "s(Andalucia_(album)) dbo:genre o'<Latin_alternative>",
+    "4" : "s(Andalucia_(album)) dbo:genre o'<Stoner_rock>",
+    "5" : "s(Andalucia_(album)) dbo:previousWork o'<Little_Bitch>",
+    "6" : "s(Andalucia_(album)) dbo:recordLabel o'<BMG>",
+    "7" : "s(Andalucia_(album)) dbo:recordedIn o'<Glendale,_California>",
+    "8" : "s(Andalucia_(album)) dbo:recordedIn o'<Osnabrück,_Germany>",
+    "9" : "s(Andalucia_(album)) dbo:recordedIn o'<Malaga,_Spain>",
+    "10" : "s(Andalucia_(album)) dbo:runtime o'<51.733333333333334>",
+    "11" : "s(Andalucia_(album)) dbo:runtime o'<3104.0>",
+    "12" : "s(Andalucia_(album)) dbo:subsequentWork o'<Back_into_the_Darkness>",
+    "13" : "s(Andalucia_(album)) dbo:type o'<Studio_album>",
+    "14" : "s(Andalucia_(album)) dbp:cover o'<T+t-andalucia.jpg>",
+    "15" : "s(Andalucia_(album)) dbp:producer o'<BigDaddyT>",
+    "16" : "s(Andalucia_(album)) dbp:released o'<2002>",
+    "17" : "s(Andalucia_(album)) dbp:thisAlbum o'<Andalucia>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(andalucia (album)=Andalucia_(album)) [fourth ] o'<studio album=Studio_album>"
+  },
+  "abstract" : {
+    "1" : "andalucia (album)<Andalucia_(album)> is the fourth studio album<Studio_album> by los angeles tito & tarantula<Tito_&_Tarantula>3 band tito & tarantula<Tito_&_Tarantula>, released in tito & tarantula<Tito_&_Tarantula>1",
+    "2" : "the album<Studio_album> marked several line-up changes in the band, which had previously consisted of lead singer/rhythm guitarist tito larriva, lead guitarist peter atanasoff, and drummer johnny \"vatos\" hernandez",
+    "3" : "andalucia (album)<Andalucia_(album)> album<Studio_album> featured the debut of lead guitarist steven hufsteter – who had previously played with larriva in the cruzados, bassist io perry, and keyboardist marcus praed\n",
+    "4" : "the band toured promoting the album<Studio_album> for several years",
+    "5" : "they also filmed a music video for the song \"california girl\"",
+    "6" : "however, upon seeing how bad the footage of the video was, perry threw up, larriva threatened to quit, and atanasoff was not seen around for days",
+    "7" : "so, to compensate, larriva made his own video for the song using the eight dollars he had in his pocket",
+    "8" : "in the last 40 seconds of the song \"effortless\", larriva, atanasoff, and perry can be heard laughing while they watch the \"california girl\" music video",
+    "9" : "the song \"la flor de mal\" is a cover of a cruzados song that larriva and hufsteter wrote when they were in the cruzados"
+  }
+}, {
+  "entityIndex" : "entity15071",
+  "entityUrl" : "http://dbpedia.org/resource/Available_in_All_Colors",
+  "dboClass" : "Album",
+  "triples" : {
+    "1" : "s(Available_in_All_Colors) dbo:artist o'<One_Minute_Silence>",
+    "2" : "s(Available_in_All_Colors) dbo:genre o'<Nu_metal>",
+    "3" : "s(Available_in_All_Colors) dbo:genre o'<Rap_metal>",
+    "4" : "s(Available_in_All_Colors) dbo:recordLabel o'<Big_Cat_Records>",
+    "5" : "s(Available_in_All_Colors) dbo:releaseDate o'<1998-04-28>",
+    "6" : "s(Available_in_All_Colors) dbo:subsequentWork o'<Buy_Now..._Saved_Later>",
+    "7" : "s(Available_in_All_Colors) dbo:type o'<Album>",
+    "8" : "s(Available_in_All_Colors) dbp:cover o'<Available In All Colours.jpg>",
+    "9" : "s(Available_in_All_Colors) dbp:recorded o'<1997>",
+    "10" : "s(Available_in_All_Colors) dbp:rev o'<AllMusic>",
+    "11" : "s(Available_in_All_Colors) dbp:thisAlbum o'<Available In All Colours>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(available in all colors=Available_in_All_Colors) [released on ] o'<big cat records=Big_Cat_Records>",
+    "9" : "s(available in all colors=Available_in_All_Colors) [produced by machine ] o'<one minute silence=One_Minute_Silence>",
+    "12" : "s(available in all colors=Available_in_All_Colors) [featured in 1999 ] o'<music=Album>"
+  },
+  "abstract" : {
+    "1" : "available in all colours<Available_In_All_Colours> is the debut album<Album> of one minute silence<One_Minute_Silence>, released in 1998",
+    "2" : "available in all colors<Available_in_All_Colors> was released on big cat records<Big_Cat_Records>, and distributed by 3mv/pinnacle in the uk, sony music<Album> in france, rough trade in germany and austria, m\n",
+    "3" : "n",
+    "4" : "w",
+    "5" : "in scandinavia, record<Album> services in ireland, p",
+    "6" : "i",
+    "7" : "a",
+    "8" : "s in benelux and universal in italy",
+    "9" : "available in all colors<Available_in_All_Colors> was produced by machine, and so, although one minute silence<One_Minute_Silence> are a rap metal<Rap_metal> band, it has a hip hop quality to it\n",
+    "10" : "the album<Album> features cover artwork by anne stokes (the copyright is owned by big cat records<Big_Cat_Records>, however) which portrays fetuses in orange and green tubes with the labels \"racist\", \"prophet\", \"anarchist\", \"humanitarian\", \"psychopath\", \"dictator\", etc",
+    "11" : "available in all colors<Available_in_All_Colors> is intended as a comment on the isolation of capitalist society and the categorization of individuals\n",
+    "12" : "three songs of available in all colors<Available_in_All_Colors> are featured in the 1999 video game twisted metal 4; \"south central\" is played in the opening cinematic, \"a more violent approach\" serves as the menu music<Album>, and \"and some ya lose\" is used as the sixth level theme (the oil rig)",
+    "13" : "all of them are instrumental versions"
+  }
+}, {
+  "entityIndex" : "entity15072",
+  "entityUrl" : "http://dbpedia.org/resource/Atrocities_(album)",
+  "dboClass" : "Album",
+  "triples" : {
+    "1" : "s(Atrocities_(album)) dbo:artist o'<Christian_Death>",
+    "2" : "s(Atrocities_(album)) dbo:genre o'<Deathrock>",
+    "3" : "s(Atrocities_(album)) dbo:genre o'<Gothic_rock>",
+    "4" : "s(Atrocities_(album)) dbo:previousWork o'<The_Wind_Kissed_Pictures>",
+    "5" : "s(Atrocities_(album)) dbo:runtime o'<41.05>",
+    "6" : "s(Atrocities_(album)) dbo:runtime o'<2463.0>",
+    "7" : "s(Atrocities_(album)) dbo:subsequentWork o'<The_Scriptures_(album)>",
+    "8" : "s(Atrocities_(album)) dbp:cover o'<Atrocities .jpg>",
+    "9" : "s(Atrocities_(album)) dbp:label o'<Normal Records>",
+    "10" : "s(Atrocities_(album)) dbp:producer o'<Valor>",
+    "11" : "s(Atrocities_(album)) dbp:recorded o'<1985>",
+    "12" : "s(Atrocities_(album)) dbp:released o'<1986>",
+    "13" : "s(Atrocities_(album)) dbp:rev o'<AllMusic>",
+    "14" : "s(Atrocities_(album)) dbp:thisAlbum o'<Atrocities>",
+    "15" : "s(Atrocities_(album)) dbp:type o'<studio>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : {
+    "1" : "atrocities (album)<Atrocities_(album)> was christian death's fourth album and the first with valor kand taking over main duties after rozz williams' departure",
+    "2" : "the album's subject matter deals almost exclusively with the holocaust including songs about auschwitz and josef mengele",
+    "3" : "recorded at rockfield studios<Studio> in monmouth, wales it also featured the songwriting and arrangement skills of barry galvin, who, along with johann schumann, would leave the group upon the completion of atrocities (album)<Atrocities_(album)> - both went on to form mephisto walz"
+  }
+} ]

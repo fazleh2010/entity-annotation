@@ -27,6 +27,7 @@ public interface DirectoryLocation {
     public static String achorFileTsv = "anchors_sorted_by_frequency.tsv";
     public static String JSON = ".json";
     public static String rawFiles = "rawFiles/";
+    public static String rawText = "rawText/";
     public static String patternDir = "pattern/";
 
 }
