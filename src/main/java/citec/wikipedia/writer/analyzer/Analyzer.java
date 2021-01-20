@@ -113,7 +113,6 @@ public class Analyzer implements TextAnalyzer,Property {
         List<List<HasWord>> sentences = MaxentTagger.tokenizeText(reader);
         for (List<HasWord> sentence : sentences) {
             List<TaggedWord> tSentence = taggerModel.tagSentence(sentence);
-            //System.out.println(tSentence);
             String taggedText= getSentenceFromWordListTagged(tSentence);
             String taggs=this.setTaggs(tSentence);
             return new String[]{inputText, taggedText, taggs};

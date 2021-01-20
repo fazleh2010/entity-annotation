@@ -5,6 +5,7 @@
  */
 package citec.wikipedia.writer.table;
 
+import citec.wikipedia.entity.utils.NLPTools;
 import citec.wikipedia.writer.analyzer.Analyzer;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -47,6 +48,8 @@ public class DBpediaEntity  {
     private Set<String> verbs = new  HashSet<String>();
     @JsonProperty("text")
     private String text = null;
+    @JsonProperty("sentences")
+    private Map<Integer, String> sentences = new TreeMap<Integer, String>();
     @JsonIgnore
     private Boolean democraticWord;
     /*@JsonProperty("SentenceEntities")
@@ -96,6 +99,7 @@ public class DBpediaEntity  {
         this.entityUrl = dbpediaEntity.getEntityUrl();
         this.entityIndex = index.toString()+"_"+dbpediaEntity.getEntityIndex();
         this.text = dbpediaEntity.getText();
+        this.sentences=this.getSentences(text);  
         this.words = analyzer.getWords();
         this.nouns=analyzer.getNouns();
         this.adjectives=analyzer.getAdjectives();
@@ -188,6 +192,17 @@ public class DBpediaEntity  {
     @Override
     public String toString() {
         return "{" + "entityUrl=" + entityUrl + ", dboClass=" + dboClass + ", properties=" + properties + '}';
+    }
+
+    private Map<Integer, String> getSentences(String text) {
+        Map<Integer, String> sentences=new TreeMap<Integer, String>();
+        List<String> sentenceLines = NLPTools.getSentencesFromText(text);
+        Integer index = 1;
+        for (String sentence : sentenceLines) {
+            sentences.put(index, sentence);
+            index = index + 1;
+        }
+        return sentences;
     }
 
 

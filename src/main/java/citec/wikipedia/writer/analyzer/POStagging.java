@@ -28,7 +28,7 @@ public class POStagging {
     public POStagging(String dbo_Class, String outputDir, Map<String, List<DBpediaEntity>> fileDBpediaEntities) throws Exception {
         this.outputDir = outputDir;
         if (!Files.isDirectory(Paths.get(outputDir))) {
-            FileFolderUtils.createDirectory(outputDir);
+             FileFolderUtils.createDirectory(outputDir);
         }
         this.addPosTag(fileDBpediaEntities);
     }
