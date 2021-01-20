@@ -36,7 +36,20 @@ public class POStagTest implements TextAnalyzer, DirectoryLocation {
    
     public static void main(String[] args) throws IOException, Exception {
         List<String> CLASSES = new ArrayList<String>();
+        CLASSES.add(Property.dbo_Actor);
+        CLASSES.add(Property.dbo_Album);
+        CLASSES.add(Property.dbo_Athlete);
+        CLASSES.add(Property.dbo_Book);
         CLASSES.add(Property.dbo_City);
+        CLASSES.add(Property.dbo_Company);
+        CLASSES.add(Property.dbo_Country);
+        CLASSES.add(Property.dbo_Lake);
+        CLASSES.add(Property.dbo_Location);
+        CLASSES.add(Property.dbo_Mountain);
+        CLASSES.add(Property.dbo_Person);
+        CLASSES.add(Property.dbo_Politician);
+         CLASSES.add(Property.dbo_Stadium);
+         CLASSES.add(Property.dbo_TelevisionShow);
        
         for (String dbo_Class : CLASSES) {
             String classDir = FileFolderUtils.getClassDir(dbo_Class) + "/";

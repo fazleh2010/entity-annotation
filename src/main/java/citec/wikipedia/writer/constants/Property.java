@@ -34,9 +34,6 @@ public interface Property {
     public static final String dbo_TelevisionShow = "dbo:TelevisionShow";
     public static final String dbo_Organization = "dbo:Organization";
 
-
-    
-    
     public static final String dbo_Person = "dbo:Person";
     public static final String dbo_Actor = "dbo:Actor";
     public static final String dbo_City = "dbo:City";
@@ -57,18 +54,11 @@ public interface Property {
     public static final String dbo_Color = "dbo:Color";
     public static final String dbo_Currency = "dbo:Currency";
     public static final String dbo_state = "dbo:state";
+    public static final String dbo_Lake = "dbo:Lake";
+
     public static final String dbo_Location = "dbo:Location";
-
-    
-
-         
-
-
-
-                      
-                     
-
-
+    public static final String dbo_Athlete = "dbo:Athlete";
+    public static String dbo_Stadium = "dbo:Stadium";
 
     public static final String dct_description = "dct:description";
     public static final String dbp_shortDescription = "dbp:shortDescription";
@@ -95,4 +85,5 @@ public interface Property {
                     "dbo:wikiPageWikiLink"));
     public static final List<String> include = new ArrayList<String>(
             Arrays.asList(dbo_party, dbo_country));
+
 }
