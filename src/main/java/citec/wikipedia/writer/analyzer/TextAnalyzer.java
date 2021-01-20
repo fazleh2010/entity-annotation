@@ -34,14 +34,14 @@ public interface TextAnalyzer {
         {
             put(Property.dbo_Album, new HashSet<String>(Arrays.asList("it", "this")));
             put(Property.dbo_Book, new HashSet<String>(Arrays.asList("it", "this")));
-            put(Property.dbo_City, new HashSet<String>(Arrays.asList("the_city_", "this_city_")));
+            put(Property.dbo_City, new HashSet<String>(Arrays.asList("it", "this")));
             put(Property.dbo_Colour, new HashSet<String>(Arrays.asList("the_color_", "this_color_", "it_is_", "this_is_")));
-            put(Property.dbo_Company, new HashSet<String>(Arrays.asList("the_company_", "this_company_", "it_is_", "this_is_")));
+            put(Property.dbo_Company, new HashSet<String>(Arrays.asList("it", "this", "it_is_", "this_is_")));
             put(Property.dbo_Country, new HashSet<String>(Arrays.asList("the_country_", "this_country_", "it_is_", "this_is_")));
             put(Property.dbo_Currency, new HashSet<String>(Arrays.asList("the_currency_", "this_currency_", "it_is_", "this_is_")));
             put(Property.dbo_Film, new HashSet<String>(Arrays.asList("the_film_", "this_film_", "it_is_", "this_is_")));
             put(Property.dbo_Location, new HashSet<String>(Arrays.asList("the_location_", "this_location_", "it_is_", "this_is_")));
-            put(Property.dbo_Mountain, new HashSet<String>(Arrays.asList("the_mountain_", "this_mountain_", "it_is_", "this_is_")));
+            put(Property.dbo_Mountain, new HashSet<String>(Arrays.asList("it", "this", "it_is_", "this_is_")));
             put(Property.dbo_Place, new HashSet<String>(Arrays.asList("the_place_", "this_place_", "it_is_", "this_is_")));
             put(Property.dbo_River, new HashSet<String>(Arrays.asList("the_river_", "this_river_", "it_is_", "this_is_")));
             put(Property.dbo_TelevisionShow, new HashSet<String>(Arrays.asList("the_television_show_", "this_television_show_", "the_show", "this_show")));

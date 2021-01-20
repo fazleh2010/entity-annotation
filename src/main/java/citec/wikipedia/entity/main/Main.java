@@ -50,7 +50,7 @@ public class Main implements TextAnalyzer, DirectoryLocation {
         }
         
         //for (String dbo_Class : CLASSES.keySet()) {
-            String dbo_Class=Property.dbo_Actor;
+            String dbo_Class=Property.dbo_Book;
             String classDir = FileFolderUtils.getClassDir(dbo_Class) + "/";
             String inputDir = dbpediaDir + classDir + rawFiles;
             String outputDir = dbpediaDir + classDir + patternDir;

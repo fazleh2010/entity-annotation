@@ -17,6 +17,7 @@ import citec.wikipedia.writer.constants.Property;
 import citec.wikipedia.writer.table.DBpediaEntity;
 import citec.wikipedia.writer.utils.FileFolderUtils;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
@@ -76,7 +77,12 @@ public class EntityLinkerTest implements TextAnalyzer, DirectoryLocation {
             AbstractEntityLinker main = new AbstractEntityLinker(linkingDictionary.getTermToObjectsAlphabetInfo(),dbo_Class, outputDir, windowSize, nGram, fileDBpediaEntities);
             break;
         }*/
-            String dbo_Class=Property.dbo_Album;
+ 
+        List<String> CLASSES = new ArrayList<String>();
+        CLASSES.add(Property.dbo_City);
+        CLASSES.add(Property.dbo_Company);
+       
+        for (String dbo_Class : CLASSES) {
             String classDir = FileFolderUtils.getClassDir(dbo_Class) + "/";
             String inputDir = dbpediaDir + classDir + rawFiles;
             String outputDir = dbpediaDir + classDir + patternDir;
@@ -84,7 +90,9 @@ public class EntityLinkerTest implements TextAnalyzer, DirectoryLocation {
             System.out.println("outputDir:" + outputDir);
             Map<String, List<DBpediaEntity>> fileDBpediaEntities = FileUtilsAnno.readTables(inputDir, JSON);
             AbstractEntityLinker main = new AbstractEntityLinker(termToObjectsAlphabetInfo, dbo_Class, outputDir, windowSize, nGram, fileDBpediaEntities);
-        
+
+        }
+
     }
 
 

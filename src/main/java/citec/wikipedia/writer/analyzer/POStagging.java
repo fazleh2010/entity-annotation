@@ -1,5 +1,7 @@
-package citec.wikipedia.entity.linking;
+package citec.wikipedia.writer.analyzer;
 
+import citec.wikipedia.entity.linking.EntityAnnotation;
+import citec.wikipedia.entity.linking.SentenceEntityLinker;
 import citec.wikipedia.entity.pattern.DBpediaEntityPattern;
 import citec.wikipedia.entity.utils.FileUtilsAnno;
 import citec.wikipedia.entity.utils.NLPTools;
@@ -28,16 +30,11 @@ import org.javatuples.Pair;
  *
  * @author elahi
  */
-public class AbstractEntityLinker {
+public class POStagging {
 
-    private Integer windowSize = 5;
-    private Integer nGram = 5;
-
-    public AbstractEntityLinker(Map<String, TreeMap<String, List<String>>> alphabetInfo,String dbo_Class, String outputDir, Integer windowSize, Integer nGram, Map<String, List<DBpediaEntity>> fileDBpediaEntities) throws Exception {
-        this.windowSize = windowSize;
-        this.nGram = nGram;
+    public POStagging(String dbo_Class, String outputDir, Map<String, List<DBpediaEntity>> fileDBpediaEntities) throws Exception {
         try {
-            addPatterns(alphabetInfo,dbo_Class, outputDir, fileDBpediaEntities, windowSize, nGram);
+            addPosTag(dbo_Class, outputDir, fileDBpediaEntities);
         } catch (Exception exp) {
             System.out.println(dbo_Class + " " + exp.getMessage());
         }
@@ -45,7 +42,7 @@ public class AbstractEntityLinker {
     }
 
 
-    private void addPatterns(Map<String, TreeMap<String, List<String>>> alphabetInfo,String dbo_Class, String outputDir, Map<String, List<DBpediaEntity>> fileDBpediaEntities, Integer windowSize, Integer nGram) throws Exception {
+    private void addPosTag(String dbo_Class, String outputDir, Map<String, List<DBpediaEntity>> fileDBpediaEntities) throws Exception {
 
         for (String fileName : fileDBpediaEntities.keySet()) {
             List<DBpediaEntityPattern> correctedEntities = new ArrayList<DBpediaEntityPattern>();
@@ -61,7 +58,7 @@ public class AbstractEntityLinker {
                 if (text.length() < 10) {
                     continue;
                 }
-                Pair<Set<String>, Map<Integer, String>> pair = getPropertyValues(subject, dbpediaEntity);
+                /*Pair<Set<String>, Map<Integer, String>> pair = getPropertyValues(subject, dbpediaEntity);
                 Set<String> propertyValues = pair.getValue0();
                 Map<Integer, String> tripples = pair.getValue1();
                 
@@ -69,7 +66,7 @@ public class AbstractEntityLinker {
                 
                 List<EntityAnnotation> annotatedSentences = this.annotateSentences(dbo_Class, subject, text, windowSize, nGram, alphabetInfo, propertyValues,nouns);
                 DBpediaEntityPattern DBpediaEntityPattern = this.prepareDBpediaEntityPattern(dbpediaEntity, tripples, annotatedSentences);
-                correctedEntities.add(DBpediaEntityPattern);
+                correctedEntities.add(DBpediaEntityPattern);*/
                 count = count + 1;
 
             }

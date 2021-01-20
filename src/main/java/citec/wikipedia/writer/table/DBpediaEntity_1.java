@@ -5,21 +5,18 @@
  */
 package citec.wikipedia.writer.table;
 
-import citec.wikipedia.writer.analyzer.Analyzer;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import java.util.TreeMap;
 /**
  *
  * @author elahi
  */
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class DBpediaEntity  {
+public class DBpediaEntity_1 {
 
     @JsonIgnore
     private static String PREFIX = "entity";
@@ -37,14 +34,6 @@ public class DBpediaEntity  {
     @JsonProperty("properties")
     private Map<String, List<String>> properties = new TreeMap<String, List<String>>();
    
-    @JsonProperty("words")
-    private Set<String> words = new  HashSet<String>();
-    @JsonProperty("adjectives")
-    private Set<String> adjectives = new  HashSet<String>();
-    @JsonProperty("nouns")
-    private Set<String> nouns = new  HashSet<String>();
-    @JsonProperty("verbs")
-    private Set<String> verbs = new  HashSet<String>();
     @JsonProperty("text")
     private String text = null;
     @JsonIgnore
@@ -55,38 +44,31 @@ public class DBpediaEntity  {
 
 
     //this constructor is for searilization of json string to a Java class
-    public DBpediaEntity() {
+    public DBpediaEntity_1() {
 
     }
  
 
-    public DBpediaEntity(String dboClass, String dboProperty, String entityString, Map<String, List<String>> properties, String POS_TAGGER_WORDS) throws Exception {
+    public DBpediaEntity_1(String inputFileName, String dboClass, String entityString, Map<String, List<String>> properties, String POS_TAGGER) throws Exception {
+        this.inputFileName = inputFileName;
         this.dboClass = dboClass;
         this.entityString = entityString;
         this.entityUrl = this.getEntityUrl(this.entityString);
         index = index + 1;
         this.entityIndex = PREFIX +(index);
         this.text = this.getText(properties, DBpediaProperty.dbo_abstract);
-        if (this.text != null) {
-            Analyzer analyzer = new Analyzer(this.text, POS_TAGGER_WORDS, 5);
-            this.words = analyzer.getWords();
-            this.nouns=analyzer.getNouns();
-            this.adjectives=analyzer.getAdjectives();
-        }
         this.properties = properties;
         this.properties.remove(DBpediaProperty.dbo_abstract);
 
     }
 
-    public DBpediaEntity(DBpediaEntity dbpediaEntity, Integer index,String property, List<String> values) {
+    public DBpediaEntity_1(DBpediaEntity dbpediaEntity, Integer index,String property, List<String> values) {
+        this.inputFileName = dbpediaEntity.getInputFileName();
         this.dboClass = dbpediaEntity.getDboClass();
         this.entityString =dbpediaEntity.getEntityString();
         this.entityUrl = dbpediaEntity.getEntityUrl();
         this.entityIndex = index.toString()+"_"+dbpediaEntity.getEntityIndex();
         this.text = dbpediaEntity.getText();
-        this.words = dbpediaEntity.getWords();
-        this.nouns=dbpediaEntity.getNouns();
-        this.adjectives=dbpediaEntity.getAdjectives();
         this.properties.put(property, values);
     }
 
@@ -141,24 +123,6 @@ public class DBpediaEntity  {
     public String getDboClass() {
         return dboClass;
     }
-
-    public Set<String> getWords() {
-        return words;
-    }
-
-    public Set<String> getAdjectives() {
-        return adjectives;
-    }
-
-    public Set<String> getNouns() {
-        return nouns;
-    }
-
-    public Set<String> getVerbs() {
-        return verbs;
-    }
-
-  
 
     public String getText() {
         return text;
