@@ -90,6 +90,19 @@ public class DBpediaEntity  {
         this.properties.put(property, values);
     }
 
+    public DBpediaEntity(Analyzer analyzer, DBpediaEntity dbpediaEntity) {
+         this.dboClass = dbpediaEntity.getDboClass();
+        this.entityString =dbpediaEntity.getEntityString();
+        this.entityUrl = dbpediaEntity.getEntityUrl();
+        this.entityIndex = index.toString()+"_"+dbpediaEntity.getEntityIndex();
+        this.text = dbpediaEntity.getText();
+        this.words = analyzer.getWords();
+        this.nouns=analyzer.getNouns();
+        this.adjectives=analyzer.getAdjectives();
+        this.verbs=analyzer.getVerbs();
+        this.properties=dbpediaEntity.getProperties();
+    }
+
     public void setProperties(Map<String, List<String>> properties) {
         this.properties = properties;
     }

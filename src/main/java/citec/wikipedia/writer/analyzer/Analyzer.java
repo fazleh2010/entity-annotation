@@ -34,6 +34,10 @@ public class Analyzer implements TextAnalyzer,Property {
     @JsonIgnore
     private Integer numberOfSentences = 0;
     
+    static {
+        taggerModel = new MaxentTagger(stanfordModelFile);
+    }
+    
     @JsonIgnore 
     public static final Map<String,Set<String>> propertySelectedWords = new TreeMap<String,Set<String>>();
     
@@ -57,7 +61,7 @@ public class Analyzer implements TextAnalyzer,Property {
         this.initialize();
         this.numberOfSentences = numberOfSentences;
         this.inputText = inputText;
-        this.taggerModel = new MaxentTagger(stanfordModelFile);
+        //this.taggerModel = new MaxentTagger(stanfordModelFile);
         BufferedReader reader = new BufferedReader(new StringReader(inputText));
 
         if (analysisType.contains(POS_TAGGER_WORDS)) {
@@ -69,7 +73,7 @@ public class Analyzer implements TextAnalyzer,Property {
      public Analyzer(String analysisType, Integer numberOfSentences) throws Exception {
         this.initialize();
         this.numberOfSentences = numberOfSentences;
-        this.taggerModel = new MaxentTagger(stanfordModelFile);       
+        //this.taggerModel = new MaxentTagger(stanfordModelFile);       
     }
     
     private void posTaggerWords(BufferedReader reader) throws Exception {

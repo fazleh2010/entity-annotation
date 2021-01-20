@@ -29,5 +29,5 @@ public interface DirectoryLocation {
     public static String rawFiles = "rawFiles/";
     public static String rawText = "rawText/";
     public static String patternDir = "pattern/";
-
+    public static String nlpDir = "nlp/";
 }

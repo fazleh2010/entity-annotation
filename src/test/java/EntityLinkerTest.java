@@ -86,8 +86,6 @@ public class EntityLinkerTest implements TextAnalyzer, DirectoryLocation {
             String classDir = FileFolderUtils.getClassDir(dbo_Class) + "/";
             String inputDir = dbpediaDir + classDir + rawFiles;
             String outputDir = dbpediaDir + classDir + patternDir;
-            System.out.println("rawFilesDir:" + inputDir);
-            System.out.println("outputDir:" + outputDir);
             Map<String, List<DBpediaEntity>> fileDBpediaEntities = FileUtilsAnno.readTables(inputDir, JSON);
             AbstractEntityLinker main = new AbstractEntityLinker(termToObjectsAlphabetInfo, dbo_Class, outputDir, windowSize, nGram, fileDBpediaEntities);
 
