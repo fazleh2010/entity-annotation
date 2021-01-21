@@ -1,0 +1,885 @@
+[ {
+  "entityIndex" : "entity28370",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Liberty_incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "None" ],
+    "dbo:combatant" : [ "[*]" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Iftach_Spector", "http://dbpedia.org/resource/Commander_(United_States)" ],
+    "dbo:date" : [ "1967-06-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Six-Day_War" ],
+    "dbo:notes" : [ "[*]Both nations officially attributed the attack by Israel as being due to mistaken identification." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Mediterranean_Sea" ],
+    "dbo:result" : [ "See [[#Aftermath of the attack" ],
+    "dbo:strength" : [ "1Technical research ship", "2Mirage IIIs", "2Mystères", "3motor torpedo boats" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USS_Liberty.jpg?width=300" ],
+    "dbp:caption" : [ "Damaged USS Liberty one day  after attack." ],
+    "dbp:casualties" : [ "1", "34", "171" ],
+    "dbp:combatantsHeader" : [ "Participants" ]
+  },
+  "text" : "The USS Liberty incident was an attack on a United States Navy technical research ship, USS Liberty, by Israeli Air Force jet fighter aircraft and Israeli Navy motor torpedo boats, on 8 June 1967, during the Six-Day War. The combined air and sea attack killed 34 crew members (naval officers, seamen, two marines, and one civilian), wounded 171 crew members, and severely damaged the ship. At the time, the ship was in international waters north of the Sinai Peninsula, about 25.5 nmi (29.3 mi; 47.2 km) northwest from the Egyptian city of Arish. Israel apologized for the attack, saying that the USS Liberty had been attacked in error after being mistaken for an Egyptian ship. Both the Israeli and U.S. governments conducted inquiries and issued reports that concluded the attack was a mistake due to Israeli confusion about the ship's identity, though others, including survivors of the attack, have rejected these conclusions and maintain that the attack was deliberate. In May 1968, the Israeli government paid US$3,323,500 (US$22.6 million 2017) in compensation to the families of the 34 men killed in the attack. In March 1969, Israel paid a further $3,566,457 to the men who had been wounded. On 18 December 1980, it agreed to pay $6 million as settlement for the final U.S. bill of $17,132,709 for material damage to Liberty herself plus 13 years' interest."
+}, {
+  "entityIndex" : "entity28371",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_invasion_of_Panama",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,906 captured", "205+ killed" ],
+    "dbo:combatant" : [ "*Panama Defense Force", "Panamanian opposition" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/George_H._W._Bush", "http://dbpedia.org/resource/Manuel_Noriega", "http://dbpedia.org/resource/Maxwell_R._Thurman", "http://dbpedia.org/resource/Guillermo_Endara" ],
+    "dbo:date" : [ "1989-12-20", "1990-01-31" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Panama" ],
+    "dbo:result" : [ "American victory", "* Military leaderManuel Noriegadeposed" ],
+    "dbo:strength" : [ "+27,000", "12,800 police, national guard, & army" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Operation_Just_Cause_Rangers_3rd_sqd_la_comadancia_small.jpg?width=300" ],
+    "dbp:caption" : [ "U.S. soldiers prepare to take La Comandancia in the El Chorrillo neighborhood of Panama City, in December 1989." ],
+    "dbp:casualties" : [ "1", "23", "325", "none", "CODEHUCA: 2,500–3,000", "Panamanian civilians killed according to", "U.S. military: 202", "United Nations: 500" ],
+    "dbp:casus" : [ "Military dictatorship" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The United States Invasion of Panama, code named Operation Just Cause, was an invasion of Panama by the United States between mid-December 1989 and late January 1990. It occurred during the administration of President George H. W. Bush and ten years after the Torrijos–Carter Treaties were ratified to transfer control of the Panama Canal from the U.S. to Panama by 1 January 2000. During the invasion, de facto Panamanian leader, general, and dictator Manuel Noriega was deposed, president-elect Guillermo Endara sworn into office, and the Panamanian Defense Force dissolved."
+}, {
+  "entityIndex" : "entity28372",
+  "entityUrl" : "http://dbpedia.org/resource/Upper_Canada_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "United Kingdom", "Upper Canada", "Reform Movement" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Rebellions_of_1837" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Toronto", "http://dbpedia.org/resource/Upper_Canada" ],
+    "dbo:result" : [ "Decisive Government victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Montgomery's_Tavern.jpg?width=300" ],
+    "dbp:caption" : [ "http://dbpedia.org/resource/Battle_of_Montgomery's_Tavern" ],
+    "dbp:date" : [ "December 1837" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "(Main articles: Rebellions of 1837 and Patriot War) The Upper Canada Rebellion was an insurrection against the oligarchic government of the British colony of Upper Canada (present day Ontario) in December 1837. While public grievances had existed for years, it was the Rebellion in Lower Canada (present day Quebec) that emboldened rebels in Upper Canada to openly revolt soon after. The Upper Canada Rebellion was largely defeated shortly after it began, although resistance lingered until 1838 (and became more violent) - mainly through the support of the Hunters' Lodges, a secret anti-British, US-based militia that emerged around the Great Lakes. They launched the Patriot War in 1838-39. The rebellion led directly to Lord Durham's Report on the Affairs of British North America and to The British North America Act, 1840 which partially reformed the British provinces into a unitary system. Some historians argue that the rebellions in 1837 should be viewed in the wider context of the late 18th and early 19th century Atlantic revolutions. The American Revolutionary war in 1776, the French Revolution of 1789–1799, the Haitian Revolution of 1791-1804, the Irish Rebellion of 1798, and the independence struggles of Spanish America (1810–1825) were inspired by similar democratic ideals, although they were tinged with republicanism as well. The United Kingdom's Chartists sought similar democratic goals."
+}, {
+  "entityIndex" : "entity28373",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_expedition_to_Korea",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3 killed", "1 gunboat damaged", "10 wounded" ],
+    "dbo:combatant" : [ "24pxKorea" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Rodgers_(American_Civil_War_naval_officer)", "http://dbpedia.org/resource/Winfield_Scott_Schley", "http://dbpedia.org/resource/Eo_Jae-yeon" ],
+    "dbo:date" : [ "1871-07-03" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ganghwa_Island", "http://dbpedia.org/resource/Joseon" ],
+    "dbo:result" : [ "* Korea retains its isolationist policies", "* Withdrawal of American forces", "American military victory but diplomatic failure", "* Eventual agreement and signing of theUnited States–Korea Treaty of 1882" ],
+    "dbo:strength" : [ "Sea:", "Land:", "300 infantry", "4 shore batteries", "40 artillery pieces", "5 warships", "6 forts", "650sailorsand", "Marine infantry" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ganghwa_3-edit.jpg?width=300" ],
+    "dbp:caption" : [ "American forces after capturing the Deokjin Fort during the Battle of Ganghwa in 1871" ],
+    "dbp:casualties" : [ "1", "4", "5", "20", "40", "243", "Dozens of small cannons captured" ],
+    "dbp:hangul" : [ "신미양요" ],
+    "dbp:hanja" : [ "辛未洋擾" ],
+    "dbp:mr" : [ "Shinmiyangyo" ],
+    "dbp:rr" : [ "Shinmiyangyo" ]
+  },
+  "text" : "The United States expedition to Korea, the Shinmiyangyo, or simply the Korean Expedition, in 1871, was the first American military action in Korea. It took place predominantly on and around the Korean island of Ganghwa. The reason for the presence of the American land and naval force in Korea was to support an American diplomatic delegation sent to establish trade and political relations with the peninsular nation, to ascertain the fate of the merchant ship General Sherman, and to establish a treaty assuring aid for shipwrecked sailors. When Korean shore batteries attacked two American warships on 1 June, a punitive expedition was launched 10 days later after the commanding American admiral failed to receive an official apology from the Koreans. The isolationist nature of the Joseon Dynasty government and the assertiveness of the Americans led to a misunderstanding between the two parties that changed a diplomatic expedition into an armed conflict. On 10 June, about 650 Americans landed and captured several forts, killing over 200 Korean troops with a loss of only three American dead. Korea continued to refuse to negotiate with the United States until 1882."
+}, {
+  "entityIndex" : "entity28374",
+  "entityUrl" : "http://dbpedia.org/resource/Uprising_of_1953_in_East_Germany",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*Group of Soviet Forces in Germany", "*Volkspolizei", "East German demonstrators" ],
+    "dbo:date" : [ "1953-06-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/East_Germany" ],
+    "dbo:result" : [ "Uprising suppressed" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_175-14676,_Leipzig,_Reichsgericht,_russischer_Panzer.jpg?width=300" ],
+    "dbp:caption" : [ "--06-17" ],
+    "dbp:description" : [ "1953" ],
+    "dbp:id" : [ "1953" ]
+  },
+  "text" : "The Uprising of 1953 in East Germany started with a strike by East Berlin construction workers on 16 June 1953. It turned into a widespread uprising against the German Democratic Republic government the next day. In Germany, the revolt is often called People's Uprising in East Germany (Volksaufstand in der DDR). In remembrance of it, 17 June became a national holiday of West Germany, prevailing until reunification. The uprising in East Berlin was violently suppressed by tanks of the Group of Soviet Forces in Germany and the Volkspolizei. In spite of the intervention of Soviet troops, the wave of strikes and protests was not easily brought under control. Even after 17 June there were demonstrations in more than 500 towns and villages."
+}, {
+  "entityIndex" : "entity28375",
+  "entityUrl" : "http://dbpedia.org/resource/Utah_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "38" ],
+    "dbo:combatant" : [ "Deseret/UtahMormons(Nauvoo Legion)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Brigham_Young", "http://dbpedia.org/resource/Daniel_H._Wells", "http://dbpedia.org/resource/James_Buchanan", "http://dbpedia.org/resource/Albert_S._Johnston", "http://dbpedia.org/resource/Lot_Smith" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Utah", "http://dbpedia.org/resource/Utah_Territory" ],
+    "dbo:result" : [ "*Brigham Youngreplaced asGovernor of Utah Territory", "Resolution through negotiation;", "* Full amnesty for charges of sedition and treason issued to the citizens of Utah Territory by PresidentJames Buchananon the condition that they accept U.S. Federal authority" ],
+    "dbo:strength" : [ "unknown", "2,500" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Utah_Territory_with_Deseret_Border,_vector_image_-_2011.svg?width=300" ],
+    "dbp:agency" : [ "United States Government" ],
+    "dbp:article" : [ "Utah Territory: Message of the President of the United States, Communication, in Compliance with a Resolution of the House, Copies of Correspondence Relative to the Condition of Affairs in the Territory of Utah ..." ],
+    "dbp:casualties" : [ "Unknown", "Civilians: 126 killed" ],
+    "dbp:casusBelli" : [ "Reports of Mormon rebellion in the Utah Territory" ],
+    "dbp:cols" : [ "3" ],
+    "dbp:date" : [ "March 1857 – July 1858" ],
+    "dbp:small" : [ "yes" ],
+    "dbp:url" : [ "https://books.google.com/books?id=0s7-PAAACAAJ" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Utah War (1857–1858), also known as the Utah Expedition, Utah Campaign, Buchanan's Blunder, the Mormon War, or the Mormon Rebellion was an armed confrontation between Mormon settlers in the Utah Territory and the armed forces of the United States government. The confrontation lasted from May 1857 to July 1858. There were some casualties, mostly non-Mormon civilians. The war had no notable military battles."
+}, {
+  "entityIndex" : "entity28376",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Panay_incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3 killed", "43 wounded", "1 gunboat sunk" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/James_Hughes_(naval_officer)" ],
+    "dbo:date" : [ "1937-12-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War" ],
+    "dbo:notes" : [ "Civilian casualties: 2 killed, 5 wounded", "USS Panay incident" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Yangtze_River", "http://dbpedia.org/resource/Nanking", "http://dbpedia.org/resource/Republic_of_China" ],
+    "dbo:result" : [ "USS Panay sunk" ],
+    "dbo:strength" : [ "1gunboat", "12 aircraft" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USS_Panay_sinking_after_Japanese_air_attack.jpg?width=300" ],
+    "dbp:caption" : [ "--12-12" ],
+    "dbp:casualties" : [ "none" ],
+    "dbp:commander" : [ "unknown" ]
+  },
+  "text" : "The USS Panay incident was a Japanese attack on the American gunboat Panay while it was anchored in the Yangtze River outside Nanking (now spelled Nanjing), China on 12 December 1937. Japan and the United States were not at war at the time. The Japanese claimed that they did not see the American flags painted on the deck of the gunboat, apologized, and paid an indemnity. Nevertheless, the attack and the subsequent Allison incident in Nanking caused U.S. opinion to turn against the Japanese."
+}, {
+  "entityIndex" : "entity28377",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_occupation_of_Haiti",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Minimal" ],
+    "dbo:combatant" : [ "Haitian Government", "Haitian Rebels" ],
+    "dbo:date" : [ "1915-07-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Banana_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Haiti", "http://dbpedia.org/resource/Hispaniola" ],
+    "dbo:result" : [ "American victory", "* Haiti occupied" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Occupation_of_Haiti.jpg?width=300" ],
+    "dbp:caption" : [ "United States Marines and a Haitian guide patrolling the jungle in 1915 during the Battle of Fort Dipitie" ],
+    "dbp:casualties" : [ "15000" ]
+  },
+  "text" : "The United States occupation of Haiti began on July 28, 1915, when 330 US Marines landed at Port-au-Prince, Haiti, on the authority of US President Woodrow Wilson. The first invasion forces had already disembarked from USS Montana on January 27, 1914. The July intervention took place following the murder of dictator President Vilbrun Guillaume Sam by a mob angered by his political executions of elite opposition. The occupation ended on August 1, 1934, after President Franklin D. Roosevelt reaffirmed an August 1933 disengagement agreement. The last contingent of US Marines departed on August 15, 1934, after a formal transfer of authority to the Garde d'Haïti."
+}, {
+  "entityIndex" : "entity28378",
+  "entityUrl" : "http://dbpedia.org/resource/Utah_Beach",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "* 4th Infantry Division: 197", "* Airborne: ~2,500", "* Other units: ~750" ],
+    "dbo:combatant" : [ "*" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/J._Lawton_Collins", "http://dbpedia.org/resource/Theodore_Roosevelt,_Jr.", "http://dbpedia.org/resource/Karl-Wilhelm_von_Schlieben" ],
+    "dbo:date" : [ "1944-06-06" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Normandy_landings" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/La_Madeleine,_Manche" ],
+    "dbo:result" : [ "Allied victory" ],
+    "dbo:strength" : [ "* 4th Infantry Division: 21,000", "* Airborne: 14,000", "12,320" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Utah_Beach_Landing.jpg?width=300" ],
+    "dbp:caption" : [ "U.S. soldiers landing on Utah Beach" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:units" : [ "; LXXXIV Corps", "; VII Corps" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Utah Beach was the code name for one of the five sectors of the Allied invasion of German-occupied France in the Normandy landings on June 6, 1944 (D-Day), during World War II. The westernmost of the five landing beaches, Utah is on the Cotentin Peninsula, west of the mouths of the Douve and Vire rivers. Amphibious landings at Utah were undertaken by United States Army troops, with sea transport, mine sweeping, and a naval bombardment force provided by the United States Navy and Coast Guard as well as elements from the British, Canadian, Dutch and other Allied navies. The objective at Utah was to secure a beachhead on the Cotentin Peninsula, the location of important port facilities at Cherbourg. The amphibious assault, primarily by the US 4th Infantry Division and 70th Tank Battalion, was supported by airborne landings of the 82nd and 101st Airborne Division. The intention was to rapidly seal off the Cotentin Peninsula, prevent the Germans from reinforcing Cherbourg, and capture the port as quickly as possible. Utah, along with Sword Beach on the eastern flank, was added to the invasion plan in December 1943. These changes doubled the frontage of the invasion and necessitated a month-long delay so that additional landing craft and personnel could be assembled in England. Allied forces attacking Utah Beach faced two battalions of the 919th Grenadier Regiment, part of the 709th Static Infantry Division. While improvements to fortifications had been undertaken under the leadership of Field Marshal Erwin Rommel beginning in October 1943, the troops assigned to defend the area were mostly poorly equipped non-German conscripts. D-Day at Utah began at 01:30, when the first of the airborne units arrived, tasked with securing the key crossroads at Sainte-Mère-Église and controlling the causeways through the flooded farmland behind Utah Beach so the infantry could advance inland. While some airborne objectives were quickly met, many paratroopers landed far from their drop zones and were unable to fulfill their objectives on the first day. On the beach itself, infantry and tanks landed in four waves beginning at 06:30 and quickly secured the immediate area with minimal casualties. Meanwhile, engineers set to work clearing the area of obstacles and mines, and additional waves of reinforcements continued to arrive. At the close of D-Day, Allied forces had only captured about half of the planned area and contingents of German defenders remained, but the beachhead was secure. The 4th Infantry Division landed 21,000 troops on Utah at the cost of only 197 casualties. Airborne troops arriving by parachute and glider numbered an additional 14,000 men, with 2,500 casualties. Around 750 men were lost in engineering units, 70th Tank Battalion, and seaborne vessels sunk by the enemy. German losses are unknown. Cherbourg was captured on June 26, but by this time the Germans had destroyed the port facilities, which were not brought back into full operation until September."
+}, {
+  "entityIndex" : "entity28379",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_occupation_of_Veracruz",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "22 killed", "70 wounded" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Frank_Friday_Fletcher" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Border_War_(1910–19)", "http://dbpedia.org/resource/Banana_Wars", "http://dbpedia.org/resource/Mexican_Revolution" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Veracruz", "http://dbpedia.org/resource/Mexico", "http://dbpedia.org/resource/Veracruz,_Veracruz" ],
+    "dbo:result" : [ "American victory" ],
+    "dbo:strength" : [ "2,300", "≈500 regular military personnel, unknown number ofmilitiamen" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/1914_Occupation_of_Veracruz.jpg?width=300" ],
+    "dbp:caption" : [ "Sergeant Major John H. Quick of the U.S. Marines raises the American flag over Veracruz." ],
+    "dbp:casualties" : [ "150", "152", "195", "Unknown number of civilians killed" ],
+    "dbp:commander" : [ "Gustavo Maass", "Manuel Azueta" ],
+    "dbp:date" : [ "April–November 1914" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The United States occupation of Veracruz began with the Battle of Veracruz and lasted for seven months, as a response to the Tampico Affair of April 9, 1914. The incident came in the midst of poor diplomatic relations between Mexico and the United States, and was related to the ongoing Mexican Revolution."
+}, {
+  "entityIndex" : "entity28380",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Exploring_Expedition",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 sloop-of-war sunk", "1 schooner sunk", "~30 killed or wounded" ],
+    "dbo:combatant" : [ "United States", "FijiSamoaTabiteuea" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Charles_Wilkes", "http://dbpedia.org/resource/William_L._Hudson", "http://dbpedia.org/resource/Malietoa_Moli", "http://dbpedia.org/resource/William_M._Walker" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Asia", "http://dbpedia.org/resource/Atlantic_Ocean", "http://dbpedia.org/resource/North_America", "http://dbpedia.org/resource/Oceania", "http://dbpedia.org/resource/Pacific_Ocean", "http://dbpedia.org/resource/South_America", "http://dbpedia.org/resource/Antarctica", "http://dbpedia.org/resource/Australia", "http://dbpedia.org/resource/Africa", "http://dbpedia.org/resource/Antarctic_Ocean" ],
+    "dbo:result" : [ "Successful expedition and defeat of aboriginal peoples." ],
+    "dbo:strength" : [ "unknown", "1brig", "1ship", "2schooners", "2sloops-of-war", "MarinesandSailors" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Peruvian_Andes2.jpg?width=300" ],
+    "dbp:caption" : [ "\"Andes near Alparmarca, Peru: Sketched from an Elevation of 16,000 Feet\". Illustration by Alfred Thomas Agate from the South American portion of the United States Exploring Expedition, digitally restored." ],
+    "dbp:casualties" : [ "12", "Fiji:", "Tabiteuea:", "~80 killed or wounded" ],
+    "dbp:date" : [ "1838" ]
+  },
+  "text" : "The United States Exploring Expedition was an exploring and surveying expedition of the Pacific Ocean and surrounding lands conducted by the United States from 1838 to 1842. The original appointed commanding officer was Commodore Thomas ap Catesby Jones. Funding for the original expedition was requested by President John Quincy Adams in 1828, however, Congress would not implement funding until eight years later. In May 1836, the oceanic exploration voyage was finally authorized by Congress and created by President Andrew Jackson. The expedition is sometimes called the \"U.S. Ex. Ex.\" for short, or the \"Wilkes Expedition\" in honor of its next appointed commanding officer, United States Navy Lieutenant Charles Wilkes. The expedition was of major importance to the growth of science in the United States, in particular the then-young field of oceanography. During the event, armed conflict between Pacific islanders and the expedition was common and dozens of natives were killed in action, as well as a few Americans."
+}, {
+  "entityIndex" : "entity28381",
+  "entityUrl" : "http://dbpedia.org/resource/Union_blockade",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Confederate States", "United States(Union)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abraham_Lincoln", "http://dbpedia.org/resource/Jefferson_Davis" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Atlantic_Ocean", "http://dbpedia.org/resource/Southern_United_States", "http://dbpedia.org/resource/Gulf_of_Mexico" ],
+    "dbo:result" : [ "Unionvictory, successful blockade of the South." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Scott-anaconda.jpg?width=300" ],
+    "dbp:caption" : [ "A 1861 characterized map of the Union blockade, known as Winfield Scott's Anaconda Plan." ],
+    "dbp:date" : [ "1861" ]
+  },
+  "text" : "The Union blockade in the American Civil War was a naval strategy by the United States to prevent the Confederacy from trading. The blockade was proclaimed by President Abraham Lincoln in April 1861, and required the monitoring of 3,500 miles of Atlantic and Gulf coastline, including 12 major ports, notably New Orleans and Mobile. Those blockade runners fast enough to evade the Union Navy could only carry a small fraction of the supplies needed. They were operated largely by British citizens, making use of neutral ports such as Havana, Nassau and Bermuda. The Union commissioned around 500 ships, which destroyed or captured about 1,500 blockade runners over the course of the war."
+}, {
+  "entityIndex" : "entity28382",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_occupation_of_Nicaragua",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "16 American Marines wounded (all in 1912)", "75Nicaraguan National Guardsmenkilled", "First occupation (1912–1925):", "Second occupation (1926–1933):", "136American Marinesdead (32 killed-in-action, 15 died of battle wounds, and 5 murdered bymutinousNicaraguan National Guardsmen)", "5American Marinesand 2American sailorskilled (all in 1912)" ],
+    "dbo:combatant" : [ "(1927-1933)", "23pxNicaraguan Liberals (1912-1927)", "23pxNicaraguan government", "23pxSandinistas" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Smedley_Butler", "http://dbpedia.org/resource/Benjamín_Zeledón", "http://dbpedia.org/resource/Luis_Mena", "http://dbpedia.org/resource/William_Henry_Hudson_Southerland", "http://dbpedia.org/resource/Augusto_César_Sandino" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Banana_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Nicaragua" ],
+    "dbo:result" : [ "American victory;", "* Change of regime in Nicaragua", "Nicaragua occupied", "* Great Depression marks US Troop withdrawal (1933)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/U.S._Marines_holding_Sandino's_Flag_-_Nicaragua_1932.jpg?width=300" ],
+    "dbp:caption" : [ "United States Marines with the captured flag of Augusto César Sandino in 1932." ],
+    "dbp:casualties" : [ "1115", "unknown", "First occupation :", "Second occupation :" ],
+    "dbp:date" : [ "1912" ]
+  },
+  "text" : "The United States occupation of Nicaragua from 1912 to 1933 was part of the Banana Wars, when American troops forcefully intervened with various Latin American countries from 1898 to 1934. The formal occupation began in 1912, even though there were various other assaults by the U.S. in Nicaragua throughout this period. American military interventions in Nicaragua were designed to stop any other nation except the United States of America from building a Nicaraguan Canal. Nicaragua assumed a quasi-protectorate status under the 1916 Bryan–Chamorro Treaty. But with the onset of the Great Depression and Augusto C. Sandino's Nicaraguan guerrilla troops fighting back against U.S. troops, it became too costly for the U.S. government and a withdrawal was ordered in 1933."
+}, {
+  "entityIndex" : "entity28383",
+  "entityUrl" : "http://dbpedia.org/resource/Unified_Task_Force",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 killed", "3 killed", "Australia:", "Greece:", "Italy:", "Canada:", "3 wounded", "US:", "Turkey:", "23 wounded", "36 wounded", "153 wounded (Includes UNOSOM II casualties)", "2+ wounded", "39-60 Killed", "4 Wounded", "5 Killed", "53 killed", "75+ wounded", "Belgium:", "Malaysia:", "Pakistan:" ],
+    "dbo:combatant" : [ "*", "*Others", "United Somali Congress", "*(Only Humanitarian Aid)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Mohamed_Farrah_Aidid", "http://dbpedia.org/resource/Bill_Clinton", "http://dbpedia.org/resource/George_H._W._Bush", "http://dbpedia.org/resource/Robert_B._Johnston", "http://dbpedia.org/resource/Boutros_Boutros_Ghali" ],
+    "dbo:date" : [ "1992-12-09" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Somali_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Somalia" ],
+    "dbo:result" : [ "*(seeResults)", "United Nations operational success" ],
+    "dbo:strength" : [ "unknown", "seeComposition of UNITAF" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/UNITAF_AO_Feb_1993.jpg?width=300" ],
+    "dbp:caption" : [ "UNITAF Area of Operations, February 1993" ],
+    "dbp:casualties" : [ "Not known" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Unified Task Force (UNITAF) was a US-led, United Nations-sanctioned multinational force, which operated in Somalia between 5 December 1992 – 4 May 1993. A United States initiative (code-named Operation Restore Hope), UNITAF was charged with carrying out United Nations Security Council Resolution 794 to create a protected environment for conducting humanitarian operations in the southern half of the country. After the killing of several Pakistani peacekeepers, the Security Council changed UNITAF's mandate issuing the Resolution 837 that establishes that UNITAF troops could use \"all necessary measures\" to guarantee the delivery of humanitarian aid in accordance to Chapter VII of the United Nations Charter, and is regarded as a success."
+}, {
+  "entityIndex" : "entity28384",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_involvement_in_the_Mexican_Revolution",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "HuertistasVillistasConstitutionalistasCarrancistasMaderistas" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Frank_Friday_Fletcher", "http://dbpedia.org/resource/Francisco_Madero", "http://dbpedia.org/resource/John_J._Pershing", "http://dbpedia.org/resource/Venustiano_Carranza", "http://dbpedia.org/resource/Woodrow_Wilson", "http://dbpedia.org/resource/Victoriano_Huerta", "http://dbpedia.org/resource/Pancho_Villa", "http://dbpedia.org/resource/Alvaro_Obregon" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Mexican_Revolution" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Mexico" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Columbus.jpg?width=300" ],
+    "dbp:caption" : [ "Aftermath of Pancho Villa's attack on Columbus, New Mexico, in 1916" ],
+    "dbp:date" : [ "1910" ],
+    "dbp:germayGermany" : [ "United States in the Mexican Revolution" ]
+  },
+  "text" : "The United States involvement in the Mexican Revolution was varied and seemingly contradictory, first supporting and then repudiating Mexican regimes during the period 1910-1920. For both economic and political reasons, the U.S. government generally supported those who occupied the seats of power, whether they held that power legitimately or not. A clear exception was the French Intervention in Mexico, when the U.S. supported the beleaguered liberal government of Benito Juárez. Prior to Woodrow Wilson's inauguration on March 4, 1913, the US government focused on just warning the Mexican military that decisive action from the U.S. military would take place if lives and property of U.S. nationals living in the country were endangered. President William Howard Taft sent more troops to the US-Mexico border but did not allow them to intervene in the conflict, a move which Congress opposed. Twice during the Revolution, the U.S. sent troops into Mexico. The U.S. recognized the government of Porfirio Díaz in 1878, two years after Díaz's coup d'état brought him to power. Díaz's long rule of Mexico brought close economic cooperation between the two countries, especially since Díaz imposed political order that allowed business to flourish. In 1908, however, Díaz gave an interview to a U.S. journalist, James Creelman, in which Díaz stated he would not run for re-election in 1910; the statement gave rise to politicking of potential candidates. Díaz reversed himself, ran for re-election, and jailed the leading opposition candidate, Francisco I. Madero. Mexican revolutionaries prior to the 1910 events had sought refuge on the U.S. side of the border, a pattern Madero continued. He escaped Mexico and took refuge in San Antonio, Texas and called for nullification of the 1910 elections, himself as provisional president, and revolutionary support from the Mexican people. His Plan of San Luis Potosí did spark revolutionary uprisings, particularly in Mexico's north. The U.S. stayed out of the unfolding events until March 6, 1911, when President William Howard Taft mobilized forces on the U.S.-Mexico border. \"In effect this was an intervention in Mexican politics, and to Mexicans it meant the United States had condemned Díaz. Although the United States appears to have pursued an inconsistent policy toward Mexico, in fact it was the pattern for the U.S. \"Every victorious faction between 1910 and 1919 enjoyed the sympathy, and in most cases the direct support of U.S. authorities in its struggle for power. In each case, the administration in Washington soon turned on its new friends with the same vehemence it had initially expressed in supporting them.\" The U.S. turned against the regimes it helped install when they began pursuing policies counter to U.S. diplomatic and business interests. When Díaz was forced to resign in 1911 and Francisco I. Madero was elected president in October 1911, the U.S. president was a lame duck. The U.S. Ambassador to Mexico, Henry Lane Wilson was initially sympathetic to the new regime, but quickly came into conflict with it. Ambassador Wilson conspired with General Victoriano Huerta to oust Madero. The United States government under newly inaugurated president Woodrow Wilson refused to recognize Huerta's government. Under President Wilson, the United States had sent troops to bomb and occupy Veracruz. President Wilson's government recognized the government of Venustiano Carranza in 1915, which allowed arms from the U.S. to flow to Carranza's forces. When former Carranza ally, Pancho Villa attacked the border town of Columbus, New Mexico in 1916, the U.S. Army pursued him in a punitive mission, known as Pancho Villa Expedition. The U.S. failed in the main objective of that raid, which was to capture Villa. Carranza forced the U.S. to withdraw across the border."
+}, {
+  "entityIndex" : "entity28385",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Air_Force_in_France",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/France" ],
+    "dbo:result" : [ "US Withdrawal in accordance with French withdrawal FromNATO Military Command Structure" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Roundel_of_the_USAF.svg?width=300" ],
+    "dbp:caption" : [ "Map of former NATO air bases in France." ],
+    "dbp:date" : [ "1951" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "From 1951 to 1966 the United States Air Force deployed thousands of personnel and hundreds of combat aircraft to France to counter the buildup of the Soviet Armed Forces in Eastern Europe. The Cold War escalated into the attempted seizure of West Berlin during 1948. This convinced the western nations to form a common defense organization. Discussions led to the North Atlantic Treaty Organization. NATO's defense strategy came to incorporate land, sea, and air forces. Due to the vulnerability of West Germany to Soviet attack, USAF planners did not want any new tactical air units moved into the U.S. Zone of Occupation there. By 1950, the United States Air Forces in Europe (USAFE) wanted all tactical air units to be located west of the Rhine River to provide greater air defense warning time. France agreed to provide air base sites. Between 1950 and 1967 the United States Air Force operated 11 major air bases in France. They were: \n*  Bordeaux-Mérignac Air Base (flying units left 1952-53 (12 AF), closed 1958) \n*  Chambley-Bussières Air Base (12 AF until Feb 1958, 17 AF with 25 TRW until 1967) \n*  Châteauroux-Déols Air Base (Air Materiel Command assumed control of 73rd Air Depot Wing from January 1956) \n*  Chaumont-Semoutiers Air Base (17 AF) \n*  Dreux-Louvilliers Air Base \n*  Étain-Rouvres Air Base \n*  Évreux-Fauville Air Base (322 AD, USAFE, until 20 June 1964, 7305 CSG until 15 April 1966 and arrival of temporary 513 TCW to move equipment) \n*  Laon-Couvron Air Base (17 AF until November 1959; 3 AF 1966-70) \n*  Paris-Orly Air Base \n*  Phalsbourg-Bourscheid Air Base \n*  Toul-Rosières Air Base There were other communications sites, NATO Dispersed Operating Bases, Sub-Depots and minor facilities at several French Airports, such as Orly Airport and Marseille Provence Airport which are not shown on this map. The United States Army also established a significant presence in France, and was responsible for much Air Base construction and maintenance. The first NATO tenant in France was the 1630th Air Base Squadron of the USAF Military Air Transport Service, activated in June 1950 at Paris - Orly Air Base. On 28 February 1958 the official name of Orly Air Base was changed to Orly Airport and most MATS flights were routed to Chateauroux-Deols Air Base. After 15 years of USAFE basing, French President Charles De Gaulle decided to evict NATO forces from France. On 7 March 1966, he announced that France would withdraw from NATO's integrated military structure. He gave NATO forces one year to depart France. The State Department, Department of Defense (DOD), and Air Force carefully managed the news about the American departure from France, and the attendant problems of an integrated NATO air defense for western Europe and the decrease in tactical airpower. Due to the U.S. media focus on the Vietnam War, the removal of NATO forces from France went virtually unreported in the US. During 1966-67 all USAF offices and facilities in France were closed and personnel and equipment moved. The last USAFE activities were the 1630th Air Base Squadron at Orly Airport and the Paris Administration Office. Both were closed in June 1967. A C-47 variant, the C-117B \"Super Skytrain\" Serial 45-2549 was the last USAF aircraft to leave France, departing from Orly on 31 May 1967. On 23 October 1967, all foreign flags were furled and after 17 years the last NATO forces departed France. Today most of the old USAF air bases in France are being used by the French military and are not accessible to tourists."
+}, {
+  "entityIndex" : "entity28386",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Air_Force_in_Thailand",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Vietnam_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Thailand" ],
+    "dbo:result" : [ "US Withdrawal in accordance with basing agreement with Thai government." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Roundel_of_the_USAF.svg?width=300" ],
+    "dbp:date" : [ "1961" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The United States Air Force (USAF) deployed combat aircraft to Thailand from 1961 to 1975 during the Vietnam War. Today, USAF units train annually with other Asian Air Forces in Thailand. Royal Thai Air Force Bases are an important element in the Pentagon's \"forward positioning\" strategy."
+}, {
+  "entityIndex" : "entity28387",
+  "entityUrl" : "http://dbpedia.org/resource/Uprising_in_Banat",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Ottoman Empire", "Serbs" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Teodor_of_Vršac", "http://dbpedia.org/resource/Sava_Temišvarac", "http://dbpedia.org/resource/Koca_Sinan_Pasha", "http://dbpedia.org/resource/Hasan_Pasha_of_Temeşvar" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Long_Turkish_War", "http://dbpedia.org/resource/Ottoman–Serbian_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ottoman_Empire", "http://dbpedia.org/resource/Eyalet_of_Temeşvar" ],
+    "dbo:result" : [ "Ottoman victory" ],
+    "dbo:strength" : [ "5,000", "20–30,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Banatski_ustanak.png?width=300" ],
+    "dbp:caption" : [ "Map of the uprising." ],
+    "dbp:date" : [ "March — July 1594" ]
+  },
+  "text" : "The Uprising in Banat was a rebellion organized and led by Serbian Orthodox bishop Teodor of Vršac and Sava Temišvarac against the Ottomans in the Eyalet of Temeşvar. The uprising broke out in 1594, in the initial stage of the Long Turkish War, and was fought by local Serbs, numbering some 5,000, who managed to quickly take over several towns in the region before being crushed by the Ottoman army. The relics of Saint Sava were burnt by the Ottomans as a retaliation. Although short-lived, it inspired future rebellions."
+}, {
+  "entityIndex" : "entity28388",
+  "entityUrl" : "http://dbpedia.org/resource/Urfa_Resistance",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "?" ],
+    "dbo:combatant" : [ "Armenianresidents ofUrfa" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Mgrdich_Yotneghparian" ],
+    "dbo:date" : [ "1915-10-20" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Armenian_Resistance" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Urfa" ],
+    "dbo:result" : [ "The resistance was thwarted followingGermanintervention and theOttoman Empirecontinued its genocidal campaign in the region." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Armenian_Resistance_-_Urfa_-_July_1915.png?width=300" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Urfa Resistance (Armenian: Ուրֆայի հերոսամարտի) or Urfa Rebellion (Turkish: Urfa İsyanı) was the Armenian resistance in Urfa during World War I developed as a reaction to actions of the Ottoman government (see Armenian Genocide). The resistance was quelled following German intervention. In Urfa massacres had begun in the middle of August, during August 15–19, 400 people were driven outside the town and killed, Armenians in Urfa rather being deported and killed preferred to put up a resistance. On May 27, 1915, several hundred Armenians were held captive by Ottoman authorities in Urfa. The community held a meeting in order to adopt a solution. The participants thought of many different tactics. Mgrdich Yotneghparian and his partisans were among the few who preferred to fight to the death rather than yielding to the Ottomans. The Adana massacre of 1909 had made Yotneghparian increasingly cautious of the new Young Turk government and the Turkish constitution. Led by the charismatic Mgerdich, the resistance of the Armenian fighters in the heavily fortified stone houses lasted sixteen days and was eventually broken only with the help of a reinforcement contingent of six thousand Turkish troops, reportedly equipped with heavy artillery."
+}, {
+  "entityIndex" : "entity28389",
+  "entityUrl" : "http://dbpedia.org/resource/Uskok_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Spain", "22px|borderRepublic of Ragusa", "*22 px|borderKingdom of Croatia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Don_Giovanni_de'_Medici", "http://dbpedia.org/resource/Baltasar_Marradas", "http://dbpedia.org/resource/Johan_Ernst_van_Nassau-Siegen", "http://dbpedia.org/resource/Pompeo_Giustiniani", "http://dbpedia.org/resource/Adam_von_Trautmannsdorf" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Adriatic_Sea" ],
+    "dbo:result" : [ "Many Uskok pirates executed or exiled; Austrian garrison installed to check Uskoks." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Uskok_War.png?width=300" ],
+    "dbp:caption" : [ "Locations of important locations in present-day Europe" ],
+    "dbp:casus" : [ "Piracy of Venetian merchant shipping that Archduke Ferdinand did not stop" ],
+    "dbp:date" : [ "1615" ]
+  },
+  "text" : "The Uskok War, also known as the War of Gradisca, was fought by the Austrians and Spanish on one side and the Venetians, Dutch and English on the other. It is named for the Uskoks, Croatian soldiers used by the Austrians for irregular warfare. Since the Uskoks were checked on land and were rarely paid their annual salary, they resorted to piracy. In addition to attacking Turkish ships, they attacked Venetian merchantmen. Although the Venetians tried to protect their shipping with escorts, watchtowers and other protective measures, the cost became prohibitive: 120,000 Thalers annually during the 1590s, 200,000 in the 1600s and 360,000 by 1615. In December 1615 Venetian troops besieged Gradisca, on the Isonzo River. The Venetians launched a diplomatic campaign for allies, since the Uskoks were vassals of Archduke Ferdinand of Inner Austria (who was likely to seek help from the Holy Roman Emperor Matthias—his uncle—and King Philip III of Spain, his brother-in-law. In September 1616, Count John Ernest of Nassau-Siegen agreed to raise 3,000 men in the Dutch Republic for Venetian service. They arrived in May 1617, followed six months later by another 2,000 with a contingent of English volunteers. Spanish support was blocked at sea by a flotilla of 12 Dutch and 10 English warships, and on land by the war in Mantua."
+}, {
+  "entityIndex" : "entity28390",
+  "entityUrl" : "http://dbpedia.org/resource/Uruguayan_Civil_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "France", "Blancos", "Colorados", "Italian Legion", "Unitarian Party" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Fructuoso_Rivera", "http://dbpedia.org/resource/Manuel_Oribe", "http://dbpedia.org/resource/Juan_Antonio_Lavalleja", "http://dbpedia.org/resource/Pedro_II_of_Brazil", "http://dbpedia.org/resource/Juan_Manuel_de_Rosas", "http://dbpedia.org/resource/Samuel_Inglefield", "http://dbpedia.org/resource/Giuseppe_Garibaldi", "http://dbpedia.org/resource/Juan_Lavalle", "http://dbpedia.org/resource/Pascual_Echagüe" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Uruguay" ],
+    "dbo:result" : [ "Colorado victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Defensa_de_Montevideo.jpg?width=300" ],
+    "dbp:caption" : [ "An illustration of the defense of Montevideo from Isidoro De-Maria's book, Anales de la defensa de Montevideo." ],
+    "dbp:date" : [ "1839" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Uruguayan Civil War, also known in Spanish as the Guerra Grande (\"Great War\"), was a series of armed conflicts between the leaders of Uruguayan independence. While officially the war lasted from 1839 until 1851, it was a part of armed conflicts that started in 1832 and continued until the final military defeat of Blancos in 1904. Out of supporters of presidents Rivera and Oribe grew Colorado Party and the National Party, both of which received backing and support from foreign sources, including neighboring Empire of Brazil, the Argentine Confederation, Buenos Aires Province as well as European powers, primarily the British Empire and the Kingdom of France, but also a legion of Italian volunteers including Giuseppe Garibaldi. As the population of Uruguay at that time was about 60,000 out of which 15,000 lived in Montevideo, the various \"armies\" rarely rose to more than a couple of thousand soldiers and horsemen."
+}, {
+  "entityIndex" : "entity28391",
+  "entityUrl" : "http://dbpedia.org/resource/Uprising_of_Peter_Delyan",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Byzantine Empire", "Bulgarian rebels", "*Varangian Guard" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Peter_Delyan", "http://dbpedia.org/resource/Harald_Hardrada", "http://dbpedia.org/resource/Michael_IV_the_Paphlagonian", "http://dbpedia.org/resource/Alusian_of_Bulgaria", "http://dbpedia.org/resource/Tihomir_of_Bulgaria" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Balkan_peninsula" ],
+    "dbo:result" : [ "Byzantines quell the rebellion" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/PetarDelyanIsProclaimedTsarOfBulgaria.jpg?width=300" ],
+    "dbp:caption" : [ "Peter Delyan is proclaimed Emperor of Bulgaria" ],
+    "dbp:date" : [ "1040" ]
+  },
+  "text" : "The Uprising of Peter Delyan (Bulgarian: Въстанието на Петър Делян, Greek: Επανάσταση του Πέτρου Δελεάνου), which took place in 1040–1041, was a major Bulgarian rebellion against the Byzantine Empire. It was the largest and best-organised attempt to restore the former Bulgarian Empire until the rebellion of Ivan Asen I and Petar IV in 1185."
+}, {
+  "entityIndex" : "entity28392",
+  "entityUrl" : "http://dbpedia.org/resource/Ukrainian_War_of_Independence",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "(1918)", "----", "France", "Germany", "Poland", "Romania", "Whites", "Greece", "(1917–1918)", "RIA", "(1919)", "(1918–1919)", "(1920-1921)", "(until 1919)", "*Moldova", "Hetmanate", "RSFSR", "UPR", "UkrSSR", "WUPR" ],
+    "dbo:date" : [ "1917-11-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_I)", "http://dbpedia.org/resource/Russian_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Central_Europe", "http://dbpedia.org/resource/Eastern_Europe" ],
+    "dbo:result" : [ "Bolshevikvictory" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Second_Polish_Republic", "http://dbpedia.org/resource/Ukrainian_Soviet_Socialist_Republic" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Mityng.jpg?width=300" ],
+    "dbp:caption" : [ "A pro-Ukrainian People's Republic demonstration in Kiev's Sofia Square, 1917." ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Ukrainian War of Independence was a period of sustained warlike conflict between different political and military forces, lasting from 1917 to 1921, which resulted in the establishment and development of a Ukrainian republic, later a part of the Soviet Union as the Ukrainian Soviet Socialist Republic. It comprised a series of military conflicts between different governmental, political and military forces, among them Ukrainian nationalists, anarchists, Bolsheviks, the Central Powers forces of Germany and Austria-Hungary, the White Russian Volunteer Army, and Second Polish Republic forces for control of Ukraine after the February Revolution in the Russian Empire. Also involved were the Allied forces of France and Romania. The struggle lasted from February 1917 to November 1921 and resulted in the division of Ukraine between the Bolshevik Ukrainian SSR, Poland, Romania, and Czechoslovakia. The conflict is frequently viewed within the framework of the Russian Civil War as well as the closing stage of the Eastern Front of the First World War."
+}, {
+  "entityIndex" : "entity28393",
+  "entityUrl" : "http://dbpedia.org/resource/Uprising_of_Polish_political_exiles_in_Siberia",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "300 dead, rest taken prisoner" ],
+    "dbo:combatant" : [ "Russian Empire", "Polish exiles and prisoners" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Gustaw_Szaramowicz", "http://dbpedia.org/resource/Narcyz_Celiński" ],
+    "dbo:date" : [ "1866-06-28" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Siberia", "http://dbpedia.org/resource/Russian_Empire" ],
+    "dbo:result" : [ "Russian victory" ],
+    "dbo:strength" : [ "Several thousand", "Around 700" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Farewell_Europe!.PNG?width=300" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:commander" : [ "Unknown" ]
+  },
+  "text" : "Siberian Uprising or Baikal Insurrection (Polish: Powstanie zabajkalskie or Powstanie nad Bajkałem, Russian: Кругобайкальское восстание) was a short-lived uprising of about 700 Polish political prisoners and exiles (Sybiracy) in Siberia, Russian Empire, that started on 24 June 1866 and lasted for a few days, until their defeat on 28 June."
+}, {
+  "entityIndex" : "entity28394",
+  "entityUrl" : "http://dbpedia.org/resource/Unification_of_Saudi_Arabia",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "border|22pxOttoman Empire", "border|22pxEmirate of Jabal Shammar", "border|22pxSultanate of Nejd", "*Ikhwan(until 1927)", "border|22pxKingdom of Hejaz" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Fakhri_Pasha", "http://dbpedia.org/resource/Ibn_Saud_of_Saudi_Arabia", "http://dbpedia.org/resource/Ali_of_Hejaz", "http://dbpedia.org/resource/Hussein_bin_Ali,_Sharif_of_Mecca", "http://dbpedia.org/resource/Ahmed_Tevfik_Pasha", "http://dbpedia.org/resource/Sultan_bin_Bajad", "http://dbpedia.org/resource/Abdul-Aziz_bin_Mitab" ],
+    "dbo:notes" : [ "8,000+ killed in total" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Emirate_of_Transjordan", "http://dbpedia.org/resource/Arabian_Peninsula", "http://dbpedia.org/resource/Kuwait", "http://dbpedia.org/resource/Mandatory_Iraq" ],
+    "dbo:result" : [ "* Annexation of Asir andSaudi-Yemeni Warin 1934.", "Saudi takeover of central and northern parts of Arabia:", "* Establishment of the Kingdom ofSaudi Arabiain 1932.", "* End of theRashidiEmirate of Jabal ShammarandKingdom of Hejaz.", "* End of Ottoman presence in the Arabian Peninsula." ],
+    "dbo:strength" : [ "23,000", "38,000", "77,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Saudi_Arabia_map.png?width=300" ],
+    "dbp:caption" : [ "Present Saudi state" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:casus" : [ "The unification of most of the Arabian Peninsula into a single nation." ],
+    "dbp:date" : [ "1902" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The unification of Saudi Arabia was a military and political campaign, by which the various tribes, sheikhdoms, emirates, and kingdoms of most of the Arabian Peninsula were conquered by the House of Saud, or Al Saud, between 1902 and 1932, when the modern-day Kingdom of Saudi Arabia was proclaimed under the leadership of Ibn Saud, creating what is sometimes referred to as the Third Saudi State, to differentiate it from the Emirate of Diriyah, the First Saudi State and the Emirate of Nejd, the Second Saudi State, also House of Saud states. The Al-Saud had been in exile in British protected emirate of Kuwait since 1893 following their third episode of removal from power and dissolution of their polity, this time by the Al Rashid emirate of Ha'il. In 1902, Ibn Saud recaptured Riyadh, the Al Saud dynasty's former capital. He went on to subdue the rest of Nejd, Al-Hasa, Jebel Shammar, Asir, and Hejaz (location of the Muslim holy cities of Mecca and Medina) between 1913 and 1926. The resultant polity was named the Kingdom of Nejd and Hejaz from 1927 until it was further consolidated with Al-Hasa and Qatif into the Kingdom of Saudi Arabia in 1932."
+}, {
+  "entityIndex" : "entity28395",
+  "entityUrl" : "http://dbpedia.org/resource/Upper_Silesian_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "40,000 killed; 14,000 POW (Soviet estimate)" ],
+    "dbo:combatant" : [ "Soviet Union", "22pxNazi Germany" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ivan_Konev", "http://dbpedia.org/resource/Ferdinand_Schoerner" ],
+    "dbo:date" : [ "1945-03-31" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_of_World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Nazi_Germany", "http://dbpedia.org/resource/Province_of_Upper_Silesia" ],
+    "dbo:result" : [ "Soviet Victory" ],
+    "dbo:strength" : [ "unknown", "408,400" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Germany_1933.svg?width=300" ],
+    "dbp:caption" : [ "Russian map of the offensive" ],
+    "dbp:casualties" : [ "66801" ]
+  },
+  "text" : "The Upper Silesian Offensive was a strategically significant Soviet offensive on the Eastern Front of World War II in 1945. It was aimed at capturing the considerable industrial and natural resources located in Upper Silesia and involved forces of the 1st Ukrainian Front under Marshal Ivan Konev. Due to the importance of the region to the Germans, considerable forces were provided to Army Group Centre for its defence and the Germans were only slowly pushed back to the Czech border. Fighting for the region lasted from mid January right until the last day of the war in Europe on May 8, 1945."
+}, {
+  "entityIndex" : "entity28396",
+  "entityUrl" : "http://dbpedia.org/resource/UN_Offensive,_1950",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Douglas_MacArthur", "http://dbpedia.org/resource/Kim_Il-sung" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Korean_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_Korea" ],
+    "dbo:result" : [ "United Nationsvictory" ],
+    "dbp:date" : [ "September - October, 1950" ]
+  },
+  "text" : "The first United Nations (UN) offensive during the Korean War began on September 15, 1950, with the U.S. X Corps, under Army Maj. Gen. Edward M. Almond, making an amphibious assault at Inchon, 150 miles north from the frontlines. In the south, the Eighth U.S. Army, made up of U.S., ROK, and British forces, counterattacked the next day. The 1st Marine Air Wing provided air support for the landing at Inchon while the Fifth Air Force likewise supported the Eighth Army. On September 16, as part of a strategic bombing campaign, the FEAF bombed Pyongyang, the capital of North Korea, and Wonsan, an east coast port 80 miles north of the 38th parallel. U.S. Marines attached to X Corps captured Kimpo Air Base near Seoul on September 17. Two days later the first FEAF cargo carrier landed there, inaugurating an around-the-clock airlift of supplies, fuel, and troops. C-54s returned wounded personnel to hospitals in Japan, and C-119s airdropped supplies to front-line forces. Bad weather hindered close air support of the Eighth Army, but on the 26th the U.S. 1st Cavalry Division forged out of the Pusan Perimeter north of Taegu and within a day thrust northward to link up with 7th Infantry Division forces near Osan, 25 miles south of Seoul. Air controllers, using tactics similar to those developed in France during World War II, accompanied the advancing tank columns, supported tank commanders with aerial reconnaissance, and called in close air support missions as needed. On September 26, General Douglas MacArthur announced the recapture of Seoul, but street fighting continued for several more days. For a time in August and September 1950, before the recapture of Kimpo, all FEAF flying units had to fly from bases in Japan. The only continuously usable tactical base in Korea was Taegu (K-2), which the FEAF used as a staging field to refuel and arm tactical aircraft. On September 28 fighter-bombers returned permanently to Taegu. As US forces swept North Korean troops from South Korea, aviation engineers rebuilt the airfields, beginning with Pohang, on the east coast 50 miles northeast of Taegu. USAF flying units returned on October 7 to Pohang and to other rebuilt airfields at Kimpo, near Seoul, and at Suwon, 20 miles south of Seoul. On September 27, Truman sent a top secret National Security Council memorandum, 81/1, to MacArthur reminding MacArthur that operations north of the 38th parallel were authorized only if “at the time of such operation there was no entry into North Korea by major Soviet or Chinese Communist forces, no announcements of intended entry, nor a threat to counter our operations militarily…” On September 30, Defense Secretary George Marshall sent an eyes-only message to MacArthur instructing MacArthur “We want you to feel unhampered tactically and strategically to proceed north of the 38th parallel.” Supported by a UN resolution, President Harry S. Truman directed the U.S. Joint Chiefs of Staff to authorize pursuit of the retreating North Korean forces, and on October 9 the Eighth Army crossed the 38th parallel near Kaesong. American and South Korean forces entered the North Korean capital of Pyongyang on October 19. FEAF B-29s and B-26s continued to bomb surface transport lines and military targets in North Korea, while B-26s, F-51s, and F-80s provided close air support to ground troops. FEAF also furnished photographic reconnaissance, airlift, and air medical evacuation. For example, on October 20 the air force's troop carriers delivered 2,860 paratroopers and more than 301 tons of equipment and supplies to drop zones near Sukchon and Sunchon, 30 miles northeast of Pyongyang. The airborne troops by-passed strong defenses established by the North Koreans, and taken by surprise, the enemy troops abandoned their positions to retreat further northward. Bruce Cumings argues that the KPA's rapid withdrawal was strategic, with troops melting into the mountains from where they could launch guerrilla raids on the UN forces spread out on the coasts. Meantime, on the east coast of Korea, the ROK forces crossed the 38th parallel on October 1, and ten days later captured Wonsan. On October 26 South Korean forces reached the Yalu River at Chosan, 120 miles north of Pyongyang. Communist forces counterattacked within two days along the ROK lines near Chosan, forcing the South Koreans to retreat. The People's Republic of China had entered the conflict against the Eighth U.S. Army in Korea in the west, and the U.S. X Corps in the east. At this point, the war in Korea took on an entirely different character as the tide turned against the UN forces."
+}, {
+  "entityIndex" : "entity28397",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Constitution_vs_HMS_Guerriere",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "7 killed", "7 wounded" ],
+    "dbo:combatant" : [ "United Kingdom", "United States" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Isaac_Hull", "http://dbpedia.org/resource/James_Richard_Dacres_(1788–1853)" ],
+    "dbo:date" : [ "1812-08-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_1812" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Atlantic_Ocean" ],
+    "dbo:result" : [ "American victory" ],
+    "dbo:strength" : [ "38 guns", "44 guns", "1Frigate", "272Royal Navy SailorsandRoyal Marine infantry", "450U.S. Navy SailorsandU.S. Marine infantry", "526lb broadside", "684lb broadside" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USS_Constitution_vs_Guerriere.jpg?width=300" ],
+    "dbp:caption" : [ "USS Constitution vs HMS Guerriere by Michele Felice Cornè" ],
+    "dbp:casualties" : [ "1", "15", "78", "257" ]
+  },
+  "text" : "USS Constitution vs HMS Guerriere was a single ship action between the two ships during the War of 1812, approximately 400 miles southeast of Halifax, Nova Scotia. It took place shortly after war had broken out, and would prove to be an important victory for American morale."
+}, {
+  "entityIndex" : "entity28398",
+  "entityUrl" : "http://dbpedia.org/resource/Uzbin_Valley_ambush",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "France:", "4 wounded", "21 wounded", "10 killed,", "ANA:" ],
+    "dbo:combatant" : [ "Taliban insurgents", "22pxHezb-e-Islami Gulbuddin" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/8th_Marine_Infantry_Parachute_Regiment", "http://dbpedia.org/resource/Khalid_Farooqi", "http://dbpedia.org/resource/Régiment_de_Marche_du_Tchad", "http://dbpedia.org/resource/Omar_Khattab", "http://dbpedia.org/resource/Zabihullah_Mujahed" ],
+    "dbo:date" : [ "2008-08-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_in_Afghanistan_(2001–present)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Afghanistan", "http://dbpedia.org/resource/Surobi,_Kabul" ],
+    "dbo:result" : [ "ISAF military victory but Taliban strategic and propaganda victory" ],
+    "dbo:strength" : [ "~100 initially, with another 400 reinforcements", "~140 initially, with ~150 reinforcements" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Uzbin9b.png?width=300" ],
+    "dbp:caption" : [ "Map the districts of Kabul, with  Spēṟ Kunday marked in red." ],
+    "dbp:casualties" : [ "3", "10", "18" ]
+  },
+  "text" : "The Uzbin Valley ambush occurred when ISAF troops were ambushed by Afghan militants in eastern Afghanistan on 18 August 2008. It took place outside the village of Spēṟ Kunday, of the Surobi District of Kabul province and resulted in heavy casualties to the French ISAF contingent. A NATO report of the incident summarised that the surviving members of the Coalition forces were \"lucky to escape\" arguing that they were poorly equipped, ill-organised and faced a well-prepared enemy. However, this version was denied by the French government. Later reports claimed that until then the relative calm of the region had only been obtained by bribery, of which the French were unaware."
+}, {
+  "entityIndex" : "entity28399",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Air_Force_In_South_Korea",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_Air_Forces" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/South_Korea" ],
+    "dbo:result" : [ "Armistice 1953, North and South Korea still technically in a state of war" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Roundel_of_the_USAF.svg?width=300" ],
+    "dbp:caption" : [ "Location of USAF bases in South Korea" ],
+    "dbp:date" : [ "1950" ]
+  },
+  "text" : "The United States Air Force In South Korea is composed of units assigned to Pacific Air Forces Seventh Air Force. The mission of the personnel, equipment and aircraft is to deter, protect and defend the Republic of Korea from attack from the Democratic People's Republic of Korea (DPRK) or more commonly known as North Korea."
+}, {
+  "entityIndex" : "entity28400",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Army_Air_Forces_in_Australia",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:result" : [ "Allied victory over theEmpire of Japan(1945)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Fifth_Air_Force_-_Emblem_(World_War_II).svg?width=300" ],
+    "dbp:date" : [ "1942" ],
+    "dbp:place" : [ "Australia" ]
+  },
+  "text" : "During World War II, the United States Army Air Forces established a series of airfields in Australia for the collective defense of the country, as well as for conducting offensive operations against the Imperial Japanese Army and Navy. It was from these airports and airfields in Australia, that Fifth Air Force was able to regroup, re-equip and begin offensive operations against the Empire of Japan after the disasters in the Philippines and Dutch East Indies during 1942."
+}, {
+  "entityIndex" : "entity28401",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Army_Air_Forces_in_the_South_West_Pacific_Theatre",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/South_West_Pacific_Theatre" ],
+    "dbo:result" : [ "Allied victory over theEmpire of Japan(1945)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Fifth_Air_Force_-_Emblem_(World_War_II).svg?width=300" ],
+    "dbp:date" : [ "1942" ]
+  },
+  "text" : "During World War II, the United States Army Air Forces engaged in combat against the air, ground and naval forces of the Empire of Japan in the South West Pacific Theatre. As defined by the United States Department of War, the South West Pacific theatre included the Philippines, the Dutch East Indies (excluding Sumatra), Borneo, Australia, the Australian Territory of New Guinea (including the Bismarck Archipelago), the western part of the Solomon Islands and some neighbouring territories. The theatre took its name from the major Allied command, which was known simply as the \"South West Pacific Area\". The major USAAF combat organizations in the region was Fifth Air Force, based in Australia after the Battle of the Philippines (1941–42). From Australia, the Allied forces, led by General Douglas MacArthur, first moved north into New Guinea in 1942, then into the Netherlands East Indies in 1943, and returning to the Philippines in 1944 and 1945. Moving with the Allied ground forces, the USAAF Fifth Air Force established a series of airfields, some at existing facilities, but most were carved out of the jungle to provide tactical air support of the ground forces. In addition to the Fifth Air Force units, elements of Seventh and Thirteenth Air Force advanced into the theatre as Japanese land and naval forces were driven out of the Central and South Pacific Areas."
+}, {
+  "entityIndex" : "entity28402",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Army_Air_Forces_in_the_South_Pacific_Area",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:result" : [ "Allied victory over theEmpire of Japan(1945)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/13thaf-coloredbackground.jpg?width=300" ],
+    "dbp:date" : [ "1942" ]
+  },
+  "text" : "During World War II, the United States Army Air Forces engaged in combat against the Empire of Japan in the South Pacific Area. As defined by the War Department, this consisted of the Pacific Ocean areas which lay south of the Equator between longitude 159° East and 110° West. It included New Zealand, New Caledonia, New Hebrides, Fiji, and most of the Solomon Islands. The major USAAF combat organizations in the region was Thirteenth Air Force, which was formed in November 1942 as a command and control organization to organize many widely separated Seventh Air Force and independent units scattered in the South Pacific Area during the Solomon Islands campaign. As the war progressed, Thirteenth Air Force units moved into the South West Pacific theatre and coordinated their activities with Fifth and Seventh Air Force units in New Guinea, the Netherlands East Indies and Philippines during 1944 and 1945."
+}, {
+  "entityIndex" : "entity28403",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Army_Air_Forces_in_the_Central_Pacific_Area",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:result" : [ "Allied victory over theEmpire of Japan(1945)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Seventh_Air_Force_-_Emblem_(World_War_II).svg?width=300" ],
+    "dbp:date" : [ "1942" ]
+  },
+  "text" : "During World War II, the United States Army Air Forces engaged in combat against the Empire of Japan in the Central Pacific Area. As defined by the War Department, this consisted of most of the Pacific Ocean and its islands, excluding the Philippines, Australia, the Netherlands East Indies, the Territory of New Guinea (including the Bismarck Archipelago) the Solomon Islands and areas to the south and east of the Solomons. The initial USAAF combat organization in the region was Seventh Air Force, which was originally formed in Hawaii as the Army Air defense command for the islands. After the Pearl Harbor Attack on 7 December 1941, Seventh Air Force retained the mission of its predecessor of the defense of the Hawaiian Islands and until the closing months of the war it maintained its headquarters at Hickam Field. The command however, deployed most of its combat units to the Central Pacific. As the war progressed, some Seventh Air Force units moved into the South West Pacific theatre and coordinated their activities with Fifth and Thirteenth Air Force units in New Guinea, Netherlands East Indies and Philippines during 1944 and 1945. In 1944, Twentieth Air Force was reassigned from the China Burma India Theater to bases in the Marianas chain of islands, consisting primarily of Saipan, Tinian, and Guam. The Marianas airfields were considered as being ideal bases from which to launch B-29 Superfortress operations against Japan. The islands were about 1500 miles from Tokyo, a range which the B-29s could just about manage. Most important of all, they could be put on a direct supply line from western United States ports by ship. In September 1945, just after the Surrender of Japan, a few advance elements of Eighth Air Force arrived on Tinian and Guam. Eighth Air Force was transferred from England to be a second strategic air force in the Pacific War, with a mission to carry out B-29 attacks on the Japanese Home Islands during the planned Invasion of Japan beginning in November 1945. These advance units were reassigned to other stations in December 1945. Seventh Air Force operations focused on supporting Army and Naval forces in the tactical campaigns against Japanese forces in the Central Pacific, while Twentieth Air Force performed strategic bombing missions directly against the Japanese home islands."
+}, {
+  "entityIndex" : "entity28404",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Army_Air_Forces_in_Okinawa",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:result" : [ "Allied victory over theEmpire of Japan(1945)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Fifth_Air_Force_-_Emblem_(World_War_II).svg?width=300" ],
+    "dbp:caption" : [ "--12-31" ],
+    "dbp:date" : [ "1945" ]
+  },
+  "text" : "The Battle of Okinawa was the last major ground battle between the armed forces of the Empire of Japan and the United States of the Pacific War. United States Army and United States Marine Corps ground forces landed on the island on 1 April 1945 at 08:30 am. The Battle of Okinawa lasted 83 days until 22 June, when the island was declared secured. The defense of the island was divided into three strong Japanese lines where hidden guns, machine guns and bunkers covered approaches and fields. Soldiers on the ground fought a grueling battle to occupy the island. The United States Navy and its support ships were larger in numbers than those at Normandy in June 1944, and were attacked repeatedly by Japanese kamikaze aircraft, sinking and damaging a significant number of vessels. It was a battle in which more than 12,000 American and 70,000 Japanese soldiers lost their lives. In addition, it is estimated that between 100,000 and 150,000 Okinawan civilians were also killed during the battle."
+}, {
+  "entityIndex" : "entity28405",
+  "entityUrl" : "http://dbpedia.org/resource/U-boat_Campaign_(World_War_I)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "104 warships sunk", "15,000 merchant sailors killed", "42 warships damaged", "5,000 merchant ships sunk", "61 Q-ships sunk" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Fisher,_1st_Baron_Fisher", "http://dbpedia.org/resource/John_Jellicoe,_1st_Earl_Jellicoe", "http://dbpedia.org/resource/Hugo_von_Pohl", "http://dbpedia.org/resource/Rosslyn_Wemyss,_1st_Baron_Wester_Wemyss", "http://dbpedia.org/resource/Henry_Jackson_(Royal_Navy_officer)", "http://dbpedia.org/resource/Reinhard_Scheer", "http://dbpedia.org/resource/Henning_von_Holtzendorff", "http://dbpedia.org/resource/Gustav_Bachmann" ],
+    "dbo:date" : [ "1914-07-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Naval_warfare_of_World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Black_Sea", "http://dbpedia.org/resource/Mediterranean_Sea", "http://dbpedia.org/resource/North_Sea" ],
+    "dbo:result" : [ "Allied Victory" ],
+    "dbo:strength" : [ "351 U-boats", "366Q-ships", "? surface vessels" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/U20lusitania.jpg?width=300" ],
+    "dbp:caption" : [ "A German postcard depicting the U-boat SM U-20 sinking RMS Lusitania" ],
+    "dbp:casualties" : [ "217", "5000" ]
+  },
+  "text" : "The U-boat Campaign from 1914 to 1918 was the World War I naval campaign fought by German U-boats against the trade routes of the Allies. It took place largely in the seas around the British Isles and in the Mediterranean.The German Empire relied on imports for food and domestic food production (especially fertilizer) and the United Kingdom relied heavily on imports to feed its population, and both required raw materials to supply their war industry; the powers aimed, therefore, to blockade one another. The British had the Royal Navy which was superior in numbers and could operate on most of the world's oceans because of the British Empire, whereas the Imperial German Navy surface fleet was mainly restricted to the German Bight, and used commerce raiders and unrestricted submarine warfare to operate elsewhere. In the course of events, German U-boats sank almost 5,000 ships with nearly 13 million gross register ton, losing 178 boats and about 5,000 men in combat."
+}, {
+  "entityIndex" : "entity28406",
+  "entityUrl" : "http://dbpedia.org/resource/Uruguayan_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*", "Argentina", "Colorado Party", "Empire of Brazil", "Unitarian Party", "Uruguay", "(tacit involvement)", "Blanco Party", "Federalist Party" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pedro_II_of_Brazil", "http://dbpedia.org/resource/Bartolomé_Mitre", "http://dbpedia.org/resource/Atanasio_Aguirre", "http://dbpedia.org/resource/Venancio_Flores", "http://dbpedia.org/resource/Joaquim_Marques_Lisboa,_Marquis_of_Tamandaré", "http://dbpedia.org/resource/Bernardo_Berro", "http://dbpedia.org/resource/Leandro_Gómez", "http://dbpedia.org/resource/Basilio_Muñoz", "http://dbpedia.org/resource/João_Propício_Mena_Barreto,_2nd_Baron_of_São_Gabriel" ],
+    "dbo:date" : [ "1864-08-10", "1865-02-20" ],
+    "dbo:result" : [ "Brazilian–Colorado victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Campagne_de_l'Uruguay,_prise_de_Paysandu._—_D'après_un_croquis_de_notre_correspondant_spécial.jpg?width=300" ],
+    "dbp:caption" : [ "The Siege of Paysandú as portrayed by L'Illustration newspaper, 1865." ],
+    "dbp:place" : [ "* Uruguay" ]
+  },
+  "text" : "The Uruguayan War (10 August 1864 – 20 February 1865) was fought between Uruguay's governing Blanco Party and an alliance consisting of the Empire of Brazil and the Uruguayan Colorado Party, covertly supported by Argentina. Since its independence, Uruguay had been ravaged by intermittent struggles between the Colorado and Blanco factions, each attempting to seize and maintain power in turn. The Colorado leader Venancio Flores launched the Liberating Crusade in 1863, an insurrection aimed at toppling Bernardo Berro, who presided over a Colorado–Blanco coalition (Fusionist) government. Flores was aided by Argentina, whose president Bartolomé Mitre provided him with supplies, Argentine volunteers and river transport for troops. The Fusionism movement collapsed as the Colorados abandoned the coalition to join Flores' ranks. The Uruguayan civil war quickly escalated, developing into a crisis of international scope that destabilized the entire region. Even before the Colorado rebellion, the Blancos within Fusionism had sought an alliance with Paraguayan dictator Francisco Solano López. Berro's now purely Blanco government also received support from Argentine Federalists, who opposed Mitre and his Unitarians. The situation deteriorated as the Empire of Brazil was drawn into the conflict. Almost one fifth of the Uruguayan population were considered Brazilian. Some joined Flores' rebellion, spurred by discontent with Blanco government policies that they regarded as harmful to their interests. Brazil eventually decided to intervene in the Uruguayan affair to reestablish the security of its southern frontiers and its regional ascendancy. In April 1864, Brazil sent Minister Plenipotentiary José Antônio Saraiva to negotiate with Atanasio Aguirre, who had succeeded Berro in Uruguay. Saraiva made an initial attempt to settle the dispute between Blancos and Colorados. Faced with Aguirre's intransigence regarding Flores' demands, the Brazilian diplomat abandoned the effort and sided with the Colorados. On 10 August 1864, after a Brazilian ultimatum was refused, Saraiva declared that Brazil's military would begin exacting reprisals. Brazil declined to acknowledge a formal state of war, and for most of its duration, the Uruguayan–Brazilian armed conflict was an undeclared war. In a combined offensive against Blanco strongholds, the Brazilian–Colorado troops advanced through Uruguayan territory, taking one town after another. Eventually the Blancos were left isolated in Montevideo, the national capital. Faced with certain defeat, the Blanco government capitulated on 20 February 1865. The short-lived war would have been regarded as an outstanding success for Brazilian and Argentine interests, had Paraguayan intervention in support of the Blancos (with attacks upon Brazilian and Argentine provinces) not led to the long and costly Paraguayan War."
+}, {
+  "entityIndex" : "entity28407",
+  "entityUrl" : "http://dbpedia.org/resource/Uprising_of_the_Five_Barbarians",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Jin dynasty", "rebels of various ethnicities including theFive Barbarians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Liu_Cong_(Han_Zhao)", "http://dbpedia.org/resource/Sima_Yue", "http://dbpedia.org/resource/Liu_Yuan_(Han_Zhao)", "http://dbpedia.org/resource/Shi_Le" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_China" ],
+    "dbo:result" : [ "rebel victory; Fall of theWestern Jin dynasty; Formation of theEastern Jin dynasty" ],
+    "dbo:strength" : [ "100,000-200,000", "c.100,000" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:date" : [ "304" ],
+    "dbp:l" : [ "Five Barbarians throw China into disorder" ],
+    "dbp:p" : [ "Wǔhú luànhuá" ],
+    "dbp:s" : [ "五胡乱华" ],
+    "dbp:t" : [ "五胡亂華" ],
+    "dbp:territorialChanges" : [ "North China fragments into the Sixteen Kingdoms" ]
+  },
+  "text" : "The Uprising of the Five Barbarians (simplified Chinese: 五胡乱华; traditional Chinese: 五胡亂華; pinyin: Wǔhú luànhuá; literally: \"Five Barbarians throw China into disorder\") refers to a series of uprisings between 304 and 316 by non-Han Chinese peoples living in North China against the Jin dynasty (265–420). The uprisings helped topple Emperor Huai of Jin in Luoyang and ended the Western Jin dynasty. Rulers from five minority ethnic groups, the Xiongnu, Xianbei, Jie, Qiang and Di, then established a series of independent kingdoms in northern China. This period of Chinese history, known as the Sixteen Kingdoms, (五胡十六國, 'sixteen kingdoms of the five barbarians'), lasted until the Northern Wei dynasty united northern China in the 5th century."
+}, {
+  "entityIndex" : "entity28408",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Constellation_vs_L'Insurgente",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2 killed", "2 wounded" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Thomas_Truxtun", "http://dbpedia.org/resource/Michel-Pierre_Barreaut" ],
+    "dbo:date" : [ "1799-02-09" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Quasi-War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Nevis" ],
+    "dbo:result" : [ "American victory" ],
+    "dbo:strength" : [ "1frigate", "1 frigate" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USSConstellationVsInsurgente.jpg?width=300" ],
+    "dbp:caption" : [ "USS Constellation engaging the French frigate L'Insurgente" ],
+    "dbp:casualties" : [ "1", "29", "41" ]
+  },
+  "text" : "The USS Constellation vs L'Insurgente, or the Action of 9 February 1799, was a single-ship action fought between frigates of the French Navy and the United States Navy during the Quasi-War. The battle resulted in the USS Constellation's capture of L'Insurgente. The previous year, an undeclared war had begun between the United States and France due to French privateering attacks against American vessels. An American squadron under Commodore Thomas Truxtun had been sent to patrol the waters between Puerto Rico and Saint Kitts with orders to engage any French forces they found in the area. While Truxtun was sailing independently of his squadron in the Constellation, his flagship, he met and engaged L'Insurgente. After chasing the French ship through a storm, Constellation was able to force L'Insurgente into an engagement that lasted an hour and fourteen minutes before the French frigate surrendered. The French sustained heavy casualties in the action, while the numbers of American dead and wounded were low. After the action L'Insurgente was taken to Saint Kitts and commissioned into the United States Navy as USS Insurgent. With this and later victories, American morale soared, and Truxtun returned home to honor and praise from the American government and the public at large."
+}, {
+  "entityIndex" : "entity28409",
+  "entityUrl" : "http://dbpedia.org/resource/Uruzgan_helicopter_attack",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "2010-02-21" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Afghanistan", "http://dbpedia.org/resource/Orūzgān_Province" ],
+    "dbo:result" : [ "27–33 civilians killed including four women and one child, another 12 wounded" ]
+  },
+  "text" : "Uruzgan helicopter attack refers to the killing of a large number of Afghan civilians including four women and one child, another 12 were wounded. The attack took place on February 21, 2010 near the border between Uruzgan and Daykundi province in Afghanistan when special operation troops helicopters attacked three minibuses with \"airborne weapons\"."
+}, {
+  "entityIndex" : "entity28410",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Stark_incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 frigate damaged", "37 killed", "21 wounded" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Glenn_R._Brindel" ],
+    "dbo:date" : [ "1987-05-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Iran–Iraq_War", "http://dbpedia.org/resource/Tanker_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Persian_Gulf", "http://dbpedia.org/resource/Saudi_Arabia" ],
+    "dbo:result" : [ "United States frigate severely damaged by Iraqi aircraft" ],
+    "dbo:strength" : [ "Air:", "Sea:", "1frigate", "1aircraft" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USS_Stark.jpg?width=300" ],
+    "dbp:caption" : [ "listing after being struck by two Iraqi Exocet missiles in 1987." ],
+    "dbp:casualties" : [ "None" ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:units" : [ "Iraqi Armed Forces" ]
+  },
+  "text" : "The USS Stark incident occurred during the Iran–Iraq War on 17 May 1987, when an Iraqi jet aircraft fired missiles at the American frigate USS Stark. Thirty-seven United States Navy personnel were killed and twenty-one were wounded."
+}, {
+  "entityIndex" : "entity28411",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Monocacy_incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 killed", "1 gunboat damaged", "2 wounded" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Harvey_Delano" ],
+    "dbo:date" : [ "1918-01-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Yangtze_Patrol" ],
+    "dbo:notes" : [ "*One Japanese merchant ship was fired on during the action." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Yangtze_River", "http://dbpedia.org/resource/Chenglin,_China" ],
+    "dbo:result" : [ "United States victory" ],
+    "dbo:strength" : [ "1gunboat", "~200infantry" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USS_Monocacy_in_1928.jpg?width=300" ],
+    "dbp:caption" : [ "USS Monocacy in 1928." ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:commander" : [ "unknown" ]
+  },
+  "text" : "The USS Monocacy incident was an attack on the American gunboat Monocacy in January 1918 by Chinese soldiers along the Yangtze River. It was one of many incidents at the time involving armed Chinese firing on foreign vessels."
+}, {
+  "entityIndex" : "entity28412",
+  "entityUrl" : "http://dbpedia.org/resource/Umayyad_invasion_of_Gaul",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Visigoths", "Umayyad Caliphate", "Andalusi commanders(as of 750)", "AquitaniansGascons (Basques)", "Septimania" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Waifer_of_Aquitaine", "http://dbpedia.org/resource/Yusuf_ibn_'Abd_al-Rahman_al-Fihri", "http://dbpedia.org/resource/Al-Samh_ibn_Malik_al-Khawlani", "http://dbpedia.org/resource/Maurontus", "http://dbpedia.org/resource/Odo_of_Aquitaine", "http://dbpedia.org/resource/Abdul_Rahman_Al_Ghafiqi", "http://dbpedia.org/resource/Ardo", "http://dbpedia.org/resource/Ansemund", "http://dbpedia.org/resource/Hunald_of_Aquitaine" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Muslim_Conquest" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Gaul" ],
+    "dbo:result" : [ "*Permanent Arab-Berber retreat to Iberia", "Frankish victory:" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Steuben_-_Bataille_de_Poitiers.png?width=300" ],
+    "dbp:caption" : [ "The Battle of Tours in 732, depicts a triumphant Charles Martel  facing Abdul Rahman Al Ghafiqi  at the Battle of Tours. Painting  by Charles de Steuben." ],
+    "dbp:combatant" : [ "http://dbpedia.org/resource/Kingdom_of_the_Lombards", "http://dbpedia.org/resource/Kingdom_of_the_Franks" ],
+    "dbp:commander" : [ "http://dbpedia.org/resource/Charles_Martel", "Childebrand", "Liutprand", "Pepin the Short" ],
+    "dbp:date" : [ "719" ],
+    "dbp:territory" : [ "Francia conquers Septimania" ]
+  },
+  "text" : "The Umayyad invasion of Gaul followed the Umayyad conquest of Hispania spearheaded by the North African commander Tariq ibn Ziyad in 711. During the 8th century, Muslim Umayyad armies conquered the region of Septimania, the last remnant of the Visigothic Kingdom. The Umayyad advance was stopped at the Battle of Toulouse in 721, but they sporadically raided Southern Gaul as far as Avignon, Lyon, and Autun. After the 732 Battle of Tours-Poitiers, the Franks checked Aquitanian sovereignty, and reasserted their authority over Burgundy, but only later in 759 did they manage to take the Mediterranean region of Septimania, due to Andalusi neglect and local Gothic disaffection."
+}, {
+  "entityIndex" : "entity28413",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Navy_operations_during_World_War_I",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "431 killed", "819 wounded" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/William_S._Sims", "http://dbpedia.org/resource/Reinhard_Scheer", "http://dbpedia.org/resource/Austin_M._Knight", "http://dbpedia.org/resource/Hugh_Rodman", "http://dbpedia.org/resource/Franz_von_Hipper" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Naval_warfare_of_World_War_I", "http://dbpedia.org/resource/World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Atlantic_Ocean", "http://dbpedia.org/resource/Mediterranean_Sea", "http://dbpedia.org/resource/Pacific_Ocean" ],
+    "dbo:result" : [ "United States victory, Central Powers defeated in World War I." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Uss_San_Diego_sinking.jpg?width=300" ],
+    "dbp:caption" : [ "\"The Sinking of USS San Diego\" by Francis Muller." ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:date" : [ "1917" ]
+  },
+  "text" : "United States Navy operations during World War I began on April 6, 1917, after the formal declaration of war on the German Empire. The American navy focused on countering enemy U-boats in the Atlantic Ocean and the Mediterranean Sea, while convoying men and supplies to France and Italy. Because of United States' late entry into the war, her capital ships never engaged the German fleet, and few decisive submarine actions occurred."
+}, {
+  "entityIndex" : "entity28414",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Constellation_vs_La_Vengeance",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "25 wounded", "14 dead", "1 frigate lightly damaged" ],
+    "dbo:combatant" : [ "France" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Thomas_Truxton" ],
+    "dbo:date" : [ "1800-02-02" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Quasi-War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Saint_Kitts" ],
+    "dbo:result" : [ "American Victory" ],
+    "dbo:strength" : [ "1frigate" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/ConstellationVengeance.jpg?width=300" ],
+    "dbp:caption" : [ "USS Constellation engaging the French frigate La Vengeance" ],
+    "dbp:casualties" : [ "1", "28", "110" ],
+    "dbp:commander" : [ "François Marie Pitot" ]
+  },
+  "text" : "The USS Constellation vs La Vengeance, or the Action of 1 February 1800, was a single-ship action fought between frigates of the French Navy and the United States Navy during the Quasi-War. The battle resulted in the American frigate USS Constellation severely damaging the French frigate La Vengeance and forcing her to flee. In 1798, an undeclared war had begun between the United States and France due to French seizures of American merchantmen. As part of an American effort to deter French attacks, Commodore Thomas Truxton led an American naval squadron that was dispatched to the Lesser Antilles. Learning that regular French naval forces were in the region, Truxton set out in his flagship Constellation and sailed to Guadeloupe to engage them. On 1 February 1800, while nearing the French colony, Constellation met François Marie Pitot's frigate La Vengeance of the French Navy. Despite Pitot's attempts to flee, his frigate was drawn into a heavy engagement with Constellation. Although the French frigate struck her colors (surrendered) twice, Constellation was unable to take La Vengeance as a prize. Eventually Pitot was able to escape with his frigate to Curaçao, though only after sustaining severe casualties and damage to his vessel. Truxton's ship sustained light damage and sailed to Jamaica for repairs before returning home to a hero's welcome."
+}, {
+  "entityIndex" : "entity28415",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Essex_vs_HMS_Alert",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "United Kingdom", "United States" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/David_Porter_(naval_officer)", "http://dbpedia.org/resource/T.L.P._Laugharne" ],
+    "dbo:date" : [ "1812-08-13" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_1812" ],
+    "dbo:result" : [ "American victory" ],
+    "dbo:strength" : [ "1Frigate(36 guns)", "1Sloop(20 guns)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Uss_essex.jpg?width=300" ],
+    "dbp:campaignbox" : [ "Naval" ],
+    "dbp:caption" : [ "USS Essex captures HMS Alert" ],
+    "dbp:casualties" : [ "1" ],
+    "dbp:place" : [ "Atlantic" ]
+  },
+  "text" : "A naval engagement between USS Essex and HMS Alert took place on 13 August 1812, in which the light frigate, USS Essex, 32 (commanded by Capt. David Porter, USN) encountered and captured the British sloop Alert, 20 (Captain T.L.P. Laugharne). With \"so trifling a skirmish\" Porter later said, Alert became the first American capture of the war. The duel itself lasted a mere eight minutes, during which Essex fired only one broadside. Porter kept his gunports closed making Laugharne believe that Essex was a merchantman. This gave confidence to Laugharne in maneuvering his ship within pistol shot range of Essex, which in turn ran out her carronades and devastated Alert. In keeping with the chivalrous practice of the times, Porter then allowed Laugharne to sail his ship to Newfoundland so he could disembark his crew, after which he was honor-bound to surrender the Alert to American authorities in New York. Alert remained in United States service until 1829. A shipment of 3rd pattern Brown Bess sea service muskets was found aboard Alert, which went towards arming the American Marines at the Washington and Boston Navy Yards. They were preferred for their larger caliber, longer bayonets and shorter barrels."
+}, {
+  "entityIndex" : "entity28416",
+  "entityUrl" : "http://dbpedia.org/resource/Urdu_Bazar_Revolt",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "TimuridsofSamarkand", "TimuridsofKhurasan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abdal-Latif_Mirza", "http://dbpedia.org/resource/Abul-Qasim_Babur_Mirza", "http://dbpedia.org/resource/Goharshad" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Timurid_Civil_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Iran" ],
+    "dbo:result" : [ "Beginning of Confrontation between House of Ulugh Beg and House of Baysonqor" ],
+    "dbp:date" : [ "1447" ]
+  },
+  "text" : "After the death of Shahrukh Mirza, Goharshad allowed Abdal-Latif Mirza to be the commander of his army despite reservations of the Tarkhans as well as the reservations of Baysonqor Mirza's sons, especially Abul-Qasim Babur Mirza who was present there at the camp. Goharshad wanted to please Ulugh Beg but at the same time encouraged the Baysonqor brothers to rebel. She contacted Ala-ud-Daulah Mirza at Herat conveying her sentiments. Therefore, Abul-Qasim Babur Mirza along with Khalil Sultan, son of Muhammad Jahangir & a daughter of Shahrukh Mirza along with their troops raided the Urdu Bazar or Camp Market and went of towards Ala-ud-Daulah Mirza at Herat. As soon as Abdal-Latif Mirza got his army in order after several executions he marched towards Damghan and on his way imprisoned Goharshad his grandmother and the Tarkhans."
+}, {
+  "entityIndex" : "entity28417",
+  "entityUrl" : "http://dbpedia.org/resource/Urla_Clashes",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Greece", "Kuva-yi Milliye" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Lieutenant_colonel" ],
+    "dbo:date" : [ "1919-05-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Greco-Turkish_War_(1919-1922)" ],
+    "dbo:notes" : [ "1: 173.regimentcommander, 2: 173. regiment soldiers" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Urla,_İzmir" ],
+    "dbo:result" : [ "Greek victory. Greek army enters Urla" ],
+    "dbo:strength" : [ "120militiamen", "2 Greek armycompanies", "25 soldiers and gendarmeries", "800 irregular Greeks" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Greek_occupation_troops_transferred_from_Smyrna.jpg?width=300" ],
+    "dbp:caption" : [ "Greek soldiers disembarking in Smyrna" ]
+  },
+  "text" : "Urla Clashes were a series of clashes in Urla (now a district center of İzmir Province, Turkey) during the Greco-Turkish War (1919–1922). After the Greek landing at İzmir, the Greek army advanced and occupied Bornova and Karşıyaka. After that it advanced to the Karaburun Peninsula where Urla was situated. According to the population statistics from 1914, the region had a Greek majority (24,711), with a minority of Turks (9,321)."
+}, {
+  "entityIndex" : "entity28418",
+  "entityUrl" : "http://dbpedia.org/resource/Uprising_in_Serbia_(1941)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Partisans", "Nazi Germany", "Chetniks(September - October)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Paul_Bader", "http://dbpedia.org/resource/Josip_Broz_Tito", "http://dbpedia.org/resource/Aleksandar_Ranković", "http://dbpedia.org/resource/Dragutin_Keserović", "http://dbpedia.org/resource/Draža_Mihailović", "http://dbpedia.org/resource/Heinrich_Danckelmann", "http://dbpedia.org/resource/Dragoslav_Račić", "http://dbpedia.org/resource/Kosta_Pećanac", "http://dbpedia.org/resource/Koča_Popović", "http://dbpedia.org/resource/Miloš_Minić", "http://dbpedia.org/resource/Milan_Nedić", "http://dbpedia.org/resource/Franz_Böhme" ],
+    "dbo:date" : [ "1941-11-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II_in_Yugoslavia" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Territory_of_the_Military_Commander_in_Serbia" ],
+    "dbo:result" : [ "Uprising suppressed" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Diverzija_u_Srbiji_1941.jpg?width=300" ],
+    "dbp:caption" : [ "Destroyed German train in Serbia, 1941" ]
+  },
+  "text" : "The Uprising in Serbia was initiated in July 1941 by the Communist Party of Yugoslavia against the German occupation forces and their Serbian quisling auxiliaries in the Territory of the Military Commander in Serbia. At first the Yugoslav Partisans had mounted diversions and conducted sabotage and had attacked representatives of Aćimović's quisling administration. In late August some Chetniks joined the uprising and liberated Loznica. The uprising soon reached mass proportions. Partisans and Chetniks captured towns that weak German garrisons had abandoned. The armed uprising soon engulfed great parts of the occupied territory. The largest liberated territory in occupied Europe was created by the Partisans in western Serbia, and was known as the Republic of Užice. Rebels shared power on the liberated territory; the center of the Partisan liberated territory was in Užice, and Chetniks had their headquarters on Ravna Gora. As the uprising progressed, the ideological rift between the two factions became more and more obvious. On one side were the Chetnik detachments who considered themselves loyal to the royal government in exile and fought for the restoration of pre-war order. On the other side were members of the Peoples Liberation Army of Yugoslavia who favored the introduction of socialism and the post-war reorganization of Yugoslavia on federal basis. The Chetnik leader Dragoljub Mihailović abandoned the uprising in late October and entered into negotiations with the quisling government and the Germans in order to destroy the rival Partisans. The Germans soon gathered a large force and quelled the uprising using mass terror, but the remaining Partisan forces crossed into Bosnia, where they formed the 1st Proletarian Brigade. After the collapse of the uprising, Territory of the Military Commander was largely pacified until the return of the Partisans and the Belgrade Offensive in second half of 1944. Meanwhile, the Chetniks became even more reluctant to fight against Germans, and engaged in anti-Partisan operations and open collaboration. Nevertheless, Mihailovic was able to establish itself as the sole legitimate representative of the Yugoslav government in exile, who ordered that all resistance forces should fight under his command."
+}, {
+  "entityIndex" : "entity28419",
+  "entityUrl" : "http://dbpedia.org/resource/United_States_Army_Border_Air_Patrol",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Mexican_Revolution", "http://dbpedia.org/resource/Border_War_(1910-1918)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/12th_Aero_Squadron_US_Cavalry.jpg?width=300" ],
+    "dbp:caption" : [ "12" ],
+    "dbp:date" : [ "June 1919 – July 1921" ],
+    "dbp:place" : [ "United States/Mexico Border" ],
+    "dbp:units" : [ "15", "Villistas" ]
+  },
+  "text" : "With the end of World War I in 1918, the Air Service, United States Army was largely demobilized. During the demobilization period of 1919, the Regular Army and its air arm answered a call to defend the southern border against raids from Mexico, and to halt smuggling of illegal aliens and narcotics into the United States and weapons from the United States into Mexico."
+}, {
+  "entityIndex" : "entity28420",
+  "entityUrl" : "http://dbpedia.org/resource/Uzbek_invasion_of_Khorasan_(1578)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Jalal khan Uzbek", "Mohammed Khodabanda", "Saffavid", "Shaybanids" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Jalal_khan_Uzbek", "http://dbpedia.org/resource/Mortaza_Gholi_Khan_Parnak_Turkaman" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Shaybanids", "http://dbpedia.org/resource/Greater_Khorasan" ],
+    "dbo:result" : [ "Safavid victory" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Greater_Khorasan" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Safavid_Flag.svg?width=300" ],
+    "dbp:date" : [ "1578" ],
+    "dbp:partof" : [ "Uzbeks invasion to North-east of Iran" ]
+  },
+  "text" : "Uzbeks invasion to Khorasan took place in 1578. Jalal khan Uzbek (governor of Merv) led the Uzbek's troops. Tahmasp I guaranteed to pay 300 Tomans to Uzbeks to satisfy them not to invade bondmen and nomads of Khorasan. The tribute didn't pay after Tahmasp I death, so that Jalal khan Uzbek raided to Khorasan. Jalal khan Uzbek and Mortaza Gholi Khan Parnak Turkaman battled harshly. The Jalal khan Uzbek's head was cut off and Uzbek's pulled back to their territory."
+}, {
+  "entityIndex" : "entity28421",
+  "entityUrl" : "http://dbpedia.org/resource/Uprising_in_Montenegro",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "* 879 released from captivity during Italian counteroffensive", "* more than 2,000 Italian soldiers killed or captured" ],
+    "dbo:combatant" : [ "*", "----", "Royal Yugoslav Army", "Whites", "Albania", "20pxMuslim militia", "Chetnik Insurgents", "Communist Party of Yugoslavia", "Montenegrin villagers", "former", "officers" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ivan_Milutinović", "http://dbpedia.org/resource/Milovan_Đilas", "http://dbpedia.org/resource/Moša_Pijade", "http://dbpedia.org/resource/Arso_Jovanović", "http://dbpedia.org/resource/Pavle_Đurišić", "http://dbpedia.org/resource/Alessandro_Pirzio_Biroli", "http://dbpedia.org/resource/Peko_Dapčević", "http://dbpedia.org/resource/Bajo_Stanišić", "http://dbpedia.org/resource/Osman_Rastoder", "http://dbpedia.org/resource/Prenk_Cali", "http://dbpedia.org/resource/Đorđije_Lašić", "http://dbpedia.org/resource/Jovo_Kapičić", "http://dbpedia.org/resource/Luigi_Mentasti" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II_in_Yugoslavia" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Albania_under_Italy", "http://dbpedia.org/resource/Italian_governorate_of_Montenegro" ],
+    "dbo:result" : [ "* Uprising was suppressed within six weeks, but continued at a much lower level until December 1941" ],
+    "dbo:strength" : [ "*", "32,000 people according to Yugoslav sources", "*Vulnetariand Muslim and Albanian irregular forces from border areas — around 20,000", "Unknown number", "over 70,000 Italian troops" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kingdom_of_Montenegro_(1941-1944).png?width=300" ],
+    "dbp:caption" : [ "The proposed Italian puppet state Kingdom of Montenegro" ],
+    "dbp:casualties" : [ "5000", "Civilian casualties:" ],
+    "dbp:date" : [ "--07-13" ],
+    "dbp:units" : [ "20", "http://dbpedia.org/resource/18th_Infantry_Division_Messina", "http://dbpedia.org/resource/22nd_Infantry_Division_Cacciatori_delle_Alpi", "http://dbpedia.org/resource/38th_Infantry_Division_Puglie", "http://dbpedia.org/resource/48th_Infantry_Division_Taro", "http://dbpedia.org/resource/Gusinje", "http://dbpedia.org/resource/Plav,_Montenegro", "http://dbpedia.org/resource/19th_Infantry_Division_Venezia", "http://dbpedia.org/resource/Vermosh", "http://dbpedia.org/resource/5th_Alpine_Division_Pusteria", "http://dbpedia.org/resource/Border_guard", "http://dbpedia.org/resource/Sandžak", "http://dbpedia.org/resource/Sandžak_Muslim_militia", "http://dbpedia.org/resource/Blackshirts", "http://dbpedia.org/resource/Skanderbeg_(military_unit)", "http://dbpedia.org/resource/List_of_units_of_the_Italian_Army", "*", ",", "Two", "and", "from", "* Vulnetari from Đakovica", "Battalions", "I group of", "Irregular forces from", "Legions" ]
+  },
+  "text" : "The Uprising in Montenegro (Montenegrin: Ustanak u Crnoj Gori), commonly known as the 13 July Uprising (Montenegrin: Trinaestojulski ustanak) was an uprising against Italian occupation forces in Montenegro (Axis occupied Yugoslavia). Initiated by the Communist Party of Yugoslavia on 13 July 1941, it was suppressed within six weeks, but continued at a much lower intensity until December 1941. The insurgents were led by a combination of communists and former Royal Yugoslav Army officers from Montenegro. Some of the officers had recently been released from prisoner-of-war camps following their capture during the invasion of Yugoslavia. The communists managed the organisation and provided political commissars, while the insurgent military forces were led by former officers. The entire nation rejected the privileged position offered by its occupiers, rejected the capitulation in order to fight for Yugoslavia, together with \"Russia\" (the nationalist insurgents perceived the Soviet Union as Russia at the beginning of the uprising). Within three weeks of the start of the uprising, the insurgents managed to capture almost all the territory of Montenegro. The Italian troops were forced to retreat to their strongholds in Pljevlja, Nikšić, Cetinje and Podgorica. The main commanders included the former officers Colonel Bajo Stanišić and Major Đorđije Lašić, with Captain Pavle Đurišić emerging as one of the principal leaders after he distinguished himself during the successful attack he led on Berane alongside communist forces. The counter-offensive by more than 70,000 Italian troops, commanded by General Alessandro Pirzio Biroli, was assisted by Sandžak Muslim militia and Albanian irregular forces from border areas between Montenegro and Albania, and suppressed the uprising within six weeks. The former Royal Yugoslav Army officers and communists were in dispute over the insurgent's strategy. The nationalists wanted to protect the mountain villages if they were attacked. The communists disagreed and organized a frontal struggle against Italian forces in which the rebel forces were defeated. A split occurred between the insurgents because of their defeats, which were inflicted by the Italians, and because some of the insurgents realized that the uprising was led by the communists. Josip Broz Tito dismissed Milovan Đilas from the command of Partisan forces in Montenegro because of his mistakes during the uprising, particularly because Đilas chose a frontal struggle instead of guerrilla tactics against the Italian forces. After the major defeat of 1 December 1941 during the unsuccessful attack of the communist forces on the Italian garrison in Pljevlja, many soldiers deserted Partisan forces and joined the Chetniks. Following this defeat, the communists terrorized the people they perceived as their enemies, which antagonized many in Montenegro. The defeat of the communist forces in Pljevlja, combined with the policy of terror they pursued, were the main reasons for the expansion of the conflict between the communist and nationalist insurgents in Montenegro following the uprising. In the second half of December 1941, nationalist military officers Đurišić and Lašić began a mobilization of armed units separate from the Partisans. In early March 1942, Đurišić arranged one of the first collaboration agreements between the Italians and the Chetniks. This agreement was between Đurišić and Pirzio-Biroli, and related to the area of operations of the 19th Infantry Division Venezia. In May 1942, Đurišić attacked and defeated the last significant Partisan detachment in Montenegro. Based on agreements signed by the Italians with Đurišić and other Chetnik leaders, the Italian occupation in Montenegro was then effectively reduced to towns while Chetniks remained in control of the rest of the territory of Montenegro. In the second quarter of 1942, a joint Italian-Chetnik offensive resulted in the withdrawal of the remaining Partisan forces from Montenegro."
+}, {
+  "entityIndex" : "entity28422",
+  "entityUrl" : "http://dbpedia.org/resource/Unification_of_Hawaii",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Hilo District", "Ka'u District", "Kingdom of Hawai'i", "Kingdom ofKauai", "Kingdom ofMaui", "Kingdom ofO'ahu", "Kohala District" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Keawe-a-Heulu", "http://dbpedia.org/resource/Kalanikupule", "http://dbpedia.org/resource/Kiwala'o", "http://dbpedia.org/resource/Isaac_Davis_(Hawaii)", "http://dbpedia.org/resource/Kamehameha_I", "http://dbpedia.org/resource/Keawemauhili", "http://dbpedia.org/resource/John_Young_(Hawaii)", "http://dbpedia.org/resource/Kame'eiamoku", "http://dbpedia.org/resource/Keliimaikai", "http://dbpedia.org/resource/Kahekili_II", "http://dbpedia.org/resource/Keeaumoku_II", "http://dbpedia.org/resource/Keeaumoku_Papaiahiahi", "http://dbpedia.org/resource/Kamakahelei", "http://dbpedia.org/resource/Kamanawa", "http://dbpedia.org/resource/Kaumuali'i", "http://dbpedia.org/resource/Keoua_Kuahuula" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Hawaiian_Islands" ],
+    "dbo:result" : [ "* Consolidation of power ofHawai'i", "* Creation of theKingdom of Hawai'i", "*Kaua'ibecomes Vassel of Kamehameha", "Kamehameha IVictory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kanaka_Maoli_flag.svg?width=300" ],
+    "dbp:battles" : [ "* Mokuōhai" ],
+    "dbp:caption" : [ "Flag supposedly flown by Kamehameha's forces." ],
+    "dbp:commander" : [ "Kahahana" ],
+    "dbp:date" : [ "1782" ],
+    "dbp:listclass" : [ "hlist" ],
+    "dbp:name" : [ "Campaignbox Hawaii" ],
+    "dbp:title" : [ "Unification of Hawaiʻi" ]
+  },
+  "text" : "The Unification of Hawai'i (1782–1810) was a civil war in the Hawai'ian Islands over control of the entire island chain. At the time of European contact, the islands were divided amongst competing Ali'i, or high chiefs. The Island Hawai'i was divided into several districts, Moloka'i, Lana'i, and Kaho'olawe were united under Maui, O'ahu was independent, and Kauai ruled Ni'ihau. The feudal Ali'i often fought wars to gain land and mana, however the introduction of European weapons gave some Ali'i an advantage over others, and they began aggressively taking over their neighbors. First the big island was consolidated by Kamehameha I after overthrowing his uncle for control of the Kona Hawaii. Meanwhile, the Kingdom of Maui invaded and conquered O'ahu. With Hawai'i united under his rule, Kamehameha eventually invaded Maui. Before he could successfully invade the last two remaining islands, the paramount Chief of Kawa'i, Kaumuali'i, negotiated a peace that submitted the islands to Hawai'ian rule."
+}, {
+  "entityIndex" : "entity28423",
+  "entityUrl" : "http://dbpedia.org/resource/USS_Delaware_vs_La_Croyable",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "France" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Stephen_Decatur,_Sr." ],
+    "dbo:date" : [ "1798-07-07" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Quasi-War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/New_Jersey", "http://dbpedia.org/resource/Great_Egg_Harbor" ],
+    "dbo:result" : [ "American victory" ],
+    "dbo:strength" : [ "1schooner", "1sloop-of-war" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USSConstellationVsInsurgente.jpg?width=300" ],
+    "dbp:caption" : [ "Depiction of a single ship action during the Quasi-War" ],
+    "dbp:commander" : [ "Unknown" ]
+  },
+  "text" : "USS Delaware vs La Croyable, or the Action of July 7, 1798, was a single ship action fought between the French schooner La Croyable and the sloop-of-war USS Delaware. The engagement resulted in the first capture of any ship by the United States Navy, which had been formed just months before the battle. Originally a merchant ship called Hamburgh Packet, USS Delaware was purchased by the United States Navy on May 5, 1798. With a complement of 180 men and twenty mounted long guns – sixteen 9-pounders (4.1 kilograms) and four 6-pounders (2.7 kilograms), she was given to Captain Stephen Decatur, Sr. to command. Delaware set sail from Delaware Bay on July 6 with instructions to join USS United States and USS Ganges and patrol the section of the Atlantic Coast between Long Island and Cape Henry. On July 7 the day after her first sail, USS Delaware happened upon the American merchant vessel Alexander Hamilton, which had been carrying wine and brandy from New York City to Baltimore when she was stopped by a French privateer who ransacked her. She was reduced to limping across the Great Egg Harbor Bay. When Captain Decatur heard these reports from Alexander Hamilton's crew, he began scouting the bay for a potentially culpable French vessel. An attack by a French privateer on an American merchantman was not unheard of at the time. Tensions between the United States and France had been rising in the months before the battle. The United States Congress had instructed all American warships in the newly-formed United States Navy to \"capture any French vessel found near the coast preying upon American commerce.\" Congress had also commissioned one thousand privateers to combat against the French hostilities of the day. Captain Decatur, who had distinguished himself as a privateer during the American Revolutionary War, was now looking to make the most of the opportunity to command Delaware. In the midst of her search for the French privateers, Delaware spotted four sails on the horizon. Under Decatur's orders, the sloop's crew had her pretend to be a merchant vessel. The act was convincing enough to draw the attention and pursuit of the French privateer schooner La Croyable. It was not long before the captain of the French vessel discovered that Delaware was a warship and tried to reverse course. After a lengthy chase, La Croyable found herself pinned against the shore of Great Egg Harbor Bay. She surrendered after only a few cannon shots. On July 8 Delaware made her way back up the Delaware River with her prize and docked at Fort Mifflin. After executing the first American victory of the Quasi-War, Decatur became a hero. He boasted of his catch to several people, including Captain John Barry of USS United States. La Croyable was deemed a lawful capture by the U.S. government and renamed USS Retaliation. She was given to the command of Lieutenant William Bainbridge. Bainbridge would join a fleet of American ships in the Caribbean on October 15. Later in November however, the French frigates Volontaire and Insurgente attacked USS Retaliation, capturing her. This was the only American vessel to be captured during the entire Quasi-War."
+} ]

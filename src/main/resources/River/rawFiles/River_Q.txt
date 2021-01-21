@@ -1,0 +1,6 @@
+http://dbpedia.org/resource/Queen_River
+http://dbpedia.org/resource/Qingshuihe_River
+http://dbpedia.org/resource/Qu%C3%A4nebach
+http://dbpedia.org/resource/Qullpa_Jawira_(Sebasti%C3%A1n_Pagador)
+http://dbpedia.org/resource/Qillqaywank'a
+http://dbpedia.org/resource/Qa%C3%B1awimayu

@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/United_States_occupation_of_the_Dominican_Republic_(1965%E2%80%9366)
+http://dbpedia.org/resource/United_States_occupation_of_the_Dominican_Republic_(1916%E2%80%9324)
+http://dbpedia.org/resource/Uganda%E2%80%93Tanzania_War
+http://dbpedia.org/resource/Urartu%E2%80%93Assyria_War
+http://dbpedia.org/resource/Uman%E2%80%93Boto%C8%99ani_Offensive
+http://dbpedia.org/resource/Upton_Train_Ambush
+http://dbpedia.org/resource/Uprising_in_West-Hungary
+http://dbpedia.org/resource/Ukrainian%E2%80%93Soviet_War

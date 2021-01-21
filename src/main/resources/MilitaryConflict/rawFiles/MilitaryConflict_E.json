@@ -1,0 +1,1216 @@
+[ {
+  "entityIndex" : "entity25385",
+  "entityUrl" : "http://dbpedia.org/resource/English_Civil_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "50,000" ],
+    "dbo:combatant" : [ "English, Scottish, Welsh and Irish Royalists", "English, Scottish, Welsh and Irish Parliamentarians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Charles_I_of_England", "http://dbpedia.org/resource/Oliver_Cromwell", "http://dbpedia.org/resource/Robert_Devereux,_3rd_Earl_of_Essex", "http://dbpedia.org/resource/Thomas_Fairfax", "http://dbpedia.org/resource/Charles_II_of_England", "http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine" ],
+    "dbo:date" : [ "1642-08-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Wars_of_the_Three_Kingdoms" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kingdom_of_England" ],
+    "dbo:result" : [ "*Execution of KingCharles I", "*Exile ofCharles II", "Parliamentarian victory", "*Establishment of the republicanCommonwealthunderOliver Cromwell" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Naseby.jpg?width=300" ],
+    "dbp:caption" : [ "--06-14" ],
+    "dbp:casualties" : [ "34000", "127000" ],
+    "dbp:date" : [ "September 2016" ],
+    "dbp:reason" : [ "needs editor or isbn" ]
+  },
+  "text" : "The English Civil War (1642–1651) was a series of armed conflicts and political machinations between Parliamentarians (\"Roundheads\") and Royalists (\"Cavaliers\") over, principally, the manner of England's government. The first (1642–46) and second (1648–49) wars pitted the supporters of King Charles I against the supporters of the Long Parliament, while the third (1649–51) saw fighting between supporters of King Charles II and supporters of the Rump Parliament. The war ended with the Parliamentarian victory at the Battle of Worcester on 3 September 1651. The overall outcome of the war was threefold: the trial and execution of Charles I; the exile of his son, Charles II; and the replacement of English monarchy with, at first, the Commonwealth of England (1649–53) and then the Protectorate (1653–59) under Oliver Cromwell's personal rule. The monopoly of the Church of England on Christian worship in England ended with the victors consolidating the established Protestant Ascendancy in Ireland. Constitutionally, the wars established the precedent that an English monarch cannot govern without Parliament's consent, although the idea of parliament as the ruling power of England was legally established as part of the Glorious Revolution in 1688."
+}, {
+  "entityIndex" : "entity25386",
+  "entityUrl" : "http://dbpedia.org/resource/Eureka_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6 dead" ],
+    "dbo:combatant" : [ "*British Army", "*Victoria Police", "23pxStockade insurgents", "Colony of Victoria" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Peter_Lalor", "http://dbpedia.org/resource/Henry_Ross", "http://dbpedia.org/resource/Charles_Pasley_(engineer)", "http://dbpedia.org/resource/John_Wellesley_Thomas" ],
+    "dbo:date" : [ "1854-12-03" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Victoria_(Australia)", "http://dbpedia.org/resource/Ballarat", "http://dbpedia.org/resource/Australia", "http://dbpedia.org/resource/Eureka,_Victoria" ],
+    "dbo:result" : [ "Miners' rebellion defeated by the Victorian authorities" ],
+    "dbo:strength" : [ "276", "120" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Eureka_stockade_battle.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:bgcolor" : [ "#F9F9F9" ],
+    "dbp:bot" : [ "medic" ],
+    "dbp:caption" : [ "Eureka Stockade Riot. J. B. Henderson  watercolour" ],
+    "dbp:casualties" : [ "22" ],
+    "dbp:date" : [ "August 2016" ],
+    "dbp:quote" : [ "\"... I think it may be called the finest thing in Australasian history. It was a revolution—small in size; but great politically; it was a strike for liberty, a struggle for principle, a stand against injustice and oppression. ... It is another instance of a victory won by a lost battle. It adds an honorable page to history; the people know it and are proud of it. They keep green the memory of the men who fell at the Eureka stockade, and Peter Lalor has his monument.\"" ],
+    "dbp:source" : [ " -  Mark Twain, Following the Equator" ],
+    "dbp:width" : [ "30" ]
+  },
+  "text" : "The Eureka Rebellion in 1854 was a rebellion of gold miners of Ballarat, Victoria, Australia, who revolted against the colonial authority of the United Kingdom. The Battle of the Eureka Stockade, by which the rebellion is popularly known, was fought between miners and the Colonial forces of Australia on 3 December 1854 at Eureka Lead and named for the stockade structure erected by miners during the conflict. The rebellion lasted for less than half an hour and resulted in the deaths of at least 27 people, the majority of whom were rebels. The event was the culmination of a period of civil disobedience in the Ballarat region during the Victorian gold rush with miners objecting to the expense of a miner's licence, taxation via the licence without representation and the actions of the government, the police and military. The local rebellion grew from a Ballarat Reform League movement and culminated in the erection by the rebels of a crude battlement and a swift and deadly siege by colonial forces. Mass public support for the captured rebels in the colony's capital of Melbourne when they were placed on trial resulted in the introduction of the Electoral Act 1856, which mandated full white male suffrage for elections for the lower house in the Victorian parliament, the second instituted political democracy in Australia. As such, the Eureka Rebellion is controversially identified with the birth of democracy in Australia and interpreted by some as a political revolt."
+}, {
+  "entityIndex" : "entity25387",
+  "entityUrl" : "http://dbpedia.org/resource/Easter_Rising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "16 executed", "66 killed", "unknown wounded" ],
+    "dbo:combatant" : [ "British Army", "British forces:", "Cumann na mBan", "Hibernian Rifles", "Irish Citizen Army", "Irish Volunteers", "Irish rebel forces:", "Royal Irish Constabulary" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Patrick_Pearse", "http://dbpedia.org/resource/James_Connolly", "http://dbpedia.org/resource/Matthew_Nathan", "http://dbpedia.org/resource/Augustine_Birrell", "http://dbpedia.org/resource/Seán_Mac_Diarmada", "http://dbpedia.org/resource/Thomas_MacDonagh", "http://dbpedia.org/resource/Éamonn_Ceannt", "http://dbpedia.org/resource/John_Maxwell_(British_Army_officer)", "http://dbpedia.org/resource/John_French,_1st_Earl_of_Ypres", "http://dbpedia.org/resource/Joseph_Plunkett", "http://dbpedia.org/resource/Lovick_Friend", "http://dbpedia.org/resource/Tom_Clarke_(Irish_republican)", "http://dbpedia.org/resource/William_Lowe_(British_Army_officer)", "http://dbpedia.org/resource/Ivor_Guest,_1st_Viscount_Wimborne" ],
+    "dbo:date" : [ "1916-04-29" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dublin", "http://dbpedia.org/resource/County_Wexford", "http://dbpedia.org/resource/County_Galway", "http://dbpedia.org/resource/County_Meath", "http://dbpedia.org/resource/County_Louth" ],
+    "dbo:result" : [ "Unconditional surrender of rebel forces, execution of most leaders" ],
+    "dbo:strength" : [ "1,250 in Dublin,", "~2,000–3,000 elsewhere, but they took little part in the fighting.", "16,000 troops and 1,000 armed police in Dublin by the end of the week." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Easter_Proclamation_of_1916.png?width=300" ],
+    "dbp:border" : [ "Number indicating width of border surrounding the montage" ],
+    "dbp:caption" : [ "Proclamation of the Republic, Easter 1916" ],
+    "dbp:casualties" : [ "143", "260", "397", "2217", "Total killed: 485" ],
+    "dbp:casus" : [ "Belief that non-violent means of attaining Irish independence had failed" ],
+    "dbp:color" : [ "Color of spacing between the images" ],
+    "dbp:colorBorder" : [ "black" ],
+    "dbp:photo1a" : [ "Thomas Clarke the brave.jpg" ],
+    "dbp:photo2a" : [ "Seán Mac Diarmada.png" ],
+    "dbp:photo2b" : [ "Mcdonagh.jpeg" ],
+    "dbp:photo3a" : [ "Patrick Pearse.jpg" ],
+    "dbp:photo3b" : [ "Ceannt.jpg" ],
+    "dbp:photo4a" : [ "James Connolly2.jpg" ],
+    "dbp:photo4b" : [ "Joseph Mary Plunkett.jpg" ],
+    "dbp:position" : [ "right" ],
+    "dbp:size" : [ "Number indicating width of the montage" ],
+    "dbp:spacing" : [ "Number indicating width of spacing between the images" ],
+    "dbp:text" : [ "The signatories of the Proclamation: Tom Clarke, Seán MacDiarmada, Thomas MacDonagh, Patrick Pearse, Éamonn Ceannt, James Connolly, Joseph Plunkett" ],
+    "dbp:textBackground" : [ "Color of background behind text" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Easter Rising (Irish: Éirí Amach na Cásca), also known as the Easter Rebellion, was an armed insurrection in Ireland during Easter Week, April 1916. The Rising was launched by Irish republicans to end British rule in Ireland and establish an independent Irish Republic while the United Kingdom was heavily engaged in the First World War. It was the most significant uprising in Ireland since the rebellion of 1798, the first armed action of the Irish revolutionary period. Organised by a seven-man Military Council of the Irish Republican Brotherhood, the Rising began on Easter Monday, 24 April 1916, and lasted for six days. Members of the Irish Volunteers — led by schoolmaster and Irish language activist Patrick Pearse, joined by the smaller Irish Citizen Army of James Connolly and 200 women of Cumann na mBan — seized key locations in Dublin and proclaimed an Irish Republic. The British Army brought in thousands of reinforcements as well as artillery and a gunboat. There was fierce street fighting on the routes into the city centre, where the rebels put up stiff resistance, slowing the British advance and inflicting heavy casualties. Elsewhere in Dublin, the fighting mainly consisted of sniping and long-range gun battles. The main rebel positions were gradually surrounded and bombarded with artillery. There were isolated actions in other parts of Ireland, with attacks on the Royal Irish Constabulary barracks at Ashbourne, County Meath and in County Galway, and the seizure of the town of Enniscorthy, County Wexford. Germany agreed to send an arms shipment to the rebels, but the British had intercepted it just before the Rising began. Volunteer leader Eoin MacNeill had then issued a countermand in a bid to halt the Rising, which greatly reduced the number of rebels who mobilised. With much greater numbers and heavier weapons, the British Army suppressed the Rising. Pearse agreed to an unconditional surrender on Saturday 29 April, although sporadic fighting continued until Sunday, when word reached the other rebel positions. After the surrender the country remained under martial law. About 3,500 people were taken prisoner by the British, many of whom had played no part in the Rising, and 1,800 of them were sent to internment camps or prisons in Britain. Most of the leaders of the Rising were executed following courts-martial. The Rising brought physical force republicanism back to the forefront of Irish politics, which for nearly 50 years had been dominated by constitutional nationalism. It, and the British reaction to it, led to increased popular support for Irish independence. In December 1918, republicans, represented by the reconstituted Sinn Féin party, won a landslide victory in the general election to the British Parliament. They did not take their seats, but instead convened the First Dáil and declared the independence of the Irish Republic, which led to the War of Independence. Almost 500 people were killed in the Easter Rising. About 54% were civilians, 30% were British military and police, and 16% were Irish rebels. More than 2,600 were wounded. Many of the civilians were killed as a result of the British using artillery and heavy machine guns, or mistaking civilians for rebels. Others were caught in the crossfire in a crowded city. The shelling and the fires it caused left parts of inner city Dublin in ruins."
+}, {
+  "entityIndex" : "entity25388",
+  "entityUrl" : "http://dbpedia.org/resource/Eighth_Crusade",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Kingdom of France", "Hafsids", "Kingdom of Naples", "Kingdom of Navarre" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Louis_IX_of_France", "http://dbpedia.org/resource/Muhammad_I_al-Mustansir", "http://dbpedia.org/resource/Charles_I_of_Naples", "http://dbpedia.org/resource/Theobald_II_of_Navarre" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Crusades" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Tunisia" ],
+    "dbo:result" : [ "Death of Louis IX", "Opening of trade withTunis", "Treaty of Tunis" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Status_quo_ante_bellum" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/SmrtLudvika91270.jpg?width=300" ],
+    "dbp:caption" : [ "Death of Louis IX during the siege of Tunis" ],
+    "dbp:date" : [ "1270" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Eighth Crusade was a crusade launched by Louis IX of France against the city of Tunis in 1270. The Eighth Crusade is sometimes counted as the Seventh, if the Fifth and Sixth Crusades of Frederick II are counted as a single crusade. The Ninth Crusade is sometimes also counted as part of the Eighth. The crusade is considered a failure after Louis died shortly after arriving on the shores of Tunisia, with his disease-ridden army dispersing back to Europe shortly afterwards."
+}, {
+  "entityIndex" : "entity25389",
+  "entityUrl" : "http://dbpedia.org/resource/East_Cape_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "1st Waikato Militia", "ArawaMāori", "Forest Rangers", "Hawke's Bay Militia", "Ngai Tama Māori", "Ngāti KahungunuMāori", "Ngāti PorouMāori", "Patea Rangers", "Taranaki Military Settlers", "Urewera Māori", "Wanganui Native Contingent", "Wanganui Rangers", "Wanganui Yeomanry Cavalry", "WhakatoheaMāori" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Henare_Tomoana", "http://dbpedia.org/resource/Ropata_Wahawaha", "http://dbpedia.org/resource/Kereopa_Te_Rau", "http://dbpedia.org/resource/Thomas_McDonnell", "http://dbpedia.org/resource/Renata_Kawepo" ],
+    "dbo:date" : [ "1865-04-13" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/New_Zealand_wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/New_Zealand" ],
+    "dbo:result" : [ "Government victory" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Patara_Raukatauri_(ca._1922).jpg?width=300" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The East Cape War, sometimes also called the East Coast War, was a series of conflicts fought in the North Island of New Zealand from April 1865 to October 1866 between colonial and Māori military forces. At least five separate campaigns were fought in the area during a period of relative peace in the long-running 19th century New Zealand wars. The east coast hostilities came at the close of the Waikato wars and before the outbreak of Te Kooti's War, both fought nearby, but sprang from causes more closely related to the Second Taranaki War—namely, Māori resentment of punitive government land confiscation coupled with the rise of the so-called Hauhau movement, an extremist part of the Pai Marire religion (also called the Hauhau), which was strongly opposed to the alienation of Māori land and eager to strengthen Māori identity. Pai Mārire arrived on the east coast from Taranaki about 1865. The subsequent ritual killing of missionary Carl Volkner by Pai Mārire followers at Opotiki on 2 March 1865 sparked settler fears of an outbreak of violence and later that year the New Zealand government launched a lengthy expedition to hunt for Volkner's killers and neutralise the movement's influence. Rising tensions between Pai Mārire followers and conservative Māori led to a number of wars between and within Māori iwi, with kūpapa or \"loyal\" Māori armed by the government in a bid to exterminate the movement. Major conflicts within the campaign included the cavalry and artillery attack on Te Tarata pā near Opotiki in October 1865 in which about 35 Māori were killed, and the seven-day siege of Waerenga-a-Hika in November 1865. The government, claiming that one of Volkner's killers was being given sanctuary by Māori in the remote Urewera region, confiscated northern parts of the Urewera land in January 1866 in a bid to break down Māori resistance and confiscated additional land in Hawke's Bay a year later after a rout of a Māori party it deemed to pose a threat to the settlement of Napier. In 2013 the Crown paid $23 million in financial redress and expressed \"profound regret\" over the \"unjust attacks\" in Hawke's Bay in 1866 and apologised for subsequent land confiscations."
+}, {
+  "entityIndex" : "entity25390",
+  "entityUrl" : "http://dbpedia.org/resource/European_theatre_of_World_War_II",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Allies", "Axis", "France", "South Africa", "Italy", "----(Continuation War)", "----(Invasion of Poland)", "----(Lapland War)", "Albania", "India" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ion_Antonescu", "http://dbpedia.org/resource/Winston_Churchill", "http://dbpedia.org/resource/Franklin_D._Roosevelt", "http://dbpedia.org/resource/Joseph_Stalin", "http://dbpedia.org/resource/Benito_Mussolini", "http://dbpedia.org/resource/Adolf_Hitler" ],
+    "dbo:date" : [ "1939-09-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Europe" ],
+    "dbo:result" : [ "Alliedvictory", "*Beginning of theIron Curtainand theCold War.", "*Collapse of Fascist Italy", "*Collapse of Nazi Germany", "*End of World War II in Europe" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Hitlermusso2_edit.jpg?width=300" ],
+    "dbp:caption" : [ "Adolf Hitler and Benito Mussolini in Italy." ]
+  },
+  "text" : "The European Theatre of World War II, also known as the European War, was a huge area of heavy fighting across Europe, from Germany's and the Soviet Union's joint invasion of Poland in September 1939 until the end of the war with the Soviet Union conquering much of Europe along with the German unconditional surrender on May 8, 1945 (Victory in Europe Day). The Allied forces fought the Axis powers on two major fronts (the Eastern Front and Western Front) as well as in the adjoining Mediterranean and Middle East Theatre."
+}, {
+  "entityIndex" : "entity25391",
+  "entityUrl" : "http://dbpedia.org/resource/Expulsion_of_the_Acadians",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1755-08-10" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/French_and_Indian_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Canada" ],
+    "dbo:result" : [ "Burying the Hatchet Ceremony", "Fall of Louisbourg", "Forced Displacement of Acadian Populace" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/A_View_of_the_Plundering_and_Burning_of_the_City_of_Grymross,_by_Thomas_Davies,_1758.JPG?width=300" ],
+    "dbp:actions" : [ "http://dbpedia.org/resource/Alexandre_Bourg", "http://dbpedia.org/resource/Joseph_Godin", "Forcible Transfer, Deportations, Persecutions, Unlawful Confinement, Plunder of Public and Private Propertyhttps://www.icc-cpi.int/nr/rdonlyres/ea9aeff7-5752-4f84-be94-0a655eb30e16/0/rome_statute_english.pdf", "Father Jacques Manach", "Joseph LeBlanc" ],
+    "dbp:caption" : [ "Watercolor by Thomas Davies", "St. John River Campaign: \"A View of the Plundering and Burning of the City of Grimross\"" ],
+    "dbp:mapSize" : [ "12345" ],
+    "dbp:units" : [ "22", "40", "43", "http://dbpedia.org/resource/Acadian_militia", "http://dbpedia.org/resource/Gorham's_Rangers", "Danks' Rangers", "Troupes de la marine", "Wabanaki Confederacy" ]
+  },
+  "text" : "The Expulsion of the Acadians, also known as the Great Upheaval, the Great Expulsion, the Great Deportation and Le Grand Dérangement, was the forced removal by the British of the Acadian people from the present day Canadian Maritime provinces of Nova Scotia, New Brunswick, Prince Edward Island —an area also known as Acadia. The Expulsion (1755–1764) occurred during the French and Indian War (the North American theatre of the Seven Years' War) and was part of the British military campaign against New France. The British first deported Acadians to the Thirteen Colonies, and after 1758 transported additional Acadians to Britain and France. In all, of the 14,100 Acadians in the region, approximately 11,500 Acadians were deported. (A census of 1764, indicates that 2,600 Acadians remained in the colony, presumably having eluded being captured.) After the British Siege of Port Royal in 1710, the 1713 Treaty of Utrecht allowed the Acadians to keep their lands. Over the next forty-five years, however, the Acadians refused to sign an unconditional oath of allegiance to Britain. During the same period, they also participated in various military operations against the British, and maintained supply lines to the French fortresses of Louisbourg and Fort Beauséjour. As a result, the British sought to eliminate any future military threat posed by the Acadians and to permanently cut the supply lines they provided to Louisbourg by removing them from the area. Without making distinctions between the Acadians who had been neutral and those who had resisted the occupation of Acadia, the British governor Charles Lawrence and the Nova Scotia Council ordered them to be expelled. In the first wave of the expulsion, Acadians were deported to other British colonies. During the second wave, they were deported to Britain and France, from where they migrated to Louisiana. Acadians fled initially to Francophone colonies such as Canada, the uncolonized northern part of Acadia, Isle Saint-Jean (present-day Prince Edward Island) and Isle Royale (present-day Cape Breton Island). During the second wave of the expulsion, these Acadians were either imprisoned or deported. Throughout the expulsion, Acadians and the Wabanaki Confederacy continued a guerrilla war against the British in response to British aggression which had been continuous since 1744 (see King George's War and Father Le Loutre's War). Along with the British achieving their military goals of defeating Louisbourg and weakening the Mi'kmaq and Acadian militias, the result of the Expulsion was the devastation of both a primarily civilian population and the economy of the region. Thousands of Acadians died in the expulsions, mainly from diseases and drowning when ships were lost. On July 11, 1764, the British government passed an order-in-council to permit Acadians to legally return to British territories, provided that they take an unqualified oath of allegiance. The American poet Henry Wadsworth Longfellow memorialized the historic event in his poem about the plight of the fictional character Evangeline, which was popular and made the expulsion well known. According to Acadian historian Maurice Basque, the story of Evangeline continues to influence historic accounts of the deportation, emphasising neutral Acadians and de-emphasising those who resisted the British Empire."
+}, {
+  "entityIndex" : "entity25392",
+  "entityUrl" : "http://dbpedia.org/resource/Eastern_Front_(World_War_II)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Seebelow" ],
+    "dbo:combatant" : [ "Allies", "Poland", "United Kingdom", "United States", "(from 1944)", "(until 1943)", "(until 1944)", "----Aerial and naval only", "----Axispuppet states", "----Co-belligerents", "----Former Axis powers or co-belligerents", "Axis powers", "Bulgaria(from 1944)", "Czechoslovakia(from 1943)", "Free France(1943–45)", "Tuva(until 1944)", "Yugoslavia(from 1944)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Georgy_Zhukov", "http://dbpedia.org/resource/Ion_Antonescu", "http://dbpedia.org/resource/Miklós_Horthy", "http://dbpedia.org/resource/Carl_Gustaf_Emil_Mannerheim", "http://dbpedia.org/resource/Joseph_Stalin", "http://dbpedia.org/resource/Josip_Broz_Tito", "http://dbpedia.org/resource/Heinz_Guderian", "http://dbpedia.org/resource/Boris_Shaposhnikov", "http://dbpedia.org/resource/Aleksei_Antonov", "http://dbpedia.org/resource/Benito_Mussolini", "http://dbpedia.org/resource/Kurt_Zeitzler", "http://dbpedia.org/resource/Adolf_Hitler", "http://dbpedia.org/resource/Franz_Halder", "http://dbpedia.org/resource/Walther_von_Brauchitsch", "http://dbpedia.org/resource/Aleksandr_Vasilevsky" ],
+    "dbo:date" : [ "1941-06-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Central_Europe", "http://dbpedia.org/resource/Nazi_Germany", "http://dbpedia.org/resource/Eastern_Europe", "http://dbpedia.org/resource/Southern_Europe", "http://dbpedia.org/resource/Austria", "http://dbpedia.org/resource/Northern_Europe" ],
+    "dbo:result" : [ "* Establishment of theFederal People's Republic of Yugoslavia.", "* The beginning of theGreek Civil War.", "* Soviet Union occupies Eastern Europe and establishes pro-Soviet Communist governments in countries including Bulgaria, Czechoslovakia, Hungary, Poland, Romania, and East Germany.", "* Beginning of theCold Warand the creation of theIron Curtain.", "Decisive Allied victory, end of World War II in Europe (concurrently with theWestern Front), destruction of Nazi Germany" ],
+    "dbo:strength" : [ "1941", "1945", "1943", "* 1,960,000 troops", "* 2,680,000 troops", "* 3,767,000 troops", "* 3,933,000 troops", "* 6,410,000 troops", "* 6,724,000 troops" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/History_of_Germany_(1945–1990)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/EasternFrontWWIIcolage.png?width=300" ],
+    "dbp:caption" : [ "Clockwise from top left: Soviet Il-2  ground attack aircraft  in Berlin sky; German Tiger I tanks during the Battle of Kursk; German Stuka dive bombers on the Eastern Front, winter 1943–1944; Killings of Jews by German Einsatzgruppen in Ukraine; Wilhelm Keitel signing the German Instrument of Surrender; Soviet troops in the Battle of Stalingrad" ],
+    "dbp:casualties" : [ "See below" ],
+    "dbp:commons" : [ "y" ],
+    "dbp:commonsSearch" : [ "Eastern Front" ],
+    "dbp:date" : [ "November 2015" ],
+    "dbp:portal" : [ "Hungary", "Military of Germany", "Poland", "Romania", "Soviet Union", "World War II" ],
+    "dbp:reason" : [ "Army Groups North and South?" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Eastern Front of World War II was a theatre of conflict between the European Axis powers and co-belligerent Finland against the Soviet Union, Poland and other Allies, which encompassed Northern, Southern and Central and Eastern Europe from 22 June 1941 to 9 May 1945. It has been known as the Great Patriotic War (Russian: Великая Отечественная Война, Velikaya Otechestvennaya Voyna) in the former Soviet Union and in modern Russia, while in Germany it was called the Eastern Front (German: die Ostfront), the Eastern Campaign (der Ostfeldzug) the Russian Campaign (der Rußlandfeldzug), or the German-Soviet War by outside parties. The battles on the Eastern Front constituted the largest military confrontation in history. They were characterized by unprecedented ferocity, wholesale destruction, mass deportations, and immense loss of life due to combat, starvation, exposure, disease, and massacres. The Eastern Front, as the site of nearly all extermination camps, death marches, ghettos, and the majority of pogroms, was central to the Holocaust. Of the estimated 70 million deaths attributed to World War II, over 30 million, many of them civilian, occurred on the Eastern Front. The Eastern Front was decisive in determining the outcome of the European portion of World War II, eventually serving as the main reason for Germany's defeat. It resulted in the destruction of the Third Reich, the partition of Germany for nearly half a century and the rise of the Soviet Union as a military and industrial superpower. The two principal belligerent powers were Nazi Germany and the Soviet Union, along with their respective allies. Though never engaged in military action in the Eastern Front, the United Kingdom and the United States both provided substantial material aid in the form of the Lend-Lease to the Soviet Union. The joint German–Finnish operations across the northernmost Finnish–Soviet border and in the Murmansk region are considered part of the Eastern Front. In addition, the Soviet–Finnish Continuation War may also be considered the northern flank of the Eastern Front."
+}, {
+  "entityIndex" : "entity25393",
+  "entityUrl" : "http://dbpedia.org/resource/Estonian_War_of_Independence",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "15,000 injured", "5,000 dead" ],
+    "dbo:combatant" : [ "White Movement", "Russian SFSR", "22pxCommune of the Working People of Estonia", "Baltische Landeswehr", "Finnish,Danish, andSwedishvolunteers" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Jukums_Vācietis", "http://dbpedia.org/resource/Rüdiger_von_der_Goltz", "http://dbpedia.org/resource/Johan_Laidoner" ],
+    "dbo:date" : [ "1918-11-28" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Latvia", "http://dbpedia.org/resource/Russia", "http://dbpedia.org/resource/Estonia" ],
+    "dbo:result" : [ "Estonian victory" ],
+    "dbo:strength" : [ "7 January 1919: 4,450", "7 January 1919: 5,750–7,250", "June 1919: 20,000", "May 1919: 80,000", "May 1919: 86,000" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Vidzeme" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Estonian_War_of_Independence,_map.JPG?width=300" ],
+    "dbp:casualties" : [ "400", "1500", "10000", "unknown" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Estonian War of Independence (Estonian: Vabadussõda, literally \"Freedom War\"), also known as the Estonian Liberation War, was a defensive campaign of the Estonian Army and its allies, most notably the White Russian Northwestern Army, Latvia, and the United Kingdom, against the Soviet Western Front offensive and the aggression of the Baltische Landeswehr. It was fought in connection with the Russian Civil War during 1918–1920. The campaign was the struggle of Estonia for its sovereignty in the aftermath of World War I. It resulted in a victory for the newly established state and was concluded in the Treaty of Tartu."
+}, {
+  "entityIndex" : "entity25394",
+  "entityUrl" : "http://dbpedia.org/resource/Eighty_Years'_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Spanish Empire" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Robert_Dudley,_1st_Earl_of_Leicester", "http://dbpedia.org/resource/Maurice,_Prince_of_Orange", "http://dbpedia.org/resource/Elizabeth_I_of_England", "http://dbpedia.org/resource/Frederick_Henry,_Prince_of_Orange", "http://dbpedia.org/resource/William_the_Silent", "http://dbpedia.org/resource/Philip_III_of_Spain", "http://dbpedia.org/resource/Philip_II_of_Spain", "http://dbpedia.org/resource/Philip_IV_of_Spain", "http://dbpedia.org/resource/James_VI_and_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Low_Countries" ],
+    "dbo:result" : [ "Peace of Münster", "Spanish retention of theSouthern Netherlands", "Spain recognises the independence of theDutch Republic" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Veen01.jpg?width=300" ],
+    "dbp:caption" : [ "Relief of Leiden after the siege, 1574" ],
+    "dbp:date" : [ "1568" ]
+  },
+  "text" : "The Eighty Years' War or Dutch War of Independence (1568–1648) was a revolt of the Seventeen Provinces against the political and religious hegemony of Philip II of Spain, the sovereign of the Habsburg Netherlands. After the initial stages, Philip II deployed his armies and regained control over most of the rebelling provinces. However, under the leadership of the exiled William the Silent, the northern provinces continued their resistance. They were eventually able to oust the Habsburg armies, and in 1581 they established the Republic of the Seven United Netherlands. The war continued in other areas, although the heartland of the republic was no longer threatened. After a 12-year truce, hostilities broke out again around 1619 which can be said to coincide with the Thirty Years' War. An end was reached in 1648 with the Peace of Münster (a treaty part of the Peace of Westphalia), when the Dutch Republic was recognised as an independent country."
+}, {
+  "entityIndex" : "entity25395",
+  "entityUrl" : "http://dbpedia.org/resource/Easter_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "PAVN claim: 213,307 killed and wounded, 13,000 captured.", "More than 1,000tanks andAPCsdestroyed", "U.S. claim: ~10,000 killed, 33,000 wounded, 3,500 missing", "Hundreds ofmilitary aircraftandhelicopters shot down" ],
+    "dbo:combatant" : [ "Viet Cong" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hoàng_Xuân_Lãm", "http://dbpedia.org/resource/Ngô_Du", "http://dbpedia.org/resource/Trần_Văn_Trà", "http://dbpedia.org/resource/Nguyễn_Văn_Minh", "http://dbpedia.org/resource/Văn_Tiến_Dũng", "http://dbpedia.org/resource/Hoang_Minh_Thao" ],
+    "dbo:date" : [ "1972-10-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Vietnam_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/South_Vietnam" ],
+    "dbo:result" : [ "North Vietnamgained significant territories.", "South Vietnam repulsed the main assaults with U.S. support." ],
+    "dbo:strength" : [ "200,000–300,000", "322 tanks and APCs", "Total ARVN: 758,000", "U.S. 7th Fleet", "U.S. forces:" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/T-59_VC.jpg?width=300" ],
+    "dbp:caption" : [ "North Vietnamese Type 59 tank captured by South Vietnamese 20th Tank Regiment south of Dong Ha" ],
+    "dbp:casualties" : [ "250", "U.S. estimate: 40,000–75,000 killed or missing, ~60,000 wounded" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Easter Offensive (Vietnamese: Chiến dịch Xuân hè 1972, or Mùa hè đỏ lửa, the Red fiery summer as romanticized in South Vietnamese literature) was a military campaign conducted by the People's Army of Vietnam (PAVN, the regular army of North Vietnam) against the Army of the Republic of Vietnam (ARVN, the regular army of South Vietnam) and the United States military between March 30 and October 22, 1972, during the Vietnam War. This conventional invasion (the largest offensive operation since 300,000 Chinese volunteers had crossed the Yalu River into North Korea during the Korean War) was a radical departure from previous North Vietnamese offensives. The offensive was not designed to win the war outright but to gain as much territory and destroy as many units of the ARVN as possible, to improve the North's negotiating position as the Paris Peace Accords drew towards a conclusion. The U.S. high command had been expecting an attack in 1972 but the size and ferocity of the assault caught the defenders off balance, because the attackers struck on three fronts simultaneously, with the bulk of the North Vietnamese army. This first attempt by the Democratic Republic of Vietnam (North Vietnam) to invade the south since the Tet Offensive of 1968, became characterized by conventional infantry–armor assaults backed by heavy artillery, with both sides fielding the latest in technological advances in weapons systems. In the I Corps Tactical Zone, North Vietnamese forces overran South Vietnamese defensive positions in a month-long battle and captured Quảng Trị city, before moving south in an attempt to seize Huế. PAVN similarly eliminated frontier defense forces in the II Corps Tactical Zone and advanced to seize the provincial capital of Kon Tum, which would have opened the way to the sea, splitting South Vietnam in two. North-east of Saigon, in the III Corps Tactical Zone, PAVN forces overran Lộc Ninh and advanced to assault the capital of Bình Long Province at An Lộc. The campaign can be divided into three phases: April was a month of PAVN advances; May became a period of equilibrium; in June and July the South Vietnamese forces counter-attacked, culminating in the recapture of Quảng Trị City in September. On all three fronts, initial North Vietnamese successes were hampered by high casualties, inept tactics and the increasing application of U.S. and South Vietnamese air power. One result of the offensive, was the launching of Operation Linebacker, the first sustained bombing of North Vietnam by the U.S. since November 1968. Although South Vietnamese forces withstood their greatest trial thus far in the conflict, the North Vietnamese accomplished two important goals: they had gained valuable territory within South Vietnam from which to launch future offensives and they had obtained a better bargaining position at the peace negotiations being conducted in Paris."
+}, {
+  "entityIndex" : "entity25396",
+  "entityUrl" : "http://dbpedia.org/resource/Exercise_Tiger",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2 LSTs damaged", "2 LSTs sunk", "746 killed", "~200 wounded" ],
+    "dbo:date" : [ "1944-04-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/English_Channel", "http://dbpedia.org/resource/Lyme_Bay", "http://dbpedia.org/resource/Portland,_England" ],
+    "dbo:result" : [ "German victory" ],
+    "dbo:strength" : [ "1corvette", "8LSTs", "9E-boats" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/D-Day_rehearsal_cph.3c32795.jpg?width=300" ],
+    "dbp:caption" : [ "Arrow shows Lyme Bay in south-west England" ],
+    "dbp:casualties" : [ "none" ]
+  },
+  "text" : "Exercise Tiger, or Operation Tiger, was the code name for one in a series of large-scale rehearsals for the D-Day invasion of Normandy, which took place in April 1944 on Slapton Sands in Devon. Coordination and communication problems resulted in friendly fire deaths during the exercise, and an Allied convoy positioning itself for the landing was attacked by E-boats of Nazi Germany's Kriegsmarine, resulting in the deaths of at least 749 American servicemen. Because of the impending invasion of Normandy, the incident was under the strictest secrecy at the time and was only nominally reported afterward."
+}, {
+  "entityIndex" : "entity25397",
+  "entityUrl" : "http://dbpedia.org/resource/East_African_Campaign_(World_War_II)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "(dysentery: 10,000", "1,154 killed", "15 aircraft", "Belgian: 462 dead", "aircraft: 138", "malaria: 10,000, fatal: 744)", "military operations to April 1941: 75,704", "sickness/accident: 74,550", "subsequent operations: Gondar, 32 killed, 182 wounded, 6 missing" ],
+    "dbo:combatant" : [ "*", "*Sudan", "*India", "*Kenya", "*Nigeria", "*Africa Orientale", "*British Somaliland", "*French Equatorial Africa" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Haile_Selassie", "http://dbpedia.org/resource/Nicolangelo_Carnimeo", "http://dbpedia.org/resource/Abebe_Aregai", "http://dbpedia.org/resource/Pietro_Gazzera", "http://dbpedia.org/resource/Amedeo,_3rd_Duke_of_Aosta", "http://dbpedia.org/resource/Luigi_Frusci", "http://dbpedia.org/resource/William_Platt", "http://dbpedia.org/resource/Alfred_Reade_Godwin-Austen", "http://dbpedia.org/resource/Archibald_Wavell,_1st_Earl_Wavell", "http://dbpedia.org/resource/Guglielmo_Nasi", "http://dbpedia.org/resource/Carlo_De_Simone", "http://dbpedia.org/resource/Alan_Gordon_Cunningham", "http://dbpedia.org/resource/Auguste-Éduard_Gilliaert" ],
+    "dbo:date" : [ "1940-06-10" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Mediterranean_and_Middle_East_Theatre" ],
+    "dbo:notes" : [ "AOI casualties exclude Giuba and the eastern front" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/East_Africa" ],
+    "dbo:result" : [ "Allied victory" ],
+    "dbo:strength" : [ "* August 1940: 371,053", "* Ethiopian: Arbegnoch (from January 1941)", "* June 1940: 290,476", "* Kenya, June 1940: 9,975", "* Sudan, June 1940: 9,000", "East African: 33,000", "Italian: 112,731", "Italian: 91,203", "November 1940: 28,000", "November 1940: 70,000", "RCTC: 258,322", "Regio Corpo Truppe Coloniali: 199,273", "South African: 27,000", "West African: 9,000" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Africa_Orientale_Italiana" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/MoyaleEastAfrica1941.JPG?width=300" ],
+    "dbp:caption" : [ "South African soldiers with a captured Italian flag, 1941" ],
+    "dbp:casualties" : [ "16966", "19262", "25098", "aircraft: 250", "military operations to April 1941: 61,326", "surrender: 230,000 POW" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The East African Campaign was fought in East Africa during World War II by Allied forces, mainly from the British Empire, against Axis forces, primarily from Italy of Africa Orientale Italiana (AOI, Italian East Africa), between June 1940 and November 1941. Forces of the British Middle East Command, included units from the Britain and the colonies of British East Africa, British Somaliland, British West Africa, the Indian Empire, Northern Rhodesia, Nyasaland, Mandatory Palestine, South Africa, Southern Rhodesia and Sudan participated in the campaign. Ethiopian irregulars, the Free French and Belgian troops of the Force Publique also participated. The AOI was defended by Italian forces of the Comando Forze Armate dell'Africa Orientale Italiana (Italian East African Armed Forces Command), with units from the Regio Esercito (Italian army), Regia Aeronautica (air force) and Regia Marina (navy), about 200,000 Regio Corpo Truppe Coloniali from Italian-occupied Abyssinia (Ethiopia), Italian Eritrea and Italian Somaliland, led by Italian officers and NCOs, 70,000 Italian regulars and reservists and the small Compagnia Autocarrata Tedesca (German Motorized Company). Hostilities began on 13 June 1940, with an Italian air raid on the base of 1 Squadron Southern Rhodesian Air Force (237 (Rhodesia) Squadron RAF) at Wajir in the East Africa Protectorate (Kenya) and continued until Italian forces had been pushed back from Kenya and Sudan, through Somaliland, Eritrea and Ethiopia in 1940 and early-1941. The remnants of the Italian forces in the AOI surrendered after the Battle of Gondar in November 1941, except for groups that fought the Italian guerrilla war in Ethiopia against the British until the Armistice of Cassibile (3 September 1943) ended hostilities between Italy and the Allies."
+}, {
+  "entityIndex" : "entity25398",
+  "entityUrl" : "http://dbpedia.org/resource/Eastern_Front_(World_War_I)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "----", "unknown", "On all fronts during the entire war (including Italian and Balkan fronts): 1,100,000 dead, 1,980,000 wounded, 1,800,000 P.O.W Austria-Hungary's Eastern front 1914-1917 about 50% of total losses", "10,000 POW", "Total: ~ 6,000,000 casualties", "unknown KIA and MIA", "unknown wounded and POW", "317,100 – 800,000 dead or missing (on Eastern Front)" ],
+    "dbo:combatant" : [ "----", "(1914–17)", "(1916–17)", "Russian Republic(1917)", "Russian SFSR(1918)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Paul_von_Hindenburg", "http://dbpedia.org/resource/Aleksei_Brusilov", "http://dbpedia.org/resource/August_von_Mackensen", "http://dbpedia.org/resource/Lavr_Kornilov", "http://dbpedia.org/resource/Arthur_Arz_von_Straußenburg", "http://dbpedia.org/resource/Prince_Leopold_of_Bavaria", "http://dbpedia.org/resource/Ferdinand_I_of_Romania", "http://dbpedia.org/resource/Nicholas_II_of_Russia", "http://dbpedia.org/resource/Nikolai_Krylenko", "http://dbpedia.org/resource/Erich_Ludendorff", "http://dbpedia.org/resource/Max_Hoffmann", "http://dbpedia.org/resource/Nikola_Zhekov", "http://dbpedia.org/resource/Nikolay_Dukhonin", "http://dbpedia.org/resource/Conrad_von_Hötzendorf", "http://dbpedia.org/resource/Grand_Duke_Nicholas" ],
+    "dbo:date" : [ "1914-08-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Central_Europe", "http://dbpedia.org/resource/Eastern_Europe" ],
+    "dbo:result" : [ "Central Powers victory", "* Collapse of theRussian Empireleading to theRussian Revolution", "*Treaty of Brest-Litovsk (Ukraine),Treaty of Brest-Litovsk (Russia),Treaty of Bucharest" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Front_(World_War_I).jpg?width=300" ],
+    "dbp:caption" : [ "Clockwise from top left: Carpathian Mountains, 1915; German soldiers in Kiev, March 1918; the Russian ship Slava, October 1917; Russian infantry, 1914; Romanian infantry." ],
+    "dbp:casualties" : [ "340000", "682213" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Eastern Front of World War I (Russian: Восточный фронт, sometimes called the \"Second Fatherland War\" or \"Second Patriotic War\" (Russian: Вторая Отечественная война) in Russian sources) was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep into Central Europe as well. The term contrasts with \"Western Front\", which was being fought in Belgium and France. In the opening months of the war, the Imperial Russian Army attempted an invasion of eastern Prussia in the northwestern theater, only to be beaten back by the Germans after some initial success. At the same time, in the south, they successfully invaded Galicia, defeating the Austro-Hungarian forces there. In Russian Poland, the Germans failed to take Warsaw. But by 1915, the German and Austro-Hungarian armies were on the advance, dealing the Russians heavy casualties in Galicia and in Poland, forcing it to retreat. Grand Duke Nicholas was sacked from his position as the commander-in-chief and replaced by the Tsar himself. Several offensives against the Germans in 1916 failed, including Lake Naroch Offensive and the Baranovichi Offensive. However, General Aleksei Brusilov oversaw a highly successful operation against Austria-Hungary that became known as the Brusilov Offensive, which saw the Russian Army make large gains. The Kingdom of Romania entered the war in August 1916. The Entente promised the region of Transylvania (which was part of Austria-Hungary) in return for Romanian support. The Romanian Army invaded Transylvania and had initial successes, but was forced to stop and was pushed back by the Germans and Austro-Hungarians when Bulgaria attacked them in the south. Meanwhile, a revolution occurred in Russia in February 1917 (one of the several causes being the hardships of the war). Tsar Nicholas II was forced to abdicate and a Russian Provisional Government was founded, with Georgy Lvov as its first leader, who was eventually replaced by Alexander Kerensky. The newly formed Russian Republic continued to fight the war alongside Romania and the rest of the Entente until it was overthrown by the Bolsheviks in October 1917. Kerensky oversaw the July Offensive, which was largely a failure and caused a collapse in the Russian Army. The new government established by the Bolsheviks signed the Treaty of Brest-Litovsk with the Central Powers, taking it out of the war and making large territorial concessions. Romania was also forced to surrender and signed a similar treaty, though both of the treaties were nullified with the surrender of the Central Powers in November 1918."
+}, {
+  "entityIndex" : "entity25399",
+  "entityUrl" : "http://dbpedia.org/resource/Evacuation_of_East_Prussia",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "25px25,000–30,000" ],
+    "dbo:combatant" : [ "25pxGermany", "25pxSoviet Union" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Gauleiter", "http://dbpedia.org/resource/Ivan_Chernyakhovsky", "http://dbpedia.org/resource/Aleksandr_Vasilevsky" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/East_Prussia" ],
+    "dbo:result" : [ "Evacuation of over 1.8 millionGermancivilians" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/East_prussia_weimar_and_3rd_reich.jpg?width=300" ],
+    "dbp:caption" : [ "East Prussia , was separated from Germany and Prussia  proper by the Polish corridor between World War I and World War II. The area, divided between Russia and Poland in 1945, is 340 km east of the present-day Polish–German border" ],
+    "dbp:date" : [ "January–March 1945" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The evacuation of East Prussia was the movement of the German civilian population and military personnel in East Prussia and the Klaipėda region between 20 January and March 1945 as part of the evacuation of German civilians towards the end of World War II. It is not to be confused with the expulsion after the war had ended, under Soviet occupation. The evacuation, which had been delayed for months, was initiated due to fear of the Red Army advances during the East Prussian Offensive. Some parts of the evacuation were planned as a military necessity, Operation Hannibal being the most important military operation involved in the evacuation. However, many refugees took to the roads on their own initiative because of reported Soviet atrocities against Germans in the areas under Soviet control. Both spurious and factual accounts of Soviet atrocities were disseminated through the official news and propaganda outlets of the Third Reich and by rumors that swept through the military and civilian populations. Despite having detailed evacuation plans for some areas, authorities of the Third Reich, including the Gauleiter of East Prussia, Erich Koch, delayed action until January 20, when it was too late for an orderly evacuation, and the civil services and Nazi Party were eventually overwhelmed by the huge number of those wishing to evacuate. Coupled with the panic caused by the speed of the Soviet advance, civilians caught in the middle of combat, and the bitter winter weather, many thousands of refugees died during the evacuation period. The Soviets took complete control of East Prussia in May 1945. A large part of the German civil population of about 2.5 million managed to evacuate, though about 25,000–30,000 were killed during the Soviet offensive., In May 1945 Soviet authorities registered 193,000 Germans in East Prussia but an estimated 800,000 managed to return after the end of hostilities, most of whom were later forcibly expelled by the Soviet and Polish authorities. The Polish census of 1950 indicated that 164,000 of the former German population remained in Southern East Prussia. Most later emigrated to Germany."
+}, {
+  "entityIndex" : "entity25400",
+  "entityUrl" : "http://dbpedia.org/resource/Edict_of_Restitution",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*Austria", "*Catholic League", "Spain", "Denmark-Norway", "Sweden", "*Bavaria", "Transylvania" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Cardinal-Infante_Ferdinand", "http://dbpedia.org/resource/Ferdinand_III,_Holy_Roman_Emperor", "http://dbpedia.org/resource/Johann_von_Werth", "http://dbpedia.org/resource/Albrecht_von_Wallenstein", "http://dbpedia.org/resource/Gaspar_de_Guzmán,_Count-Duke_of_Olivares", "http://dbpedia.org/resource/Maximilian_I,_Elector_of_Bavaria", "http://dbpedia.org/resource/Johan_Baner", "http://dbpedia.org/resource/John_George_I_of_Saxony", "http://dbpedia.org/resource/George_Villiers,_1st_Duke_of_Buckingham", "http://dbpedia.org/resource/Johann_Tserclaes,_Count_of_Tilly", "http://dbpedia.org/resource/Louis_II_de_Bourbon,_Prince_de_Condé", "http://dbpedia.org/resource/Cardinal_Richelieu", "http://dbpedia.org/resource/Piet_Pieterszoon_Hein", "http://dbpedia.org/resource/Ferdinand_II,_Holy_Roman_Emperor", "http://dbpedia.org/resource/Frederick_V,_Elector_Palatine", "http://dbpedia.org/resource/Christian_IV_of_Denmark", "http://dbpedia.org/resource/Gabriel_Bethlen", "http://dbpedia.org/resource/Alexander_Leslie,_1st_Earl_of_Leven", "http://dbpedia.org/resource/Henri_de_la_Tour_d'Auvergne,_Vicomte_de_Turenne", "http://dbpedia.org/resource/Franz_von_Mercy", "http://dbpedia.org/resource/Bernhard_of_Saxe-Weimar", "http://dbpedia.org/resource/Gustav_II_Adolf" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Europe" ],
+    "dbo:result" : [ "Peace of Westphalia" ],
+    "dbo:strength" : [ "150,000 French", "150,000 Swedes,", "20,000 Danish,", "300,000 Spanish,", "75,000 Dutch,", "~100,000 Germans,", "~100-200,000 Germans", "~450,000,", "~495,000," ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Editto_di_restituzione_(1).JPG?width=300" ],
+    "dbp:caption" : [ "Map of Europe in 1648, after the Peace of Westphalia.  Small German states within the Holy Roman Empire are shown in grey." ],
+    "dbp:date" : [ "1618" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Edict of Restitution, passed eleven years into the Thirty Years' War on March 6, 1629 following Catholic successes at arms, was a belated attempt by Ferdinand II, Holy Roman Emperor to impose and restore the religious and territorial situations reached in the Peace of Augsburg (1555). From the pro-Catholic viewpoint, the \"Ecclesiastical Reservation\" of the Augsburg treaty had impeded the secularization of Catholic lands after 1555, so no further Catholic lands could be converted to Protestant control. However, over several decades of weak willed emperors the \"Ecclesiastical Reservation\" had not been enforced against the encroaching Protestants."
+}, {
+  "entityIndex" : "entity25401",
+  "entityUrl" : "http://dbpedia.org/resource/Erzurum_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "4,000 wounded", "1,000 killed", "4,000 frostbitten" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abdul_Kerim_Pasha", "http://dbpedia.org/resource/Nikolai_Nikolaevich_Yudenich" ],
+    "dbo:date" : [ "1916-01-10", "1916-02-16" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Erzurum", "http://dbpedia.org/resource/Ottoman_Empire" ],
+    "dbo:result" : [ "Russian victory" ],
+    "dbo:strength" : [ "Russian Caucasus Army", "134,000", "150 trucks", "20 planes", "22pxThird Army", "290,000 infantry", "35,000 cavalry" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Captured_flags_in_Erzurum.jpg?width=300" ],
+    "dbp:caption" : [ "Russian troops holding captured standards at Erzurum" ],
+    "dbp:casualties" : [ "5000", "10000" ]
+  },
+  "text" : "The Erzurum Offensive (Russian: Эрзурумское сражение Erzurumskoe srazhenie ;Turkish: Erzurum Taarruzu) or Battle of Erzurum (Turkish: Erzurum Muharebesi) was a major winter offensive by the Imperial Russian Army on the Caucasus Campaign, during the First World War, that led to the capture of the strategic city of Erzurum. Ottoman forces, in winter quarters, suffered a series of unexpected reverses that led to a Russian victory."
+}, {
+  "entityIndex" : "entity25402",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_the_Thousand",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "''Red Shirts", "31pxGiuseppe Garibaldi", "31pxKingdom of Sardinia", "31pxPapal States", "32pxTwo Sicilies", "Southern Army''" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pope_Pius_IX", "http://dbpedia.org/resource/Christophe_Léon_Louis_Juchault_de_Lamoricière", "http://dbpedia.org/resource/Victor_Emmanuel_II", "http://dbpedia.org/resource/Francis_II_of_the_Two_Sicilies", "http://dbpedia.org/resource/Giuseppe_Garibaldi", "http://dbpedia.org/resource/Enrico_Cialdini" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Italian_Unification" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Sicily", "http://dbpedia.org/resource/Southern_Italy" ],
+    "dbo:result" : [ "(est. 17 March 1861)", "----Kingdom of Italycreated;", "Collapse of theTwo Sicilies;", "Papal Statesreduced toLatium;", "Unification victory;" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Sicily", "http://dbpedia.org/resource/Kingdom_of_Sardinia", "http://dbpedia.org/resource/Southern_Italy" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Partenza_da_Quarto.jpg?width=300" ],
+    "dbp:caption" : [ "The beginning of the expedition at Quarto" ],
+    "dbp:date" : [ "1860" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Expedition of the Thousand (Italian Spedizione dei Mille) was an event of the Italian Risorgimento that took place in 1860. A corps of volunteers led by Giuseppe Garibaldi landed in Sicily in order to conquer the Kingdom of the Two Sicilies, ruled by the Bourbons. The project was an ambitious and risky venture aiming to conquer, with a thousand men, a kingdom with a larger regular army and a more powerful navy. The expedition was a success and concluded with a plebiscite that brought Naples and Sicily into the Kingdom of Sardinia, the last territorial conquest before the creation of the Kingdom of Italy on 17 March 1861. The sea venture was the only desired action that was jointly decided by the \"four fathers of the nation\" Giuseppe Mazzini, Giuseppe Garibaldi, Victor Emmanuel II, and Camillo Cavour, pursuing divergent goals. However, the Expedition was instigated by Francesco Crispi, who utilized his political influence to bolster the Italian unification project. The various groups participated in the expedition for a variety of reasons: for Garibaldi, it was to achieve a united Italy; to the Sicilian bourgeoisie, an independent Sicily as part of the kingdom of Italy, and for the mass farmers, land distribution and the end of oppression."
+}, {
+  "entityIndex" : "entity25403",
+  "entityUrl" : "http://dbpedia.org/resource/English_Armada",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "11,000–15,000 killed, wounded or died of disease", "40 ships sunk or captured" ],
+    "dbo:combatant" : [ "Kingdom of England", "United Provinces", "25pxIberian Union(Habsburg Spain)", "Portuguese loyal toPrior of Crato" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Robert_Devereux,_2nd_Earl_of_Essex", "http://dbpedia.org/resource/Edward_Norreys", "http://dbpedia.org/resource/John_Norreys", "http://dbpedia.org/resource/Elizabeth_I_of_England", "http://dbpedia.org/resource/Francis_Drake", "http://dbpedia.org/resource/António,_Prior_of_Crato", "http://dbpedia.org/resource/Philip_II_of_Spain", "http://dbpedia.org/resource/Teodósio_II,_Duke_of_Braganza", "http://dbpedia.org/resource/Pedro_Henriquez_de_Acevedo,_Count_of_Fuentes", "http://dbpedia.org/resource/Martín_de_Padilla_y_Manrique,_1st_Count_of_Santa_Gadea", "http://dbpedia.org/resource/Alonso_de_Bazán", "http://dbpedia.org/resource/María_Pita", "http://dbpedia.org/resource/Juan_Pacheco_de_Toledo,_2nd_Marquis_of_Cerralbo", "http://dbpedia.org/resource/Álvaro_Troncoso" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eighty_Years'_War", "http://dbpedia.org/resource/Anglo–Spanish_War_(1585)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Iberian_Peninsula", "http://dbpedia.org/resource/Portugal", "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/A_Coruña" ],
+    "dbo:result" : [ "Decisive Spanish victory", "* The Spanish Habsburg dynasty continues to occupy the Portuguese throne, with its empire (including the Portuguese fleet, such as the Lisbon based Ocean Sea Armada). Failed attempt to create a successful uprising within the capital, especially among its elites, in favor of Prior do Crato.", "* The Spanish fleet retains the capability of waging war" ],
+    "dbo:strength" : [ "15,000 men", "Fourgalleons", "20pinnaces", "23,375 men", "60 Dutchflyboats", "60 armed merchant vessels", "Sixgalleons", "Unknown armed merchant vessels" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/A_Coruña._María_Pita’s_statue._Galicia_(Spain).jpg?width=300" ],
+    "dbp:caption" : [ "Monument of the heroine Maria Pita in the Square of the Town Hall of A Coruña" ],
+    "dbp:casualties" : [ "900" ],
+    "dbp:date" : [ "1589" ]
+  },
+  "text" : "The English Armada, also known as the Counter Armada or the Drake-Norris Expedition, was a fleet of warships sent to Iberia by Queen Elizabeth I of England in 1589, during the Anglo-Spanish War (1585–1604) and the Eighty Years' War. It was led by Sir Francis Drake as admiral and Sir John Norreys as general, and failed to drive home the advantage England had won upon the dispersal of the Spanish Armada in the previous year. The campaign resulted in the defeat of the English fleet and eventually to a withdrawal with heavy losses of both lives and ships. The Spanish victory marked a revival of Philip II's naval power through the next decade."
+}, {
+  "entityIndex" : "entity25404",
+  "entityUrl" : "http://dbpedia.org/resource/Eritrean_War_of_Independence",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "~60,000 soldiers", "~90,000 civilians" ],
+    "dbo:combatant" : [ "----", "Libya", "Supported by:", "(until 1974)", "(1974–1989)", "(1974–1990)", "(1977–1991)", "(Humanitarian Support)", "(May 1991)", "(until 1977)", "----Derg(1974–1987)", "ELF", "EPLF", "Ethiopian Empire(1961-1974)", "PDRE(1987–1991)", "TPLF" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Tafari_Benti", "http://dbpedia.org/resource/Mohammed_Said_Bareh", "http://dbpedia.org/resource/Hamid_Idris_Awate", "http://dbpedia.org/resource/Meles_Zenawi", "http://dbpedia.org/resource/Petros_Solomon", "http://dbpedia.org/resource/Isaias_Afewerki", "http://dbpedia.org/resource/Haile_Selassie_I_of_Ethiopia", "http://dbpedia.org/resource/Mengistu_Haile_Mariam", "http://dbpedia.org/resource/Aklilu_Habte-Wold", "http://dbpedia.org/resource/Woldeab_Woldemariam", "http://dbpedia.org/resource/Ibrahim_Sultan_Ali", "http://dbpedia.org/resource/Sebhat_Ephrem" ],
+    "dbo:date" : [ "1961-09-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cold_War", "http://dbpedia.org/resource/Conflicts_in_the_Horn_of_Africa" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ethiopia", "http://dbpedia.org/resource/Eritrea" ],
+    "dbo:result" : [ "Eritrean victory; overthrow ofDerg/People's Democratic Republic of Ethiopia; Ethiopia becomes a landlocked country." ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Ethiopia", "http://dbpedia.org/resource/Eritrea" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Eritrean_Independence_War_Map.png?width=300" ],
+    "dbp:caption" : [ "Map of Eritrea" ],
+    "dbp:casualties" : [ "Ethiopians:", "~80,000 soldiers" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Eritrean War for Independence (1 September 1961 – 29 May 1991) was a conflict fought between the Ethiopian government and Eritrean separatists, both before and during the Ethiopian Civil War. The war started when Eritrea's autonomy within Ethiopia, where troops were already stationed, was revoked. Eritrea had become part of Ethiopia after World War II, when both territories were liberated from Italian occupation. Ethiopia claimed that Eritrea was part of their country. Ethiopia's wishes were fulfilled after the United Nations General Assembly federated Eritrea to Ethiopia as a province as early as 1950. Following the Marxist–Leninist coup in Ethiopia in 1974 which toppled its ancient monarchy, the Ethiopians enjoyed Soviet Union support until the end of the 1980s, when glasnost and perestroika started to affect Moscow's foreign policies, resulting in a withdrawal of help. The war went on for 30 years until 1991, when the Eritrean People's Liberation Front (EPLF) defeated the Ethiopian forces in Eritrea, and the Ethiopian People's Revolutionary Democratic Front (EPRDF), with the help of the EPLF, took control of Ethiopia and removed the Marxist–Leninist People's Democratic Republic of Ethiopia (PDRE) from the Ethiopian capital of Addis Ababa. In April 1993, in a referendum supported by Ethiopia, the Eritrean people voted almost unanimously in favour of independence. Formal international recognition of an independent, sovereign Eritrea followed later the same year. The two main rebel groups, the Eritrean Liberation Front (ELF) and the EPLF, fought the two Eritrean Civil Wars during the war of liberation."
+}, {
+  "entityIndex" : "entity25405",
+  "entityUrl" : "http://dbpedia.org/resource/East_Prigorodny_Conflict",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "379 wounded", "192 dead" ],
+    "dbo:combatant" : [ "25pxDon Cossacks", "Ingushmilitia", "North Ossetian Republican Guard", "North Ossetian militiaand security forces", "Russian Army", "South Ossetian militia", "Terek Cossacks" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Akhsarbek_Galazov", "http://dbpedia.org/resource/Boris_Yeltsin", "http://dbpedia.org/resource/Ruslan_Aushev" ],
+    "dbo:date" : [ "1992-10-30" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Republic_of_North_Ossetia–Alania", "http://dbpedia.org/resource/Ingushetia", "http://dbpedia.org/resource/Prigorodny_District,_Republic_of_North_Ossetia–Alania" ],
+    "dbo:result" : [ "Ethnic cleansingofethnic Ingushfrom the Prigorodny district byOssetianmilitia" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Prigorodnij_rajon_RSO-A.png?width=300" ],
+    "dbp:caption" : [ "Map of the Prigorodny district inside North Ossetia" ],
+    "dbp:casualties" : [ "350", "457", "9000", "43000" ]
+  },
+  "text" : "The East Prigorodny Conflict was an inter-ethnic conflict in the eastern part of the Prigorodny district in the Republic of North Ossetia–Alania, which started in 1989 and developed, in 1992, into a brief ethnic war between local Ingush and Ossetian paramilitary forces. \"Human Rights Watch/Helsinki\" takes no position on the ultimate status of the Prigorodnyi region. Human Rights Watch/Helsinki report investigates human rights violations committed by all parties to the conflict from 1992 to 1996, its major emphasis is on the events between October 31, 1992 and November 31, 1992, on the process of return for the displaced, and on attempts to bring to justice those who committed criminal acts connected with the conflict. The report also examines the Russian government's weak response to events leading to the armed conflict and its utter failure to prevent the destruction of thousands of homes and dwellings."
+}, {
+  "entityIndex" : "entity25406",
+  "entityUrl" : "http://dbpedia.org/resource/Engagements_on_Lake_Huron",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 schooner destroyed", "3 guns captured", "3 killed,", "9 wounded," ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/George_Croghan_(soldier)", "http://dbpedia.org/resource/Miller_Worsley", "http://dbpedia.org/resource/Arthur_Sinclair", "http://dbpedia.org/resource/Daniel_Turner_(naval_officer)" ],
+    "dbo:date" : [ "1814-09-06" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_1812" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Lake_Huron" ],
+    "dbo:result" : [ "British victory" ],
+    "dbp:campaignbox" : [ "Old Northwest" ],
+    "dbp:casualties" : [ "2", "6" ]
+  },
+  "text" : "The series of minor Engagements on Lake Huron left the British in control of the lake and their Native American allies in control of the Old Northwest for the latter stages of the War of 1812."
+}, {
+  "entityIndex" : "entity25407",
+  "entityUrl" : "http://dbpedia.org/resource/East_Prussian_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "220,000 captured", "Unknown killed or wounded" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Dietrich_von_Saucken", "http://dbpedia.org/resource/Konstantin_Rokossovsky", "http://dbpedia.org/resource/Hovhannes_Bagramyan", "http://dbpedia.org/resource/Ivan_Chernyakhovsky", "http://dbpedia.org/resource/Erhard_Raus", "http://dbpedia.org/resource/Aleksandr_Vasilevsky", "http://dbpedia.org/resource/Friedrich-Wilhelm_Müller", "http://dbpedia.org/resource/Friedrich_Hossbach", "http://dbpedia.org/resource/Georg-Hans_Reinhardt", "http://dbpedia.org/resource/Walter_Weiss" ],
+    "dbo:date" : [ "1945-04-25" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/East_Prussia" ],
+    "dbo:result" : [ "Soviet victory" ],
+    "dbo:strength" : [ "1,669,100 men", "200,000 Volkssturm troopers", "580,000 men" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/4tharmy.jpg?width=300" ],
+    "dbp:caption" : [ "Soldiers of the German 4th Army man positions on the East Prussian border immediately prior to the offensive" ],
+    "dbp:casualties" : [ "126464", "458314" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The East Prussian Offensive was a strategic offensive by the Red Army against the German Wehrmacht on the Eastern Front (World War II). It lasted from 13 January to 25 April 1945, though some German units did not surrender until 9 May. The Battle of Königsberg was a major part of the offensive, which ended in victory for the Red Army. The East Prussian Offensive is known to German historians as the Second East Prussian Offensive. The First East Prussian Offensive (also known as the Gumbinnen Operation), took place from 16–27 October 1944, and was carried out by the 3rd Belorussian Front under General I.D. Chernyakhovsky as part of the Memel Offensive of the 1st Baltic Front. The Soviet forces took heavy casualties while penetrating 30–60 km (19–37 mi) into east-northern part of Poland, and the offensive was postponed until greater reserves could be gathered."
+}, {
+  "entityIndex" : "entity25408",
+  "entityUrl" : "http://dbpedia.org/resource/European_theatre_of_World_War_I",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*", "*Australia", "*Canada", "*New Zealand", ",", "Central Powers:", "Entente Powers:", "France", "/Republic" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/David_Lloyd_George", "http://dbpedia.org/resource/Franz_Joseph_I_of_Austria", "http://dbpedia.org/resource/George_V", "http://dbpedia.org/resource/Paul_von_Hindenburg", "http://dbpedia.org/resource/Aleksei_Brusilov", "http://dbpedia.org/resource/John_Pershing", "http://dbpedia.org/resource/Joseph_Joffre", "http://dbpedia.org/resource/Douglas_Haig,_1st_Earl_Haig", "http://dbpedia.org/resource/Raymond_Poincaré", "http://dbpedia.org/resource/Radomir_Putnik", "http://dbpedia.org/resource/Herbert_Henry_Asquith", "http://dbpedia.org/resource/John_Jellicoe,_1st_Earl_Jellicoe", "http://dbpedia.org/resource/Robert_Nivelle", "http://dbpedia.org/resource/Peter_I_of_Serbia", "http://dbpedia.org/resource/Panagiotis_Danglis", "http://dbpedia.org/resource/Albert_I_of_Belgium", "http://dbpedia.org/resource/Constantine_I_of_Greece", "http://dbpedia.org/resource/Ferdinand_Foch", "http://dbpedia.org/resource/Ferdinand_I_of_Bulgaria", "http://dbpedia.org/resource/Nicholas_II_of_Russia", "http://dbpedia.org/resource/Victor_Emmanuel_III_of_Italy", "http://dbpedia.org/resource/William_II,_German_Emperor", "http://dbpedia.org/resource/Woodrow_Wilson", "http://dbpedia.org/resource/Armando_Diaz", "http://dbpedia.org/resource/Erich_Ludendorff", "http://dbpedia.org/resource/Ferdinand_of_Romania", "http://dbpedia.org/resource/Mehmed_V", "http://dbpedia.org/resource/Nikola_Zhekov", "http://dbpedia.org/resource/Luigi_Cadorna", "http://dbpedia.org/resource/Constantin_Prezan", "http://dbpedia.org/resource/Conrad_von_Hötzendorf", "http://dbpedia.org/resource/Erich_von_Falkenhayn", "http://dbpedia.org/resource/Enver_Pasha" ],
+    "dbo:date" : [ "1914-08-03", "1918-11-11" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Europe" ],
+    "dbo:result" : [ "Treaty of Versailles,Treaty of Brest-Litovsk" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Although considerable conflict took place outside Europe, the European theatre was the main theatre of operations during World War I and was where the war began and ended. During the four years of conflict, battle was joined by armies of unprecedented size equipped with new mechanized technologies, leaving millions dead or wounded."
+}, {
+  "entityIndex" : "entity25409",
+  "entityUrl" : "http://dbpedia.org/resource/East_African_Campaign_(World_War_I)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "British: 10,000 dead" ],
+    "dbo:combatant" : [ "*", "*United Kingdom", "Portugal", "*South Africa", "*Uganda", "*German East Africa", "*East Africa Protectorate", "*Portuguese East Africa" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Heinrich_Schnee", "http://dbpedia.org/resource/Charles_Tombeur", "http://dbpedia.org/resource/Paul_von_Lettow-Vorbeck", "http://dbpedia.org/resource/Jacob_van_Deventer_(general)", "http://dbpedia.org/resource/Jan_Smuts", "http://dbpedia.org/resource/Armand_Huyghé", "http://dbpedia.org/resource/Ferreira_Gil" ],
+    "dbo:date" : [ "1914-08-03" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/African_theatre_of_World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Mozambique", "http://dbpedia.org/resource/Rwanda", "http://dbpedia.org/resource/Zambia", "http://dbpedia.org/resource/Kenya", "http://dbpedia.org/resource/Tanzania", "http://dbpedia.org/resource/Uganda", "http://dbpedia.org/resource/Burundi", "http://dbpedia.org/resource/Democratic_Republic_of_Congo" ],
+    "dbo:result" : [ "Allied victory" ],
+    "dbo:strength" : [ "British Empire:", "Average: 12,000 to 20,000 soldiers", "Initially: 2 battalions.", "Initially: 200 Europeans and 2,500 Africans", "Peak: 3,000 Europeans and 15,000 African soldiers.", "Total: 250,000 soldiers" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_105-DOA3056,_Deutsch-Ostafrika,_Askarikompanie.jpg?width=300" ],
+    "dbp:caption" : [ "A colonial Askari company ready to march in German East Africa" ],
+    "dbp:casualties" : [ "115", "365000", "German: 2,000 dead" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The East African Campaign was a series of battles and guerrilla actions, which started in German East Africa and spread to portions of Mozambique, Northern Rhodesia, British East Africa, Uganda and the Belgian Congo. The campaign all but ended in November 1917, when the Germans entered Portuguese East Africa and continued the campaign living off Portuguese supplies. The strategy of the German colonial forces, led by Lieutenant Colonel (later Generalmajor) Paul Emil von Lettow-Vorbeck, was to divert forces from the Western Front to Africa. His strategy achieved only mixed results after 1916, when he was driven out of German East Africa and Allied forces became composed almost entirely of South African, Indian and other colonial troops. Black South African troops were not considered for European service as a matter of policy, while all Indian units had been withdrawn from the Western Front by the end of 1915; the campaign in Africa consumed considerable amounts of money and war material that could have gone to other fronts. The Germans fought for the whole of World War I, receiving word of the armistice on 14 November 1918 at 7:30 a.m. Both sides waited for confirmation and the Germans formally surrendered on 25 November. German East Africa became two League of Nations Class B Mandates, Tanganyika Territory of the United Kingdom and Ruanda-Urundi of Belgium, while the Kionga Triangle became a mandate of Portugal."
+}, {
+  "entityIndex" : "entity25410",
+  "entityUrl" : "http://dbpedia.org/resource/Esopus_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Iroquois Confederacy", "22pxDutchsettlers", "Esopus tribe ofLenape Indians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Martin_Cregier" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Indian_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/New_Netherland" ],
+    "dbo:result" : [ "Dutch victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Prinsenvlag.svg?width=300" ],
+    "dbp:commander" : [ "Chief Papequanaehen" ],
+    "dbp:date" : [ "September 1659–September 1663" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Esopus Wars were two localized conflicts between the indigenous Esopus tribe of Lenape Indians and colonialist New Netherlanders during the latter half of the 17th century in what is now Ulster County, New York. Like many other wars during the colonial period, at bottom they were the result of competition between European and Indian cultures, aggravated by mutual misunderstanding and suspicion. The first battle was started by Dutch settlers; the second war was a continuation of grudge on the part of the Esopus tribe. The most lasting result of the wars was the display of power by the Esopus. These two wars coincided with the broadening of English interests in the Dutch territories of the New World. The Dutch difficulty in defeating the Esopus alerted the English to the power of these Native Americans."
+}, {
+  "entityIndex" : "entity25411",
+  "entityUrl" : "http://dbpedia.org/resource/Engagements_on_Lake_Ontario",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 brig captured", "1 sloop destroyed", "2 brigs destroyed" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/James_Lucas_Yeo", "http://dbpedia.org/resource/Isaac_Chauncey" ],
+    "dbo:date" : [ "1812-06-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_1812" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Lake_Ontario" ],
+    "dbo:result" : [ "Indecisive" ],
+    "dbo:strength" : [ "2 frigates", "12 schooners and gunboats", "1first rateship of the line", "4 schooners and gunboats", "6 sloops and brigs" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/SceneOnLakeOntario1812.jpg?width=300" ],
+    "dbp:caption" : [ "281813.0" ],
+    "dbp:casualties" : [ "1", "2" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Engagements on Lake Ontario encompass the prolonged naval contest for control of the lake during the War of 1812. Few actions were fought, none of which had decisive results, and the contest essentially became a naval building race, sometimes referred to sarcastically as the \"Battle of the Carpenters\"."
+}, {
+  "entityIndex" : "entity25412",
+  "entityUrl" : "http://dbpedia.org/resource/East_Pakistan_Air_Operations,_1971",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "19 aircraft lost by IAF to various causes." ],
+    "dbo:combatant" : [ "----", "(Joined the war on 3 December 1971)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Air_Commodore", "http://dbpedia.org/resource/Air_Marshal", "http://dbpedia.org/resource/Lieutenant-Colonel", "http://dbpedia.org/resource/Group_Captain" ],
+    "dbo:date" : [ "1971-12-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Bangladesh_liberation_war" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Bangladesh", "http://dbpedia.org/resource/East_Pakistan" ],
+    "dbo:result" : [ "Indian Air Force gained absolute air superiority over East Pakistan Air Force", "Defeat ofPakistan Air ForceEastern Contingent", "Indian tactical and strategic victory" ],
+    "dbo:strength" : [ "Pakistan Air Force:", "1 SukhoiSu-7BMK Squadron", "16Canadair Sabre, 2 T-33 Trainer, 8 Helicopters.", "2CanberraSquadron", "3 FlightsAlouette IIIHelicopters", "3 FlightsMi-4", "3Folland GnatSquadrons", "3Mig 21FL Squadrons", "4Hawker HunterSquadrons", "Bangladesh Air Force: Kilo Flight", "Indian Air Force Eastern Command:" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Bangladesh" ],
+    "dbp:casualties" : [ "1", "5", "11" ]
+  },
+  "text" : "East Pakistan Air Operations incorporate the interdiction, air defense, ground support, and logistics missions flown by the Indian Air Force and the Bangladesh Air Force in support of the advancing Mukti Bahini (called Operation Cactus Lily) in the eastern theater of the Indo-Pakistani conflict of 1971. Although the first of the engagements between the opposing airpowers occurred before the formal declaration of hostilities, the events described below include only those conducted after the declaration of war. The Indian Air force also helped the Mukti Bahini organize a formation of light aircraft (called Kilo flight) which were manned and serviced by Bengali pilots and technicians who had defected from the Pakistani Air Force. This unit had launched attacks on targets in Bangladesh on 3 December 1971, prior to the start of formal combat between India and Pakistan."
+}, {
+  "entityIndex" : "entity25413",
+  "entityUrl" : "http://dbpedia.org/resource/Ethiopian_Civil_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "----", "Supported by:", "WSLF", "OLF", "ALF", "ELF", "EPLF", "TPLF", "19px|link=EPRP", "Derg(1974-1987)", "EDU", "EPDM", "MEISON(from 1977)", "ONLF", "People's Democratic Republic of Ethiopia(1987–1991)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Dawud_Ibsa_Ayana", "http://dbpedia.org/resource/Meles_Zenawi", "http://dbpedia.org/resource/Isaias_Afewerki", "http://dbpedia.org/resource/Fidel_Castro", "http://dbpedia.org/resource/Mengistu_Haile_Mariam" ],
+    "dbo:date" : [ "1974-09-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cold_War", "http://dbpedia.org/resource/Conflicts_in_the_Horn_of_Africa" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ethiopia" ],
+    "dbo:result" : [ "Fall of the CommunistMengistugovernment, installation ofTPLF-led,EPLFhelped and supported transitional government, to becomeEPRDFgovernment" ],
+    "dbo:strength" : [ "/", "150,000 (1989)" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Ethiopia", "http://dbpedia.org/resource/Eritrea" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/T-55s_civil_war.JPG?width=300" ],
+    "dbp:caption" : [ "Disabled T-62 tank in Addis Ababa, 1991" ],
+    "dbp:casualties" : [ "~400,000–579,000 violent deaths" ],
+    "dbp:casus" : [ "http://dbpedia.org/resource/Derg", "http://dbpedia.org/resource/Coup_d'etat" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Ethiopian Civil War began on 12 September 1974 when the Marxist Derg staged a coup d'état against Emperor Haile Selassie. The civil war lasted until the Ethiopian People's Revolutionary Democratic Front (EPRDF), a coalition of rebel groups, overthrew the government in 1991. The war left at least 1.4 million dead."
+}, {
+  "entityIndex" : "entity25414",
+  "entityUrl" : "http://dbpedia.org/resource/Eelam_War_I",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Liberation Tigers of Tamil Eelam", "18pxMilitary of Sri Lanka" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Velupillai_Prabhakaran", "http://dbpedia.org/resource/Lieutenant_General", "http://dbpedia.org/resource/J.R._Jayewardene" ],
+    "dbo:date" : [ "1983-07-23" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sri_Lankan_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Sri_Lanka" ],
+    "dbo:result" : [ "Peace deal negotiated byIndia, and arrival ofIndian Peacekeepers" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Eelam War I is the name given to the initial phase of the armed conflict between the government of Sri Lanka and the LTTE. Although tensions between the government and Tamil militant groups had been brewing since the 1970s, full-scale war did not break out until an attack by the LTTE on a Sri Lanka Army patrol in Jaffna, in the north of the country, on July 23, 1983, which killed 13 soldiers. The attack, and the subsequent riots in the south (dubbed Black July), are generally considered as the start of the conflict.This fighting continued until 1985, when peace talks were held between the two sides in Thimphu, Bhutan, in hopes of seeking a negotiated settlement. They proved fruitless and fighting soon resumed. By 1987, the Vadamarachchi Operation of the Sri Lankan military had cornered the LTTE in Jaffna, on the tip of the island and were confident of bringing an end to the conflict. However, due to internal pressure, specifically concern about the 50 million Tamils living in India, the Indian government called for a halt to the offensive. After the request was snubbed by Sri Lanka, the Indian Prime Minister Rajiv Gandhi ordered a flotilla of ships be sent to relieve the LTTE. After the convoy was blocked by the Sri Lanka Navy, India instead chose to airdrop supplies to the besieged city in a mission codenamed Operation Poomalai. Following the successful completion of the mission, and faced with the possibility of further involvement of the Indian military, including reports that Indian ground forces were being prepared for possible involvement in Sri Lanka, Sri Lanka President J. R. Jayewardene held talks with the Indian government to resolve the dispute. As a result of the negotiations, the siege of Jaffna was lifted and the Indo-Sri-Lankan accord was signed on July 29, 1987. Sri Lankan troops then withdraw from the north of the country and handed over control over the entire area to Indian peacekeeping troops named the Indian Peace Keeping Force. This brought about an end to the first stage of the ethnic conflict."
+}, {
+  "entityIndex" : "entity25415",
+  "entityUrl" : "http://dbpedia.org/resource/Eelam_War_II",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Liberation Tigers of Tamil Eelam", "18pxMilitary of Sri Lanka" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Dingiri_Banda_Wijetunge", "http://dbpedia.org/resource/Velupillai_Prabhakaran", "http://dbpedia.org/resource/Chandrika_Kumaratunga", "http://dbpedia.org/resource/Ranasinghe_Premadasa" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sri_Lankan_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Sri_Lanka" ],
+    "dbo:result" : [ "Indecisive" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Elephant_Pass_armored_bulldozer.JPG?width=300" ],
+    "dbp:caption" : [ "Improvised armored bulldozer of Liberation Tigers of Tamil Eelam used in First Battle of Elephant Pass. Today, it is one of the Sri Lankan Civil War memorials." ],
+    "dbp:date" : [ "1990" ]
+  },
+  "text" : "Eelam War II is the name given to the second phase of armed conflict between Sri Lankan military and the separatist Liberation Tigers of Tamil Eelam. The war started after the failure of peace talks between the Premadasa government and the LTTE. This phase of the war was initiated by the LTTE who massacred almost 600 sinhalese and Muslim police personnel after they were ordered by the Premadasa government to surrender to the LTTE. The truce was broken on June 10, 1990. The LTTE in October expelled all the 28,000 Muslims residing in Jaffna."
+}, {
+  "entityIndex" : "entity25416",
+  "entityUrl" : "http://dbpedia.org/resource/Eelam_War_III",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "7,838" ],
+    "dbo:combatant" : [ "Liberation Tigers of Tamil Eelam", "18pxMilitary of Sri Lanka" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Velupillai_Prabhakaran", "http://dbpedia.org/resource/Chandrika_Kumaratunga" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sri_Lankan_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Sri_Lanka" ],
+    "dbo:result" : [ "Cease fire" ],
+    "dbo:strength" : [ "18,000-24,000", "247,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300" ],
+    "dbp:casualties" : [ "2876" ],
+    "dbp:date" : [ "1995" ]
+  },
+  "text" : "Eelam War III is the name given to the third phase of armed conflict between Sri Lankan military and the separatist Liberation Tigers of Tamil Eelam. After the period of 100 days cease-fire the hostilities broke out on the 19th of April 1995. The LTTE - Sea Tigers planted explosives in two gun boats known as SLNS 'Sooraya' and 'Ranasuru', and blew them up. Also, a new weapon \"Stinger\", a shoulder-launched anti-aircraft missile was used in this conflict by the LTTE. This was used to take down two Sri Lankan Air Force AVRO aircraft flying over the Jaffna peninsula. Eelam War III also marked the rise of the LTTE and the decline of the Sri Lankan Army."
+}, {
+  "entityIndex" : "entity25417",
+  "entityUrl" : "http://dbpedia.org/resource/Eelam_War_IV",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "29,551 wounded(government claim)", "6,261 killed (government claim)" ],
+    "dbo:combatant" : [ "Liberation Tigers of Tamil Eelam", "18pxMilitary of Sri Lanka" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Wasantha_Karannagoda", "http://dbpedia.org/resource/Velupillai_Prabhakaran", "http://dbpedia.org/resource/Mahinda_Rajapaksa", "http://dbpedia.org/resource/Sarath_Fonseka", "http://dbpedia.org/resource/Roshan_Goonatilake" ],
+    "dbo:date" : [ "2006-07-26" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sri_Lankan_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Sri_Lanka" ],
+    "dbo:result" : [ "DecisiveSri Lankan Armed Forces victory. End of LTTE conventional military capabilities inside Sri Lanka." ],
+    "dbo:strength" : [ "150,000 (approx.)", "18,000 (approx.)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300" ],
+    "dbp:casualties" : [ "15000" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Eelam War IV is the name given to the fourth phase of armed conflict between the Sri Lankan military and the separatist Liberation Tigers of Tamil Eelam (LTTE), which is currently proscribed as a terrorist organisation by 32 countries. Renewed hostilities began on the 26 July 2006, when Sri Lanka Air Force fighter jets bombed several LTTE camps around Mavil Aru anicut. The government's casus belli was that the LTTE had cut off the water supply to surrounding paddy fields in the area. The fighting resumed after a four-year ceasefire between the Government of Sri Lanka (GoSL) and LTTE. Continued fighting led to several territorial gains for the Sri Lankan Army, including the capture of Sampur, Vakarai and other parts of the east. The war took on an added dimension when the LTTE Air Tigers bombed Katunayake airbase on March 26, 2007, the first rebel air attack without external assistance in history. Eelaam War IV ended on 18 May 2009 with the Sri Lanka Army gaining control of the last bit of territory held by the LTTE and with the death of the LTTE leader Velupillai Prabhakaran. The final few days of the war near Nandikadal Lagoon in the north east of the island saw very heavy fighting and led to Sri Lankan forces being accused of war crimes, which were denied by the government. Some 300,000 Tamil civilians who were trapped inside the war zone and prevented from escaping by the LTTE were caught in the crossfire during the final phase of the war."
+}, {
+  "entityIndex" : "entity25418",
+  "entityUrl" : "http://dbpedia.org/resource/East_Pomeranian_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Poland" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/2nd_Army_(Wehrmacht)", "http://dbpedia.org/resource/Dietrich_von_Saucken", "http://dbpedia.org/resource/Konstantin_Rokossovsky", "http://dbpedia.org/resource/2nd_Belorussian_Front", "http://dbpedia.org/resource/Walter_Weiß" ],
+    "dbo:date" : [ "1945-04-04" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Reichsgau_Danzig-West_Prussia", "http://dbpedia.org/resource/Pomerania_Province_(1815-1945)" ],
+    "dbo:result" : [ "Soviet victory" ],
+    "dbo:strength" : [ "Unknown", "996,100" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Danzigm17.jpg?width=300" ],
+    "dbp:caption" : [ "Soviet troops and vehicles in Danzig, March 1945" ],
+    "dbp:casualties" : [ "55315", "179045" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The East Pomeranian Strategic Offensive operation (Russian: Восточно-Померанская наступательная операция) was an offensive by the Red Army in its fight against the German Wehrmacht on the Eastern Front. It took place in Pomerania and West Prussia, and officially lasted from 10 February – 4 April 1945. In Soviet reckoning, it involved the following subordinate operations: Konitz-Köslin Offensive Operation 24 February – 6 March 1945Danzig Offensive Operation 7–31 March 1945Arnswalde-Kolberg Offensive Operation 1–18 March 1945Altdamm Offensive Operation 18 March – 4 April 1945 (near Stettin)"
+}, {
+  "entityIndex" : "entity25419",
+  "entityUrl" : "http://dbpedia.org/resource/Easter_Sunday_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1942-04-09" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Indian_Ocean", "http://dbpedia.org/resource/Ceylon" ],
+    "dbo:result" : [ "Japanese tactical victory: one British aircraft carrier, two heavy cruisers, one auxiliary cruiser, two destroyers and one corvette lost." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Dorsetshire&Cornwall.jpg?width=300" ],
+    "dbp:caption" : [ "--04-05" ]
+  },
+  "text" : "The Easter Sunday Raid (or Battle of Ceylon) was an air attack by carrier-based aircraft of the Imperial Japanese Navy against Colombo, Ceylon (now Sri Lanka), on Easter Sunday, 5 April 1942, during World War II. This attack was part of the Indian Ocean Raid, and was followed a few days later by a similar attack on Trincomalee. The targets were British warships, harbour installations, and air bases; the object was to disrupt the war effort of British Commonwealth nations and force the British Eastern Fleet to leave Asian waters."
+}, {
+  "entityIndex" : "entity25420",
+  "entityUrl" : "http://dbpedia.org/resource/Eritrean_Civil_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Supported by", "ELF", "EPLF", "TPLF" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Meles_Zenawi", "http://dbpedia.org/resource/Isaias_Afewerki", "http://dbpedia.org/resource/Abdella_Idris" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eritrean_War_of_Independence" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Eritrea" ],
+    "dbo:result" : [ "1st Civil War: ELF fails to suppress rivals", "2nd Civil War: ELF decisively defeated" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Er-map.gif?width=300" ],
+    "dbp:caption" : [ "Map of Eritrea" ],
+    "dbp:date" : [ "1", "2" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Eritrean Civil Wars were two conflicts that were fought between competing organizations for the liberation of Eritrea. The First Eritrean Civil War was fought from 1972 to 1974. The Eritrean Liberation Front (ELF) tried to suppress dissident groups that disliked the ELF leadership and wished to break away to form a new insurgency. Dissidents included Christians who resented an alleged Islamic bias in the ELF, inhabitants of the coast with regionalist concerns, and radical Marxists. The ELF failed to suppress the dissident groups, who ultimately united themselves into the Eritrean People's Liberation Front (EPLF). The Second Eritrean Civil War was fought from 1980 to 1981. The EPLF attacked the ELF when it appeared that the ELF were attempting to negotiate a peace deal with the enemy Soviet and Ethiopian governments. The ELF was defeated and pushed out of Eritrea. The remnants of the ELF withdrew to the Sudan."
+}, {
+  "entityIndex" : "entity25421",
+  "entityUrl" : "http://dbpedia.org/resource/Eighth_Battle_of_the_Isonzo",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "25,000 killed, wounded, missing or captured" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Svetozar_Boroević", "http://dbpedia.org/resource/Luigi_Cadorna" ],
+    "dbo:date" : [ "1916-10-10", "1916-10-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_I", "http://dbpedia.org/resource/Italian_Front_(World_War_I)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Italy", "http://dbpedia.org/resource/Monfalcone" ],
+    "dbo:result" : [ "Inconclusive" ],
+    "dbo:strength" : [ "14 divisions", "20 divisions" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Slovenia", "http://dbpedia.org/resource/Soča" ],
+    "dbp:caption" : [ "Italian troops entrenched along the Isonzo River" ],
+    "dbp:casualties" : [ "25000" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Eighth Battle of the Isonzo was fought from October 10–12, 1916 between Italy and Austria-Hungary."
+}, {
+  "entityIndex" : "entity25422",
+  "entityUrl" : "http://dbpedia.org/resource/Egyptian_raid_on_Larnaca_International_Airport",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 jeep all-terrain vehicle destroyed", "15 commandos killed", "15 commandos wounded", "1C-130aircraft destroyed", "3 members of the C-130 crew killed" ],
+    "dbo:combatant" : [ "*Unit 777", "22px|borderCypriot National Guard", "Egyptian special forces" ],
+    "dbo:date" : [ "1978-02-19" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Cyprus", "http://dbpedia.org/resource/Larnaca_International_Airport" ],
+    "dbo:result" : [ "Cypriot victory, Mission unsuccessful; diplomatic ties between Egypt and Cyprus severed for 3 years." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Cyprus_(1960-2006).svg?width=300" ],
+    "dbp:casualties" : [ "Unknown.", "Both hijackers surrender." ]
+  },
+  "text" : "On 19 February 1978, Egyptian special forces raided Larnaca International Airport near Larnaca, Cyprus, in an attempt to intervene in a hijacking. Earlier, two assassins had killed prominent Egyptian newspaper editor Youssef Sebai and then rounded up as hostages several Arabs who were attending a convention in Nicosia. As Cypriot forces were trying to negotiate with the hostage-takers at the airport, Egyptian troops launched their own assault without authorization from the Cypriots. The unauthorized raid led to the Egyptians and the Cypriots exchanging gunfire, killing or injuring more than 20 of the Egyptian commandos. As a result, Egypt and Cyprus severed political ties for several years after the incident."
+}, {
+  "entityIndex" : "entity25423",
+  "entityUrl" : "http://dbpedia.org/resource/English_Wars_(Scandinavia)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "22pxDenmark-Norway", "22pxFrench Empire", "22pxUnited Kingdom", "22pxSpain[a]", "22pxSweden[b]" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/William_Cathcart,_1st_Earl_Cathcart", "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington", "http://dbpedia.org/resource/Charles_August,_Crown_Prince_of_Sweden", "http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson", "http://dbpedia.org/resource/Charles_XIV_John_of_Sweden", "http://dbpedia.org/resource/Frederick_VI_of_Denmark", "http://dbpedia.org/resource/James_Gambier,_1st_Baron_Gambier", "http://dbpedia.org/resource/Christian_VII_of_Denmark", "http://dbpedia.org/resource/Charles_XIII", "http://dbpedia.org/resource/Gustav_IV_Adolf", "http://dbpedia.org/resource/Ernst_Peymann", "http://dbpedia.org/resource/Hyde_Parker_(admiral)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/French_Revolutionary_Wars", "http://dbpedia.org/resource/Napoleonic_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Denmark-Norway", "http://dbpedia.org/resource/Confederation_of_the_Rhine", "http://dbpedia.org/resource/Sweden" ],
+    "dbo:result" : [ "*Frederick VI of DenmarkcedesNorwaytoSwedenending a more-than-400-year-old union between Denmark and Norway.", "*Denmarkjoined theanti-Napoleonicalliance", "Anglo-Swedish victory,Treaty of Kiel" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Norway_in_1814", "http://dbpedia.org/resource/Heligoland", "http://dbpedia.org/resource/Swedish_Pomerania" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Slaget_på_reden.jpg?width=300" ],
+    "dbp:caption" : [ "Battle of Copenhagen (1801) by Vilhelm Østergaard" ],
+    "dbp:casus" : [ "Danish participation in the Second League of Armed Neutrality" ],
+    "dbp:date" : [ "18011807" ],
+    "dbp:notes" : [ "--03-09" ]
+  },
+  "text" : "The English Wars (Danish: Englandskrigene, Swedish: Englandskrigen) were a series of conflicts between England and Sweden with Denmark-Norway as part of the Napoleonic Wars. It is named after the most prominent region of its other main participant, the United Kingdom, which declared war on Denmark-Norway due to disagreements over the neutrality of Danish trade and to prevent the Danish fleet falling into the hands of the First French Empire. It began with the first battle of Copenhagen in 1801 and its latter stage from 1807 onwards was followed by the Gunboat War, the Dano-Swedish War of 1808-1809 and the Swedish invasion of Holstein in 1814."
+}, {
+  "entityIndex" : "entity25424",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Qatan",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "0" ],
+    "dbo:combatant" : [ "Muslims", "Banu Asad bin Khuzaymah tribe" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abu_Salama_'Abd_Allah_ibn_'Abd_al-Asad" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Qatan", "http://dbpedia.org/resource/Nejd" ],
+    "dbo:result" : [ "*Muslims bring back booty", "*Tribe members flee", "Muhammad received intelligence that some members of the Banu Asad bin Khuzaymah tribe were planning to attack Medina:", "*Muhammad sends 150 men to raid the Banu Asad bin Khuzaymah tribe" ],
+    "dbo:strength" : [ "150", "Unknown" ],
+    "dbp:casualties" : [ "3" ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:date" : [ "6254" ]
+  },
+  "text" : "The Expedition of Qatan, was the first Raid on the Banu Asad bin Khuzaymah tribe, which occurred directly after the Battle of Hamra al-Asad in the year 4 A.H of the Islamic calendar. The expedition was ordered by Muhammad after he received intelligence that some members of the Banu Asad bin Khuzaymah were planning to attack Medina."
+}, {
+  "entityIndex" : "entity25425",
+  "entityUrl" : "http://dbpedia.org/resource/Encirclement_Campaign_against_the_Hunan-Western_Hubei_Soviet",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "5,000+" ],
+    "dbo:combatant" : [ "National Revolutionary Army", "Chinese Red Army", "80px|Flag of the National Revolutionary Army", "80px|PLA" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/He_Long" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Jingzhou", "http://dbpedia.org/resource/Honghu" ],
+    "dbo:result" : [ "Nationalistvictory" ],
+    "dbo:strength" : [ "15,000", ">25,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Location_of_Jingzhou_Prefecture_within_Hubei_(China).png?width=300" ],
+    "dbp:c" : [ "湘鄂西革命根据地反围剿" ],
+    "dbp:caption" : [ "Location of Honghu, Jingzhou" ],
+    "dbp:casualties" : [ "12000" ],
+    "dbp:commander" : [ "25" ],
+    "dbp:date" : [ "June, 1932 – early January, 1933" ],
+    "dbp:links" : [ "no" ]
+  },
+  "text" : "The Encirclement Campaign against the Hunan-Western Hubei Soviet was an encirclement campaign launched by the Chinese Nationalist Government that was intended to destroy the communist Hunan-Western Hubei Soviet and its Chinese Red Army in the local region. The Communists’ responded by launching the Counter-Encirclement Campaign at Hunan-Western Hubei Soviet (Chinese: 湘鄂西苏区反围剿), also called by the communists as the Counter-Encirclement Campaign at Hunan – western Hubei Revolutionary Base (Chinese: 湘鄂西革命根据地反围剿) (Chinese: 湘鄂西革命根据地反围剿), in which the Nationalist force defeated the local Chinese Red Army and overran the communist base in the southern Hubei and Hunan provinces from November 1930 to January 1931. Since the bulk of the fighting was fought at the second stage of the campaign, concentrated at the heart of the communist base, the Honghu region of Jingzhou, the campaign is therefore also frequently referred as the Fourth Encirclement Campaign against Honghu Soviet and the Fourth Counter-Encirclement Campaign at Honghu Revolutionary Base (Chinese: 洪湖革命根据地第四次反围剿) by the communists, or Fourth Counter-Encirclement Campaign at Honghu Soviet (Chinese: 洪湖苏区第四次反围剿) for short."
+}, {
+  "entityIndex" : "entity25426",
+  "entityUrl" : "http://dbpedia.org/resource/Escape_of_the_Provisional_Revolutionary_Government",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "North Vietnam", "Viet Cong", "Cambodia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Lon_Nol", "http://dbpedia.org/resource/Hoàng_Văn_Thái", "http://dbpedia.org/resource/Phạm_Hùng" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Vietnam_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Cambodia" ],
+    "dbo:result" : [ "The capture of large amounts of communist supplies and material and the expansion of theCambodian Civil War" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bases_along_the_Cambodian_Vietnamese_border_1970.svg?width=300" ],
+    "dbp:caption" : [ "Location of bases in early 1970" ],
+    "dbp:date" : [ "--03-29" ]
+  },
+  "text" : "The Escape of the Provisional Revolutionary Government was a series of military operations conducted in eastern Cambodia during mid-1970 by the Republic of Vietnam (South Vietnam) during the Vietnam War. The objective was to search and destroy head corridor elements of the Provisional Revolutionary Government of the Republic of South Vietnam (PRG), National Front for the Liberation of South Vietnam (NLF) or Viet Cong (VC) and Central Office for South Vietnam (COSVN). A change in the Cambodian government allowed a window of opportunity for the destruction of the base areas in 1970 when Prince Norodom Sihanouk was deposed and replaced by pro-American General Lon Nol. The pro-American Lon Nol demanded the Vietcong forces to leave Cambodia, they refused and took control of much of the East and North of Cambodia. Lon Nol and the South Vietnamese responded by launching an invasion of the border region and forcing the anti government fighters to leave the area to safer Vietnamese controlled Kratie provinces to the north. Some elements of the anti government forces including the PRG left the area while under pressure from Cambodian and South Vietnamese forces. This operation was seen as a precursor to the much larger Cambodian Campaign a month later."
+}, {
+  "entityIndex" : "entity25427",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_to_Mostaganem_(1558)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "12.000 prisoners, Unknown Killed" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abdallah_al-Ghalib", "http://dbpedia.org/resource/Caïd", "http://dbpedia.org/resource/Hasan_Pasha_(son_of_Barbarossa)", "http://dbpedia.org/resource/Count_Alcaudete" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Ottoman-Habsburg_wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Algeria", "http://dbpedia.org/resource/Mostaganem" ],
+    "dbo:result" : [ "Decisive Ottoman victory" ],
+    "dbo:strength" : [ "12,000+ soldiers", "15,000 Ottomans" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:date" : [ "August–September 1558" ],
+    "dbp:latitude" : [ "35.9333" ],
+    "dbp:longitude" : [ "0.08333" ],
+    "dbp:mapCaption" : [ "Location of the Expedition of Mostaganem in Algeria." ],
+    "dbp:mapLabel" : [ "Expedition of Mostaganem" ],
+    "dbp:mapSize" : [ "300" ],
+    "dbp:mapType" : [ "Algeria" ]
+  },
+  "text" : "The Expedition of Mostaganem occurred in 1558, when Spanish forces attempted to capture the city of Mostaganem, in modern Algeria, from the Ottomans. The expedition was supposed to be a decisive step in the conquest of the Ottoman base of Algiers, but it ended in failure, and has been called a \"disaster\"."
+}, {
+  "entityIndex" : "entity25428",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Abdullah_Ibn_Unais",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "0" ],
+    "dbo:combatant" : [ "Muslims", "Banu Lahyan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Khaled_bin_Sufyan_Al-Hathali", "http://dbpedia.org/resource/Abdullah_ibn_Unais" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Nejd" ],
+    "dbo:result" : [ "Abdullah ibn Unais beheads the Banu Lahyan chief, and brings his head back to Muhammad" ],
+    "dbo:strength" : [ "Unknown" ],
+    "dbp:casualties" : [ "Chief of Banu Lahyan Killed" ],
+    "dbp:date" : [ "Muharam, 624CE, 3 A.H" ]
+  },
+  "text" : "The Expedition of Abdullah ibn Unais, also known as the Assassination of Khaled bin Sufyan was the 1st attack against the Banu Lahyan, which took place in the month of Muharam in the year 4 A.H. it was reported that Khaled bin Sufyan Al-Hathali (also known as Hudayr, the chief of the Banu Lahyan tribe), considered an attack on Madinah and that he was inciting the people on Nakhla or Uranah to fight Muslims. So Muhammad sent Abdullah ibn Unais to assassinate him. After cutting off Sufyan bin Khalid's head at night, Unais brought it back to Muhammad."
+}, {
+  "entityIndex" : "entity25429",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Al_Raji",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6-10 Muslims killed" ],
+    "dbo:combatant" : [ "Muslims", "Banu Lahyantribe" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Al-Raji" ],
+    "dbo:result" : [ "*Missionaries were set up and killed", "*Muhammad sendsmissionariesto preach islam" ],
+    "dbo:strength" : [ "10", "Unknown" ],
+    "dbp:casualties" : [ "0" ],
+    "dbp:date" : [ "6254" ]
+  },
+  "text" : "The Expedition of al Raji, occurred directly after the Battle of Uhud in the year 4 AH of the Islamic calendar."
+}, {
+  "entityIndex" : "entity25430",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Bir_Maona",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "40-70 Muslims killed" ],
+    "dbo:combatant" : [ "Muslims", "Banu Lahyantribe" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Bir_Maona" ],
+    "dbo:result" : [ "*Missionaries were set up and killed", "*Muhammad sendsmissionariesto preach islam" ],
+    "dbo:strength" : [ "Unknown", "40 or 70" ],
+    "dbp:casualties" : [ "2" ],
+    "dbp:date" : [ "6254" ]
+  },
+  "text" : "The Expedition of Bir Maona (also spelt Ma'una), took place four months after the Battle of Uhud in the year 4 A.H of the Islamic calendar. Muhammad sent missionaries to preach Islam, at the request of Abu Bara. Forty (as per Ibn Ishaq) or seventy (as per Sahih Bukhari) of the Muslim missionaries sent by Muhammed were killed."
+}, {
+  "entityIndex" : "entity25431",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_'Abdullah_ibn_'Atik",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abdullah_ibn_Atik" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Khaybar" ],
+    "dbo:result" : [ "*Abu Rafi successfully assassinated" ],
+    "dbo:strength" : [ "5", "Unknown" ],
+    "dbp:commander" : [ "None" ],
+    "dbp:date" : [ "December, 624AD" ]
+  },
+  "text" : "The Expedition of 'Abdullah ibn 'Atik (Arabic: عبد الله بن عتيك‎‎) also known as the Assassination of Abu Rafi' ibn Abi Al-Huqaiq (Arabic: أبو رافع بن أبي الحُقَيْق‎‎), took place in December, 624AD"
+}, {
+  "entityIndex" : "entity25432",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Zaid_ibn_Haritha_(Hisma)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Zayd_ibn_Haritha", "http://dbpedia.org/resource/Al-Hunayd_ibn_Arid" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Hisma" ],
+    "dbo:result" : [ "As follows:", "*Successful raid, 1000 camels, 5000 cattle and a 100 tribe members captured", "*Al-Hunayd ibn Arid(enemy commander) and his son killed" ],
+    "dbo:strength" : [ "500", "Unknown" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad-Letter-To-Heraclius.jpg?width=300" ],
+    "dbp:casualties" : [ "Many killed, including chief 100 captured" ],
+    "dbp:date" : [ "October 628AD in 6th month, 7AH" ]
+  },
+  "text" : "Expedition of Zaid ibn Haritha in Hisma took place in October, 628AD, 6th month of 7AH of the Islamic calendar. The attack was a response to Dihyah bin Khalifa Kalbi's call for help, after being attacked by robbers. Muslims retaliated and killed many of the robbers and captured 100 tribe members"
+}, {
+  "entityIndex" : "entity25433",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Fadak",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ali_ibn_Abi_Talib", "http://dbpedia.org/resource/Wabr_bin_‘Aleem" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Fadak" ],
+    "dbo:result" : [ "*Banu Bakr tribe members flee", "*Muslims capture 500 camels and 2000 goats as booty" ],
+    "dbo:strength" : [ "200", "Unknown" ],
+    "dbp:casualties" : [ "1" ],
+    "dbp:date" : [ "December 627AD in 8th month, 6AH" ]
+  },
+  "text" : "Expedition of Fadak, also spelt Fidak, took place in December, 627AD, 6AH, 8th month of the Islamic Calendar Ali bin Abi Talib was dispatched as the Commander of a platoon to the habitation of Bani Sa‘d bin Bakr in a place called Fadak. Muhammad had received some intelligence that the Banu Bakr had rallied ranks to support the Jews of Khaybar. The Muslim fighters used to march in the day and lurk at night. On their way, they captured an enemy scout who admitted being sent to Khaibar tribe, to offer them support in return for their dates. ‘Ali and his companions raided their encampment, captured 500 camels and 2000 goats, but the Banu Sa‘d bin Bakr tribe, with their chieftain Wabr bin ‘Aleem had fled away."
+}, {
+  "entityIndex" : "entity25434",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Ghalib_ibn_Abdullah_al-Laithi_(Mayfah)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "0" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ghalib_ibn_Abdullah_al-Laithi" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Mayfah" ],
+    "dbo:result" : [ "*Successful operation, captured a lot of camels and cattle as booty", "*Many polytheists killed" ],
+    "dbo:strength" : [ "130", "Entire tribe (unknown population)" ],
+    "dbp:casualties" : [ "Many Killed" ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:date" : [ "January 629 AD,9th Month 7AH" ]
+  },
+  "text" : "Expedition of Ghalib ibn Abdullah al-Laithi to Mayfah took place in January 629 AD,9th Month 7AH, of the Islamic Calendar."
+}, {
+  "entityIndex" : "entity25435",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Ghalib_ibn_Abdullah_al-Laithi_(Al-Kadid)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "0" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ghalib_ibn_Abdullah_al-Laithi" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Al_Kadid" ],
+    "dbo:result" : [ "* Successful operation, lots of booty captured" ],
+    "dbo:strength" : [ "10-15", "Entire tribe (unknown population)" ],
+    "dbp:casualties" : [ "Many killed" ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:date" : [ "May 629 AD, 8AH, 1st month May 628 AD, 7AH, 3rd Month" ]
+  },
+  "text" : "Expedition of Ghalib ibn Abdullah al-Laithi to Al-Kadid took place in May 629 AD, 8AH, 1st month, of the Islamic Calendar, Or according to other sources May 628 AD, 7AH, 3rd Month."
+}, {
+  "entityIndex" : "entity25436",
+  "entityUrl" : "http://dbpedia.org/resource/Eastern_European_anti-Communist_insurgencies",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Albanian Partisans", "People's Republic of Poland", "Baltic Partisans", "Belarusian Partisans", "Bulgarian Partisans", "Croatian Partisans", "Czechoslovak Republic", "Hungarian Revolutionaries", "Moldovian Partisans", "People's Republic of Albania", "People's Republic of Bulgaria", "People's Republic of Hungary", "Polish Partisans", "Romanian Partisans", "Romanian People's Republic", "Serbian Partisans", "Slovenian Partisans", "Ukrainian Partisans" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Soviet_Union" ],
+    "dbo:result" : [ "Anti-Communist partisans defeated" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Albania_(1946-1992).svg?width=300" ],
+    "dbp:casus" : [ "State Security Police massacre of unarmed protesters" ],
+    "dbp:date" : [ "-60.0" ]
+  },
+  "text" : "The Central and Eastern European anti-Communist insurgencies fought on after the official end of the Second World War against the Soviet Union and the communist states formed under Soviet occupation and support. Prominent movements include: \n* The Ukrainian Insurgent Army fought until eradicated in 1956. \n* The anti-Soviet Hungarian Revolution took place in 1956. \n* Baltic partisans known as the \"Forest Brothers\" fought until eradicated in the early 1960s. \n* Romanian anti-communist resistance movement fought until eradicated in 1962. \n* Polish partisans known as the \"Cursed soldiers\" fought until eradicated in 1963. \n* Bulgarian partisans known as \"Goryani\" fought until eradicated in the early 1960s. \n* Croatian partisans known as \"Crusaders\" fought until eradicated in the early 1950s. \n* Albanian partisans (members of the Balli Kombëtar and supporters of the king Zog I) fought until eradicated in the early 1950s. \n* Serbian partisans known as \"Chetniks\" fought until eradicated in the early 1950s. \n* Slovenian partisans fought until eradicated in the early 1950s. \n* Moldovian partisans (Soviet occupation of Bessarabia and Northern Bukovina) fought until eradicated in the early 1950s. \n* Belarusian partisans fought until eradicated in the early 1950s."
+}, {
+  "entityIndex" : "entity25437",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Abdullah_ibn_Rawaha",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 wounded" ],
+    "dbo:result" : [ "* Al-Yusayr ibn Rizam successfully assassinated and 29 followers killed" ],
+    "dbo:strength" : [ "30" ],
+    "dbp:casualties" : [ "29" ],
+    "dbp:commander" : [ "Unknown", "Abdullah ibn Rawaha" ],
+    "dbp:date" : [ "February 628 AD" ],
+    "dbp:place" : [ "En route to Medina" ]
+  },
+  "text" : "Expedition of Abdullah ibn Rawaha to Khaybar, took place in February 628 AD. Ibn Hisham also refers to this as Abdullah b. Rawaha's raid to kill al-Yusayr b. Rizam. The assassination was successful, and ibn Rizam was killed as well has 29 of his followers."
+}, {
+  "entityIndex" : "entity25438",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Abu_Ubaidah_ibn_al_Jarrah",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abu_Ubaidah_ibn_al_Jarrah" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Al-_Qabaliyyah" ],
+    "dbo:result" : [ "* Enemy flees, Muslims suffer from famine" ],
+    "dbo:strength" : [ "300", "Unknown" ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:date" : [ "October 629 AD, 8AH, 7th month, or 7AH" ]
+  },
+  "text" : "Expedition of Abu Ubaidah ibn al Jarrah, also known as the Expedition of Fish and Invasion of al-Khabt, took place in October 629 AD, 8AH, 7th month, of the Islamic Calendar, or according to some scholars in 7AH, 4th Month."
+}, {
+  "entityIndex" : "entity25439",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Abi_Hadrad_al-Aslami",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "0" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abi_Hadrad_al-Aslami" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Al-Ghaba" ],
+    "dbo:result" : [ "*Lots of booty captured", "*Rifa’a ibn Qays successfully assassinated" ],
+    "dbo:strength" : [ "2", "Unknown" ],
+    "dbp:casualties" : [ "1" ],
+    "dbp:commander" : [ "Rifa’a ibn Qays" ],
+    "dbp:date" : [ "November 629 AD, 8AH" ]
+  },
+  "text" : "Expedition of Abi Hadrad al-Aslami, took place in January 629 AD, 7AH, Shawwal (10th month) of the Islamic Calendar. In this expedition, the chief of the Banu Jusham tribe Rifa’a ibn Qays was successfully assassinated."
+}, {
+  "entityIndex" : "entity25440",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Abu_Qatadah_ibn_Rab'i_al-Ansari_(Batn_Edam)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "0" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abu_Qatadah_ibn_Rab'i_al-Ansari" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Batn_Edam" ],
+    "dbo:result" : [ "* Successful caravan raid" ],
+    "dbo:strength" : [ "8", "Unknown" ],
+    "dbp:casualties" : [ "Leader of Caravan killed" ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:date" : [ "November 629 AD, 8AH" ]
+  },
+  "text" : "Expedition of Abu Qatadah ibn Rab'i al-Ansari, to Batn Edam (also spelt Idam) took place in November 629 AD, 8AH, 8th month, of the Islamic Calendar"
+}, {
+  "entityIndex" : "entity25441",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Abu_Qatadah_ibn_Rab'i_al-Ansari_(Khadirah)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "0" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abu_Qatadah_ibn_Rab'i_al-Ansari" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Khadirah" ],
+    "dbo:result" : [ "* Successful raid, some enemies killed", "*Large amount of flock captured" ],
+    "dbo:strength" : [ "15", "Unknown" ],
+    "dbp:casualties" : [ "Some killed, some captured" ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:date" : [ "November 629 AD, 8AH" ]
+  },
+  "text" : "Expedition of Abu Qatadah ibn Rab'i al-Ansari, to Khadirah (also spelt Khadrah), and also known as the Campaign of Khadrah took place in November 629 AD, 8AH, 8th month, of the Islamic Calendar"
+}, {
+  "entityIndex" : "entity25442",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Abu_Musa_Al-Ashari",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "None" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Autas" ],
+    "dbo:result" : [ "* Killers of Abu Amir killed", "*Men women and children captured, war booty captured" ],
+    "dbo:strength" : [ "Unknown" ],
+    "dbp:casualties" : [ "Enemy killed" ],
+    "dbp:commander" : [ "Unknown", "Abu Musa Al-Ashari" ],
+    "dbp:date" : [ "January 630 AD or 8AH, 10th month, of the Islamic Calendar" ]
+  },
+  "text" : "The Expedition of Abu Musa Al-Ashari, took place in January 630 AD or 8AH, 10th month, of the Islamic Calendar, in Autas. After Abu Amir was ordered to chase the enemies who fled the Battle of Hunayn, he was killed in the expedition, his nephew Abu Musa then pursued the killers and killed them, and captured others."
+}, {
+  "entityIndex" : "entity25443",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_of_Khalid_ibn_al-Walid_(Dumatul_Jandal)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "0" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Khalid_ibn_al-Walid" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dumat_Al-Jandal" ],
+    "dbo:result" : [ "*Ukaydir b. 'Abd al-Malik al-Kindi agrees to payJizyah", "*2,000 camels, 800 slaves, 400 coats of mail, and 400 lances, of ransom paid." ],
+    "dbo:strength" : [ "Unknown", "420 horsemen" ],
+    "dbp:casualties" : [ "Ukaydir's brother killed" ],
+    "dbp:commander" : [ "Ukaydir" ],
+    "dbp:date" : [ "October 630AD" ]
+  },
+  "text" : "Expedition of Khalid ibn al-Walid, to Dumat Al-Jandal, to attack the Christian Prince of Duma, took place in March 631 AD, 9AH,11th month of the Islamic Calendar, or October 630AD according to William Montgomery Watt."
+}, {
+  "entityIndex" : "entity25444",
+  "entityUrl" : "http://dbpedia.org/resource/Egyptian_Expedition_(1882)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "None" ],
+    "dbo:combatant" : [ "Egypt" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/James_W._Nicholson", "http://dbpedia.org/resource/Henry_Clay_Cochrane", "http://dbpedia.org/resource/Ahmed_Orabi" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Anglo-Egyptian_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Egypt", "http://dbpedia.org/resource/Alexandria" ],
+    "dbo:result" : [ "United States victory;", "*American consulate occupied and safeguarded", "*City of Alexandria patrolled and fires extinguished" ],
+    "dbo:strength" : [ "Sea:", "1corvette", "Land:", "1gunboat", "1sloop-of-war", "57sailors", "73marines", "Unknown number ofregularand civilian volunteer elements" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/US_Navy_Alexandia_1882.jpg?width=300" ],
+    "dbp:caption" : [ "--08-12" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:date" : [ "June–July 1882" ]
+  },
+  "text" : "The Egyptian Expedition, in mid-1882, was the United States' response to the British and French attack on Alexandria during the Anglo-Egyptian War. To protect American citizens and their property within the city, three United States Navy ships were sent to Egypt with orders to observe the conflict ashore and make a landing if necessary. British and French forces heavily damaged the city so a force of marines and sailors were landed and they assisted in fire fighting and guarding the American consulate from insurgents. Rear Admiral James W. Nicholson, commander of the European Squadron, was directed to lead the expedition in the screw sloop USS Lancaster. Nicholson arrived at Alexandria on June 27, 1882, the gunboat USS Nipsic on July 1 and the corvette USS Quinnebaug on July 12. The British and French fleet, under Admiral Beauchamp Seymour, began anchoring off Alexandria on May 20 but they did not begin their bombardment until July 11. The Americans were informed by the British of their intentions so Rear Admiral Nicholson was able to warn the United States citizens within the city of a pending attack. When the engagement began, the British started shooting at the various forts under the command of Colonel Ahmed Orabi. The Egyptians defended the city well, striking the British ships several times though gradually the fortifications were reduced and silenced over the course of two days. During the bombardment, the Americans opened their ships up to all refugees from the city who needed shelter or medical treatment. By July 14, the attack was over but Alexandria was in a state of anarchy and burning. Remnants of Orabi's rebels, and elements of the civilian population, were attacking foreign residents, including Americans and in response Nicholson decided to send a landing party ashore. Captain Henry C. Cochrane of the Marine Corps, and two lieutenants, were assigned to command a force of seventy marines and fifty-seven sailors with orders to occupy the American consulate, patrol the city, and fight the spreading fires which were ravaging the European section of Alexandria. The landing party was the first contingent of foreign troops to enter the city center after the bombardment, they were later followed by an occupation force 4,000 Britons and the troops of other nations. By July 20, conditions in the city had largely improved so most of the marines and sailors were withdrawn except for a small force from USS Quinnebaug under Lieutenant Frank L. Denny which was removed on July 24, ending the operation."
+}, {
+  "entityIndex" : "entity25445",
+  "entityUrl" : "http://dbpedia.org/resource/Egyptian_25th_Brigade_ambush",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3 tanks destroyed" ],
+    "dbo:combatant" : [ "Israel" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Avraham_Adan", "http://dbpedia.org/resource/Ahmad_Halamni_Hassan" ],
+    "dbo:date" : [ "1973-10-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Yom_Kippur_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Egypt", "http://dbpedia.org/resource/Sinai_Peninsula", "http://dbpedia.org/resource/Great_Bitter_Lake" ],
+    "dbo:result" : [ "Israeli victory" ],
+    "dbo:strength" : [ "162nd Division(14M60 Pattontanks)", "25th Brigade(94T-62tanks and 40 APCs)" ],
+    "dbp:casualties" : [ "60" ]
+  },
+  "text" : "Egyptian 25th Brigade ambush was a battle that occurred on October 17, 1973, the eleventh day of the Yom Kippur War, east of the Great Bitter Lake, in the Sinai Peninsula. The ambush was conducted by the Israel Defense Forces' 162nd Division, against the 25th Brigade of the Egyptian army. The Israelis' goal was the destruction of the brigade, which attempted to disrupt the Israeli crossing of the Suez Canal."
+}, {
+  "entityIndex" : "entity25446",
+  "entityUrl" : "http://dbpedia.org/resource/Extremadura_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6,600–12,000 militiamen and civilians shot", "Unknown military dead" ],
+    "dbo:combatant" : [ "Nationalist Spain", "Spanish Republic", "Aviazione Legionaria", "20pxRegulares", "20pxSpanish Legion" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Fernando_Barron", "http://dbpedia.org/resource/Antonio_Castejón_Espinosa", "http://dbpedia.org/resource/Carlos_Asensio_Cabanillas", "http://dbpedia.org/resource/Ildefonso_Puigdendolas", "http://dbpedia.org/resource/Juan_Yagüe" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/Extremadura", "http://dbpedia.org/resource/Badajoz_Province" ],
+    "dbo:result" : [ "Nationalist victory" ],
+    "dbo:strength" : [ "13,000 militiamen", "17 medium bombers", "8,000 regulars", "some Breguet XIX bombers" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Regulares-et.svg?width=300" ],
+    "dbp:caption" : [ "Nationalist troops entering Guareña, Badajoz Province." ],
+    "dbp:casualties" : [ "243", "Unknown military dead" ],
+    "dbp:date" : [ "--08-02" ]
+  },
+  "text" : "The Extremadura campaign was a campaign in Extremadura, Spain during the Spanish Civil War. It culminated in the Battle of Badajoz in August 1936, from which the troops of the Army of Africa under the command of Francisco Franco moved quickly to begin the march to Madrid."
+}, {
+  "entityIndex" : "entity25447",
+  "entityUrl" : "http://dbpedia.org/resource/Ein_'Arik_checkpoint_attack",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 officer and 5 soldiers killed, 1 soldier wounded" ],
+    "dbo:combatant" : [ "Israel Defense Forces", "al-Aqsa Martyrs' Brigades" ],
+    "dbo:date" : [ "2002-02-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Intifada" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ein_'Arik", "http://dbpedia.org/resource/Palestinian_territories", "http://dbpedia.org/resource/West_Bank" ],
+    "dbo:strength" : [ "2 militants", "8 soldiers" ],
+    "dbp:casualties" : [ "None", "No civilian casualties" ],
+    "dbp:commander" : [ "Lt. Moshe Eini" ]
+  },
+  "text" : "The Ein 'Arik checkpoint attack occurred 19 February 2002. One Israeli officer and 5 soldiers were killed in an attack on an IDF checkpoint near the Palestinian village of Ein 'Arik, west of Ramallah on the Israeli-occupied West Bank."
+}, {
+  "entityIndex" : "entity25448",
+  "entityUrl" : "http://dbpedia.org/resource/Evacuation_of_the_La_Romana_Division",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "none" ],
+    "dbo:combatant" : [ "Denmark–Norway", "First French Empire", "Spain", "United Kingdom" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pedro_Caro,_3rd_Marquis_of_la_Romana", "http://dbpedia.org/resource/Richard_Goodwin_Keats", "http://dbpedia.org/resource/Jean-Baptiste_Bernadotte" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Peninsular_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Denmark" ],
+    "dbo:result" : [ "Anglo-Spanish victory" ],
+    "dbo:strength" : [ "30,000", "13,500" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro_Caro_y_Sureda,_marqués_de_la_Romana_(Museo_del_Prado).jpg?width=300" ],
+    "dbp:caption" : [ "Pedro Caro, 3rd Marquis of la Romana" ],
+    "dbp:casualties" : [ "c. 4,500 failed to escape" ],
+    "dbp:date" : [ "August 1808" ]
+  },
+  "text" : "The Evacuation of the La Romana Division in August 1808 was a military operation in which a division of troops belonging to the Kingdom of Spain and commanded by Pedro Caro, 3rd Marquis of la Romana defected from the armies of the First French Empire. The Spanish troops were part of the Imperial forces in Denmark, which were under the leadership of Marshal Jean-Baptiste Bernadotte. Most of the Spanish troops were successfully spirited away by the British navy and shipped to Santander, Spain to fight against France in the Peninsular War. In 1807, the Spanish Division of the North was sent to northern Europe to fight in the War of the Fourth Coalition. Formerly loyal to the alliance with Imperial France, the Spanish officers and men found in 1808 that Emperor Napoleon I of France had overthrown King Charles IV of Spain and Prince Ferdinand and placed his brother Joseph Bonaparte on the Spanish throne. The British sent an agent to contact La Romana and found that the general desired to escape from Denmark. The two arranged a secret plan for the Spanish troops to be evacuated by the British fleet. One cavalry and two infantry regiments failed to get away and remained in Napoleon's power. But in August 1808, most units were able to seize Danish shipping and make their way to the rendezvous with the British navy. About 9,000 Spanish troops disembarked at Santander in October 1808 and had a chance to fight against the French."
+}, {
+  "entityIndex" : "entity25449",
+  "entityUrl" : "http://dbpedia.org/resource/Eastern_Afghanistan_Operations",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Afghans", "Safed-Posh Kaffirs?", "Siah-Posh Kafirs?", "TimuridsofKabul" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Babur" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Afghanistan", "http://dbpedia.org/resource/Laghman_Province", "http://dbpedia.org/resource/Kunar_Province", "http://dbpedia.org/resource/Nangarhar", "http://dbpedia.org/resource/Kafiristan" ],
+    "dbo:result" : [ "Successful operations of subjugation of neighboring Afghans and Kafirs." ],
+    "dbp:commander" : [ "?" ],
+    "dbp:date" : [ "1507" ]
+  },
+  "text" : "When the Uzbek Khan, Muhammad Shaybani besieged Kandahar, Babur found his nascent Kingdom of Kabul in trouble. He felt that Kabul would be the next target of the Uzbeks. So he consulted with his men and decided the only way out was to leave for India. What was to be Babur's second Indian expedition (and is considered by many Muslim historians including Abul Fadl as his second Indian expedition), became an operation of watch and see by keeping himself near Kabul and going around eastern provinces of Afghanistan to subdue rebellious Afghans and plundering towns and villages for supplies for his army's survival."
+}, {
+  "entityIndex" : "entity25450",
+  "entityUrl" : "http://dbpedia.org/resource/Eighth_Siege_of_Gibraltar",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Kingdom of Castile", "Emirate of Granada" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Juan_Alonso_de_Guzmán,_1st_Duke_of_Medina_Sidonia" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Gibraltar" ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:date" : [ "1462" ],
+    "dbp:latitude" : [ "36.1553" ],
+    "dbp:longitude" : [ "-5.34596" ],
+    "dbp:mapRelief" : [ "1" ],
+    "dbp:mapType" : [ "Spain" ]
+  },
+  "text" : "The Eighth Siege of Gibraltar (1462) was a successful effort by soldiers of the Kingdom of Castile to take the fortified town of Gibraltar from the Moors of the Emirate of Granada. Capture of this position, which was weakly defended and was taken with little fighting, was strategically important in the final defeat of the Moors in Spain."
+}, {
+  "entityIndex" : "entity25451",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabethtown_and_Newark_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "approx. 67 captured." ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abraham_van_Buskirk" ],
+    "dbo:date" : [ "1780-01-25" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Revolutionary_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Elizabeth,_New_Jersey", "http://dbpedia.org/resource/Newark,_New_Jersey" ],
+    "dbo:result" : [ "British tactical victory", "Strategically unimportant" ],
+    "dbo:strength" : [ "Unknown", "60 light dragoons", "At least 400 infantry", "More than 40 loyalist militia" ],
+    "dbp:campaignbox" : [ "New York City area 1778-1781" ],
+    "dbp:casualties" : [ "2" ],
+    "dbp:commander" : [ "Unknown" ]
+  },
+  "text" : "During the night of January 25, 1780, British forces staged simultaneous raids into Elizabethtown and Newark in New Jersey."
+}, {
+  "entityIndex" : "entity25452",
+  "entityUrl" : "http://dbpedia.org/resource/Erbeyli_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "30-80 killed and 40 wounded" ],
+    "dbo:combatant" : [ "Greece", "Kuva-yi Milliye" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Lieutenant" ],
+    "dbo:date" : [ "1919-06-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Greco-Turkish_War_(1919-1922)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Aydın_Province", "http://dbpedia.org/resource/Erbeyli,_İncirliova" ],
+    "dbo:result" : [ "Turkish forces withdraw after inflicting casualties" ],
+    "dbo:strength" : [ "20Evzonesat the station", "70militias with 1machine gun", "Reinforcements: 1Evzonescompany(200+ soldiers)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ottoman_flag_alternative_2.svg?width=300" ],
+    "dbp:casualties" : [ "7", "72" ]
+  },
+  "text" : "The Erbeyli Raid was a raid conducted by the Kuva-yi Milliye. After invading Aydın and Nazilli, the Greek army was concerned about resistance movements raising in the area. The raid against the Malgaç bridge a few days ago was a good example for their feeling of unease."
+}, {
+  "entityIndex" : "entity25453",
+  "entityUrl" : "http://dbpedia.org/resource/Erikli_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "30 killed and 40 wounded" ],
+    "dbo:combatant" : [ "Greece", "Kuva-yi Milliye" ],
+    "dbo:date" : [ "1919-06-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Greco-Turkish_War_(1919-1922)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Erbeyli,_İncirliova" ],
+    "dbo:result" : [ "Turkish victory", "Greek troops leave Erikli" ],
+    "dbo:strength" : [ "40 men", "2Evzonescompanies(400 men)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ottoman_flag_alternative_2.svg?width=300" ],
+    "dbp:casualties" : [ "7" ]
+  },
+  "text" : "The Erikli Raid was performed by members of the Kuva-yi Milliye in the Greco-Turkish War. The Malgaç attack had shocked the Greeks, so the members of the Kuva-yi Milliye planned to perform another assault."
+}, {
+  "entityIndex" : "entity25454",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_to_Hernando",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "(Union)", "Confederate States (Confederacy)" ],
+    "dbo:date" : [ "1863-08-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:result" : [ "Minor Skirmish" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/US_flag_34_stars.svg?width=300" ],
+    "dbp:caption" : [ "Military Movement" ],
+    "dbp:place" : [ "Mississippi" ]
+  },
+  "text" : "Expedition to Hernando was a military movement of the Union Army during the American Civil War."
+}, {
+  "entityIndex" : "entity25455",
+  "entityUrl" : "http://dbpedia.org/resource/Expedition_after_Forrest",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "(Union)", "Confederate States (Confederacy)" ],
+    "dbo:date" : [ "1863-12-24" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Tennessee" ],
+    "dbo:result" : [ "Forrest escapes" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/NathanBedfordForrest.jpg?width=300" ],
+    "dbp:caption" : [ "Military Movement" ]
+  },
+  "text" : "Expedition after Forrest was a military movement of the Union Army during the American Civil War."
+}, {
+  "entityIndex" : "entity25456",
+  "entityUrl" : "http://dbpedia.org/resource/Eumerella_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "European settlers", "Gunditjmara people" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Deen_Maar" ],
+    "dbo:result" : [ "European occupation of the district" ],
+    "dbp:commander" : [ "Jupiter", "Cocknose" ],
+    "dbp:date" : [ "-1860.0" ]
+  },
+  "text" : "The Eumerella Wars were the violent encounters between European settlers and aboriginal Australians in south west Victoria. Rolf Boldrewood wrote a chapter about the war in his book Old Melbourne Memories (1896). The remains of people involved in the conflict are at the Deen Maar Indigenous Protected Area."
+}, {
+  "entityIndex" : "entity25457",
+  "entityUrl" : "http://dbpedia.org/resource/Egyptian_police_casualties_since_2011",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "500+" ],
+    "dbo:combatant" : [ "*National Police", "*Central Security Forces", "22px|borderIslamistmilitants", "*Ansar Bait al-Maqdis", "*Homeland Security", "*Unknown armed groups", "Local criminals" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Mansour_el-Essawy", "http://dbpedia.org/resource/Mohamed_Ibrahim_Moustafa", "http://dbpedia.org/resource/Mohamed_Youssef_Ibrahim", "http://dbpedia.org/resource/Ahmed_Gamal_El_Din", "http://dbpedia.org/resource/Mahmoud_Wagdy" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Egyptian_Crisis_(2011–present)" ],
+    "dbo:result" : [ "ongoing" ],
+    "dbo:status" : [ "ongoing" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Jihad.svg?width=300" ],
+    "dbp:caption" : [ "Egyptian police special forces officer stands guard" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:combatantsHeader" : [ "Belligerents" ],
+    "dbp:commander" : [ "unknown" ],
+    "dbp:place" : [ "2011" ]
+  },
+  "text" : "Since the Egyptian revolution in 2011, officers and members of the Egyptian police have suffered targeted killings executed by terrorist groups like Ansar Bait al-Maqdis and other local criminals and unknown gunmen. As of December 2013, 500 policemen have been killed in attacks since 2011."
+} ]

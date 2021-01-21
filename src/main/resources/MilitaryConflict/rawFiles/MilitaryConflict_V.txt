@@ -1,0 +1,8 @@
+http://dbpedia.org/resource/Vistula%E2%80%93Oder_Offensive
+http://dbpedia.org/resource/Vyborg%E2%80%93Petrozavodsk_Offensive
+http://dbpedia.org/resource/V%C5%A9ng_R%C3%B4_Bay_Incident
+http://dbpedia.org/resource/Venetian%E2%80%93Genoese_Wars
+http://dbpedia.org/resource/Vitebsk%E2%80%93Orsha_Offensive
+http://dbpedia.org/resource/Vir%C3%A9e_de_Galerne
+http://dbpedia.org/resource/Venezuelan_crisis_of_1902%E2%80%9303
+http://dbpedia.org/resource/V1_bombing_of_Wellington_Barracks

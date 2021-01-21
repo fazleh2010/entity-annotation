@@ -1,0 +1,423 @@
+[ {
+  "entityIndex" : "entity28424",
+  "entityUrl" : "http://dbpedia.org/resource/Vietnam_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "'''", "'''Total wounded: ≈1,490,000+", "1,170,000 wounded", "195,000–430,000 civilian dead", "220,357–313,000 military dead", "351 dead; 1,358 wounded", "37 dead; 187 wounded", "5,099 dead; 10,962 wounded; 4 missing", "500 dead; 3,129 wounded", "58,315 dead; 303,644 wounded", "9 dead; 64 wounded", "Total dead: 479,668–807,311" ],
+    "dbo:combatant" : [ "Bulgaria", "Canada", "Czechoslovakia", "Hungary", "Iran", "Khmer Rouge", "Pathet Lao", "People's Republic of China", "Philippines", "Romania", "Spain", "Supported by:", "United States", "Viet Cong" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Gorton", "http://dbpedia.org/resource/John_McEwen", "http://dbpedia.org/resource/Lyndon_B._Johnson", "http://dbpedia.org/resource/William_McMahon", "http://dbpedia.org/resource/Park_Chung-hee", "http://dbpedia.org/resource/Thanom_Kittikachorn", "http://dbpedia.org/resource/Cao_Văn_Viên", "http://dbpedia.org/resource/Leaders_of_the_Vietnam_War", "http://dbpedia.org/resource/Harold_Holt", "http://dbpedia.org/resource/Richard_Nixon", "http://dbpedia.org/resource/Robert_Menzies", "http://dbpedia.org/resource/Jack_Marshall", "http://dbpedia.org/resource/Lê_Duẩn", "http://dbpedia.org/resource/Nguyễn_Văn_Thiệu", "http://dbpedia.org/resource/Phạm_Văn_Đồng", "http://dbpedia.org/resource/Robert_McNamara", "http://dbpedia.org/resource/Trần_Văn_Trà", "http://dbpedia.org/resource/Võ_Nguyên_Giáp", "http://dbpedia.org/resource/Norman_Kirk", "http://dbpedia.org/resource/Frederick_C._Weyand", "http://dbpedia.org/resource/Ferdinand_Marcos", "http://dbpedia.org/resource/Ho_Chi_Minh", "http://dbpedia.org/resource/John_F._Kennedy", "http://dbpedia.org/resource/William_Westmoreland", "http://dbpedia.org/resource/Creighton_Abrams", "http://dbpedia.org/resource/Keith_Holyoake", "http://dbpedia.org/resource/Văn_Tiến_Dũng", "http://dbpedia.org/resource/Lê_Trọng_Tấn", "http://dbpedia.org/resource/Ngô_Quang_Trưởng", "http://dbpedia.org/resource/Ngô_Đình_Diệm", "http://dbpedia.org/resource/Nguyễn_Cao_Kỳ", "http://dbpedia.org/resource/Nguyễn_Hữu_Thọ", "http://dbpedia.org/resource/Hoàng_Văn_Thái", "http://dbpedia.org/resource/Nguyễn_Văn_Linh" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Indochina_Wars", "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_Vietnam", "http://dbpedia.org/resource/Laos", "http://dbpedia.org/resource/Cambodia", "http://dbpedia.org/resource/South_Vietnam" ],
+    "dbo:result" : [ "* Communist governments take power inSouth Vietnam,LaosandCambodia", "* Withdrawal ofAmerican-led forcesfromIndochina", "*South Vietnam is annexed by North Vietnam", "North Vietnamesevictory" ],
+    "dbo:strength" : [ "1,500,000 (1974–75)", ": 11,586", ": 170,000 (1965–69)", ": 2,061", ": 200", ": 287,465 (January 1968)", ": 50,003", ": 536,100 (1968)", ": 552", ": 7,672", ": 850,000 (1968)", "Viet Cong: 108,000–114,000 (estimated in 1964)", "≈1,830,000 (1968)", "≈461,000" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Vietnam" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/VNWarMontage.png?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:b" : [ "Modern History/Vietnam War" ],
+    "dbp:bgcolor" : [ "#c6dbf7" ],
+    "dbp:d" : [ "Q8740" ],
+    "dbp:n" : [ "no" ],
+    "dbp:quote" : [ "\"Vietnam was an atrocity from the get-go… There were hundreds of My Lais. You got your card punched by the numbers of bodies you counted.\"" ],
+    "dbp:s" : [ "no" ],
+    "dbp:source" : [ "http://dbpedia.org/resource/David_H._Hackworth" ],
+    "dbp:species" : [ "no" ],
+    "dbp:state" : [ "off" ],
+    "dbp:title" : [ "25" ],
+    "dbp:voy" : [ "no" ],
+    "dbp:width" : [ "246" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Vietnam War (Vietnamese: Chiến tranh Việt Nam), also known as the Second Indochina War, and known in Vietnam as Resistance War Against America (Vietnamese: Kháng chiến chống Mỹ) or simply the American War, was a war that occurred in Vietnam, Laos, and Cambodia from 1 November 1955 to the fall of Saigon on 30 April 1975. It was the second of the Indochina Wars and was officially fought between North Vietnam and the government of South Vietnam. The North Vietnamese army was supported by the Soviet Union, China and other communist allies and the South Vietnamese army was supported by the United States, South Korea, Australia, Thailand and other anti-communist allies and the war is therefore considered a Cold War-era proxy war. The Viet Cong (also known as the National Liberation Front, or NLF), a South Vietnamese communist common front aided by the North, fought a guerrilla war against anti-communist forces in the region, while the People's Army of Vietnam, also known as the North Vietnamese Army (NVA), engaged in more conventional warfare, at times committing large units to battle. As the war continued, the military actions of the Viet Cong decreased as the role and engagement of the NVA grew. South Vietnamese and U.S forces relied on air superiority and overwhelming firepower to conduct search and destroy operations, involving ground forces, artillery, and airstrikes. In the course of the war, the U.S. conducted a large-scale strategic bombing campaign against North Vietnam. The North Vietnamese government and the Viet Cong were fighting to reunify Vietnam. They viewed the conflict as a colonial war and a continuation of the First Indochina War against forces from France and later on the U.S. The U.S. government viewed its involvement in the war as a way to prevent a Communist takeover of South Vietnam. This was part of a wider containment policy, with the stated aim of stopping the spread of communism. Beginning in 1950, American military advisors arrived in what was then French Indochina. U.S. involvement escalated in the early 1960s, with troop levels tripling in 1961 and again in 1962. U.S. involvement escalated further following the 1964 Gulf of Tonkin incident, in which a U.S. destroyer clashed with North Vietnamese fast attack craft, which was followed by the Gulf of Tonkin Resolution, which gave the U.S. president authorization to increase U.S. military presence. Regular U.S. combat units were deployed beginning in 1965. Operations crossed international borders: bordering areas of Laos and Cambodia were heavily bombed by U.S. forces as American involvement in the war peaked in 1968, the same year that the communist side launched the Tet Offensive. The Tet Offensive failed in its goal of overthrowing the South Vietnamese government, but became the turning point in the war, as it persuaded a large segment of the U.S. population that its government's claims of progress toward winning the war were illusory despite many years of massive U.S. military aid to South Vietnam. Gradual withdrawal of U.S. ground forces began as part of \"Vietnamization\", which aimed to end American involvement in the war while transferring the task of fighting the Communists to the South Vietnamese themselves. Despite the Paris Peace Accord, which was signed by all parties in January 1973, the fighting continued. In the U.S. and the Western world, a large anti-Vietnam War movement developed as part of a larger counterculture. The war changed the dynamics between the Eastern and Western Blocs, and altered North–South relations. Direct U.S. military involvement ended on 15 August 1973. The capture of Saigon by the North Vietnamese Army in April 1975 marked the end of the war, and North and South Vietnam were reunified the following year. The war exacted a huge human cost in terms of fatalities (see Vietnam War casualties). Estimates of the number of Vietnamese soldiers and civilians killed vary from 800,000 to 3.1 million. Some 200,000–300,000 Cambodians, 20,000–200,000 Laotians, and 58,220 U.S. service members also died in the conflict, with a further 1,626 missing in action."
+}, {
+  "entityIndex" : "entity28425",
+  "entityUrl" : "http://dbpedia.org/resource/Venezuelan_War_of_Independence",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Kingdom of Spain", "1810:", "1811-1816:", "22px|borderHaiti1819-1823:", "Caracas Junta", "New Granada1816-1819:", "Venezuela" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Simón_Bolívar", "http://dbpedia.org/resource/Juan_Manuel_Cajigal", "http://dbpedia.org/resource/Antonio_Jose_de_Sucre", "http://dbpedia.org/resource/Manuel_Piar", "http://dbpedia.org/resource/Pablo_Morillo", "http://dbpedia.org/resource/Santiago_Mariño", "http://dbpedia.org/resource/Jose_Antonio_Paez", "http://dbpedia.org/resource/Rafael_Urdaneta", "http://dbpedia.org/resource/Francisco_de_Miranda", "http://dbpedia.org/resource/Miguel_de_la_Torre", "http://dbpedia.org/resource/Juan_Domingo_Monteverde", "http://dbpedia.org/resource/Jose_Tomas_Boves" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_American_wars_of_independence" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Venezuela", "http://dbpedia.org/resource/Viceroyalty_of_New_Granada" ],
+    "dbo:result" : [ "Venezuelan victory and independence" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Junta_Suprema_de_Caracas.svg?width=300" ],
+    "dbp:date" : [ "1810" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Venezuelan War of Independence (1810–1823) was one of the Spanish American wars of independence of the early nineteenth century, when independence movements in Latin America fought against rule by the Spanish Empire, emboldened by Spain's troubles in the Napoleonic Wars. The establishment of the Supreme Caracas Junta following the forced deposition of Vicente Emparan as Captain General of the Captaincy General of Venezuela on April 19, 1810, marked the beginnings of the war. On July 5, 1811, seven of the ten provinces of the Captaincy General of Venezuela declared their independence in the Venezuelan Declaration of Independence. The First Republic of Venezuela was lost in 1812 following the 1812 Caracas earthquake and the Battle of La Victoria (1812). Simón Bolívar led an \"Admirable Campaign\" to retake Venezuela, establishing the Second Republic of Venezuela in 1813; but this too did not last, falling to a combination of a local uprising and Spanish royalist reconquest. Only as part of Bolívar's campaign to liberate New Granada in 1819-20 did Venezuela achieve a lasting independence from Spain (initially as part of Gran Colombia). On 17 December 1819 the Congress of Angostura declared Gran Colombia an independent country. After two more years of war, the country achieved independence from Spain in 1821 under the leadership of its most famous son, Simón Bolívar. Venezuela, along with the present-day countries of Colombia, Panama, and Ecuador, formed part of the Republic of Gran Colombia until 1830, when Venezuela separated and became a sovereign country."
+}, {
+  "entityIndex" : "entity28426",
+  "entityUrl" : "http://dbpedia.org/resource/Villasur_expedition",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "46 killed" ],
+    "dbo:combatant" : [ "Apache", "Otoe", "Pawnee", "Pueblo" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pedro_de_Villasur" ],
+    "dbo:date" : [ "1720-08-14" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_the_Quadruple_Alliance" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Great_Plains" ],
+    "dbo:result" : [ "Pawnee and Otoe victory" ],
+    "dbo:strength" : [ "12 Apache warriors", "40 Spanish soldiers", "60-70 Pueblo warriors" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/PawneeVillasur1720.jpg?width=300" ]
+  },
+  "text" : "The Villasur expedition of 1720 was a Spanish military expedition intended to check the growing French influence on the Great Plains of central North America. Led by Lieutenant-General Pedro de Villasur, the expedition was attacked in present-day Nebraska by a Pawnee and Otoe force. Forty-six of the Spaniards and their Indian allies were killed. The survivors retreated to their base in New Mexico."
+}, {
+  "entityIndex" : "entity28427",
+  "entityUrl" : "http://dbpedia.org/resource/Vlora_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3,000 dead" ],
+    "dbo:combatant" : [ "Kingdom of Italy", "Albanian irregulars", "Principality of Albania" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Selam_Musai", "http://dbpedia.org/resource/Giovanni_Giolitti", "http://dbpedia.org/resource/Qazim_Koculi", "http://dbpedia.org/resource/Enrico_Gotti", "http://dbpedia.org/resource/Ahmet_Lepenica", "http://dbpedia.org/resource/Settimo_Piacentini" ],
+    "dbo:date" : [ "1920-09-03" ],
+    "dbo:result" : [ "Albanian victory", "Italy retreats troops", "Vlora region controlled by Albanians" ],
+    "dbo:strength" : [ "10,000", "20,000 infantry" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Saseno" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Vlora_war_combined.jpg?width=300" ],
+    "dbp:caption" : [ "Clockwise from top: Italian base; Albanian soldiers; Italian cannons captured by Albanian irregulars during one of the battles" ],
+    "dbp:casualties" : [ "2000" ],
+    "dbp:place" : [ "Southern Albania" ]
+  },
+  "text" : "The Vlora War or the War of 1920 (Albanian: Lufta e Vlorës or Lufta e Njëzetës; Italian: Guerra di Valona) was a series of battles between Italian forces garrisoned throughout Vlorë region and Albanian nationalists divided in small groups of fighters. The war lasted three months and had great impact in the struggle of Albania for the safeguard of its territories at a time when Albanian borders and future were discussed in the Paris Peace Conference. The Vlora War is seen as a turning point in the establishment of the Albanian independence."
+}, {
+  "entityIndex" : "entity28428",
+  "entityUrl" : "http://dbpedia.org/resource/Vilnius_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "?", "50-70 tanks" ],
+    "dbo:combatant" : [ "PolishHome Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Dietrich_von_Saucken", "http://dbpedia.org/resource/Walter_Model", "http://dbpedia.org/resource/Pavel_Rotmistrov", "http://dbpedia.org/resource/Theodor_Tolsdorff", "http://dbpedia.org/resource/Ivan_Chernyakhovsky", "http://dbpedia.org/resource/Aleksander_Krzyżanowski", "http://dbpedia.org/resource/Antoni_Olechnowicz", "http://dbpedia.org/resource/Rainer_Stahel" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)", "http://dbpedia.org/resource/Operation_Bagration" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Belarus", "http://dbpedia.org/resource/Lithuania" ],
+    "dbo:result" : [ "Soviet victory" ],
+    "dbo:strength" : [ "?", "7,700", "~100,000" ],
+    "dbp:casualties" : [ "8000", "?" ],
+    "dbp:date" : [ "July 1944" ],
+    "dbp:portal" : [ "Military of Germany", "Soviet Union", "World War II", "Nazi Germany" ]
+  },
+  "text" : "The Vilnius Offensive (Russian: Вильнюсская наступательная операция) occurred as part of the third phase of Operation Bagration, the great summer offensive by the Red Army against the Wehrmacht in June and July, 1944. The Vilnius Offensive lasted from 5 July – 13 July 1944, and ended with a Soviet victory. During the offensive, Soviet forces encircled and captured the city of Vilnius; this phase is sometimes referred to as the Battle of Vilnius. Some three thousand German soldiers of the encircled garrison managed to break out, including their commander, Rainer Stahel. After the offensive, the Lithuanian capital was liberated from Nazi occupation."
+}, {
+  "entityIndex" : "entity28429",
+  "entityUrl" : "http://dbpedia.org/resource/Vordarian's_Pretendership",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "heavy" ],
+    "dbo:combatant" : [ "House Vordarian, allies", "House Vorkosigan, HouseVorbarra, allies" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Aral_Vorkosigan", "http://dbpedia.org/resource/Count_Piotr_Vorkosigan" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Barrayar" ],
+    "dbo:result" : [ "Loyalist victory" ],
+    "dbo:status" : [ "won byVorbarra" ],
+    "dbo:strength" : [ "significant portion ofBarrayaran Imperial Military Service" ],
+    "dbp:casualties" : [ "heavy" ],
+    "dbp:commander" : [ "Vidal Vordarian" ],
+    "dbp:date" : [ "unknown" ],
+    "dbp:territory" : [ "surrender of Vordarianite insurgency" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Vordarian's Pretendership is a major event in Lois McMaster Bujold's sci-fi series, the Vorkosigan Saga."
+}, {
+  "entityIndex" : "entity28430",
+  "entityUrl" : "http://dbpedia.org/resource/Volcano_and_Ryukyu_Islands_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "27,113 dead or missing,", "74,501 wounded,", "773 aircraft destroyed", "79 ships sunk and scrapped," ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Chester_W._Nimitz", "http://dbpedia.org/resource/Douglas_MacArthur", "http://dbpedia.org/resource/Minoru_Ota", "http://dbpedia.org/resource/Kosaku_Aruga", "http://dbpedia.org/resource/Philip_Vian", "http://dbpedia.org/resource/Seiichi_Itō", "http://dbpedia.org/resource/Bruce_Fraser,_1st_Baron_Fraser_of_North_Cape", "http://dbpedia.org/resource/Keizō_Komura", "http://dbpedia.org/resource/Ray_Spruance", "http://dbpedia.org/resource/Joseph_W._Stilwell", "http://dbpedia.org/resource/Tadamichi_Kuribayashi", "http://dbpedia.org/resource/Hiromichi_Yahara", "http://dbpedia.org/resource/Mitsuru_Ushijima", "http://dbpedia.org/resource/Marc_A._Mitscher", "http://dbpedia.org/resource/Simon_Bolivar_Buckner,_Jr.", "http://dbpedia.org/resource/Holland_Smith", "http://dbpedia.org/resource/Roy_Geiger", "http://dbpedia.org/resource/William_Halsey,_Jr", "http://dbpedia.org/resource/Isamu_Cho", "http://dbpedia.org/resource/Sir_Bernard_Rawlings" ],
+    "dbo:date" : [ "1945-06-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Pacific_Ocean", "http://dbpedia.org/resource/Volcano_Islands", "http://dbpedia.org/resource/Ryukyu_Islands" ],
+    "dbo:result" : [ "Alliedvictory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ww2_158.jpg?width=300" ],
+    "dbp:caption" : [ "Two U.S. Marines advance on Wana Ridge during the Battle of Okinawa." ],
+    "dbp:casualties" : [ "21", "3130", "7216", "17000", "75000", "98811" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Volcano and Ryūkyū Islands campaign was a series of battles and engagements between Allied forces and Imperial Japanese forces in the Pacific Ocean campaign of World War II between January and June, 1945. The campaign took place in the Volcano and Ryukyu island groups. The two main land battles in the campaign were the Battle of Iwo Jima (February 16-March 26, 1945) and the Battle of Okinawa (April 1-June 21, 1945). One major naval battle occurred, called Operation Ten-Go (April 7, 1945) after the operational title given to it by the Japanese. The campaign was part of the Allied Japan campaign intended to provide staging areas for an invasion of Japan as well as supporting aerial bombardment and a naval blockade of the Japanese mainland. The dropping of atomic weapons on two Japanese cities and the hammer-blow Soviet invasion of Japanese Manchuria, however, caused the Japanese government to surrender without an armed invasion being necessary."
+}, {
+  "entityIndex" : "entity28431",
+  "entityUrl" : "http://dbpedia.org/resource/Vilna_offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "33 soldiers" ],
+    "dbo:combatant" : [ "Second Polish Republic", "Bolshevist Russia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Józef_Piłsudski", "http://dbpedia.org/resource/Władysław_Belina-Prażmowski", "http://dbpedia.org/resource/Edward_Rydz-Śmigły" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Polish–Soviet_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Lithuania", "http://dbpedia.org/resource/Vilnius" ],
+    "dbo:result" : [ "Polish victory" ],
+    "dbo:strength" : [ "1,000 cavalry", "10,000 infantry", "16 guns", "3,000 cavalry", "2,000 soldiers", "12,000 infantry", "3 infantry battalions", "Polish 1st Legions Infantry Divisionhad 2,500 soldiers", "44 artillery pieces.", "9 cavalry squadrons", "For Vilnius:", "For the offensive:", "Polish cavalry of colonel Belina had 800 soldiers", "artillery support", "local population", "For the offensive:Western Rifle Divisionand other units ofWestern Army." ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Polish_army_in_Wilno_1919.jpg?width=300" ],
+    "dbp:caption" : [ "Polish Army enters Vilnius , 1919." ],
+    "dbp:casualties" : [ "Unknown. Polish military communiques note \"more than 1,000 prisoners\" taken." ],
+    "dbp:commander" : [ "Unknown" ],
+    "dbp:date" : [ "early 1919" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Vilna offensive was a campaign of the Polish–Soviet War of 1919–1921. The Polish army launched an offensive on April 16, 1919, to take Vilnius (Polish: Wilno) from the Red Army. After three days of street fighting from April 19–21, the city was captured by Polish forces, causing the Red Army to retreat. During the offensive, the Poles also succeeded in securing the nearby cities of Lida, Pinsk, Navahrudak, and Baranovichi. The Red Army launched a series of counterattacks in late April, all of which ended in failure. The Soviets briefly recaptured the city a year later, in spring 1920, when the Polish army was retreating along the entire front. In the aftermath, the Vilna offensive would cause much turmoil on the political scene in Poland and abroad."
+}, {
+  "entityIndex" : "entity28432",
+  "entityUrl" : "http://dbpedia.org/resource/Vienna_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "~20,000 killed", "47,000 taken prisoner  20,000 (Vienna) 5,000 (Surrounding Area)" ],
+    "dbo:combatant" : [ "Hungary", "23px|borderBulgaria" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Wilhelm_Bittrich", "http://dbpedia.org/resource/Vladimir_Stoychev", "http://dbpedia.org/resource/Rudolf_von_Bünau_(father)", "http://dbpedia.org/resource/Fyodor_Tolbukhin" ],
+    "dbo:date" : [ "1945-04-13" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Nazi_Germany", "http://dbpedia.org/resource/Vienna" ],
+    "dbo:result" : [ "Soviet and Bulgarian victory" ],
+    "dbo:strength" : [ "100,900 Bulgarians", "644,700 Soviets", "85 divisions and 3 brigades", "Four armies (full strength)", "Localirregulars", "Onearmy(understrength)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Vienna_Operations.jpg?width=300" ],
+    "dbp:casualties" : [ "--03-16" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Vienna Offensive was launched by the Soviet 3rd Ukrainian Front in order to capture Vienna in Austria. The offensive lasted from 2 to 13 April 1945. The city of Vienna was surrounded and under siege for most of the offensive until its capture."
+}, {
+  "entityIndex" : "entity28433",
+  "entityUrl" : "http://dbpedia.org/resource/Valley_of_Tears",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "60-80 tanks and vehicles" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Avigdor_Ben-Gal", "http://dbpedia.org/resource/Omar_Abrash" ],
+    "dbo:date" : [ "1973-10-09" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Yom_Kippur_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Golan_Heights" ],
+    "dbo:result" : [ "Decisive Israeli victory" ],
+    "dbo:strength" : [ "1 armored brigade (~100 tanks)", "1 infantry division (~500 tanks and vehicles)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/1973_Yom_Kippur_War_-_Golan_heights_theater.jpg?width=300" ],
+    "dbp:caption" : [ "Map of the Golan campaign." ],
+    "dbp:casualties" : [ "500" ]
+  },
+  "text" : "The Valley of Tears (Hebrew: עֵמֶק הַבָּכָא, Emek HaBakha) is the name given to an area in the Golan Heights after it became the site of a major battle in the 1973 Yom Kippur War, known as the Valley (or Vale) of Tears Battle, which was fought between 6 and 9 October. Although massively outnumbered, the Israeli forces managed to hold their positions and on the fourth day of the battle the Syrians withdrew, just as the Israeli defenses were almost at the point of collapse."
+}, {
+  "entityIndex" : "entity28434",
+  "entityUrl" : "http://dbpedia.org/resource/Valley_Forge",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2,000 died" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/George_Washington", "http://dbpedia.org/resource/Casimir_Pulaski", "http://dbpedia.org/resource/William_Howe,_5th_Viscount_Howe", "http://dbpedia.org/resource/Marquis_de_Lafayette", "http://dbpedia.org/resource/Friedrich_Von_Steuben" ],
+    "dbo:date" : [ "1777-12-19", "1778-06-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Revolutionary_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Valley_Forge,_Pennsylvania" ],
+    "dbo:result" : [ "American Army survived difficult winter" ],
+    "dbo:strength" : [ "12,000", "15,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Washington_and_Lafayette_at_Valley_Forge.jpg?width=300" ],
+    "dbp:caption" : [ "Washington and Lafayette at Valley Forge" ],
+    "dbp:casualties" : [ "n/a" ]
+  },
+  "text" : "Valley Forge was the military camp 18 miles northwest of Philadelphia  where the American Continental Army spent the winter of 1777–78 during the American Revolutionary War. Starvation, disease, malnutrition, and exposure killed more than 2,500 American soldiers by the end of February 1778. General George Washington sought quarters for his men with winter almost setting in, and with greatly diminishing prospects for campaigning. Washington and his troops had fought in early December what was the last major engagement of 1777 at the Battle of White Marsh (or Edge Hill). He devised to pull his troops from their present encampment in the White Marsh area (now Fort Washington State Park) and move to a more secure location for the coming winter."
+}, {
+  "entityIndex" : "entity28435",
+  "entityUrl" : "http://dbpedia.org/resource/Vandalic_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Eastern Roman Empire", "Vandalic Kingdom" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Gelimer", "http://dbpedia.org/resource/Belisarius" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Algeria", "http://dbpedia.org/resource/Libya", "http://dbpedia.org/resource/Tunisia", "http://dbpedia.org/resource/Sardinia" ],
+    "dbo:result" : [ "Decisive Byzantine victory, destruction of the Vandalic Kingdom" ],
+    "dbo:strength" : [ "10,000 infantry", "5,000–7,000 cavalry", "ca. 20,000–25,000 or ca. 30,000–40,000, mostly cavalry" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Praetorian_prefecture_of_Africa", "http://dbpedia.org/resource/Vandalic_Kingdom" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Vandalic_War_campaign_map.png?width=300" ],
+    "dbp:caption" : [ "Campaign map of the war" ],
+    "dbp:date" : [ "June 533 &ndash; March 534 AD" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Vandalic War (Greek: Βανδηλικὸς πόλεμος) was a conflict fought in North Africa (largely in modern Tunisia) between the forces of the Eastern Roman (\"Byzantine\") Empire and the Vandalic Kingdom of Carthage, in 533–534. It was the first of Justinian I's wars of reconquest of the lost Western Roman Empire. The Vandals had occupied Roman North Africa in the early 5th century, and established an independent kingdom there. Under their first king, Geiseric, the formidable Vandal navy carried out pirate attacks across the Mediterranean, sacked Rome and defeated a massive Roman invasion in 468. After Geiseric's death, relations with the surviving Eastern Roman Empire normalized, although tensions flared up occasionally due to the Vandals' militant adherence to Arianism and their persecution of the Chalcedonian native population. In 530, a palace coup in Carthage overthrew the pro-Roman Hilderic and replaced him with his cousin Gelimer. The Eastern Roman emperor Justinian took this as a pretext to interfere in Vandal affairs, and after he secured his eastern frontier with Sassanid Persia in 532, he began preparing an expedition under general Belisarius, whose secretary Procopius wrote the main historical narrative of the war. Justinian took advantage of, or even instigated, rebellions in the remote Vandal provinces of Sardinia and Tripolitania. These not only distracted Gelimer from the Emperor's preparations, but also weakened Vandal defences through the dispatch of the bulk of the Vandal navy and a large portion of their army under Gelimer's brother Tzazon to Sardinia. The Roman expeditionary force set sail from Constantinople in late June 533, and after a sea voyage along the coasts of Greece and southern Italy, landed on the African coast at Caputvada in early September, to Gelimer's complete surprise. The Vandal king gathered his forces and met the Roman army at the Battle of Ad Decimum, near Carthage, on 13 September. Gelimer's elaborate plan to encircle and destroy the Roman army came close to success, but Belisarius was able to drive the Vandal army to flight and occupy Carthage. Gelimer withdrew to Bulla Regia, where he gathered his remaining strength, including the army of Tzazon, which returned from Sardinia. In December, Gelimer advanced towards Carthage and met the Romans at the Battle of Tricamarum. The battle resulted in a Roman victory and the death of Tzazon. Gelimer fled to a remote mountain fortress, where he was blockaded until he surrendered in the spring. Belisarius returned to Constantinople with the Vandals' royal treasure and the captive Gelimer to enjoy a triumph, while Africa was formally restored to imperial rule as the praetorian prefecture of Africa. Imperial control scarcely reached beyond the old Vandal kingdom, however, and the Moorish tribes of the interior proved unwilling to accept imperial rule and soon rose up in rebellion. The new province was shaken by the wars with the Moors and military rebellions, and it was not until 548 that peace was restored and Roman government firmly established."
+}, {
+  "entityIndex" : "entity28436",
+  "entityUrl" : "http://dbpedia.org/resource/Vadamarachchi_Operation",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "689 killed" ],
+    "dbo:combatant" : [ "Liberation Tigers of Tamil Eelam", "18pxMilitary of Sri Lanka" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Brig.", "http://dbpedia.org/resource/Lieutenant_General", "http://dbpedia.org/resource/Brigadier", "http://dbpedia.org/resource/Colonel" ],
+    "dbo:date" : [ "1987-05-26" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sri_Lankan_civil_war", "http://dbpedia.org/resource/Eelam_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Sri_Lanka", "http://dbpedia.org/resource/Jaffna" ],
+    "dbo:result" : [ "Partial Sri Lankan Army victory" ],
+    "dbo:strength" : [ "8,000", "Unknown" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Sri_Lanka.svg?width=300" ],
+    "dbp:caption" : [ "Denzil, Vijaya & Sarath during Vadamarachchi Operation." ],
+    "dbp:casualties" : [ "631" ],
+    "dbp:commander" : [ "Velupillai Pirabakaran" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Operation Liberation or the Vadamarachchi Operation was the military offensive carried out by the Sri Lankan military in May and June 1987 to recapture the territory of Vadamarachchi in the Jaffna peninsula from the LTTE (Tamil Tigers). It was the first conventional warfare engagement on Sri Lankan soil after the end of British colonial rule."
+}, {
+  "entityIndex" : "entity28437",
+  "entityUrl" : "http://dbpedia.org/resource/Vietnamese_border_raids_in_Thailand",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Supported by:", "*FUNCINPEC", "*KPNLF", "*PDK(Khmer Rouge)", "CGDK", "People's Republic of Kampuchea(1979–89)", "State of Cambodia(1989)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cambodian–Vietnamese_War", "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Gulf_of_Thailand" ],
+    "dbo:result" : [ "Destruction of numerous guerilla bases and refugee camps along the Cambodian-Thai border and isolated outbreaks of open hostility between Vietnamese and Thai troops." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Cambodia_anti-PRK_border_camps.png?width=300" ],
+    "dbp:caption" : [ "Vietnamese P.O.W. captured by the Thai Army in 1984" ],
+    "dbp:date" : [ "1979" ]
+  },
+  "text" : "After the 1978 Vietnamese invasion of Cambodia and defeat of Democratic Kampuchea in 1979, the Khmer Rouge fled to the border regions of Thailand, and with assistance from China Pol Pot's troops managed to regroup and reorganise in forested and mountainous zones on the Thai-Cambodian border. During the 1980s and early 1990s Khmer Rouge forces operated from inside refugee camps in Thailand, in an attempt to de-stabilize the pro-Hanoi People's Republic of Kampuchea's government, which Thailand refused to recognise. Thailand and Vietnam faced off across the Thai-Cambodian border with frequent Vietnamese incursions and shellings into Thai territory throughout the 1980s in pursuit of Cambodian guerrillas who kept attacking Vietnamese occupation forces."
+}, {
+  "entityIndex" : "entity28438",
+  "entityUrl" : "http://dbpedia.org/resource/Vlieter_Incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "none" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Rear-Admiral", "http://dbpedia.org/resource/Vice-Admiral" ],
+    "dbo:date" : [ "1799-08-30" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Anglo-Russian_invasion_of_Holland", "http://dbpedia.org/resource/War_of_the_Second_Coalition" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Netherlands", "http://dbpedia.org/resource/Wieringen" ],
+    "dbo:result" : [ "Batavian surrender" ],
+    "dbo:strength" : [ "13 ships", "17 ships" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Texel.jpg?width=300" ],
+    "dbp:caption" : [ "Satellite image of the island of Texel and its surroundings. Wieringen  is the piece of land appearing in the bottom-right of the picture." ],
+    "dbp:casualties" : [ "12" ]
+  },
+  "text" : "In the Vlieter incident on 30 August 1799, a squadron of the navy of the Batavian Republic, commanded by Rear-Admiral Samuel Story, surrendered to the British navy. The incident occurred during the Anglo-Russian Invasion of Holland. It took place on a sandbank near the channel between Texel and the mainland that was known as De Vlieter, near Wieringen."
+}, {
+  "entityIndex" : "entity28439",
+  "entityUrl" : "http://dbpedia.org/resource/Veronese_Easter",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "20pxFrench Republic", "20pxPeople of Verona" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Francesco_Battaia" ],
+    "dbo:date" : [ "1797-04-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/French_Revolutionary_Wars:_Campaigns_of_1797" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Verona" ],
+    "dbo:result" : [ "French victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Milizie_venete_a_Verona_bis.jpg?width=300" ],
+    "dbp:caption" : [ "Verona's Guardia Nobile  and Schiavoni troops  during a re-enactment of the Pasque Veronesi." ],
+    "dbp:commander" : [ "Antoine Balland", "General Landrieux" ]
+  },
+  "text" : "The Veronese Easter (Italian: Pasque Veronesi, or singular Pasqua Veronese; French: Pâques véronaises) was a rebellion during the Italian campaign of 1797, in which inhabitants of Verona and the surrounding areas revolted against the French occupying forces under Antoine Balland, while Napoleon Bonaparte (the French supreme commander in the Italian campaign) was fighting in Austria. They are so-called due to association with the Sicilian Vespers. Incited by oppressive behaviour by the French (confiscating the assets of Verona's citizens and plotting to overthrow the city's local government), it began on the morning of 17 April 1797, the second day of Easter: the enraged population succeeded in defeating more than a thousand French soldiers in the first hour of fighting, forcing them to take refuge in the town's fortifications, which the mob then captured by force. The revolt ended on 25 April 1797 with the encirclement and capture of the town by 15,000 soldiers, who then forced it to pay a huge fine and hand over various assets, including artwork."
+}, {
+  "entityIndex" : "entity28440",
+  "entityUrl" : "http://dbpedia.org/resource/Voyage_of_the_Glorioso",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 ship of line sunk", "296-334 killed", "several ships damaged," ],
+    "dbo:combatant" : [ "Spain" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/George_Walker_(privateer)", "http://dbpedia.org/resource/Pedro_Messia_de_la_Cerda", "http://dbpedia.org/resource/John_Crookshanks", "http://dbpedia.org/resource/Matthew_Buckle_(Royal_Navy_officer)", "http://dbpedia.org/resource/Robert_Erskine_(Royal_Navy_officer)" ],
+    "dbo:date" : [ "1747-10-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_Jenkins'_Ear" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Galicia_(Spain)", "http://dbpedia.org/resource/Portugal", "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/Cape_St._Vincent", "http://dbpedia.org/resource/Azores_Islands" ],
+    "dbo:result" : [ "1st: Spanish victory", "2nd: Spanish victory", "3rd: Spanish victory", "4th:PyrrhicBritish victory", "Overall: Strategic Spanish victory" ],
+    "dbo:strength" : [ "2brigs", "4ships of the line,", "70-gunship of the line", "7frigates,", "Glorioso" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Glorioso_Darmouth.jpg?width=300" ],
+    "dbp:campaignbox" : [ "Sea battles" ],
+    "dbp:caption" : [ "Combat of the Glorioso against HMS Dartmouth. Oil on canvas by Ángel Cortellini Sánchez, 1891." ],
+    "dbp:casualties" : [ "33", "130", "Glorioso captured," ]
+  },
+  "text" : "The voyage of the Glorioso involved four naval engagements fought in 1747 during the War of the Austrian Succession between the Spanish 70-gun ship of the line Glorioso and several British squadrons of ships of the line and frigates which tried to capture it. The Glorioso, carrying four million silver dollars from the Americas, was able to repel two British attacks off the Azores and Cape Finisterre, successfully landing her cargo at the port of Corcubión, Spain. Several days after unloading the cargo, while sailing to Cadiz for repairs, Glorioso was attacked successively near Cape St Vincent by four British privateer frigates and the ships of the line HMS Dartmouth and HMS Russell from Admiral John Byng's fleet. The Dartmouth blew up killing most of her crew, but the 92-gun Russell eventually forced the Glorioso to strike the colours. The British took her to Lisbon, where she had to be broken up because of the extensive damage suffered during the last battle. The commander of the ship, Pedro Messia de la Cerda, and his men, were taken to Great Britain as prisoners, but were considered heroes in Spain and gained the admiration of their enemies. Several British officers were court-martialed and expelled from the Navy for their poor performance against the enemy."
+}, {
+  "entityIndex" : "entity28441",
+  "entityUrl" : "http://dbpedia.org/resource/V-1_and_V-2_Intelligence",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "'''Key Figures:", "*UK:Reginald Victor Jones", "*USA:Allen Dulles", "*V-1: MaxWachtel", "*V-2:Walter Dornberger" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/European_Theatre_of_World_War_II", "http://www.ibiblio.org/hyperwar/AAF/III/AAF-III-4.html" ],
+    "dbo:result" : [ "~25% fewer V-1s struck theLondon Civil Defence Regiondue to Double Cross" ],
+    "dbo:strength" : [ "PR Squadrons (5 UK, 5 USA, & 4 CA)", "V-1: 16 batteries of 220 men", "agents& informants" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Sweden.svg?width=300" ],
+    "dbp:date" : [ "March 2010" ],
+    "dbp:reason" : [ "THE Fritz Kolbe WIKIARTICLE MAKES THIS CLAIM BUT DOESN'T IDENTIFY A SPECIFIC PIECE OF INTEL" ]
+  },
+  "text" : "Military intelligence on the V-1 and V-2 weapons developed by the Germans for attacks on the United Kingdom during the Second World War was important to countering them. Intelligence came from a number of sources and the Anglo-American intelligence agencies used it to assess the threat of the German V-weapons. The activities included use of the Double Cross System for counter-intelligence and the British (code named) \"Big Ben\" project to reconstruct and evaluate German missile technology for which Denmark, Poland, Sweden, and the USSR provided assistance.German counter-intelligence ruses were used to mislead the Allies about V-1 launch sites and the Peenemünde Army Research Center which were targeted for attacks by the Allies."
+}, {
+  "entityIndex" : "entity28442",
+  "entityUrl" : "http://dbpedia.org/resource/Victorio's_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Apache" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Philip_Sheridan", "http://dbpedia.org/resource/Victorio", "http://dbpedia.org/resource/Nana_(chief)", "http://dbpedia.org/resource/Joaquin_Terrazas" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Apache_Wars", "http://dbpedia.org/resource/Renegade_period_of_the_Apache_Wars", "http://dbpedia.org/resource/Apache-Mexico_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Northwestern_Mexico", "http://dbpedia.org/resource/Southwest_United_States" ],
+    "dbo:result" : [ "United States/Mexican victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Victorio_Chiricahua_Apache_Chief.jpg?width=300" ],
+    "dbp:caption" : [ "Chief Victorio" ],
+    "dbp:date" : [ "1879" ]
+  },
+  "text" : "Victorio's War, or the Victorio Campaign, was an armed conflict between the Apache followers of Chief Victorio, the United States, and Mexico beginning in September 1879. Following his escape from the San Carlos Indian Reservation in southeastern Arizona, Victorio led a guerrilla war across the Southwest and northern Mexico. Many engagements were fought until the Mexican Army killed Victorio and defeated his warriors in October 1880. After Victorio's death, Chief Nana continued the war into 1881. Following the Battle of Cibecue Creek, in August 1881, Nana and his band joined Geronimo."
+}, {
+  "entityIndex" : "entity28443",
+  "entityUrl" : "http://dbpedia.org/resource/Villarreal_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,000 dead" ],
+    "dbo:combatant" : [ "Nationalist Spain", "Spanish Republic", "22px|Bandera del País Vasco.Euzko Gudarostea" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Francisco_Llano_de_la_Encomienda", "http://dbpedia.org/resource/Francisco_Ciutat_de_Miguel", "http://dbpedia.org/resource/Emilio_Mola", "http://dbpedia.org/resource/Camilo_Alonso_Vega", "http://dbpedia.org/resource/Alberto_de_Montaud_y_Noguerol" ],
+    "dbo:date" : [ "1936-11-30" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Vitoria-Gasteiz", "http://dbpedia.org/resource/Legutio", "http://dbpedia.org/resource/Basque_Country_(autonomous_community)" ],
+    "dbo:result" : [ "Nationalist victory" ],
+    "dbo:strength" : [ "600 men", "5 guns", "25 guns", "4,300 men", "8 armored vehicles" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Basque_Country.svg?width=300" ],
+    "dbp:casualties" : [ "?" ]
+  },
+  "text" : "The Villarreal Offensive (Spanish: Ofensiva de Villarreal) was an offensive of the Spanish Civil War which lasted from 30 November to 24 December 1936. Eusko Gudarostea's 4,300 men fought 600 men of the insurgent forces."
+}, {
+  "entityIndex" : "entity28444",
+  "entityUrl" : "http://dbpedia.org/resource/Volta-Bani_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "France", "*French West Africa", "Marka, Bwa, Lela, Nuni, and Bobo people" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/François_Joseph_Clozel" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Mali" ],
+    "dbo:result" : [ "French victory" ],
+    "dbo:strength" : [ "5,000 soldiers", "15,000-20,000 warriors" ],
+    "dbp:casualties" : [ "Very heavy" ],
+    "dbp:commander" : [ "Dasa" ],
+    "dbp:date" : [ "November 1915 – February 1917" ]
+  },
+  "text" : "The war started after the 1915 rainy season, when a group of representatives from around a dozen villages gathered at Bona where they resolved to take up arms against the French occupiers. This took place in the context of World War I and introduction of conscription for the French Army. There was also widespread optimism that the colonial government could be beaten at this moment of weakness. It went through various phases as the colonial army organized two suppression campaigns but initially failed in its purpose, in the face of fierce opposition and superior tactics. The Volta-Bani War is one of the most significant armed oppositions to colonial government anywhere in Africa. It was the main reason for the creation of the colony of Haute Volta (now Burkina Faso) after World War I, by splitting off seven districts from the large colony of Haut-Sénégal and Niger. The name \"Volta-Bani War\" was coined in the book West African Challenge to Empire: Culture and History in the Volta-Bani War, which is an anthropological analysis and detailed description of these confrontations, on the basis of military archives documents and an elaborate understanding of the region based on ethnographic fieldwork and oral history. The book won the Amaury Talbot Prize of the Royal Anthropological Institute for 2002. A fictional account of the revolt was the subject of one of the important early literary works of West Africa, Nazi Boni's Crépuscule des temps anciens (1962)."
+}, {
+  "entityIndex" : "entity28445",
+  "entityUrl" : "http://dbpedia.org/resource/Venetian_Crusade",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "County of Tripoli", "Kingdom of Jerusalem", "Fatimid Caliphate", "Republic of Venice", "Seljuqs" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Toghtekin", "http://dbpedia.org/resource/Pons_of_Tripoli", "http://dbpedia.org/resource/William_I_of_Bures", "http://dbpedia.org/resource/Domenico_Michele" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Crusades" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Levant" ],
+    "dbo:result" : [ "Capture ofTyre(Crusaders/Venice)", "Naval victory atJaffa(Venice)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Tyre_being_blockaded_by_the_Venetian_fleet_and_besieged_by_Crusader_knighthood.PNG?width=300" ],
+    "dbp:caption" : [ "The siege of Tyre by the Crusaders and the Venetian fleet" ],
+    "dbp:date" : [ "1122" ]
+  },
+  "text" : "The Venetian Crusade of 1122–24 was an expedition to the Holy Land launched by the Republic of Venice that succeeded in capturing Tyre.It was an important victory at the start of a period when the Kingdom of Jerusalem would expand to its greatest extent under King Baldwin II. The Venetians gained valuable trading concessions in Tyre. Through raids on Byzantine territory both on the way to the Holy Land and on the return journey, the Venetians forced the Byzantines to confirm, as well as extend their trading privileges with the empire."
+}, {
+  "entityIndex" : "entity28446",
+  "entityUrl" : "http://dbpedia.org/resource/Velika_attacks_(1879)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "85 deaths and 100 wounded" ],
+    "dbo:combatant" : [ "League of Prizren" ],
+    "dbo:date" : [ "1879-11-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Battles_for_Plav_and_Gusinje" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Principality_of_Montenegro", "http://dbpedia.org/resource/Velika,_Plav" ],
+    "dbp:casualties" : [ "1000" ],
+    "dbp:latitude" : [ "42.6644" ],
+    "dbp:longitude" : [ "19.9561" ],
+    "dbp:mapCaption" : [ "Location within modern-day Montenegro" ],
+    "dbp:mapType" : [ "Montenegro" ],
+    "dbp:units" : [ "* Albanian irregulars", "* Moračani batallion" ]
+  },
+  "text" : "During the implementation of the Congress of Berlin, when the Principality of Montenegro had received Plav and Gusinje (along with other places), the surrounding Albanian populace under the guise of the Ottomans attacked the Montenegrin forces in Velika at two occasions, on October 9 and November 22, 1879. The Albanians were defeated."
+}, {
+  "entityIndex" : "entity28447",
+  "entityUrl" : "http://dbpedia.org/resource/Vejce_massacre",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "8 massacred, 7 killed by gunfire" ],
+    "dbo:combatant" : [ "*Police Unit Bitola", "*Wolves", "UÇK" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ali_Ahmeti", "http://dbpedia.org/resource/Pande_Petrovski", "http://dbpedia.org/resource/Boris_Trajkovski", "http://dbpedia.org/resource/Boban_Trajkovski" ],
+    "dbo:date" : [ "2001-04-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Insurgency_in_the_Republic_of_Macedonia" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Šar_Mountains", "http://dbpedia.org/resource/Vejce", "http://dbpedia.org/resource/Selce,_Macedonia" ],
+    "dbo:result" : [ "The military conflict becomes more intense;Macedoniaon the verge of a war" ],
+    "dbo:strength" : [ "25 - 50National Liberation Army", "Patrol of 16 Macedonian Special Forces" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/MacedonianArmyLogo.svg?width=300" ],
+    "dbp:casualties" : [ "no fatalities, 1 wounded" ],
+    "dbp:date" : [ "May 2015" ],
+    "dbp:reason" : [ "Is cartridges or bullets meant?" ]
+  },
+  "text" : "The Vejce massacre (Macedonian: Масакрот кај Вејце) was one of the most brutal massacres in the modern history of the Republic of Macedonia and during the 2001 Insurgency. The massacre took place on the late afternoon of 28 April 2001 near Vejce, a village in the Šar Mountains. It was committed by Albanian extremists of the National Liberation Army (UÇK)."
+} ]

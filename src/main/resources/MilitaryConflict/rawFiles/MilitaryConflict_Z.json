@@ -1,0 +1,277 @@
+[ {
+  "entityIndex" : "entity28575",
+  "entityUrl" : "http://dbpedia.org/resource/Zamboanga_(province)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:capital" : [ "http://dbpedia.org/resource/Zamboanga_City", "http://dbpedia.org/resource/Molave,_Zamboanga_del_Sur", "http://dbpedia.org/resource/Dipolog_City" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ph_seal_zamboanga_del_sur.png?width=300" ],
+    "dbp:casualties" : [ "233000" ],
+    "dbp:commonLanguages" : [ "Zamboangueño Chavacano, Standard Subanen, Cebuano and Tausug" ],
+    "dbp:date" : [ "1944" ],
+    "dbp:dateEnd" : [ "--06-06" ],
+    "dbp:dateStart" : [ "--07-23" ],
+    "dbp:eventEnd" : [ "Splitting of Zamboanga" ],
+    "dbp:flagS" : [ "Ph_seal_zamboanga_del_sur.png", "Provincial seal of Zamboanga del Norte, Philippines.png" ],
+    "dbp:imageMap" : [ "Zamboanga province map 1918.JPG" ],
+    "dbp:imageMapCaption" : [ "Map of Zamboanga Province in 1918" ],
+    "dbp:nation" : [ "Philippines" ],
+    "dbp:p" : [ "District of Cotabato", "District of Misamis", "District of Zamboanga" ],
+    "dbp:s" : [ "Zamboanga del Norte", "Zamboanga del Sur" ],
+    "dbp:subdivision" : [ "http://dbpedia.org/resource/Province_of_the_Philippines" ],
+    "dbp:today" : [ "Basilan, Zamboanga del Norte, Zamboanga del Sur, Zamboanga Sibugay and Zamboanga City" ],
+    "dbp:yearEnd" : [ "1952" ],
+    "dbp:yearStart" : [ "1914" ]
+  },
+  "text" : "Zamboanga (also Zamboaŋga) is a former province of the Philippines located in the western region of the southern island of Mindanao, Philippines."
+}, {
+  "entityIndex" : "entity28576",
+  "entityUrl" : "http://dbpedia.org/resource/Zhuge_Liang's_Northern_Expeditions",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Cao Wei", "Shu Han", "Qiang people", "Xianbei" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Zhuge_Liang", "http://dbpedia.org/resource/Sima_Yi", "http://dbpedia.org/resource/Kebineng", "http://dbpedia.org/resource/Cao_Zhen" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Three_Kingdoms" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Gansu", "http://dbpedia.org/resource/Shaanxi" ],
+    "dbo:result" : [ "Cao Wei strategic victory, Shu Han tactical victory, overall expedition failure" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Wei_and_Shu_battle_at_the_banks_of_River_Wei.jpg?width=300" ],
+    "dbp:altname" : [ "Six campaigns from Mount Qi" ],
+    "dbp:c" : [ "六出祁山" ],
+    "dbp:caption" : [ "Illustration from a Qing dynasty print of the Romance of the Three Kingdoms" ],
+    "dbp:date" : [ "Spring 228-August 234" ],
+    "dbp:p" : [ "Zhūgě Liàng Běifá", "lìu chū Qíshān" ],
+    "dbp:s" : [ "诸葛亮北伐" ],
+    "dbp:t" : [ "諸葛亮北伐" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Zhuge Liang's Northern Expeditions were a series of five military campaigns launched by the state of Shu Han against the rival state of Cao Wei from 228 to 234 during the Three Kingdoms period. All five expeditions were led by Shu's chancellor-regent Zhuge Liang. Although they proved unsuccessful and indecisive, the expeditions have become some of the most well-known conflicts of the Three Kingdoms period. The expeditions are dramatised and romanticised in the novel Romance of the Three Kingdoms, where they are referred to as the 'six campaigns from Mount Qi' (Chinese: 六出祁山). This term is inaccurate, since Zhuge Liang only launched two of his expeditions (the first and the fourth) from Mount Qi. The term also counts a defensive campaign against Wei as well as the five listed below."
+}, {
+  "entityIndex" : "entity28577",
+  "entityUrl" : "http://dbpedia.org/resource/Zanj_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Abbasid Caliphate", "Zanjrebels" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Al-Muwaffaq", "http://dbpedia.org/resource/Abi'l-Saj_Devdad", "http://dbpedia.org/resource/Al-Mu'tadid", "http://dbpedia.org/resource/Musa_ibn_Bugha_al-Kabir", "http://dbpedia.org/resource/Masrur_al-Balkhi", "http://dbpedia.org/resource/'Ali_ibn_Aban_al-Muhallabi", "http://dbpedia.org/resource/'Ali_ibn_Muhammad_(Zanj_leader)", "http://dbpedia.org/resource/Ahmad_ibn_Laythawayh", "http://dbpedia.org/resource/Ankalay_ibn_'Ali_ibn_Muhammad", "http://dbpedia.org/resource/Sulayman_ibn_Jami'", "http://dbpedia.org/resource/Sulayman_ibn_Musa_al-Sha'rani", "http://dbpedia.org/resource/Yahya_ibn_Muhammad_al-Bahrani" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Khuzestan_Province", "http://dbpedia.org/resource/Iraq" ],
+    "dbo:result" : [ "Abbasidvictory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Zanj_Rebellion.svg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:bgcolor" : [ "#c6dbf7" ],
+    "dbp:caption" : [ "Map of Iraq and al-Ahwaz at the time of the Zanj revolt." ],
+    "dbp:date" : [ "869" ],
+    "dbp:quote" : [ "\"A large number of [people] hid among the houses and in the wells. They appeared only at night and hunted dogs, rats and cats...[t]hen they ate the corpses of their companions who had died, and they watched each other, waiting for someone to die. The stronger killed their comrades and devoured them...\"" ],
+    "dbp:source" : [ "Passage describing conditions in Basra during the war." ],
+    "dbp:width" : [ "280" ]
+  },
+  "text" : "The Zanj Rebellion (Arabic: ثورة الزنج‎‎ Thawrat al-Zanj / Zinj) was a major uprising against the Abbasid Caliphate which took place from 869 until 883. Begun near the city of Basra in present-day southern Iraq and led by one 'Ali ibn Muhammad, the insurrection is traditionally believed to have involved enslaved blacks (Zanj) that had originally been captured from the East African coast and transported to the Middle East. It grew to involve many slaves and free men from several regions of the Caliphate, and claimed tens of thousands of lives before it was finally defeated. Several Muslim historians, such as al-Tabari and al-Mas'udi, consider the Zanj revolt to be one of the \"most vicious and brutal uprisings\" of the many disturbances that plagued the Abbasid central government. Modern scholars have characterized the conflict as being \"one of the bloodiest and most destructive rebellions which the history of Western Asia records,\" while at the same time praising its coverage as being among the \"most fully and extensively described campaign[s] in the whole of early Islamic historical writing.\" The precise composition of the rebels remains a subject of debate, both as regards their identity and as to the proportion of slaves and free among them – available historical sources being open to various interpretations."
+}, {
+  "entityIndex" : "entity28578",
+  "entityUrl" : "http://dbpedia.org/resource/Zeebrugge_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "227 dead", "356 wounded", "Destroyersunk" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Jellicoe,_1st_Earl_Jellicoe", "http://dbpedia.org/resource/Roger_Keyes,_1st_Baron_Keyes", "http://dbpedia.org/resource/Ludwig_von_Schröder", "http://dbpedia.org/resource/Reginald_Bacon" ],
+    "dbo:date" : [ "1918-04-23" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Belgium", "http://dbpedia.org/resource/Zeebrugge" ],
+    "dbo:result" : [ "Indecisive" ],
+    "dbo:strength" : [ "unknown", "75 ships", "1,700 men" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Zeebrugge_raid.png?width=300" ],
+    "dbp:caption" : [ "Diagram of Zeebrugge harbour after the raid" ],
+    "dbp:casualties" : [ "8", "16" ],
+    "dbp:date" : [ "December 2014" ],
+    "dbp:reason" : [ "page no needed" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Zeebrugge Raid (French: Raid sur Zeebruges; 23 April 1918), was an attempt by the Royal Navy to block the Belgian port of Bruges-Zeebrugge. The British intended to sink obsolete ships in the canal entrance, to prevent German vessels from leaving port. The port was used by the Imperial German Navy as a base for U-boats and light shipping, which were a threat to Allied shipping, especially in the English Channel. Several attempts to close the Flanders ports by bombardment failed and Operation Hush, a plan to advance up the coast in 1917, proved abortive. As shipping losses to U-boats increased, finding a way to close the ports became urgent and a raid was considered. The first attempt on Zeebrugge was made on 2 April 1918 but cancelled at the last moment, after the wind direction changed and made it impossible to lay a smoke-screen. Another attempt was made on 23 April with a concurrent attack on Ostend. Two of three blockships were scuttled in the narrowest part of the Bruges Canal and one of two submarines rammed the viaduct, which linked the shore and the mole, to isolate the German garrison. The blockships were sunk in the wrong place and after a few days, the canal was open to submarines at high tide. British casualties were 583 men and German losses were 24 men; the raid was publicised by the British around the world as a great success and many medals were awarded."
+}, {
+  "entityIndex" : "entity28579",
+  "entityUrl" : "http://dbpedia.org/resource/Zanzibar_Revolution",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Revolutionaries", "*Afro-Shirazi Party", "*Umma Party", "Zanzibar Sultanate" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Jamshid_bin_Abdullah_of_Zanzibar", "http://dbpedia.org/resource/John_Okello" ],
+    "dbo:date" : [ "1964-01-12" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Zanzibar" ],
+    "dbo:result" : [ "Revolutionary victory" ],
+    "dbo:strength" : [ "600–800 men", "Zanzibar Police Force" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Spice_Islands_(Zanzibar_highlighted).svg?width=300" ],
+    "dbp:caption" : [ "Unguja and Pemba, the two main islands of Zanzibar" ],
+    "dbp:casualties" : [ "At least 80 killed and 200 injured during revolution" ]
+  },
+  "text" : "The Zanzibar Revolution occurred in 1964 and led to the overthrow of the Sultan of Zanzibar and his mainly Arab government by local African revolutionaries. Zanzibar was an ethnically diverse state consisting of a number of islands off the east coast of Tanganyika which had been granted independence by Britain in 1963. In a series of parliamentary elections preceding independence, the Arab minority succeeded in retaining the hold on power it had inherited from Zanzibar's former existence as an overseas territory of Oman. Frustrated by under-representation in Parliament despite winning 54% of the vote in the July 1963 election, the mainly African Afro-Shirazi Party (ASP) allied itself with the left-wing Umma Party, and early on the morning of 12 January 1964 ASP member John Okello mobilised around 600–800 revolutionaries on the main island of Unguja (Zanzibar Island). Having overrun the country's police force and appropriated their weaponry, the insurgents proceeded to Zanzibar Town where they overthrew the Sultan and his government. Reprisals against Arab and South Asian civilians on the island followed; the resulting death toll is disputed, with estimates ranging from several hundred to 20,000. The moderate ASP leader Abeid Karume became the country's new president and head of state, and positions of power were granted to Umma party members. The new government's apparent communist ties concerned Western governments. As Zanzibar lay within the British sphere of influence, the British government drew up a number of intervention plans. However, the feared communist government never materialised, and because British and United States citizens were successfully evacuated these plans were not put into effect. Meanwhile, the communist bloc powers of China, East Germany and the Soviet Union established friendly relations with the new government by recognising the country and sending advisors. Karume succeeded in negotiating a merger of Zanzibar with Tanganyika to form the new nation of Tanzania; an act judged by contemporary media to be an attempt to prevent communist subversion of Zanzibar. The revolution ended 200 years of Arab dominance in Zanzibar, and is commemorated on the island each year with anniversary celebrations and a public holiday."
+}, {
+  "entityIndex" : "entity28580",
+  "entityUrl" : "http://dbpedia.org/resource/Zeitun_Resistance_(1915)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Hunchak" ],
+    "dbo:date" : [ "1914-12-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Armenian_Resistance" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kahramanmaraş_Province", "http://dbpedia.org/resource/Süleymanlı" ],
+    "dbo:strength" : [ "1st conflict: 20,000 ArmedArmenian militia", "2nd conflict: 69 grandes, 612 gun, 21 hand-gun, 70 horses" ],
+    "dbp:casualties" : [ "60" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Armenian militia of Hunchaks (Social Democrat Hunchakian Party) of the city Zeitun (Süleymanlı) had resisted on two armed conflicts, first from August 30 to December 1, 1914, and second on March 25, 1915, to the Ottoman Empire."
+}, {
+  "entityIndex" : "entity28581",
+  "entityUrl" : "http://dbpedia.org/resource/Zhengtai_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "35,000" ],
+    "dbo:combatant" : [ "60px|Flag of the National Revolutionary ArmyNational Revolutionary Army", "60px|PLAPeople's Liberation Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Nie_Rongzhen", "http://dbpedia.org/resource/Yan_Xishan" ],
+    "dbo:date" : [ "1947-04-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Hebei", "http://dbpedia.org/resource/Shanxi" ],
+    "dbo:result" : [ "Communistvictory" ],
+    "dbo:strength" : [ "100,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_Army.svg?width=300" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Zhengtai Campaign (正太战役) was a series of battles fought between the nationalists and the communists during Chinese Civil War in the post World War II era, and resulted in the communist victory."
+}, {
+  "entityIndex" : "entity28582",
+  "entityUrl" : "http://dbpedia.org/resource/Zaian_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,400 African regulars", "2,200 goumiers and partisans", "700 European regulars", "82 French officers", "French dead in theMiddle Atlasto 1933:" ],
+    "dbo:combatant" : [ "France", "*23x15px|border|alt=|link=Morocco", "Supported during theFirst World Warby theCentral Powers", "Varying other Berber tribes", "Zaian Confederation" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Mouha_ou_Hammou_Zayani", "http://dbpedia.org/resource/Ali_Amhaouch", "http://dbpedia.org/resource/Moha_ou_Said", "http://dbpedia.org/resource/Paul_Prosper_Henrys", "http://dbpedia.org/resource/Joseph-François_Poeymirau", "http://dbpedia.org/resource/Louis-Hubert_Lyautey" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/North_African_theatre_(World_War_I)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/French_protectorate_of_Morocco" ],
+    "dbo:strength" : [ "95,000 French troops in all of Morocco in 1921", "Up to 4,200 tents (approximately 21,000 people) of Zaians at the start of the war" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Zaian_war_location_map.svg?width=300" ],
+    "dbp:caption" : [ "Map showing the area in which the war was fought" ],
+    "dbp:date" : [ "–" ]
+  },
+  "text" : "The Zaian (or Zayan) War was fought between France and the Zaian confederation of Berber tribes in Morocco between 1914 and 1921. Morocco had become a French protectorate in 1912, and Resident-General Louis-Hubert Lyautey sought to extend French influence eastwards through the Middle Atlas mountains towards French Algeria. This was opposed by the Zaians, led by Mouha ou Hammou Zayani. The war began well for the French, who quickly took the key towns of Taza and Khénifra. Despite the loss of their base at Khénifra, the Zaians inflicted heavy losses on the French, who responded by establishing groupes mobiles, combined arms formations that mixed regular and irregular infantry, cavalry and artillery into a single force. The outbreak of the First World War proved significant, with the withdrawal of troops for service in France compounded by the loss of more than 600 French killed at the Battle of El Herri. Lyautey reorganised his available forces into a \"living barricade\", consisting of outposts manned by his best troops protecting the perimeter of French territory with lower quality troops manning the rear-guard positions. Over the next four years the French retained most of their territory despite intelligence and financial support provided by the Central Powers to the Zaian Confederation and continual raids and skirmishes reducing scarce French manpower. After the signing of the Armistice with Germany in November 1918, significant forces of tribesmen remained opposed to French rule. The French resumed their offensive in the Khénifra area in 1920, establishing a series of blockhouses to limit the Zaians' freedom of movement. They opened negotiations with Hammou's sons, persuading three of them, along with many of their followers, to submit to French rule. A split in the Zaian Confederation between those who supported submission and those still opposed led to infighting and the death of Hammou in Spring 1921. The French responded with a strong, three-pronged attack into the Middle Atlas that pacified the area. Some tribesmen, led by Moha ou Said, fled to the High Atlas and continued a guerrilla war against the French well into the 1930s."
+}, {
+  "entityIndex" : "entity28583",
+  "entityUrl" : "http://dbpedia.org/resource/Zealot_Temple_Siege",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "*Pharisees", "*Sadducees", "*Peasantry", "Edomites", "Judeanrebels", "Sicarii", "Zealots" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ananus_ben_Ananus" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/First_Jewish–Roman_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Jerusalem", "http://dbpedia.org/resource/Judea" ],
+    "dbo:result" : [ "Siege of Temple by forces of Hanan ben Hanan fails; Siege of Jerusalem by Edomites reinforcing Zealots succeeds." ],
+    "dbo:strength" : [ "6,000 men", "20,000 Edomite men", "Unknown number of Zealots" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/TempleStepsMay2009.JPG?width=300" ],
+    "dbp:caption" : [ "Excavated remains of staircase from the", "Temple in Jerusalem, May 2009" ],
+    "dbp:casualties" : [ "6000" ],
+    "dbp:casus" : [ "Growing intolerance of the people to the brigandry of the Zealots, belief that Hanan ben Hanan was delivering Jerusalem to the Romans." ],
+    "dbp:commander" : [ "John", "Edomite Commanders:", "Jacob ben Sosa", "Phineas ben Clusothus", "Simon ben Cathlas", "Zealot Commander: Unknown" ],
+    "dbp:date" : [ "68" ]
+  },
+  "text" : "The Zealot Temple Siege (68 AD) was a short siege of the Temple in Jerusalem fought between Jewish factions during the Great Jewish Revolt against the Roman Empire (66–70 AD). The forces of Ananus ben Ananus, a Jewish priest and former High Priest of Israel, besieged the Zealots who held the Temple. According to the historian Josephus, Ananus incited the people to rise up against the Zealots who were in control of the Temple. When John of Giscala led the Zealots to believe that Ananus had contacted the Roman General Vespasian for assistance in retaking control of all Jerusalem, the Zealots, driven to desperation, asked the Edomites (Idumeans) for assistance in preventing the delivery of the city to the Romans. When the Edomites arrived, the Zealots opened the gates of Jerusalem to them, and the Edomites slaughtered ben Hanan's (Ananus ben Ananus) forces, killing him as well. After freeing the Zealots from the Temple, they massacred the common people. Jerusalem remained in the control of the Zealots until 70 AD, when it was sacked by Rome and the Temple was destroyed."
+}, {
+  "entityIndex" : "entity28584",
+  "entityUrl" : "http://dbpedia.org/resource/Zawiya_skirmish",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "30 killed", "20 wounded" ],
+    "dbo:combatant" : [ "*National Liberation Army", "*Paramilitary forces", "*Libyan Army", "Anti-Gaddafi forces", "Gaddafi Loyalists" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Mahdi_al-Arabi" ],
+    "dbo:date" : [ "2011-06-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/2011_Libyan_Civil_War" ],
+    "dbo:notes" : [ "*Rebels claimed that up to 100 loyalist soldiers were killed, but no independent sources confirmed the claim" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Libya", "http://dbpedia.org/resource/Zawiya,_Libya" ],
+    "dbo:result" : [ "Pro-Gaddafi victory", "*Pro-Gaddafi forces repel rebel attack on the city" ],
+    "dbo:strength" : [ "100–200 fighters", "Munawaba Brigade" ],
+    "dbp:casualties" : [ "1", "2", "17" ],
+    "dbp:commander" : [ "Unknown" ]
+  },
+  "text" : "The Zawiya skirmish began on 11 June 2012, when the National Liberation Army launched an attack into the coastal city of Zawiya in an attempt to recapture it from army units and militiamen loyal to Muammar Gaddafi. The attack was quickly crushed by the numerically-superior and better-equipped loyalist forces, who had taken the city earlier in the Libyan Civil War after defeating rebel forces in a major battle that lasted from February to March 2011."
+}, {
+  "entityIndex" : "entity28585",
+  "entityUrl" : "http://dbpedia.org/resource/Zaragoza_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Enrique_Líster", "http://dbpedia.org/resource/Alfonso_Trallero" ],
+    "dbo:date" : [ "1937-08-24", "1937-09-07" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/Zaragoza" ],
+    "dbo:result" : [ "Tactically inconclusive", "Strategic Republican defeat" ],
+    "dbo:strength" : [ "200 aircraft", "105 tanks", "50,000-100,000 infantry", "80,000 infantry", "90 aircraft", "Beevor: six divisions", "Beevor: three divisions", "reinforcements: two divisions" ],
+    "dbp:casualties" : [ "Unknown" ]
+  },
+  "text" : "The Zaragoza Offensive took place during the Spanish Civil War in 1937. This battle involved the Spanish Republican Army. The main goal of the offensive was to occupy the city of Zaragoza. The main action of the offensive was the battle of Belchite."
+}, {
+  "entityIndex" : "entity28586",
+  "entityUrl" : "http://dbpedia.org/resource/Zliten_uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "22 killed" ],
+    "dbo:combatant" : [ "----", "*National Liberation Army", "*Paramilitary forces", "*Libyan Army", "Anti-Gaddafi forces", "Gaddafi Loyalists", "UNSC Resolution 1973 forces" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Khamis_Gaddafi" ],
+    "dbo:date" : [ "2011-06-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/2011_Libyan_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Libya", "http://dbpedia.org/resource/Zliten" ],
+    "dbo:result" : [ "Pro-Gaddafi victory", "*Pro-Gaddafi forces crush the uprising in the city" ],
+    "dbp:casualties" : [ "4" ],
+    "dbp:commander" : [ "Unknown" ]
+  },
+  "text" : "The Zliten uprising was a local uprising in the Libyan Civil War, started by rebel anti-Gaddafi forces against loyalist pro-Gaddafi forces in the city of Zliten. The city was of strategic importance due to its close proximity to the capital of Tripoli. After Zliten, only two cities – Khoms and Tajura – separated the rebel stronghold of Misrata from Tripoli."
+}, {
+  "entityIndex" : "entity28587",
+  "entityUrl" : "http://dbpedia.org/resource/Zhong_Hui's_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Cao Wei", "Revolting troops formerly underZhong Hui", "Zhong Hui" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Deng_Ai", "http://dbpedia.org/resource/Sima_Zhao", "http://dbpedia.org/resource/Qiu_Jian_(Three_Kingdoms)", "http://dbpedia.org/resource/Wei_Guan", "http://dbpedia.org/resource/Deng_Zhong_(Three_Kingdoms)", "http://dbpedia.org/resource/Jiang_Wei", "http://dbpedia.org/resource/Zhong_Hui", "http://dbpedia.org/resource/Jia_Chong", "http://dbpedia.org/resource/Hu_Lie" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Three_Kingdoms" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Chengdu", "http://dbpedia.org/resource/Sichuan" ],
+    "dbo:result" : [ "Zhong Hui and Jiang Wei killed by revolting troops.", "Deng Ai and his son executed.", "Rebellion suppressed." ],
+    "dbp:date" : [ "1" ]
+  },
+  "text" : "Zhong Hui's Rebellion was an uprising against the state of Cao Wei in 264 by the general Zhong Hui, aided by the general of the newly destroyed Shu Han state Jiang Wei. Zhong Hui considered himself capable enough of overcoming the regime of Sima Zhao to create a kingdom in the ruins of Shu, and led an army against his former colleague Deng Ai. The resulting conflict saw Deng Ai killed and the rebellion fragmented under revolts against Zhong Hui."
+}, {
+  "entityIndex" : "entity28588",
+  "entityUrl" : "http://dbpedia.org/resource/Zahiri_Revolt",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "None" ],
+    "dbo:combatant" : [ "Mamluk Sultanate (Burji dynasty)", "Syrian Bedouin tribes", "Zahirite rebels" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Barquq" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Damascus", "http://dbpedia.org/resource/Mamluk_Sultanate_(Cairo)" ],
+    "dbo:result" : [ "Zahirite agitators arrested by Burji authorities" ],
+    "dbp:casualties" : [ "5" ],
+    "dbp:commander" : [ "Al-Burhan Ahmad al-Zahiri", "Khalid al-Himsi" ],
+    "dbp:date" : [ "August 1386" ],
+    "dbp:latitude" : [ "33.5117" ],
+    "dbp:longitude" : [ "36.3019" ]
+  },
+  "text" : "The Zahiri Revolt was a conspiracy leading to a failed coup d'état against the government of the 14th-century Mamluk Sultanate, having been characterized as both a political struggle and a theological conflict. While the initial support for the potential overthrow of the sultan began in Egypt, movement of Egyptian ideological agitators to Syria eventually caused the actual planned uprising to take place in Damascus in 1386. Rallying around Ahmad al-Zahiri, a cleric of the Zahirite school of Sunni Islam, the agitators mobilized from Hama to the capital. Having failed to secure the support of both the Mamluks and local Arab tribes, they were arrested by the authorities of Barquq before armed conflict could even take place. Although not all those taking part in the revolt accepted the views of the Zahiri school of law, the term was used to denote all of those willing to participate in armed conflict against the Mamluk sultan. The suppression of the revolt both practically and ideologically has been described as a sign of the Mamluk authorities' intolerance for non-conformist ideas and willingness to interfere in religious issues normally considered the domain of theologians in Muslim empires."
+}, {
+  "entityIndex" : "entity28589",
+  "entityUrl" : "http://dbpedia.org/resource/Zamboanga_City_crisis",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "* Captured: 292", "* Killed: 183" ],
+    "dbo:combatant" : [ "'''" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Voltaire_Gazmin", "http://dbpedia.org/resource/Emmanuel_T._Bautista", "http://dbpedia.org/resource/Benigno_Aquino_III", "http://dbpedia.org/resource/Nur_Misuari", "http://dbpedia.org/resource/Maria_Isabelle_Climaco_Salazar", "http://dbpedia.org/resource/Asamin_Hussin", "http://dbpedia.org/resource/Dasta_Ismael", "http://dbpedia.org/resource/Jul_Lipae", "http://dbpedia.org/resource/Misba_Balaji", "http://dbpedia.org/resource/Salip_Idjal", "http://dbpedia.org/resource/Ustadz_Habier_Malik" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Moro_Conflict" ],
+    "dbo:notes" : [ "Note:", "# The conflict had paralyzed the economic activity of Zamboanga City. During the course of the conflict, the MNLF had been taking civilians as hostages. The group demanded the hoisting of the Bangsamoro flag at the Zamboanga city hall in exchange for the hostages." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Zamboanga_City", "http://dbpedia.org/resource/Philippines" ],
+    "dbo:status" : [ "*Some \"20 to 30\" MNLF rebels, including Commander Malik, still at-large.", "* Dissolution ofBangsamoro Republik", "*All hostages recovered.", "Philippine Government victory", "*TheBangsamoro Republikceases to exist, as it doesn't have de facto control of any territory." ],
+    "dbo:strength" : [ "*", "Philippine Army", "Philippine Marine Corps", "Philippine Air Force", "* 5,000 (Combined AFP and PNP Forces)", "* 500 (Government claim)", "Philippine Navy", "armored vehicles", "attack aircraft and helicopters", "corvettes and patrol craft", "light armored vehicles" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Zamboanga_City" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/MNLF_flag.svg?width=300" ],
+    "dbp:casualties" : [ "* Civilians Killed: 12", "* Killed: 25" ],
+    "dbp:date" : [ "--09-09" ],
+    "dbp:latitude" : [ "6.9" ],
+    "dbp:longitude" : [ "122.067" ],
+    "dbp:mapCaption" : [ "Map of the Philippines showing the location of Zamboanga City, the site of the conflict." ],
+    "dbp:mapLabel" : [ "Zamboanga City" ],
+    "dbp:mapMarksize" : [ "10" ],
+    "dbp:mapSize" : [ "300" ],
+    "dbp:mapType" : [ "Philippines" ],
+    "dbp:units" : [ "-32", "1", "15", "http://dbpedia.org/resource/Special_Action_Force", "http://dbpedia.org/resource/Armed_Forces_of_the_Philippines", "http://dbpedia.org/resource/Light_Reaction_Battalion", "http://dbpedia.org/resource/Philippine_Air_Force", "http://dbpedia.org/resource/AFP_Joint_Special_Operations_Group", "http://dbpedia.org/resource/Philippine_Marine_Corps", "http://dbpedia.org/resource/Philippine_Army", "http://dbpedia.org/resource/Philippine_National_Police", "http://dbpedia.org/resource/SWAT", "http://dbpedia.org/resource/Philippine_Navy", "http://dbpedia.org/resource/Moro_National_Liberation_Front", "http://dbpedia.org/resource/Philippine_fleet", "http://dbpedia.org/resource/Naval_Special_Warfare_Group", "http://dbpedia.org/resource/Philippine_Marine_Corps_Force_Recon_Battalion", "http://dbpedia.org/resource/Light_Armor_Division_(Philippines)", "'''", "* '''", "'''", "''':", "''':", "*", "- Marine Landing Battalion 3", ":", ":* '''", "::*", "::* –", "::* – 205th Tactical Helicopter Wing", ":::*", ":::* – 44th Infantry Battalion", "Task Force Zamboanga", "::* – Naval Forces Western Mindanao" ]
+  },
+  "text" : "The Zamboanga City crisis or Zamboanga siege was an armed conflict in Zamboanga City, Philippines between the forces of the Republic of the Philippines and a faction of the Moro National Liberation Front, generally known by other factions as the Rogue MNLF Elements (RME) under the Sulu State Revolutionary Command (SSRC) led by Ustadz Habier Malik and Khaid Ajibon, whose group continues to recognize Nur Misuari as MNLF Chairman. The crisis erupted on September 9, 2013 when this MNLF faction attempted to raise the flag of the self-proclaimed Bangsamoro Republik at Zamboanga City Hall, which had earlier declared its independence on August 12, 2013 in Talipao, Sulu. This armed incursion, which has been variously described a \"crisis\", a \"standoff\", a \"siege\", and a \"humanitarian crisis\", was met by the Armed Forces of the Philippines (AFP) and the Philippine National Police (PNP), which sought to free the hostages and expel the MNLF from the city. The standoff degenerated into urban warfare, and brought parts of the city into a standstill for days. The clashes caused the displacement of more than 100,000 people, the occupation of several barangays (villages) by the MNLF, the deaths of several civilians, the closure of the Zamboanga International Airport (which has since been reopened), and the slowdown of economic activity in the city. On September 28, the government declared the end of military operations in Zamboanga City. Commander Malik, reportedly the leader of the MNLF forces, remains at large, and several skirmishes are still being regularly reported."
+} ]

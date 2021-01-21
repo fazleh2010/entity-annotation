@@ -1,0 +1,903 @@
+[ {
+  "entityIndex" : "entity26069",
+  "entityUrl" : "http://dbpedia.org/resource/Kosovo_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "22px|Kosovo Liberation Army1,500 insurgents killed (per the KLA)", "----", "2 non-combat deaths", "3 soldiers captured", "47 UAVs shot down", "22px|Kosovo Liberation Army1,204 insurgents killed (per theHLC)", "Three aircraft damaged", "Two aircraft shot down", "TwoAH-64 Apaches and aAV-8B Harriercrashed", "Unknown number ofDGSEofficers killed" ],
+    "dbo:combatant" : [ "----", "22px|Kosovo Liberation ArmyKLA", "FR Yugoslavia", "Minor border incident:" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Slobodan_Milošević", "http://dbpedia.org/resource/Hashim_Thaçi", "http://dbpedia.org/resource/Dragoljub_Ojdanić", "http://dbpedia.org/resource/Vlastimir_Đorđević", "http://dbpedia.org/resource/Nebojša_Pavković", "http://dbpedia.org/resource/Adem_Jashari", "http://dbpedia.org/resource/Vladimir_Lazarević", "http://dbpedia.org/resource/Sylejman_Selimi", "http://dbpedia.org/resource/Wesley_Clark", "http://dbpedia.org/resource/Sreten_Lukić", "http://dbpedia.org/resource/Hamëz_Jashari", "http://dbpedia.org/resource/Ramush_Haradinaj", "http://dbpedia.org/resource/Agim_Çeku", "http://dbpedia.org/resource/Bilall_Syla" ],
+    "dbo:date" : [ "1998-02-28", "1999-06-11" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Yugoslav_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Albania", "http://dbpedia.org/resource/Kosovo" ],
+    "dbo:result" : [ "*Bulldozer Revolutionin 2000", "*NATO interventiondebated", "*Return ofAlbanianrefugees", "*United Nations Resolution 1244", "*Yugoslav forces pull out of Kosovo", "Kumanovo Treaty", "*KLAveterans join theUÇPMB, starting thePreševo insurgency", "*Expulsion of over half of theSerband other non-Albanian civiliansref||group=lower-alpha" ],
+    "dbo:strength" : [ "85,000 soldiers (including 40,000 in and around Kosovo)", "----", "1,031 aircraft", "1,400 artillery pieces", "100 SAM sites", "2,032 armoured vehicles & tanks", "20,000 policemen", "240 aircraft", "30+ warships and submarines", "22px|Kosovo Liberation Army17,000 – 20,000KLAinsurgents", "Russian volunteers, unknown number", "cca. 80 aircraft" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Kosovo", "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_1244" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kosovo_War_header.jpg?width=300" ],
+    "dbp:bot" : [ "InternetArchiveBot" ],
+    "dbp:caption" : [ "Clockwise from top-left: Yugoslav general staff headquarters damaged by NATO air strikes; a Yugo buried under rubble caused by NATO air strikes; memorial to local KLA commanders; a USAF F-15E taking off from Aviano Air Base" ],
+    "dbp:casualties" : [ "14", "18", "20", "90", "121", "300", "559", "1008", "1035", "1730", "8661", "230000", "/ 453–2,500 civilian deaths caused by NATO bombing", "Caused by KLA and NATO:", "Caused by KLA:", "Caused by NATO:" ],
+    "dbp:casus" : [ "1998", "1999" ],
+    "dbp:date" : [ "20051102025624", "September 2016" ],
+    "dbp:expiry" : [ "indefinite" ],
+    "dbp:fixAttempted" : [ "yes" ],
+    "dbp:noLocationProperty" : [ "yes" ],
+    "dbp:small" : [ "yes" ],
+    "dbp:title" : [ "OSCE Kosovo Verification Mission" ],
+    "dbp:url" : [ "www.osce.org/documents/mik/1999/11/" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kosovo War was an armed conflict in Kosovo that lasted from 28 February 1998 until 11 June 1999. It was fought by the forces of the Federal Republic of Yugoslavia (by this time, consisting of the Republics of Montenegro and Serbia), which controlled Kosovo before the war, and the Kosovo Albanian rebel group known as the Kosovo Liberation Army (KLA), with air support from the North Atlantic Treaty Organisation (NATO) from 24 March 1999, and ground support from the Albanian army. The KLA, formed in 1991, initiated its first campaign in 1995 when it launched attacks targeting Serbian law enforcement in Kosovo, and in June 1996 the group claimed responsibility for acts of sabotage targeting Kosovo police stations. In 1997, the organisation acquired a large amount of arms through weapons smuggling from Albania, following a rebellion which saw large numbers of weapons looted from the country's police and army posts. In 1998, KLA attacks targeting Yugoslav authorities in Kosovo resulted in an increased presence of Serb paramilitaries and regular forces who subsequently began pursuing a campaign of retribution targeting KLA sympathisers and political opponents in a drive which killed 1,500 to 2,000 civilians and KLA combatants. After attempts at a diplomatic solution failed, NATO intervened, justifying the campaign in Kosovo as a \"humanitarian war\". This precipitated a mass expulsion of Kosovar Albanians as the Yugoslav forces continued to fight during the aerial bombardment of Yugoslavia (March–June 1999). By 2000, investigations had recovered the remains of almost three thousand victims of all ethnicities, and in 2001 a United Nations administered Supreme Court, based in Kosovo, found that there had been \"a systematic campaign of terror, including murders, rapes, arsons and severe maltreatments\", but that Serb troops had tried to remove rather than eradicate the Albanian population. The war ended with the Kumanovo Treaty, with Yugoslav forces agreeing to withdraw from Kosovo to make way for an international presence. The Kosovo Liberation Army disbanded soon after this, with some of its members going on to fight for the UÇPMB in the Preševo Valley and others joining the National Liberation Army (NLA) and Albanian National Army (ANA) during the armed ethnic conflict in Macedonia, while others went on to form the Kosovo Police. The NATO bombing campaign has remained controversial, as it did not gain the approval of the UN Security Council and because it caused at least 488 Yugoslav civilian deaths, including substantial numbers of Kosovar refugees."
+}, {
+  "entityIndex" : "entity26070",
+  "entityUrl" : "http://dbpedia.org/resource/Korean_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Total wounded: 566,434", "Total: 178,405 dead and 32,925 missing" ],
+    "dbo:combatant" : [ "'''", "*", ":'''", "South Korea", "UN Command" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Douglas_MacArthur", "http://dbpedia.org/resource/Nikita_Khrushchev", "http://dbpedia.org/resource/Winston_Churchill", "http://dbpedia.org/resource/Paik_Sun-yup", "http://dbpedia.org/resource/Deng_Hua", "http://dbpedia.org/resource/Clement_Attlee", "http://dbpedia.org/resource/Joseph_Stalin", "http://dbpedia.org/resource/Mao_Zedong", "http://dbpedia.org/resource/Syngman_Rhee", "http://dbpedia.org/resource/Kim_Il-sung", "http://dbpedia.org/resource/Choe_Yong-gon_(army_commander)", "http://dbpedia.org/resource/Harry_S._Truman", "http://dbpedia.org/resource/Mark_Wayne_Clark", "http://dbpedia.org/resource/Matthew_Ridgway", "http://dbpedia.org/resource/Shin_Sung-mo", "http://dbpedia.org/resource/Peng_Dehuai", "http://dbpedia.org/resource/Son_Won-il", "http://dbpedia.org/resource/Pak_Hon-yong", "http://dbpedia.org/resource/Chung_Il-kwon", "http://dbpedia.org/resource/Dwight_Eisenhower", "http://dbpedia.org/resource/Kim_Chaek" ],
+    "dbo:date" : [ "1950-06-25", "1953-07-27" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Sea_of_Japan", "http://dbpedia.org/resource/Korean_Peninsula", "http://dbpedia.org/resource/Korea_Strait" ],
+    "dbo:result" : [ "* North Korean invasion of South Korea repelled", "*Korean Armistice Agreement", "Military stalemate", "* Subsequent United Nations invasion of North Korea repelled", "* Subsequent Chinese–North Korean invasion of South Korea repelled" ],
+    "dbo:strength" : [ "*", "1,350,000", "14,198", "26,000", "266,600", "326,863", "602,902", "(Note: The figures vary by source; peak unit strength varied during war.)", "Total: 1,642,600", "Total: 972,214" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Korean_Demilitarized_Zone", "http://dbpedia.org/resource/Kaesong" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Korean_War_Montage_2.png?width=300" ],
+    "dbp:caption" : [ "Clockwise from top: A column of the U.S. 1st Marine Division's infantry and armor moves through Chinese lines during their breakout from the Chosin Reservoir; UN landing at Incheon harbor, starting point of the Battle of Incheon; Korean refugees in front of an American M26 Pershing tank; U.S. Marines, led by First Lieutenant Baldomero Lopez, landing at Incheon; F-86 Sabre fighter aircraft" ],
+    "dbp:casualties" : [ "229625", "373599", "387744", "Total dead: 367,283–750,282", "Total wounded: 686,500–789,000", "* Total civilians killed/wounded: 2.5 million" ],
+    "dbp:color" : [ "#CCCCFF" ],
+    "dbp:context" : [ "north" ],
+    "dbp:date" : [ "May 2016" ],
+    "dbp:group" : [ "lower-alpha" ],
+    "dbp:hangul" : [ "http://dbpedia.org/resource/Wikt:조선전쟁", "http://dbpedia.org/resource/Wikt:한국전쟁", "조국해방전쟁", "한국전쟁" ],
+    "dbp:hanja" : [ "祖國解放戰爭", "韓國戰爭" ],
+    "dbp:id" : [ "Zaloga-1997", "gov.archives.li.263.927", "iIobfyaiAUU" ],
+    "dbp:koreanname" : [ "North Korean name", "South Korean name" ],
+    "dbp:mr" : [ "Choguk haebang chǒnjaeng", "Chosŏn Chŏnjaeng", "Han'guk Chŏnjaeng" ],
+    "dbp:name" : [ "Film No. 927" ],
+    "dbp:p" : [ "Cháoxiǎn zhànzhēng", "Hán Zhàn", "Kàngměiyuáncháo zhànzhēng" ],
+    "dbp:reason" : [ "None of the above is discussed by the source." ],
+    "dbp:reference" : [ "Zaloga, Steven J., Jim Kinnear, Andrey Aksenov & Aleksandr Koshchavtsev . Soviet Tanks in Combat 1941–45: The T-28, T-34, T-34-85, and T-44 Medium Tanks, Hong Kong: Concord Publication. ISBN 962-361-615-5" ],
+    "dbp:rr" : [ "Hanguk Jeonjaeng", "Joseon Jeonjaeng" ],
+    "dbp:s" : [ "抗美援朝战争", "朝鲜战争", "韩战" ],
+    "dbp:t" : [ "抗美援朝戰爭", "朝鮮戰爭", "韓戰" ],
+    "dbp:title" : [ "The Korean War in Color" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Korean War (in South Korean Hangul: 한국전쟁; hanja: 韓國戰爭; RR: Hanguk Jeonjaeng, \"Korean War\"; in North Korean Chosŏn'gŭl: 조국해방전쟁; hancha: 祖國解放戰爭; MR: Choguk haebang chǒnjaeng, \"Fatherland Liberation War\"; 25 June 1950 – 27 July 1953) began when North Korea invaded South Korea. The United Nations, with the United States as the principal force, came to the aid of South Korea. China, with assistance from the Soviet Union, came to the aid of North Korea. The war arose from the division of Korea at the end of World War II and from the global tensions of the Cold War that developed immediately afterwards. Korea was ruled by Japan from 1910 until the closing days of World War II. In August 1945, the Soviet Union declared war on Japan, as a result of an agreement with the United States, and liberated Korea north of the 38th parallel. U.S. forces subsequently moved into the south. By 1948, as a product of the Cold War between the Soviet Union and the United States, Korea was split into two regions, with separate governments. Both governments claimed to be the legitimate government of Korea, and neither side accepted the border as permanent. The civil war escalated into open warfare when North Korean forces—supported by the Soviet Union and China—moved to the south to unite the country on 25 June 1950. On that day, the United Nations Security Council recognized this North Korean act as invasion and called for an immediate ceasefire. On 27 June, the Security Council adopted S/RES/83: Complaint of aggression upon the Republic of Korea and decided the formation and dispatch of the UN Forces in Korea. Twenty-one countries of the United Nations eventually contributed to the defense of South Korea, with the United States providing 88% of the UN's military personnel. After the first two months of the conflict, South Korean forces were on the point of defeat, forced back to the Pusan Perimeter. In September 1950, an amphibious UN counter-offensive was launched at Inchon, and cut off many of the North Korean troops. Those that escaped envelopment and capture were rapidly forced back north all the way to the border with China at the Yalu River, or into the mountainous interior. At this point, in October 1950, Chinese forces crossed the Yalu and entered the war. Chinese intervention triggered a retreat of UN forces which continued until mid-1951. After these dramatic reversals of fortune, which saw Seoul change hands four times, the last two years of conflict became a war of attrition, with the front line close to the 38th parallel. The war in the air, however, was never a stalemate. North Korea was subject to a massive bombing campaign. Jet fighters confronted each other in air-to-air combat for the first time in history, and Soviet pilots covertly flew in defense of their communist allies. The fighting ended on 27 July 1953, when an armistice was signed. The agreement created the Korean Demilitarized Zone to separate North and South Korea, and allowed the return of prisoners. However, no peace treaty has been signed, and the two Koreas are technically still at war. Periodic clashes, many of which are deadly, have continued to the present."
+}, {
+  "entityIndex" : "entity26071",
+  "entityUrl" : "http://dbpedia.org/resource/King_George's_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*", "*British America", "Iroquois Confederacy", "Wabanaki Confederacy" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/William_Pepperrell", "http://dbpedia.org/resource/Peter_Warren_(Royal_Navy_officer)", "http://dbpedia.org/resource/Louis_Du_Pont_Duchambon", "http://dbpedia.org/resource/Pierre_Morpain", "http://dbpedia.org/resource/Jean-Louis_Le_Loutre", "http://dbpedia.org/resource/Pierre_Maillard" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_Austrian_Succession" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_America" ],
+    "dbo:result" : [ "Status quo ante bellum", "Treaty of Aix-la-Chapelle" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Vue_du_debarquement_anglais_pour_l_attaque_de_Louisbourg_1745.jpg?width=300" ],
+    "dbp:campaignbox" : [ "King George's War" ],
+    "dbp:caption" : [ "Engraving depicting the landing of New England troops near Fortress Louisbourg in 1745" ],
+    "dbp:date" : [ "1744" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "King George's War (1744–1748) is the name given to the military operations in North America that formed part of the War of the Austrian Succession (1740–1748). It was the third of the four French and Indian Wars. It took place primarily in the British provinces of New York, Massachusetts Bay, New Hampshire, and Nova Scotia. Its most significant action was an expedition organized by Massachusetts Governor William Shirley that besieged and ultimately captured the French fortress of Louisbourg, on Cape Breton Island in Nova Scotia, in 1745. In French, it is known as the Third Intercolonial War. The Treaty of Aix-la-Chapelle ended the war in 1748 and restored Louisbourg to France, but failed to resolve any outstanding territorial issues."
+}, {
+  "entityIndex" : "entity26072",
+  "entityUrl" : "http://dbpedia.org/resource/King_William's_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Iroquois Confederacy", "23pxMassachusetts Bay Colony", "English America" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Louis_de_Buade_de_Frontenac", "http://dbpedia.org/resource/Louis-Pierre_Thury", "http://dbpedia.org/resource/Pieter_Schuyler", "http://dbpedia.org/resource/Pierre_Le_Moyne_d'Iberville", "http://dbpedia.org/resource/Benjamin_Church_(ranger)", "http://dbpedia.org/resource/William_Phips", "http://dbpedia.org/resource/Jean_Baudoin", "http://dbpedia.org/resource/Claude-Sébastien_de_Villieu", "http://dbpedia.org/resource/Joseph-François_Hertel_de_la_Fresnière", "http://dbpedia.org/resource/Sébastien_Rale", "http://dbpedia.org/resource/Madockawando" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Nine_Years'_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_America" ],
+    "dbo:result" : [ "Status quo ante bellum", "Treaty of Ryswick" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Frontenac_receiving_the_envoy_of_Sir_William_Phipps_demanding_the_surrender_of_Quebec,_1690.jpg?width=300" ],
+    "dbp:caption" : [ "Count Frontenac, governor of New France, refused English demands to surrender during the Battle of Quebec (1690)." ],
+    "dbp:date" : [ "1688" ]
+  },
+  "text" : "King William's War (1688–97, also known as the Second Indian War, Father Baudoin's War, Castin's War, or the First Intercolonial War in French) was the North American theater of the Nine Years' War (1688–97, also known as the War of the Grand Alliance or the War of the League of Augsburg). It was the first of six colonial wars (see the four French and Indian Wars, Father Rale's War and Father Le Loutre's War) fought between New France and New England along with their respective Native allies before France ceded its remaining mainland territories in North America east of the Mississippi River in 1763. For King William's War, neither England nor France thought of weakening their position in Europe to support the war effort in North America. New France and the Wabanaki Confederacy were able to thwart New England expansion into Acadia, whose border New France defined as the Kennebec River in southern Maine.  According to the terms of the Treaty of Ryswick, the boundaries and outposts of New France, New England, and New York remained substantially unchanged."
+}, {
+  "entityIndex" : "entity26073",
+  "entityUrl" : "http://dbpedia.org/resource/King_Philip's_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "approx. 3,000" ],
+    "dbo:combatant" : [ "22px|borderNew England Confederation", "Mohegan", "Narragansett", "Nashaway", "Nipmuck", "Pequot", "Podunk", "Wampanoag" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Muttawmp", "http://dbpedia.org/resource/Josiah_Winslow", "http://dbpedia.org/resource/John_Winthrop_the_Younger", "http://dbpedia.org/resource/John_Leverett", "http://dbpedia.org/resource/Awashonks", "http://dbpedia.org/resource/Canonchet", "http://dbpedia.org/resource/Nipmuck", "http://dbpedia.org/resource/Metacomet", "http://dbpedia.org/resource/Captain_Benjamin_Church" ],
+    "dbo:date" : [ "1675-06-20" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Connecticut", "http://dbpedia.org/resource/Maine", "http://dbpedia.org/resource/Rhode_Island", "http://dbpedia.org/resource/Massachusetts" ],
+    "dbo:result" : [ "Northern theatre: Native victory", "Southern theatre: Colonial victory" ],
+    "dbo:strength" : [ "approx. 3,400", "approx. 3,500" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Indians_Attacking_a_Garrison_House.jpg?width=300" ],
+    "dbp:caption" : [ "An artist's rendition of Native Americans attacking a garrison house" ],
+    "dbp:casualties" : [ "approx. 1,000" ]
+  },
+  "text" : "King Philip's War, sometimes called the First Indian War, Metacom's War, Metacomet's War, or Metacom's Rebellion, was an armed conflict between Native American inhabitants of present-day New England and English colonists and their Native American allies in 1675–78. The war is named for the main leader of the Native American side, Metacomet, who had adopted the English name \"King Philip\" in honor of the previously-friendly relations between his father and the original Mayflower Pilgrims. The war continued in the most northern reaches of New England until the signing of the Treaty of Casco Bay in April 1678. Metacom (c. 1638–1676) was the second son of Wampanoag chief Massasoit, who had coexisted peacefully with the Pilgrims. Metacom succeeded his father in 1662 and reacted against the European settlers' continued encroaching onto Wampanoag lands. At Taunton in 1671, he was humiliated when colonists forced him to sign a new peace agreement that included the surrender of Indian guns. When officials in Plymouth Colony hung three Wampanoags in 1675 for the murder of a Christianized Indian, Metacom's alliance launched a united assault on colonial towns throughout the region. Metacom's forces enjoyed initial victories in the first year, but then the Native American alliance began to unravel. By the end of the conflict, the Wampanoags and their Narragansett allies were almost completely destroyed. Metacom anticipated their defeat and returned to his ancestral home at Mt. Hope, where he was killed while walking in the forest. The war was the single greatest calamity to occur in seventeenth century Puritan New England and is considered by many to be the deadliest war in the history of European settlement in North America in proportion to the population. In the space of little more than a year, twelve of the region's towns were destroyed and many more damaged, the colony's economy was all but ruined, and its population was decimated, losing one-tenth of all men available for military service.  More than half of New England's towns were attacked by Native American warriors. King Philip's War began the development of a greater European-American identity. The colonists' trials, without significant English government support, gave them a group identity separate and distinct from that of subjects of the king."
+}, {
+  "entityIndex" : "entity26074",
+  "entityUrl" : "http://dbpedia.org/resource/Kargil_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Pakistani claims", "* 1 fighter jet crashed", "* 1 fighter jet shot down", "* 1 helicopter shot down", "* 1,363 wounded", "* 1,600", "* 1POW", "* 527 killed", "Indian official figures" ],
+    "dbo:combatant" : [ "Pakistan", "India" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pervez_Musharraf", "http://dbpedia.org/resource/Ved_Prakash_Malik" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Indo-Pakistani_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kashmir", "http://dbpedia.org/resource/Kargil_district" ],
+    "dbo:result" : [ "India regains possession of Kargil" ],
+    "dbo:strength" : [ "30,000", "5,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kargil.map.gif?width=300" ],
+    "dbp:caption" : [ "Location of the conflict" ],
+    "dbp:casualties" : [ "Pakistani official figures" ],
+    "dbp:cause" : [ "Pakistani troops cross over the Line of Control into Jammu & Kashmir and take over strategic mountain peaks in Kargil district" ],
+    "dbp:date" : [ "May–July 1999" ],
+    "dbp:territory" : [ "None" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kargil War (Hindi: करगिल युद्ध, Devanāgarī:करगिल युद्ध kargil yuddh, Urdu: کرگل جنگ ‎ kargil jang), also known as the Kargil conflict, was an armed conflict between India and Pakistan that took place between May and July 1999 in the Kargil district of Kashmir and elsewhere along the Line of Control (LOC). In India, the conflict is also referred to as Operation Vijay (Hindi: विजय, lit. \"Victory\") which was the name of the Indian operation to clear the Kargil sector. The cause of the war was the infiltration of Pakistani soldiers and Kashmiri militants into positions on the Indian side of the LOC, which serves as the de facto border between the two states. During the initial stages of the war, Pakistan blamed the fighting entirely on independent Kashmiri insurgents, but documents left behind by casualties and later statements by Pakistan's Prime Minister and Chief of Army Staff showed involvement of Pakistani paramilitary forces, led by General Ashraf Rashid. The Indian Army, later on supported by the Indian Air Force, recaptured a majority of the positions on the Indian side of the LOC infiltrated by the Pakistani troops and militants. With international diplomatic opposition, the Pakistani forces withdrew from the remaining Indian positions along the LOC. The war is one of the most recent examples of high-altitude warfare in mountainous terrain, which posed significant logistical problems for the combating sides. It is one of the very few instances of direct, conventional warfare between nuclear states (i.e., those possessing nuclear weapons). India had conducted its first successful test in 1974; Pakistan, which had been developing its nuclear capability in secret since around the same time, conducted its first known tests in 1998, just two weeks after a second series of tests by India."
+}, {
+  "entityIndex" : "entity26075",
+  "entityUrl" : "http://dbpedia.org/resource/Khmelnytsky_Uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "25px124,750 killed" ],
+    "dbo:combatant" : [ "17pxPolish–Lithuanian Commonwealth", "20pxCrimean Tatars(1649–1654, 1656–1657)", "20pxCrimean Tatars(1654–1656)", "25pxZaporozhian Cossacks" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_II_Casimir_of_Poland", "http://dbpedia.org/resource/Marcin_Kalinowski", "http://dbpedia.org/resource/Bohdan_Khmelnytsky", "http://dbpedia.org/resource/Stanisław_Lanckoroński_(hetman)", "http://dbpedia.org/resource/İslâm_III_Giray", "http://dbpedia.org/resource/Ivan_Bohun", "http://dbpedia.org/resource/Jeremi_Wiśniowiecki", "http://dbpedia.org/resource/Mikołaj_Potocki", "http://dbpedia.org/resource/Stefan_Czarniecki", "http://dbpedia.org/resource/Tugay_Bey", "http://dbpedia.org/resource/Maxym_Kryvonis" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Deluge_(history)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Belarus", "http://dbpedia.org/resource/Moldova", "http://dbpedia.org/resource/Ukraine" ],
+    "dbo:result" : [ "Emergence ofCossack Hetmanate, decline of the Polish-Lithuanian Commonwealth, territorial expansion of the Russian Tsardom" ],
+    "dbo:strength" : [ "17px215,200 troops", "20px195,000Tatars", "25px400,000Cossacks" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Cossack_Hetmanat.svg?width=300" ],
+    "dbp:caption" : [ "Blue Triangle=Cossack victory;Yellow Dot=Cossack defeat;Circle=siege", "Places during the Khmelnitsky Uprising – Number is last digit of year", "Maksym Kryvonis against Jeremi Wiśniowiecki" ],
+    "dbp:casualties" : [ "17" ],
+    "dbp:date" : [ "1648" ],
+    "dbp:float" : [ "left" ],
+    "dbp:territory" : [ "End of the Polish influence over Cossacks' Rus/Ruthenia." ],
+    "dbp:width" : [ "450" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Khmelnytsky Uprising (Polish: Powstanie Chmielnickiego; Ukrainian: повстання Богдана Хмельницького; Russian: восстание Богдана Хмельницкого; also known as the Cossack-Polish War, or the Khmelnytsky insurrection) was a Cossack rebellion within the Polish-Lithuanian Commonwealth in 1648–1657, which led to the creation of a Cossack Hetmanate in Ukrainian lands. Under the command of Hetman Bohdan Khmelnytsky, the Zaporozhian Cossacks, allied with the Crimean Tatars and local peasantry, fought against the armies and paramilitary forces of the Polish–Lithuanian Commonwealth. The insurgency was accompanied by mass atrocities committed by Cossacks against civilian population, especially against the Roman Catholic clergy and the Jews. The uprising has a symbolic meaning in the history of Ukraine's relationship with Poland and Russia. It ended the Polish Catholic Szlachta′s domination over the Orthodox Christian population; at the same time it led to the eventual incorporation of eastern Ukraine into the Tsardom of Russia initiated by the 1654 Pereyaslav Agreement, whereby the Cossacks would swear allegiance to the Tsar while retaining a wide autonomy. The event triggered a period of political turbulence and infighting in the Hetmanate known as the Ruin.The success of anti-Polish rebellion, along with internal conflicts in Poland as well as concurrent wars waged by Poland with Russia and Sweden (Russo-Polish War (1654–67) and Second Northern War (1655–1660) respectively), ended the Polish Golden Age and caused a secular decline of Polish power during the period known in Polish history as the Deluge. In Jewish history, the Uprising is known for the concomitant outrages against the Jews who, in their capacity of leaseholders (arendators) and being effectively in control of the commerce of the country, were seen by the peasants as their immediate oppressors."
+}, {
+  "entityIndex" : "entity26076",
+  "entityUrl" : "http://dbpedia.org/resource/Kittanning_Expedition",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "17 killed", "19 missing", "13 wounded", "(the missing include 4 liberated white prisoners, 2 of whom were recaptured and tortured to death)" ],
+    "dbo:combatant" : [ "Delaware Indians", "Province of Pennsylvania" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Captain_Jacobs", "http://dbpedia.org/resource/John_Armstrong,_Sr." ],
+    "dbo:date" : [ "1756-09-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/French_and_Indian_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kittanning,_Pennsylvania", "http://dbpedia.org/resource/Province_of_Pennsylvania" ],
+    "dbo:result" : [ "7 of 11 prisoners freed" ],
+    "dbo:strength" : [ "Unknown", "300 provincial soldiers" ],
+    "dbp:campaignbox" : [ "Ohio Valley" ],
+    "dbp:casualties" : [ "7" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kittanning Expedition, also known as the Armstrong Expedition or the Battle of Kittanning, was a raid during the French and Indian War that led to the destruction of the American Indian village of Kittanning, which had served as a staging point for attacks by Delaware (Lenape) warriors against colonists in the British Province of Pennsylvania. Commanded by Lieutenant Colonel John Armstrong, this raid deep into hostile territory was the only major expedition carried out by Pennsylvania Provincial troops during a brutal backcountry war. Early on September 8, 1756 they launched a surprise attack on the Indian village."
+}, {
+  "entityIndex" : "entity26077",
+  "entityUrl" : "http://dbpedia.org/resource/Kandyan_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "25pxKingdom of Kandy" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hay_MacDowall", "http://dbpedia.org/resource/Vikrama_Rajasinha", "http://dbpedia.org/resource/Adam_Davy_(soldier)", "http://dbpedia.org/resource/B._G._Barbut" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kingdom_of_Kandy" ],
+    "dbo:result" : [ "British victory", "*End of 2357 years of Sinhalese independence" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hindoostanmap1812.jpg?width=300" ],
+    "dbp:caption" : [ "The Indian subcontinent on the eve of the Second Kandyan War; the entirety of Sri Lanka is shown as being under British control, when in fact the kingdom of Kandy endured in the mountainous interior." ],
+    "dbp:date" : [ "1796" ]
+  },
+  "text" : "The Kandyan Wars (or the Kandian Wars) refers generally to the period of warfare between the British colonial forces and the Kingdom of Kandy, on the island of what is now present day Sri Lanka, between 1796 and 1818. More specifically it is used to describe the expeditionary campaigns of the British Army in the Kingdom of Kandy in 1803 and 1815."
+}, {
+  "entityIndex" : "entity26078",
+  "entityUrl" : "http://dbpedia.org/resource/Kiev_Offensive_(1920)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Uncertain; estimated 10,000–15,000 killed, at least 10,000 captured, and numerous wounded" ],
+    "dbo:combatant" : [ "Poland", "Ukrainian People's Republic" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Semyon_Budyonny", "http://dbpedia.org/resource/Iona_Yakir", "http://dbpedia.org/resource/Józef_Piłsudski", "http://dbpedia.org/resource/Mikhail_Tukhachevsky", "http://dbpedia.org/resource/Edward_Rydz-Śmigły" ],
+    "dbo:date" : [ "1920-06-13" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Polish-Soviet_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ukraine" ],
+    "dbo:result" : [ "Red army strategic victory; start of the major Red army counter-offensive" ],
+    "dbo:strength" : [ "8 infantry divisions", "1 cavalry division", "2 cavalry divisions", "later also 1st Cavalry Army", "2 understrength Ukrainian divisions; 80,000 men initially" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Breguet_14_Kiew.jpg?width=300" ],
+    "dbp:caption" : [ "Polish Breguet 14 operating from Kiev airfield", "Polish Kiev Offensive at its height. June 1920", "Soviet offensive successes. Early August 1920", "Before the Polish advance. Central and Eastern Europe in December 1919" ],
+    "dbp:casualties" : [ "Around 32,000 men lost, including 2,000 from 1st Cavalry Army" ],
+    "dbp:direction" : [ "vertical" ],
+    "dbp:image" : [ "PBW August 1920.png", "PBW December 1919.png", "PBW June 1920.png" ],
+    "dbp:width" : [ "200" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The 1920 Kiev Offensive (or Kiev Operation), sometimes considered to have started the Soviet-Polish War, was an attempt by the armed forces of the newly re-emerged Poland led by Józef Piłsudski, in alliance with the Ukrainian leader Symon Petliura, to seize the territories of modern-day Ukraine which fell under the Soviet control after the Bolshevik Revolution. The operation led to a Soviet counteroffensive resulting in the creation of the short-lived Galician Soviet Socialist Republic, and ended amicably with the formal Peace of Riga of 1921. The stated goal of the operation was to create a formally independent Ukraine. Some Ukrainians greeted the Polish and allied Ukrainian forces as liberators, although Ukrainians fought for both sides of the conflict. The campaign was conducted from April to June 1920. It was a major military operation of the Polish Army thanks to new alliance with the forces of the Ukrainian People's Republic under the exiled Ukrainian leader Symon Petliura. It was opposed by the Soviets who claimed most of the territories for the Ukrainian SSR afterwards. Initially successful for the Polish and Ukrainian armies which captured Kiev on May 7, 1920, the campaign was dramatically reversed, chiefly by the cavalry of Semyon Budyonny."
+}, {
+  "entityIndex" : "entity26079",
+  "entityUrl" : "http://dbpedia.org/resource/Kiev_Arsenal_January_Uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Military dead:", "Total:", "Military missing:", "Military wounded:" ],
+    "dbo:combatant" : [ "----", "Bolsheviks", "Red Guards", "Ukrainian People's Republic", "*Polish Military Organisation" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Symon_Petliura", "http://dbpedia.org/resource/Vsevolod_Petriv", "http://dbpedia.org/resource/Mykhailo_Kovenko", "http://dbpedia.org/resource/Bolshevik", "http://dbpedia.org/resource/Yevhen_Konovalets", "http://dbpedia.org/resource/Syla_Mishchenko", "http://dbpedia.org/resource/Mykola_Kostyuk", "http://dbpedia.org/resource/Oleksandr_Horvits" ],
+    "dbo:date" : [ "1918-01-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Ukrainian-Soviet_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kiev" ],
+    "dbo:result" : [ "The Uprising was extinguished." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/January_uprising.jpg?width=300" ],
+    "dbp:caption" : [ "Participants of the January Uprising in Kiev" ],
+    "dbp:casualties" : [ "Total:", "Military dead:", "Military missing:", "Military wounded:" ],
+    "dbp:casus" : [ "http://dbpedia.org/resource/Ukrainian_Constituent_Assembly" ]
+  },
+  "text" : "Kiev Arsenal January Uprising (Ukrainian: Січневе повстання Sichneve povstannya), sometimes called simply the January Uprising or the January Rebellion, was the Bolshevik organized workers' armed revolt that started on January 29, 1918 at the Kiev Arsenal factory during the Ukrainian-Soviet War. The goal of the uprising was to sabotage the ongoing elections to the Ukrainian Constituent Assembly and to support the advancing Red Army."
+}, {
+  "entityIndex" : "entity26080",
+  "entityUrl" : "http://dbpedia.org/resource/Kitos_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Massive civilian casualties with some areas utterly annihilated, 460,000+ Roman citizens (largelyRoman Greeks) killed in Cyrene and Cyprus alone and unknown numbers inAegyptus,Libyaand the rest of theEastern Mediterranean" ],
+    "dbo:combatant" : [ "Jewish/Judeanzealots" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Marcius_Turbo", "http://dbpedia.org/resource/Lusius_Quietus", "http://dbpedia.org/resource/Lukuas" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Jewish–Roman_wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Roman_Empire", "http://dbpedia.org/resource/Eastern_Mediterranean" ],
+    "dbo:result" : [ "Roman Empire victory" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Status_quo_ante_bellum" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Roman_Empire_Map.png?width=300" ],
+    "dbp:caption" : [ "The Roman Empire after 120 CE" ],
+    "dbp:casualties" : [ "Jewish communities of Cyprus, Cyrene and possibly others completely depopulated and permanently expelled to the eastern edges of the Empire" ],
+    "dbp:date" : [ "115" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kitos War (115–117) (Hebrew: מרד הגלויות‎‎: mered ha'galuyot or mered ha'tfutzot (מרד התפוצות); translation: rebellion of the diaspora. Latin: Tumultus Iudaicus) occurred during the period of the Jewish–Roman wars, 66–136. While the majority of the Roman armies were fighting Trajan's Parthian War on the eastern border of the Roman Empire, major uprisings by ethnic Judeans in Cyrenaica, Cyprus and Egypt spiraled out of control, resulting in a widespread slaughter of left behind Roman garrisons and Roman citizens by Jewish rebels. Some of the areas with the heaviest massacres were left so utterly annihilated that others were made to settle these areas to prevent the absence of any remaining presence. The rebellions were finally crushed by Roman legionary forces, chiefly by the Roman general Lusius Quietus, whose nomen later gave the conflict its title, as \"Kitos\" is a later corruption of Quietus."
+}, {
+  "entityIndex" : "entity26081",
+  "entityUrl" : "http://dbpedia.org/resource/Kalinga_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "100,000" ],
+    "dbo:combatant" : [ "Kalinga", "Maurya Empire" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ashoka" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kalinga_(India)", "http://dbpedia.org/resource/History_of_India" ],
+    "dbo:result" : [ "DecisiveMauryavictory" ],
+    "dbo:strength" : [ "10,000cavalry700war elephants", "60,000infantry,", "Total 400,000" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Kalinga_(India)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Chandragupta_Maurya_Empire.png?width=300" ],
+    "dbp:casualties" : [ "200000" ],
+    "dbp:commander" : [ "Kalingraj" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kalinga War was fought between the Maurya Empire with Ashoka and the state of Kalinga, a feudal republic located on the coast of the present-day Indian state of Odisha and northern parts of Andhra Pradesh. There is no historical evidence on the name of the king who fought Ashoka. The Kalinga war, the only major war Ashoka fought after his accession to throne, is one of the major and bloodiest battles in world history. Kalinga, then an Independent region put up a stiff resistance against brutal strength of Ashoka and fought bravely till the end. But despite being tough, they were outnumbered against Ashoka's armies. The bloodshed of this war is said to have prompted Ashoka to adopt Buddhism. However, he retained Kalinga after its conquest and incorporated it into the Maurya Empire."
+}, {
+  "entityIndex" : "entity26082",
+  "entityUrl" : "http://dbpedia.org/resource/Kokoda_Track_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,055 wounded", "4,000+ sick", "625 killed" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Douglas_MacArthur", "http://dbpedia.org/resource/Sydney_Rowell", "http://dbpedia.org/resource/Hisaichi_Terauchi", "http://dbpedia.org/resource/Hitoshi_Imamura", "http://dbpedia.org/resource/Harukichi_Hyakutake", "http://dbpedia.org/resource/Tomitarō_Horii", "http://dbpedia.org/resource/George_Alan_Vasey", "http://dbpedia.org/resource/Thomas_Blamey", "http://dbpedia.org/resource/Arthur_Samuel_Allen", "http://dbpedia.org/resource/Edmund_Herring" ],
+    "dbo:date" : [ "1942-11-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Territory_of_Papua" ],
+    "dbo:result" : [ "Decisive Allied victory" ],
+    "dbo:strength" : [ "13,500 total", "30,000 total" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Australian_39th_Battalion_after_the_Kokoda_Track_campaign_1942_(AWM_013289).jpg?width=300" ],
+    "dbp:caption" : [ "Soldiers of the Australian 39th Battalion in September 1942" ],
+    "dbp:casualties" : [ "6600" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kokoda Track campaign or Kokoda Trail campaign was part of the Pacific War of World War II. The campaign consisted of a series of battles fought between July and November 1942 between Japanese and Allied—primarily Australian—forces in what was then the Australian territory of Papua. Following a landing near Gona, on the north coast of New Guinea, on the night of 21/22 July, Japanese forces attempted to advance south overland through the mountains of the Owen Stanley Range to seize Port Moresby as part of a strategy of isolating Australia from the United States. Initially only limited Australian forces were available to oppose them; and, after making rapid progress, the Japanese South Seas Detachment under Major General Tomitarō Horii clashed with under-strength Australian forces from the Papuan Infantry Battalion and the Australian 39th Battalion on 23 July at Awala, forcing them back to Kokoda. Following a confused night battle on 28/29 July, the Australians were again forced to withdraw. The Australians attempted to recapture Kokoda on 8 August without success, which resulted in heavy casualties on both sides; and the 39th Battalion was subsequently forced back to Deniki. A number of Japanese attacks were subsequently fought off by the Australian Militia over the following week; yet, by 14 August, they began to withdraw over the Owen Stanley Range, down the Kokoda Track towards Isurava. The Japanese failed to press their assault, however; and the next 10 days proved to be a respite for the Australians. Reinforcements, including the 53rd Battalion and the headquarters of the 30th Brigade under the commander of Brigadier Selwyn Porter, arrived to bolster the Australian forces, while the 21st Brigade under Brigadier Arnold Potts also arrived at Isurava by 23 August. The Australians faced significant supply problems despite the modest size of their forces, and the 39th Battalion was subsequently withdrawn to ease the logistic burden. The Japanese advance resumed on 26 August, forcing Potts to mount a series of delaying actions as the 21st Brigade successively fell back, first to Eora Creek on 30 August, Templeton's Crossing on 2 September, and next to Efogi three days later, on 5 September. However, the Japanese were now increasingly hampered by supply problems of their own as they became overextended, while the Australian defence also became better organised. Regardless, the effectiveness of the Australian units was increasingly reduced through exhaustion and sickness from operating in the harsh terrain. On 10 September, Potts handed over command to Porter, who was subsequently forced to withdraw to Ioribaiwa. The Japanese unsuccessfully mounted a further attack the following day, as they began to run out of momentum against the Australians who began to receive further reinforcements, including brigades from the experienced Australian 7th Division under the command of Major General Arthur Allen. The 25th Brigade under Brigadier Kenneth Eather took over the forward area on 14 September. Heavy fighting continued around Ioribaiwa for the next week, however; and the Australians were again forced to withdraw on 17 September, this time to Imita Ridge, in sight of Port Moresby itself. Having outrun his supply lines and following the reverses suffered by the Japanese at Guadalcanal, Horii was now ordered on to the defensive, marking the limit of the Japanese advance southwards. The Japanese subsequently began to withdraw on 24 September to establish a defensive position on the north coast; but they were followed by the Australians under Eather, who recaptured Kokoda on 2 November. Further fighting continued into November and December as the Australian and United States forces assaulted the Japanese beachheads, in what later became known as the Battle of Buna–Gona."
+}, {
+  "entityIndex" : "entity26083",
+  "entityUrl" : "http://dbpedia.org/resource/Kurukshetra_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "* Krishna", "* Satyaki", "* Yuyutsu", "* the five Pandavas", "Almost total (1,530,900 soldiers)", "only 8 known survivors:" ],
+    "dbo:combatant" : [ "Territory-lessPandavasof the Kurus with the support of the mightyPanchalatribe and others.", "Kauravas(Kuru tribe) with capital atHastinapuraand their allies" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Krishna", "http://dbpedia.org/resource/Duryodhana", "http://dbpedia.org/resource/Shakuni", "http://dbpedia.org/resource/Yudhishthira", "http://dbpedia.org/resource/Bhishma", "http://dbpedia.org/resource/Dhrishtadyumna", "http://dbpedia.org/resource/Shalya", "http://dbpedia.org/resource/Karna", "http://dbpedia.org/resource/Drona", "http://dbpedia.org/resource/Ashwatthama" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Haryana", "http://dbpedia.org/resource/India", "http://dbpedia.org/resource/Kurukshetra" ],
+    "dbo:result" : [ "*", ",", "s", "to the", "Kalinga", "was appointed as Yudhishthira's subordinate king in Indraprastha", "* Victory for", "* Various succession took place due to many kings and rulers' deaths in the war:", "Anga", "Chedi", "Dhritarashtra", "Gandhar", "Kauravas", "Kosala", "Kurus", "Madra", "Magadh", "Matsya", "Panchal", "Panchala", "Pandavas", "Sindhu", "Virata", "Yudhishthira", "Yuyutsu", "abdicated the throne of Hastinapura and", "and allies, fall of", "* The center of power in the Gangetic basin shifted from the", "succeeded him" ],
+    "dbo:strength" : [ "(total 1,530,900 soldiers)", "(total 2,405,700 soldiers)", "1,202,850 infantry", "11Akshauhinis", "153,090 chariots and chariot-riders", "153,090 elephants and elephant-riders", "240,570 chariots and chariot-riders", "240,570 elephants and elephant-riders", "459,270 horses and horse-riders", "721,710 horses and horse-riders", "765,450 infantry", "7Akshauhinis" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Indraprastha", "http://dbpedia.org/resource/Hastinapura" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/The_Pandava_and_Kaurava_armies_face_each_other.JPG?width=300" ],
+    "dbp:caption" : [ "watercolour from Mewar depicts the Pandava and Kaurava armies arrayed against each other." ],
+    "dbp:casualties" : [ "Almost total", "only 4 known survivors:", "* Ashwatthama" ],
+    "dbp:date" : [ "1555200.0" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kurukshetra War, also called the Mahabharata War, is a war described in the Indian epic Mahabharata. The conflict arose from a dynastic succession struggle between two groups of cousins, the Kauravas and Pandavas, for the throne of Hastinapura in an Indian kingdom called Kuru. It involved a number of ancient kingdoms participating as allies of the rival groups. The location of the battle is described as having occurred in Kurukshetra in the modern state of Haryana. Despite only referring to these eighteen days, the war narrative forms more than a quarter of the book, suggesting its relative importance within the epic, which overall spans decades of the warring families. The narrative describes individual battles and deaths of various heroes of both sides, military formations, war diplomacy, meetings and discussions among the characters, and the weapons used. The chapters (parvas) dealing with the war (from chapter six to ten) are considered amongst the oldest in the entire Mahabharata. The historicity of the war remains subject to scholarly discussions. Attempts have been made to assign a historical date to the Kurukshetra War. Popular tradition holds that the war marks the transition to Kaliyuga and thus dates it to 3102 BCE."
+}, {
+  "entityIndex" : "entity26084",
+  "entityUrl" : "http://dbpedia.org/resource/Koliyivshchyna",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "22pxPolish-Lithuanian Commonwealth", "Russian Empire", "Haidamaky" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Maksym_Zalizniak", "http://dbpedia.org/resource/Ivan_Gonta", "http://dbpedia.org/resource/Jan_Klemens_Branicki", "http://dbpedia.org/resource/Mikhail_Krechetnikov" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Right-bank_Ukraine" ],
+    "dbo:result" : [ "Polish-Russian victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Camp_of_haidamakas.PNG?width=300" ],
+    "dbp:caption" : [ "Camp of Haidamakas" ],
+    "dbp:date" : [ "May 1768–June 1769" ]
+  },
+  "text" : "Koliyivshchyna 1768-1769 (Ukrainian: Коліївщина, from Ukr. \"impaling\") was a major haidamaka rebellion that broke out in Right-bank Ukraine in May 1768, caused by the social and national-religious oppression of Ukrainians by the Polish administration and nobility. The uprising resulted in a mass murder of noblemen (szlachta) and other Polish population, Jews, Uniates, and Catholic priests across the part of the country west of the Dnieper river. It was simultaneous to the Confederation of Bar and a de facto civil war in Poland. The rebellion was fueled by the circulation of a fictitious proclamation of support and call to arms by Russia's Empress Catherine II. Eventually the uprising was crushed by Russian troops, aided by Polish army. Its leaders, Ivan Gonta, was tortured to death while Maksym Zalizniak was exiled to Siberia. The peasant rebellion quickly gained momentum and spread over the territory from the right bank of the Dnieper River to the river Syan. At Uman it led to a massacre of legendary proportions. Poles, Jews and Uniates were herded into their churches and synagogues and killed in cold blood. In three weeks of unbridled violence the rebels slaughtered 20,000 people, according to numerous Polish sources. The leaders of the uprising were Cossacks Maksym Zalizniak and Ivan Gonta. The latter was a Registered Cossack who changed sides and joined Zalizniak at Uman while being sent by Polish Count Franciszek Salezy Potocki to protect it. Gonta was in fact а sotnyk (i.e. a commander of a unit of 100 sabers) of the Uman Regiment. The rebellion was suppressed by the joint forces of Polish and Russian armies, with numerous hangings, decapitations, quarterings and impalings."
+}, {
+  "entityIndex" : "entity26085",
+  "entityUrl" : "http://dbpedia.org/resource/Kashmir_conflict",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Supported by:", "Harkat-ul-Mujahideen", "Lashkar-e-Taiba", "*Indian Army", "*19px|link=Border Security Force", "*19px|link=Central Reserve Police Force", "*19px|link=Inter-Services Intelligence", "*19px|link=Research and Analysis Wing", "*Pakistan Army", "*Pakistan Rangers", "Al-Badr", "All Parties Hurriyat Conference", "Harkat-ul-Jihad al-Islami", "Hizbul Mujahideen", "Jaish-e-Mohammed", "Jammu Kashmir Liberation Front" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Raheel_Sharif", "http://dbpedia.org/resource/Pranay_Sahay", "http://dbpedia.org/resource/Hafiz_Muhammad_Saeed", "http://dbpedia.org/resource/Pranab_Mukherjee", "http://dbpedia.org/resource/Sayeed_Salahudeen", "http://dbpedia.org/resource/Dalbir_Singh_Suhag", "http://dbpedia.org/resource/Amanullah_Khan_(JKLF)", "http://dbpedia.org/resource/Fazlur_Rehman_Khalil", "http://dbpedia.org/resource/Arup_Raha", "http://dbpedia.org/resource/Maulana_Masood_Azhar" ],
+    "dbo:date" : [ "1947-10-22" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kashmir" ],
+    "dbo:status" : [ "Ongoing", "*2016 Kashmir unrest", "*India–Pakistan border skirmishes", "*Indo-Pakistani War of 1947", "*Indo-Pakistani War of 1965", "*Insurgency in Jammu and Kashmir", "*Kargil War1999", "*Siachen conflict" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kashmir_region_2004.jpg?width=300" ],
+    "dbp:align" : [ "centre" ],
+    "dbp:caption" : [ "India claims the entire erstwhile princely state of Jammu and Kashmir based on an instrument of accession signed in 1947. Pakistan claims Jammu and Kashmir based on its majority Muslim population, whereas China claims the Shaksam Valley and Aksai Chin." ],
+    "dbp:quote" : [ "\"WE, THE PEOPLE OF THE STATE OF JAMMU AND KASHMIR,", "having solemnly resolved, in pursuance of the accession of this State to India which took place on the twenty sixth day of October, 1947, to further define the existing relationship of the State with the Union of India as an integral part thereof, and to secure to ourselves-" ],
+    "dbp:source" : [ "-Preamble of Constitution of Jammu & Kashmir." ],
+    "dbp:width" : [ "20" ]
+  },
+  "text" : "The Kashmir conflict is a territorial conflict primarily between India and Pakistan, having started just after the partition of India in 1947. China has at times played a minor role. India and Pakistan have fought three wars over Kashmir, including the Indo-Pakistani Wars of 1947 and 1965, as well as the Kargil War. The two countries have also been involved in several skirmishes over control of the Siachen Glacier. India claims the entire state of Jammu and Kashmir, and, as of 2010, administers approximately 43% of the region. It controls Jammu, the Kashmir Valley, Ladakh, and the Siachen Glacier. India's claims are contested by Pakistan, which administers approximately 37% of Kashmir, namely Azad Kashmir and Gilgit-Baltistan. China currently administers Demchok district, the Shaksgam Valley, and the Aksai Chin region. China's claim over these territories has been disputed by India since China took Aksai Chin during the Sino-Indian War of 1962. The root of conflict between the Kashmiri insurgents and the Indian government is tied to a dispute over local autonomy. Democratic development was limited in Kashmir until the late 1970s, and by 1988, many of the democratic reforms introduced by the Indian Government had been reversed. Non-violent channels for expressing discontent were thereafter limited and caused a dramatic increase in support for insurgents advocating violent secession from India. In 1987, a disputed state election created a catalyst for the insurgency when it resulted in some of the state's legislative assembly members forming armed insurgent groups. In July 1988 a series of demonstrations, strikes and attacks on the Indian Government began the Kashmir Insurgency. Although thousands of people have died as a result of the turmoil in Jammu and Kashmir, the conflict has become less deadly in recent years. Protest movements created to voice Kashmir's disputes and grievances with the Indian government, specifically the Indian Military, have been active in Jammu & Kashmir since 1989. Elections held in 2008 were generally regarded as fair by the United Nations High Commissioner for Refugees and had a high voter turnout in spite of calls by separatist militants for a boycott. The election resulted in the creation of the pro-India Jammu & Kashmir National Conference, which then formed a government in the state. According to Voice of America, many analysts have interpreted the high voter turnout in this election as a sign that the people of Kashmir endorsed Indian rule in the state. But in 2010 unrest erupted after alleged fake encounter of local youth by security force. Thousands of youths pelted security forces with rocks, burned government offices and attacked railway stations and official vehicles in steadily intensifying violence. The Indian government blamed separatists and Lashkar-e-Taiba, a Pakistan-based militant group for stoking the 2010 protests. However, elections held in 2014 saw highest voters turnout in 26 years of history in Jammu and Kashmir. However analysts explain that the high voter turnout in Kashmir is not an endorsement of Indian rule by the Kashmiri population, rather most people vote for daily issues such as food and electricity. An opinion poll conducted by the Chatham House international affairs think tank found that in the Kashmir valley - the mainly Muslim area In Indian Kashmir at the centre of the insurgency - support for independence varies between 74% to 95% in its various districts. Support for remaining with India was however extremely high in predominantly Hindu Jammu and Buddhist Ladakh. According to Amnesty International, as of June 2015, no member of the Indian military deployed in Jammu and Kashmir has been tried for human rights violations in a civilian court, although there have been military court martials held. In October 2015 Jammu and Kashmir High Court said that article 370 is \"permanent\" and Jammu & Kashmir did not merge with India the way other princely states merged but retained special status and limited sovereignty under Indian constitution."
+}, {
+  "entityIndex" : "entity26086",
+  "entityUrl" : "http://dbpedia.org/resource/Kerensky_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:date" : [ "1917-07-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_I)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Central_Europe", "http://dbpedia.org/resource/Galicia_(Central_Europe)" ],
+    "dbo:result" : [ "Central Powers victory" ],
+    "dbo:strength" : [ "I Army", "/South Army", "III Army", "VII Army", "VIII Army", "XI Army" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/EasternFront1917.jpg?width=300" ],
+    "dbp:caption" : [ "Operations on the Eastern Front in 1917." ],
+    "dbp:casualties" : [ "60000" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kerensky Offensive (Russian: Наступление Керенского), also called the July Offensive (Russian: Июльское наступление), was the last Russian offensive in World War I, taking place in July 1917. In the offensive, the Russian army was aided by the Kingdom of Romania."
+}, {
+  "entityIndex" : "entity26087",
+  "entityUrl" : "http://dbpedia.org/resource/Kilmichael_Ambush",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3 dead" ],
+    "dbo:combatant" : [ "Royal Irish Constabulary", "border|22pxIrish Republican Army", "(Auxiliary Division)", "(West Cork Brigade)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Francis_Crake", "http://dbpedia.org/resource/Tom_Barry_(soldier)" ],
+    "dbo:date" : [ "1920-11-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Irish_War_of_Independence" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kilmichael,_County_Cork" ],
+    "dbo:result" : [ "IRA victory" ],
+    "dbo:strength" : [ "18 officers", "36 volunteers" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Iarthair_Chorcaí_185.jpg?width=300" ],
+    "dbp:caption" : [ "Monument at the ambush site" ],
+    "dbp:casualties" : [ "17" ],
+    "dbp:latitude" : [ "51.812" ],
+    "dbp:longitude" : [ "-9.039" ],
+    "dbp:mapMarksize" : [ "6" ],
+    "dbp:mapRelief" : [ "yes" ],
+    "dbp:mapSize" : [ "300" ],
+    "dbp:mapType" : [ "Ireland" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kilmichael Ambush (Irish: Luíochán Chill Mhichíl) was an ambush near the village of Kilmichael in County Cork on 28 November 1920 carried out by the Irish Republican Army (IRA) during the Irish War of Independence. Thirty-six local IRA volunteers commanded by Tom Barry killed seventeen members of the Royal Irish Constabulary's Auxiliary Division. The Kilmichael ambush was politically as well as militarily significant. It occurred one week after Bloody Sunday, marking a profound escalation in the IRA campaign."
+}, {
+  "entityIndex" : "entity26088",
+  "entityUrl" : "http://dbpedia.org/resource/Kengir_uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "40 wounded1" ],
+    "dbo:combatant" : [ "MVD", "Soviet Army", "22pxKengir resistance", "Gulagauthorities" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Sergei_Yegorovich_Yegorov", "http://dbpedia.org/resource/Ivan_Dolgikh", "http://dbpedia.org/resource/Kapiton_Kuznetsov" ],
+    "dbo:date" : [ "1954-05-16" ],
+    "dbo:notes" : [ "1 Official Soviet figure", "2 Prisoner-provided figure" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kengir", "http://dbpedia.org/resource/Kazakh_SSR" ],
+    "dbo:result" : [ "Uprising suppressed" ],
+    "dbo:strength" : [ "1,700", "5,200" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/IFRC_flag_used_in_Kengir_Uprising.png?width=300" ],
+    "dbp:casualties" : [ "37", "106", "500" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kengir uprising was a prisoner uprising that took place in the Soviet prison labor camp Kengir in May and June 1954. Its duration and intensity distinguished it from other Gulag uprisings in the same period (see Vorkuta uprising). After the murder of some of their fellow prisoners by guards, Kengir inmates launched a rebellion and proceeded to seize the entire camp compound, holding it for weeks and creating a period of freedom for themselves unique in the history of the Gulag. Following a rare alliance between the criminals and political prisoners, the prisoners succeeded in forcing the guards and camp administration to flee the camp and effectively quarantine it from the outside. The prisoners thereafter set up intricate defenses to prevent the incursion of the authorities into their newly won territory. This situation lasted for an unprecedented length of time and gave rise to a panoply of colorful and novel activity, including the democratic formation of a provisional government by the prisoners, prisoner marriages, the creation of indigenous religious ceremonies, a brief flowering of art and culture, and the waging of a large, relatively complex propaganda campaign against the erstwhile authorities. After 40 days of freedom within the camp walls, intermittent negotiation, and mutual preparation for violent conflict, the uprising was suppressed by Soviet armed forces with tanks and guns on the morning of 26 June. According to former prisoners, five hundred to seven hundred people were killed or wounded in the suppression, although official figures claim only a few dozen had been killed. The story of the uprising was first committed to history in The Gulag Archipelago, a nonfiction work by former-prisoner and Nobel Prize-winning Russian author Aleksandr Solzhenitsyn."
+}, {
+  "entityIndex" : "entity26089",
+  "entityUrl" : "http://dbpedia.org/resource/Khanasor_Expedition",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "26, incl. Garo (Stepan Zorian's brother), Khan and Arisdages Zorian" ],
+    "dbo:combatant" : [ "Armenian Revolutionary Federation", "Mazrik tribe of Khanasor", "assisted byHunchaksandArmenakans" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Nikol_Duman", "http://dbpedia.org/resource/Sargis_Mehrabyan", "http://dbpedia.org/resource/Nikoghayos_Mikaelian", "http://dbpedia.org/resource/Sharaf_Beg" ],
+    "dbo:date" : [ "1897-07-27" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ottoman_Empire", "http://dbpedia.org/resource/Van_Vilayet", "http://dbpedia.org/resource/Khanasor" ],
+    "dbo:result" : [ "Armenian victory", "*Mazrik tribe's influence on the region nullified" ],
+    "dbo:strength" : [ "250 fedayees", "The entire tribe" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Khanasor_fidai.jpg?width=300" ],
+    "dbp:casualties" : [ "Most of the men of the tribe" ],
+    "dbp:expiry" : [ "--10-25" ],
+    "dbp:small" : [ "yes" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Khanasor Expedition (Armenian: Խանասորի արշավանքը, Khanasori arshavankë) was an offensive of Armenian fedayees against the Kurdish Mazrik tribe on July 25, 1897. In 1896, in the aftermath of the Defense of Van, the Mazrik tribe had ambushed and slaughtered many of the Armenian defenders of Van as they were retreating into Persia. The Armenian Revolutionary Federation decided to retaliate for that atrocity, resulting in the Khanasor Expedition."
+}, {
+  "entityIndex" : "entity26090",
+  "entityUrl" : "http://dbpedia.org/resource/Kizlyar-Pervomayskoye_hostage_crisis",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Estimated 96 killed (153 killed according to Russian sources)" ],
+    "dbo:combatant" : [ "22pxChechen Republic of Ichkeria", "22pxRussian Federation" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Turpal-Ali_Atgeriyev", "http://dbpedia.org/resource/Mikhail_Barsukov", "http://dbpedia.org/resource/Salman_Raduyev", "http://dbpedia.org/resource/Anatoly_Kulikov", "http://dbpedia.org/resource/Khunkar-Pasha_Israpilov", "http://dbpedia.org/resource/Aidamir_Abalayev", "http://dbpedia.org/resource/Viktor_Zorin" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/First_Chechen_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dagestan", "http://dbpedia.org/resource/Kizlyar" ],
+    "dbo:result" : [ "Chechen separatists managed to escape Pervomayskoye and return to Chechnya" ],
+    "dbo:strength" : [ "200, later about 400", "More than 3,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Chechen_Republic_of_Ichkeria.svg?width=300" ],
+    "dbp:casualties" : [ "Estimated 200 killed", "Estimated 26 or more civilians killed" ],
+    "dbp:date" : [ "--01-09" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-terrorist_attack-noun-1", "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kizlyar-Pervomayskoye hostage crisis, known in Russia as the terrorist act in Kizlyar (Террористический акт в Кизляре), occurred in January 1996 during the First Chechen War. What began as a raid by a force of Chechen separatist guerrillas led by Salman Raduyev against a federal military airbase near Kizlyar, Dagestan became a hostage crisis involving thousands of civilians, most of whom were quickly released. It culminated in a battle between the Chechens and Russian special forces in the village of Pervomayskoye, which was destroyed by Russian artillery fire. Although the Chechens escaped from the siege with some of their hostages, at least 26 hostages and more than 200 combatants on both sides died."
+}, {
+  "entityIndex" : "entity26091",
+  "entityUrl" : "http://dbpedia.org/resource/Kazan_Operation",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:combatant" : [ "Red Army", "White Army", "*Czechoslovak Legion", "*People Army of Komuch", "*Red Latvian Riflemen", "population of Kazan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Fyodor_Raskolnikov", "http://dbpedia.org/resource/Josef_Švec", "http://dbpedia.org/resource/Nikolay_Markin", "http://dbpedia.org/resource/P._A._Stepanov", "http://dbpedia.org/resource/Peter_Slaven", "http://dbpedia.org/resource/Woldemar_Azin" ],
+    "dbo:date" : [ "1918-09-05" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Russian_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Russian_SFSR", "http://dbpedia.org/resource/Kazan" ],
+    "dbo:result" : [ "DecisiveRed Armyvictory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Red_Army_Kazan.jpg?width=300" ],
+    "dbp:caption" : [ "The Red Army marching in Kazan after the victory" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Kazan Operation was the Red Army's offensive (5–10 September 1918) against the Czechoslovak Legion and the People Army of Komuch during the Russian Civil War."
+}, {
+  "entityIndex" : "entity26092",
+  "entityUrl" : "http://dbpedia.org/resource/Kozara_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "7,000 casualties" ],
+    "dbo:combatant" : [ "Allies:", "Axis:", "Partisans" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Kosta_Nađ" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II_in_Yugoslavia" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kozara", "http://dbpedia.org/resource/Bosanska_Krajina" ],
+    "dbo:result" : [ "Axis victory; Partisan force severely damaged" ],
+    "dbo:strength" : [ "22,000Independent State of Croatiatroops", "3,000 troops aided by local volunteers and recruits", "5Hungarianmonitors", "some 15,000Germantroops" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bitka_za_Kozaru.jpg?width=300" ],
+    "dbp:caption" : [ "Battle of Kozara Memorial near Prijedor" ],
+    "dbp:casualties" : [ "25000" ],
+    "dbp:commander" : [ "Friedrich Stahl" ],
+    "dbp:date" : [ "--06-10" ]
+  },
+  "text" : "The Kozara Offensive, also known as Operation West-Bosnien by the Axis, was fought in 1942 on and around the mountain of Kozara in northwestern Bosnia. It was an important battle of the Yugoslav Partisan resistance movement in World War II. It later became an integral part of Yugoslav post-war mythology, which celebrated the courage and martyrdom of outnumbered and outgunned Partisans and civilians. Certain sources mistakenly identify the Kozara Offensive as part of Operation Trio. In the spring of 1942, Yugoslav Partisans in central and west Bosnia liberated Bosanski Petrovac, Drvar, Glamoč and Prijedor. On 20 May the 1st Krajina Assault Brigade was founded, and the next day it obtained tanks and a modest air force. The free territory stretched from the river Sava south across the mountains Kozara and Grmeč. During the winter, Partisans inflicted heavy casualties on the Germans. A great loss for the Partisans was the death of their capable and distinguished commander, Mladen Stojanović, known as \"Komandant Mladen\", who was killed in March 1942 by the Chetniks under Rade Radić. The German and Ustaše authorities realized that the city of Banja Luka and the iron mine in Ljubija were in danger and organized an offensive to destroy the movement. The Germans engaged 15,000 soldiers, the Independent State of Croatia (the Ustaše) about 22,000 soldiers, the Chetniks about 2,000 soldiers, and the Hungarians participated with 5 monitor ships. The Partisan group had about 3,000 soldiers, but recruited reserves from the 60,000 civilians in the free territory. After an intensive battle on the night of 3 July, some partisan units broke the siege, but the main group again came under siege the next night and was mostly destroyed. In Široka Luka about 500 wounded Partisans were killed. It is estimated that during the battle, the Partisans lost about 1,700 soldiers, while the Axis forces lost about 7,000. During and after the battle, many thousands of Serbian civilians from Kozara were sent to the Ustaše Jasenovac concentration camp. About 900 Partisan soldiers survived and founded the Fifth Krajina Brigade. At the same time, the main Partisan group with Josip Broz Tito moved from East Bosnia to West Bosnia. After the Axis offensive forces withdrew, parts of the lost area were regained in September 1942. Approximately 25,000 Serbs were killed in the operation, mostly in concentration camps."
+}, {
+  "entityIndex" : "entity26093",
+  "entityUrl" : "http://dbpedia.org/resource/Kettle_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1784-10-08" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Saeftinghe", "http://dbpedia.org/resource/River_Scheldt" ],
+    "dbo:result" : [ "Treaty of Fontainebleau" ],
+    "dbo:strength" : [ "De Dolfijn warship", "Three ships (including Le Louis)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph_II.jpg?width=300" ],
+    "dbp:caption" : [ "The disputed Scheldt delta" ],
+    "dbp:casus" : [ "Access to the Scheldt for imperial trading vessels" ],
+    "dbp:territory" : [ "None" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kettle War (Dutch: Keteloorlog or Marmietenoorlog) was a military confrontation between the troops of the Holy Roman Empire and the Republic of the Seven Netherlands on 8 October 1784. It was named the Kettle War because the only shot fired hit a soup kettle."
+}, {
+  "entityIndex" : "entity26094",
+  "entityUrl" : "http://dbpedia.org/resource/Koli_Point_action",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "40 killed" ],
+    "dbo:combatant" : [ "*British Solomon Islands" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Harukichi_Hyakutake", "http://dbpedia.org/resource/Toshinari_Shōji", "http://dbpedia.org/resource/Edmund_Sebree", "http://dbpedia.org/resource/Alexander_Vandegrift", "http://dbpedia.org/resource/William_H._Rupertus" ],
+    "dbo:date" : [ "1942-11-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Guadalcanal", "http://dbpedia.org/resource/Solomon_Islands" ],
+    "dbo:result" : [ "United States victory" ],
+    "dbo:strength" : [ "3,500", "*164th Infantry Regiment", "*7th Marine Regiment", "2,500–3,500" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/GuadKoliPoint75mm.jpg?width=300" ],
+    "dbp:caption" : [ "75" ],
+    "dbp:casualties" : [ "450" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Koli Point action, during 3–12 November 1942, was an engagement between U.S. Marine Corps and U.S. Army forces and Imperial Japanese Army forces around Koli Point on Guadalcanal during the Guadalcanal campaign. The U.S. forces were under the overall command of Major General Alexander Vandegrift, while the Japanese forces were under the overall command of Lieutenant General Harukichi Hyakutake. In the engagement, U.S. Marines from the 7th Marine Regiment and U.S. Army soldiers from the 164th Infantry Regiment under the tactical command of William H. Rupertus and Edmund B. Sebree, attacked a concentration of Japanese Army troops, most of whom belonged to the 230th Infantry Regiment, commanded by Toshinari Shōji. Shōji's troops had marched to the Koli Point area after the failed Japanese assaults on U.S. defenses during the Battle for Henderson Field in late October 1942. In the engagement, the U.S. forces attempted to encircle and destroy Shōji's forces. Although Shōji's unit took heavy casualties, he and most of his men were able to evade the encirclement attempt and escape into the interior of Guadalcanal. As Shōji's troops endeavored to reach Japanese positions in another part of the island, they were pursued and attacked by a battalion-sized patrol of U.S. Marine Raiders."
+}, {
+  "entityIndex" : "entity26095",
+  "entityUrl" : "http://dbpedia.org/resource/Kivu_conflict",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Supported by:", "FDLR", "M27", "( (2014–present)", "(1993–2009 and", "(2006–present)", "(2014–present)", "(Against FNL and FNL-Nzabampema only)", "2010–2013)", "APCLS(2012–2013)", "CNDP(2006–2009)", "FDLR(2006–2014)", "FNL-Nzabampema(2013–present)", "FNL/Palipehutu", "M23(2012&ndash;2013)", "MONUSCO", "Nyatura", "Nyatura(2012–2014)", "Possibly supported by:", "Pro-GovernmentMai-Maimilitias", "RUD-Urunana" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Laurent_Nkunda", "http://dbpedia.org/resource/National_Forces_of_Liberation", "http://dbpedia.org/resource/Sylvestre_Mudacumura", "http://dbpedia.org/resource/Carlos_Alberto_dos_Santos_Cruz", "http://dbpedia.org/resource/Bosco_Ntaganda", "http://dbpedia.org/resource/Joseph_Kabila", "http://dbpedia.org/resource/José_Eduardo_dos_Santos", "http://dbpedia.org/resource/Agathon_Rwasa", "http://dbpedia.org/resource/Robert_Mugabe", "http://dbpedia.org/resource/Pierre_Nkurunziza", "http://dbpedia.org/resource/Mai-Mai", "http://dbpedia.org/resource/Babacar_Gaye", "http://dbpedia.org/resource/Ignace_Murwanashyaka", "http://dbpedia.org/resource/Callixte_Mbarushimana", "http://dbpedia.org/resource/Jean-Marie_Runiga_Lugerero", "http://dbpedia.org/resource/Sultani_Makenga", "http://dbpedia.org/resource/Leon_Mush_ale_Tsimpamba" ],
+    "dbo:date" : [ "2012-04-04", "2015-01-31" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Congo_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kivu", "http://dbpedia.org/resource/Katanga_Province", "http://dbpedia.org/resource/Burundi" ],
+    "dbo:result" : [ "*FDLR, Mai-Mai militias and other armed groups still present in Eastern DRC", "*CNDP becomes a political party in the DRC", "FARDC victory against CNDP and M23 Movement", "*M23 Movement signs peace agreement with the DRC government", "*UN and FARDC begin operation to defeat the FDLR and their allies at the start of 2015" ],
+    "dbo:strength" : [ "2,000 FDLR", "20,000 Congolese regulars (2007),", "22,016 UN Monusco Uniformed personnel (2013)", "3,000FNL/Palipehutu", "3,500 Mai-Mai militia (2008),", "5,500+ M23 (2012)", "6,000–7,000 FDLR (2008),", "6,000–8,000 CNDP (2007)", "Hundreds ofFNL-Nzabampema" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kivu.png?width=300" ],
+    "dbp:caption" : [ "Location of North Kivu and South Kivu in the Democratic Republic of the Congo.", "For the areas of influence of different armed groups as of October 2015, see this map" ],
+    "dbp:casualties" : [ "Unknown", "Tens of thousands of civilians killed", "hundreds of thousands of excess deaths,", "More than 1.4 million internally displaced persons," ],
+    "dbp:combatant" : [ "APCLS ( )", "Mai Mai Sheka", "Mai Mai Yakutumba", "Other Anti-Government Mai Mai Militas", "Raia Mutomboki" ],
+    "dbp:commander" : [ "Devos Kagalaba", "Janvier Buingo Karairi", "Ntabo Ntaberi Sheka", "Salumu Kaseke", "William Amuri Yakutumba" ],
+    "dbp:strength" : [ "1500", "10000", "Several Thousand Raia Mutomboki Militia" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kivu conflict began as an armed conflict between the military of the Democratic Republic of the Congo (FARDC) and the Hutu Power group Democratic Forces for the Liberation of Rwanda (FDLR) in 2004. The United Nations Mission in the Democratic Republic of Congo also became involved in the conflict. Until March 2009, the main combatant group against the FARDC was the rebel Tutsi forces formerly under the command of Laurent Nkunda (National Congress for the Defence of the People, CNDP). CNDP is sympathetic to the Banyamulenge in Eastern Congo, an ethnic Tutsi group, and to the Tutsi-dominated government of Rwanda. It was opposed by the FDLR, by the DRC's army, and by United Nations forces."
+}, {
+  "entityIndex" : "entity26096",
+  "entityUrl" : "http://dbpedia.org/resource/Kunduz_airlift",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Al-Qaeda", "Taliban", "United Front of Afghanistan(Northern Alliance)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_in_Afghanistan_(2001–present)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kunduz" ],
+    "dbo:result" : [ "about 5000Taliban,Al-Qaeda, PakistaniInter-Services Intelligenceand military personnel evacuated byPakistan Air Forceto northernPakistan" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Afghanistan-Kunduz.png?width=300" ],
+    "dbp:caption" : [ "Kunduz in northern Afghanistan" ],
+    "dbp:date" : [ "November 2001" ]
+  },
+  "text" : "The Kunduz airlift refers to the evacuation of thousands of top commanders and members of the Taliban and Al-Qaeda, their Pakistani advisers including Pakistani Inter-Services Intelligence agents and army personnel, and other Jihadi volunteers and sympathizers, from the city of Kunduz, Afghanistan, in November 2001 just before its capture by U.S. and United Front of Afghanistan (Northern Alliance) forces during the War in Afghanistan. As described in several reports, the Taliban and Al-Qaeda combatants were safely evacuated from Kunduz and airlifted by Pakistan Air Force cargo aircraft to Pakistan Air Force bases in Chitral and Gilgit in Pakistan-administered Kashmir's Northern Areas. According to the Los Angeles Times, during the siege of Kunduz, U.S. and Northern Alliance forces (led by Mohammad Daud Daud and Abdul Rashid Dostum) had declared that they would treat foreign fighters of the Taliban (including Pakistani military advisers as well as Pakistani and Arab volunteers) more severely than their Afghan counterparts. The Northern Alliance had earlier witnessed Pakistani and Arab involvement in several massacres perpetrated by the Taliban in Afghanistan. Pakistani leaders feared that revenge killings of Pakistanis in Kunduz could lead to unrest and instability in their country and therefore decided to evacuate their forces before the U.S. and Northern Alliance ground forces moved into Kunduz."
+}, {
+  "entityIndex" : "entity26097",
+  "entityUrl" : "http://dbpedia.org/resource/Kaunas_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "?" ],
+    "dbo:combatant" : [ "Germany" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Army_Group_Centre", "http://dbpedia.org/resource/Walter_Model", "http://dbpedia.org/resource/3rd_Belorussian_Front", "http://dbpedia.org/resource/Ivan_Chernyakhovsky" ],
+    "dbo:date" : [ "1944-08-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Operation_Bagration" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Lithuania", "http://dbpedia.org/resource/Kaunas" ],
+    "dbo:result" : [ "Soviet victory" ],
+    "dbo:strength" : [ "?" ],
+    "dbp:casualties" : [ "?" ]
+  },
+  "text" : "The Kaunas Offensive (Russian: Каунасская наступательная) was part of the third phase of the Belorussian Strategic Offensive of the Red Army in summer 1944, commonly known as Operation Bagration. The Kaunas offensive was executed by the 3rd Belorussian Front on July 28 – August 28, 1944, with the aim of destroying the German concentration on the western bank of the Neman river, the liberation of Kaunas, and reaching the boundaries of East Prussia."
+}, {
+  "entityIndex" : "entity26098",
+  "entityUrl" : "http://dbpedia.org/resource/Keelung_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "around 700 dead, several hundred wounded" ],
+    "dbo:combatant" : [ "China", "France" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Liu_Mingchuan", "http://dbpedia.org/resource/Sébastien_Lespès", "http://dbpedia.org/resource/Jacques_Duchesne", "http://dbpedia.org/resource/Amédée_Courbet" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sino-French_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Taiwan" ],
+    "dbo:result" : [ "Strategic and Tactical stalemate, French failure" ],
+    "dbo:strength" : [ "35,000 infantry (by March 1885", "4,500 infantry (by March 1885)", "twenty plus warships" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Landing_of_French_forces_at_Keelung.jpg?width=300" ],
+    "dbp:c" : [ "六堵" ],
+    "dbp:caption" : [ "--10-01" ],
+    "dbp:casualties" : [ "several thousand killed and wounded" ],
+    "dbp:date" : [ "August 1884 to March 1885" ],
+    "dbp:p" : [ "Liù-dǔ" ]
+  },
+  "text" : "The Keelung Campaign (August 1884–April 1885) was a controversial military campaign undertaken by the French in northern Formosa (Taiwan) during the Sino-French War. After making a botched attack on Keelung in August 1884, the French landed an expeditionary corps of 2,000 men and captured the port in October 1884. Unable to advance beyond their bridgehead, they were invested inside Keelung by superior Chinese forces under the command of the imperial commissioner Liu Ming-ch'uan. In November and December 1884 cholera and typhoid drained the strength of the French expeditionary corps, while reinforcements for the Chinese army flowed into Formosa via the Pescadores Islands, raising its strength to 35,000 men by the end of the war. Reinforced in January 1885 to a strength of 4,500 men, the French won two impressive tactical victories against the besieging Chinese in late January and early March 1885, but were not strong enough to exploit these victories. The Keelung campaign ended in April 1885 in a strategic and tactical stalemate. The campaign was criticised at the time by Admiral Amédée Courbet, the commander of the French Far East Squadron, as strategically irrelevant and a wasteful diversion of the French navy."
+}, {
+  "entityIndex" : "entity26099",
+  "entityUrl" : "http://dbpedia.org/resource/Kilmeena_ambush",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6 dead, 7 wounded" ],
+    "dbo:combatant" : [ "Royal Irish Constabulary", "border|22pxIrish Republican Army", "(West Mayo Brigade)", "(includingBlack and Tans)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Michael_Kilroy" ],
+    "dbo:date" : [ "1921-05-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Irish_War_of_Independence" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kilmeena", "http://dbpedia.org/resource/County_Mayo" ],
+    "dbo:result" : [ "IRA ambush fails and takes heavy casualties" ],
+    "dbo:strength" : [ "41 volunteers", "~50 men" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg?width=300" ],
+    "dbp:casualties" : [ "3" ],
+    "dbp:commander" : [ "DI Peter Donnellan" ],
+    "dbp:latitude" : [ "53.843" ],
+    "dbp:longitude" : [ "-9.529" ],
+    "dbp:mapMarksize" : [ "6" ],
+    "dbp:mapRelief" : [ "yes" ],
+    "dbp:mapSize" : [ "300" ],
+    "dbp:mapType" : [ "island of Ireland" ]
+  },
+  "text" : "The Kilmeena ambush was an action during the Irish War of Independence that took place at Kilmeena, County Mayo on 19 May 1921. The ambush ended in defeat for the local West Mayo Irish Republican Army (IRA), with six IRA volunteers killed and seven wounded. Two members of the Royal Irish Constabulary (RIC) and one Black and Tan were also killed in the action."
+}, {
+  "entityIndex" : "entity26100",
+  "entityUrl" : "http://dbpedia.org/resource/Kirghiz_rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Kirghizrebels", "Republic of ChinaNational Revolutionary Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Id_Mirab", "http://dbpedia.org/resource/Ma_Shaowu", "http://dbpedia.org/resource/Jin_Shuren", "http://dbpedia.org/resource/Osman_Ali_(Kirghiz)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Xinjiang_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Xinjiang", "http://dbpedia.org/resource/T'ien_Shan" ],
+    "dbo:result" : [ "Chinese victory" ],
+    "dbo:status" : [ "Chinese victory" ],
+    "dbo:strength" : [ "Kirghiz irregulars", "Unknown number ofChineseandChinese Muslimtroops" ],
+    "dbp:casualties" : [ "Heavy" ],
+    "dbp:date" : [ "1932" ]
+  },
+  "text" : "The Kirghiz rebellion occurred when Kyrgyz irregulars in Xinjiang revolted against the government. The leader of the rebellion was Id Mirab. The Chinese Muslim Taoyin of Kashgar, Ma Shaowu, ruthlessly crushed the Kirghiz rebels. The Soviet Union was also involved in suppressing the rebels."
+}, {
+  "entityIndex" : "entity26101",
+  "entityUrl" : "http://dbpedia.org/resource/Kumul_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:combatant" : [ "Empire of Japan", "Republic of China", "Soviet Union", "Supported by:", "National Revolutionary Army", "23pxAfghanistan", "First East Turkestan Republic", "Xinjiangprovincial government", "Anti-KemalistYoung Turks", "Kumul Khanateloyalists", "White Russian forces" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abdullah_Bughra", "http://dbpedia.org/resource/Ma_Shaowu", "http://dbpedia.org/resource/Ma_Zhancang", "http://dbpedia.org/resource/Yulbars_Khan", "http://dbpedia.org/resource/Zhang_Peiyuan", "http://dbpedia.org/resource/Ma_Hushan", "http://dbpedia.org/resource/Ma_Zhongying", "http://dbpedia.org/resource/Huang_Shaohong", "http://dbpedia.org/resource/Chiang_Kai-shek", "http://dbpedia.org/resource/Joseph_Stalin", "http://dbpedia.org/resource/Kamal_Kaya_Efendi", "http://dbpedia.org/resource/Sheng_Shicai", "http://dbpedia.org/resource/Khoja_Niyas_Hajji", "http://dbpedia.org/resource/Sabit_Damulla_Abdulbaki", "http://dbpedia.org/resource/Jin_Shuren", "http://dbpedia.org/resource/Muhammad_Amin_Bughra", "http://dbpedia.org/resource/Nur_Ahmad_Jan_Bughra", "http://dbpedia.org/resource/Tawfiq_Bey", "http://dbpedia.org/resource/Pavel_Pappengut", "http://dbpedia.org/resource/Isa_Yusif_Alptekin" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Xinjiang_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Xinjiang" ],
+    "dbo:result" : [ "Stalemate; leading to more fighting in theXinjiang Wars" ],
+    "dbo:strength" : [ "23px36th Division (National Revolutionary Army)around 10,000Chinese Muslimcavalry and infantry", "Thousands of Turkic Khotanlik Uyghur and Kirghiz Rebels", "Afghanvolunteers", "15,000 ChineseNew Guangxi Cliqueexpeditionary force (never deployed)", "Several thousand White Russian soldiers and Provincial Chinese troops, SomeChinese Muslimtroops", "Kumulik Uyghur peasant Army (Kumul Khanate loyalists)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Afghanistan_(1931–1973).svg?width=300" ],
+    "dbp:casualties" : [ "Thousands dead" ],
+    "dbp:date" : [ "1931" ]
+  },
+  "text" : "The Kumul Rebellion (Chinese: 哈密暴動 Hāmì bàodòng, \"Hami Uprising\") was a rebellion of Kumulik Uyghurs who conspired with Hui Chinese Muslim Gen. Ma Zhongying to overthrow Jin Shuren, governor of Xinjiang. The Kumul Uyghurs were loyalists of the Kumul Khanate and wanted to restore the heir to the Khanate and overthrow Jin. The Kuomintang wanted Jin removed because of his ties to the Soviet Union, so it approved of the operation while pretending to acknowledge Jin as governor. The rebellion then catapulted into large-scale fighting as Khotanlik Uyghur rebels in southern Xinjiang started a separate rebellion for independence in collusion with Kirghiz rebels. Various groups rebelled, and were not united; some even fighting against each other. The main part of the war was waged by Ma Zhongying against the Xinjiang government. He was supported by Chiang Kai-shek, the Premier of China, who secretly agreed to let Ma seize Xinjiang."
+}, {
+  "entityIndex" : "entity26102",
+  "entityUrl" : "http://dbpedia.org/resource/Kurdish_rebellion_of_1983",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "----", "Iraq", "Libya", "Supported by:", "22pxKurdistan Democratic Party", "Patriotic Union of Kurdistan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Saddam_Hussein", "http://dbpedia.org/resource/Jalal_Talabani", "http://dbpedia.org/resource/Massoud_Barzani", "http://dbpedia.org/resource/Ali_Hassan_al-Majid" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Iraqi–Kurdish_conflict", "http://dbpedia.org/resource/Iran–Iraq_War" ],
+    "dbo:result" : [ "Indecisive:", "* Kurdish KDP and PUK hold major enclaves in North Iraq", "* Beginning ofAl-Anfal campaign(1986–89) against the Kurds" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/IraqiKurdistan_DeFactoMap.png?width=300" ],
+    "dbp:caption" : [ "Kurdish controlled area of Iraq" ],
+    "dbp:casualties" : [ "At least 110,000 killed . 1 million refugees" ],
+    "dbp:date" : [ "September, 1983–1985/6" ],
+    "dbp:place" : [ "North Iraq" ],
+    "dbp:summary" : [ "Kurdish uprising against Iraqi government with Iranian support" ]
+  },
+  "text" : "The Kurdish rebellion of 1983 occurred during the Iran–Iraq war as PUK and KDP Kurdish militias of northern Iraq rebelled against Saddam Hussein, in an attempt to form their own autonomous country. With Iraqi occupation of the Iranian front, Kurdish Peshmerga combining the forces of KDP and PUK succeeded in retaining control of some enclaves with Iranian logistic and sometimes military support. The initial rebellion resulted in stalemate by 1985. The most violent phase of conflict between the Kurds and Iraqi Ba'athist regime was the following Al-Anfal Campaign of the Iraqi Army against the Kurdish minority, which took place between 1986–1988 and included the Halabja chemical attack. The Al-Anfal campaign ended in 1988 with an agreement of amnesty between the two belligerents, Iraqi government and Kurdish rebels. In the aftermath, no gains had been made by the Kurds and their losses can be measured in the immensity of human deaths."
+}, {
+  "entityIndex" : "entity26103",
+  "entityUrl" : "http://dbpedia.org/resource/Kura_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:combatant" : [ "BritishRAF", "Emir Abdullah's forces", "Sheikh Kulaib's militia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Emir_Abdullah" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Emirate_of_Transjordan" ],
+    "dbo:result" : [ "Rebellion defeated" ],
+    "dbp:casualties" : [ "15" ],
+    "dbp:commander" : [ "Sheikh Kulaib al-Shurayda" ],
+    "dbp:date" : [ "19211923" ]
+  },
+  "text" : "The Kura Rebellion was among the first uprisings against the British mandate and the authority of emir Abdullah in Transjordan. The rebellion, begun in 1921, under the slogan \"Jordan for Jordanians\", resulted in minor casualties and was at first pacified via negotiations and amnesty by the Hashemite ruler, but erupted again in 1923. The second insurrection of sheikh Kulaib al-Shurayda was crushed with the support of the British RAF."
+}, {
+  "entityIndex" : "entity26104",
+  "entityUrl" : "http://dbpedia.org/resource/Kholm_Pocket",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2000 wounded", "1500 death" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Theodor_Scherer", "http://dbpedia.org/resource/Makarjev" ],
+    "dbo:date" : [ "1942-05-05" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Russia", "http://dbpedia.org/resource/Kholm,_Kholmsky_District,_Novgorod_Oblast" ],
+    "dbo:result" : [ "German defensive success" ],
+    "dbo:strength" : [ "5,500", "20 tanks", "10 anti tank guns", "18 mortars", "33rd rifle division", "391st rifle division" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kessel_von_Cholm_-_Karte.png?width=300" ],
+    "dbp:casualties" : [ "20000" ]
+  },
+  "text" : "The Kholm Pocket (German: Kessel von Cholm; Russian: Холмский котёл) was the name given for the encirclement of German troops by the Red Army around Kholm south of Leningrad, during World War II on the Eastern Front, from 23 January 1942 until 5 May 1942. A much larger pocket was simultaneously surrounded in Demyansk, about 100 km (62 mi) to the northeast. These were the results of German retreat following their defeat during the Battle of Moscow. The air supply of Kholm and Demyansk, while successful, lead to an overconfidence in the German high command in regards to the Luftwaffe's ability to air supply encircled forces which would lead to disastrous consequences at the Battle of Stalingrad in late 1942 and early 1943."
+}, {
+  "entityIndex" : "entity26105",
+  "entityUrl" : "http://dbpedia.org/resource/Kamerun_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Britain: 917", "France: 906" ],
+    "dbo:combatant" : [ "*", "*British India", "France", "German Empire", "United Kingdom", "*French Equatorial Africa", "*British Nigeria", "*Kamerun" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Carl_Heinrich_Zimmermann", "http://dbpedia.org/resource/Joseph_Gaudérique_Aymerich", "http://dbpedia.org/resource/Charles_Macpherson_Dobell", "http://dbpedia.org/resource/Félix_Fuchs", "http://dbpedia.org/resource/Karl_Ebermaier", "http://dbpedia.org/resource/Frederick_Hugh_Cunliffe" ],
+    "dbo:date" : [ "1914-08-06" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/African_theatre_of_World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kamerun", "http://dbpedia.org/resource/Colony_and_Protectorate_of_Nigeria" ],
+    "dbo:result" : [ "Allied victory" ],
+    "dbo:strength" : [ "Total", "1914: 1,855", "1915: 6,000", "Belgian Congo: 600", "France: 7,000", "United Kingdom: 1,668" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/League_of_Nations_mandate" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/12pdr8cwtFortDachangCameroons1915.jpg?width=300" ],
+    "dbp:caption" : [ "British 12-pounder firing at Fort Dachang in 1915" ],
+    "dbp:casualties" : [ "German Empire:" ],
+    "dbp:units" : [ "http://dbpedia.org/resource/West_African_Frontier_Force", "http://dbpedia.org/resource/Schutztruppe", "Force Publique", "West India Regiment" ]
+  },
+  "text" : "The Kamerun Campaign took place in the German colony of Kamerun in the African theatre of the First World War when the British, French and Belgians invaded the German colony from August 1914 to March 1916. Most of the campaign took place in Kamerun but skirmishes also broke out in British Nigeria. By the Spring of 1916, following Allied victories, the majority of German troops and the civil administration fled to the neighbouring neutral colony of Spanish Guinea (Río Muni). The campaign ended in a defeat for Germany and the partition of its former colony between France and Britain."
+}, {
+  "entityIndex" : "entity26106",
+  "entityUrl" : "http://dbpedia.org/resource/Kolchak_army_offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "22pxRed Army", "22pxWhite Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Alexander_Dutov", "http://dbpedia.org/resource/Alexander_Kolchak", "http://dbpedia.org/resource/Hayk_Bzhishkyan", "http://dbpedia.org/resource/Mikhail_Frunze", "http://dbpedia.org/resource/Radola_Gajda", "http://dbpedia.org/resource/Georgii_Zinoviev", "http://dbpedia.org/resource/Mikhail_Hanzhin", "http://dbpedia.org/resource/Vasilii_Shorin", "http://dbpedia.org/resource/Žanis_Bļumbergs" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Russian_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ural_(region)", "http://dbpedia.org/resource/Volga_Region" ],
+    "dbo:result" : [ "White's victory" ],
+    "dbo:strength" : [ "111.000 men", "113.000 men", "379 guns", "more 200 guns" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/CampañaDePrimaveraDeKolchak1919.svg?width=300" ],
+    "dbp:caption" : [ "Kolchak's Army Offensive" ],
+    "dbp:date" : [ "March - April, 1919" ]
+  },
+  "text" : "Kolchak army offensive (March - April 1919) was an episode of the Russian Civil War."
+}, {
+  "entityIndex" : "entity26107",
+  "entityUrl" : "http://dbpedia.org/resource/Komenda_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Royal African Company, Takyi Kuma (Prince of Eguafo), Asebu (Akan kingdom), Cabess Terra (Akan kingdom), and Akani (Akan kingdom)", "Dutch West India Company, Takyi Kuma (Prince of Eguafo), Akani (Akan kingdom), Adom (Akan kingdom)", "Eguafo (some support by John Cabess)", "Eguafo, John Cabess, Akrons (Akan kingdom)", "Eguafo (partial support from the Dutch West India Company and Adom)", "Eguafo, John Cabess, Royal African Company, Denkyira (Akan kingdom), Fante (Akan kingdom), Asebu (Akan kingdom)", "Dutch West India Company, Cabess Terra (Akan kingdom), Twifo (Akan kingdom)", "Takyi Kuma (Prince of Eguafo), Royal African Company, Twifo (Akan kingdom), and John Cabess" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Komenda/Edina/Eguafo/Abirem_Municipal_District" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Forts_at_Komenda.jpg?width=300" ],
+    "dbp:date" : [ "1694", "1696", "1698", "1699" ],
+    "dbp:partof" : [ "Komenda Wars" ]
+  },
+  "text" : "The Komenda Wars were a series of wars from 1694 until 1700 largely between the Dutch West India Company and the British Royal African Company in the Eguafo Kingdom in the present day state of Ghana, over trade rights. The Dutch were trying to keep the British out of the region to maintain a trade monopoly while the British were attempting to re-establish a fort in the city of Komenda. The fighting included forces of the Dutch West India Company, the Royal African Company, the Eguafo Kingdom, a prince of the kingdom attempting to rise to the throne, the forces of a powerful merchant named John Cabess, other Akan tribes and kingdoms like Twifo and Denkyira. There were four separate periods of warfare, including a civil war in the Eguafo Kingdom, and the wars ended with the British placing Takyi Kuma into power in Eguafo. Because of the rapidly shifting alliances between European and African powers, historian John Thornton has found that \"there is no finer example of [the] complicated combination of European rivalry merging with African rivalry then the Komenda Wars.\""
+}, {
+  "entityIndex" : "entity26108",
+  "entityUrl" : "http://dbpedia.org/resource/Kachin_conflict",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "*Socialist Republic of the Union of Burma(1962–1988)", "*AFPFL", "*Tatmadaw", "*Union of Myanmar(1988–2011)", "Military governments(1962–2011)", "Republic of the Union of Myanmar", "(Former combatants:)", "*19px|link=Myanmar Police Force", "*Kachin Independence Army", "All Burma Students' Democratic Front", "Arakan Army(since 2011)", "Kachin Independence Organisation", "Union of Burma(1961–1962)" ],
+    "dbo:date" : [ "1961-02-05", "2011-06-09" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Internal_conflict_in_Myanmar" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kachin_State", "http://dbpedia.org/resource/Shan_State" ],
+    "dbo:status" : [ "Ceasefire signed by some groups; ongoing minor skirmishes" ],
+    "dbo:strength" : [ "600", "8,000", "20,000", "1,500–2,500" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Myanmar_Armed_Forces.svg?width=300" ],
+    "dbp:casualties" : [ "700", "100000" ],
+    "dbp:cause" : [ "Lack of ethnic minority rights" ]
+  },
+  "text" : "The Kachin conflict or Kachin War is one of multiple conflicts collectively referred to as the Internal conflict in Myanmar. Fighting between the Kachin Independence Army and government soldiers resumed in June 2011, after a 17-year-old ceasefire collapsed. The recent violence has resulted in the deaths of thousands of people, and the displacement of over 100,000 civilians. Widespread use of landmines, child soldiers, systematic rape and torture have been reported by both sides."
+}, {
+  "entityIndex" : "entity26109",
+  "entityUrl" : "http://dbpedia.org/resource/Kronstadt_rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "~1,000 killed in battle and 1,200 to 2,168 executed" ],
+    "dbo:combatant" : [ "*Red Army", "Armed citizens ofKronstadt", "Soviet Baltic Fleet sailors" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Leon_Trotsky", "http://dbpedia.org/resource/Stepan_Maximovich_Petrichenko", "http://dbpedia.org/resource/Mikhail_Tukhachevsky" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Russian_Civil_War", "http://dbpedia.org/resource/Left-wing_uprisings_against_the_Bolsheviks" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kotlin_Island", "http://dbpedia.org/resource/Kronstadt", "http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic" ],
+    "dbo:result" : [ "Bolshevik victory", "Uprising suppressed" ],
+    "dbo:strength" : [ "c. first assault: 10,073, second assault: 25,000 to 30,000", "c. first 11,000, second assault: 17,961" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kronstadt_attack.JPG?width=300" ],
+    "dbp:caption" : [ "Red Army troops attack Kronstadt." ],
+    "dbp:casualties" : [ "Second assault: 527–1,412; a much higher number if the first assault is included." ],
+    "dbp:casus" : [ "Anger over War communism economic policy" ],
+    "dbp:date" : [ "--03-07" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Kronstadt rebellion (Russian: Кронштадтское восстание, tr. Kronshtadtskoye vosstaniye) was a major unsuccessful uprising against the Bolsheviks in March 1921, during the later years of the Russian Civil War. Led by Stepan Petrichenko and consisting of Russian sailors, soldiers, and civilians, the rebellion was one of the reasons for Vladimir Lenin's and the Communist Party's decision to loosen its control of the Russian economy by implementing the New Economic Policy (NEP). The rebellion originated in Kronstadt, a naval fortress on Kotlin Island in the Gulf of Finland that served as the base of the Russian Baltic Fleet and as a guardpost for the approaches to Petrograd, 55 kilometres (34 mi) away. The rebellion was crushed by the Red Army after a 12-day military campaign, resulting in several thousand deaths."
+}, {
+  "entityIndex" : "entity26110",
+  "entityUrl" : "http://dbpedia.org/resource/Kanalkampf",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "4 destroyers", "RAF:", "(including neutral ships)", "115fightersdestroyed", "19 pilots wounded in action", "35 merchant ships sunk", "4 pilotsmissing in action", "42 fighters damaged", "7 fishing vessels", "71 pilotskilled in action", "Royal Navy:", "at least 176 sailors killed", "several naval vessels", "~300 casualties" ],
+    "dbo:combatant" : [ "*Foreign volunteers", "Poland", "Naval support:" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hugh_Dowding", "http://dbpedia.org/resource/Albert_Kesselring", "http://dbpedia.org/resource/Keith_Park", "http://dbpedia.org/resource/Hermann_Göring", "http://dbpedia.org/resource/Trafford_Leigh-Mallory", "http://dbpedia.org/resource/Wolfram_Freiherr_von_Richthofen", "http://dbpedia.org/resource/Hugo_Sperrle", "http://dbpedia.org/resource/Alfred_Saalwachter" ],
+    "dbo:date" : [ "1940-08-11" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Battle_of_Britain" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/English_Channel" ],
+    "dbo:result" : [ "German victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Convoy14july1940.jpg?width=300" ],
+    "dbp:caption" : [ "--07-14" ],
+    "dbp:casualties" : [ "1", "13", "16", "22", "33", "36", "75", "80", "100", "201", "277", "~4", "Kriegsmarine:", "Luftwaffe:" ],
+    "dbp:portal" : [ "Military of Germany", "Royal Air Force", "World War II", "Royal Navy" ],
+    "dbp:units" : [ "11", "Luftflotten 2 and 3" ]
+  },
+  "text" : "The Kanalkampf (Channel Battle) was the German name for air operations by the German Luftwaffe against the British Royal Air Force (RAF) over the English Channel, which marked the beginning of the Battle of Britain in July 1940, during the Second World War. By 25 June, the Allies had been defeated in Western Europe and Scandinavia. Britain rejected peace overtures and on 16 July, Adolf Hitler issued Directive 16 to the Wehrmacht (German armed forces), ordering preparations for the invasion of Britain, under the codename Unternehmen Seelöwe (Operation Sea Lion). The Germans needed air superiority over southern England before the invasion and the Luftwaffe was to destroy the RAF, assume command of the skies and protect the cross-channel invasion from the Royal Navy. To engage RAF Fighter Command, the Luftwaffe attacked convoys in the English Channel, which began the Battle of Britain. There is some dispute among historians about the dates for the beginning and end of the battle and British histories usually treat 10 July as the beginning. British and German writers and historians acknowledge that air battles were fought over the Channel between the Battle of France and Britain; deliberate German attacks against British coastal targets and convoys began on 4 July. During the Kanalkampf, the Luftwaffe received modest support from the E-Boats of the Kriegsmarine (German navy). Fighter Command could not adequately protect convoys and the Germans sank several British and neutral ships, at considerable cost to Fighter Command. The Royal Navy was forced to order a cessation of large convoys in Channel waters and close it to ocean-going vessels until more protection could be arranged after several weeks. On 1 August, Hitler issued Directive 17, extending Luftwaffe operations to the British mainland and RAF-related targets and on Adlertag (Eagle Day, 13 August) the main air offensive against the RAF began. The Kanalkampf had drawn out Fighter Command as intended and convoy attacks continued for several more days. Both sides had suffered losses but the Luftwaffe failed to inflict a decisive defeat on Fighter Command and the RAF; the Luftwaffe had yet to gain air superiority for Operation Sealion."
+}, {
+  "entityIndex" : "entity26111",
+  "entityUrl" : "http://dbpedia.org/resource/Kyrenia_Castle_Escape",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "EOKA" ],
+    "dbo:date" : [ "1955-09-23" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cyprus_Emergency" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Cyprus", "http://dbpedia.org/resource/Kyrenia" ],
+    "dbo:result" : [ "successful prison escape byEOKAprisoners" ]
+  },
+  "text" : "The Kyrenia Castle Escape took place early in the Cyprus Emergency. A number of the EOKA were being held prisoner at Kyrenia Castle and on 23 September 1955, sixteen of them escaped by climbing down sheets tied to be a rope. The escapees were: Marcos Drakos, Christakis Eleftheriou, Evangelos Evangelakis, Mikis Fyrillas, Lambros Kafkallides, Constantinos Loizou, Pavlos Nikitas, Petros Papaioannou, Panayiotis Papanastasiou, Andreas Polyviou, Michalakis Rossides, Lefkios Rodosthenous, Stelios Siamisis, Petros Stylianou, Demos Vryonides, Charilaos Xenofontos. Seven were caught but the other nine - Evangelakis, Xenofontos, Kafkalides, Drakos, Rodosthenous, Fyrillas, Polyviou, Eleftheriou, and Nikitas - joined EOKA guerrilla outfits. The incident was extremely embarrassing to the British government. Evangelakis was recaptured in February 1957. Firillas was recaptured in April 1957."
+}, {
+  "entityIndex" : "entity26112",
+  "entityUrl" : "http://dbpedia.org/resource/Kongo-Wara_rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "10,000-100,000" ],
+    "dbo:combatant" : [ "----", "Co-belligerents:", "France", "*French Equatorial Africa", "*French Cameroon", "Fula people", "Gbaya peopleand clans", "Gbayachiefdoms", "Goundi people", "Mbai people", "Mbimou people", "Mbum people", "Pana people", "Yangere people" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/French_Equatorial_Africa", "http://dbpedia.org/resource/French_Cameroon" ],
+    "dbo:result" : [ "Rebellion defeated" ],
+    "dbo:strength" : [ "unknown", "290,000 villagers", "60,000 warriors" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:commander" : [ "Paul Germain", "Auguste Lamblin", "Bissi", "Gaetan Germain", "Karnou", "Lt. Boutin", "Pierre Crubillé", "Yandjere" ],
+    "dbp:date" : [ "1928" ]
+  },
+  "text" : "The Kongo-Wara rebellion, also known as the War of the Hoe Handle and the Baya War, was a rural, anticolonial rebellion in the former colonies of French Equatorial Africa and French Cameroon which began as a result of recruitment of the native population in railway construction and rubber tapping. It was the smallest and least well-known of the French colonial uprisings during the interwar period. Much of the conflict took place in what is now part of the Central African Republic."
+}, {
+  "entityIndex" : "entity26113",
+  "entityUrl" : "http://dbpedia.org/resource/Kalkadoon_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "British colonists", "Kalkadoon people" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Queensland", "http://dbpedia.org/resource/Mount_Isa" ],
+    "dbo:result" : [ "British victory" ],
+    "dbp:casualties" : [ "900" ],
+    "dbp:date" : [ "1870" ]
+  },
+  "text" : "The Kalkadoon Wars were a series of encounters between European colonists and the Kalkadoon people of Australia. Europeans started settling in the Kalkadoon's homelands around 1860. At first relations were peaceful but as numbers of new settlers increased, things became more hostile and the Kalkadoons eventually resorted to guerrilla war."
+}, {
+  "entityIndex" : "entity26114",
+  "entityUrl" : "http://dbpedia.org/resource/Kumanovo_Uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown number of deaths, 150POW(20 May)" ],
+    "dbo:combatant" : [ "Local Serbian-oriented rebels" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hafuz_Pasha" ],
+    "dbo:date" : [ "1878-05-20" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Ottoman–Serbian_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kratovo_Municipality", "http://dbpedia.org/resource/Kriva_Palanka_Municipality", "http://dbpedia.org/resource/Kosovo_Vilayet", "http://dbpedia.org/resource/Republic_of_Macedonia", "http://dbpedia.org/resource/Kumanovo_district_(Ottoman)" ],
+    "dbo:result" : [ "Ottoman victory" ],
+    "dbo:strength" : [ "Unknown", "ca. 1,000 (21 January)" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:commander" : [ "See note" ],
+    "dbp:latitude" : [ "42.1358" ],
+    "dbp:longitude" : [ "21.7181" ],
+    "dbp:mapCaption" : [ "Location of Kumanovo in the Republic of Macedonia" ],
+    "dbp:mapRelief" : [ "yes" ],
+    "dbp:mapType" : [ "Macedonia" ]
+  },
+  "text" : "The Kumanovo Uprising was an uprising organized by an assembly of chiefs of the districts (Ottoman kaza) of Kumanovo, Kriva Palanka, and Kratovo in the Vilayet of Kosovo (in modern-day northern Republic of Macedonia) in 1878. The movement sought to liberate the region from the hands of the Ottoman Empire and unify it with the Principality of Serbia, which was at war with the Ottomans at the time. Following the Serbian Army's liberation of Niš on 31 December 1877, the rebellion began on 20 January 1878 with guerrilla fighting during the army's liberation of Vranje. The rebels received secret aid from the Serbian government. The uprising lasted four months until its suppression by the Ottomans on 20 May, during which the Ottomans retaliated with atrocities on the local population."
+}, {
+  "entityIndex" : "entity26115",
+  "entityUrl" : "http://dbpedia.org/resource/Khorasan_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "negligible" ],
+    "dbo:combatant" : [ "Safavid Loyalists", "Separatists in Kohorasan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Tahmasp_II", "http://dbpedia.org/resource/Nader_Shah" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Nader's_Campaigns" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Greater_Khorasan" ],
+    "dbo:result" : [ "Decisive Safavid victory" ],
+    "dbo:strength" : [ "30,000", "Unknown" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Afghanistan_during_the_Safavid_and_Moghul_Empire.jpg?width=300" ],
+    "dbp:caption" : [ "An accurate map of Persia by Emanuel Bowen showing the names of territories during the Persian Safavid dynasty and Mughal Empire of India" ],
+    "dbp:casualties" : [ "minimal" ],
+    "dbp:commander" : [ "Malek Mahmoud Sistani", "Pir Mohammad" ],
+    "dbp:date" : [ "1726" ],
+    "dbp:territory" : [ "The capital of Khorasan, Mashad, comes under loyalist control" ]
+  },
+  "text" : "The Conquest of Khorasan by Safavid loyalist forces against separatists in Khorasan was Nader's first major military campaign which he waged on behalf of the new Safavid pretender to the throne, Tahmasp II. It would propel him into the centre of the political landscape of war torn early eighteenth century Persia."
+}, {
+  "entityIndex" : "entity26116",
+  "entityUrl" : "http://dbpedia.org/resource/Kublai_Khan's_Campaigns",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Total: 250,000+ dead" ],
+    "dbo:combatant" : [ "*Yuan dynasty", "Mongol Empire", "Java", "*Champa", "*Goryeo", "*Pagan Empire", "*Song dynasty", "*border|22pxKamakura shogunate", "*Đại Việtunder theTrần dynasty" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Kublai_Khan", "http://dbpedia.org/resource/Trần_Nhân_Tông", "http://dbpedia.org/resource/Wonjong_of_Goryeo", "http://dbpedia.org/resource/Hōjō_Tokimune", "http://dbpedia.org/resource/Emperor_Gong_of_Song", "http://dbpedia.org/resource/Emperor_Duanzong_of_Song", "http://dbpedia.org/resource/Emperor_Duzong_of_Song", "http://dbpedia.org/resource/Emperor_Lizong_of_Song", "http://dbpedia.org/resource/Narathihapate", "http://dbpedia.org/resource/Emperor_Huaizong_of_Song" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Mongol_invasions_and_conquests" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Japan", "http://dbpedia.org/resource/Java", "http://dbpedia.org/resource/Vietnam", "http://dbpedia.org/resource/Burma" ],
+    "dbo:result" : [ "Conquest of Song China and Upper Burma", "Decisive victory for Japan, Java & Vietnam", "Rise of theYuan dynasty" ],
+    "dbo:strength" : [ "1,500,000+ Chinese", "100,000 Chinese", "120,000+ Japanese", "40,000 Koreans", "450,000 Moguls", "Total: 1,610,000+", "Total: 581,000+" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Yuan_Dynasty_1294.png?width=300" ],
+    "dbp:caption" : [ "The Yuan dynasty under Kublai Khan after the conquest of Southern Song dynasty." ],
+    "dbp:casualties" : [ "Total: Over 10,000,000 including Chinese Civilians" ],
+    "dbp:date" : [ "1266" ]
+  },
+  "text" : "This is a list of campaigns of Kublai Khan, founder of the Yuan dynasty."
+}, {
+  "entityIndex" : "entity26117",
+  "entityUrl" : "http://dbpedia.org/resource/Katanga_insurgency",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "*", "FDLR", "Alleged Support:", "CPK", "MONUSCO", "CORAK", "Elements of the FARDC", "Katangese Businessmen", "Mai Mai Gédéon", "Mai Mai Kata Katanga", "Mai Mai Yakutumba", "Self-defence groups" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Martin_Kobler", "http://dbpedia.org/resource/Sylvestre_Mudacumura", "http://dbpedia.org/resource/Rombault_Mbuayama_Nsiona", "http://dbpedia.org/resource/Joseph_Kabila", "http://dbpedia.org/resource/Ignace_Murwanashyaka", "http://dbpedia.org/resource/Callixte_Mbarushimana", "http://dbpedia.org/resource/Gédéon_Kyungu_Mutanga", "http://dbpedia.org/resource/Alain_Ilunga_Mukalyi", "http://dbpedia.org/resource/Ferdinand_Tanda_Imena", "http://dbpedia.org/resource/Fidel_Ntumbi", "http://dbpedia.org/resource/Pacifique_Masunzu", "http://dbpedia.org/resource/Yesu_Mulongo" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo" ],
+    "dbo:result" : [ "Ongoing" ],
+    "dbo:strength" : [ "150,000FARDC", "*100 special forces", "*450 troops", "1,000-3,000", "6,000-7,000 in the entire DRC", "670MONUSCO" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Mai_Mai_Katanga.jpg?width=300" ],
+    "dbp:caption" : [ "Mai Mai militants surrendering in northern Katanga." ],
+    "dbp:casualties" : [ "585", "600000", "Unknown" ],
+    "dbp:date" : [ "July 1960 – present" ]
+  },
+  "text" : "The Katanga insurgency refers to the ongoing rebellion by a number of rebel groups in the Democratic Republic of the Congo some of which aim for the creation of a separate state within Katanga. While the insurgency has been active in various forms since 1960, insurgent groups have recently redoubled their efforts after the 2011 jail break that freed Gédéon Kyungu Mutanga, who now commands the majority of the Katangese Separatist groups. Since 2,000 FDLR insurgents have been engaged in a low level military conflict with the FARDC and various Katangese separatist groups; the FDLR are mostly active in the north-eastern portion of Katanga province near the border with South Kivu. The conflict in the region has caused an exodus of around 600,000 refugees to various other parts of the DRC and an unknown number of civilians have died as a result of the conflict."
+} ]

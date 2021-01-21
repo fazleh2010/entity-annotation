@@ -1,0 +1,125 @@
+[ {
+  "entityIndex" : "entity28548",
+  "entityUrl" : "http://dbpedia.org/resource/Xinhai_Revolution",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "~170,000" ],
+    "dbo:combatant" : [ "Gelaohui", "Tongmenghui" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Puyi", "http://dbpedia.org/resource/Li_Yuanhong", "http://dbpedia.org/resource/Ma_Anliang", "http://dbpedia.org/resource/Ma_Qi", "http://dbpedia.org/resource/Chen_Qimei", "http://dbpedia.org/resource/Feng_Guozhang", "http://dbpedia.org/resource/Sun_Yat-sen", "http://dbpedia.org/resource/Yuan_Shikai", "http://dbpedia.org/resource/Song_Jiaoren", "http://dbpedia.org/resource/Yang_Zengxin", "http://dbpedia.org/resource/Nobility", "http://dbpedia.org/resource/Duan_Qirui", "http://dbpedia.org/resource/Huang_Xing" ],
+    "dbo:date" : [ "1911-10-10", "1912-02-12" ],
+    "dbo:result" : [ "* Abdication ofPuyi", "* Downfall of theQing dynasty", "* Victory of theChinese Revolutionary Alliance", "* Establishment of theProvisional Government of the Republic of China" ],
+    "dbo:strength" : [ "100,000", "200,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Xinhai_Revolution_in_Shanghai.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:c" : [ "辛亥革命" ],
+    "dbp:caption" : [ "http://dbpedia.org/resource/Yuan_Shikai", "http://dbpedia.org/resource/Li_Hongzhang", "http://dbpedia.org/resource/Zhang_Zhidong", "Double Ten Revolution in Shanghai. The picture above is Nanjing Road after the [[#Shanghai Armed Uprising" ],
+    "dbp:casualties" : [ "~50,000" ],
+    "dbp:casus" : [ "http://dbpedia.org/resource/Wuchang_Uprising" ],
+    "dbp:direction" : [ "horizontal" ],
+    "dbp:footer" : [ "1.4832072E9", "Yuan rose to power in north China and built the Beiyang Army.", "Two important Qing figures at the time", "After the failure of the Hundred Days' Reform in 1898, Guangxu's advisors Kang Youwei  and Liang Qichao  fled into exile, while Tan Sitong  was executed. In Canada, Kang and Liang formed the Emperor Protection Society to promote constitutional monarchy for China. In 1900, they supported an unsuccessful uprising in central China to rescue Guangxu. After the Xinhai Revolution, Liang became a Minister of Justice of the Republic of China. Kang remained a royalist and supported restoring the last Qing emperor Puyi in 1917." ],
+    "dbp:footerAlign" : [ "left", "left/right/center" ],
+    "dbp:headerAlign" : [ "left/right/center", "right" ],
+    "dbp:image" : [ "Beiyang Army.jpg", "Kang Youwei circa 1920.jpg", "Li Hung-Chang, c. 1896.jpg", "MinistroDeJusticiaLiangQichao.jpg", "Postcard of Emperor Guangxu.jpg", "Tansitong.jpg", "Yuan Shikai as governor of shandong.jpg", "Zhang Zhitong-1.jpg", "The Portrait of the Qing Dynasty Cixi Imperial Dowager Empress of China in the 1900s.PNG" ],
+    "dbp:j" : [ "San1-hoi6 gaak3-ming6" ],
+    "dbp:l" : [ "\"Xinhai  revolution\"" ],
+    "dbp:p" : [ "Xīnhài gémìng" ],
+    "dbp:pic" : [ "Xinhai Revolution .svg" ],
+    "dbp:piccap" : [ "\"Xinhai Revolution\" in Chinese characters" ],
+    "dbp:picsize" : [ "175" ],
+    "dbp:place" : [ "China" ],
+    "dbp:poj" : [ "Sen-hāi kek-bēng" ],
+    "dbp:w" : [ "Hsin1-hai4 kê2-ming4" ],
+    "dbp:width" : [ "91", "110", "118", "122", "125", "142", "158", "230" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ],
+    "dbp:y" : [ "Sān-hoih gaak-mihng" ]
+  },
+  "text" : "The Xinhai Revolution (Chinese: 辛亥革命; pinyin: Xīnhài gémìng), also known as the Revolution of 1911, or the Chinese Revolution (though this term may also refer to a number of other events), was a revolution that overthrew China's last imperial dynasty (the Qing dynasty), and established the Republic of China (ROC). The revolution was named Xinhai (Hsin-hai) because it occurred in 1911, the year of the Xinhai (辛亥) stem-branch in the sexagenary cycle of the Chinese calendar. The revolution consisted of many revolts and uprisings. The turning point was the Wuchang Uprising on October 10, 1911, that was a result of the mishandling of the Railway Protection Movement. The revolution ended with the abdication of the six-year-old \"Last Emperor\", Puyi, on February 12, 1912, that marked the end of 2,000 years of imperial rule and the beginning of China's early republican era (1912–16). The revolution arose mainly in response to the decline of the Qing state, which had proven ineffective in its efforts to modernize China and confront foreign aggression, and was exacerbated by ethnic resentment against the ruling Manchu minority. Many underground anti-Qing groups, with the support of Chinese revolutionaries in exile, tried to overthrow the Qing. The brief civil war that ensued was ended through a political compromise between Yuan Shikai, the late Qing military strongman, and Sun Yat-sen, the leader of the Tongmenghui (United League). After the Qing court transferred power to the newly founded republic, a provisional coalition government was created along with the National Assembly. However, political power of the new national government in Beijing was soon thereafter monopolized by Yuan and led to decades of political division and warlordism, including several attempts at imperial restoration. The Republic of China in Taiwan and the People's Republic of China on the mainland consider themselves the legitimate successors to the Xinhai Revolution and revere the ideals of the revolution including nationalism, republicanism, modernization of China and national unity. October 10 is commemorated in Taiwan as Double Ten Day, the National Day of the ROC. In mainland China, Hong Kong and Macau, the same day is usually celebrated as the Anniversary of the Xinhai Revolution. Many overseas Chinese also celebrate the anniversary in Chinatowns across the world."
+}, {
+  "entityIndex" : "entity28549",
+  "entityUrl" : "http://dbpedia.org/resource/Xincheng_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Cao Wei", "Meng Da" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Meng_Da", "http://dbpedia.org/resource/Sima_Yi" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Three_Kingdoms" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Zhushan_County", "http://dbpedia.org/resource/Baokang_County", "http://dbpedia.org/resource/Nanzhang_County", "http://dbpedia.org/resource/Zhuxi_County", "http://dbpedia.org/resource/Xiangyang", "http://dbpedia.org/resource/Shiyan", "http://dbpedia.org/resource/Hubei", "http://dbpedia.org/resource/Commandery_(China)" ],
+    "dbo:result" : [ "Cao Wei victory; rebellion suppressed" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Defeat_of_Meng_Da.jpg?width=300" ],
+    "dbp:caption" : [ "An illustration of Meng Da being slain by Sima Yi's men" ],
+    "dbp:date" : [ "12" ],
+    "dbp:p" : [ "Xīnchéng zhī luàn" ],
+    "dbp:s" : [ "新城之乱" ],
+    "dbp:t" : [ "新城之亂" ],
+    "dbp:territory" : [ "Xincheng retaken by Cao Wei" ]
+  },
+  "text" : "The Xincheng Rebellion was a revolt that took place in the state of Cao Wei between late 227 and early 228 CE during the Three Kingdoms period. The rebellion was initiated by Meng Da, a former Shu Han general who defected to Wei and was placed in charge of Xincheng commandery (located in the vicinity of present-day northwestern Hubei) in Jing Province. The revolt was swiftly suppressed within a month by the Wei general Sima Yi. Meng Da was captured and executed."
+}, {
+  "entityIndex" : "entity28550",
+  "entityUrl" : "http://dbpedia.org/resource/XYZ_Line",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "5,000" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/José_Solchaga", "http://dbpedia.org/resource/José_Enrique_Varela", "http://dbpedia.org/resource/Mario_Berti", "http://dbpedia.org/resource/Gustavo_Duran", "http://dbpedia.org/resource/Coronel_Carlos_Romero_Giménez" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Spain" ],
+    "dbo:result" : [ "Republican victory" ],
+    "dbo:strength" : [ "400 aircraft", "125,000", "900-1,000 cannons" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Rubielos_de_Mora_1938.jpg?width=300" ],
+    "dbp:caption" : [ "Morrocan troops in Rubielos de Mora, 1938." ],
+    "dbp:casualties" : [ "20000" ],
+    "dbp:date" : [ "--07-18" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The XYZ Line, or Matallana Line, was a system of fortifications built during the Spanish Civil War in order to defend the capital of the Second Spanish Republic in Valencia, Spain. Unlike the Maginot Line, or the Iron Belt (\"Cinturón de Hierro\") of Bilbao, which were expensive systems of fortifications and bunkers made of reinforced concrete, the XYZ Line was a simpler system of defenses in depth consisting of trenches and bunkers that took advantage of some of the most difficult terrain in Spain in the Iberian System ranges to the north and northeast of Valencia. The defenses were built to withstand bombardment by either heavy artillery or 1,000-pound aerial bombs."
+}, {
+  "entityIndex" : "entity28551",
+  "entityUrl" : "http://dbpedia.org/resource/Xenophobia_in_South_Africa",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:place" : [ "http://dbpedia.org/resource/Durban", "http://dbpedia.org/resource/South_Africa", "http://dbpedia.org/resource/Gauteng", "http://dbpedia.org/resource/Mpumalanga" ],
+    "dbo:result" : [ "62 people dead, several hundred injured, voluntary deportation of immigrants to home countries, destruction of immigrant-owned property" ],
+    "dbp:bot" : [ "InternetArchiveBot" ],
+    "dbp:caption" : [ "Map of South Africa" ],
+    "dbp:date" : [ "July 2016", "May 2008" ],
+    "dbp:fixAttempted" : [ "yes" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Prior to 1994, immigrants from elsewhere faced discrimination and even violence in South Africa, though much of that risk stemmed from the institutionalised racism of the time due to apartheid. After democratisation in 1994, contrary to expectations, the incidence of xenophobia increased. Between 2000 and March 2008, at least 67 people died in what were identified as xenophobic attacks. In May 2008, a series of attacks left 62 people dead; although 21 of those killed were South African citizens. The attacks were apparently motivated by xenophobia. In 2015, another nationwide spike in xenophobic attacks against immigrants in general prompted a number of foreign governments to begin repatriating their citizens."
+}, {
+  "entityIndex" : "entity28552",
+  "entityUrl" : "http://dbpedia.org/resource/Xinhai_Revolution_in_Xinjiang",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Qing Empire", "border|20pxGelaohuiandIliRevolutionaires" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Guangfu", "http://dbpedia.org/resource/Wang_Peilan", "http://dbpedia.org/resource/Yang_Zuanxu", "http://dbpedia.org/resource/Zhirui", "http://dbpedia.org/resource/Yuan_Dahua" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Xinhai_Revolution" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Xinjiang" ],
+    "dbo:result" : [ "Qing defeat" ],
+    "dbo:strength" : [ "Manchu bannermen", "Several thousand Provincial Chinese troops", "Gelaohuirebels and Ili Revolutionaries, made out of Han Chinese, Hui Muslims, and Uyghurs" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Chinese-Army-Wuhan-Flag-1911-1928_dots18.svg?width=300" ],
+    "dbp:date" : [ "1911" ]
+  },
+  "text" : "The Xinhai Revolution in Xinjiang refers to the fighting that took place in Xinjiang during the Xinhai Revolution."
+}, {
+  "entityIndex" : "entity28553",
+  "entityUrl" : "http://dbpedia.org/resource/Xinjiang_conflict",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "People's Republic of China", "Supported by:", "al-Qaeda", "Tehrik-i-Taliban Pakistan", "*People's Liberation Army", "Islamic Movement of Uzbekistan", "Grey Wolves", "(1969–1989)", "*People's Armed Police", "ETESA", "ETLO(2000–2003)", "ETPRP", "Hizb ut-Tahrir", "Islamic Jihad Union", "Mongolian People's Republic(1960–1989)", "Soviet Union(1969–1989)", "Turkistan Islamic Party", "URFET" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abdul_Haq_(ETIP)", "http://dbpedia.org/resource/Jiang_Zemin", "http://dbpedia.org/resource/Hasan_Mahsum", "http://dbpedia.org/resource/Abdullah_Mansour", "http://dbpedia.org/resource/Deng_Xiaoping", "http://dbpedia.org/resource/Mao_Zedong", "http://dbpedia.org/resource/Abdul_Shakoor_al-Turkistani", "http://dbpedia.org/resource/Hu_Jintao", "http://dbpedia.org/resource/Hua_Guofeng", "http://dbpedia.org/resource/Xi_Jinping", "http://dbpedia.org/resource/Yusupbek_Mukhlisi" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_on_Terror", "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Xinjiang", "http://dbpedia.org/resource/China" ],
+    "dbo:status" : [ "Ongoing" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Xinjiang_in_China_(de-facto).svg?width=300" ],
+    "dbp:author" : [ "Abdullah Mansour, leader of the Uyghur separatist movement Turkistan Islamic Party", "Abdul Haq , a commander in the Uyghur separatist movement Turkistan Islamic Party ." ],
+    "dbp:caption" : [ "Xinjiang region in China" ],
+    "dbp:casualties" : [ "~1,000 killed" ],
+    "dbp:date" : [ "1960.0" ],
+    "dbp:p" : [ "Bǎohù zōngjiào, shā Hàn miè Huí" ],
+    "dbp:s" : [ "保护宗教，杀汉灭回" ],
+    "dbp:source" : [ "--08-26" ],
+    "dbp:t" : [ "保護宗教，殺漢滅回" ],
+    "dbp:text" : [ "We have to conquer our own country and purify it of all infidels. Then, we should conquer the infidels’ countries and spread Islam. The infidels who are usurping our countries have announced war against Islam and Muslims, forcing Muslims to abandon Islam and change their beliefs.", "Our group, the Turkistan Islamic Party, is a group established as a continuation of the East Turkistan Jihad Movement in the year of 1989 under the unique leadership of Ziyauddin Yusuf." ]
+  },
+  "text" : "The Xinjiang conflict is an ongoing separatist conflict in China's far-west province of Xinjiang, whose northern region is known as Dzungaria and whose southern region the Tarim Basin is known as East Turkestan. Uyghur separatists and independence movements claim that the region is not a part of China, but that the Second East Turkestan Republic was illegally incorporated by the PRC in 1949 and has since been under Chinese occupation. The East Turkestan independence movement is led by Turkic Islamist militant organizations, most notably the Turkistan Islamic Party (formerly the East Turkestan Islamic Movement), against the government in Beijing."
+} ]

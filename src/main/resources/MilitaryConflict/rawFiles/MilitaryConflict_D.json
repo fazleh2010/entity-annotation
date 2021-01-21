@@ -1,0 +1,1295 @@
+[ {
+  "entityIndex" : "entity25312",
+  "entityUrl" : "http://dbpedia.org/resource/Doolittle_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "15 B-25s", "3 dead", "8POWs (4 died in captivity: 3 executed, 1 by disease)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Prince_Naruhiko_Higashikuni", "http://dbpedia.org/resource/Jimmy_Doolittle" ],
+    "dbo:date" : [ "1942-04-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Tokyo" ],
+    "dbo:result" : [ "* US propaganda victory; US morale improved, Japanese weakened", "* No significant military effect" ],
+    "dbo:strength" : [ "8 destroyers", "* 80 airmen (52 officers, 28 enlisted)", "16B-25 Mitchell medium bombers", "2 aircraft carriers", "4 cruisers", "Unknown number of troops and homeland defense" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Army_B-25_(Doolittle_Raid).jpg?width=300" ],
+    "dbp:caption" : [ "A B-25 taking off from  for the raid" ],
+    "dbp:casualties" : [ "* About 50 dead, 400 injured" ],
+    "dbp:description" : [ "of Doolittle Raid" ],
+    "dbp:id" : [ "Doolittle_Raid_Launch_Footage_1942" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Doolittle Raid, also known as the Tokyo Raid, on Saturday, April 18, 1942, was an air raid by the United States of America on the Japanese capital Tokyo and other places on the island of Honshu during World War II, the first air strike to strike the Japanese Home Islands. It demonstrated that Japan itself was vulnerable to American air attack, served as retaliation for the Japanese attack on Pearl Harbor on Sunday, December 7, 1941, and provided an important boost to American morale. The raid was planned and led by Lieutenant Colonel James \"Jimmy\" Doolittle of the United States Army Air Forces. Sixteen B-25B Mitchell medium bombers were launched without fighter escort from the U.S. Navy's aircraft carrier USS Hornet deep in the Western Pacific Ocean, each with a crew of five men. The plan called for them to bomb military targets in Japan, and to continue westward to land in China—landing a medium bomber on Hornet was impossible. Fifteen aircraft reached China, but all crashed, while the 16th landed at Vladivostok in the Soviet Union. All but three of the 80 crew members initially survived the mission. Eight airmen were captured by the Japanese Army in China; three of those were later executed. The B-25 that landed in the Soviet Union was confiscated and its crew interned for more than a year. Fourteen complete crews, except for one crewman who was killed in action, returned either to the United States or to American forces. After the raid, the Japanese Imperial Army conducted a massive sweep through the eastern coastal provinces of China, in an operation now known as the Zhejiang-Jiangxi Campaign, searching for the surviving American airmen and inflicting retribution on the Chinese who aided them, in an effort to prevent this part of China from being used again for an attack on Japan. The raid caused negligible material damage to Japan, but it achieved its goal of raising American morale and casting doubt in Japan on the ability of its military leaders to defend their home islands. It also contributed to Admiral Isoroku Yamamoto's decision to attack Midway Island in the Central Pacific—an attack that turned into a decisive strategic defeat of the Imperial Japanese Navy (IJN) by the U.S. Navy in the Battle of Midway. Doolittle, who initially believed that the loss of all his aircraft would lead to his court-martial, received the Medal of Honor and was promoted two steps to brigadier general."
+}, {
+  "entityIndex" : "entity25313",
+  "entityUrl" : "http://dbpedia.org/resource/Dominion_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Supported by:", "'''Dominion", "*Bajorans (2374-2375)", "*BreenConfederacy (2375)", "*Cardassian Liberation Front(2375)", "*Cardassian Union(2373-2375)", "*Cardassian Union(Battle of Cardassia only)", "*Dominion", "*Klingon Empire", "*Romulan Star Empire(2374-2375)", "*Son'a", "*United Federation of Planets", "Alliance'''", "Federation Alliance" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/United_Federation_of_Planets", "http://dbpedia.org/resource/Admiral_Ross", "http://dbpedia.org/resource/Damar_(Star_Trek)", "http://dbpedia.org/resource/Klingon_Empire", "http://dbpedia.org/resource/Breen_Confederacy", "http://dbpedia.org/resource/Dominion_(Star_Trek)", "http://dbpedia.org/resource/Female_Changeling", "http://dbpedia.org/resource/Cardassian_Union" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Star_Trek:_Deep_Space_Nine" ],
+    "dbo:notes" : [ "800 million Cardassians civilians killed by Dominion" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Galactic_quadrant" ],
+    "dbo:result" : [ "* Klingon Empire is left greatly weakened.", "* Odo is returned to the Gamma Quadrant", "** Garak becomes leader of Cardassian Union.", "** Martok becomes Chancellor of Klingon Empire.", "Conditional Dominion Surrender:", "Federation Alliance Victory", "* Cardassian Union is liberated from the Dominion but is left completely devastated in all manners.", "* Dominion territories in Gamma Quadrant remain intact", "* United Federation of Planets becomes a major power in Beta, Alpha, and to a lesser extent, Gamma Quadrants.", "* Breen Confederacy retreats to its primary holdings relatively untouched but untrusted by everyone.", "* Female Changeling is taken into custody by the Federation for war crimes.", "* Romulan Star Empire remains a moderate power, despite heavy losses of its own." ],
+    "dbo:strength" : [ "30,000+ ships near the end of the war", "1500+ Klingon ships holding front lines near the end of the war, rest unknown" ],
+    "dbp:casualties" : [ "At least 7 million Cardassian soldiers" ],
+    "dbp:date" : [ "2373" ]
+  },
+  "text" : "The Dominion War is an extended plot concept developed in several story arcs of Star Trek: Deep Space Nine, an American science-fiction television series produced by Paramount Pictures. In the fictional Star Trek universe, the Dominion War is a conflict between the forces of the Dominion, Cardassian Union and, later, the Breen Confederacy against the Alpha Quadrant alliance of the United Federation of Planets, Klingon Empire and, later, the Romulan Star Empire. The primary setting of much of the series is aboard the fictional Starfleet controlled space station Deep Space Nine, located above the planet Bajor. In the series this space station was moved so it was situated near a wormhole which provided instantaneous travel to the Gamma Quadrant, a region on the other side of the galaxy. During season two of Deep Space Nine, the Dominion is introduced. Over the course of season two and three, more information about the Dominion is introduced, until the conflict escalated in season four, particularly in the episodes Homefront and Paradise Lost. The Dominion War arcs present themes that challenge the values of the characters in a manner not attempted in earlier series of Star Trek, and have received a mixed critical response. Developing the plot of the Dominion War also altered how the series was scripted, shifting the emphasis from an episodic to a serialized narrative format."
+}, {
+  "entityIndex" : "entity25314",
+  "entityUrl" : "http://dbpedia.org/resource/Decembrist_revolt",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Decembrists" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Nicholas_I_of_Russia" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Saint_Petersburg", "http://dbpedia.org/resource/Russian_Empire" ],
+    "dbo:result" : [ "Government victory", "Decembrists deported toSiberia" ],
+    "dbo:strength" : [ "Imperial Russian Army", "about 3,000 soldiers of theImperial Russian Army" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kolman_decembrists.jpg?width=300" ],
+    "dbp:caption" : [ "Decembrists at the Senate Square" ],
+    "dbp:commander" : [ "Army officers" ],
+    "dbp:date" : [ "--12-26" ]
+  },
+  "text" : "The Decembrist revolt or the Decembrist uprising (Russian: Восстание декабристов, transliteration: Vosstanie dekabristov) took place in Imperial Russia on 26 December [O.S. 14 December] 1825. Russian army officers led about 3,000 soldiers in a protest against Nicholas I's assumption of the throne after his elder brother Constantine removed himself from the line of succession. Because these events occurred in December, the rebels were called the Decembrists (Dekabristy, Russian: Декабристы). This uprising, which was suppressed by Nicholas I, took place in Peter's Square in Saint Petersburg. In 1925, to mark the centenary of the event, the square was renamed as Decembrist Square, but in 2008 the name was changed to Senate Square."
+}, {
+  "entityIndex" : "entity25315",
+  "entityUrl" : "http://dbpedia.org/resource/Dunkirk_evacuation",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*", "France", "Netherlands", "Poland", "United Kingdom", "Belgium", "Ireland" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Bertram_Ramsay", "http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis", "http://dbpedia.org/resource/John_Vereker,_6th_Viscount_Gort", "http://dbpedia.org/resource/Jean-Marie_Charles_Abrial", "http://dbpedia.org/resource/Gerd_von_Rundstedt", "http://dbpedia.org/resource/William_Tennant_(Royal_Navy_officer)" ],
+    "dbo:date" : [ "1940-06-04" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_World_War", "http://dbpedia.org/resource/Battle_of_France" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/English_Channel", "http://dbpedia.org/resource/Dunkirk", "http://dbpedia.org/resource/French_Third_Republic" ],
+    "dbo:result" : [ "Allied victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/16May-21May_Battle_of_Belgium.PNG?width=300" ],
+    "dbp:caption" : [ "British troops evacuating Dunkirk's beaches" ],
+    "dbp:commons" : [ "y" ],
+    "dbp:commonsSearch" : [ "Category:Operation Dynamo" ],
+    "dbp:portal" : [ "Military of Germany", "World War II", "British Army", "Military history of France" ]
+  },
+  "text" : "The Dunkirk evacuation, code-named Operation Dynamo, also known as the Miracle of Dunkirk, was the evacuation of Allied soldiers from the beaches and harbour of Dunkirk, France, between 26 May and 4 June 1940, during World War II. The operation was decided upon when large numbers of Belgian, British, and French troops were cut off and surrounded by the German army during the Battle of France. In a speech to the House of Commons, British Prime Minister Winston Churchill called the events in France \"a colossal military disaster\", saying \"the whole root and core and brain of the British Army\" had been stranded at Dunkirk and seemed about to perish or be captured. In his We shall fight on the beaches speech on 4 June, he hailed their rescue as a \"miracle of deliverance\". After Nazi Germany invaded Poland in September 1939, France and the British Commonwealth and Empire declared war on Germany. The British Expeditionary Force (BEF) was sent to aid in the defence of France. After the Phoney War, Germany invaded Belgium and the Netherlands on 10 May 1940, and three of their Panzer corps attacked France through the Ardennes and rapidly drove to the English Channel. By 21 May, the German forces had trapped the BEF, the remains of the Belgian forces, and three French armies in an area along the northern coast of France. Commander of the BEF, General The 6th Viscount Gort, immediately saw that evacuation across the Channel was the best course of action and began planning a withdrawal to Dunkirk, the closest location with good port facilities. On 22 May 1940, a halt order was issued by the German High Command, with Adolf Hitler's approval. This gave the trapped Allied forces time to construct defensive works and pull back large numbers of troops toward Dunkirk, to fight the Battle of Dunkirk. From 28–31 May 1940, in the Siege of Lille, the remaining 40,000 men of the once-formidable French First Army fought a delaying action against seven German divisions, including three armoured divisions. On the first day of the evacuation, only 7,669 men were evacuated, but by the end of the eighth day, a total of 338,226 soldiers had been rescued by a hastily assembled fleet of over 800 boats. Many of the troops were able to embark from the harbour's protective mole onto 39 British destroyers and other large ships, while others had to wade out from the beaches, waiting for hours in the shoulder-deep water. Some were ferried from the beaches to the larger ships by what came to be known as the little ships of Dunkirk, a flotilla of hundreds of merchant marine boats, fishing boats, pleasure craft, and lifeboats called into service for the emergency. The BEF lost 68,000 soldiers during the French campaign and had to abandon nearly all of their tanks, vehicles, and other equipment. In his speech to the House of Commons on 4 June, Churchill reminded the country that \"we must be very careful not to assign to this deliverance the attributes of a victory. Wars are not won by evacuations.\""
+}, {
+  "entityIndex" : "entity25316",
+  "entityUrl" : "http://dbpedia.org/resource/Deluge_(history)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Estimated very high" ],
+    "dbo:combatant" : [ "*", "(1654 – Nov 1656; July 1658 onwards)", "(from December 1656)", "**Kingdom of Hungary(from August 1657)", "*Brandenburg-Prussia(1656 – Nov 1657)", "*Brandenburg-Prussia(from November 1657)", "*Cossack Hetmanate", "*Cossack Hetmanate(Treaty of Hadiach)", "*Crimean Khanate", "*Denmark–Norway", "*Habsburg Monarchy(from August 1657)", "*Lithuania(Radziwiłł'sUnion of Kėdainiai)", "*Polish–Lithuanian Commonwealth", "*Principality of Transylvania", "*Swedish Empire", "*Tsardom of Russia", "*Tsardom of Russia(1656–58)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_II_Casimir_Vasa", "http://dbpedia.org/resource/Alexis_of_Russia", "http://dbpedia.org/resource/Charles_X_Gustav_of_Sweden", "http://dbpedia.org/resource/Bohdan_Khmelnytsky", "http://dbpedia.org/resource/Frederick_William,_Elector_of_Brandenburg", "http://dbpedia.org/resource/Gheorghe_Ştefan", "http://dbpedia.org/resource/George_II_Rákóczi", "http://dbpedia.org/resource/Constantin_Șerban", "http://dbpedia.org/resource/Stefan_Czarniecki" ],
+    "dbo:imdbId" : [ "0072021" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Northern_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Polish-Lithuanian_Commonwealth" ],
+    "dbo:result" : [ "Status Quo, PolishPyrrhic victory" ],
+    "dbo:strength" : [ ": 10,000 men", ": 17,000 men", ": 2,000 men", ": 25,000 men", ": 40,000 men", ": 50,000 men", ": 60,000 men", ":16,000 men", "Total: 191,000+", "Total: 69,000+" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Rzeczpospolita_Potop.png?width=300" ],
+    "dbp:title" : [ "Potop" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The term Deluge (Polish: pоtор szwedzki, Lithuanian: Tvanas) denotes a series of mid-17th-century campaigns in the Polish–Lithuanian Commonwealth. In a wider sense it applies to the period between the Khmelnytsky (Chmielnicki) Uprising of 1648 and the Truce of Andrusovo in 1667, thus comprising the Polish theatres of the Russo-Polish and Second Northern Wars. In a stricter sense, the term refers to the Swedish invasion and occupation of the Commonwealth as a theatre of the Second Northern War (1655–1660) only; In Poland and Lithuania this period is called the Swedish Deluge (Polish: potop szwedzki), and the term deluge (or potop in Polish) was popularized by Henryk Sienkiewicz in his novel The Deluge (1886). During the wars the Commonwealth lost approximately one third of its population as well as its status as a great power. According to Professor Andrzej Rottermund, manager of the Royal Castle in Warsaw, the destruction of Poland in the deluge was more extensive than the destruction of the country in World War II. As Rottermund claims, Swedish invaders robbed the Commonwealth of its most important riches, and most of the stolen items never returned to Poland. Warsaw, the capital of the Polish–Lithuanian Commonwealth, was completely destroyed by the Swedes, and out of a pre-war population of 20,000, only 2,000 remained in the city after the war. According to the 2012 Polish estimates, financial losses of Poland are estimated at 4 billion zlotys. Swedish invaders completely destroyed 188 cities and towns, 81 castles, and 136 churches in Poland."
+}, {
+  "entityIndex" : "entity25317",
+  "entityUrl" : "http://dbpedia.org/resource/Dieppe_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Royal Navy", "United Kingdom:", "1 destroyer", "1,946 captured", "10North American Mustang Mk 1fighters", "20Hawker Hurricanefighters", "275 commandos", "33 landing craft", "550 dead and wounded", "586 wounded,", "62 killed, 30 wounded, 17 captured", "64Supermarine Spitfirefighters", "6Douglas Bostonbombers", "907 killed,", "Canada:", "Ground forces", "Royal Air Force" ],
+    "dbo:combatant" : [ "Poland" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma", "http://dbpedia.org/resource/Trafford_Leigh-Mallory", "http://dbpedia.org/resource/Gerd_von_Rundstedt", "http://dbpedia.org/resource/John_Hamilton_Roberts", "http://dbpedia.org/resource/Konrad_Haase" ],
+    "dbo:date" : [ "1942-08-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/North_West_Europe_Campaign" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dieppe,_Seine-Maritime" ],
+    "dbo:result" : [ "German victory" ],
+    "dbo:strength" : [ "Royal Navy", "(Does not include Luftwaffe and Kriegsmarine)", "15 commandosattached to No. 10 Commando.", "2nd Canadian Infantry Division", "30 RN Commando", "302nd Static Infantry Division", "40 Commando RM", "50U.S. Army Rangers, attached toNo. 4 Commando", "74 Squadrons", "Infantry", "No. 10 (Inter-Allied) Commando(part)", "No. 3 Commando", "No. 4 Commando*", "Royal Air Force", "~1,500 men", "~10,500 men", "237 ships and landing barges including eight destroyers" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_101I-362-2211-04,_Dieppe,_Landungsversuch,_englischer_Spähpanzer.jpg?width=300" ],
+    "dbp:accessdate" : [ "2008-01-10" ],
+    "dbp:caption" : [ "--08-19" ],
+    "dbp:casualties" : [ "1", "23", "25", "280", "311", "Luftwaffe", "Kriegsmarine", "Germany:", "Ground forces" ],
+    "dbp:date" : [ "1947-08-12" ],
+    "dbp:endpage" : [ "3828" ],
+    "dbp:issue" : [ "38045" ],
+    "dbp:mapType" : [ "France" ],
+    "dbp:startpage" : [ "3823" ],
+    "dbp:supp" : [ "yes" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Dieppe Raid, also known as the Battle of Dieppe, Operation Rutter during planning stages, and by its final official code-name Operation Jubilee, was an Allied attack on the German-occupied port of Dieppe during the Second World War. The raid took place on the northern coast of France on 19 August 1942. The assault began at 5:00 a.m., and by 10:50 a.m. the Allied commanders were forced to call a retreat. Over 6,000 infantrymen, predominantly Canadian, were supported by The Calgary Regiment of the 1st Canadian Tank Brigade and a strong force of Royal Navy and smaller Royal Air Force landing contingents. It involved 5,000 Canadians, 1,000 British troops, and 50 United States Army Rangers. Objectives included seizing and holding a major port for a short period, both to prove that it was possible and to gather intelligence. Upon retreat, the Allies also wanted to destroy coastal defences, port structures and all strategic buildings. The raid had the added objectives of boosting morale and demonstrating the firm commitment of the United Kingdom to open a western front in Europe. Virtually none of these objectives were met. Allied fire support was grossly inadequate and the raiding force was largely trapped on the beach by obstacles and German fire. Less than 10 hours after the first landings, the last Allied troops had all been either killed, evacuated, or left behind to be captured by the Germans. Instead of a demonstration of resolve, the bloody fiasco showed the world that the Allies could not hope to invade France for a long time. Some intelligence successes were achieved, including electronic intelligence. Of the 6,086 men who made it ashore, 3,367 (almost 60%) were either killed, wounded or captured. The Royal Air Force failed to lure the Luftwaffe into open battle, and lost 106 aircraft (at least 32 to flak or accidents), compared to 48 lost by the Luftwaffe. The Royal Navy lost 33 landing craft and one destroyer. The events at Dieppe influenced preparations for the North African (Operation Torch) and Normandy landings (Operation Overlord)."
+}, {
+  "entityIndex" : "entity25318",
+  "entityUrl" : "http://dbpedia.org/resource/Dorr_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Charterites", "Dorrites" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Samuel_Ward_King", "http://dbpedia.org/resource/Thomas_W._Dorr" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Rhode_Island" ],
+    "dbo:result" : [ "Charterite victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Polemic_supporting_Dorrite_cause.png?width=300" ],
+    "dbp:caption" : [ "A polemic applauding Democratic support of the Dorrite cause in Rhode Island, 1844" ],
+    "dbp:date" : [ "1841" ]
+  },
+  "text" : "The Dorr Rebellion (1841–1842) was a failed attempt to force broader democracy in the U.S. state of Rhode Island, where a small rural elite was in control of government. It was led by Thomas Wilson Dorr, who mobilized the disenfranchised to demand changes to the state's electoral rules. The state used as its constitution the 1663 colonial charter that required a man to own $134 in property to vote, and gave an equal weight in the Rhode Island General Assembly to all towns no matter what their population. The effect in the 1830s was that the rapidly growing industrial cities were far outnumbered in the legislature, to the annoyance of businessmen and industrialists. Furthermore, few immigrants or factory workers could vote, despite their growing numbers. All other states in 1840 saw a huge surge in turnout, but nothing happened in Rhode Island. At first, the middle classes took the lead, including Dorr himself. However, the Charter government, controlled by rural elites, fought back hard. For six weeks in 1842, there were two rival governments. The Dorrites, led by self-proclaimed governor Dorr, pulled back from violence (after their cannon misfired). Only one person died, a bystander killed by accident. The Charter government compromised. It wrote a new constitution in 1843 that dropped the property requirement for men born in the United States but kept it for foreign-born citizens, and it gave more seats in the legislature to the cities. That satisfied the native-born protesters, who gave up on the Rhode Island Suffrage Association. The state government had the upper hand; the national government refused to intervene, and Democrats in other states gave Dorr only verbal encouragement. His cause was hopeless—he and five lieutenants were sentenced to life in prison. They were pardoned in 1845 when the agitation had ended. Not until 1888 were the property qualifications dropped for immigrants. In the next Presidential election held after the Dorr Rebellion in 1844, 12,296 votes were cast from Rhode Island, a significant increase from the 8,621 cast in 1840."
+}, {
+  "entityIndex" : "entity25319",
+  "entityUrl" : "http://dbpedia.org/resource/Donghak_Peasant_Revolution",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6,000 Korean soldiers killed" ],
+    "dbo:combatant" : [ "Joseon Dynasty", "Northern Jeob", "Southern Jeob" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Gojong_of_Joseon", "http://dbpedia.org/resource/Jeon_Bongjun", "http://dbpedia.org/resource/Son_Hwajung" ],
+    "dbo:date" : [ "1894-01-11" ],
+    "dbo:result" : [ "First Sino-Japanese War", "Korean Governmental Victory" ],
+    "dbo:strength" : [ "10,000-300,000 Northern Jeob rebels", "15,000-300,000 Southern Jeob rebels", "3,000-50,000 Korean soldiers", "500-3,000 Japanese soldiers" ],
+    "dbp:caption" : [ "Donghak Army, gathered in Mount Baek, Gobu, April 1894." ],
+    "dbp:casualties" : [ "200", "Tens to hundreds of thousands killed from both Jeobs" ],
+    "dbp:commander" : [ "Colonel Moriya", "Lieutenant Suzuku" ]
+  },
+  "text" : "The Donghak Peasant Revolution (Hangul: 동학 농민 운동, Donghak Nongmin Undong, Hanja: 東學 農民 運動), also known as the Donghak Peasant Movement, Donghak Rebellion, Peasant Revolt of 1894, Gabo Peasant Revolution, and a variety of other names, was an armed rebellion in Korea led by aggravated peasants and followers of the Donghak religion, a panentheistic religion viewed by many rebels as a political ideology. In 1894, the magistrate of Gobu, Jo Byeonggap, had created various bogus laws and forced the peasants to build reservoirs and settle in unowned lands in order to get rich from taxes and fines. In March, angered peasants allied under Jeon Bongjun and Kim Gaenam, beginning the Gobu Revolt. However, the Gobu revolt was suppressed by Yi Yongtae, and Jeon Bongjun fled to Taein. In April, Jeon gathered an army in Mount Baek and recaptured Gobu. The rebels then proceeded to defeat governmental forces in Hwangto Pass and the Hwangryong River. Jeon then captured Jeonju Fortress and fought in a siege with Hong Gyehun's Joseon forces. In May, however, the rebels had signed a truce with the governmental forces, and built agencies called Jibgangso that handled affairs in rebel-controlled areas. This somewhat unsteady peace continued throughout the summer. The frightened government asked the Qing Dynasty for help, and it sent 2,700 soldiers to Korea. Japan, angered that the Qing government had not informed Japan as promised in the Convention of Tientsin, started the Sino-Japanese War. The war resulted in an expulsion of Chinese influence in Korea and also signaled an end for the Self-Strengthening Movement in China itself. Growing Japanese dominance in the Korean peninsula had caused anxiety for the rebels. From September to October, the Southern and Northern leaders negotiated over the plans for the future in Samrye. In October 12, a coalition army of Northern and Southern Jeobs were formed, and the army, numbering 25,000~200,000 (records differ), went on to attack Gongju. After a number of battles, the rebel army was decisively defeated in the Battle of Ugeumchi, and the rebels were again defeated in the Battle of Taein. Hostility continued deep into the spring of 1895. The rebel leaders were captured in various locations in the Honam Region, and most were executed by a mass hanging in March."
+}, {
+  "entityIndex" : "entity25320",
+  "entityUrl" : "http://dbpedia.org/resource/Desmond_Rebellions",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "?" ],
+    "dbo:combatant" : [ "22px|borderFitzGeralds ofDesmond", "Kingdom of Ireland", "allied Irish clans", "alliedIrish clans" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Perrot", "http://dbpedia.org/resource/Thomas_Butler,_10th_Earl_of_Ormond", "http://dbpedia.org/resource/Humphrey_Gilbert", "http://dbpedia.org/resource/Henry_Sidney", "http://dbpedia.org/resource/James_FitzMaurice_FitzGerald" ],
+    "dbo:date" : [ "1573-02-23" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Provinces_of_Ireland" ],
+    "dbo:result" : [ "English victory", "Second Desmond Rebellion" ],
+    "dbo:strength" : [ "?" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/St_Patrick's_saltire.svg?width=300" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:partof" : [ "the Desmond Rebellions" ]
+  },
+  "text" : "The Desmond Rebellions occurred in 1569–1573 and 1579–1583 in the Irish province of Munster. They were rebellions by the Earl of Desmond – head of the FitzGerald dynasty in Munster – and his followers, the Geraldines and their allies, against the threat of the extension of their South Welsh Tewdwr cousins of Elizabethan English government over the province. The rebellions were motivated primarily by the desire to maintain the independence of feudal lords from their monarch, but also had an element of religious antagonism between Catholic Geraldines and the Protestant English state. They culminated in the destruction of the Desmond dynasty and the plantation or colonisation of Munster with English Protestant settlers. 'Desmond' is the Anglicisation of the Irish Deasmumhain, meaning 'South Munster'."
+}, {
+  "entityIndex" : "entity25321",
+  "entityUrl" : "http://dbpedia.org/resource/Dardanelles_Operation_(1807)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "42 killed, 235 wounded, and 4 missing" ],
+    "dbo:combatant" : [ "British Empire", "Ottoman Empire" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Sultan", "http://dbpedia.org/resource/John_Thomas_Duckworth" ],
+    "dbo:date" : [ "1807-02-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Anglo-Turkish_War_(1807-1809)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dardanelles" ],
+    "dbo:result" : [ "Ottoman victory" ],
+    "dbo:strength" : [ "8 ships of the line, 2 frigates, 2 bomb ships, 1 transport", "14 ships of the line, 9 frigates, a dozen brigs and gunboats, several hundredOttoman siege cannons, and some modern bronze pieces" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Duckworth's_Squadron_forcing_the_Dardanelles.jpg?width=300" ],
+    "dbp:caption" : [ "--02-19" ],
+    "dbp:casualties" : [ "None" ]
+  },
+  "text" : "The Dardanelles Operation was the Royal Navy's unsuccessful attempt to impose British demands on the Ottoman Empire as part of the Anglo-Turkish War (1807-1809). In 1806, the French envoy Sebastiani had been dispatched to Constantinople with orders to bring about Turkey's re-entry into the war. Sultan Selim III set about preparations for war with Russia after positively receiving Sebastiani. The Russian emperor, Alexander I, was alarmed by these developments as he had already deployed a significant force to Poland and East Prussia to fight the advancing French forces under Emperor Napoleon I. Alexander requested British assistance in keeping Turkey out of the war. The British army was far too small and inadequate to impose the will of the Coalition on the Ottomans, so it naturally fell to the powerful Royal Navy to meet Russia's requests. The ships immediately available for the task were HMS Canopus, HMS Standard, HMS Thunderer, HMS Glatton, and the two bomb ships HMS Lucifer and HMS Meteor, under the command of Vice-Admiral Cuthbert Collingwood, commander-in-chief of the British Mediterranean Fleet, sailed for the Dardanelles and made preparations for the upcoming assault. In the meantime, the British ambassador to Constantinople, Arbuthnot, demanded that the Ottoman government evict Sebastiani, and added that should the Ottomans resist the ultimatum, the Mediterranean fleet would attack. The actual force that had been chosen by Collingwood to carry out the operation was small—only eight ships-of-the-line and four frigates. In addition, four Russian ships-of-the-line under Admiral Dmitry Senyavin were sent to support the British, but did not join Duckworth until after the exit from Dardanelles was made. Admiral Duckworth, who commanded the British, was under orders to bombard Constantinople and seize the Turkish battle fleet."
+}, {
+  "entityIndex" : "entity25322",
+  "entityUrl" : "http://dbpedia.org/resource/Dominican_War_of_Independence",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Minimal" ],
+    "dbo:combatant" : [ "Dominican Republic" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pedro_Eugenio_Pelletier", "http://dbpedia.org/resource/Manuel_de_Regla_Mota", "http://dbpedia.org/resource/Faustin_Soulouque", "http://dbpedia.org/resource/Jean-Louis_Pierrot", "http://dbpedia.org/resource/José_Joaquín_Puello", "http://dbpedia.org/resource/Antonio_Duvergé", "http://dbpedia.org/resource/José_María_Imbert", "http://dbpedia.org/resource/José_María_Cabral", "http://dbpedia.org/resource/Pedro_Santana", "http://dbpedia.org/resource/Charles_Hérard" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dominican_Republic" ],
+    "dbo:result" : [ "* Dominican Independence", "* Expulsion of Haitian government", "Dominican victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Nunezcaceres.jpg?width=300" ],
+    "dbp:casualties" : [ "Heavy" ],
+    "dbp:date" : [ "1844" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Dominican Independence War gave the Dominican Republic autonomy from Haiti on February 27, 1844. Before the war, the island of Hispaniola had been united under the Haitian government for a period of 22 years when the newly independent nation, then known as the Republic of Spanish Haiti, was invaded by Haiti in 1822. By using guerrilla warfare (constantly shifting attacks, sabotage, and terrorism) and caudillos (military strongmen), the Dominican insurgents defeated Haiti's superior military."
+}, {
+  "entityIndex" : "entity25323",
+  "entityUrl" : "http://dbpedia.org/resource/Demyansk_Pocket",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "11,777 KIA and 2,739 MIA", "16th Army (10.01. - 31.05.1942):", "40,000 WIA", "Total: 55,000" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pavel_Kurochkin", "http://dbpedia.org/resource/Walther_von_Seydlitz-Kurzbach", "http://dbpedia.org/resource/Walter_von_Brockdorff-Ahlefeldt" ],
+    "dbo:date" : [ "1942-05-20" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Soviet_Union", "http://dbpedia.org/resource/Demyansk", "http://dbpedia.org/resource/Russian_SSR" ],
+    "dbo:result" : [ "Soviet failure" ],
+    "dbo:strength" : [ "100,000 (initial)", "31,000 replacement troops", "400,000 (initial)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_101I-003-3445-33,_Russland,_Lufttransport_mit_Junkers_Ju_52.jpg?width=300" ],
+    "dbp:casualties" : [ "88908", "156603", "Northwestern Front :", "Total: 245,500" ],
+    "dbp:commons" : [ "y" ],
+    "dbp:commonsSearch" : [ "Battle of Demiansk" ],
+    "dbp:portal" : [ "Military of Germany", "Soviet Union", "World War II" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Demyansk Pocket (German: Festung Demjansk or Kessel von Demjansk; Russian: Демя́нский котёл) was the name given to the pocket of German troops encircled by the Red Army around Demyansk (Demjansk), south of Leningrad, during World War II on the Eastern Front. The pocket existed mainly from 8 February to 21 April 1942. A much smaller force was surrounded in the Kholm Pocket at the town of Kholm, about 100 km (62 mi) to the southwest. Both resulted from the German retreat following their defeat during the Battle of Moscow. The successful defence of Demyansk, achieved through the use of an airbridge, was a significant development in modern warfare. Its success was a major contributor to the decision by the Wehrmacht command to try the same tactic during the Battle of Stalingrad."
+}, {
+  "entityIndex" : "entity25324",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_Sihang_Warehouse",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "10 killed", "37 wounded" ],
+    "dbo:combatant" : [ "China", "Japan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Xie_Jinyuan", "http://dbpedia.org/resource/Iwane_Matsui" ],
+    "dbo:date" : [ "1937-11-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War", "http://dbpedia.org/resource/Battle_of_Shanghai" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Shanghai", "http://dbpedia.org/resource/Zhabei_District" ],
+    "dbo:result" : [ "Chinese withdrawal" ],
+    "dbo:strength" : [ "(423 men including 16 officers)", "3rd Division (Imperial Japanese Army)", "524th Regiment", "88th Division" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Sihangmap_trad.svg?width=300" ],
+    "dbp:caption" : [ "Sihang Warehouse during battle" ],
+    "dbp:casualties" : [ "200", "Several armoured cars destroyed and damaged" ],
+    "dbp:p" : [ "Bābǎi Zhùangshì", "Sìháng Cāngkù" ],
+    "dbp:t" : [ "八百壯士", "四行倉庫" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The defense of Sihang Warehouse (Chinese: 四行倉庫; pinyin: Sìháng Cāngkù) took place from October 26 to November 1, 1937, and marked the beginning of the end of the three-month Battle of Shanghai in the opening phase of the Second Sino-Japanese War. Defenders of the warehouse held out against numerous waves of Japanese forces and covered Chinese forces retreating west during the Battle of Shanghai. The successful defense of the warehouse provided a morale-lifting consolation to the Chinese army and people in the demoralizing aftermath of the Japanese invasion of Shanghai. The warehouse's location just across the Suzhou Creek from the foreign concessions in Shanghai meant the battle took place in full view of the western powers. It was across from the foreign concessions in Shanghai, and the Japanese did not dare to call naval artillery strikes on the area, since a stray shot might land in the concessions and provoke an incident with the Europeans and Americans, whom the Japanese wanted to keep out of the war. Moreover, the Japanese dared not use mustard gas here as they did elsewhere in Shanghai, in full view of the foreign powers. This proximity drew the attention, if only briefly, of the international community to Chiang Kai-shek's bid for worldwide support against Japanese aggression. In Chinese, the 423 defenders are known as the Eight Hundred Heroes (Chinese: 八百壯士; pinyin: Bābǎi Zhùangshì), because commander Xie Jinyuan not wanting to reveal their true strength to the Japanese, provided an exaggerated number to girl guide Yang Huimin to announce to the public."
+}, {
+  "entityIndex" : "entity25325",
+  "entityUrl" : "http://dbpedia.org/resource/Dhofar_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Iran: 719 killed, 1404 wounded", "Oman: 187 killed, 559 wounded", "UK: 24 killed, 55 wounded" ],
+    "dbo:combatant" : [ "Supported by:", "DLF(1962–1968)", "NDFLOAG(1969–1971)", "PFLO(1974–1976)", "PFLOAG(1968–1974)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Arab_Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Oman", "http://dbpedia.org/resource/Dhofar" ],
+    "dbo:result" : [ "Defeat of insurgents", "Modernization of Oman" ],
+    "dbo:strength" : [ "1,000 local fighters", "800 rebels", "British Army: ≈500", "Firqat irregulars: 1,800", "Imperial Iranian Armed Forces: 4,000", "Jordanian Army: 1 squadron engineer", "Royal Air Force: 500", "Sultan of Oman's Armed Forces: 10,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Oman._Dhofar_1970_(8596723373).jpg?width=300" ],
+    "dbp:caption" : [ "Government Soldier in 1970 during the war." ],
+    "dbp:casualties" : [ "1400", "2000", "10000" ],
+    "dbp:date" : [ "1962" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Dhofar Rebellion (Arabic: ثورة ظفار‎‎) was launched in the province of Dhofar against the Sultanate of Muscat and Oman, which had Iranian and British support, from 1962 to 1976. It ended with the defeat of the rebels, but the state of Oman had to be radically reformed and modernized to cope with the campaign."
+}, {
+  "entityIndex" : "entity25326",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_the_Great_Wall",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "China", "Japan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Song_Zheyuan", "http://dbpedia.org/resource/Zhang_Xueliang", "http://dbpedia.org/resource/Chiang_Kai-shek", "http://dbpedia.org/resource/He_Yingqin", "http://dbpedia.org/resource/Nobuyoshi_Muto", "http://dbpedia.org/resource/Chang_Hai-peng" ],
+    "dbo:date" : [ "1933-05-31" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War", "http://dbpedia.org/resource/Actions_in_Inner_Mongolia_(1933–1936)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Great_Wall_of_China" ],
+    "dbo:result" : [ "Japanese and Manchukuo victory;", "Tanggu Truce" ],
+    "dbo:strength" : [ "Japan: 50,000", "Manchukuo: 42,000", "Northeastern Army: 50,000+" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Greatwall_1933_japan.jpg?width=300" ],
+    "dbp:caption" : [ "Chinese defenders on the Great Wall" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:p" : [ "Chángchéng Kàngzhàn" ],
+    "dbp:s" : [ "长城抗战" ],
+    "dbp:t" : [ "長城抗戰" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Defense of the Great Wall (simplified Chinese: 长城抗战; traditional Chinese: 長城抗戰; pinyin: Chángchéng Kàngzhàn) (January 1 – May 31, 1933) was a campaign between the armies of Republic of China and Empire of Japan, which took place before the Second Sino-Japanese War officially commenced in 1937. It is known in Japanese as Operation Nekka (熱河作戦 Nekka Sakusen) and in many English sources as the First Battle of Hopei. During this campaign, Japan successfully captured the Inner Mongolian province of Rehe from the Chinese warlord Zhang Xueliang and annexed it to the new state of Manchukuo, whose southern frontier was thus extended to the Great Wall of China."
+}, {
+  "entityIndex" : "entity25327",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_Van_(1915)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:combatant" : [ "Armeniancivilians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Kâzım_Özalp", "http://dbpedia.org/resource/Aram_Manukian", "http://dbpedia.org/resource/Rafael_de_Nogales", "http://dbpedia.org/resource/Halil_Kut", "http://dbpedia.org/resource/Djevdet_Bey" ],
+    "dbo:date" : [ "1915-05-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Armenian_Genocide", "http://dbpedia.org/resource/Caucasus_Campaign" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ottoman_Empire", "http://dbpedia.org/resource/Van,_Turkey" ],
+    "dbo:result" : [ "Armenian victory, Ottoman retreat" ],
+    "dbo:strength" : [ "5,000", "1,300" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Van_Defenders.jpg?width=300" ],
+    "dbp:caption" : [ "Armenian civilians holding a defense line against Ottoman forces in the walled city of Van in May 1915." ],
+    "dbp:casualties" : [ "55000", "unknown" ]
+  },
+  "text" : "The Defense of Van (also known as the Siege of Van or Van Resistance to the Armenians (Armenian: Վանի հերոսամարտ Vani herosamart) and Van Rebellion or Van Revolt to the Turks (Turkish: Van İsyanı/İhtilâli)), was an insurgency against the Ottoman Empire. Armenian forces fought against the attempts to massacre the Armenian population in the Van Vilayet. The insurgency broke out during the Caucasus Campaign, in which the Dashnak militias were supported by the Imperial Russian army to defend the Ottoman Armenian population. The uprising had not been intended or planned by the Armenians. Several contemporaneous observers and later historians have pointed out that the Ottoman government deliberately instigated the armed Armenian resistance by enforcing the conditions on their subjects and then used this insurgency as a main pretext to justify the forced deportations of Armenians from all over the empire. However, the decisions of deportation and extermination were made before the Van resistance. The assessment of witness reports maintained that the Armenian posture at Van was defensive and an act of resistance to massacre. Based mostly in the city of Van, it was one of the few instances during the Armenian Genocide when Armenians fought against the Ottoman Empire's armed forces."
+}, {
+  "entityIndex" : "entity25328",
+  "entityUrl" : "http://dbpedia.org/resource/Defence_of_Pukekohe_East_1863",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3 killed 8 wounded" ],
+    "dbo:combatant" : [ "British Army", "Māori allies", "New ZealandGovernment", "Ngāti Maniapoto, withNgāti Pou,Maori King Movement" ],
+    "dbo:date" : [ "1863-09-13" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/New_Zealand_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/New_Zealand", "http://dbpedia.org/resource/Pukekohe_East" ],
+    "dbo:result" : [ "New Zealand & British victory. ." ],
+    "dbo:strength" : [ "Besieged; 8 New Zealand Militia and 9 New Zealand Special Constables,", "200 Maori.", "Relieving force 182+" ],
+    "dbp:casualties" : [ "40" ],
+    "dbp:commander" : [ "Sergeant Perry", "Rapurahi, Wahanui Huatare, Raureti Paiaka and Hopa te Rangianini" ]
+  },
+  "text" : "The Defence of Pukekohe East was an action during theInvasion of the Waikato, part of the New Zealand Wars. On 13 September and 14 September 1863, 11 settlers and 6 militia men inside a half completed stockade around the Pukekohe East church held off a Māori taua or war party of approximately 200 men from Ngāti Maniapoto and Ngāti Pou iwi, until they were relieved by detachments of the 18th, 65th and 70th Regiments. In a series of actions around the stockade the taua sustained 20% casualties and retreated."
+}, {
+  "entityIndex" : "entity25329",
+  "entityUrl" : "http://dbpedia.org/resource/Domitian's_Dacian_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:combatant" : [ "Roman Empire", "Dacia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Cornelius_Fuscus", "http://dbpedia.org/resource/Decebalus", "http://dbpedia.org/resource/Domitian", "http://dbpedia.org/resource/Oppius_Sabinus" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Dacian_Wars_(disambiguation)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dacia", "http://dbpedia.org/resource/Moesia" ],
+    "dbo:result" : [ "Dacian victory, defeat of Roman invasion." ],
+    "dbp:casualties" : [ "2" ],
+    "dbp:date" : [ "86" ]
+  },
+  "text" : "Domitian's Dacian War was a conflict between the Roman Empire and the Dacian Kingdom, which had invaded the province of Moesia. The war occurred during the reign of the Roman emperor Domitian, in the years 86–88 AD."
+}, {
+  "entityIndex" : "entity25330",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_the_Adzhimushkay_quarry",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Germany", "Soviet Union" ],
+    "dbo:date" : [ "1942-10-30" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Crimea", "http://dbpedia.org/resource/Union_of_Soviet_Socialist_Republics", "http://dbpedia.org/resource/Adzhimushkay" ],
+    "dbo:result" : [ "German victory" ],
+    "dbo:strength" : [ "10,000 - 15,000", "Several regiments" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Могила_Парахина.jpg?width=300" ],
+    "dbp:caption" : [ "Monument to defenders of Adzhimushkay Quarry" ],
+    "dbp:casualties" : [ "10000" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Defense of the Adzhimushkay Quarry (Russian:  Оборона Аджимушкайских каменоломен) took part during World War II, between May and October 1942 of in the Adzhimushkay quarry named after the Adzhimushkay suburb of Kerch during the Nazi Germany's occupation of the Crimea."
+}, {
+  "entityIndex" : "entity25331",
+  "entityUrl" : "http://dbpedia.org/resource/Dutch_East_Indies_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "100,000+ captured", "2,384 killed" ],
+    "dbo:combatant" : [ "*", "Netherlands", "ABDA Command:" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hisaichi_Terauchi", "http://dbpedia.org/resource/Shōji_Nishimura", "http://dbpedia.org/resource/Ibō_Takahashi", "http://dbpedia.org/resource/Hitoshi_Imamura", "http://dbpedia.org/resource/Kiyotake_Kawaguchi", "http://dbpedia.org/resource/Henry_Royds_Pownall", "http://dbpedia.org/resource/Thomas_C._Hart", "http://dbpedia.org/resource/Conrad_Emil_Lambert_Helfrich", "http://dbpedia.org/resource/Hein_ter_Poorten" ],
+    "dbo:date" : [ "1941-12-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dutch_East_Indies" ],
+    "dbo:result" : [ "Japanese occupation of the Dutch East Indies", "Japanese victory;" ],
+    "dbo:strength" : [ "50,000 troops", "331 aircraft", "*100,000 local troops", "*40,000 Dutch troops", "*8,000 Anglo-American troops", "148,000 troops", "18 submarines", "234 aircraft", "33 warships", "41 submarines", "52 warships" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/COLLECTIE_TROPENMUSEUM_Japanse_invasie_op_Java_TMnr_10001990.jpg?width=300" ],
+    "dbp:caption" : [ "Japanese forces land on Java." ],
+    "dbp:casualties" : [ "671" ],
+    "dbp:quote" : [ "The manner of the Japanese advance resembled the insidious yet irresistible clutching of multiple tentacles. Like some vast octopus it relied on strangling many small points rather than concentration on a vital organ. No one arm attempted to meet the entire strength of the ABDA fleet. Each fastened on a small portion of the enemy and, by crippling him locally, finished by killing the entire animal. [...] The Japanese spread their tentacles cautiously, never extending beyond the range of land-based aircraft unless they had carrier support. The distance of each advance was determined by the radius of fighter planes under their control. This range was generally less than 400 miles, but the Japanese made these short hops in surprisingly rapid succession. Amphibious operations, preceded by air strikes and covered by air power developed with terrifying regularity. Before the Allies had consolidated a new position, they were confronted with a system of air bases from which enemy aircraft operated on their front, flanks and even rear." ],
+    "dbp:quoted" : [ "1" ],
+    "dbp:width" : [ "50.0" ]
+  },
+  "text" : "The Dutch East Indies campaign of 1941–42 was the conquest of the Dutch East Indies (present-day Indonesia) by forces from the Empire of Japan in the early days of the Pacific Campaign of World War II. Forces from the Allies attempted unsuccessfully to defend the islands. The East Indies were targeted by the Japanese for their rich oil resources which would become a vital asset during the war. The campaign and subsequent three and a half year Japanese occupation was also a major factor in the end of Dutch colonial rule in the region."
+}, {
+  "entityIndex" : "entity25332",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_Harbin",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,800" ],
+    "dbo:combatant" : [ "Imperial Japanese Army,Empire of Japan", "National Revolutionary Army,Republic of China" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Jirō_Tamon", "http://dbpedia.org/resource/Jilin_Self-Defence_Army" ],
+    "dbo:date" : [ "1932-02-04" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Japanese_invasion_of_Manchuria" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Harbin", "http://dbpedia.org/resource/Manchuria", "http://dbpedia.org/resource/Republic_of_China_(1912–1949)" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:strength" : [ "30,000", "?" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/War_flag_of_the_Imperial_Japanese_Army.svg?width=300" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Defense of Harbin occurred during the early Second Sino-Japanese War, as part of the campaign of the Invasion of Manchuria by forces of the Empire of Japan from 25 January to 4 February 1932."
+}, {
+  "entityIndex" : "entity25333",
+  "entityUrl" : "http://dbpedia.org/resource/Death_of_Osama_bin_Laden",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 helicopter crash-landed (no casualties)" ],
+    "dbo:combatant" : [ "United States", "al-Qaeda" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abu_Ahmed_al-Kuwaiti", "http://dbpedia.org/resource/William_H._McRaven", "http://dbpedia.org/resource/Osama_bin_Laden", "http://dbpedia.org/resource/Barack_Obama" ],
+    "dbo:date" : [ "2011-05-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_on_Terror", "http://dbpedia.org/resource/War_in_North-West_Pakistan" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Khyber_Pakhtunkhwa", "http://dbpedia.org/resource/Pakistan", "http://dbpedia.org/resource/Osama_bin_Laden's_compound_in_Abbottabad", "http://dbpedia.org/resource/Abbottabad" ],
+    "dbo:result" : [ "American victory", "*Osama bin Ladenkilled" ],
+    "dbo:strength" : [ "1Belgian Malinois(military working dog)", "22 (number of residents, including children)", "6 helicopters", "79JSOCandCIAoperators" ],
+    "dbp:b" : [ "no" ],
+    "dbp:caption" : [ "Map of Pakistan. Abbottabad is  from the capital Islamabad,  from Jalalabad Airfield, and  from Bagram Airfield. Bagram is about  from the North Arabian Sea." ],
+    "dbp:casualties" : [ "5", "17" ],
+    "dbp:commons" : [ "Death of Osama bin Laden" ],
+    "dbp:date" : [ "2011-05-02" ],
+    "dbp:deaths" : [ "Osama bin Laden, 54; Khalid bin Laden, 23; Abu Ahmed al-Kuwaiti, 33; Abu Ahmed al-Kuwaiti's brother Abrar, 30; Bushra, Abrar's wife, age unknown." ],
+    "dbp:eventName" : [ "Death of Osama bin Laden" ],
+    "dbp:imageCaption" : [ "Osama bin Laden in 2010" ],
+    "dbp:imagesize" : [ "260" ],
+    "dbp:location" : [ "Osama bin Laden's compound in Bilal Town, Abbottabad, Pakistan" ],
+    "dbp:n" : [ "no" ],
+    "dbp:participants" : [ "Central Intelligence Agency Special Activities DivisionU.S. Naval Special Warfare Development Group160th Special Operations Aviation Regiment (Airborne)Marine Tactical Electronic Warfare Squadron 4" ],
+    "dbp:q" : [ "no" ],
+    "dbp:result" : [ "Osama bin Laden's body buried in North Arabian Sea" ],
+    "dbp:s" : [ "Remarks by the President on Osama bin Laden" ],
+    "dbp:species" : [ "no" ],
+    "dbp:v" : [ "no" ],
+    "dbp:voy" : [ "no" ],
+    "dbp:wikt" : [ "no" ]
+  },
+  "text" : "Osama bin Laden, the founder and head of the Islamist group Al-Qaeda, was killed in Pakistan on May 2, 2011, shortly after 1:00 am PKT (20:00 UTC, May 1) by United States Navy SEALs of the U.S. Naval Special Warfare Development Group (also known as DEVGRU or SEAL Team Six). The operation, code-named Operation Neptune Spear, was carried out in a Central Intelligence Agency-led operation. In addition to DEVGRU, participating units included the United States Army Special Operations Command's 160th Special Operations Aviation Regiment (Airborne) and CIA operatives. The raid on bin Laden's compound in Abbottabad, Pakistan, was launched from Afghanistan. U.S. military officials said that after the raid, U.S. forces took bin Laden's body to Afghanistan for identification, then buried him at sea within 24 hours of his death in accordance with Islamic tradition. According to Carlotta Gall, a Pakistani official (to whom she later clarified that she did not speak, the information coming through a friend), told her that a senior U.S. official had told him that the United States had direct evidence that Inter-Services Intelligence (ISI) chief, Lt. Gen. Ahmad Shuja Pasha, knew of bin Laden's presence in Abbottabad, but ISI, Pasha, and officials in Washington all denied this. Al-Qaeda confirmed the death on May 6 with posts made on militant websites, vowing to avenge the killing. Other Pakistani militant groups, including the Tehrik-i-Taliban Pakistan, also vowed retaliation against the U.S. and against Pakistan for not preventing the operation. The raid was supported by over 90% of the American public, was welcomed by the United Nations, NATO, the European Union, and a large number of governments, but was condemned by others, including two-thirds of the Pakistani public. Legal and ethical aspects of the killing, such as his not being taken alive despite being unarmed, were questioned by others, including Amnesty International. Also controversial was the decision not to release any photographic or DNA evidence of bin Laden's death to the public. The Pakistani Abbottabad Commission Report was leaked to Al Jazeera on July 8, 2013."
+}, {
+  "entityIndex" : "entity25334",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_Van_(1896)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Heavy" ],
+    "dbo:combatant" : [ "Ottoman Army", "*Armekanan Party", "ArmeniansofVan" ],
+    "dbo:date" : [ "1896-06-11" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Van,_Turkey", "http://dbpedia.org/resource/Van_Vilayet" ],
+    "dbo:result" : [ "Armenians agree to disarm, defenders and additional civilian population massacred." ],
+    "dbo:strength" : [ "600-700", "4 battalions+cavalry" ],
+    "dbp:casualties" : [ "350", "20000" ]
+  },
+  "text" : "The 1896 Defense of Van or Van Rebellion was an act of self-defense by the Armenian population in Van against the armed forces of the Ottoman Empire in June 1896 during the Hamidian massacres."
+}, {
+  "entityIndex" : "entity25335",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_Cincinnati",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "5 wounded)", "6 (1 killed" ],
+    "dbo:combatant" : [ "CSA (Confederacy)", "United States(Union)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Lew_Wallace", "http://dbpedia.org/resource/Henry_Heth" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kenton_County,_Kentucky", "http://dbpedia.org/resource/Cincinnati,_Ohio" ],
+    "dbo:result" : [ "Unionstrategic victory" ],
+    "dbo:strength" : [ "8,000", "85,000", "[approximate 25,000 military & 60,000 militia]", "[approximate]" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:date" : [ "--09-01" ]
+  },
+  "text" : "The Defense of Cincinnati occurred during what is now referred to as the Confederate Heartland Offensive (or Kentucky Campaign) of American Civil War from September 1 through September 13, 1862, when Cincinnati, Ohio, was threatened by Confederate forces. Confederate Brigadier General Henry Heth had been sent north to threaten Cincinnati, then the sixth largest city in the United States. Heth was under orders from his superior, Major General Edmund Kirby Smith not to attack the city, but to make a \"demonstration\". Cincinnati's mayor George Hatch ordered all business closed, and Union Major General Lew Wallace declared martial law, seized sixteen steamboats and had them armed, and organized the citizens of Cincinnati, Covington and Newport, Kentucky for defense. Among the groups organized were the Black Brigade, a volunteer force of free men of color. Although not armed, the Black Brigade was given a flag and paid $13 for one month's service (the same pay given to privates at that time). Along eight miles of hilltops from Ludlow to present-day Fort Thomas, Kentucky, volunteers and soldiers constructed rifle pits and earthwork fortifications, which were defended by 25,000 Union Army soldiers and 60,000 local militia volunteers, called \"Squirrel Hunters.\" Construction of the defenses was directed by Colonel Charles Whittlesey until relieved by Major James H. Simpson, chief of Topographical Engineers for the Department of the Ohio. On September 5, Ohio governor David Tod announced to the public that no additional volunteers would be needed for the defense of Cincinnati, but he advised that all military organizations be kept up for future needs. Heth and his men marched from Lexington, Kentucky on the Lexington Turnpike (present-day U.S. Route 25) arriving south of Covington on September 6. After reconnoitering the defenses at various points, he determined that an attack was pointless. Heth's forces stayed only a few days, skirmishing near Fort Mitchel on September 10–11 and returning south to Lexington on September 12, 1862. On September 12, Wallace telegraphed Major General Horatio Wright (commander of the Department of the Ohio) in Cincinnati: \"The skedaddle is complete; every sign of a rout. If you say so I will organize a column of 20,000 men to pursue to-night.\" The large pursuit was never ordered as most of the military forces were sent via steamboats to Louisville, Kentucky to prevent capture by General Braxton Bragg. However, small scouting forces were sent southward to harass the rear-guard of Heth's forces. A skirmish occurred at Florence, Kentucky on September 17. Another skirmish occurred near Walton, Kentucky on September 25 when Colonel Basil W. Duke attacked a Union camp of approximately 500 men near Snow's Pond. For his vigorous defense of the city, Wallace earned the nickname \"Savior of Cincinnati\" and within a month of the panic, the Squirrel Hunters returned to their homes."
+}, {
+  "entityIndex" : "entity25336",
+  "entityUrl" : "http://dbpedia.org/resource/Dingtao_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "5,000 killed, 12,000 captured" ],
+    "dbo:combatant" : [ "60px|Flag of the National Revolutionary ArmyNational Revolutionary Army", "60px|PLAPeople's Liberation Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Liu_Bocheng", "http://dbpedia.org/resource/Liu_Chih" ],
+    "dbo:date" : [ "1946-09-02" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Shandong", "http://dbpedia.org/resource/China" ],
+    "dbo:result" : [ "Communistvictory" ],
+    "dbo:strength" : [ "140,000+", "70,000+" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_Army.svg?width=300" ],
+    "dbp:casualties" : [ "3500" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Dingtao Campaign (定陶战役) was a series of battles fought between the nationalists and the communists during Chinese Civil War in the post World War II era, and resulted in the communist victory."
+}, {
+  "entityIndex" : "entity25337",
+  "entityUrl" : "http://dbpedia.org/resource/Dakota_War_of_1862",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "450–800 civilians", "77 soldiers" ],
+    "dbo:combatant" : [ "Dakota", "United States" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Pope_(military_officer)", "http://dbpedia.org/resource/Little_Crow", "http://dbpedia.org/resource/Wapasha_III", "http://dbpedia.org/resource/Henry_Hastings_Sibley", "http://dbpedia.org/resource/Big_Eagle", "http://dbpedia.org/resource/Chief_Shakopee" ],
+    "dbo:date" : [ "1862-08-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War", "http://dbpedia.org/resource/Sioux_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Minnesota", "http://dbpedia.org/resource/Dakota_Territory" ],
+    "dbo:result" : [ "United States victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/1904paintingAttackNewUlmAntonGag.jpg?width=300" ],
+    "dbp:align" : [ "left" ],
+    "dbp:alt" : [ "A tall stone spire", "A tall stone spire to the right of a U.S. flag on a pole" ],
+    "dbp:caption" : [ "1904", "http://dbpedia.org/resource/Camp_Release_State_Monument", "http://dbpedia.org/resource/Battle_of_Wood_Lake" ],
+    "dbp:casualties" : [ "--11-11" ],
+    "dbp:image" : [ "Camp Release Monument.jpg", "Wood Lake Monument.JPG" ],
+    "dbp:width" : [ "145", "(100 * 750 / 536) round 0" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Dakota War of 1862, also known as the Sioux Uprising, (and the Dakota Uprising, the Sioux Outbreak of 1862, the Dakota Conflict, the U.S.–Dakota War of 1862 or Little Crow's War) was an armed conflict between the United States and several bands of Dakota (also known as the eastern 'Sioux'). It began on August 17, 1862, along the Minnesota River in southwest Minnesota. It ended with a mass execution of 38 Dakota men on December 26, 1862, in Mankato, Minnesota. Throughout the late 1850s, treaty violations by the United States and late or unfair annuity payments by Indian agents caused increasing hunger and hardship among the Dakota. Traders with the Dakota previously had demanded that the government give the annuity payments directly to them (introducing the possibility of unfair dealing between the agents and the traders to the exclusion of the Dakota). In mid-1862, the Dakota demanded the annuities directly from their agent, Thomas J. Galbraith. The traders refused to provide any more supplies on credit under those conditions, and negotiations reached an impasse. On August 17, 1862, one young Dakota with a hunting party of three others killed five settlers while on a hunting expedition. That night a council of Dakota decided to attack settlements throughout the Minnesota River valley to try to drive whites out of the area. There has never been an official report on the number of settlers killed, although in Abraham Lincoln's second annual address, he noted that not less than 800 men, women, and children had died. Over the next several months, continued battles pitting the Dakota against settlers and later, the United States Army, ended with the surrender of most of the Dakota bands. By late December 1862, soldiers had taken captive more than a thousand Dakota, who were interned in jails in Minnesota. After trials and sentencing, 38 Dakota were hanged on December 26, 1862, in the largest one-day execution in American history. In April 1863, the rest of the Dakota were expelled from Minnesota to Nebraska and South Dakota. The United States Congress abolished their reservations."
+}, {
+  "entityIndex" : "entity25338",
+  "entityUrl" : "http://dbpedia.org/resource/Dongshan_Island_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2,664 killed715 captured" ],
+    "dbo:combatant" : [ "National Revolutionary Army", "People's Liberation Army", "60px|Flag of the National Revolutionary Army", "60px|PLA" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ye_Fei", "http://dbpedia.org/resource/Hu_Lien" ],
+    "dbo:date" : [ "1953-07-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Fujian", "http://dbpedia.org/resource/Dongshan_County" ],
+    "dbo:result" : [ "PLA victory" ],
+    "dbo:strength" : [ "10,000", "11,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Curtiss_C-46_Commando.JPG?width=300" ],
+    "dbp:casualties" : [ "1250" ],
+    "dbp:first" : [ "t" ],
+    "dbp:p" : [ "Dōngshān Dǎo Zhànyì" ],
+    "dbp:s" : [ "东山岛战役" ],
+    "dbp:t" : [ "東山島戰役" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Dongshan Island Campaign (traditional Chinese: 東山島戰役; simplified Chinese: 东山岛战役; pinyin: Dōngshān Dǎo Zhànyì) was a series of battles fought on the Dongshan Island, Fujian between the Nationalists and the Communists during the Chinese Civil War when the nationalists unsuccessfully attempted to retake the island from the Communists. The campaign was the last and largest battle between two sides since the Nationalists withdrew to Taiwan. After this defeat, the nationalists realized that it was never practical to launch any large scale counterattack against the mainland on a similar scale again. Instead, the nationalist strikes against the mainland were reduced to limited infiltration and skirmishes."
+}, {
+  "entityIndex" : "entity25339",
+  "entityUrl" : "http://dbpedia.org/resource/Diyala_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "106 killed (U.S. forces),", "22 killed (U.S.-allied Iraqi militia)", "300 killed (Iraqi security forces)", "Total: 428 killed" ],
+    "dbo:combatant" : [ "United States", "Peshmerga", "22pxNew Iraqi Army", "Iraqi insurgency", "25pxal-Qaeda in Iraq" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abu_Ayyub_al-Masri", "http://dbpedia.org/resource/Abdul_Karim_al-Obaidi", "http://dbpedia.org/resource/Ahmed_al-Kozaee", "http://dbpedia.org/resource/Benjamin_R.Mixon" ],
+    "dbo:date" : [ "2006-12-25" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Iraq_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Diyala_Governorate", "http://dbpedia.org/resource/Iraq" ],
+    "dbo:result" : [ "U.S. Victory" ],
+    "dbo:strength" : [ "2,000", "2,000 (Peshmerga)", "20,000 (Iraqi forces)", "4,200 (U.S. forces)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USArmy_soldiers_covering.jpg?width=300" ],
+    "dbp:caption" : [ "Soldiers take cover behind a Stryker vehicle during a firefight" ],
+    "dbp:casualties" : [ "1070" ],
+    "dbp:colourScheme" : [ "background:#ffcccc" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Diyala province campaign was a series of operations conducted by coalition forces against Iraqi insurgents and a number of bombing and guerrilla attacks against the security forces in Diyala Governorate of Iraq, with the purpose of control of the province."
+}, {
+  "entityIndex" : "entity25340",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_Schwedt_Bridgehead",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "2nd Belorussian Front, Soviet Union", "9th Army Germany" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Otto_Skorzeny", "http://dbpedia.org/resource/Heinrich_Himmler", "http://dbpedia.org/resource/Konstantin_Rokossovsky" ],
+    "dbo:date" : [ "1945-03-03" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Schwedt" ],
+    "dbo:result" : [ "Successful Soviet deception" ],
+    "dbo:strength" : [ "Originally a Kampfgruppe, later XI SS Panzer Corps", "Deception by 2nd Guards Tank Army, supported by 61st and 49th Armies" ],
+    "dbp:partof" : [ "World War II" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The defense of the Schwedt bridgehead was a German 3rd Panzer Army operation on the Eastern Front during the final months of World War II. German forces, commanded by Otto Skorzeny, were ordered to prepare to conduct a counter-offensive. However they were forced to hold a bridgehead against expected numerically superior forces of the Soviet 2nd Belorussian Front (Marshal Konstantin Rokossovsky) for 31 days. Their position was largely ignored during the Red Army's Cottbus-Potsdam Offensive Operation which breached German defenses at Gartz to the north of Schwedt. This was unexpected because it required the Red Army to cross the Randowbruch Swamp that lay between the Oder and Randow rivers."
+}, {
+  "entityIndex" : "entity25341",
+  "entityUrl" : "http://dbpedia.org/resource/Dodecanese_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 cruiser crippled", "10 minesweepers and coastal defense ships sunk", "113 aircraft lost", "3 cruisers heavily damaged", "3 submarines sunk", "4 destroyers severely damaged", "4 submarines damaged", "44,391 POWs", "6 destroyers sunk", "British:4,800 casualties", "Italian:5,350 killed & wounded" ],
+    "dbo:combatant" : [ "Poland", "Kingdom of Italy" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Robert_Tilney", "http://dbpedia.org/resource/Inigo_Campioni", "http://dbpedia.org/resource/Friedrich-Wilhelm_Müller" ],
+    "dbo:date" : [ "1943-11-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Mediterranean_and_Middle_East_theatre_of_World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dodecanese_Islands", "http://dbpedia.org/resource/Aegean_Sea" ],
+    "dbo:result" : [ "Germanvictory" ],
+    "dbo:strength" : [ "5,300 British", "55,000 Italians", "7,500 Germans" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Nomos_Dodekanisou.png?width=300" ],
+    "dbp:caption" : [ "Location of the Dodecanese Islands  in relation to Greece" ],
+    "dbp:casualties" : [ "15", "1184" ],
+    "dbp:territory" : [ "German occupation of the Dodecanese" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Dodecanese Campaign of World War II was an attempt by Allied forces to capture the Italian-held Dodecanese islands in the Aegean Sea following the surrender of Italy in September 1943, and use them as bases against the German-controlled Balkans. Operating without air cover, the Allied effort failed, with the whole of the Dodecanese falling to the Germans within two months, and the Allies suffering heavy losses in men and ships. The Dodecanese Campaign, lasting from 8 September to 22 November 1943, resulted in one of the last big German victories in the war."
+}, {
+  "entityIndex" : "entity25342",
+  "entityUrl" : "http://dbpedia.org/resource/Dos_de_Mayo_Uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "200&ndash;500 dead, including 113 prisoners executed" ],
+    "dbo:combatant" : [ "First French Empire", "Spain" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Luís_Daoíz_de_Torres", "http://dbpedia.org/resource/Joachim_Murat", "http://dbpedia.org/resource/Pedro_Velarde_y_Santillán" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Peninsular_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/Madrid" ],
+    "dbo:result" : [ "*Mass executions in reprisal", "*Outbreak of thePeninsular War", "*Uprising suppressed but insurrection spreads throughout Spain" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/El_dos_de_mayo_de_1808_en_Madrid.jpg?width=300" ],
+    "dbp:caption" : [ "The Second of May 1808: The Charge of the Mamelukes, by Francisco de Goya ." ],
+    "dbp:casualties" : [ "31" ],
+    "dbp:date" : [ "1808-05-02" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Dos de Mayo of 1808, was a rebellion by the people of Madrid against the occupation of the city by French troops, provoking the repression by the French Imperial forces and triggering the Peninsular War."
+}, {
+  "entityIndex" : "entity25343",
+  "entityUrl" : "http://dbpedia.org/resource/Dade_Massacre",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "107 killed", "2 wounded (1 mortally)" ],
+    "dbo:combatant" : [ "SeminoleIndians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Micanopy", "http://dbpedia.org/resource/Francis_L._Dade", "http://dbpedia.org/resource/Thlocklo_Tustenuggee" ],
+    "dbo:date" : [ "1835-12-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Seminole_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Florida" ],
+    "dbo:result" : [ "Decisive Seminole victory" ],
+    "dbo:strength" : [ "110", "180", "1 six-pounder gun" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Dade_battlefield_historic_state_park_01.JPG?width=300" ],
+    "dbp:caption" : [ "http://dbpedia.org/resource/Dade_Battlefield_Historic_State_Park" ],
+    "dbp:casualties" : [ "3", "5" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The \"Dade Massacre\" was an 1835 defeat for the United States Army that greatly escalated the Second Seminole War, which lasted until 1842."
+}, {
+  "entityIndex" : "entity25344",
+  "entityUrl" : "http://dbpedia.org/resource/Dominican_Restoration_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Kingdom of Spain", "Dominican Republic" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Santiago_Rodríguez_Masagó", "http://dbpedia.org/resource/Isabel_II_of_Spain", "http://dbpedia.org/resource/Furcy_Fondeur", "http://dbpedia.org/resource/Gregorio_Luperón", "http://dbpedia.org/resource/Pedro_Santana", "http://dbpedia.org/resource/José_de_la_Gándara_y_Navarro", "http://dbpedia.org/resource/Gaspar_Polanco" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dominican_Republic" ],
+    "dbo:result" : [ "Dominican victory* Restoration of Dominican sovereignty* Withdrawal of Spanish forces" ],
+    "dbp:casualties" : [ "Spain: 7,340 dead , 33 million pesos" ],
+    "dbp:date" : [ "1863" ]
+  },
+  "text" : "The Dominican Restoration War was a guerrilla war between 1863 and 1865 in the Dominican Republic between nationalists and Spain, who had recolonized the country 17 years after its independence. It ended with a Dominican victory and the withdrawal of Spanish forces from the country."
+}, {
+  "entityIndex" : "entity25345",
+  "entityUrl" : "http://dbpedia.org/resource/Drummuckavall_Ambush",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "None" ],
+    "dbo:combatant" : [ "British Army", "border|22pxProvisional IRA" ],
+    "dbo:date" : [ "1975-11-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/The_Troubles" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/County_Armagh" ],
+    "dbo:result" : [ "IRA success", "SASdeployed to Northern Ireland" ],
+    "dbo:strength" : [ "1infantry section", "Up to 12 IRA members" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/IrishRepublicanFlag.png?width=300" ],
+    "dbp:casualties" : [ "1", "3" ],
+    "dbp:commander" : [ "Unknown", "Lance Corporal Paul Johnson" ],
+    "dbp:latitude" : [ "54.0519" ],
+    "dbp:longitude" : [ "-6.56986" ],
+    "dbp:mapMarksize" : [ "5" ],
+    "dbp:mapRelief" : [ "yes" ],
+    "dbp:mapSize" : [ "300" ],
+    "dbp:mapType" : [ "Northern Ireland" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Drummuckavall Ambush was an attack by the South Armagh Brigade of the Provisional Irish Republican Army (IRA) on a British Army observation post southeast of Crossmaglen, County Armagh, along the border with the Republic of Ireland. It occurred on 22 November 1975 and resulted in the deaths of three British soldiers."
+}, {
+  "entityIndex" : "entity25346",
+  "entityUrl" : "http://dbpedia.org/resource/Defence_of_the_Reich",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "*18,000 American aircraft", "*22,000 RAF Bomber Command aircraft", "40,000 aircraft destroyed", "79,265 American airmen", "79,281 RAF Bomber Command personnel" ],
+    "dbo:combatant" : [ "Slovakia", "Other Allies" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder", "http://dbpedia.org/resource/Carl_Spaatz", "http://dbpedia.org/resource/Hermann_Göring", "http://dbpedia.org/resource/Trafford_Leigh-Mallory", "http://dbpedia.org/resource/Ira_C._Eaker", "http://dbpedia.org/resource/Hans_Jeschonnek", "http://dbpedia.org/resource/Charles_Portal,_1st_Viscount_Portal_of_Hungerford", "http://dbpedia.org/resource/Josef_Kammhuber", "http://dbpedia.org/resource/Hans-Jürgen_Stumpff", "http://dbpedia.org/resource/Hugo_Sperrle", "http://dbpedia.org/resource/Sir_Arthur_Harris,_1st_Baronet", "http://dbpedia.org/resource/James_H._Doolittle" ],
+    "dbo:date" : [ "1939-09-04" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Campaigns_of_World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/German–occupied_Europe" ],
+    "dbo:result" : [ "Allied victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Second_world_war_europe_1941-1942_map_en.png?width=300" ],
+    "dbp:caption" : [ "Scope of the Defence of the Reich campaign." ],
+    "dbp:casualties" : [ "57405", "500000", "At least 700-800 tanks", "at least 23,000 motor vehicles destroyed", "at least 4,500 passenger wagons", "at least 450 locomotives", "at least 6,500 goods wagons" ]
+  },
+  "text" : "The Defence of the Reich (German: Reichsverteidigung) is the name given to the strategic defensive aerial campaign fought by the Luftwaffe over German-occupied Europe and Germany during the Second World War. Its aim was to prevent the destruction of German civilians, military and civil industries by the Western Allies. The day and night air battles over Germany during war involved thousands of aircraft, units and aerial engagements to counter the Allied strategic bombing campaign. The campaign was one of the longest in the history of aerial warfare and with the Battle of the Atlantic and the Allied Blockade of Germany was the longest of the war. The Luftwaffe fighter force (Jagdwaffe) defended the airspace of German-occupied territory against attack, first by RAF Bomber Command and then against the United States Army Air Forces (USAAF). In the early years, the Luftwaffe was able to inflict a string of defeats on Allied strategic air forces. In 1939, Bomber Command was forced to operate at night, by the extent of losses of unescorted heavy bombers flying in daylight. In 1943, the USAAF suffered several reverses in daylight and called off the offensive over Germany in October. The British built up their bomber force and introduced navigational aids and tactics such as the bomber stream that enabled them to mount larger and larger attacks with an acceptable loss rate. In February 1944, the USAAF introduced the P-51 Mustang, a fighter capable of escorting the USAAF bombers to and from their targets. With new fighter tactics, the Eighth Air Force gained air supremacy over Nazi Germany by the spring of 1944 against, the Reichsluftverteidigung (RLV), which was overwhelmed and the Luftwaffe lost air superiority. By the summer of 1944, the Luftwaffe was also suffering from chronic fuel shortages and a lack of trained pilots and it ceased to be an effective fighting force by 1945. By the end of the campaign, American forces claimed to have destroyed 35,783 enemy aircraft and the RAF claimed 21,622, for a total of 57,405 German aircraft claimed destroyed. The USAAF dropped 1.46 million tons of bombs on Axis-occupied Europe while the RAF dropped 1.31 tons, for a total of 2.77 million tons, of which 51.1 percent was dropped on Germany. The intensification of night bombing by the RAF and daylight attacks by the USAAF added to the destruction of German industries and cities, which caused the economy to collapse in the winter of 1944–45. By this time, the Allied armies had reached the German border and the strategic campaign became fused with the tactical battles over the front. The air campaign continued until April 1945, when the last strategic bombing missions were flown and it ended upon the capitulation of Germany on 8 May."
+}, {
+  "entityIndex" : "entity25347",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_Brest_Fortress",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "429 dead, 668 wounded" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Fritz_Schlieper", "http://dbpedia.org/resource/Yefim_Fomin", "http://dbpedia.org/resource/Pyotr_Gavrilov", "http://dbpedia.org/resource/Ivan_Zubachyov" ],
+    "dbo:date" : [ "1941-06-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Soviet_Union", "http://dbpedia.org/resource/Brest,_Belarus" ],
+    "dbo:result" : [ "German victory" ],
+    "dbo:strength" : [ "17,000–20,000", "over 9,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Front_1941-06_to_1941-09.png?width=300" ],
+    "dbp:caption" : [ "The eastern front at the time of the Battle of Brest." ],
+    "dbp:casualties" : [ "about 6,800 captured", "more than 2,000 dead" ],
+    "dbp:commons" : [ "y" ],
+    "dbp:commonsSearch" : [ "Brest Fortress" ],
+    "dbp:portal" : [ "Military of Germany", "Soviet Union", "World War II" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The defence of Brest Fortress took place 22–29 June 1941. It was one of the first battles of Operation Barbarossa. The Brest Fortress, defended by the Red Army against the Wehrmacht, held out longer than expected and, after the Second World War had finished, became a symbol of Soviet resistance. In 1965 the fortress received the title of Hero Fortress for the 1941 defense."
+}, {
+  "entityIndex" : "entity25348",
+  "entityUrl" : "http://dbpedia.org/resource/Dinnieh_clashes",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "12 killed" ],
+    "dbo:combatant" : [ "Lebanese Army", "22pxTakfir wa al-Hijra" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Francois_al-Hajj" ],
+    "dbo:date" : [ "1999-12-30" ],
+    "dbo:status" : [ "Lebanese Army victory" ],
+    "dbo:strength" : [ "13,000", "200-300" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Jihad.svg?width=300" ],
+    "dbp:casualties" : [ "25", "55" ],
+    "dbp:commander" : [ "Bassam Ahmad Kanj" ],
+    "dbp:place" : [ "Dinnieh district" ]
+  },
+  "text" : "The Dinnieh fighting (30 December 1999-6 January 2000) involved the Islamist group Takfir wa al-Hijra and the Lebanese Army fighting for eight days in the mountainous Dinnieh region, east of the northern Lebanese port of Tripoli. Over a period of several days, an estimated 13,000 Lebanese army troops backed by tanks and artillery swiftly defeated the group of 200-300 rebels, driving isolated bands of surviving guerrillas into remote areas of north Lebanon. The Lebanese army reported a total of 12 soldiers killed in action, while 25 rebels were killed and 55 captured."
+}, {
+  "entityIndex" : "entity25349",
+  "entityUrl" : "http://dbpedia.org/resource/Dekemvriana",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,000 wounded", "1,000-1,200 killed", "733 missing", "c:210 killed" ],
+    "dbo:combatant" : [ "RAN", "National Liberation Front", "*3rd Greek Mountain Brigade", "*Cities Police", "*Greek People's Liberation Army", "*Hellenic Gendarmerie", "23pxOrganization X", "*Organization for the Protection of the People's Struggle", "Greek government-in-exile", "some members of theSecurity Battalions", "ΡΕΑΝ" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Winston_Churchill", "http://dbpedia.org/resource/Georgios_Papandreou", "http://dbpedia.org/resource/Thrasyvoulos_Tsakalotos", "http://dbpedia.org/resource/Archbishop_Damaskinos_of_Athens", "http://dbpedia.org/resource/Georgios_Grivas", "http://dbpedia.org/resource/Georgios_Siantos", "http://dbpedia.org/resource/Ronald_Scobie", "http://dbpedia.org/resource/Christodoulos_Tsigantes", "http://dbpedia.org/resource/Nikolaos_Plastiras", "http://dbpedia.org/resource/Manolis_Mantakas", "http://dbpedia.org/resource/Angelos_Evert" ],
+    "dbo:date" : [ "1944-12-03" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Greek_Civil_War", "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kingdom_of_Greece", "http://dbpedia.org/resource/Athens" ],
+    "dbo:result" : [ "*Treaty of Varkiza", "British ArmyandGovernment of Greecevictory" ],
+    "dbo:strength" : [ "80,000-90,000", "11,600", "17,800" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/5th_Scottish_Parachute_Battalion_Athens_1944.jpg?width=300" ],
+    "dbp:caption" : [ "--12-18" ],
+    "dbp:casualties" : [ "c.20,000 civilians killed", "c:2,000 killed", "max.3,000 civilians killed" ]
+  },
+  "text" : "The Dekemvriana (Greek: Δεκεμβριανά, \"December events\") refers to a series of clashes fought during World War II in Athens from 3 December 1944 to 11 January 1945 between the Greek left-wing Resistance forces (the EAM-ELAS, the KKE) and the British Army supported by the Greek Government, the Cities Police and the far-right Organization X of Georgios Grivas. The conflict was the culmination of months of tension between the communist EAM-ELAS, the country's largest resistance movement, which controlled most of Greece, and the British-backed government, which had returned from exile upon the Germans' withdrawal in October 1944. Although EAM had initially participated in the government, mounting differences with the traditional bourgeois parties led to the resignation of its ministers. On 3 December, a huge pro-EAM rally in central Athens was shot upon by the Police on orders from Angelos Evert, leaving 28 protesters dead and 148 wounded. The killings ushered a full-blown armed confrontation between EAM and the British, under General Ronald Scobie. The clashes were limited to Athens, and elsewhere in Greece, the situation remained tense but peaceful. The Dekemvriana ended with the defeat of EAM-ELAS, leading to its disarmament in the Varkiza Agreement. This first defeat broke the power of EAM and was followed by a period of \"White Terror\", which contributed to the outbreak of the Greek Civil War in 1946."
+}, {
+  "entityIndex" : "entity25350",
+  "entityUrl" : "http://dbpedia.org/resource/Drive_on_Munda_Point",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "100 killed", "1,000 evacuated forcombat stress", "1,700 injured or sick" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/J._Lawton_Collins", "http://dbpedia.org/resource/Oscar_Griswold", "http://dbpedia.org/resource/John_H._Hester", "http://dbpedia.org/resource/Minoru_Sasaki", "http://dbpedia.org/resource/Millard_Harmon", "http://dbpedia.org/resource/Richmond_K._Turner", "http://dbpedia.org/resource/Leonard_F._Wing", "http://dbpedia.org/resource/William_Halsey", "http://dbpedia.org/resource/Theodore_S._Wilkinson", "http://dbpedia.org/resource/Genjiro_Hirata" ],
+    "dbo:date" : [ "1943-07-17" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/New_Georgia", "http://dbpedia.org/resource/Solomon_Islands" ],
+    "dbo:result" : [ "Limited tactical gains by Allied forces" ],
+    "dbo:strength" : [ "30,000", "9,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/NGCreekTroops.jpg?width=300" ],
+    "dbp:caption" : [ "U.S. Army soldiers from the 172nd Infantry Regiment cross a creek during the drive towards Munda Point in July 1943" ],
+    "dbp:casualties" : [ "Unknown" ]
+  },
+  "text" : "The Drive on Munda Point was an offensive by mainly United States Army forces against Imperial Japanese forces on New Georgia in the Solomon Islands from 2–17 July 1943. The Japanese forces, mainly from the Imperial Japanese Army, were guarding an airfield at Munda Point on New Georgia that the U.S. wished to capture. The U.S. offensive made small gains because of limited combat experience by its soldiers, poor leadership by inexperienced US Army officers, harsh terrain and conditions on New Georgia, and effective defensive measures by the Japanese. The U.S. soldiers experienced an unusually high number of severe cases of combat stress reaction. The drive on Munda was halted on 17 July when the Japanese launched a large, ultimately unsuccessful, counterattack on the American forces. The Americans eventually secured the airfield in the Battle of Munda Point."
+}, {
+  "entityIndex" : "entity25351",
+  "entityUrl" : "http://dbpedia.org/resource/Dutch_Revolt",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Spanish Empire", "15pxHuguenots" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Robert_Dudley,_1st_Earl_of_Leicester", "http://dbpedia.org/resource/John_of_Austria", "http://dbpedia.org/resource/Albert_VII_of_Austria", "http://dbpedia.org/resource/Alexander_Farnese,_Duke_of_Parma", "http://dbpedia.org/resource/Ambrogio_Spinola", "http://dbpedia.org/resource/Fernando_Álvarez_de_Toledo,_Duke_of_Alba", "http://dbpedia.org/resource/Frederick_Henry,_Prince_of_Orange", "http://dbpedia.org/resource/Maurice_of_Nassau,_Prince_of_Orange", "http://dbpedia.org/resource/William_the_Silent", "http://dbpedia.org/resource/Philip_II_of_Spain" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Low_Countries", "http://dbpedia.org/resource/War" ],
+    "dbo:result" : [ "Independence of theDutch Republic", "Treaty of Münster" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Slag_bij_Nieuwpoort.jpg?width=300" ],
+    "dbp:caption" : [ "Prince Maurice at the Battle of Nieuwpoort by Pauwels van Hillegaert. Oil on canvas." ],
+    "dbp:date" : [ "1568" ],
+    "dbp:id" : [ "John_Lothrop_Motley" ],
+    "dbp:name" : [ "John Lothrop Motley" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Dutch Revolt (1566 or 1568–1648) was the successful revolt of the northern, largely Protestant Seven Provinces of the Low Countries against the rule of the Roman Catholic King Philip II of Spain, hereditary ruler of the provinces. The southern provinces initially joined in the revolt, but later submitted to Spain. The religious 'clash of cultures' built up gradually but inexorably into outbursts of violence against the perceived repression of the Habsburg Crown. These tensions led to the formation of the independent Dutch Republic. The first leader was William of Orange, followed by several of his descendants and relations. This revolt was one of the first successful secessions in Europe, and led to one of the first European republics of the modern era, the United Provinces. King Philip was initially successful in suppressing the rebellion. In 1572, however, the rebels captured Brielle and the rebellion resurged. The northern provinces became independent, first in 1581 de facto, and in 1648 de jure. During the revolt, the United Provinces of the Netherlands, better known as the Dutch Republic, rapidly grew to become a world power through its merchant shipping and experienced a period of economic, scientific, and cultural growth. The Southern Netherlands (situated in modern-day Belgium, Luxembourg, northern France and southern Netherlands) remained under Spanish rule. The continuous heavy-handed rule by the Habsburgs in the south caused many of its financial, intellectual, and cultural elite to flee north, contributing to the success of the Dutch Republic. The Dutch imposed a rigid blockade on the southern provinces which prevented Baltic grain relieving famine in the southern towns, especially from 1587 to 1589. By the end of the war in 1648, large areas of the Southern Netherlands had been lost to France which had, under the guidance of Cardinal Richelieu and Louis XIII of France, allied itself with the Dutch Republic in the 1630s against Spain. The first phase of the conflict can be considered to be the Dutch War of Independence. The focus of the latter phase was to gain official recognition of the already de facto independence of the United Provinces. This phase coincided with the rise of the Dutch Republic as a major power and the founding of the Dutch Empire."
+}, {
+  "entityIndex" : "entity25352",
+  "entityUrl" : "http://dbpedia.org/resource/De_Bono's_invasion_of_Abyssinia",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*13pxItalian Eritrea" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Emilio_De_Bono", "http://dbpedia.org/resource/Haile_Selassie_Gugsa", "http://dbpedia.org/resource/Seyum_Mangasha" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Italo-Abyssinian_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ethiopia", "http://dbpedia.org/resource/Eritrea", "http://dbpedia.org/resource/Tigray_(province)" ],
+    "dbo:result" : [ "Inconclusive" ],
+    "dbo:strength" : [ "Approx. 15,000", "Approx. 125,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Eritrea_COA.svg?width=300" ],
+    "dbp:date" : [ "--10-03" ],
+    "dbp:territory" : [ "Italians capture Makale" ]
+  },
+  "text" : "De Bono's invasion of Abyssinia took place during the opening stages of the Second Italo-Abyssinian War. Italian General Emilio De Bono invaded northern Abyssinia from staging areas in the Italian colony of Eritrea on what was known as the \"northern front.\""
+}, {
+  "entityIndex" : "entity25353",
+  "entityUrl" : "http://dbpedia.org/resource/Drone_strikes_in_Pakistan",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "9 (U.S. intelligence agents, incl. CIA officers)" ],
+    "dbo:combatant" : [ "*", "Foreign Mujahideen", "al-Qaeda", "Taliban", "Tehrik-i-Taliban Pakistan", "*CIA", "Lashkar-e-Islam", "TNSM", "Haqqani network", "Islamic State affiliates", "Uzbek Islamic Movement" ],
+    "dbo:date" : [ "2004-06-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_in_Afghanistan_(2001–present)", "http://dbpedia.org/resource/War_on_Terror", "http://dbpedia.org/resource/War_in_North-West_Pakistan" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Pakistan", "http://dbpedia.org/resource/Federally_Administered_Tribal_Areas" ],
+    "dbo:status" : [ "* 3 drone strikes in 2016", "* CIA drone strikes were limited,", "but are still continuing", "* Destruction of numerous insurgent camps and safe havens", "* 64 high-level insurgent leaders and thousands of low-level insurgents killed" ],
+    "dbo:strength" : [ "Unknown", "~30 UAVs" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_States_Central_Intelligence_Agency.svg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:bgcolor" : [ "AliceBlue" ],
+    "dbp:casualties" : [ "158", "255", "423", "Bureau of Investigative Journalism:", "Civilian deaths: 158-965", "Long War Journal:", "New America Foundation:", "~2,000-3,000+ militants killed" ],
+    "dbp:qalign" : [ "right" ],
+    "dbp:qstyle" : [ "text-align: left;" ],
+    "dbp:quote" : [ "Compare Mr. Obama's use of drone strikes with that of his predecessor. During the Bush administration, there was an American drone attack in Pakistan every 43 days; during the first two years of the Obama administration, there was a drone strike there every four days.", "US drone strikes are extremely unpopular in Pakistan. A 2012 poll by the Pew Research Center's Global Attitude project found that only 17% of Pakistanis supported drone strikes. And remarkably, among those who professed to know a lot or a little about drones, 97% considered drone strikes bad policy." ],
+    "dbp:salign" : [ "right" ],
+    "dbp:source" : [ "Peter Bergen, April 2012", "Stanford Law School, September 2012" ],
+    "dbp:sstyle" : [ "text-align: right;" ],
+    "dbp:style" : [ "bold" ],
+    "dbp:tstyle" : [ "text-align: left;" ],
+    "dbp:width" : [ "40.0" ]
+  },
+  "text" : "Since 2004, the United States government has attacked thousands of targets in Northwest Pakistan using unmanned aerial vehicles (drones) controlled by the Central Intelligence Agency's Special Activities Division. Most of these attacks are on targets in the Federally Administered Tribal Areas along the Afghan border in Northwest Pakistan. These strikes began during the administration of United States President George W. Bush, and have increased substantially under his successor Barack Obama. Some in the media have referred to the attacks as a \"drone war\". The George W. Bush administration officially denied the extent of its policy; in May 2013, the Obama administration acknowledged for the first time that four US citizens had been killed in the strikes. Surveys have shown that the strikes are deeply unpopular in Pakistan, where they have contributed to a negative perception of the United States. The US administration and Pakistani authorities have publicly claimed that civilian deaths from the attacks are minimal. Leaked military documents reveal that the vast majority of people killed have not been the intended targets, with approximately 13% of deaths being the intended targets, 81% being other militants, and 6% being civilians. The identities of collateral victims are usually not investigated by US forces, who systematically count each male military-age corpse as an \"enemy killed in action\" unless there is clear proof to the contrary, as long as the male was in a militant facility at the time. Estimates for civilian deaths range from 158 to 965. Amnesty International found that a number of victims were unarmed and that some strikes could amount to war crimes. Pakistan's Prime Minister, Nawaz Sharif, has repeatedly demanded an end to the strikes, stating: \"The use of drones is not only a continual violation of our territorial integrity but also detrimental to our resolve and efforts at eliminating terrorism from our country\". The Peshawar High Court has ruled that the attacks are illegal, inhumane, violate the Universal Declaration of Human Rights and constitute a war crime. The Obama administration disagrees, contending that the attacks do not violate international law and that the method of attack is precise and effective."
+}, {
+  "entityIndex" : "entity25354",
+  "entityUrl" : "http://dbpedia.org/resource/Defense_of_Hengyang",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2,900 died of other causes", "3,100 civilian deaths", "4,700 KIA", "9,400 captured (including 8,000 injured)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Isamu_Yokoyama", "http://dbpedia.org/resource/Fang_Xianjue" ],
+    "dbo:date" : [ "1944-08-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Hengyang" ],
+    "dbo:result" : [ "Japanese captured Hengyang" ],
+    "dbo:strength" : [ "10th corps, 17,000 men", "11th army, 110,000+ men" ],
+    "dbp:caption" : [ "Chinese soldiers open fire with a captured Japanese machine gun" ],
+    "dbp:casualties" : [ "Chinese estimate: 48,000 dead and wounded", "Japanese claim: 19,000 dead and wounded" ]
+  },
+  "text" : "The Battle of Hengyang was the longest defense of a single city of the entire Second Sino-Japanese War. When Changsha fell to the Imperial Japanese Army on June 19, 1944, Hengyang became their next target. The reorganized 11th Army, consisting of 10 divisions, 4 brigades, and over 110,000 men, assumed the task of attacking Hengyang. The city was an important railroad junction and Hengyang Airport was used by USAAC General Claire Lee Chennault's Flying Tigers which were engaged in bombing operations of the Japanese homeland. Therefore, Field Marshal Hajime Sugiyama(杉山 元), chief of imperial staff and war minister, ordered the city must be taken at all costs. On June 22, Japanese 68th and 116th divisions received their orders to attack the city and to take it within 2 days, which started the 48 days of siege and defense."
+}, {
+  "entityIndex" : "entity25355",
+  "entityUrl" : "http://dbpedia.org/resource/Dutch_pacification_campaign_on_Formosa",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "exact numbers unknown, casualties slight" ],
+    "dbo:combatant" : [ "Dutch East India Company", "Natives ofMattau,Bakloan,Soulang, Taccariang and Tevorang" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hans_Putmans" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Taiwan" ],
+    "dbo:result" : [ "Decisive Dutch victory, increased Dutch area of control" ],
+    "dbo:strength" : [ "unknown", "500 Dutch soldiers" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Dutch_East_India_Company.svg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:border" : [ "1" ],
+    "dbp:casualties" : [ "Mattau and Taccariang destroyed by fire", "c. 30 killed" ],
+    "dbp:commander" : [ "unknown" ],
+    "dbp:date" : [ "1635" ],
+    "dbp:fontsize" : [ "90.0" ],
+    "dbp:latitude" : [ "23.18" ],
+    "dbp:longitude" : [ "120.23" ],
+    "dbp:mapCaption" : [ "Location of Mattau, the most important", "target of the campaign" ],
+    "dbp:mapType" : [ "Taiwan" ],
+    "dbp:quote" : [ "Terms of the peace treaty between the VOC and Mattau" ],
+    "dbp:title" : [ "Peace Treaty" ],
+    "dbp:width" : [ "350" ]
+  },
+  "text" : "The Dutch Pacification Campaign on Formosa was a series of military actions and diplomatic moves undertaken in 1635 and 1636 by Dutch colonial authorities in Dutch-era Taiwan (Formosa) aimed at subduing hostile aboriginal villages in the southwestern region of the island. Prior to the campaign the Dutch had been in Formosa for eleven years, but did not control much of the island beyond their principal fortress at Tayouan, and an alliance with the town of Sinkan. The other aboriginal villages in the area conducted numerous attacks on the Dutch and their allies, with the chief belligerents being the village of Mattau, who in 1629 ambushed and slaughtered a group of sixty Dutch soldiers. After receiving reinforcements from the colonial headquarters at Batavia, the Dutch launched an attack in 1635 and were able to crush opposition and bring the area around present-day Tainan fully under their control. After seeing Mattau and Soulang, the most powerful villages in the area, defeated so comprehensively, many other villages in the surrounding area came to the Dutch to seek peace and surrender sovereignty. Thus the Dutch were able to dramatically expand the extent of their territorial control in a short time, and avoid the need for further fighting. The campaign ended in February 1636, when representatives from twenty-eight villages attended a ceremony in Tayouan to cement Dutch sovereignty. Solidifying the southwest under their rule, the Dutch were able to expand their operations from the limited entrepôt trading carried out by the colony prior to 1635. The expanded territory allowed access to the deer trade, which later became very lucrative, and guaranteed security in food supplies. It provided fertile land, which the Dutch used imported Chinese labour to farm. The aboriginal villages also provided warriors to aid the Dutch in times of trouble, notably in the Lamey Island Massacre of 1636, the Dutch defeat of the Spanish in 1642 and the Guo Huaiyi Rebellion in 1652. The allied villages also provided opportunities for Dutch missionaries to spread their faith. The pacification campaign is considered the foundation stone on which the later success of the colony was built."
+}, {
+  "entityIndex" : "entity25356",
+  "entityUrl" : "http://dbpedia.org/resource/Destruction_of_the_Oberstift",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:combatant" : [ "20px|alt=Coat of Arms of the House of Neuenahr-AlpenHouse of Neuenahr-Alpen", "20px|alt=Coat of Arms of the Prince Elector of CologneGebhard Truchsess von Waldburg, Prince-Elector, Cologne 1578-1588", "20px|alt=Coat of Arms of the House of WittelsbachHouse of Wittelsbach", "20px|alt=Coat of Arms of the Prince-Elector of CologneErnst of BavariaPrince-Elector, Cologne, 1583-1612", "20px|alt=Coat of Arms of the House of Mansfeld (main line)House of Mansfeld(main line)", "20px|alt=Coat of Arms of the House of Isenburg-GrenzauHouse of Isenburg-Grenzau", "20px|alt=Coat of Arms of the House of WaldburgHouse of Waldburg" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Karl,_Truchsess_von_Waldburg", "http://dbpedia.org/resource/Ferdinand_of_Bavaria_(Wittelsbach)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cologne_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Electorate_of_Cologne" ],
+    "dbo:result" : [ "no winners" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Cologne_War_1.svg?width=300" ],
+    "dbp:caption" : [ "Several dozen small towns and fortified farms and villages south of Bruhl were plundered and burned." ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:date" : [ "late December 1582 – June 1583" ],
+    "dbp:mapCaption" : [ "Electorate of Cologne" ]
+  },
+  "text" : "The destruction of the Oberstift , which included Linz, Ahrweiler, and other small towns and villages, occurred in the opening months of the Cologne War, from Christmas Day, 1582 until the end of March, 1583. Over these few weeks, armies of the competing archbishops of Cologne burned the southern-most villages, cloisters, and small towns. It the Cologne War (1583–1589) two men competed for control of the Electorate of Cologne and sought to control one of the wealthiest Electorates in the Holy Roman Empire. Their contest lasted until 1589, when Gebhard Truchsess von Waldburg renounced his claim and moved to Strassbourg; Ernst of Bavaria became uncontested Prince elector of Cologne, the first Wittelsbach to hold the position; his family maintained their hold on it until 1761. Under his direction, Jesuits introduced the Counter-Reformation to the north-western German states and under the leadership of his successors, these territories remained a Catholic stronghold until the late eighteenth century."
+}, {
+  "entityIndex" : "entity25357",
+  "entityUrl" : "http://dbpedia.org/resource/Dutch_West_Indies_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:commander" : [ "http://dbpedia.org/resource/François-Joseph_Paul,_Comte_de_Grasse-Tilly", "http://dbpedia.org/resource/Samuel_Hood,_1st_Viscount_Hood", "http://dbpedia.org/resource/Charles_Hector,_comte_d'Estaing", "http://dbpedia.org/resource/George_Brydges_Rodney,_1st_Baron_Rodney", "http://dbpedia.org/resource/Luc_Urbain_de_Bouexic,_comte_de_Guichen" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Fourth_Anglo-Dutch_War", "http://dbpedia.org/resource/Anglo-French_War_(1778–83)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/South_America", "http://dbpedia.org/resource/Dutch_Antilles", "http://dbpedia.org/resource/West_Indies" ],
+    "dbo:result" : [ "Status quo ante bellum" ]
+  },
+  "text" : "The Dutch West Indies campaign was a series of minor conflicts in 1781 and 1782, in the Fourth Anglo-Dutch War and the Anglo-French War. Following Great Britain's declaration of war on the Dutch Republic in December 1780, British Admiral George Brydges Rodney, the commander of the Royal Navy in the West Indies, was notified by a fast-sailing packet of the declaration. He immediately acted to gain control over as many of the Dutch colonies as possible, seizing Sint Eustatius, a vital entrepot of French and Dutch trade with the Americans, in early February 1781. He also captured Saba and Sint Maarten, and orchestrated the seizure of the Dutch colonial outposts of Berbice, Demerara, and Essequibo in South America. A planned expedition by Samuel Hood against Curaçao was called off on rumors that a French fleet was approaching. French action later in 1781 and in 1782 recovered the territories taken by the British, although Sint Eustatius never recovered its importance as a trading point."
+}, {
+  "entityIndex" : "entity25358",
+  "entityUrl" : "http://dbpedia.org/resource/Dutch_intervention_in_Lombok_and_Karangasem",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "166 (November 1894)", "500 (August 1894)" ],
+    "dbo:combatant" : [ "25pxNetherlands", "Eastern Sasak", "LombokMataram", "Western Sasak" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Jacobus_Augustinus_Vetter", "http://dbpedia.org/resource/P.P.H._van_Ham" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Lombok" ],
+    "dbo:result" : [ "Decisive Dutch victory. Dutch control of Lombok andKarangasem." ],
+    "dbo:strength" : [ "2,200 (July expedition)" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Lombok_1894_J._Hoynck_van_Papendrecht_1858_1933.jpg?width=300" ],
+    "dbp:caption" : [ "Attack of the Dutch on a Balinese stronghold in Lombok in 1894." ],
+    "dbp:casualties" : [ "Thousands" ],
+    "dbp:date" : [ "July–November 1894" ]
+  },
+  "text" : "The Dutch intervention in Lombok and Karangasem took place in 1894, and is part of the string of Dutch interventions in and around Bali, Dutch East Indies (now: Indonesia), that led to complete colonization of both Bali and Lombok by the early 20th century."
+}, {
+  "entityIndex" : "entity25359",
+  "entityUrl" : "http://dbpedia.org/resource/December_1964_South_Vietnamese_coup",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Army of the Republic of Vietnam(ARVN)", "High National Council", "other civilian politicians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Nguyễn_Khánh", "http://dbpedia.org/resource/Nguyễn_Chánh_Thi", "http://dbpedia.org/resource/Nguyễn_Cao_Kỳ" ],
+    "dbo:date" : [ "1964-12-19" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ho_Chi_Minh_City", "http://dbpedia.org/resource/South_Vietnam" ],
+    "dbo:result" : [ "High National Councildissolved", "Nguyễn Khánhpolitical victory" ],
+    "dbo:strength" : [ "None", "Unknown small number" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Nguyễn_Khánh_1964.jpg?width=300" ],
+    "dbp:caption" : [ "Nguyễn Khánh, the leader of the coup. Image taken in 1964" ],
+    "dbp:casualties" : [ "None" ],
+    "dbp:commander" : [ "Not applicable" ]
+  },
+  "text" : "The December 1964 South Vietnamese coup took place before dawn on December 19, 1964, when the ruling military junta of South Vietnam led by General Nguyễn Khánh dissolved the High National Council (HNC) and arrested some of its members. The HNC was an unelected legislative-style civilian advisory body they had created at the request of the United States—South Vietnam's main sponsor—to give a veneer of civilian rule. The dissolution dismayed the Americans, particularly the ambassador, Maxwell D. Taylor, who engaged in an angry war of words with various generals including Khánh and threatened aid cuts. They were unable to do anything about the fait accompli that had been handed to them, because they strongly desired to win the Vietnam War and needed to support the Army of the Republic of Vietnam. Instead, Taylor's searing verbal attacks were counterproductive as they galvanized the Vietnamese officers around the embattled Khánh. At the time, Khánh's leadership was under threat from his fellow generals, as well as Taylor, who had fallen out with him and was seeking his removal. The genesis of the removal of the HNC was a power struggle within the ruling junta. Khánh, who had been saved from an earlier coup attempt in September 1964 by the intervention of some younger generals dubbed the Young Turks, was indebted to them and needed to satisfy their wishes to stay in power. The Young Turks disliked a group of older officers who had been in high leadership positions but were now in powerless posts, and wanted to sideline them completely. As a result, they decided to hide their political motives by introducing a policy to compulsorily retire all general officers with more than 25 years of service. The chief of state Phan Khắc Sửu, an elderly figure appointed by the military to give a semblance of civilian rule, did not want to sign the decree without the agreement of the HNC, which mostly consisted of old men. The HNC recommended against the new policy, and the younger officers, led by I Corps commander General Nguyễn Chánh Thi and Air Marshal Nguyễn Cao Kỳ, disbanded the body and arrested some of its members along with other politicians. As a result of this event, Taylor summoned Khánh to his office. Khánh sent Thi, Kỳ, the commander of the Republic of Vietnam Navy Admiral Chung Tấn Cang and IV Corps commander General Nguyễn Văn Thiệu, and after beginning with \"Do all of you understand English?\", Taylor harshly berated them and threatened cuts in aid. While angered by Taylor's manner, the officers defended themselves in a restrained way. The next day Khánh met Taylor and the Vietnamese leader made oblique accusations that the U.S. wanted a puppet ally; he also criticized Taylor for his manner the previous day. When Taylor told Khánh he had lost confidence in his leadership, Taylor was threatened with expulsion, to which he responded with threats of total aid cuts. Later however, Khánh said he would leave Vietnam along with some other generals he named, and during a phone conversation, asked Taylor to help with travel arrangements. He then asked Taylor to repeat the names of the would-be exiles for confirmation, and Taylor complied, not knowing that Khánh was taping the dialogue. Khánh then showed the tape to his colleagues out of context, misleading them into thinking that Taylor wanted them expelled from their own country to raise the prestige of his embattled leadership. Over the next few days, Khánh embarked on a media offensive, repeatedly criticizing U.S. policy and decrying what he saw as an undue influence and infringement on Vietnamese sovereignty, explicitly condemning Taylor and declaring the nation's independence from \"foreign manipulation\". Khánh and the Young Turks began preparations to expel Taylor before changing their minds; however, Khánh's misleading tactics had rallied the Young Turks around his fragile leadership for at least the short-term future. The Americans were forced to back down on their insistence that the HNC be restored and did not carry through on Taylor's threats to cut off aid, despite Saigon's defiance."
+}, {
+  "entityIndex" : "entity25360",
+  "entityUrl" : "http://dbpedia.org/resource/Deh_Bala_wedding_party_airstrike",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "2008-07-06" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Afghanistan", "http://dbpedia.org/resource/Deh_Bala,_Afghanistan", "http://dbpedia.org/resource/Nangarhar_Province", "http://dbpedia.org/resource/Dih_Bala_District" ],
+    "dbo:result" : [ "47 civilians killed including 39 women and children and 8 teenagers, another nine wounded" ]
+  },
+  "text" : "The Deh Bala wedding party airstrike was an attack by United States military forces on July 6, 2008, in which 47 Afghans were killed. The group was claimed to be escorting a bride to a wedding ceremony in the groom's village in Dih Bala district of Nangarhar province, Afghanistan. The United States Government denied that civilians were killed in the incident. An investigation by the Afghan Government disagreed and determined that 47 civilians, including the bride, had been killed."
+}, {
+  "entityIndex" : "entity25361",
+  "entityUrl" : "http://dbpedia.org/resource/Dalmatian_Campaign_(1809)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Gospić: 1,004", "Gračac: 300", "Pribudić: light", "Zrmanja River: 1,200" ],
+    "dbo:combatant" : [ "First French Empire", "Austrian Empire" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Auguste_Marmont" ],
+    "dbo:date" : [ "1809-05-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_the_Fifth_Coalition" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dalmatia", "http://dbpedia.org/resource/Croatia" ],
+    "dbo:result" : [ "French victory" ],
+    "dbo:strength" : [ "14,000", "8,100–9,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Marmont.jpg?width=300" ],
+    "dbp:casualties" : [ "Gospić: 764, 2-5 guns", "Gračac: 300", "Pribudić: 1,000", "Zrmanja River: 250" ],
+    "dbp:commander" : [ "Andreas Stoichevich", "Matthias Rebrovich" ]
+  },
+  "text" : "The Dalmatian Campaign saw several battles fought between 30 April and 21 May 1809 by Auguste Marmont's First French Empire soldiers and Andreas von Stoichevich's Austrian Empire troops. The Austrians drove the French from their positions on the Zrmanja River at the end of April. But in mid-May, the French counterattack forced back the Austrians. The defenders offered stout resistance, but ultimately Marmont broke out of Dalmatia and joined Emperor Napoleon's army near Vienna with over 10,000 men. The campaign was fought during the War of the Fifth Coalition, part of the Napoleonic Wars. Dalmatia is part of the modern-day nation of Croatia. At the beginning of the conflict, the Austrians thrust across the Zrmanja and forced the French back to the fortified cities. After the Austrian defeat and subsequent retreat from Italy of the army of Archduke John of Austria, Marmont launched his own offensive. The French beat the Austrians at Pribudić, capturing Stoichevich, and moved north. Two more actions were fought at Gračac on 17 May and Gospić on 21 May before Marmont reached Ljubljana (Laibach) in Carniola. Continuing north, the French general fought in the Battle of Graz on 25 and 26 June and in the decisive Battle of Wagram on 5 and 6 July."
+}, {
+  "entityIndex" : "entity25362",
+  "entityUrl" : "http://dbpedia.org/resource/Despenser's_Crusade",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Kingdom of England", "Kingdom of France", "Papal States", "County of Flanders", "Ghentrebels", "Avignon Papacy" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Louis_de_Male", "http://dbpedia.org/resource/Henry_le_Despenser", "http://dbpedia.org/resource/Charles_VI_of_France", "http://dbpedia.org/resource/Urban_VI", "http://dbpedia.org/resource/Antipope_Clement_VII" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Crusade", "http://dbpedia.org/resource/Hundred_Years_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Flanders" ],
+    "dbo:result" : [ "English withdrawal" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/English_conquests_in_france_1382.jpg?width=300" ],
+    "dbp:caption" : [ "Map of France in 1382, showing English conquests in pink and Flanders  in yellow" ],
+    "dbp:date" : [ "December 1382 – September 1383" ]
+  },
+  "text" : "Despenser's Crusade (or the Bishop of Norwich's Crusade, sometimes just Norwich Crusade) of 1383 was a military expedition led by Henry le Despenser that aimed to assist the city of Ghent in its struggle against the supporters of Antipope Clement VII. It took place during the great Papal schism and the Hundred Years' War between England and France. While France supported Clement, whose court was based in Avignon, the English supported Pope Urban VI in Rome. Popular at the time among the lower and middle classes, Despenser's Crusade \"was only widely criticised in hindsight\", and \"for all its canonical propriety, [it] was the Hundred Years' War thinly disguised\". Among contemporary critics of the crusade were John Wyclif and the French chronicler Jean Froissart, who charged its leaders with hypocrisy."
+}, {
+  "entityIndex" : "entity25363",
+  "entityUrl" : "http://dbpedia.org/resource/Drexel_Mission_Fight",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "LakotaSioux", "BruléSioux" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Guy_V._Henry", "http://dbpedia.org/resource/James_W._Forsyth", "http://dbpedia.org/resource/Two_Strike_(Lakota_leader)" ],
+    "dbo:date" : [ "1890-12-30" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Ghost_Dance_War", "http://dbpedia.org/resource/Sioux_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Pine_Ridge,_South_Dakota" ],
+    "dbo:result" : [ "U.S. victory" ],
+    "dbo:strength" : [ "7th U.S. Cavalry", "9th U.S. Cavalry" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Site_of_Drexel_Mission_Fight_Pine_Ridge_Indian_Reservation-1890.jpg?width=300" ],
+    "dbp:caption" : [ "The 'Bloody Pocket'; location of the Drexel Mission Fight" ]
+  },
+  "text" : "The Drexel Mission Fight was an armed confrontation between Lakota warriors and the United States Army that took place on the Pine Ridge Indian Reservation in South Dakota on December 30, 1890, the day after the Wounded Knee Massacre. The fight occurred on White Clay Creek approximately 15 miles north of Pine Ridge where Lakota were purported to have burned the Catholic Mission. Seventh Cavalry under the command of Col. James W. Forsyth with eight troops and a platoon of artillery, the same elements engaged at Wounded Knee the previous day, became engaged by Brulé Lakota from the Rosebud Indian Reservation after reconnoitering to determine if the Catholic mission had been torched. These Indians were purported to be the same Brulé Lakota under Chief Two Strike that had attacked the 9th Cavalry's supply train earlier that morning. The Seventh Cavalry was hotly engaged in a valley by the combined Lakota forces while trying to break contact and withdraw. A battalion of the Ninth Cavalry, a Buffalo Soldier regiment under the command of Maj. Guy V. Henry and nicknamed the Henry's Brunettes, responded to Forsyth's request for assistance, and the combined cavalry forces drove the Lakota from commanding positions on the heights. In an investigation of the Drexel Mission fight, Maj. Gen. Nelson A. Miles, the commanding general of the Pine Ridge Campaign, severely criticized Forsyth for allowing his command to be pinned down in a valley. He submitted his findings as a supplement to his investigation of Forsyth's conduct at Wounded Knee. Secretary of War Redfield Proctor set aside the Drexel Mission investigation after exonerating Forsyth of any wrongdoing at Wounded Knee. Three soldiers were awarded the Medal of Honor for actions at White Clay Creek including to Captain Charles A. Varnum, First Sergeant Theodore Ragnar, and Farrier Richard J. Nolan. Almost three decades later Second Lieutenant Sedgwick Rice was awarded a Distinguished Service Medal."
+}, {
+  "entityIndex" : "entity25364",
+  "entityUrl" : "http://dbpedia.org/resource/Dissident_Irish_Republican_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "British Army: 2 killed", "NIPS: 2 killed", "PSNI: 2 killed", "RUC: 1 killed" ],
+    "dbo:combatant" : [ "*Continuity IRA", "*Real IRA", "United Kingdom", "*Garda Síochána", "*British Army(until 2007)", "*INLA(from 1997 -1998)", "*IRLA(since 2006)", "*Orange Volunteers(since July 1998)", "*Police Service of Northern Ireland(since 2001)", "*Real Ulster Freedom Fighters(since 2007)", "*Red Hand Defenders(since September 1998)", "*Royal Ulster Constabulary(until 2001)", "*Óglaigh na hÉireann(since 2009)", "Anti-ceasefireRepublicanparamilitaries", "Anti-ceasefireUlster paramilitaries", "Republic of Ireland" ],
+    "dbo:notes" : [ "Civilian deaths: 105 (including suspected or alleged informers and drug dealers)", "Total injured: 420+ (as of July 2016)", "Total killed: 156 (as of July 2016)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/England", "http://dbpedia.org/resource/Northern_Ireland", "http://dbpedia.org/resource/Republic_of_Ireland" ],
+    "dbo:status" : [ "Ongoing" ],
+    "dbo:strength" : [ "Garda Síochána16,328", "PSNI: 7,200", "Real IRA: 250-300", "*Orange Volunteers: ~25 *Red Hand Defenders: Unknown *Real Ulster Freedom Fighters: ~50", "Óglaigh na hÉireann: ~50", "Continuity IRA: 200 (less than fifty of whom are considered \"hardcore members\")" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ireland-Capitals.PNG?width=300" ],
+    "dbp:caption" : [ "Political map of Ireland" ],
+    "dbp:casualties" : [ "Total: 32 killed", "Total: 8 killed" ],
+    "dbp:date" : [ "1998" ]
+  },
+  "text" : "Since the Provisional Irish Republican Army (IRA) called a ceasefire and ended its armed campaign in 1997, breakaway groups opposed to the ceasefire (\"dissident Irish republicans\") have continued a low-level armed campaign against the British security forces in Northern Ireland. The main paramilitaries involved are the Real IRA, Continuity IRA and Óglaigh na hÉireann. They have targeted the British Army and Police Service of Northern Ireland (PSNI, successor of the Royal Ulster Constabulary) in gun and bomb attacks, as well as with mortars and rockets. They have also carried out bombings that are meant to cause disruption. However, their campaign has not been as intensive as the Provisional IRA's. In 2007, the British government declared the end of Operation Banner, ending the four-decade long deployment of the British Army in Northern Ireland. As a result, the PSNI has since been the main target of attacks, however British Armed Forces stationed in Northern Ireland are still targeted. The dissident republican campaign began towards the end of the Troubles, a 30-year period of conflict in Northern Ireland that resulted in over 3,500 deaths. The Good Friday Agreement of May 1998 is generally seen as marking the end of the Troubles. Like the Provisional IRA, the main Ulster loyalist paramilitaries have also been on ceasefire. However, dissident (anti-ceasefire) loyalists have continued to engage in terrorist actions and violence also; although it is mostly unrelated to the republican campaign. To date, two British soldiers, two PSNI officers and two Prison Service guard have been killed as part of the republican campaign. At least 105 civilians have also been killed by republican and loyalist paramilitaries, 29 of whom died in the Omagh bombing carried out by the Real IRA. For a timeline of the campaign, see the timelines of Real IRA actions, Continuity IRA actions and Óglaigh na hÉireann actions."
+}, {
+  "entityIndex" : "entity25365",
+  "entityUrl" : "http://dbpedia.org/resource/Death_of_Muammar_Gaddafi",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Libyan Arab Jamahiriya", "*Libyan Armed Forces", "*National Liberation Army", "National Transitional Council", "NATO command" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Muammar_Gaddafi", "http://dbpedia.org/resource/Abu-Bakr_Yunis_Jabr", "http://dbpedia.org/resource/Mustafa_Abdul_Jalil", "http://dbpedia.org/resource/Mutassim_Gaddafi", "http://dbpedia.org/resource/Suleiman_Mahmoud", "http://dbpedia.org/resource/Mahmoud_Jibril", "http://dbpedia.org/resource/Hamid_Hassy" ],
+    "dbo:date" : [ "2011-10-20" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/2011_Libyan_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Sirte" ],
+    "dbo:result" : [ "Muammar Gaddafikilled" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/2011_Battle_of_Sirte.svg?width=300" ],
+    "dbp:caption" : [ "Situation in Sirte just prior to Gaddafi's death" ],
+    "dbp:close" : [ "1" ],
+    "dbp:colwidth" : [ "30" ]
+  },
+  "text" : "Muammar Gaddafi, the deposed leader of Libya, died on 20 October 2011 during the Battle of Sirte, aged c. 69. Gaddafi was found hiding in a culvert west of Sirte and captured by National Transitional Council forces. He was killed shortly afterwards. The NTC initially claimed he died from injuries sustained in a firefight when loyalist forces attempted to free him, although videos of his last moments show rebel fighters beating him and one of them sodomizing him with a bayonet before he was shot several times as he shouted for his life."
+}, {
+  "entityIndex" : "entity25366",
+  "entityUrl" : "http://dbpedia.org/resource/Day_of_Thirst",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Umayyad Caliphate", "TurgeshKhaganateand Transoxianian allies" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Suluk_(Turgesh_khagan)", "http://dbpedia.org/resource/Muslim_ibn_Sa'id_al-Kilabi" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Muslim_conquest_of_Transoxiana", "http://dbpedia.org/resource/Umayyad-Turgesh_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Khujand" ],
+    "dbo:result" : [ "Decisive Turgesh victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Transoxiana_8th_century.svg?width=300" ],
+    "dbp:caption" : [ "Map of Transoxiana in the 8th century" ],
+    "dbp:date" : [ "724" ]
+  },
+  "text" : "The \"Day of Thirst\" (Arabic: ﻳﻮﻢ ﺍلعطش‎‎, Yawm al-aṭash) is the name traditionally given in Arabic historiography to a battle fought in 724 between the Turkic Turgesh khaganate and the Umayyad Caliphate on the banks of the river Jaxartes, in Transoxiana (in modern Tajikistan, Central Asia). The Umayyad army, under Muslim ibn Sa'id al-Kilabi, was campaigning in the Ferghana Valley when it learned of the Turgesh advance. Immediately, the Arabs began a hasty retreat to the Jaxartes, pursued and harassed by the Turgesh cavalry. Finally, after 11 days, the Umayyad army reached the Jaxartes, where it was caught between the Turgesh and the forces of the native Transoxianian principalities. Nevertheless, the Arabs managed to break through and cross the river to Khujand. The Umayyad defeat led to the collapse of Muslim rule over much of the region, which until ca. 740 remained disputed territory, with both the Arabs and the Turgesh fighting for control over it."
+}, {
+  "entityIndex" : "entity25367",
+  "entityUrl" : "http://dbpedia.org/resource/December_2011_Jabal_al-Zawiya_massacres",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "235+ defectors killed" ],
+    "dbo:combatant" : [ "Syrian Army", "Free Syrian Army" ],
+    "dbo:date" : [ "2011-12-20" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Idlib_Governorate_clashes_(September_2011–March_2012)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Syria", "http://dbpedia.org/resource/Zawiya_Mountain" ],
+    "dbo:result" : [ "Syrian Army victory" ],
+    "dbo:strength" : [ "~500", "~300" ],
+    "dbp:casualties" : [ "60", "120" ],
+    "dbp:latitude" : [ "35.9252" ],
+    "dbp:longitude" : [ "36.5694" ],
+    "dbp:mapRelief" : [ "yes" ],
+    "dbp:mapSize" : [ "290" ],
+    "dbp:mapType" : [ "Syria" ],
+    "dbp:units" : [ "15", "Unknown" ]
+  },
+  "text" : "The Jabal al-Zawiya massacres took place on 19–20 December 2011, in the Idlib province of Syria during the 2011-2012 Idlib Governorate clashes between the Syrian Army and opposition forces, within the larger scope of the 2011-2012 Syrian uprising. Human rights and opposition activists said that some 200 people were killed by Syrian security forces in the hills and villages of the north-western province of Idlib on 19 and 20 December 2011. The state Syrian news agency claimed that 1 terrorist was killed and several more wounded. The event occurred following a large scale defection of hundreds of Syrian soldiers on 19 December, while some 70 of them were gunned down by loyalists. On 20 December, government forces backed by tanks reportedly launched an operation to hunt down the defectors who managed to escape."
+}, {
+  "entityIndex" : "entity25368",
+  "entityUrl" : "http://dbpedia.org/resource/December_2011_Baneh_clash",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 killed", "9 killed", "(Iranian claim)", "(PJAK claim)" ],
+    "dbo:combatant" : [ "Kurdistan Free Life Party(PJAK)", "*Basij" ],
+    "dbo:date" : [ "2011-12-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Iran–PJAK_conflict" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Iran" ],
+    "dbo:result" : [ "Indecisive" ],
+    "dbo:strength" : [ "unknown" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau_du_Parti_pour_une_vie_libre_au_Kurdistan_-_PJAK.png?width=300" ],
+    "dbp:casualties" : [ "4", "None" ]
+  },
+  "text" : "The Baneh clash was a military confrontation between Iranian security forces belonging to the Basij, the paramilitary branch of the Islamic Revolutionary Guard Corps (IRGC) and Kurdistan Free Life Party (PJAK) militants which occurred on December 28, 2011 According to Iranian media outlets Fars News and Press TV at least five people were killed during the clash, including one Basiji and four members of the PJAK, adding that several PJAK members had been injured. PJAK, however claims to have killed nine government forces during the clash while sustaining no casualties themselves. The PJAK claims that through this attack Iranian forces had violated the terms of a cease-fire between the two sides, releasing the following statement on their website on January 4: “This military operation and attack by the Islamic Republic occurs even though, since September 5, both sides had declared a ceasefire, which we have not violated.”"
+}, {
+  "entityIndex" : "entity25369",
+  "entityUrl" : "http://dbpedia.org/resource/Death_of_Dave_Sharrett_II",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "2008-01-16" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Iraq" ],
+    "dbo:result" : [ "Two U.S. soldiers killed by insurgent fire, one killed by friendly forces" ]
+  },
+  "text" : "On 16 January 2008, United States Army Private First Class Dave Sharrett II was killed during a battle with insurgents near Balad, Iraq during the Iraq War. Subsequent investigation determined Sharrett was shot a single time by his commanding officer, then-Lieutenant Timothy Hanson."
+}, {
+  "entityIndex" : "entity25370",
+  "entityUrl" : "http://dbpedia.org/resource/Day_of_Zamora",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "22pxKingdom of Asturias", "22pxEmirate of Córdoba" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Alfonso_III_of_León", "http://dbpedia.org/resource/Ahmed-ben-Moavia" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Reconquista" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/Zamora,_Spain" ],
+    "dbo:result" : [ "Victory for the Kingdom of Asturias" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Castillodezamora.jpg?width=300" ],
+    "dbp:caption" : [ "The walls of and trenches at Zamora." ],
+    "dbp:date" : [ "July, 901" ]
+  },
+  "text" : "The Day of Zamora (Spanish: Día de Zamora), also known as Jornada del Foso de Zamora (\"Zamora's trench [moat] Day\"), was a battle of the Spanish Reconquista that took place at the city of Zamora, Spain The battle was fought between the forces of the Kingdom of Asturias under the command of Alfonso III of Asturias and the Muslim forces of Ahmed-ben-Moavia (also called Abul Kassin). The battle ended with in victory for the city's defenders."
+}, {
+  "entityIndex" : "entity25371",
+  "entityUrl" : "http://dbpedia.org/resource/Demarcation_line_(France)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1940-06-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Armistice_at_Compiègne" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Compiègne" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Occupied_France", "http://dbpedia.org/resource/Zone_libre", "http://dbpedia.org/resource/Metropolitan_France" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Vichy_France_Map.jpg?width=300" ],
+    "dbp:caption" : [ "The Demarcation Line separated the Free Zone from the Occupied Zone." ],
+    "dbp:combatantsHeader" : [ "Parties" ]
+  },
+  "text" : "The French Demarcation line was the boundary line marking the division of Metropolitan France into the territory occupied and administered by the German Army (Zone occupée) in the northern and western part of France and the Zone libre (Free zone) in the south during World War II. It was created by the Armistice of June 22, 1940 after the fall of France in May 1940. The path of the demarcation line was specified in the Articles of the Armistice. It was also called the green line because it was marked green on the joint map produced at the Armistice Convention. In German, the line is known as the Demarkationslinie, often shortened to Dema-Linie or even Dema. Papers were required in order to cross the line legally, but few had this privilege. The demarcation line became moot in November 1942 after the Germans crossed the line and invaded the Free Zone in Operation Anton. After this, all of France was under German occupation, and the occupied zone north of the line became known as the \"northern Zone\" (Zone nord) and the former Zone libre became the \"southern zone\" (Zone sud). The line was officially annulled on March 1, 1943."
+}, {
+  "entityIndex" : "entity25372",
+  "entityUrl" : "http://dbpedia.org/resource/Damascus_offensive_(2013)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "735+ fighters killed" ],
+    "dbo:combatant" : [ "Syrian government", "*Syrian Armed Forces", "*Free Syrian Army", "PFLP – GC", "23pxSyrian Coalition", "Liwa Abu al-Fadhal al-Abbas", "**Ahrar ash-Sham", "**Kataib Hamza ibn Adulmutallib", "**Liwa Al-Islam", "*23pxAl-Nusra Front", "*Syrian Islamic Front", "*Syrian Islamic Liberation Front" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Zahran_Alloush", "http://dbpedia.org/resource/Issam_Zahreddine", "http://dbpedia.org/resource/Bashar_Al-Assad", "http://dbpedia.org/resource/Ahmed_Jibril" ],
+    "dbo:date" : [ "2013-03-25" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Syrian_civil_war" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Syria", "http://dbpedia.org/resource/Damascus" ],
+    "dbo:result" : [ "Partial rebel victory", "*Government forces launch acounter-offensiveto the east of Damascus in late March", "*Rebels capture parts of the ring road on the edge of Damascus and enter the city's Jobar district in early February", "*Rebels advance into the Qaboun and Kafar Souseh districts in late March" ],
+    "dbo:strength" : [ "*750–1,000 al-Nusra fighters", "4,500 fighters", "70,000 soldiers, 1000+ tanks" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Damascus_offensive_(February_2013).svg?width=300" ],
+    "dbp:caption" : [ "Frontlines in Rif Dimashq from February to March 2013" ],
+    "dbp:casualties" : [ "440" ],
+    "dbp:units" : [ "1", "3", "4", "10", "14", "http://dbpedia.org/resource/Republican_Guard_(Syria)", "http://dbpedia.org/resource/Damascus_Military_Council" ]
+  },
+  "text" : "The Damascus offensive (2013) refers to a series of rebel operations that began in early February 2013 in and around the city of Damascus. On 6 February, rebel forces launched an offensive, named \"Battle of Armageddon\", on the edge of Central Damascus, with rebels entering the Jobar District of Damascus after overrunning a Syrian Army roadblock. Parts of the Damascus ring road which acts as a barrier between Central Damascus and Ghouta were also seized by rebel fighters. Rebels have also launched attacks on Adra, north east of Damascus. On 10 February, a rebel claimed that opposition forces had captured another military checkpoint in the Jobar district. However, Syrian Observatory for Human Rights stated that while fighting for the highway continued, government troops regained control of the area after bombing rebel positions the day before. On 19 February, rebels began moving truckloads of anti aircraft weapons into Jobar in an effort to consolidate advances made in the Eastern Damascus district. On 20 February, a SCUD missile, fired by government forces, hit the command center of the islamist militia Liwa Al-Islam near Douma, which had been spearheading the attack against the roundabout and the Jobar district. Sheikh Zahran Alloush, the commander and founder of the brigade, had been wounded in the strike. The area was devastated and other rebel fighters were also killed or wounded. On 21 February, rebels launched 3 car bombings on security targets in the Barzeh neighbourhood in Damascus. Also fired several mortar rounds at the Syrian army's general staff headquarters in Umayyad Square, as well as other streets and squares known to house government and security offices, according to residents and activists. SOHR claimed that 22 people, mostly soldiers, were killed in these other attacks. On 27 February, SOHR claimed that rebels had fired several mortar shells which exploded in the military Judiciary and literature department of the University of Damascus. On 2 March, heavy fighting was reported in Darayya between rebels and the Syrian Army. The Local Coordination Committees of Syria claimed that rebels targeted a military column attempting to storm Darayya, and also defended several attempts by the government to storm Jobar. On 3 March, rebels reportedly fired several rockets at security forces headquarters in Damascus, though it is unknown if there were any casualties. On 12 March, 30 military deserters were killed in an Army ambush near Damascus while they were heading towards the rebel-held Eastern Ghouta area. On 18 March, rebels operating within Damascus launched mortar bombs at the Damascus Presidential Palace, though its unclear if there were any casualties. On 21 March, an explosion in the Iman Mosque in Al-Mazraa district killed as much as 41 people, including Sunni cleric, Sheikh Mohammed al-Buti. Al-Buti was one of the most prominent supporters of the Syrian government from the Sunni branch of Islam in Syria. Syrian State TV claimed the explosion was a suicide bombing, though some residents claim it was caused by a mortar bomb that struck a nearby political office. On 25 March, rebels launched one of their heaviest bombardments of Central Damascus since the revolt began, with mortars reportedly hitting Umayyad Square, where Baath Party headquarters, Air Force Intelligence and state television are also located. The attack was launched when rebel forces advanced into the Kafr Souseh district of Damascus, and the Syrian Army retaliated with artillery launched from Mount Qasioun."
+}, {
+  "entityIndex" : "entity25373",
+  "entityUrl" : "http://dbpedia.org/resource/Decembrist_revolution_(Argentina)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "22pxFederales", "23pxUnitarians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Manuel_Dorrego", "http://dbpedia.org/resource/Facundo_Quiroga", "http://dbpedia.org/resource/Gregorio_Aráoz_de_Lamadrid", "http://dbpedia.org/resource/Juan_Manuel_de_Rosas", "http://dbpedia.org/resource/Estanislao_López", "http://dbpedia.org/resource/José_María_Paz", "http://dbpedia.org/resource/Juan_Lavalle" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Argentine_Civil_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Argentina" ],
+    "dbo:result" : [ "Federal victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Fusilamiento_de_Dorrego.jpg?width=300" ],
+    "dbp:caption" : [ "Execution of Manuel Dorrego" ],
+    "dbp:date" : [ "1828" ]
+  },
+  "text" : "The Decembrist revolution (Spanish: Revolución decembrina) was a military coup in the Buenos Aires Province, Argentina. Juan Lavalle, returning with the troops that fought in the Argentine-Brazilian War, made a coup on December 1, 1828, deposed the governor Manuel Dorrego and closed the legislature. Dorrego was captured and executed a short time afterwards. The rancher Juan Manuel de Rosas organized militias that fought against Lavalle and removed him from power, restoring the legislature. However, as the coup had reignited the Argentine Civil Wars, Rosas was appointed governor of the Buenos Aires province to wage the war against the Unitarian League. José María Paz made from Córdoba a league of provinces, and so did Rosas. The conflict ended a short time after the unexpected capture of Paz, who mistook enemy troops for his own."
+}, {
+  "entityIndex" : "entity25374",
+  "entityUrl" : "http://dbpedia.org/resource/Delville_Wood_order_of_battle",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Douglas_Haig,_1st_Earl_Haig", "http://dbpedia.org/resource/Henry_Rawlinson,_1st_Baron_Rawlinson", "http://dbpedia.org/resource/Fritz_von_Below", "http://dbpedia.org/resource/Max_von_Gallwitz" ],
+    "dbo:date" : [ "1916-09-15" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Battle_of_the_Somme", "http://dbpedia.org/resource/First_World_War" ],
+    "dbo:notes" : [ "Only brigades and battalions that participated in the actions associated with theBattle of Delville Woodare shown. For details on the full organisation, seethe Order of Battle for the Somme." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/France" ],
+    "dbo:result" : [ "British victory" ],
+    "dbo:strength" : [ "9 divisions, 1 brigade" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Map_of_the_Battle_of_the_Somme,_1916.svg?width=300" ]
+  },
+  "text" : "This article is about the Delville Wood order of battle. The Battle of Delville Wood was fought from 14 July – 3 September 1916, one of the engagements of the Battle of the Somme. It was fought between Allied forces and the German Empire in the Somme River valley in northern France. The battle was the début of the 1st South African Brigade (part of the 9th (Scottish) Division) on the Western Front, which captured Delville Wood and held it from 15–19 July. The casualties of the brigade were similar to those of many British brigades on 1 July 1916. Delville Wood is well preserved with the remains of trenches, a museum and monument to the 1st South African Brigade. After the relief of the South Africans the battle for the wood continued until the end of August, when the last German footholds were captured by the 43rd Brigade of the 14th (Light) Division on 27 August. A large German counter-attack on 31 August regained part of the north edge of the wood until British attacks from 4–8 September, which secured the wood until the battles of 1918."
+}, {
+  "entityIndex" : "entity25375",
+  "entityUrl" : "http://dbpedia.org/resource/Donbass_Strategic_Offensive_(August_1943)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Germany", "Hungary", "Romania", "Soviet Union", "Italy" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Erich_von_Manstein", "http://dbpedia.org/resource/Joseph_Stalin", "http://dbpedia.org/resource/Filipp_Golikov", "http://dbpedia.org/resource/Fyodor_Isidorovich_Kuznetsov", "http://dbpedia.org/resource/Gusztáv_Jány", "http://dbpedia.org/resource/Adolf_Hitler", "http://dbpedia.org/resource/Paul_Ludwig_Ewald_von_Kleist", "http://dbpedia.org/resource/Erhard_Raus", "http://dbpedia.org/resource/Italo_Gariboldi", "http://dbpedia.org/resource/Petre_Dumitrescu", "http://dbpedia.org/resource/Dmitri_Danilovich_Lelyushenko", "http://dbpedia.org/resource/Vasili_Gerasimenko" ],
+    "dbo:date" : [ "1943-08-13" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Donets_Basin" ],
+    "dbo:result" : [ "Soviet victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Karte_-_Donezbecken-Operation_1943.png?width=300" ],
+    "dbp:caption" : [ "Map of the Donbass Offensive" ]
+  },
+  "text" : "The Donbass Strategic Offensive was a strategic operation of the Red Army on the Eastern Front of World War II with the goal of the liberation the Donbass from Nazi invaders. As a result of the Soviet victory, the contribution of the important economic region no longer benefited Nazi Germany, and by 1944 the Soviet Union had restarted its industrial operations in the region. As a byproduct of the Soviet offensive, the German Army was also forced to retreat from the Kuban."
+}, {
+  "entityIndex" : "entity25376",
+  "entityUrl" : "http://dbpedia.org/resource/Death_of_Lau_Yew",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "no serious casualties" ],
+    "dbo:combatant" : [ "Malayan Communist Party" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Lau_Yew" ],
+    "dbo:date" : [ "1948-07-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Malayan_Emergency" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Federation_of_Malaya" ],
+    "dbo:result" : [ "Death of key Malayan Communist Party leader" ],
+    "dbo:strength" : [ "20 police and detectives", "at least 30" ],
+    "dbp:casualties" : [ "11" ],
+    "dbp:commander" : [ "Bill Stafford" ]
+  },
+  "text" : "The Death of Lau Yew took place at the beginning of the Malayan Emergency. British security forces clashed with those of the Malayan Communist Party resulting in the death of one of their key leaders, Lau Yew. He had been betrayed by his own bodyguard. Six people were killed in the initial attack. Five Chinese women who had been captured by the British were then killed when 30 Communists counter-attacked."
+}, {
+  "entityIndex" : "entity25377",
+  "entityUrl" : "http://dbpedia.org/resource/December_2013_Kinshasa_attacks",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "103 killed, 100 arrested" ],
+    "dbo:combatant" : [ "DR Congo security forces", "Supporters ofPaul Joseph Mukungubila" ],
+    "dbo:date" : [ "2013-12-30" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kinshasa" ],
+    "dbo:result" : [ "Government forces regain control of area" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/KIH01.jpg?width=300" ],
+    "dbp:caption" : [ "http://dbpedia.org/resource/N'djili_Airport" ],
+    "dbp:casualties" : [ "One soldier killed, one UN civilian wounded" ]
+  },
+  "text" : "Attacks in Kinshasa, the capital of the Democratic Republic of the Congo, were launched by supporters of religious leader Paul Joseph Mukungubila against television studios, the airport and a military base in the capital on 30 December 2013. The state security forces responded, killing around 54 of the attackers. A further 47 of Mukungubila's supporters were killed in separate clashes in the cities of Lubumbashi and Kolwezi and around 100 people were arrested."
+}, {
+  "entityIndex" : "entity25378",
+  "entityUrl" : "http://dbpedia.org/resource/Dai_Hong_Dan_incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6 North Korean sailors wounded (3 seriously)" ],
+    "dbo:combatant" : [ "Somali Pirates" ],
+    "dbo:date" : [ "2007-10-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Operation_Enduring_Freedom_-_Horn_of_Africa" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Indian_Ocean", "http://dbpedia.org/resource/Mogadishu" ],
+    "dbo:result" : [ "North Korean victory, sailors take back control of ship." ],
+    "dbo:strength" : [ "1destroyer, 1 seized cargo", "7 pirates" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Dai_Hong_Dan.jpg?width=300" ],
+    "dbp:caption" : [ "Dai Hong Dan" ],
+    "dbp:casualties" : [ "1" ]
+  },
+  "text" : "The Dai Hong Dan incident refers to an incident on 29 October 2007, when North Korean cargo vessel MV Dai Hong Dan was attacked and temporarily seized by Somali pirates off Somalia. The following day, the crew of the vessel overpowered the pirates with support of a US vessel."
+}, {
+  "entityIndex" : "entity25379",
+  "entityUrl" : "http://dbpedia.org/resource/Demonstration_of_20_June_1792",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1792-06-20" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/French_Revolution" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Paris", "http://dbpedia.org/resource/France" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bild_Tuileriensturm1792.jpg?width=300" ],
+    "dbp:caption" : [ "Le Peuple pénètre dans le Château des Tuileries", "Pierre-Gabriel Berthault, 1800" ]
+  },
+  "text" : "The Demonstration of 20 June 1792 (French: Journée du 20 juin 1792) was the last peaceful attempt made by the people of Paris to persuade King Louis XVI of France to abandon his current policy and attempt to follow what they believed to be a more empathetic approach to governing. The demonstration occurred during the French Revolution. Its objectives were to convince the government to enforce the Legislative Assembly's, rulings, defend France against foreign invasion, and preserve the spirit of the French Constitution of 1791. The demonstrators hoped that the king would withdraw his veto and recall the Girondin ministers. The Demonstration was the last phase of the unsuccessful attempt to establish a constitutional monarchy in France. After the Insurrection of 10 August 1792, the monarchy fell."
+}, {
+  "entityIndex" : "entity25380",
+  "entityUrl" : "http://dbpedia.org/resource/Dzungar_conquest_of_Altishahr",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Dzungar Khanate", "Kumul Khanate", "Turfan Khanate", "IsḥāqiIsḥāqiyya Qara taghliq (Black Mountain) Naqshbandi Sufi Khojas (Khwāja)", "Chagatai Khanate(Yarkent Khanate)", "AfāqiĀfāqiyya Aq taghliq (White Mountain) Naqshbandi Sufi Khojas (Khwāja)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Afaq_Khoja", "http://dbpedia.org/resource/Galdan_Boshugtu_Khan", "http://dbpedia.org/resource/5th_Dalai_Lama", "http://dbpedia.org/resource/List_of_khans_of_the_Yarkent_Khanate" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Tarim_Basin" ],
+    "dbo:result" : [ "Dzungar victory" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Altishahr" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Xinjiang_regions_simplified.png?width=300" ],
+    "dbp:date" : [ "1678" ],
+    "dbp:units" : [ "120000", "Afaqi Turkic Muslim followers", "Chagatai Turkic Muslim troops", "Turfan and Kumul Turkic Muslims" ]
+  },
+  "text" : "The Dzungar conquest of Altishahr resulted in the Tibetan Buddhist Dzungar Khanate in Dzungaria conquering and subjugating the Genghisid-ruled Chagatai Khanate in Altishahr (the Tarim Basin). It put a final end to the independence of the Chagatai Khanate."
+}, {
+  "entityIndex" : "entity25381",
+  "entityUrl" : "http://dbpedia.org/resource/Daraa_offensive_(October_2014)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "63+ killed" ],
+    "dbo:combatant" : [ "*", "Supported by:", "(alleged)", "*National Defense Force", "*Syrian Armed Forces", "Free Syrian Army", "Syrian Arab Republic", "Islamic Front", "Al-Nusra Front", "Alwiya al-Furqan" ],
+    "dbo:date" : [ "2014-10-06" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Syrian_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Syria", "http://dbpedia.org/resource/Daraa_Governorate" ],
+    "dbo:result" : [ "Rebel victory", "* Army counter-attack on Deir al-Adas repelled" ],
+    "dbo:strength" : [ "Unknown" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Islamic_Front_(Syria)_(Black).svg?width=300" ],
+    "dbp:casualties" : [ "26", "53" ],
+    "dbp:commander" : [ "Brig. Gen. Mahmud Abo Arraj", "Brig. Gen. Nazir Fuddah", "Captain Abu Aws" ],
+    "dbp:territory" : [ "Rebels capture al-Harrah town, two villages, three checkpoints, Tell al-Harrah and its radar base" ],
+    "dbp:units" : [ "25", "Ababil Houran Brigade", "Amoud Houran Brigade", "Tawhid Kata’ib Horan" ]
+  },
+  "text" : "The October Daraa offensive, code-named \"wa al-Fajr wa Layali Asher\" (\"By the Dawn and ten nights\"), was a military operation launched by Syrian rebels during the Syrian civil war in Daraa Governorate, in an attempt to take control of Al-Harra and Al-Sanamayn. This operation came after the successful rebel offensive in Quneitra province, which resulted in the rebels seizing the Syrian-controlled side of the Golan and the capture of a number of towns, villages and hills in Quneitra and Daraa provinces."
+}, {
+  "entityIndex" : "entity25382",
+  "entityUrl" : "http://dbpedia.org/resource/Deir_ez-Zor_offensive_(December_2014)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "250+ killed (by 6 December)" ],
+    "dbo:combatant" : [ "Syrian Armed Forces", "Islamic State of Iraq and the Levant", "*Syrian Army", "*National Defense Force", "* Shaatat tribes" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Issam_Zahreddine" ],
+    "dbo:date" : [ "2014-12-13" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Syrian_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Syria", "http://dbpedia.org/resource/Deir_ez-Zor", "http://dbpedia.org/resource/Deir_ez-Zor_Governorate" ],
+    "dbo:result" : [ "Partial Syrian Army victory", "* ISIL captures al-Mari'iyah, al-Jafra, the Missiles Battalion base and the mountain overlooking Deir ez-Zor city", "* Syrian Army recaptures the mountain, the base, and most of al-Mari'iyah and al-Jafra" ],
+    "dbo:strength" : [ "Unknown", "150 soldiers (reinforcements)", "200 tribal fighters" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Islamic_State_of_Iraq_and_the_Levant.svg?width=300" ],
+    "dbp:casualties" : [ "43" ],
+    "dbp:commander" : [ "Abu al Faruq" ],
+    "dbp:units" : [ "17", "Military of ISIL" ]
+  },
+  "text" : "The Deir ez-Zor offensive (December 2014) was a military operation launched by the Islamic State of Iraq and the Levant (ISIL) on the Deir ez-Zor air base and the surrounding areas."
+}, {
+  "entityIndex" : "entity25383",
+  "entityUrl" : "http://dbpedia.org/resource/Dhuluiya_offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "73 fighters killed" ],
+    "dbo:combatant" : [ "Iraqi Security Forces", "*Iraqi Army", "Islamic State of Iraq and the Levant", "*Iraqi Police", "*Iraqi Air Force", "*Badr Organization", "*ISIS military", "*al-Jiburitribe", "Local Sunni tribesmen", "Shia militia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Haider_al-Abadi", "http://dbpedia.org/resource/Abu_Bakr_al-Baghdadi" ],
+    "dbo:date" : [ "2014-12-30" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Iraqi_Civil_War_(2014–present)", "http://dbpedia.org/resource/Salahuddin_campaign_(2014–15)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dhuluiya", "http://dbpedia.org/resource/Saladin_Governorate", "http://dbpedia.org/resource/Iraq", "http://dbpedia.org/resource/Balad_District,_Iraq" ],
+    "dbo:result" : [ "Decisive Iraqi troops victory", "* Iraqi security forces capture Dhuluiya and break the siege of the Juburi tribe" ],
+    "dbo:strength" : [ "Unknown" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Dhuluiya" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Iraqi_Ground_Forces_Flag.svg?width=300" ],
+    "dbp:casualties" : [ "300" ]
+  },
+  "text" : "Dhuluiya offensive was launched on 28 December 2014 by Iraqi forces backed by Sunni tribesmen and Shia militamen on the strategic town of Dhuluiya (Arabic: الضلوعية‎‎), which had been held by ISIS for months. On 30 December, the area was recaptured and the ISIS siege on the Sunni al-Juburi tribe was broken. It was part of a bigger campaign to fully clear the Saladin Governorate."
+}, {
+  "entityIndex" : "entity25384",
+  "entityUrl" : "http://dbpedia.org/resource/Daraa_offensive_(January_2015)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "77–97 killed" ],
+    "dbo:combatant" : [ "Supported by:", "Syrian Armed Forces", "Hezbollah", "*Syrian Army", "Free Syrian Army", "Islamic Front", "al-Nusra Front", "*Iranian IRGC", "*National Defence Force", "IraqiKata'ib Sayyid al-Shuhada" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Saber_Safar", "http://dbpedia.org/resource/Ibrahim_Fahad_Al_Naimi" ],
+    "dbo:date" : [ "2015-01-31" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Syrian_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Syria", "http://dbpedia.org/resource/Daraa_Governorate" ],
+    "dbo:result" : [ "Rebel victory", "* Army claims to have recaptured the Faroun Storage Facility, Oxygen Plant and Niqta Al-Masarat", "* Rebels capture the Brigade 82 base andShaykh Maskin" ],
+    "dbo:strength" : [ "Unknown", "Hundreds" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Syria-flag_1932-58_1961-63.svg?width=300" ],
+    "dbp:casualties" : [ "17" ],
+    "dbp:commander" : [ "Col. Mohammad Jaber", "Maj. Gen. Nadeem Squir Ayman" ],
+    "dbp:units" : [ "5", "Southern Front", "Two al-Nusra battalions" ]
+  },
+  "text" : "The Daraa offensive (January 2015), was a rebel offensive launched in Daraa Governorate during the Syrian civil war, in an attempt to capture the remaining Army positions in Shaykh Maskin, and thus secure the Daraa–Damascus highway, and other positions in Daraa province."
+} ]

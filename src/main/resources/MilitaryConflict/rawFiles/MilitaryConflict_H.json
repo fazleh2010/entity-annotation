@@ -1,0 +1,1279 @@
+[ {
+  "entityIndex" : "entity25806",
+  "entityUrl" : "http://dbpedia.org/resource/Hunters'_Lodges",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "United States", "Upper Canada", "Hunters' Lodges", "Republic of Canada" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Cyrille-Hector-Octave_Côté", "http://dbpedia.org/resource/Nils_von_Schoultz", "http://dbpedia.org/resource/George_Browne_(British_Army_officer)", "http://dbpedia.org/resource/Robert_Nelson_(insurrectionist)", "http://dbpedia.org/resource/Sheriff", "http://dbpedia.org/resource/James_FitzGibbon", "http://dbpedia.org/resource/William_Lyon_Mackenzie", "http://dbpedia.org/resource/Allan_MacNab", "http://dbpedia.org/resource/Samuel_Lount", "http://dbpedia.org/resource/Henry_Dundas,_3rd_Viscount_Melville", "http://dbpedia.org/resource/Donald_McLeod_(Upper_Canada_Rebellion)" ],
+    "dbo:date" : [ "1837-12-07" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Upper_Canada" ],
+    "dbo:result" : [ "Anglo-American victory" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Province_of_Canada" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_the_Windmill.jpg?width=300" ],
+    "dbp:caption" : [ "http://dbpedia.org/resource/Battle_of_the_Windmill" ]
+  },
+  "text" : "The Hunters' Lodge was the last of a series of secret organizations formed in 1838 in the United States in the Rebellions in the Canadas. The organization arose in Vermont among Lower Canadian refugees (the eastern division or Frères chasseurs) and spread westward under the influence of Dr Charles Duncombe and Donald McLeod, leaders of the short lived Canadian Refugee Relief Association, and Scotland native William Lyon Mackenzie, drawing in support from many different areas in North America and Europe. They also absorbed Henry S. Handy's 'Secret Order of the Sons of Liberty' in Detroit, into a Grand lodge in Cleveland."
+}, {
+  "entityIndex" : "entity25807",
+  "entityUrl" : "http://dbpedia.org/resource/Halabja_chemical_attack",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Iraq" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ali_Hassan_al-Majid" ],
+    "dbo:date" : [ "1988-03-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Iran–Iraq_War", "http://dbpedia.org/resource/Operation_Zafar_7", "http://dbpedia.org/resource/Al-Anfal_Campaign" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Halabja", "http://dbpedia.org/resource/Iraqi_Kurdistan" ],
+    "dbo:result" : [ "Iraqi victory", "* Kurdish and Iranian forces abandon Halabja, subsequent capture and demolition of the town by Iraqi forces" ],
+    "dbp:caption" : [ "Dead in a street of Halabja after the attack", "(A photo by Iranian photographer Sayeed Janbozorgi . Janbozorgi died in 2003 due to chemical injuries from the war.)" ],
+    "dbp:casualties" : [ "3200" ],
+    "dbp:casus" : [ "Kurdish uprising against Iraqi government with Iranian support" ]
+  },
+  "text" : "The Halabja chemical attack (Kurdish: Kîmyabarana Helebce کیمیابارانی ھەڵەبجە), also known as the Halabja Massacre or Bloody Friday, was a massacre against the Kurdish people that took place on March 16, 1988, during the closing days of the Iran–Iraq War in the Kurdish city of Halabja in Southern Kurdistan. The attack was part of the Al-Anfal Campaign in northern Iraq, as well as part of the Iraqi attempt to repel the Iranian Operation Zafar 7. It took place 48 hours after the fall of the town to Iranian army and Kurdish guerrillas. The attack killed between 3,200 and 5,000 people and injured 7,000 to 10,000 more, most of them civilians. Thousands more died of complications, diseases, and birth defects in the years after the attack. The incident, which has been officially defined by Supreme Iraqi Criminal Tribunal as a genocidal massacre against the Kurdish people in Iraq, was and still remains the largest chemical weapons attack directed against a civilian-populated area in history. The Halabja attack has been recognized as a distinct event of the Anfal Genocide conducted against the Kurdish people by the Iraqi regime under Saddam Hussein. The Iraqi High Criminal Court recognized the Halabja massacre as an act of genocide on March 1, 2010, a decision welcomed by the Kurdistan Regional Government. The attack was also condemned as a crime against humanity by the Parliament of Canada."
+}, {
+  "entityIndex" : "entity25808",
+  "entityUrl" : "http://dbpedia.org/resource/Hundred_Days",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ ";", "Hanover", "Naples", "Ottoman Empire", "Spain", "Tuscany", "French royalists", "Seventh Coalition: fourgreat powers", "Sweden–Norway", "Switzerland", "and their allies:" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Jean_Maximilien_Lamarque", "http://dbpedia.org/resource/Claude_Lecourbe", "http://dbpedia.org/resource/Gebhard_Leberecht_von_Blücher", "http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington", "http://dbpedia.org/resource/Frederick_Bianchi,_Duke_of_Casalanza", "http://dbpedia.org/resource/Joachim_Murat", "http://dbpedia.org/resource/Louis-Nicolas_Davout", "http://dbpedia.org/resource/Charles_Mathieu_Isidore_Decaen", "http://dbpedia.org/resource/Napoleon", "http://dbpedia.org/resource/Louis-Gabriel_Suchet", "http://dbpedia.org/resource/Michael_Andreas_Barclay_de_Tolly", "http://dbpedia.org/resource/Jean_Rapp", "http://dbpedia.org/resource/Karl_Philipp,_Prince_of_Schwarzenberg", "http://dbpedia.org/resource/Jean-de-Dieu_Soult", "http://dbpedia.org/resource/Johann_Maria_Philipp_Frimont", "http://dbpedia.org/resource/L'Armée_du_Nord", "http://dbpedia.org/resource/Bertrand_Clauzel", "http://dbpedia.org/resource/Guillaume_Marie_Anne_Brune" ],
+    "dbo:date" : [ "1815-07-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Napoleonic_Wars", "http://dbpedia.org/resource/Coalition_Wars" ],
+    "dbo:result" : [ "* Beginning of theConcert of Europe", "* End ofNapoleonic Wars", "Coalition victory,Second Treaty of Paris", "* Second exile ofNapoleonandsecond Bourbon Restoration" ],
+    "dbo:strength" : [ "280,000", "800,000–1,000,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Waterloo_1815.PNG?width=300" ],
+    "dbp:caption" : [ "The Battle of Waterloo, by William Sadler II" ],
+    "dbp:first" : [ "Archibald Frank", "John Holland" ],
+    "dbp:last" : [ "Rose", "Beck" ],
+    "dbp:pages" : [ "190", "371" ],
+    "dbp:place" : [ "France, present-day Belgium, present-day Italy" ],
+    "dbp:ref" : [ "harv" ],
+    "dbp:volume" : [ "19", "28" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ],
+    "dbp:wstitle" : [ "Napoleon I.", "Waterloo Campaign" ]
+  },
+  "text" : "The Hundred Days,  marked the period between Napoleon's return from exile on the island of Elba to Paris on 20 March 1815 and the second restoration of King Louis XVIII on 8 July 1815 (a period of 111 days). This period saw the War of the Seventh Coalition, and includes the Waterloo Campaign, the Neapolitan War as well as several other minor campaigns. The phrase les Cent Jours (the hundred days) was first used by the prefect of Paris, Gaspard, comte de Chabrol, in his speech welcoming the king back to Paris on 8 July. Napoleon returned while the Congress of Vienna was sitting. On 13 March, seven days before Napoleon reached Paris, the powers at the Congress of Vienna declared him an outlaw, and on 25 March Austria, Prussia, Russia and the United Kingdom, members of the Seventh Coalition, bound themselves to put 150,000 men each into the field to end his rule. This set the stage for the last conflict in the Napoleonic Wars, the defeat of Napoleon at the Battle of Waterloo, the restoration of the French monarchy for the second time and the permanent exile of Napoleon to the distant island of Saint Helena, where he died in May 1821."
+}, {
+  "entityIndex" : "entity25809",
+  "entityUrl" : "http://dbpedia.org/resource/Hutt_Valley_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "British Army", "United Kingdom", "Hutt Militia", "Māoriallies", "Ngāti Rangatahi", "Ngāti Toa", "Ngāti-Hāua-te-Rangi" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Te_Mamaku", "http://dbpedia.org/resource/Te_Rangihaeata" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/New_Zealand_wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/New_Zealand" ],
+    "dbo:result" : [ "British victory" ],
+    "dbp:commander" : [ "Major Edward Last" ],
+    "dbp:date" : [ "--03-03" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Hutt Valley Campaign was a brief round of hostilities in the lower North Island of New Zealand between indigenous Māori and British settlers and military forces in 1846. The campaign was among the earliest of the 19th century New Zealand wars that were fought over issues of land and sovereignty. It was preceded by the Wairau affray (June 1843) and followed by the Wanganui campaign (April–July 1847) and was triggered by much the same pressures—the careless land purchasing practices of the New Zealand Company, armed government support for settler land claims, and complex intertribal tensions between local Māori. The three conflicts also shared many of the same combatants. The campaign's most notable clashes were the Māori dawn raid on an imperial stockade at Boulcott's Farm on 16 May 1846 in which eight British soldiers and an estimated two Māori died, and the Battle of Battle Hill from 6–13 August as British troops, local militia and kūpapa Māori pursued a Ngāti Toa force led by chief Te Rangihaeata through steep and dense bushland. Ngāti Toa chief Te Rauparaha was taken into custody during the campaign; he was detained without charge in Auckland for two years. A 2003 report by the Waitangi Tribunal concluded the New Zealand Company's 1839 land purchases were invalid and that the Crown committed a number of breaches of the 1840 Treaty of Waitangi in subsequent dealings with Māori in the area."
+}, {
+  "entityIndex" : "entity25810",
+  "entityUrl" : "http://dbpedia.org/resource/Hussite_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "----", "Supported by:", "*45pxOrphans", "*45pxTaborites", "(1419-1424)", "(1423-1434)", "(1424-1434)", "(until 1424)", "*18pxBohemian Catholics", "*18pxCounty Palatine of the Rhine", "*18pxDuchies of Silesia", "*18pxDuchy of Austria", "*18pxDuchy of Bavaria", "*18pxElectorate of Saxony", "*18pxMargravate of Meissen", "*18pxMargraviate of Brandenburg", "*18pxMoravian Margraviate", "*18pxUpper Lusatia", "*45pxOrebites", "17pxKingdom of Poland", "18pxBohemian Hussite Nobility", "18pxGrand Duchy of Lithuania", "18pxHoly Roman Empire", "18pxKingdom of England", "18pxKingdom of Hungary", "18pxOrder of Malta", "18pxPapal States", "18pxSerbian Despotate", "18pxTeutonic Order", "22pxHussites(1419-1423)", "22pxModerate Hussites (Utraquists)(1423-1434)", "22pxRadical Hussites" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Władysław_II_Jagiełło", "http://dbpedia.org/resource/Frederick_I,_Elector_of_Saxony", "http://dbpedia.org/resource/Pope_Martin_V", "http://dbpedia.org/resource/John,_Count_Palatine_of_Neumarkt", "http://dbpedia.org/resource/Pippo_Spano", "http://dbpedia.org/resource/Čeněk_von_Wartenberg", "http://dbpedia.org/resource/Henry_Beaufort", "http://dbpedia.org/resource/Jan_Roháč_z_Dubé", "http://dbpedia.org/resource/Diviš_Bořek_of_Miletínek", "http://dbpedia.org/resource/Sigismund,_Holy_Roman_Emperor", "http://dbpedia.org/resource/Sigismund_Korybut", "http://dbpedia.org/resource/Jan_Žižka", "http://dbpedia.org/resource/Prokop_the_Great", "http://dbpedia.org/resource/Prokop_the_Lesser", "http://dbpedia.org/resource/Frederick_II,_Elector_of_Saxony", "http://dbpedia.org/resource/Hynek_Krušina_of_Lichtenburg", "http://dbpedia.org/resource/Jan_Čapek_ze_Sán", "http://dbpedia.org/resource/Jan_I_of_Żagań", "http://dbpedia.org/resource/Frederick_I_of_Brandenburg", "http://dbpedia.org/resource/Ulrich_II_von_Rosenberg", "http://dbpedia.org/resource/Bohuslav_von_Schwanberg", "http://dbpedia.org/resource/Henry_of_Hradec", "http://dbpedia.org/resource/Otto_von_Ziegenhain" ],
+    "dbo:date" : [ "1419-07-30" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Central_Europe", "http://dbpedia.org/resource/Crown_of_Bohemia" ],
+    "dbo:result" : [ "*Sigismund, Holy Roman EmperorbecomesKing of Bohemia", "* Hussite Church Becomes free from papal control", "* Hussite Victory", "* Compromise between the Utraquist Hussites and the council" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Josef_Mathauser_-_Jan_Žižka_s_knězem_Václavem_Korandou_roku_1420_hledí_s_Vítkova_na_Prahu.jpg?width=300" ],
+    "dbp:caption" : [ "Jan Žižka with a priest looking over Prague after the Battle of Vítkov Hill" ],
+    "dbp:casus" : [ "First Defenestration of Prague , burning of John Huss in 1415" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Hussite Wars, also called the Bohemian Wars or the Hussite Revolution, were fought between the Hussites (the followers of Bohemian priest and reformer Jan Hus) and various monarchs who sought to enforce the authority of the Roman Catholic Church against the Hussites, and also between Hussite factions. These wars lasted from 1419 to circa 1434. The Hussite community included most of the Czech population of the Kingdom of Bohemia, and formed a major military power. They defeated five crusades proclaimed against them by the Pope (1420, 1421, 1422, 1427 and in 1431), and intervened in the wars of neighboring countries. The Hussite Wars were notable for the extensive use of early hand-held firearms such as hand cannons. The fighting ended after 1434, when the moderate Utraquist faction of the Hussites defeated the radical Taborite faction. The Hussites agreed to submit to the authority of the King of Bohemia and the Church, and were allowed to practice their somewhat variant rite."
+}, {
+  "entityIndex" : "entity25811",
+  "entityUrl" : "http://dbpedia.org/resource/Herero_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "KIA: 676, MIA:76, WIA: 907, died from disease: 689, civilians: 100" ],
+    "dbo:combatant" : [ "German Empire", "Herero,Namaqua, and otherNamibians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hendrik_Witbooi_(Namaqua_chief)", "http://dbpedia.org/resource/Lothar_von_Trotha", "http://dbpedia.org/resource/Samuel_Maharero" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Scramble_for_Africa" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/German_South-West_Africa" ],
+    "dbo:result" : [ "German victory,systematic extermination of native peoples" ],
+    "dbo:strength" : [ "Herero: 10,000,", "Initial Strength:~2,000, Eventual strength: Almost 20,000," ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hererowars.jpg?width=300" ],
+    "dbp:caption" : [ "German troops in combat with the Herero in a painting by Richard Knötel." ],
+    "dbp:casualties" : [ "As many as 65-70,000 including civilians" ],
+    "dbp:date" : [ "1904" ]
+  },
+  "text" : "(See also: Herero and Namaqua Genocide) The Herero Wars were a series of colonial wars between the German Empire and the Herero people of German South-West Africa (present-day Namibia)."
+}, {
+  "entityIndex" : "entity25812",
+  "entityUrl" : "http://dbpedia.org/resource/Hungarian_Revolution_of_1956",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,540 wounded", "722 killed or missing", "Soviet casualties:" ],
+    "dbo:combatant" : [ "Hungary", "*KGB", "*Soviet Armed Forces", "*State Protection Authority", "Hungarian revolutionaries" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Nikita_Khrushchev", "http://dbpedia.org/resource/Pál_Maléter", "http://dbpedia.org/resource/Imre_Nagy", "http://dbpedia.org/resource/János_Kádár", "http://dbpedia.org/resource/Ivan_Konev" ],
+    "dbo:date" : [ "1956-11-10" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Hungarian_People's_Republic" ],
+    "dbo:result" : [ "Soviet victory; revolution crushed" ],
+    "dbo:strength" : [ "1,130 tanks", "31,550 troops", "Unknown number of government loyalists", "Unknown number of soldiers, militia, and armed civilians" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hole_in_flag_-_Budapest_1956.jpg?width=300" ],
+    "dbp:caption" : [ "Flag of Hungary, with the communist coat of arms cut out. The flag with a hole became the symbol of the revolution." ],
+    "dbp:casualties" : [ "2500", "3000", "13000" ],
+    "dbp:id" : [ "gov.archives.arc.1683326", "gov.archives.arc.2049945", "gov.archives.arc.2569633" ],
+    "dbp:name" : [ "Big Picture: Operation Mercy", "Hungarian Revolution", "Hungarian Revolution Aftermath" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Hungarian Revolution of 1956 or the Hungarian Uprising of 1956 (Hungarian: 1956-os forradalom or 1956-os felkelés) was a nationwide revolt against the government of the Hungarian People's Republic and its Soviet-imposed policies, lasting from 23 October until 10 November 1956. Though leaderless when it first began, it was the first major threat to Soviet control since the USSR's forces drove out Nazi Germany from its territory at the end of World War II and broke into Central and Eastern Europe. The revolt began as a student demonstration, which attracted thousands as they marched through central Budapest to the Parliament building, calling out on the streets using a van with loudspeakers via Radio Free Europe. A student delegation, entering the radio building to try to broadcast the students' demands, was detained. When the delegation's release was demanded by the demonstrators outside, they were fired upon by the State Security Police (ÁVH) from within the building. One student died and was wrapped in a flag and held above the crowd. This was the start of the revolution. As the news spread, disorder and violence erupted throughout the capital. The revolt spread quickly across Hungary and the government collapsed. Thousands organised into militias, battling the ÁVH and Soviet troops. Pro-Soviet communists and ÁVH members were often executed or imprisoned and former political prisoners were released and armed. Radical impromptu workers' councils wrested municipal control from the ruling Hungarian Working People's Party and demanded political changes. A new government formally disbanded the ÁVH, declared its intention to withdraw from the Warsaw Pact, and pledged to re-establish free elections. By the end of October, fighting had almost stopped and a sense of normality began to return. After announcing a willingness to negotiate a withdrawal of Soviet forces, the Politburo changed its mind and moved to crush the revolution. On 4 November, a large Soviet force invaded Budapest and other regions of the country. The Hungarian resistance continued until 10 November. Over 2,500 Hungarians and 700 Soviet troops were killed in the conflict, and 200,000 Hungarians fled as refugees. Mass arrests and denunciations continued for months thereafter. By January 1957, the new Soviet-installed government had suppressed all public opposition. These Soviet actions, while strengthening control over the Eastern Bloc, alienated many Western Marxists, leading to splits and/or considerable losses of membership for Communist Parties in the West. Public discussion about this revolution was suppressed in Hungary for more than 30 years. Since the thaw of the 1980s, it has been a subject of intense study and debate. At the inauguration of the Third Hungarian Republic in 1989, 23 October was declared a national holiday."
+}, {
+  "entityIndex" : "entity25813",
+  "entityUrl" : "http://dbpedia.org/resource/Hindenburg_Line",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:builder" : [ "http://dbpedia.org/resource/Paul_von_Hindenburg" ],
+    "dbo:location" : [ "http://dbpedia.org/resource/Hindenburg_Line__location__1" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Western_Front_1917.jpg?width=300" ],
+    "dbp:alt" : [ "An old photograph of a man with a moustache in military uniform." ],
+    "dbp:battles" : [ "http://dbpedia.org/resource/Battle_of_Lagnicourt", "http://dbpedia.org/resource/First_Battle_of_Bullecourt", "http://dbpedia.org/resource/Second_Battle_of_Bullecourt", "http://dbpedia.org/resource/Battle_of_Cambrai_(1918)", "http://dbpedia.org/resource/Meuse-Argonne_Offensive", "http://dbpedia.org/resource/Battle_of_Arras_(1917)", "http://dbpedia.org/resource/Battle_of_Cambrai_(1917)", "http://dbpedia.org/resource/Battle_of_St._Quentin_Canal", "http://dbpedia.org/resource/World_War_I" ],
+    "dbp:bsize" : [ "250" ],
+    "dbp:caption" : [ "The Western Front, 1917" ],
+    "dbp:cheight" : [ "285" ],
+    "dbp:condition" : [ "destroyed" ],
+    "dbp:cwidth" : [ "220" ],
+    "dbp:date" : [ "20060522205746" ],
+    "dbp:df" : [ "yes" ],
+    "dbp:location" : [ "Eastern France" ],
+    "dbp:materials" : [ "concrete, steel, barbed wire" ],
+    "dbp:oleft" : [ "15" ],
+    "dbp:otop" : [ "15" ],
+    "dbp:title" : [ "The Hindenburg Line: The Apotheosis of German Fortifications on the Western Front in the Great War westernfront.co.uk" ],
+    "dbp:type" : [ "Fortification" ],
+    "dbp:url" : [ "http://www.westernfront.co.uk/thegreatwar/articles/research/hindenburg.htm" ],
+    "dbp:used" : [ "1917" ]
+  },
+  "text" : "The Hindenburg Line (an Allied term for the German Siegfriedstellung or Siegfried Position) was a German defensive position of World War I, built during the winter of 1916–1917 on the Western Front, from Arras to Laffaux, near Soissons on the Aisne. In 1916, the German offensive at the Battle of Verdun had been a costly failure and the French counter-offensive had inflicted serious losses on the German army. The joint Anglo-French offensive at the Battle of the Somme had forced a costly defensive battle on the Germans, leaving the western armies exhausted. On the Eastern Front, the Brusilov Offensive had inflicted huge losses on the Austro-Hungarian armies in Russia and forced the Germans to take over more of the front. The declaration of war by Romania had placed additional strain on the German army and war economy. Construction of the Hindenburg Line in France was begun in September 1916, to counter an anticipated increase in the power of Anglo-French attacks in 1917. The shorter defensive position behind the Noyon Salient was built to economise on manpower, contain an Allied breakthrough and make possible a deliberate withdrawal to prepared positions. By destroying the infrastructure and demolishing civilian buildings in the salient before a withdrawal, the Germans could dislocate Allied offensive preparations by forcing them to advance into a desert. The British and French armies would need about eight weeks to rebuild roads, bridges and railways in the abandoned area before they could attack. A shorter Western Front could be held with fewer troops and by incorporating the lessons of defensive battle on the Somme, the importance of troop dispersal, reverse-slope positions, defence in depth and camouflage, German infantry casualties could be reduced in 1917. While the German army recuperated from the losses of 1916, protected by the Hindenburg Line and similar defensive positions on the rest of the Western Front, a return to unrestricted submarine warfare and a strategic bombing offensive against Britain were planned. The Hindenburg Line was built as a precaution, rather than for a policy of withdrawal but by the beginning of 1917, the strategic situation made a retirement inevitable. The transfer of divisions from Russia, increasing the number of divisions on the Western Front to 133 on 25 January 1917 reduced an acute German manpower shortage on the Western Front but not by enough to contempate a return to the offensive. Greater production of explosives, ammunition and weapons by the German war economy to provide the means to counter the Allied Materialschlacht (battle of equipment) was organised by the Hindenburg Programme of August 1916. Production had not sufficiently increased over the winter, with only 60 percent of the programme expected to be fulfilled by the summer of 1917. The German Friedensangebot (peace initiative) of December 1916, had been rejected by the Entente and the Auxiliary Service Law of December 1916, intended to further mobilise the civilian economy, had failed to supply the expected additional labour for war production. The retirement to the Hindenburg Line took place as part of the Alberich Bewegung (Operation Alberich or Alberich Manoeuvre) from February–March 1917, after local withdrawals on the Somme had been forced on the 1st Army in January and February, by British attacks up the Ancre valley. The Germans prepared a 35-day Alberich timetable; infrastructure in the salient was destroyed and buildings demolished from 9 February – 15 March. The German retirement began on 16 March and the British and French armies were not able seriously to interfere. Construction of the Hindenburg Line was incomplete and parts were poorly sited, having been built according to the obsolete principle of a long field of fire, which forced the Germans to fight delaying actions in outpost villages for longer than anticipated, while additional building work was done in front of the existing Hindenburg Line. News of the demolitions and the deplorable state of French civilians left behind, were serious blows to the prestige of the German Empire in neutral countries. Labour was transferred south in February 1917, to work on the Hundingstellung, from La Fère to Rethel and on the forward positions on the Aisne front, which the Germans knew were due to be attacked by the French armies. Divisions released by Operation Alberich and other reinforcements, increased the number of divisions on the Aisne front to 38 by early April. The Hindenburg Line was attacked several times in 1917, notably at St. Quentin, Bullecourt, the Aisne and Cambrai and was broken in September 1918, during the Hundred Days Offensive."
+}, {
+  "entityIndex" : "entity25814",
+  "entityUrl" : "http://dbpedia.org/resource/Haitian_Revolution",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "British: 45,000 dead", "Haitians: 200,000 dead" ],
+    "dbo:combatant" : [ "French Republic", "Spain", "United Kingdom", "French royalists", "Kingdom of France(until 1792)", "*Ex-slaves", "1791–1793", "1793–1798", "1798–1801", "1802–1804", "Ex-slaves", "Louverture Loyalists", "Rigaud Loyalists", "Slave owners", "Spain( (from 1793) )", "Spain( (until 1796) )" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Loring_(died_1808)", "http://dbpedia.org/resource/Georges_Biassou", "http://dbpedia.org/resource/Thomas_Maitland_(British_Army_officer)", "http://dbpedia.org/resource/Federico_Carlos_Gravina_y_Nápoli", "http://dbpedia.org/resource/Sir_John_Duckworth,_1st_Baronet", "http://dbpedia.org/resource/Donatien-Marie-Joseph_de_Vimeur,_vicomte_de_Rochambeau", "http://dbpedia.org/resource/Napoleon_Bonaparte", "http://dbpedia.org/resource/Henri_Christophe", "http://dbpedia.org/resource/Toussaint_Louverture", "http://dbpedia.org/resource/Philibert_François_Rouxel_de_Blanchelande", "http://dbpedia.org/resource/André_Rigaud", "http://dbpedia.org/resource/Jean-Jacques_Dessalines", "http://dbpedia.org/resource/Léger-Félicité_Sonthonax", "http://dbpedia.org/resource/Charles_Leclerc", "http://dbpedia.org/resource/Alexandre_Pétion", "http://dbpedia.org/resource/Louis_Thomas_Villaret_de_Joyeuse", "http://dbpedia.org/resource/Vincent_Ogé", "http://dbpedia.org/resource/Dutty_Boukman", "http://dbpedia.org/resource/François_Capois", "http://dbpedia.org/resource/Joaquín_García_y_Moreno", "http://dbpedia.org/resource/Paul-Louis_Dubuc" ],
+    "dbo:date" : [ "1791-08-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/French_Revolutionary_Wars", "http://dbpedia.org/resource/Napoleonic_Wars", "http://dbpedia.org/resource/Atlantic_Revolutions" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Saint-Domingue" ],
+    "dbo:result" : [ "* French colonial government expelled", "*Massacre of whites", "Haitian victory" ],
+    "dbo:strength" : [ "31,000", "86 warships and frigates", "Regular army: 55,000,", "Regular army: 60,000,", "Volunteers: 100,000+" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/First_Empire_of_Haiti" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/San_Domingo.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:caption" : [ "Battle at San Domingo, a painting by January Suchodolski, depicting a struggle between Polish troops in French service and the Haitian rebels" ],
+    "dbp:casualties" : [ "France: 75,000 dead", "White colonists: 25,000" ],
+    "dbp:quote" : [ "On the 4th of February 1794 under the leadership of Maximilien Robespierre, the French Convention voted for the abolition of slavery [...] Robespierre is still revered by the poor of Haiti today." ],
+    "dbp:source" : [ "''Centre for Research on Globalization" ],
+    "dbp:width" : [ "33.0" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Haitian Revolution (French: Révolution haïtienne [ʁevɔlysjɔ̃ ajisjɛ̃n]), was a successful anti-slavery and anti-colonial insurrection that took place in the former French colony of Saint Domingue that lasted from 1791 until 1804. It impacted the institution of slavery throughout the Americas. Self-liberated slaves destroyed slavery at home, fought to preserve their freedom, and with the collaboration of mulattoes, founded the sovereign state of Haiti. It led to the greatest slave uprising since Spartacus, who led an unsuccessful revolt against the Roman Republic nearly 1,900 years prior. The Haitian Revolution was the only slave uprising that led to the founding of a state free from slavery and ruled by non-whites and former captives. With the increasing number of Haitian Revolutionary Studies in the last few decades, it has become clear that the event was a defining moment in the racial histories of the Atlantic World. The legacy of the Revolution was that it challenged long-held beliefs about black inferiority and of the enslaved person's capacity to achieve and maintain freedom. The rebels' organizational capacity and tenacity under pressure became the source of stories that shocked and frightened slave owners."
+}, {
+  "entityIndex" : "entity25815",
+  "entityUrl" : "http://dbpedia.org/resource/Highway_of_Death",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "None" ],
+    "dbo:combatant" : [ "Iraq" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Gulf_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kuwait_City" ],
+    "dbo:result" : [ "Decisive U.S.-Canadian victory in support of theU.N. coalition" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Demolished_vehicles_line_Highway_80_on_18_Apr_1991.jpg?width=300" ],
+    "dbp:caption" : [ "Wrecked and abandoned vehicles along Highway 80 in April 1991" ],
+    "dbp:casualties" : [ "Estimates range from ~200–300 to >10,000 killed and ~2,000 capturedEst. 1,800–2,700 vehicles" ],
+    "dbp:date" : [ "--02-25" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Highway of Death (Arabic: طريق الموت‎‎ ṭarīq al-mawt) refers to a six-lane highway between Kuwait and Iraq, officially known as Highway 80. It runs from Kuwait City to the border town of Safwan in Iraq and then on to the Iraqi city of Basra. The road had been used by Iraqi armored divisions for the 1990 Invasion of Kuwait. The road was repaired after the Persian Gulf War and used by U.S. and British forces in the initial stages of the 2003 invasion of Iraq. During the United Nations coalition offensive in the Persian Gulf War, American and Canadian aircraft and ground forces attacked retreating Iraqi military personnel attempting to leave Kuwait on the night of February 26–27, 1991, resulting in the destruction of hundreds of vehicles and the deaths of many of their occupants. U.S. attacks against the Iraqi columns were actually conducted on two different roads. Between 1,400 and 2,000 vehicles were hit or abandoned on the main Highway 80 north of Al Jahra (the \"actual\" Highway of Death). Several hundred more littered the lesser known Highway 8 to the major southern Iraq military stronghold of Basra. The scenes of devastation on the road are some of the most recognizable images of the war, and it has been suggested that they were a factor in President George H. W. Bush's decision to declare a cessation of hostilities the next day. Many Iraqi forces, however, successfully escaped across the Euphrates river, and the U.S. Defense Intelligence Agency estimated that upwards of 70,000 to 80,000 troops from defeated divisions in Kuwait might have fled into Basra, evading capture."
+}, {
+  "entityIndex" : "entity25816",
+  "entityUrl" : "http://dbpedia.org/resource/Hundred_Days'_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*Al-Tanzim", "*Guardians of the Cedars", "*Kataeb Party", "*Tigers Militia", "*Tyous", "22px|borderArmy of Free Lebanon", "22px|borderLebanese Front", "22px|borderMarada Brigades", "Syrian Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Etienne_Saqr", "http://dbpedia.org/resource/Dany_Chamoun", "http://dbpedia.org/resource/Pierre_Gemayel", "http://dbpedia.org/resource/Saad_Haddad", "http://dbpedia.org/resource/William_Hawi", "http://dbpedia.org/resource/Bachir_Gemayel", "http://dbpedia.org/resource/Georges_Adwan", "http://dbpedia.org/resource/Hafez_al-Assad", "http://dbpedia.org/resource/Tony_Frangieh", "http://dbpedia.org/resource/Mustafa_Tlass" ],
+    "dbo:date" : [ "1978-02-07" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Lebanese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/East_Beirut" ],
+    "dbo:result" : [ "*End ofArab Deterrent Force's task in Lebanon", "*Syrian Armyexpulsion from East Beirut", "Lebanese Front victory", "*Alliance Breaking betweenSyriaand theLebanese Front" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Forces_Libanaises_Flag.svg?width=300" ],
+    "dbp:auto" : [ "yes" ],
+    "dbp:caption" : [ "A Syrian soldier overlooking East Beirut during the 100 Days War" ],
+    "dbp:casualties" : [ "160" ],
+    "dbp:casus" : [ "conflict between Lebanese Forces, Lebanese Army, and Syrian Army" ],
+    "dbp:date" : [ "December 2009" ]
+  },
+  "text" : "The Hundred Days War (Arabic: حرب المئة يوم | Harb Al-Mia’at Yaoum), also known as 'La Guerre des Cent Jours' in French was a subconflict within the 1977–82 phase of the Lebanese Civil War which occurred at the Lebanese Capital Beirut. It was fought between the allied Christian Lebanese Front militias, under the command of the Kataeb Party's President Bashir Gemayel, and the Syrian troops of the Arab Deterrent Force (ADF)."
+}, {
+  "entityIndex" : "entity25817",
+  "entityUrl" : "http://dbpedia.org/resource/Hawthorn_Ridge_Redoubt",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Douglas_Haig,_1st_Earl_Haig", "http://dbpedia.org/resource/Erich_von_Falkenhayn" ],
+    "dbo:date" : [ "0013-07-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Battle_of_the_Somme", "http://dbpedia.org/resource/World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Picardy", "http://dbpedia.org/resource/France" ],
+    "dbo:result" : [ "British victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ancre_sector_1_July_1916.png?width=300" ],
+    "dbp:caption" : [ "Trench Map showing Hawthorn ridge and crater at top left" ],
+    "dbp:latitude" : [ "50.084" ],
+    "dbp:longitude" : [ "2.6572" ],
+    "dbp:mapLabel" : [ "Hawthorn Ridge" ],
+    "dbp:mapSize" : [ "200" ],
+    "dbp:mapType" : [ "France" ]
+  },
+  "text" : "Hawthorn Ridge Redoubt was a German front-line fortification, west of the village of Beaumont Hamel on the Somme. It was demolished by a British mine detonation at 7:20 a.m. on 1 July 1916, the First day on the Somme. Since the end of the Battle of Albert in 1914 the Germans had been fortifying the original defensive lines which had formed when static warfare began. The defences were elaborated several times before the Battle of the Somme as French and then British attacks on the Western Front became more formidable. During the Second Battle of Artois in early 1915, a supporting attack was conducted by the French XI Corps from Hébuterne to Serre, which advanced the front line on a 1-mile (1.6 km) front and left a German salient, the Heidenkopf (Quadrilateral), north of the Hawthorn Ridge Redoubt. Mine warfare had begun on the Somme front soon after September 1914 and was continued by the British when they took over the area in mid-1915. British troops continued the mine warfare begun in 1914 and an attack was made on the area by the 29th Division of VIII Corps on 1 July, the beginning of the Battle of Albert (1–13 July). The attack failed, despite the detonation of a huge mine under the redoubt, which was blamed on the corps commander, Lieutenant-General Aylmer Hunter-Weston, who ordered the mine to be sprung ten minutes before zero hour. (The mine explosion was filmed by cinematographer Geoffrey Malins). The Hawthorn Ridge mine was part of a series of eight large and eleven small mines that were detonated by the British on 1 July. A second attack on 13 November, by the 51st (Highland) Division during the Battle of the Ancre (13–18 November) succeeded, after British engineers reopened the gallery dug before 1 July and reloaded the mine with 30,000 lb (14,000 kg) of explosives, which created a double crater. This time the attack began from a trench 250 yd (230 m) from the German lines, half the distance of 1 July. The Highlander advance was shrouded by fog and was supported by tanks, an accurate creeping barrage and machine-guns firing over the heads of the infantry. The machine-gun barrage caught German troops in the open and the Highlanders captured Beaumont Hamel and took 2,000 prisoners."
+}, {
+  "entityIndex" : "entity25818",
+  "entityUrl" : "http://dbpedia.org/resource/Hundred_Days_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "130,000 AEF", "18 July – 11 November:", "279,000 French", "298,000 BEF", "~700,000" ],
+    "dbo:combatant" : [ "*", "France", "Portugal", "Belgium", "*Newfoundland", "24pxSiam" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Paul_von_Hindenburg", "http://dbpedia.org/resource/Wilhelm_Groener", "http://dbpedia.org/resource/Douglas_Haig,_1st_Earl_Haig", "http://dbpedia.org/resource/John_J._Pershing", "http://dbpedia.org/resource/Philippe_Pétain", "http://dbpedia.org/resource/Albert_I_of_Belgium", "http://dbpedia.org/resource/Ferdinand_Foch", "http://dbpedia.org/resource/Erich_Ludendorff", "http://dbpedia.org/resource/Georg_von_der_Marwitz" ],
+    "dbo:date" : [ "1918-11-11" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Western_Front_(World_War_I)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Amiens", "http://dbpedia.org/resource/Mons", "http://dbpedia.org/resource/Kingdom_of_Belgium" ],
+    "dbo:result" : [ "Decisive Allied victory", "Collapse of theGerman Empire" ],
+    "dbo:strength" : [ "Strength on 11 November 18:", "c. 1,800,000", "c. 3,562,000", "c.1,900,000", "c.190,000", "c.2,559,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Western_front_1918_allied.jpg?width=300" ],
+    "dbp:casualties" : [ "--07-18", "British forces took 188,700 prisoners and captured 2,840 guns", "~760,000", "Belgian forces took 14,500 prisoners and captured 414 guns", "French forces took 139,000 prisoners and captured 1,880 guns", "American forces took 44,142 prisoners and captured 1,481 guns" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Hundred Days Offensive was the final period of the First World War, during which the Allies launched a series of offensives against the Central Powers on the Western Front from 8 August to 11 November 1918, beginning with the Battle of Amiens. The offensive essentially pushed the Germans out of France, forcing them to retreat beyond the Hindenburg Line, and was followed by an armistice. The term \"Hundred Days Offensive\" does not refer to a specific battle or unified strategy, but rather the rapid series of Allied victories starting with the Battle of Amiens."
+}, {
+  "entityIndex" : "entity25819",
+  "entityUrl" : "http://dbpedia.org/resource/Honey_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "None" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Robert_Lucas_(governor)", "http://dbpedia.org/resource/Lilburn_Boggs" ],
+    "dbo:result" : [ "Stalemate" ],
+    "dbo:strength" : [ "*Iowa State Militia", "*Missouri State Militia", "Iowa State Militia", "Missouri State Militia" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Honeywarmap.png?width=300" ],
+    "dbp:casualties" : [ "None" ],
+    "dbp:date" : [ "1839" ],
+    "dbp:place" : [ "Iowa-Missouri border" ],
+    "dbp:territory" : [ "Sullivan Line splits into two sides." ]
+  },
+  "text" : "The Honey War was a bloodless territorial dispute in the 1830s between Iowa (first as a part of Wisconsin Territory, then Iowa Territory) and Missouri over their border. The dispute over a 9.5-mile (15.3 km) wide strip running the entire length of the border, caused by unclear wording in the Missouri Constitution on boundaries, misunderstandings over the survey of the Louisiana Purchase, and a misreading of Native American treaties, was ultimately decided by the United States Supreme Court in Iowa's favor. The decision was to affirm a nearly 30-mile (48 km) jog in the nearly straight line border between extreme southeast Iowa and northeast Missouri at Keokuk, Iowa that is now Iowa's southernmost point. Before the issue was settled, militias from both sides faced each other at the border, a Missouri sheriff collecting taxes in Iowa was incarcerated, and three trees containing beehives were cut down."
+}, {
+  "entityIndex" : "entity25820",
+  "entityUrl" : "http://dbpedia.org/resource/Heroes_of_Might_and_Magic_III",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:composer" : [ "http://dbpedia.org/resource/Rob_King", "http://dbpedia.org/resource/Paul_Romero", "http://dbpedia.org/resource/Steve_Baca" ],
+    "dbo:computingPlatform" : [ "http://dbpedia.org/resource/X86", "http://dbpedia.org/resource/Microsoft_Windows", "http://dbpedia.org/resource/IOS", "http://dbpedia.org/resource/Android_(operating_system)", "http://dbpedia.org/resource/Macintosh", "http://dbpedia.org/resource/Linux" ],
+    "dbo:designer" : [ "http://dbpedia.org/resource/Jon_Van_Caneghem", "http://dbpedia.org/resource/Gregory_Fulton" ],
+    "dbo:developer" : [ "http://dbpedia.org/resource/Loki_Software", "http://dbpedia.org/resource/New_World_Computing" ],
+    "dbo:director" : [ "http://dbpedia.org/resource/David_Mullich" ],
+    "dbo:genre" : [ "http://dbpedia.org/resource/Turn-based_strategy" ],
+    "dbo:publisher" : [ "http://dbpedia.org/resource/The_3DO_Company" ],
+    "dbo:releaseDate" : [ "1999-02-28" ],
+    "dbo:series" : [ "http://dbpedia.org/resource/Heroes_of_Might_and_Magic" ],
+    "dbp:artist" : [ "Phelan Sykes" ],
+    "dbp:cwg" : [ "4.5" ],
+    "dbp:gr" : [ "87.0" ],
+    "dbp:gspot" : [ "9.1" ],
+    "dbp:id" : [ "/heroes-of-might-and-magic-iii-the-restoration-of-erathia" ],
+    "dbp:ign" : [ "9" ],
+    "dbp:modes" : [ "http://dbpedia.org/resource/Multiplayer", "http://dbpedia.org/resource/Single-player" ],
+    "dbp:name" : [ "''Heroes of Might and Magic III: The Restoration of Erathia" ],
+    "dbp:programmer" : [ "John Bolton" ],
+    "dbp:rev" : [ "Computer Games Magazine" ],
+    "dbp:rev1score" : [ "5" ]
+  },
+  "text" : "Heroes of Might and Magic III: The Restoration of Erathia (also known as Heroes III or HoMM3) is a turn-based strategy game developed by Jon Van Caneghem through New World Computing originally released for Microsoft Windows by the 3DO Company in 1999. Its ports to several computer and console systems followed in 1999-2000. It is the third installment of the Heroes of Might and Magic series. The game's story is first referenced throughout Might and Magic VI: The Mandate of Heaven and serves as a prequel to Might and Magic VII: For Blood and Honor. The player can choose to play through seven different campaigns telling the story, or play in a scenario against computer or human opponents. The gameplay is very similar to its predecessors in that the player controls a number of heroes that command an army of creatures inspired by myth and legend. The gameplay is divided into two parts, tactical overland exploration and a turn based combat system. The player creates an army by spending resources at one of the eight town types in the game. The hero will progress in experience by engaging in combat with enemy heroes and monsters. The conditions for victory vary depending on the map, including conquest of all enemies and towns, collection of a certain amount of a resource, or finding the grail artifact. Heroes III was released to universal acclaim and was praised by critics. The game received the expansion packs Heroes of Might and Magic III: Armageddon's Blade and Heroes of Might and Magic III: The Shadow of Death. Heroes Chronicles, a series of short introductory games based on the Heroes III engine, was also released. A special version of Heroes III titled Heroes III Complete, which included the original game and both expansion packs, was released in 2000. On December 10, 2014, Ubisoft announced an HD version of the game. The new version features updated graphics as well as wide screen compatibility and was released on January 29, 2015 for Microsoft Windows, iOS and Android. However, the expansions have not been re-released because their source code is lost."
+}, {
+  "entityIndex" : "entity25821",
+  "entityUrl" : "http://dbpedia.org/resource/Hainan_Island_incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 J-8 destroyed", "1 pilot missing, assumed dead" ],
+    "dbo:date" : [ "2001-04-01" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Hainan_Island", "http://dbpedia.org/resource/South_China_Sea", "http://dbpedia.org/resource/People's_Republic_of_China" ],
+    "dbo:result" : [ "American crew detained, later released.", "One Chinese J-8 pilotMIA." ],
+    "dbo:strength" : [ "1EP-3ESIGINTaircraft", "2J-8IMaircraft" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/LockheedEP-3E_VQ-1_2001-2009-29-03.jpg?width=300" ],
+    "dbp:caption" : [ "The damaged EP-3 on the ground on Hainan Island" ],
+    "dbp:casualties" : [ "1", "24" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "On April 1, 2001, the Hainan Island incident occurred when a mid-air collision between a United States Navy EP-3E ARIES II signals intelligence aircraft and a People's Liberation Army Navy (PLAN) J-8II interceptor fighter jet resulted in an international dispute between the United States of America and the People's Republic of China. The EP-3 was operating about 70 miles (110 km) away from the PRC island province of Hainan, and about 100 miles (160 km) away from the Chinese military installation in the Paracel Islands, when it was intercepted by two J-8 fighters. A collision between the EP-3 and one of the J-8s caused the death of a PRC pilot, and the EP-3 was forced to make an emergency landing on Hainan. The 24 crew members were detained and interrogated by the Chinese authorities until a statement was delivered by the United States government regarding the incident. The exact phrasing of this document was intentionally ambiguous and allowed both countries to save face while defusing a potentially volatile situation between militarily strong regional states."
+}, {
+  "entityIndex" : "entity25822",
+  "entityUrl" : "http://dbpedia.org/resource/Huaihai_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "550,000" ],
+    "dbo:combatant" : [ "Communist Party", "Republic of China", "*Republic of China Army", "*Second Field Army", "*Third Field Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Huang_Baitao", "http://dbpedia.org/resource/Huang_Wei", "http://dbpedia.org/resource/Qiu_Qingquan", "http://dbpedia.org/resource/Deng_Xiaoping", "http://dbpedia.org/resource/Su_Yu", "http://dbpedia.org/resource/Hu_Lien", "http://dbpedia.org/resource/Chen_Yi_(communist)", "http://dbpedia.org/resource/Republic_of_China_(1912–1949)", "http://dbpedia.org/resource/Du_Yuming", "http://dbpedia.org/resource/Liu_Bocheng", "http://dbpedia.org/resource/Liu_Chih", "http://dbpedia.org/resource/Tan_Zhenlin", "http://dbpedia.org/resource/Li_Mi_(ROC_general)" ],
+    "dbo:date" : [ "1948-11-06" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Shandong", "http://dbpedia.org/resource/Henan", "http://dbpedia.org/resource/Jiangsu", "http://dbpedia.org/resource/Anhui" ],
+    "dbo:result" : [ "DecisiveCommunistvictory" ],
+    "dbo:strength" : [ "660,000 regulars", "800,000 combatants" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Yangtse_River" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/PLAHuaihai.jpg?width=300" ],
+    "dbp:caption" : [ "PLA troops, supported by M5 Stuart light tanks, engage ROC army lines" ],
+    "dbp:casualties" : [ "136524" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Huaihai Campaign (Chinese: 淮海戰役; pinyin: Huáihǎi Zhànyì) or Battle of Hsupeng (simplified Chinese: 徐蚌会战; traditional Chinese: 徐蚌會戰; pinyin: Xúbèng Huìzhàn, also Battle of Xu-Beng) was a military action during 1948 and 1949 that was the decisive battle of the Chinese Civil War. It was one of the few conventional battles of the war. 550,000 troops of the Republic of China (led by Kuomintang) were surrounded in Xuzhou (Hsuchow) and destroyed by the communist People's Liberation Army (PLA). This campaign is one of the three campaigns that marked the end of Nationalist dominance in northern China, the other two campaigns being Liaoshen and Pingjin."
+}, {
+  "entityIndex" : "entity25823",
+  "entityUrl" : "http://dbpedia.org/resource/Hanish_Islands_conflict",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "12 killed" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ali_Abdullah_Saleh", "http://dbpedia.org/resource/Sebhat_Ephrem" ],
+    "dbo:date" : [ "1995-12-15" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Conflicts_in_the_Horn_of_Africa" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Greater_Hanish", "http://dbpedia.org/resource/Zaqar" ],
+    "dbo:result" : [ "Eritrean military victory,", "Yemeni diplomatic victory." ],
+    "dbo:strength" : [ "Unknown", "About 200" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Permanent_Court_of_Arbitration" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hanish.jpg?width=300" ],
+    "dbp:caption" : [ "Map of the Hanish islands" ],
+    "dbp:casualties" : [ "15", "17", "196" ],
+    "dbp:casus" : [ "ownership of the Zukur-Hanish archipelago" ]
+  },
+  "text" : "The Hanish Islands conflict, was a dispute between Yemen and Eritrea over the island of Greater Hanish in the Red Sea, one of the largest in the then disputed Zukur-Hanish archipelago. Fighting took place over three days from 15 December to 17 December 1995. In 1998 the Permanent Court of Arbitration determined that most of the archipelago belonged to Yemen."
+}, {
+  "entityIndex" : "entity25824",
+  "entityUrl" : "http://dbpedia.org/resource/Haw_wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Haw rebels (Red flag and Striped flag bands)", "Kingdom of Luang Phrabang", "Kingdom of Siam" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Oun_Kham", "http://dbpedia.org/resource/Chulalongkorn", "http://dbpedia.org/resource/List_of_Thai_Field_Marshals" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Army_of_Thailand_in_Haw_wars_(1875).jpg?width=300" ]
+  },
+  "text" : "The Haw Wars (Thai: สงครามปราบฮ่อ) were fought against Chinese quasi-military forces invading parts of Tonkin and the Siam from 1865–1890. Forces invading Lao domains were ill-disciplined and freely plundered Buddhist temples. Not knowing these were remnants of the aftermath of the Taiping Rebellion led by Hong Xiuquan, a heterodox Christian convert, the invaders were confused with Chinese Muslims from Yunnan called Haw (Lao: ຮໍ່; Thai: ฮ่อ; RTGS: Ho; Mandarin Chinese: Hui). Forces sent by King Rama V failed to suppress the various groups, the last of which eventually disbanded in 1890."
+}, {
+  "entityIndex" : "entity25825",
+  "entityUrl" : "http://dbpedia.org/resource/Heraclius'_campaign_of_622",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Byzantine Empire", "Sassanid Empire" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Heraclius", "http://dbpedia.org/resource/Shahrbaraz" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Byzantine–Sassanid_War_of_602–628" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Cappadocia" ],
+    "dbo:result" : [ "Byzantine victory" ],
+    "dbo:strength" : [ "Unknown" ],
+    "dbp:date" : [ "622" ]
+  },
+  "text" : "The Heraclius' campaign of 622, erroneously also known as the Battle of Issus, was a major campaign in the Byzantine–Sassanid War of 602–628 by emperor Heraclius that culminated in a crushing Byzantine victory in Anatolia. In 622, the Byzantine emperor Heraclius, was ready to mount a counter-offensive against the Sassanid Persians who had overrun most of the eastern provinces of the Byzantine Empire. He left Constantinople the day after celebrating Easter on Sunday, 4 April 622. His young son, Heraclius Constantine, was left behind as regent under the charge of Patriarch Sergius and the patrician Bonus. In order to threaten both the Persian forces in Anatolia and Syria, his first move was to sail from Constantinople to Pylae in Bithynia (not in Cilicia). He spent the summer training so as to improve the skills of his men and his own generalship. In the autumn, Heraclius threatened the Persian communications to Anatolia from the Euphrates valley by marching to northern Cappadocia. This forced the Persian forces in Anatolia under Shahrbaraz to retreat from the front-lines of Bithynia and Galatia to eastern Anatolia in order to block his access to Persia. What followed next is not entirely clear, but Heraclius certainly won a crushing victory over Shahrbaraz somewhere in Cappadocia. The key factor was Heraclius' discovery of hidden Persian forces in ambush and responding to this ambush by feigning retreat during the battle. The Persians left their cover to chase the Byzantines, whereupon Heraclius' elite Optimatoi assaulted the chasing Persians, causing them to flee. Thus, he saved Anatolia from the Persians. However, Heraclius had to return to Constantinople to deal with the threat posed to his Balkan domains by the Avars, and left his army to winter in Pontus."
+}, {
+  "entityIndex" : "entity25826",
+  "entityUrl" : "http://dbpedia.org/resource/Hainan_Island_Operation",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "?" ],
+    "dbo:combatant" : [ "National Revolutionary Army,China", "Imperial Japanese Navy,Japan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Kondo_Nobutake", "http://dbpedia.org/resource/Wang_Yi_(Japanese_Navy)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Hainan" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:strength" : [ "?" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Invasion_of_Hainan_Island_by_Asashi_Shinbun.jpg?width=300" ],
+    "dbp:caption" : [ "Imperial Japanese Army soldiers in trucks during the invasion of Hainan" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:date" : [ "February 1939" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Hainan Island Operation, or Kainan-tō sakusen (海南島作戦) in Japanese, was part of a campaign by the Empire of Japan during the Second Sino-Japanese War to blockade the Republic of China and prevent it from communicating with the outside world as well as to prevent imports of much-needed arms and materials."
+}, {
+  "entityIndex" : "entity25827",
+  "entityUrl" : "http://dbpedia.org/resource/Highbridge_Skirmish",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2 killed, several more wounded." ],
+    "dbo:combatant" : [ "Jacobites", "Government Forces", "Royal Scots", "Clan MacDonald of Keppoch", "Clan MacDonnell of Glengarry" ],
+    "dbo:date" : [ "1745-08-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Jacobite_Rising_of_1745" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Highbridge,_Scotland" ],
+    "dbo:result" : [ "Jacobite victory" ],
+    "dbo:strength" : [ "2 Companies of infantry (approx. 85 in total).", "initially 13, increasing in number throughout the engagement" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/High_Bridge_near_Spean_Bridge_-_geograph.org.uk_-_15325.jpg?width=300" ],
+    "dbp:caption" : [ "The ruinous remains of the bridge itself at High Bridge" ],
+    "dbp:casualties" : [ "0" ],
+    "dbp:commander" : [ "Captain Scott", "Major Donald MacDonald of Tir nan dris" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Highbridge Skirmish was the first engagement of the Jacobite Rising of 1745 between British Government troops and Jacobites loyal to Prince Charles Edward Stuart. It took place at Highbridge, Lochaber, on the River Spean on 16 August 1745, and marked the commencement of hostilities between the two sides."
+}, {
+  "entityIndex" : "entity25828",
+  "entityUrl" : "http://dbpedia.org/resource/Huon_Peninsula_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "~1,387 killed or wounded" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/George_Wootten", "http://dbpedia.org/resource/Bernard_Evans_(architect)", "http://dbpedia.org/resource/Eizo_Yamada", "http://dbpedia.org/resource/Selwyn_Porter", "http://dbpedia.org/resource/Victor_Windeyer", "http://dbpedia.org/resource/Hatazō_Adachi", "http://dbpedia.org/resource/Cedric_Edgar", "http://dbpedia.org/resource/David_Whitehead", "http://dbpedia.org/resource/Shigeru_Katagiri" ],
+    "dbo:date" : [ "1943-09-22", "1944-03-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Territory_of_New_Guinea", "http://dbpedia.org/resource/Huon_Peninsula" ],
+    "dbo:result" : [ "Alliedvictory" ],
+    "dbo:strength" : [ "~12,500", "~13,100" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Matilda_(AWM_016100).jpg?width=300" ],
+    "dbp:caption" : [ "--11-09" ],
+    "dbp:casualties" : [ "~5,500 killed" ],
+    "dbp:units" : [ "4", "9", "20" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Huon Peninsula campaign was a series of battles fought in north-eastern Papua New Guinea in 1943–44 during the Second World War. The campaign formed the initial part of an offensive that the Allies launched in the Pacific in late 1943 and resulted in the Japanese being pushed north from Lae to Sio on the northern coast of New Guinea over the course of a four-month period. For the Australians, a significant advantage was gained through the technological edge that Allied industry had achieved over the Japanese by this phase of the war, while the Japanese were hampered by a lack of supplies and reinforcements due to Allied interdiction efforts at sea and in the air. The campaign was preceded by an amphibious landing by troops from the Australian 9th Division east of Lae on 4 September 1943. This was followed by an advance west along the coast towards the town where they were to link up with 7th Division advancing from Nadzab. Meanwhile, Australian and US forces mounted diversionary attacks around Salamaua. Heavy rain and flooding slowed the 9th Division's advance, which had to cross several rivers along the way. The Japanese rear guard also put up a stiff defence and, as a result, Lae did not fall until 16 September, when troops from the 7th Division entered it ahead of the 9th, and the main body of the Japanese force escaped north. Less than a week later, the Huon Peninsula campaign was opened as the Australians undertook another amphibious landing further east, aimed at capturing Finschhafen. Following the landing at Scarlet Beach, the Allies set about moving south to secure Finschhafen, which saw fighting around Jivevaneng also. In mid-October, the Japanese launched a counterattack against the Australian beachhead around Scarlet Beach, which lasted for about a week and resulted in a small contraction of the Australian lines and a splitting of their force before it was defeated. After this, the Australians regained the initiative and began to pursue the Japanese who withdrew inland towards the high ground around Sattelberg. Amidst heavy fighting and a second failed Japanese counterattack, Sattelberg was secured in late November and the Australians began an area advance to the north to secure a line between Wareo and Gusika. This was completed by early December, and was followed by an advance by Australian forces along the coast through Lakona to Fortification Point, overcoming strong Japanese forces fighting delaying actions. The final stage of the campaign saw the Japanese resistance finally break. A swift advance by the Australians along the northern coast of the peninsula followed and in January 1944 they captured Sio. At the same time, the Americans landed at Saidor. After this, mopping up operations were undertaken by Allied forces around Sio until March. A lull period then followed in northern New Guinea until July when US forces clashed with the Japanese around the Driniumor River. This was followed by further fighting in November 1944 when the Australians opened a fresh campaign in Aitape–Wewak."
+}, {
+  "entityIndex" : "entity25829",
+  "entityUrl" : "http://dbpedia.org/resource/Houthi_insurgency_in_Yemen",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6,000 wounded", "8,000 wounded", "(Independent estimates)", "(Yemeni claim)", "(all released)", "1,000–1,300 killed", "133KIA", "2,600–3,000 killed", "470WIA", "495 captured", "6MIA/POW", "Saudi Arabia:", "Yemen:" ],
+    "dbo:combatant" : [ "Supported by:", "*al-Qaeda", "(pro-Saleh forces)", "*Al-Islahmilitias", "*Security Forces", "*Sunni tribes", "Ansar al-Sharia", "Houthis(Ansar Allah)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ibrahim_Sulayman_Muhammad_Arbaysh", "http://dbpedia.org/resource/Fares_Mana'a", "http://dbpedia.org/resource/Abdullah_al-Ruzami", "http://dbpedia.org/resource/Nasser_bin_Ali_al-Ansi", "http://dbpedia.org/resource/Khalid_Batarfi", "http://dbpedia.org/resource/Abdul_Qadir_Bajamal", "http://dbpedia.org/resource/Yahia_Badreddin_al-Houthi", "http://dbpedia.org/resource/Abdul-Karim_al-Houthi", "http://dbpedia.org/resource/Hussein_Badreddin_al-Houthi", "http://dbpedia.org/resource/Qasim_al-Raymi", "http://dbpedia.org/resource/Saleh_Al-Muhaya", "http://dbpedia.org/resource/Yahya_Mohamed_Abdullah_Saleh", "http://dbpedia.org/resource/Harith_bin_Ghazi_al-Nadhari", "http://dbpedia.org/resource/Hameed_Al-Qushaibi", "http://dbpedia.org/resource/Nasir_al-Wuhayshi", "http://dbpedia.org/resource/Ali_Abdullah_Saleh", "http://dbpedia.org/resource/Ahmed_Saleh", "http://dbpedia.org/resource/Ali_Mohsen_al-Ahmar", "http://dbpedia.org/resource/Khalid_bin_Sultan", "http://dbpedia.org/resource/Abdrabbuh_Mansur_Hadi", "http://dbpedia.org/resource/Ali_Muhammad_Mujawar", "http://dbpedia.org/resource/Mohammed_Basindawa", "http://dbpedia.org/resource/Abdul_Malik_al-Houthi", "http://dbpedia.org/resource/Abu_Haider", "http://dbpedia.org/resource/Abbas_Aidah", "http://dbpedia.org/resource/Abu_Ali_Abdullah_al-Hakem_al-Houthi", "http://dbpedia.org/resource/Ahmed_Bawazeir", "http://dbpedia.org/resource/Ali_Salem_al-Ameri", "http://dbpedia.org/resource/Ali_al-Qantawi", "http://dbpedia.org/resource/Amr_Ali_Mousa_al-Uuzali", "http://dbpedia.org/resource/Mohammad_Abd_al-Salam", "http://dbpedia.org/resource/Muhammad_al-Houthi", "http://dbpedia.org/resource/Taha_al-Madani", "http://dbpedia.org/resource/Yusuf_al-Madani" ],
+    "dbo:date" : [ "2004-06-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Yemeni_Crisis_(2011–present)" ],
+    "dbo:notes" : [ "Total casualties:", "2,000 Sa'dah residents handicapped", "250,000 Yemenis displaced", "3.SheikhAbdullah al-Ruzamiturned himself in to authorities in 2005, but was later released", "2.SheikhBadreddin al-Houthidied of natural causes in November 2010", "1.GeneralAli Mohsen al-Ahmarin charge of Yemeni operations against the Houthis until 2011 when he deserted.", "Hundreds to thousands killed (humanitarian organizations), 25,000 (Houthi sources)", "4.SheikhFarris Mana'awas a government ally until his arrest in 2010, after which he endorsed the Houthis and was appointed to head their administration." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Saudi_Arabia", "http://dbpedia.org/resource/Jizan_Region", "http://dbpedia.org/resource/Yemen" ],
+    "dbo:result" : [ "Houthi victory inNorth Yemen; Conflict escalates into afull-scale civil warwith aSaudi-led foreign intervention* Houthi rebels take overSa'dahand establish an independent administration in Sa'dah Governorate and parts of'Amran,Al JawfandHajjah.* Houthis take control ofSana'a* PresidentHadiousted from power in Sana'a" ],
+    "dbo:strength" : [ "-", "100,000 deployed", "10,000 (2009)", "100,000 (2011)", "199,500 total", "2,000 (2004)", "27,000 tribal fighters", "30,000 soldiers in-theatre", "66,700 total", "Houthis", "Saudi Arabia:", "Yemen:" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Yemeni_Congregation_for_Reform_(al-Islah).svg?width=300" ],
+    "dbp:caption" : [ "A convoy of Houthi fighters" ],
+    "dbp:casualties" : [ "3000", "3700", "-" ]
+  },
+  "text" : "The Houthi insurgency in Yemen, also known as the Houthi rebellion, Sa'dah War, or Sa'dah conflict, is an ongoing sectarian military rebellion pitting Zaidi Shia Houthis against the Yemeni military that began in Northern Yemen and has since escalated into a full-scale civil war. It began in June 2004, when dissident cleric Hussein Badreddin al-Houthi, a leader of the Zaidi sect, launched an uprising against the Yemeni government. Initially, most of the fighting took place in Sa'dah Governorate in northwestern Yemen, but some of the fighting spread to neighbouring governorates Hajjah, 'Amran, al-Jawf and the Saudi province of Jizan. Since 2014 the nature of the insurgency has changed with the Houthi takeover in Yemen and then into the ongoing Civil War with a major Saudi-led intervention in Yemen beginning in 2015. General Ali Mohsen al-Ahmar commanded the Yemeni security forces during the conflict and led all the government offensives from 2004 until 2011, when he resigned his post to defend protesters during the Yemeni Revolution. A Houthi power grab in Sana'a escalated on 20 January 2015, when the rebels attacked the president's residence and swept into the presidential palace. President Abed Rabbo Mansour Hadi was inside the residence as it came under \"heavy shelling\" for half an hour, but he was unharmed and protected by guards, according to Information Minister Nadia al-Sakkaf. Presidential guards surrendered the residence after being assured that Hadi could safely evacuate. The U.N. Security Council called an emergency meeting about the unfolding events. United Nations Secretary-General Ban Ki Moon expressed concern over the \"deteriorating situation\" in Yemen and urged all sides to cease hostilities. On 22 January, President Abed Rabbo Mansour Hadi and Prime Minister Khaled Bahah tendered their resignations to parliament, which reportedly refused to accept them."
+}, {
+  "entityIndex" : "entity25830",
+  "entityUrl" : "http://dbpedia.org/resource/Hunger_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "20pxGrand Duchy of Lithuania", "20pxKingdom of Poland", "20pxTeutonic Orderand mercenaries" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Michael_Küchmeister_von_Sternberg", "http://dbpedia.org/resource/Vytautas", "http://dbpedia.org/resource/Jogaila" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Polish–Teutonic_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/State_of_the_Teutonic_Order" ],
+    "dbo:result" : [ "Mediation at theCouncil of Constance" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_Arms_of_the_Polish_Crown.svg?width=300" ],
+    "dbp:date" : [ "Summer 1414" ]
+  },
+  "text" : "The Hunger War or Famine War was a brief conflict between the allied Kingdom of Poland, and Grand Duchy of Lithuania, against the Teutonic Knights in summer 1414 in an attempt to resolve territorial disputes. The war earned its name from destructive scorched earth tactics followed by both sides. While the conflict ended without any major political results, famine and plague swept through Prussia. According to Johann von Posilge, 86 knights of the Teutonic Order died from plague following the war. In comparison, about 400 knights perished in the Battle of Grunwald of 1410, one of the biggest battles in medieval Europe."
+}, {
+  "entityIndex" : "entity25831",
+  "entityUrl" : "http://dbpedia.org/resource/Hungarian_Revolution_of_1848",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Russian Empire", "Austrian Empire", "* Pro-Hungarian Slovaks", "*15pxTransylvanian Saxons", "*22pxHabsburg Hungarians", "*25pxCzech volunteers", "*Banat Bulgarians", "*Croats from Western HungaryandMeđimurje", "*Hungarian Germans", "*Hungarian Slovenes", "*Rusyns", "*Zipser Saxons", "*border|22pxBohemianandMoravianvolunteers", "*border|22pxChief Rus' Council", "*border|22pxKingdom of Croatia", "*border|22pxSerbian Vojvodina", "*border|22pxSlovak National Council", "*border|22pxTransylvanian Romanians", "*border|25px25pxSerbian volunteers", "*ŠokacandBunjevac people", "border|22pxGermanandVienneselegion", "border|22pxItalianlegion", "border|22pxKingdom of Hungary", "border|22pxPolishlegions" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Franz_Joseph_I_of_Austria", "http://dbpedia.org/resource/Lajos_Kossuth", "http://dbpedia.org/resource/Józef_Bem", "http://dbpedia.org/resource/Lajos_Aulich", "http://dbpedia.org/resource/Lajos_Batthyány", "http://dbpedia.org/resource/György_Klapka", "http://dbpedia.org/resource/Julius_Jacob_von_Haynau", "http://dbpedia.org/resource/Ludwig_von_Welden", "http://dbpedia.org/resource/Ľudovít_Štúr", "http://dbpedia.org/resource/Alfred_I,_Prince_of_Windisch-Grätz", "http://dbpedia.org/resource/Artúr_Görgey", "http://dbpedia.org/resource/Ferdinand_I_of_Austria", "http://dbpedia.org/resource/Nicholas_I_of_Russia", "http://dbpedia.org/resource/Ivan_Paskevich", "http://dbpedia.org/resource/Henryk_Dembiński", "http://dbpedia.org/resource/Józef_Wysocki_(general)", "http://dbpedia.org/resource/Stevan_Knićanin", "http://dbpedia.org/resource/János_Damjanich", "http://dbpedia.org/resource/Josip_Jelačić", "http://dbpedia.org/resource/Hryhory_Yakhymovych" ],
+    "dbo:date" : [ "1848-03-15" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Revolutions_of_1848" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Austrian_Empire", "http://dbpedia.org/resource/Kingdom_of_Hungary_(1538-1867)" ],
+    "dbo:result" : [ "Austro-Russian victory; revolution suppressed" ],
+    "dbo:strength" : [ "170,000 men from the Austrian Empire,", "Beginning of 1849 : 170,000 men", "and 200,000 men from the Russian Empire" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/March15.jpg?width=300" ],
+    "dbp:caption" : [ "--03-15" ],
+    "dbp:date" : [ "January 2014", "January 2016" ],
+    "dbp:reason" : [ "I've never heard of this country", "spelling mistake?" ],
+    "dbp:sample" : [ "Bombastic non-ency style: the forces of reactionary absolutism were everywhere supreme. But beneath the surface a strong popular current was beginning to run in a contrary direction. Hungarian society, not unaffected by western Liberalism, but without any direct help from abroad, was preparing for the future emancipation. Writers, savants, poets, artists, noble and plebeian, layman and cleric, without any previous concert, or obvious connection,..." ]
+  },
+  "text" : "The Hungarian Revolution of 1848 was one of the many European Revolutions of 1848 and closely linked to other revolutions of 1848 in the Habsburg areas. The revolution in the Kingdom of Hungary grew into a war for independence from the Austrian Empire, ruled by the Habsburg dynasty. After a series of serious Austrian defeats in 1849, the Austrian State came close to the brink of collapse, thus the new young emperor Franz Joseph I had to call for Russian help in the name of the Holy Alliance. Czar Nicholas I answered, and sent a 200,000 men strong army with 80,000 auxiliary forces. Finally, the joint army of Russian and Austrian forces defeated the Hungarian forces. After the restoration of Habsburg power, Hungary was placed under brutal martial law. The anniversary of the Revolution's outbreak, 15 March, is one of Hungary's three national holidays."
+}, {
+  "entityIndex" : "entity25832",
+  "entityUrl" : "http://dbpedia.org/resource/Handan_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3,000 killed17,000 captured 10,000 defected" ],
+    "dbo:combatant" : [ "National Revolutionary Army", "60px|Flag of the National Revolutionary Army", "60px|PLA", "Chinese Red Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Liu_Bocheng" ],
+    "dbo:date" : [ "1945-10-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Handan", "http://dbpedia.org/resource/Hebei" ],
+    "dbo:result" : [ "Communistvictory" ],
+    "dbo:strength" : [ "60,000 regular100,000 militia", "45,000 for the 1st echelon100,000 for the 2nd echelon" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_Army.svg?width=300" ],
+    "dbp:casualties" : [ "4708" ],
+    "dbp:commander" : [ "22" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Handan Campaign (邯郸战役), also known as Pinghan Campaign (平汉战役), short for Beiping-Hankou Campaign (北平汉口战役), is one of the largest clashes between the communist force and the nationalist force immediately after the end of World War II, which resulted in communist victory."
+}, {
+  "entityIndex" : "entity25833",
+  "entityUrl" : "http://dbpedia.org/resource/Heshui_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "800 killed, 720 wounded" ],
+    "dbo:combatant" : [ "National Revolutionary Army", "People's Liberation Army", "60px|Flag of the National Revolutionary Army", "60px|PLA" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ma_Jiyuan", "http://dbpedia.org/resource/Ma_Bufang", "http://dbpedia.org/resource/Wang_Zhen_(general)" ],
+    "dbo:date" : [ "1947-05-28" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Gansu", "http://dbpedia.org/resource/Northwestern_China" ],
+    "dbo:result" : [ "nationalistvictory" ],
+    "dbo:strength" : [ "3,500", "6,500" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_Army.svg?width=300" ],
+    "dbp:casualties" : [ "2500" ],
+    "dbp:p" : [ "Héshuǐ zhànyì" ],
+    "dbp:s" : [ "合水战役" ],
+    "dbp:t" : [ "合水戰役" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Heshui Campaign (simplified Chinese: 合水战役; traditional Chinese: 合水戰役; pinyin: Héshuǐ zhànyì), consisted of several fierce battles fought between the communists and the nationalist Ma clique’s force, which consisted mostly of cavalry. The campaign was fought in the post-World War II era in the eastern Gansu province in northwestern China during the Chinese Civil War, and it was one of the few conflicts from which the nationalists emerged as the victor."
+}, {
+  "entityIndex" : "entity25834",
+  "entityUrl" : "http://dbpedia.org/resource/Heiligenbeil_Pocket",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "128 planes (According to Soviet information)", "50,000 captured", "605 tanks", "80,000 killed" ],
+    "dbo:combatant" : [ "Soviet Union", "22pxNazi Germany" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Konstantin_Rokossovsky", "http://dbpedia.org/resource/2nd_Belorussian_Front", "http://dbpedia.org/resource/3rd_Belorussian_Front", "http://dbpedia.org/resource/Ivan_Chernyakhovsky", "http://dbpedia.org/resource/Aleksandr_Vasilevsky", "http://dbpedia.org/resource/Friedrich-Wilhelm_Müller", "http://dbpedia.org/resource/Friedrich_Hossbach" ],
+    "dbo:date" : [ "1945-03-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Eastern_Front_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/East_Prussia" ],
+    "dbo:result" : [ "Soviet victory" ],
+    "dbo:strength" : [ "?", "?150,000" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Russian_troops_in_Frauenburg.jpg?width=300" ],
+    "dbp:caption" : [ "--02-09" ],
+    "dbp:casualties" : [ "146780" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Heiligenbeil Pocket or Heiligenbeil Cauldron (German: Heiligenbeiler Kessel) was the site of a major encirclement battle on the Eastern Front during the closing weeks of World War II, in which the Wehrmacht's 4th Army was almost entirely destroyed during the Soviet Braunsberg Offensive Operation (13–22 March 1945). The pocket was located near Heiligenbeil in East Prussia in eastern Germany (now Mamonovo, Kaliningrad Oblast), and the battle, part of a broader Soviet offensive into the region of East Prussia, lasted from 26 January until 29 March 1945."
+}, {
+  "entityIndex" : "entity25835",
+  "entityUrl" : "http://dbpedia.org/resource/Harrying_of_Buchan",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Scottish opponents of Bruce", "15pxScotland Royal Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Comyn,_Earl_of_Buchan", "http://dbpedia.org/resource/James_Douglas,_Lord_of_Douglas" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/First_War_of_Scottish_Independence" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Buchan" ],
+    "dbo:result" : [ "victory for Robert Bruce" ],
+    "dbo:strength" : [ "Unknown" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Royal_Arms_of_the_Kingdom_of_Scotland.svg?width=300" ],
+    "dbp:casualties" : [ "Heavy; John Comyn, Earl of Buchan fled" ],
+    "dbp:date" : [ "1308" ]
+  },
+  "text" : "The Harrying of Buchan, also known as the Herschip (hardship) or Rape of Buchan, took place in 1308 during the Wars of Scottish Independence. It saw vast areas of Buchan in northeast Scotland, then ruled by Clan Comyn, burned to the ground by Robert the Bruce and his brother Edward, immediately following their May 1308 success at the Battle of Barra. After his defeat at Barra, John Comyn, Earl of Buchan fled to England. Bruce's men chased him as far as Turriff, a distance of sixteen miles (25 km). Before heading south to lay siege to Aberdeen Castle, the Bruces laid waste the Earldom of Buchan, including all the castles and strongholds, principally Rattray Castle and Dundarg Castle. Bruce's men proceeded to kill those loyal to the Comyns, destroying their homes, farms, crops and slaughtering their cattle. This was a ruthless exercise by fire and sword which even in an age of violence was regarded as unprecedentedly savage. Terrorising the locals, Bruce prevented any possible chance of future violent hostility towards him and his men. The Comyns had ruled Buchan for nearly a century, from 1214, when William Comyn inherited the title from his wife. Such was the destruction however, that the people of Buchan lost all loyalties to the Comyns and never again rose against Bruce's supporters. It took thirty years before John Comyn's successor to the Earldom, Henry Beaumont, made an appearance in the area. Between 1333–34 he repaired Dundarg Castle, which Bruce had destroyed during the harrying, only for it to be laid siege to and destroyed by Sir Andrew Murray of Bothwell in December 1336. Finding little support, he left after the siege to England where he died in 1340. His son John refused the Earldom, ending the Comyn lineage and the first creation, Mormaers of Buchan."
+}, {
+  "entityIndex" : "entity25836",
+  "entityUrl" : "http://dbpedia.org/resource/Hill_262",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "11 tanks", "351 casualties" ],
+    "dbo:combatant" : [ "Germany" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Walter_Model", "http://dbpedia.org/resource/Stanisław_Maczek" ],
+    "dbo:date" : [ "1944-08-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Operation_Tractable" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Mont-Ormel" ],
+    "dbo:result" : [ "Polish victory" ],
+    "dbo:strength" : [ "1,500 infantry", "~80 tanks", "remnants of around 20 infantry and Panzer divisionsref|Among others these included the 1st SS, 2nd SS, 9th SS, 10th SS, 12th SS, 2nd and 116th Panzer Divisions, and the 3rd Parachute, 84th, 276th, 277th, 326th, 353rd and 363rd Infantry Divisions.|group=nb" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Polish_hill_262.jpg?width=300" ],
+    "dbp:caption" : [ "--08-20" ],
+    "dbp:casualties" : [ "~1,500 casualtiesref|According to McGilvray, around 500 dead and 1,000 captured.|group=nb" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Hill 262, or the Mont Ormel ridge (elevation 262 metres (860 ft)), is an area of high ground above the village of Coudehard in Normandy that was the location of a bloody engagement in the final stages of the Normandy Campaign during the Second World War. By late summer 1944, the bulk of two German armies had become surrounded by the Allies near the town of Falaise. The Mont Ormel ridge, with its commanding view of the area, sat astride the Germans' only escape route. Polish forces seized the ridge's northern height on 19 August and, despite being isolated and coming under sustained attack, held it until noon on 21 August, contributing greatly to the decisive Allied victory that followed. The American success of Operation Cobra provided the Allies with an opportunity to cut off and destroy most German forces west of the River Seine. American, British and Canadian armies converged on the area around Falaise, trapping the German Seventh Army and elements of the Fifth Panzer Army in what became known as the \"Falaise pocket\". On 20 August Generalfeldmarschall Walter Model ordered a withdrawal, but by this time the Allies were already blocking his path. During the night of 19 August, two battlegroups of Stanisław Maczek's Polish 1st Armoured Division had established themselves in the mouth of the Falaise pocket on and around the northernmost of the Mont Ormel ridge's two peaks. On 20 August, with his forces encircled, Model organised attacks on the Polish position from both within and outside the pocket. The Germans managed to isolate the ridge and force open a narrow escape corridor. Lacking the fighting power to close the corridor, the Poles nevertheless directed constant and accurate artillery fire on German units retreating from the pocket, causing heavy casualties. Exasperated, the Germans launched fierce attacks throughout 20 August which inflicted losses on Hill 262's entrenched defenders. Exhausted and dangerously low on ammunition, the Poles managed to retain their foothold on the ridge. The following day, less intense attacks continued until midday, when the last German effort to overrun the position was defeated at close quarters. The Poles were relieved by the Canadian Grenadier Guards shortly after noon; their dogged stand had ensured the closure of the Falaise pocket and the collapse of the German position in Normandy."
+}, {
+  "entityIndex" : "entity25837",
+  "entityUrl" : "http://dbpedia.org/resource/Helmand_province_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown", "800 killed", "25pxISAF", "Islamic Republic of Afghanistan" ],
+    "dbo:combatant" : [ "Taliban", "25pxISAF", "Islamic Republic of Afghanistan", "Quetta Shura" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abdul_Ghafour_(Mullah_Abdul_Ghafour,_Taliban_commander)", "http://dbpedia.org/resource/Mullah_Bakht_Mohammed", "http://dbpedia.org/resource/Mohammad_Gulab_Mangal", "http://dbpedia.org/resource/Murad_Ali_Murad", "http://dbpedia.org/resource/Dadullah", "http://dbpedia.org/resource/Akhtar_Mohammad_Osmani", "http://dbpedia.org/resource/Major_general_(United_States)", "http://dbpedia.org/resource/Mullah_Abdul_Ghani_Baradar", "http://dbpedia.org/resource/Abdullah_Gulam_Rasoul" ],
+    "dbo:date" : [ "2006-06-04" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_in_Afghanistan_(2001–14)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Afghanistan", "http://dbpedia.org/resource/Helmand_province" ],
+    "dbo:strength" : [ "Taliban", "25pxISAF", "27,000 (July 2010)", "3,000 (independent estimate)", "8,000 (ANA)", "8,000-9,000 (Taliban claim)", "Islamic Republic of Afghanistan" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/US-UK-Sangin2007.jpg?width=300" ],
+    "dbp:caption" : [ "American and British soldiers patrolling through a town in Helmand Province, 2007" ],
+    "dbp:casualties" : [ "7000", "Taliban" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Helmand province campaign was a series of military operations conducted by the International Security Assistance Force (ISAF) forces against Taliban insurgents in the Helmand Province of Afghanistan. Their objective was to control a province that was known to be a Taliban stronghold, and a center of opium production. The deployment of international, mostly British, forces was part of the stage three expansion of the ISAF mandate, to cover the southern regions of Afghanistan. Until then Helmand province had seen only a limited coalition presence. In the spring of 2008, a battalion of U.S. Marines arrived to reinforce the British presence. In the spring of 2009, 11,000 additional Marines poured into the province, the first wave of President Obama's 21,000 troop surge into Afghanistan. On June 19, 2009, the British Army (with ISAF and ANA forces) launched Operation Panther's Claw and on July 2, 2009, US Marines launched Operation Khanjar, both major offensives into the province in hopes of securing the region before the Afghanistan presidential elections and turning the tide of the insurgency there."
+}, {
+  "entityIndex" : "entity25838",
+  "entityUrl" : "http://dbpedia.org/resource/Heaton's_Crossroads",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Confederate States of America", "United States of America" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Alfred_N._Duffié", "http://dbpedia.org/resource/John_C._Breckinridge", "http://dbpedia.org/resource/Bradley_T._Johnson" ],
+    "dbo:date" : [ "1864-07-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Loudoun_County,_Virginia" ],
+    "dbo:result" : [ "Inconclusive" ],
+    "dbp:latitude" : [ "39.1357" ],
+    "dbp:longitude" : [ "-77.6919" ],
+    "dbp:mapCaption" : [ "Location of the battle in Virginia" ],
+    "dbp:mapSize" : [ "300" ],
+    "dbp:mapType" : [ "Virginia" ]
+  },
+  "text" : "Heaton's Crossroads, also known as the Purcellville Wagon Raid, was an American Civil War skirmish that took place between Federal cavalry under Brig. Gen. Alfred N. Duffié and Confederate infantry under Maj. Gen. John C. Breckinridge on July 16, 1864, near present-day Purcellville, Virginia in Loudoun County as part of the Valley Campaigns of 1864. The action was tactically inconclusive."
+}, {
+  "entityIndex" : "entity25839",
+  "entityUrl" : "http://dbpedia.org/resource/Hayfield_Fight",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3 killed", "4 wounded" ],
+    "dbo:combatant" : [ "CheyenneandSiouxwarriors", "United StatesGovernment forces and civilians" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Luther_P._Bradley" ],
+    "dbo:date" : [ "1867-08-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Red_Cloud's_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Montana", "http://dbpedia.org/resource/Fort_C._F._Smith_(Fort_Smith,_Montana)" ],
+    "dbo:result" : [ "Government victory" ],
+    "dbo:strength" : [ "500-800", "21 soldiers, 9 civilians" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hayfield_Fight_site_1.jpg?width=300" ],
+    "dbp:casualties" : [ "Unknown: estimates from 8 to 23 killed" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Hayfield Fight on August 1, 1867 was an engagement of Red Cloud's War near Fort C. F. Smith, Montana between 21 soldiers of the U.S. Army, a hay cutting crew of nine civilians, and several hundred native Americans, mostly Cheyenne and Arapaho but including some Lakota Sioux. The soldiers held off the native warriors with newly issued breechloading Springfield Model 1866 rifles, inflicting significant casualties."
+}, {
+  "entityIndex" : "entity25840",
+  "entityUrl" : "http://dbpedia.org/resource/History_of_Nauvoo,_Illinois",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown number wounded" ],
+    "dbo:combatant" : [ "Nauvoo Legion", "Nauvoo militas" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Brigham_Young", "http://dbpedia.org/resource/Daniel_H._Wells", "http://dbpedia.org/resource/Joseph_Smith", "http://dbpedia.org/resource/Thomas_Ford_(politician)", "http://dbpedia.org/resource/Hosea_Stout" ],
+    "dbo:date" : [ "1844-06-10" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/List_of_Mormon_wars_and_massacres" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Nauvoo,_Illinois" ],
+    "dbo:result" : [ "Mormon Exodus toUtah Territory" ],
+    "dbo:strength" : [ "About 1,000", "Less than 150" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Massika_and_Wakusasse.jpg?width=300" ],
+    "dbp:caption" : [ "Depiction of the Battle of Nauvoo, by C.C.A. Christensen" ],
+    "dbp:casualties" : [ "About ten killed, unknown number wounded" ],
+    "dbp:coordinates" : [ "40" ]
+  },
+  "text" : "The history of Nauvoo, Illinois starts with the Sauk and Fox tribes who frequented the area. They first called the area Quashquema, named in honor of the Native American chief who headed a Sauk and Fox settlement numbering nearly 500 lodges. Permanent settlement by non-natives was reportedly begun in 1824 by Captain James White. By 1827 other white settlers had built cabins in the area. By 1829 this area of Hancock County had grown sufficiently so that a post office was needed and in 1832 the town, now called Venus, was one of the contenders for the new county seat. However, the honor was awarded to a nearby city, Carthage. In 1834 the name Venus was changed to Commerce because the settlers felt that the new name better suited their plans. In late 1839, arriving Mormons bought the small town of Commerce and in April 1840 it was renamed \"Nauvoo\" (a Hebrew word meaning \"beautiful place\" or \"city beautiful\") by Joseph Smith, the founder of the Latter Day Saint Movement. Nauvoo grew rapidly and for a few years was one of the most populous cities in Illinois. Within two years of Joseph Smith's assassination in 1844, most of the population had departed, fleeing armed violence. Most headed west with the group led by Brigham Young. In 1849 Icarians moved to the Nauvoo area to implement a utopian socialist commune. In the early and mid 20th century Nauvoo was primarily a Catholic town, and the majority of the population today is Catholic. Nauvoo today is an important tourist destination for Latter Day Saints (Mormons) and others who come to see the numerous restored historical buildings and visitors centers."
+}, {
+  "entityIndex" : "entity25841",
+  "entityUrl" : "http://dbpedia.org/resource/Huck's_Defeat",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 killed and 1 wounded" ],
+    "dbo:combatant" : [ "militia", "British andLoyalistmilitia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/William_Bratton_(militia_leader)" ],
+    "dbo:date" : [ "1780-07-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Revolutionary_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/McConnells,_South_Carolina", "http://dbpedia.org/resource/York_County,_South_Carolina" ],
+    "dbo:result" : [ "American victory" ],
+    "dbo:strength" : [ "35 dragoons, 20New York Volunteersand about 60 militia", "About 250 militia" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/MarthaBratton.jpg?width=300" ],
+    "dbp:caption" : [ "Reenactment of Huck's Defeat  at Historic Brattonsville" ],
+    "dbp:casualties" : [ "Majority killed, wounded, or captured" ],
+    "dbp:commander" : [ "Christian Huck" ]
+  },
+  "text" : "Huck's Defeat or the Battle of Williamson's Plantation was an engagement of the American Revolutionary War that occurred in present York County, South Carolina on July 12, 1780, and was one of the first battles of the southern campaign to be won by Patriot militia."
+}, {
+  "entityIndex" : "entity25842",
+  "entityUrl" : "http://dbpedia.org/resource/Hukbalahap_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Supported by:", "Japan", "Second Philippine Republic", "Hukbalahap", "Republic of the Philippines", "Allegedly supported by:", "Commonwealth of the Philippines(1942–1946)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Douglas_MacArthur", "http://dbpedia.org/resource/Luis_Taruc", "http://dbpedia.org/resource/Sergio_Osmena", "http://dbpedia.org/resource/Edward_Lansdale", "http://dbpedia.org/resource/Ramon_Magsaysay", "http://dbpedia.org/resource/Manuel_L._Quezon", "http://dbpedia.org/resource/Elpidio_Quirino", "http://dbpedia.org/resource/Manuel_Roxas", "http://dbpedia.org/resource/Emperor_Hirohito", "http://dbpedia.org/resource/Jose_P._Laurel" ],
+    "dbo:date" : [ "1942-03-29" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Central_Luzon" ],
+    "dbo:result" : [ "*HukbalahapRebellion ends", "Philippine Government Victory" ],
+    "dbo:strength" : [ "12,800 (Peak strength)", "15,000 (1942 to 1946)", "56,000 (1946 to 1954)", "No figures available" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hukbalahap_flag.svg?width=300" ],
+    "dbp:controversy" : [ "Communist involvement" ],
+    "dbp:partOf" : [ "peasant movements, agrarian reform" ],
+    "dbp:possibleImmediateCauses" : [ "*murder of Juan Feleo" ],
+    "dbp:units" : [ "20", "United States Army", "United States Marine Corps", "United States Navy", "United States Army Air Forces", "Supported by:", "Partido Komunista ng Pilipinas-1930", "Bureau of Constabulary", "Philippine Air Force", "Philippine Army", "Makapili", "* 20px Imperial Japanese Navy Land Forces", "* 20px Special Naval Landing Forces", "Hukbong Bayan Laban sa Hapon (Hukbalahap)", "Hukbong Magpalaya ng Bayan", "Philippine Army Air Corps", "Philippine Commonwealth Army", "Philippine Constabulary", "Recognized Guerrilla Unit" ]
+  },
+  "text" : "The Hukbalahap Rebellion was a rebellion staged by former Hukbalahap or Hukbo ng Bayan Laban sa Hapon (Anti-Japanese Army) soldiers against the Philippine government. It started during the Japanese occupation of the Philippines in 1942 and continued during the presidency of Manuel Roxas, and ended in 1954 under the presidency of Ramon Magsaysay."
+}, {
+  "entityIndex" : "entity25843",
+  "entityUrl" : "http://dbpedia.org/resource/Hudson_Bay_expedition",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "No combat casualties; losses due to drowning and disease" ],
+    "dbo:combatant" : [ "Hudson's Bay Company" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Jean-François_de_Galaup,_comte_de_La_Pérouse", "http://dbpedia.org/resource/Samuel_Hearne", "http://dbpedia.org/resource/Humphrey_Marten" ],
+    "dbo:date" : [ "1782-08-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Revolutionary_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Hudson_Bay", "http://dbpedia.org/resource/Fort_Prince_of_Wales", "http://dbpedia.org/resource/York_Factory,_Manitoba", "http://dbpedia.org/resource/Prince_Rupert's_Land" ],
+    "dbo:result" : [ "French victory", "Two company factories raided; two company ships escape" ],
+    "dbo:strength" : [ "2 frigates", "1 ship of the line", "290 regulars", "3 company ships", "Prince of Wales Fort: 39 civilians", "York Fort: 60 civilians, 12 Indians" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/HudsonBay1779.jpg?width=300" ],
+    "dbp:campaignbox" : [ "North American & Atlantic Waters" ],
+    "dbp:caption" : [ "Detail from a 1779 map of eastern North America.  Fort Prince of Wales and York Factory are visible center-left." ],
+    "dbp:casualties" : [ "~100 captured" ]
+  },
+  "text" : "The Hudson Bay expedition of Jean-François de Galaup, comte de La Pérouse was a series of military raids on the lucrative fur trading posts and fortifications of the Hudson's Bay Company on the shores of Hudson Bay by a squadron of the French Royal Navy. Setting sail from Cap-Français in 1782, the expedition was part of a global naval war between France and Great Britain during the American Revolutionary War. Operating under secret orders from the Marquis de Castries, France's marine minister, La Pérouse sailed from Cap-Français in May 1782, and arrived at the Prince of Wales Fort in early August. That fort and York Factory trading post both surrendered without a fight, although some of the furs stored at York were spirited away by a company ship that evaded the French fleet. Many of the British prisoners were put on a sloop and allowed to sail back to England. Men on La Pérouse's fleet, which had sailed with minimal winter provisioning to maintain secrecy, suffered hardships including scurvy and other diseases. Hudson's Bay Company finances suffered because of the raid, which also contributed to reductions in the native population that did business with the company."
+}, {
+  "entityIndex" : "entity25844",
+  "entityUrl" : "http://dbpedia.org/resource/Hundred_Years'_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*", "Crown of Aragon", "Kingdom of England", "Kingdom of France", "Duchy of Burgundy", "Kingdom of Navarre", "Republic of Genoa", "Kingdom of Portugal", "Kingdom of Scotland", "Duchy of Brittany", "15px", "County of Flanders", "Duchy of Aquitaine", "Kingdom of Bohemia", "(Blois)", "(Montfort)", "County of Hainaut", "Crown of Castile" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Low_Countries" ],
+    "dbo:result" : [ ":French victory: House of Valois retains the throne of France,Treaty of Picquigny", ":English victory:Treaty of Brétigny", ":English victory:Treaty of Troyes", ":French victory:Treaty of Bruges", ";Caroline War(1369–1389)", ";Edwardian War(1337–1360)", ";Lancastrian War, 1st phase (1415–1420)", ";Lancastrian War, 2nd phase (1420–1453)" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Duchy_of_Aquitaine", "http://dbpedia.org/resource/Pale_of_Calais" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hundred_years_war_collage.jpg?width=300" ],
+    "dbp:caption" : [ "http://dbpedia.org/resource/Battle_of_La_Rochelle", ",", "Clockwise, from top left: The", "Joan of Arc at the Siege of Orléans", "The Battle of Agincourt,", "The Battle of Patay," ],
+    "dbp:date" : [ "1337" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Hundred Years' War is the modern term for a series of conflicts waged from 1337 to 1453 by the House of Plantagenet, rulers of the Kingdom of England, against the House of Valois, rulers of the Kingdom of France, for control of the Kingdom of France. Each side drew many allies into the war. It was one of the most notable conflicts of the Middle Ages, in which five generations of kings from two rival dynasties fought for the throne of the largest kingdom in Western Europe. The war marked both the height of chivalry and its subsequent decline, and the development of strong national identities in both countries. After the Norman Conquest, the kings of England were vassals of the kings of France for their possessions in France. The French kings had endeavored, over the centuries, to reduce these possessions, to the effect that only Gascony was left to the English. The confiscation or threat of confiscating this duchy had been part of French policy to check the growth of English power, particularly whenever the English were at war with the Kingdom of Scotland, an ally of France. Through his mother, Isabella of France, Edward III of England was the grandson of Philip IV of France and nephew of Charles IV of France, the last king of the senior line of the House of Capet. In 1316, a principle was established denying women succession to the French throne. When Charles IV died in 1328, Isabella, unable to claim the French throne for herself, claimed it for her son. The French rejected the claim, maintaining that Isabella could not transmit a right that she did not possess. For about nine years (1328–1337), the English had accepted the Valois succession to the French throne. But the interference of the French king, Philip VI, in Edward III's war against Scotland permitted Edward III to reassert his claim to the French throne. Several overwhelming English victories in the war—especially at Crecy, Poitiers, and Agincourt—raised the prospects of an ultimate English triumph. However, the greater resources of the French monarchy precluded a complete conquest. Starting in 1429, decisive French victories at Patay, Formigny, and Castillon concluded the war in favour of France, with England permanently losing most of its major possessions on the continent. Historians commonly divide the war into three phases separated by truces: the Edwardian Era War (1337–1360); the Caroline War (1369–1389); and the Lancastrian War (1415–1453). Contemporary conflicts in neighbouring areas, which were directly related to this conflict, included the War of the Breton Succession (1341–1364), the Castilian Civil War (1366–1369), the War of the Two Peters (1356–1375) in Aragon, and the 1383–85 Crisis in Portugal. Later historians invented the term \"Hundred Years' War\" as a periodization to encompass all of these events, thus constructing the longest military conflict in history. The war owes its historical significance to multiple factors. By its end, feudal armies had been largely replaced by professional troops, and aristocratic dominance had yielded to a democratisation of the manpower and weapons of armies. Although primarily a dynastic conflict, the war gave impetus to ideas of French and English nationalism. The wider introduction of weapons and tactics supplanted the feudal armies where heavy cavalry had dominated. The war precipitated the creation of the first standing armies in Western Europe since the time of the Western Roman Empire, composed largely of commoners and thus helping to change their role in warfare. With respect to the belligerents, in France, civil wars, deadly epidemics, famines, and bandit free-companies of mercenaries reduced the population drastically. English political forces over time came to oppose the costly venture. The dissatisfaction of English nobles, resulting from the loss of their continental landholdings, became a factor leading to the civil wars known as the Wars of the Roses (1455–1487). Shorn of its continental possessions, England was left with the sense of being an island nation, which profoundly affected its outlook and development for more than 500 years."
+}, {
+  "entityIndex" : "entity25845",
+  "entityUrl" : "http://dbpedia.org/resource/Harmar_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "about 120-150 killed or wounded" ],
+    "dbo:combatant" : [ "Western Confederacy", "Pennsylvania Militia", "Kentucky Militia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Josiah_Harmar", "http://dbpedia.org/resource/John_Hardin", "http://dbpedia.org/resource/Blue_Jacket", "http://dbpedia.org/resource/Little_Turtle" ],
+    "dbo:date" : [ "1790-10-22" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Northwest_Indian_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kekionga", "http://dbpedia.org/resource/Fort_Wayne,_IN" ],
+    "dbo:result" : [ "Indian Victory" ],
+    "dbo:strength" : [ "1,100 militia", "320 regulars", "about 1,050 warriors" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Josiah_Harmar_by_Raphaelle_Peale.jpeg?width=300" ],
+    "dbp:caption" : [ "General Josiah Harmar" ],
+    "dbp:casualties" : [ "106", "262" ]
+  },
+  "text" : "The Harmar Campaign was an attempt by the United States to subdue Native Americans in the Northwest Territory in the Autumn of 1790. They were seeking to expel American settlers whom they considered interlopers in their territory. The campaign was led by General Josiah Harmar and is considered an early part of the Northwest Indian War. The campaign consisted of a series of battles that were all overwhelming victories for the Native Americans, and the collective losses are sometimes referred to as Harmar's Defeat."
+}, {
+  "entityIndex" : "entity25846",
+  "entityUrl" : "http://dbpedia.org/resource/Hurricane_Barbarossa",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:combatant" : [ "Movement for the Emancipation of the Niger Delta" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Henry_Okah", "http://dbpedia.org/resource/Umaru_Musa_Yar'Adua" ],
+    "dbo:date" : [ "2008-09-27" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Conflict_in_the_Niger_Delta" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Rivers_State" ],
+    "dbo:result" : [ "Ceasefire declared on September 27, 2008" ],
+    "dbo:strength" : [ "unknown" ],
+    "dbp:casualties" : [ "unknown" ]
+  },
+  "text" : "On September 14, 2008, Movement for the Emancipation of the Niger Delta (MEND) inaugurated Operation Hurricane Barbarossa with an ongoing string of militant attacks to bring down the oil industry in Rivers State. On September 27, a week after declaring an oil war and sustaining heavy losses at the hands of the Nigerian armed forces, the group declared a ceasefire starting the next until \"further notice.\""
+}, {
+  "entityIndex" : "entity25847",
+  "entityUrl" : "http://dbpedia.org/resource/Hsinchu_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "to be supplied" ],
+    "dbo:combatant" : [ "23pxRepublic of Formosa", "border|23pxEmpire of Japan" ],
+    "dbo:date" : [ "1895-08-02" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Japanese_invasion_of_Taiwan_(1895)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Taiwan", "http://dbpedia.org/resource/Hsinchu" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:strength" : [ "to be supplied" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_Japan.svg?width=300" ],
+    "dbp:casualties" : [ "to be supplied" ],
+    "dbp:commander" : [ "23", "border|23px Major-General Yamane" ]
+  },
+  "text" : "The Hsinchu Campaign (11 June – 2 August 1895) was an important military campaign during the Japanese invasion of Taiwan (1895). The Japanese capture of Hsinchu on 22 June 1895 was succeeded by several weeks of intense guerrilla activity, and marked the emergence of a significant Formosan resistance movement to the Japanese invasion."
+}, {
+  "entityIndex" : "entity25848",
+  "entityUrl" : "http://dbpedia.org/resource/Houma_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6,500" ],
+    "dbo:combatant" : [ "60px|Flag of the National Revolutionary ArmyNational Revolutionary Army", "60px|PLAPeople's Liberation Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Chen_Geng" ],
+    "dbo:date" : [ "1946-01-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Shanxi" ],
+    "dbo:result" : [ "Communistvictory" ],
+    "dbo:strength" : [ "20,000", "6,500" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_Army.svg?width=300" ],
+    "dbp:casualties" : [ "Low" ],
+    "dbp:commander" : [ "22" ]
+  },
+  "text" : "The Houma Campaign (侯马战役), also dubbed as Houma Counteroffensive (侯马反击战), was a series of battles fought between the nationalists and the communists during Chinese Civil War in the post World War II era, and resulted in the communist victory."
+}, {
+  "entityIndex" : "entity25849",
+  "entityUrl" : "http://dbpedia.org/resource/Headford_Ambush",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2 dead" ],
+    "dbo:combatant" : [ "British Army", "border|22pxIrish Republican Army", "(FirstRoyal Fusiliers)", "(Second Kerry Brigade)" ],
+    "dbo:date" : [ "1921-03-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Irish_War_of_Independence" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/County_Kerry", "http://dbpedia.org/resource/Killarney" ],
+    "dbo:result" : [ "successful IRA ambush and getaway" ],
+    "dbo:strength" : [ "32 volunteers", "30 soldiers in first train, more arrive in a second train" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg?width=300" ],
+    "dbp:casualties" : [ "3", "8" ],
+    "dbp:commander" : [ "Lt. C.F. Adams†", "border|22px Danny Allman†" ],
+    "dbp:latitude" : [ "52.041" ],
+    "dbp:longitude" : [ "-9.344" ],
+    "dbp:mapMarksize" : [ "6" ],
+    "dbp:mapRelief" : [ "yes" ],
+    "dbp:mapSize" : [ "300" ],
+    "dbp:mapType" : [ "island of Ireland" ]
+  },
+  "text" : "The Second Kerry Brigade (South Kerry) of the Irish Republican Army (IRA) ambushed a train carrying British troops at Headford Junction railway station (near Killarney, County Kerry). A total of at least 16 people died in the incident – 10 British soldiers, 2 IRA volunteers and 4 civilians (including an informer killed after the ambush)."
+}, {
+  "entityIndex" : "entity25850",
+  "entityUrl" : "http://dbpedia.org/resource/Huan_Wen's_expeditions",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "40,000+" ],
+    "dbo:combatant" : [ "Jin dynasty", "Former Qin,Former Yan" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_China" ],
+    "dbo:result" : [ "Stalemate" ],
+    "dbo:strength" : [ "100,000+", "50,000-100,000" ],
+    "dbp:casualties" : [ "Heavy losses" ],
+    "dbp:commander" : [ "Fu Jian, Murong Wei", "Huan Wen" ],
+    "dbp:date" : [ "354" ]
+  },
+  "text" : "Huan Wen's expeditions were a series of expeditions launched by the Jin dynasty general Huan Wen and aimed at attempting to reclaim China's territory north of the Huai. Due to the lack of support from the Jin court, the expeditions were unsuccessful."
+}, {
+  "entityIndex" : "entity25851",
+  "entityUrl" : "http://dbpedia.org/resource/Hundred_Thousand_Sons_of_Saint_Louis",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Kingdom of France", "Armée de la Foi", "Partisans of theCortes" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Bon_Adrien_Jeannot_de_Moncey", "http://dbpedia.org/resource/Henry_Joseph_O'Donnell,_Count_of_La_Bisbal", "http://dbpedia.org/resource/Francisco_Espoz_y_Mina", "http://dbpedia.org/resource/Louis_Aloy_de_Hohenlohe-Waldenburg-Bartenstein", "http://dbpedia.org/resource/Gabriel_Jean_Joseph_Molitor", "http://dbpedia.org/resource/Nicolas_Charles_Oudinot", "http://dbpedia.org/resource/Pablo_Morillo", "http://dbpedia.org/resource/Rafael_del_Riego", "http://dbpedia.org/resource/Armand_Charles_Guilleminot", "http://dbpedia.org/resource/Francisco_Ballesteros", "http://dbpedia.org/resource/Étienne_Tardif_de_Pommeroux_de_Bordesoulle", "http://dbpedia.org/resource/Louis-Antoine,_Duke_of_Angoulême", "http://dbpedia.org/resource/Miguel_de_Álava" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/History_of_Spain_(1814–73)" ],
+    "dbo:result" : [ "French and Spanish Royalist victory" ],
+    "dbo:strength" : [ "95,000 men" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Episode_of_the_French_intervention_in_Spain_1823.PNG?width=300" ],
+    "dbp:battles" : [ "http://dbpedia.org/resource/Battle_of_Trocadero" ],
+    "dbp:caption" : [ "Episode of the French intervention in Spain 1823 by Hippolyte Lecomte" ],
+    "dbp:date" : [ "1823" ],
+    "dbp:name" : [ "Spanish Civil War, 1820–1823" ]
+  },
+  "text" : "The Hundred Thousand Sons of Saint Louis was the popular name for a French army mobilized in 1823 by the Bourbon King of France, Louis XVIII to help the Spanish Royalists restore King Ferdinand VII of Spain to the absolute power of which he had been deprived during the Liberal Triennium. Despite the name, the actual number of troops was around 60,000. The force comprised some five army corps (the bulk of the French regular army) and was led by the Duke of Angoulême, the son of the future King Charles X of France."
+}, {
+  "entityIndex" : "entity25852",
+  "entityUrl" : "http://dbpedia.org/resource/Hundred_Regiments_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "22,000" ],
+    "dbo:combatant" : [ "Japanese North China Area Army", "Communist divisions of the National Revolutionary Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Peng_Dehuai", "http://dbpedia.org/resource/Hayao_Tada", "http://dbpedia.org/resource/Zhu_De" ],
+    "dbo:date" : [ "1940-12-05" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_China" ],
+    "dbo:result" : [ "Chinese victory" ],
+    "dbo:strength" : [ "400,000", "270,000 Japanese and 150,000 Chinese collaborators" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hundred_Regiments_Offensive_1940.jpg?width=300" ],
+    "dbp:caption" : [ "Victorious Chinese Communist soldiers holding the flag of the Republic of China." ],
+    "dbp:casualties" : [ "2", "3", "4", "Several record from different sources" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Hundred Regiments Offensive (Chinese: 百團大戰) (20 August – 5 December 1940) was a major campaign of the Communist Party of China's National Revolutionary Army divisions commanded by Peng Dehuai against the Imperial Japanese Army in Central China. The battle had long been the focus of propaganda in the history of Chinese Communist Party but had become Peng Dehuai's \"crime\" during the Cultural Revolution. Certain issues regarding its launching and consequences are still controversial."
+}, {
+  "entityIndex" : "entity25853",
+  "entityUrl" : "http://dbpedia.org/resource/Hadong_Ambush",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "495 killed, wounded or captured" ],
+    "dbo:date" : [ "1950-07-27" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Korean_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/First_Republic_of_South_Korea", "http://dbpedia.org/resource/Hadong" ],
+    "dbo:result" : [ "North Korean victory" ],
+    "dbo:strength" : [ "925", "~500" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Hadong_Pass.jpg?width=300" ],
+    "dbp:caption" : [ "Hadong Pass, site of the ambush, several weeks later" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:commander" : [ "George F. Sharra", "Harold W. Mott", "Pang Ho San" ],
+    "dbp:units" : [ "3", "6" ]
+  },
+  "text" : "The Hadong Ambush was an engagement between United States and North Korean forces, occurring on July 27, 1950, in the village of Hadong in southern South Korea, early in the Korean War. The fight ended in a North Korean victory following a successful ambush of US forces which resulted in heavy American casualties. The US Army's 3rd Battalion, 29th Infantry Regiment, a newly formed unit consisting mostly of inexperienced new arrivals, was ordered to move to the South Korean village of Hadong to hold the pass there from advancing forces of the North Korean People's Army. Unprepared for combat, the American forces walked into an ambush in which most of the battalion's command staff was killed in the pass, leaving lower-ranking soldiers to mount a disorganized defence against North Korean troops occupying prepared positions on higher ground. For three hours the battalion fought, pinned in a crossfire by North Korean soldiers on higher ground. North Korean forces were able to divide the American force and kill most of its commanders, further disorganizing the men. Following the failed operation, the wounded US commander ordered a withdrawal, which quickly became disorganized, resulting in hundreds of casualties. Destroyed after its first engagement, the 3rd Battalion, 29th Infantry Regiment was disbanded and merged with other units as the North Korean forces advanced through the pass and attacked US positions to the east."
+}, {
+  "entityIndex" : "entity25854",
+  "entityUrl" : "http://dbpedia.org/resource/Hamilcar's_victory_with_Navaras",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Carthage", "Rebel mercenaries", "Rebelling Libyan towns and cities" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hamilcar_Barca", "http://dbpedia.org/resource/Naravas" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Mercenary_War" ],
+    "dbo:result" : [ "Carthaginian Victory" ],
+    "dbo:strength" : [ "about 15,000–20,000", "about 20,000–40,000" ],
+    "dbp:casualties" : [ "4000", "10000" ],
+    "dbp:date" : [ "Autumn 240 BC" ],
+    "dbp:place" : [ "Exact Location Unknown" ]
+  },
+  "text" : "The battle following the defection of Numidian chieftain Naravas to Hamilcar Barca was fought between Carthaginian forces commanded by Hamilcar Barca and part of the combined forces of Carthage's former mercenary armies during the Mercenary War, which Carthage had formerly employed during the First Punic War, and those of rebelling Libyan cities supporting the mercenaries, under the command of Spendius and the Gallic chief Autharitus. After the forces of Hanno the Great was defeated at Utica, and his subsequent failure to engage the mercenaries afterwards despite favorable conditions, Carthage raised a new army under Hamilcar Barca in Carthage. Hamilcar’s army managed to leave Carthage despite the rebel blockade of the city and cross the Bagradas river, then defeat the rebel armies busy besieging Utica and based in the camp guarding the river bridge. Rebel survivors scattered to Tunes, and Hamilcar next moved along the Bagradas river, capturing towns either by force or by diplomacy. An army under the command of Spendius, which included a contingent of Gauls under Autharitus and a group of Numidians under Naravas, later shadowed Hamilcar’s army. Spendius managed to trap the Carthaginians in a valley mountain after some time. The defection of Naravas allowed Hamilcar to escape the trap. Spendius then chose to engage the Carthaginian army, and in a hard fought battle Hamilcar emerged victorious."
+}, {
+  "entityIndex" : "entity25855",
+  "entityUrl" : "http://dbpedia.org/resource/Hyderabad_airstrike",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "2007-06-28" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Afghanistan", "http://dbpedia.org/resource/Helmand_Province", "http://dbpedia.org/resource/Gerishk_District" ],
+    "dbo:result" : [ "estimated 100-130 people killed, 35-85 Taliban fighter, 45-100 civilians including women and children, about 23-40 civilians wounded" ]
+  },
+  "text" : "Hyderabad airstrike refers to the killing of a large number of Afghan civilians including women and children in the village of Hyderabad, Gerishk District, Helmand province, Afghanistan on June 28, 2007. The airstrikes occurred after Taliban forces ambushed a combined US-Afghan army force in Hyderabad and destroyed two US military vehicles with mines. A firefight ensued and US-Afghan forces called in airstrikes in response to heavy small arms and mortar fire. Coalition spokesperson Major Chris Belcher stated the airstrikes targeted Taliban firing positions in the village. The numbers of casualties vary depending on the source some give total numbers as high as 130 with up to 80-100 civilians killed. President Hamid Karzai ordered an investigation. Residents of the town of Hyderabad claimed that from 45 to 65 civilians were killed. An investigation by the Afghan government concluded that 45 civilians including women and children had been killed. Village elders say another 23 civilians were wounded in the attack."
+}, {
+  "entityIndex" : "entity25856",
+  "entityUrl" : "http://dbpedia.org/resource/Hudson_Bay_expedition_(1686)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "unknown" ],
+    "dbo:combatant" : [ "English", "New France" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pierre_de_Troyes,_Chevalier_de_Troyes", "http://dbpedia.org/resource/Pierre_Le_Moyne_d'Iberville", "http://dbpedia.org/resource/John_Bridgar" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/King_William's_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Hudson_Bay" ],
+    "dbo:result" : [ "French victory" ],
+    "dbo:strength" : [ "100 French regulars and militia", "40 English" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Le_Moyne_d'Iberville_1661-1706.jpg?width=300" ],
+    "dbp:caption" : [ "http://dbpedia.org/resource/Pierre_Le_Moyne_d'Iberville" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:date" : [ "1686" ]
+  },
+  "text" : "The Hudson Bay expedition of 1686 was one of the Anglo-French conflicts on Hudson Bay. It was the first of several expeditions sent from New France against the trading outposts of the Hudson's Bay Company in the southern reaches of Hudson Bay. Led by the Chevalier de Troyes, the expedition captured the outposts at Moose Factory, Rupert House, Fort Albany, and the company ship Craven. Although France and England were then at peace, war broke out between them in 1689, and the conflict over the Hudson Bay outposts continued. One of Troyes' lieutenants, Pierre Le Moyne d'Iberville, made further expeditions against HBC holdings; these culminated in the French victory at the 1697 naval Battle of Hudson's Bay. At the end of the war, the French controlled all but one of the company's outposts."
+}, {
+  "entityIndex" : "entity25857",
+  "entityUrl" : "http://dbpedia.org/resource/Hannibal's_crossing_of_the_Alps",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Carthage", "Roman Republic" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hannibal", "http://dbpedia.org/resource/Maharbal", "http://dbpedia.org/resource/Publius_Cornelius_Scipio", "http://dbpedia.org/resource/Hanno_the_Elder", "http://dbpedia.org/resource/Hasdrubal_Gisco", "http://dbpedia.org/resource/Hasdrubal_(Barcid)", "http://dbpedia.org/resource/Mago_(Barcid)", "http://dbpedia.org/resource/Tiberius_Sempronius_Longus_(consul_219_BC)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Punic_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Cisalpine_Gaul", "http://dbpedia.org/resource/Italia_(Roman_province)", "http://dbpedia.org/resource/Hispania", "http://dbpedia.org/resource/Transalpine_Gaul" ],
+    "dbo:result" : [ "Hannibal arrives in Italy and establishes a base of operations" ],
+    "dbo:strength" : [ "94,000+" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hannibal_route_of_invasion-en.svg?width=300" ],
+    "dbp:caption" : [ "A marble bust, reputedly of Hannibal. Found in Capua", "Hannibal's route to Italy" ],
+    "dbp:casualties" : [ "68000" ],
+    "dbp:casus" : [ "Official Roman version: Hannibal's attack on Saguntum" ],
+    "dbp:date" : [ "218" ]
+  },
+  "text" : "Hannibal's crossing of the Alps in 218 BC was one of the major events of the Second Punic War, and one of the most celebrated achievements of any military force in ancient warfare. Bypassing Roman and allied land garrisons and Roman naval dominance, Hannibal managed to lead his Carthaginian army over the Alps and into Italy to take the war directly to the Roman Republic."
+}, {
+  "entityIndex" : "entity25858",
+  "entityUrl" : "http://dbpedia.org/resource/Himara_revolt_of_1912",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Greece" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Spyros_Spyromilios" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/First_Balkan_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Himara" ],
+    "dbo:result" : [ "Greek victory", "Coastal region of Himara secured against Ottoman and Albanian infiltration" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Himara_Revolt_1912.svg?width=300" ],
+    "dbp:caption" : [ "Military developments in Himara" ],
+    "dbp:date" : [ "--11-05" ]
+  },
+  "text" : "The Himara revolt (Greek: Εξέγερση της Χειμάρρας), was a Greek uprising during the First Balkan War that took place in the region of Himara (Himarë, today southern Albania), on November 18 [O.S. November 5] 1912. It successfully overthrew the Ottoman forces of the region, thus securing the coastal area between Sarandë and Vlorë for the Hellenic Army."
+}, {
+  "entityIndex" : "entity25859",
+  "entityUrl" : "http://dbpedia.org/resource/Hanzhong_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Cao Cao", "Liu Bei" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Cao_Cao", "http://dbpedia.org/resource/Xiahou_Yuan", "http://dbpedia.org/resource/Liu_Bei" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/End_of_the_Han_dynasty" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Hanzhong", "http://dbpedia.org/resource/Shaanxi" ],
+    "dbo:result" : [ "Liu Bei victory; Liu Bei takes control of Hanzhong" ],
+    "dbp:date" : [ "217" ],
+    "dbp:p" : [ "Hànzhōng Zhī Zhàn" ],
+    "dbp:s" : [ "汉中之战" ],
+    "dbp:t" : [ "漢中之戰" ]
+  },
+  "text" : "The Hanzhong Campaign was a military campaign launched by the warlord Liu Bei to seize control of the commandery of Hanzhong from his rival Cao Cao. The campaign took place between 217 and 219 during the prelude to the Three Kingdoms period. Although Cao Cao's forces had settled in Hanzhong three years prior after the Battle of Yangping, they were worn out by an overall Fabian strategy employed by Liu Bei's forces, who used targeted attacks to capture strategic locations from the enemy. One of these attacks resulted in the death of Xiahou Yuan, one of Cao Cao's top generals, delivering a huge block to the morale of Cao Cao's forces. Due to logistical and other issues, Cao Cao was eventually forced to abandon Hanzhong and order a retreat. Liu Bei emerged victorious in the campaign and occupied Hanzhong in 219, after which he declared himself \"King of Hanzhong\" in autumn of that year."
+}, {
+  "entityIndex" : "entity25860",
+  "entityUrl" : "http://dbpedia.org/resource/Hauran_Druze_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Druze rebels" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Sami_Pasha_al-Farouqi", "http://dbpedia.org/resource/Zuqan_al-Atrash" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Jabal_ad-Duruz" ],
+    "dbo:result" : [ "*Census and disarmament of the Druze in Hauran", "*Execution ofZuqan al-Atrash", "*Massive Druze casualties", "Rebellion crushed:" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ottoman_Syria.png?width=300" ],
+    "dbp:casualties" : [ "2000", "Hundreds imprisoned" ],
+    "dbp:date" : [ "May 1909-1910" ]
+  },
+  "text" : "The Hauran Druze Rebellion was a violent Druze uprising against Ottoman authority in the Syrian province, which erupted in 1909. The rebellion was led by the al-Atrash family, in an aim to gain independence, but ended in brutal suppression of the Druze, significant depopulation of the Hauran region and execution of the Druze leaders."
+}, {
+  "entityIndex" : "entity25861",
+  "entityUrl" : "http://dbpedia.org/resource/Huesca_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "9,000 casualties" ],
+    "dbo:combatant" : [ "International Brigades" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Sebastián_Pozas" ],
+    "dbo:date" : [ "0019-06-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/Huesca", "http://dbpedia.org/resource/Province_of_Huesca" ],
+    "dbo:result" : [ "Nationalist victory" ],
+    "dbo:strength" : [ "?" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_International_Brigades.svg?width=300" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:commander" : [ "?" ]
+  },
+  "text" : "The Huesca Offensive was an ill-fated Republican army thrust toward Huesca between 12 and 19 June 1937, during the Spanish Civil War. Hungarian writer and communist commander Máté Zalka was killed in the course of the battle."
+}, {
+  "entityIndex" : "entity25862",
+  "entityUrl" : "http://dbpedia.org/resource/Hungarian_invasions_of_Europe",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Mostly not significant" ],
+    "dbo:combatant" : [ "Byzantine Empire", "Kingdom of Italy", "Kingdom of Croatia", "First Bulgarian Empire", "East Francia", "Principality of Serbia", "Al-Andalus", "Catalan Counties", "Great Moravia", "Hungarian tribes", "Khazaria", "Middle Francia", "Principality of Littoral Croatia", "Principality of Pannonian Croatia", "West Francia" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Henry_the_Fowler", "http://dbpedia.org/resource/Luitpold,_Margrave_of_Bavaria", "http://dbpedia.org/resource/Conrad,_Duke_of_Lorraine", "http://dbpedia.org/resource/Lehel", "http://dbpedia.org/resource/Louis_the_Child", "http://dbpedia.org/resource/Otto_the_Great", "http://dbpedia.org/resource/Taksony_of_Hungary", "http://dbpedia.org/resource/Árpád", "http://dbpedia.org/resource/Muncimir_of_Croatia", "http://dbpedia.org/resource/Berengar_I_of_Italy", "http://dbpedia.org/resource/Arnulf,_Duke_of_Bavaria", "http://dbpedia.org/resource/Bulcsú", "http://dbpedia.org/resource/Tomislav_of_Croatia", "http://dbpedia.org/resource/Apor", "http://dbpedia.org/resource/Kisa_(chieftain)", "http://dbpedia.org/resource/Časlav_of_Serbia" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Western_Europe", "http://dbpedia.org/resource/Balkans", "http://dbpedia.org/resource/Iberian_Peninsula", "http://dbpedia.org/resource/Eastern_Europe" ],
+    "dbo:result" : [ "More than a century of raids and decisive wars" ],
+    "dbo:strength" : [ "~25,000 warriors maximum (but variable)", "~40,000 (variable)" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Western_Europe", "http://dbpedia.org/resource/Balkans", "http://dbpedia.org/resource/Iberian_Peninsula", "http://dbpedia.org/resource/Eastern_Europe" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kalandozasok.jpg?width=300" ],
+    "dbp:caption" : [ "Hungarian raids in the 10th century" ],
+    "dbp:casualties" : [ "Mostly heavy.", "Some villages and cities burned." ],
+    "dbp:date" : [ "~800/839–973" ],
+    "dbp:hbmresult" : [ "Hungarian victories and defeats" ]
+  },
+  "text" : "The Hungarian invasions of Europe took place in the 9th and 10th centuries, the period of transition in the history of Europe between the early and high medieval period, when the territory of the former Carolingian Empirewas threatened by invasion from multiple hostile forces, the Magyars (Hungarians) from the east, the Norsemen from the north and the Arabs from the south. The Magyars successfully conquered the Pannonian Basin (i.e. what is now Hungary) by the end of the 9th century, and launched a number of plundering raids both westward into what used to be the Frankish Empire and southward into the Byzantine Empire. The westward raids were stopped only with the Magyar defeat of the Battle of Lechfeld of 955, which led to a new political order in Western Europe centered on the Holy Roman Empire. The raids in to Byzantine territories continued throughout the 10th century, until the eventual Christianisation of the Magyars and the establishment of the Christian Kingdom of Hungary in 1000 or 1001."
+}, {
+  "entityIndex" : "entity25863",
+  "entityUrl" : "http://dbpedia.org/resource/Hawkesbury_and_Nepean_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "* Burraberongal Tribe", "* Dharug Nation", "* Eora Nation", "* Gandangara Nation", "* Tharawal Nation", "*New South Wales Corps(1795–1800)", "*New South Wales Corps(1801–10)", "Indigenous Clans:", "Irish-convict sympathisers", "Kingdom of Great Britain (1795–1800)", "United Kingdom of Great Britain and Ireland (1801–16)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/George_III_of_the_United_Kingdom", "http://dbpedia.org/resource/William_Bligh", "http://dbpedia.org/resource/Lachlan_Macquarie", "http://dbpedia.org/resource/John_Hunter_(Royal_Navy_officer)", "http://dbpedia.org/resource/Pemulwuy", "http://dbpedia.org/resource/Philip_Gidley_King" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/New_South_Wales", "http://dbpedia.org/resource/Greater_Western_Sydney", "http://dbpedia.org/resource/Australia" ],
+    "dbo:result" : [ "* Dharug", "* Eora", "* Gandangara", "* Tharawal", "Dispossession of land of the:", "United Kingdom of Great Britain and Ireland victory" ],
+    "dbo:strength" : [ "46th Regiment of Foot (1814–16): 600+", "73rd Regiment of Foot (1810–14): 450", "About 10+ armed Irish convicts", "Armed settlers: 2,000+", "Burreberongal Tribe (1795–1802) 100+", "Combined total force: 3,600", "Indigenous clan numbers: approx. 3,000", "New South Wales Corps(1795–1810): 550" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/William_Charles_Piguenit00.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:battles" : [ "http://dbpedia.org/resource/Battle_of_Bond's_Farm", "Nepean War", "Pemulwuy's War", "Tedbury's War", "Battle of Appin, Battle of the Nepean, Nepean Campaign", "Battle of Richmond Hill, Battle of Toongabbie, Battle of Parramatta, Sacking of Lane Cove" ],
+    "dbp:caption" : [ "The Hawkesbury and Nepean Rivers" ],
+    "dbp:date" : [ "http://dbpedia.org/resource/Tedbury's_War", "http://dbpedia.org/resource/Pemulwuy's_War", "Hawkesbury and Nepean Wars 1795–1816", "Nepean War" ],
+    "dbp:name" : [ "Hawkesbury and Nepean Wars" ],
+    "dbp:quote" : [ "\"From the aversion uniformly shown by all the natives to this unhappy man, he had long been suspected by us of having in his excursions, shot and injured them. To gain information on this head from him, the moment of contrition was seized. On being questioned with great seriousness, he, however, declared that he had never fired but once on a native, and then had not killed, but severely wounded him and this in his own defence. Notwithstanding this death-bed confession, most people doubted the truth of the relation, from his general character and other circumstances.\"", "\"The Natives of the Hawkesbury... lived on the wild yams on the banks. Cultivation has rooted out these, and poverty compelled them to steal Indian corn... They [soldiers and settlers] came upon them [natives] unarmed, and unexpected, killed and wounded many more. The dead they hang on gibbets, in terrorem. The war may be universal on the part of the blacks, whose improvement and civilisation will be a long time deferred. The people killed were unfortunately the most friendly of the blacks, and one of them more than once saved the life of a white man.\"" ],
+    "dbp:source" : [ "–Rev Thomas Fyshe Palmer", "–Watkin Tench" ],
+    "dbp:title" : [ "Hawkesbury and Nepean Wars" ],
+    "dbp:width" : [ "22" ]
+  },
+  "text" : "The Hawkesbury and Nepean Wars (1795–1816) were a series of wars between the Kingdom of Great Britain and the Indigenous clans of the Hawkesbury and Nepean rivers in New South Wales, Australia. The conflict consisted of three wars: Pemulwuy's War (1795–1802), Tedbury's War (1808–09) and the Nepean War (1814–16) as well as the interwar violence of the 1804–05 conflict. The war was extremely complex, as many of the Aboriginal nations occasionally allied themselves to the British in order to conquer more land for their tribes, and just as quickly returned to a state of war against the British. It was fought using mostly guerrilla-warfare tactics; however, several conventional battles also took place. The wars resulted in the defeat of the Hawkesbury and Nepean Indigenous clans who were subsequently dispossessed of their lands."
+}, {
+  "entityIndex" : "entity25864",
+  "entityUrl" : "http://dbpedia.org/resource/Heglig_Crisis",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "106 wounded", "1,200 killed (Sudanese claim)", "31 killed (South Sudanese claim)", "Several captured" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Omar_al-Bashir", "http://dbpedia.org/resource/Ahmed_Haroun", "http://dbpedia.org/resource/President_of_Sudan", "http://dbpedia.org/resource/Salva_Kiir", "http://dbpedia.org/resource/James_Gatduel_Gatluak", "http://dbpedia.org/resource/President_of_South_Sudan" ],
+    "dbo:date" : [ "2012-09-26" ],
+    "dbo:notes" : [ "The casualty numbers are based on the warring parties claims and have not been independently verified" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Heglig" ],
+    "dbo:result" : [ "*South Sudanese withdrawal fromHeglig", "Sudanese military victory", "*Agreement on borders and natural resources signed on September 26" ],
+    "dbo:strength" : [ "unknown", "110 tanks", "SAF:", "10 helicopters", "109,300 soldiers", "115 light tanks", "140,000 soldiers", "17,500 paramilitaries", "2,000 (at Heglig)", "29 helicopters", "390 tanks", "490 armoured personnel carriers", "63 combat airplanes", "69 artillery pieces", "778 artillery pieces", "Overall:", "SPLA:" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/South_Sudan_Sudan_Locator-cropped.png?width=300" ],
+    "dbp:casualties" : [ "1", "29", "50", "100", "256" ]
+  },
+  "text" : "The Heglig Crisis was a brief war fought between the countries of Sudan and South Sudan in 2012 over oil-rich regions between South Sudan's Unity and Sudan's South Kordofan states. South Sudan invaded and briefly occupied the small border town of Heglig before being pushed back by the Sudanese army. Small-scale clashes continued until an agreement on borders and natural resources was signed on September 26, resolving most aspects of the conflict."
+}, {
+  "entityIndex" : "entity25865",
+  "entityUrl" : "http://dbpedia.org/resource/Harris_Farm_Engagement",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "694", "204 killed", "42 captured/missing", "448 wounded" ],
+    "dbo:combatant" : [ "CSA (Confederacy)", "United States(Union)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Richard_S._Ewell", "http://dbpedia.org/resource/Winfield_S._Hancock" ],
+    "dbo:date" : [ "1864-05-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Spotsylvania_County,_Virginia" ],
+    "dbo:result" : [ "Unionvictory" ],
+    "dbo:strength" : [ "2,718", "6,642" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/EwellsDeadSpotsylvania1864crop01.jpg?width=300" ],
+    "dbp:caption" : [ "--05-19" ],
+    "dbp:casualties" : [ "44", "136", "724", "904" ],
+    "dbp:units" : [ "http://dbpedia.org/resource/II_Corps_(Union_Army)", "http://dbpedia.org/resource/Second_Corps,_Army_of_Northern_Virginia" ]
+  },
+  "text" : "The Harris Farm Engagement was a military engagement between the Union Army and the Confederate States Army. The Harris Farm Engagement was a part of the Battle of Spotsylvania Courthouse. The battle was led by Union Major General Winfield S. Hancock and Confederate general Richard S. Ewell. The battle was caused when the Union commander, Lt. Gen. Ulysses S. Grant ordered Hancock's Union II Corps to trap Confederate soldiers between Richmond and Fredericksburg. Before General Hancock could trap the Confederate soldiers, Confederate General Robert E. Lee ordered Lieutenant General Richard S. Ewell, in command of the Confederate II Corps to ambush General Hancock's troops at the Harris Farm (also known as Bloomsbury Farm)."
+}, {
+  "entityIndex" : "entity25866",
+  "entityUrl" : "http://dbpedia.org/resource/Hessian_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "20pxHesse-Cassel", "20pxHesse-Darmstadt" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Louis_V,_Landgrave_of_Hesse-Darmstadt", "http://dbpedia.org/resource/Maurice,_Landgrave_of_Hesse-Kassel", "http://dbpedia.org/resource/William_IV,_Landgrave_of_Hesse-Kassel", "http://dbpedia.org/resource/George_I,_Landgrave_of_Hesse-Darmstadt", "http://dbpedia.org/resource/George_II,_Landgrave_of_Hesse-Darmstadt", "http://dbpedia.org/resource/Countess_Amalie_Elisabeth_of_Hanau-Münzenberg", "http://dbpedia.org/resource/William_V,_Landgrave_of_Hesse-Kassel" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Thirty_Years'_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Upper_Hesse" ],
+    "dbo:result" : [ "Victory to Hesse-Cassel" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hessen-Kassel-1736.PNG?width=300" ],
+    "dbp:date" : [ "1567" ],
+    "dbp:endDate" : [ "1648" ]
+  },
+  "text" : "The Hessian War (German: Hessenkrieg), in its wider sense sometimes also called the Hessian Wars (Hessenkriege), was a drawn out conflict that took place over many years, sometimes pursued through diplomatic means, sometimes by military force, between branches of the princely House of Hesse, particularly between the Landgraviate of Hesse-Cassel and the Landgraviate of Hesse-Darmstadt. It was triggered by a division of inheritance following the death of the last landgrave of all Hesse, Philip I in 1567. The real conflict, which lasted almost 80 years and spanned three generations, escalated in the 1620s, when the line of Hesse-Marburg died out, and peaked after 1645 in the Hessian War proper. This open warfare began with the Siege of Marburg in 1645 and ended in April 1648 (but before the Treaty of Westphalia which was concluded later that year and ended the Thirty Years' War) with victory going to Hesse-Cassel. In the aftermath, Upper Hesse was divided and parts of its territory went to the now stronger Hesse-Cassel. At a European level the Hessian War must be viewed in the larger context of the Thirty Years' War, in which the reformed Hesse-Cassel sided with the Protestant Swedish party, whilst Hesse-Darmstadt, despite its Lutheran confession joined the Catholic-Imperial alliance. In the course of the war, Hessian mercenaries fought both in the main Hessian lands as well as in Westphalia (Prince-Bishopric of Münster and Paderborn), in Upper Guelders, on the Lower Rhine (Electorate of Cologne), in the Duchy of Brunswick and other places. This conflict should not be confused with the campaign by Landgrave Philip I of Hesse, supported by Prince-Elector John of Saxony against the two Frankish prince-bishoprics of Würzburg and Bamberg in 1528, which is also referred to as the \"Hessian War\"."
+}, {
+  "entityIndex" : "entity25867",
+  "entityUrl" : "http://dbpedia.org/resource/Han_campaigns_against_Minyue",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Han Dynasty", "Minyue" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Southward_expansion_of_the_Han_Dynasty" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Fujian" ],
+    "dbo:result" : [ "* Dongyue annexed and placed under Han control", "* Minyue surrender and withdrawal from Eastern Ou", "111 BC", "135 BC", "138 BC", "* Minyue defeated and divided into Minyue and Dongyue" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Han_map.jpg?width=300" ],
+    "dbp:commander" : [ "111", "135", "138", "Wang Hui", "Yang Pu", "Han Anguo", "Han Yue", "Two marquises of Yue", "Wang Wenshu", "Zhuang Zhu", "Zou Ying", "Zou Yushan" ],
+    "dbp:date" : [ "138" ]
+  },
+  "text" : "The Han campaigns against Minyue were three Han Dynasty military campaigns dispatched against the Minyue state. The first campaign was in response to Minyue's invasion of Eastern Ou in 138 BC. In 135 BC, a second campaign was sent to intervene in a war between Minyue and Nanyue. After the campaign, Minyue was split into Minyue, ruled by a Han proxy king, and Dongyue. Dongyue was defeated in a third military campaign in 111 BC and the former Minyue territory was annexed by the Han Dynasty."
+}, {
+  "entityIndex" : "entity25868",
+  "entityUrl" : "http://dbpedia.org/resource/Han_campaigns_against_Dian",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Han dynasty", "Dian" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Southward_expansion_of_the_Han_dynasty" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Yunnan" ],
+    "dbo:result" : [ "*Cultural assimilation of Yunnan", "109 BC", "135 BC", "*Dian annexed by the Han and Yizhou commandery established", "*Jianwei commandery and trade routes established by Han" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/漢武帝.jpg?width=300" ],
+    "dbp:date" : [ "135" ]
+  },
+  "text" : "The Han campaigns against Dian were a series of Han dynasty military campaigns and expeditions recorded in Han Chinese textual sources that were supposed to have occurred against the kingdom of Dian in Yunnan. Dian was placed under Han rule in 109 BC, after Emperor Wudi dispatched an army against the kingdom as the empire expanded southward."
+}, {
+  "entityIndex" : "entity25869",
+  "entityUrl" : "http://dbpedia.org/resource/Hama_Rashid_revolt",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Iran", "*Pahlavis", "Kurdishtribesmen" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Mohammad_Reza_Pahlavi" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Kurdish_separatism_in_Iran" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Iran" ],
+    "dbo:result" : [ "* Hama Rashid driven into Iraq", "Iranian victory:" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Persia_(1910).svg?width=300" ],
+    "dbp:commander" : [ "Hama  Rashid" ],
+    "dbp:date" : [ "October 2013", "Autumn 1941-1944" ],
+    "dbp:reason" : [ "This article suffers from underlinking.WP:UNDERLINK" ]
+  },
+  "text" : "The Hama Rashid revolt (Persian: شورش حما رشید) was a tribal uprising in Pahlavi Iran, during the Second World War, following the Anglo-Soviet invasion of Iran. The tribal revolt erupted in the general atmosphere of anarchy throughout Iran and its main faction was led by Muhammed Rashid, lasting from late 1941 until April 1942 and then re-erupted in 1944, resulting in Rashid's defeat."
+}, {
+  "entityIndex" : "entity25870",
+  "entityUrl" : "http://dbpedia.org/resource/Hitachi_Maru_Incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2 ships sunk", "112 wounded", "1 grounded", "1,334 killed" ],
+    "dbo:combatant" : [ "Russia", "Japan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Petr_Bezobrazov" ],
+    "dbo:date" : [ "1904-06-15" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Russo-Japanese_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Tsushima_Straits" ],
+    "dbo:result" : [ "Russian victory" ],
+    "dbo:strength" : [ "3 armored cruisers", "3 unarmed transports" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/HitachiMaru1898.JPG?width=300" ],
+    "dbp:caption" : [ "Hitachi Maru in 1898" ],
+    "dbp:casualties" : [ "none" ]
+  },
+  "text" : "The Hitachi Maru Incident (常陸丸事件 Hitachi-maru jiken) was a maritime incident which occurred during the Russo-Japanese War of 1904-1905, in which three Japanese transports were sunk in a Russian commerce raiding sortie by a Vladivostok-based armored cruiser squadron of the Imperial Russian Navy."
+}, {
+  "entityIndex" : "entity25871",
+  "entityUrl" : "http://dbpedia.org/resource/Hayato_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Hayato people", "Japanese state" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ōtomo_no_Tabito" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ōsumi_Province", "http://dbpedia.org/resource/Japan" ],
+    "dbo:result" : [ "Victory by the Japanese state" ],
+    "dbo:strength" : [ "Several thousand", "Over 10,000" ],
+    "dbp:casualties" : [ "1400" ],
+    "dbp:casus" : [ "Rebellion by Hayato people against the Japanese state." ],
+    "dbp:date" : [ "720" ]
+  },
+  "text" : "The Hayato rebellion (隼人の反乱 Hayato no hanran) (720–721) was a rebellion of the Hayato people of southern Kyushu against the state of Japan. After a year and a half of fighting, the Hayato were defeated, and the Japanese court established its rule over southern Kyushu."
+}, {
+  "entityIndex" : "entity25872",
+  "entityUrl" : "http://dbpedia.org/resource/Haiyang_Shiyou_981_standoff",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*China Coast Guard", "*China Fisheries Law Enforcement Command", "*China Maritime Safety Administration", "*Chinese Navy", "*Civilian and fishing boats", "*China National Offshore Oil Corporation", "*Vietnam Coast Guard", "*Vietnam Fisheries Resources Surveillance" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Territorial_disputes_in_the_South_China_Sea" ],
+    "dbo:result" : [ "China temporarily withdrew the oil rig" ],
+    "dbo:strength" : [ "1 drilling platform, 6 warships, 40 coast guard vessels, over 30 transport ships and tugboats, 34-40 ironclad fishing boats,Su-27andShaanxi Y-8patrol planes", "60 vessels: coast guard, fisheries surveillance and wooden fishing boats" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/South_China_Sea_claims_map.jpg?width=300" ],
+    "dbp:casualties" : [ "1" ],
+    "dbp:methods" : [ "Ramming and water cannon fights" ],
+    "dbp:place" : [ "Waters near Paracel Islands" ]
+  },
+  "text" : "Haiyang Shiyou 981 standoff refers to the tensions between China and Vietnam arising from the Chinese state-owned China National Offshore Oil Corporation moving its Haiyang Shiyou 981 (known in Vietnam as \"Hải Dương - 981\") oil platform to waters near the disputed Paracel Islands in South China Sea, and the resulting Vietnamese efforts to prevent the platform from establishing a fixed position. According to an announcement by the Hainan Maritime Safety Administration of China, the drilling work of Haiyang Shiyou 981 would last from May 2 to August 15, 2014. On July 15, China announced that the platform had completed its work and withdrew it fully one month earlier than originally announced. The standoff is regarded by analysts as the most serious development in the territorial disputes between the two countries ever since the Johnson South Reef Skirmish in 1988 in which more than 70 Vietnamese soldiers were killed."
+}, {
+  "entityIndex" : "entity25873",
+  "entityUrl" : "http://dbpedia.org/resource/Hanikra_border_clash",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 soldier killed, 1 jeep damaged." ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Israeli–Lebanese_conflict", "http://dbpedia.org/resource/Israel-Lebanon_relations" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Rosh_HaNikra_(kibbutz)", "http://dbpedia.org/resource/Israel" ],
+    "dbo:result" : [ "Fighting subsided; rogue Lebanese marksmen detained" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/BlueLine.jpg?width=300" ],
+    "dbp:caption" : [ "Blue Line between Israel and Lebanon" ],
+    "dbp:casualties" : [ "1" ],
+    "dbp:date" : [ "--12-15" ],
+    "dbp:units" : [ "23", "http://dbpedia.org/resource/Lebanese_Armed_Forces" ]
+  },
+  "text" : "The Hanikra border clash was the shooting death of an Israeli soldier and subsequent counter-attack that ensued, wounding a Lebanese soldier. The incident took place in the Rosh HaNikra (HaKira) locality kibbutz on the Lebanese-Israeli border. According to Lebanese authorities the soldier who shot and killed the IDF serviceman acted independently without orders to shoot. The shootout marked the first time an Israeli soldier died confronting Lebanese soldiers since the 2010 Israel–Lebanon border clash."
+}, {
+  "entityIndex" : "entity25874",
+  "entityUrl" : "http://dbpedia.org/resource/Herat_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Moderate" ],
+    "dbo:combatant" : [ "Safavid Loyalists", "Abdali Afghans" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Nader_Shah" ],
+    "dbo:date" : [ "1729-07-01" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Nader's_Campaigns" ],
+    "dbo:result" : [ "Operational & strategic Safavid victory" ],
+    "dbo:strength" : [ "~20,000", "27,000", "*12,000 under Zulfaqar", "*15,000 under Allahyar", "Unknown, comparable to the Abdali:" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Herat_Campaign_001.jpg?width=300" ],
+    "dbp:caption" : [ "A military diagram demonstrating the key manoeuvres in the campaign" ],
+    "dbp:casualties" : [ "Heavy" ],
+    "dbp:commander" : [ "Allahyar Khan", "Zulfaqar Khan" ],
+    "dbp:place" : [ "Khorasan, Afghanistan" ],
+    "dbp:territory" : [ "Herat becomes a vassal of the Safavids again" ]
+  },
+  "text" : "The Campaign of Herat consisted of a series of intermittent and fluid engagements culminating in the finale of Nader's military operations against the Abdali Afghans. Nader having recently concluded a successful campaign against his own monarch and prince, the badly humiliated Tahmasp II, set out from Mashad on May 4, 1729 making sure the Shah also accompanied him on this journey where he could be kept under close supervision. The conflict also bears significance in terms of the effects of Nader's army perfecting its tactical system through experience gained from going up against deadly light cavalry armies, something that would prove of incalculable importance in the battle of Mihmandoost (where the Afghans were given a rude introduction to modern warfare by Nader's well-drilled army)."
+}, {
+  "entityIndex" : "entity25875",
+  "entityUrl" : "http://dbpedia.org/resource/Herat_Campaign_of_1731",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Safavid Empire", "*Afghan loyalists", "Abdali Afghan tribes", "Hotakis of Qandahar" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Nader_Shah", "http://dbpedia.org/resource/Zulfaqar_Khan" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Nader's_Campaigns" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Khorasan_Province" ],
+    "dbo:result" : [ "Decisive Persian victory" ],
+    "dbo:strength" : [ "Unknown" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Herat_(1729).gif?width=300" ],
+    "dbp:caption" : [ "An illustration of the battle of Herat. The city's walls are clearly seen in the background. In this illustration, Nader's soldiers bring him prisoners and severed heads while Nader's soldiers finish off the Afghans and force them to flee." ],
+    "dbp:date" : [ "August 1730 – February 1732" ],
+    "dbp:territory" : [ "Herat brought under Persian suzerainty once again" ]
+  },
+  "text" : "The re-subjugation of Herat in the early 1730s took place during the height of the Ottoman–Persian War (1730–35) when Nader Shah who had already successfully driven the Ottomans from western Iran and southern Azerbaijan had to cut his campaign short to deal with the revolt of the Abdalis of Herat who were provoked into bearing arms against their Persian overlords by Hussein Hotaki of Qandahar. The conflict resulted in the re-establishment of Persian rule over Herat."
+}, {
+  "entityIndex" : "entity25876",
+  "entityUrl" : "http://dbpedia.org/resource/Hohenzollern_Redoubt_(1916)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,978" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Douglas_Haig,_1st_Earl_Haig", "http://dbpedia.org/resource/Erich_von_Falkenhayn" ],
+    "dbo:date" : [ "1916-03-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Western_Front_(World_War_I)", "http://dbpedia.org/resource/World_War_I" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Loos-en-Gohelle", "http://dbpedia.org/resource/Nord-Pas-de-Calais", "http://dbpedia.org/resource/France" ],
+    "dbo:result" : [ "British victory" ],
+    "dbo:strength" : [ "2 regiments", "2 brigades" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Map_commune_FR_insee_code_62528.png?width=300" ],
+    "dbp:caption" : [ "Map of Loos-en-Gohelle and vicinity" ],
+    "dbp:casualties" : [ "97" ],
+    "dbp:latitude" : [ "50.4583" ],
+    "dbp:longitude" : [ "2.7942" ],
+    "dbp:mapLabel" : [ "Hohenzollern Redoubt" ],
+    "dbp:mapSize" : [ "200" ],
+    "dbp:mapType" : [ "France" ]
+  },
+  "text" : "The Hohenzollern Redoubt was a German defensive position on the Western Front during the First World War. The redoubt was north of Loos-en-Gohelle (Loos), a mining town north-west of Lens in France. The redoubt was fought over by the British and German armies from the Battle of Loos (25 September – 8 October 1915) to the beginning of the Battle of the Somme on 1 July 1916. Over the winter of 1915–1916, the 170th Tunnelling Company RE dug several galleries under the German lines, in the Hohenzollern Redoubt area, which had changed hands several times since September 1915. In March 1916, the west side was held by the British and the east side was occupied by the Germans, with the front near a new German trench known as The Chord. The Germans had an unobstructed view of the British positions, from a slag heap called Fosse 8 and in previous mining operations, no man's land had become a crater field. The British front line was held by outposts to reduce the number of troops vulnerable to mine explosions and the strain of knowing that the ground could erupt at any moment. The 12th (Eastern) Division was selected to conduct an attack to capture the crater field, gain observation from crater lips over the German defences back to Fosse 8 and end the threat of German mine attacks. Four mines, the largest yet sprung by the British, were detonated on 2 March and followed up by two battalions of infantry, which captured the new craters, several German occupied craters, Triangle Crater which had not been seen until it was overrun and a large length of The Chord, most of the rest being obliterated by the mine explosions. The main entrance of the German mine galleries was discovered in Triangle Crater and the 170th Tunnelling Company RE crossed no man's land to demolish the entrance. German counter-attacks concentrated on the recovery of Triangle Crater, which was re-captured on 4 March. The recovery by the Germans of the gallery entrance threatened the positions captured by the British, who attacked Triangle Crater on 6 March, were defeated and forced back to their start line. The British tunnellers got into the German gallery system from a British tunnel and were able to demolish the system on 12 March, which relieved the threat of another German mine attack. Skirmishing around the craters diminished and it was thought that the Germans were concentrating on consolidating new positions. On 18 March, the Germans surprised the British with five mines which had been quietly dug through the clay layer above the chalk. The German attack had nearly as much success as the British attack on 2 March, forcing back the British to the original front line, before local counter-attacks regained some of the craters. When the fighting died down after 19 March, both sides occupied the near lips of the craters. Brigadier-General Cator, the 37th Brigade commander, recommended that attempts to occupy craters should end and the near lips be held instead, because craters were death traps against howitzer and mortar fire and because observation from the crater lip was obstructed by its convex shape and large lumps of chalk brought to the surface by the explosions."
+}, {
+  "entityIndex" : "entity25877",
+  "entityUrl" : "http://dbpedia.org/resource/Himara_Revolt",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Himariotes" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Athanasius_I_of_Ohrid" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Long_War_(1591–1606)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ottoman_Empire", "http://dbpedia.org/resource/Himara" ],
+    "dbo:strength" : [ "1,300" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Himara.JPG?width=300" ],
+    "dbp:caption" : [ "Map" ],
+    "dbp:date" : [ "July–August 1596" ]
+  },
+  "text" : "The Himara Revolt of 1596 was an uprising organized by archbishop Athanasius I of Ohrid in the region of Himara against the Ottoman Empire. It was part of a range of anti-Ottoman movements in the Western Balkans at the end of the 16th century during the Long Turkish War in the Balkans."
+} ]

@@ -1,0 +1,102 @@
+[ {
+  "entityIndex" : "entity27115",
+  "entityUrl" : "http://dbpedia.org/resource/Quasi-War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "(later recaptured)", "* 1 ship captured", "* 22 privateers captured", "* 28 killed", "* 300+ merchantmen and their cargoes captured", "* 42 wounded", "* 43+ wounded", "* 54+ killed", "* Over 2000merchantships captured in total", "* Unknown", "After U.S. military involvement:", "American:", "Before U.S. military involvement:", "British:" ],
+    "dbo:combatant" : [ "*Guadeloupe" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Edme_Étienne_Borne_Desfourneaux", "http://dbpedia.org/resource/George_Washington", "http://dbpedia.org/resource/John_Adams", "http://dbpedia.org/resource/Alexander_Hamilton", "http://dbpedia.org/resource/Benjamin_Stoddert", "http://dbpedia.org/resource/Paul_Barras", "http://dbpedia.org/resource/André_Rigaud", "http://dbpedia.org/resource/Napoléon_Bonaparte", "http://dbpedia.org/resource/Victor_Hugues" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/French_Revolutionary_Wars" ],
+    "dbo:result" : [ "* Peaceful cessation of Franco-American alliance", "Convention of 1800", "* American neutrality and renunciation of claims against France", "* End of French privateer attacks on American shipping" ],
+    "dbo:strength" : [ "18 Frigates", "2 Brigs", "3 Schooners", "365 privateers", "4 Sloops", "5,700Sailors", "A fleet of 54 including:", "Unknown fleet size", "Unknown number ofSailorsandMarines", "andMarines" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USSConstellationVsInsurgente.jpg?width=300" ],
+    "dbp:caption" : [ "From top to bottom: USS Constellation vs LInsurgente; U.S. Marines from the USS Constitution boarding and capturing French privateer Sandwich" ],
+    "dbp:casualties" : [ "French:" ],
+    "dbp:date" : [ "1798" ],
+    "dbp:place" : [ "Atlantic Ocean, the Caribbean, the Indian Ocean, and the Mediterranean" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Quasi-War (French: Quasi-guerre) was an undeclared war fought almost entirely at sea between the United States of America and the French Republic from 1798 to 1800. After the toppling of the French crown during the French Revolutionary Wars, the United States refused to continue repaying its debt to France on the grounds that it had been owed to a previous regime. French outrage led to a series of attacks on American shipping, ultimately leading to retaliation from the Americans and the end of hostilities with the signing of the Convention of 1800 shortly thereafter."
+}, {
+  "entityIndex" : "entity27116",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Anne's_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "French Indian allies: 50", "French colonies:", "Spain: 50–60", "Spanish Indian allies: many" ],
+    "dbo:combatant" : [ "*", "*British America", "Choctaw", "Iroquois Confederacy", "Spain", "Wabanaki Confederacy", "(after 1707)", "(before 1707)", "*English America", "*New Spain", "Apalachee", "Caughnawaga Mohawk", "Chickasaw", "Muscogee (Creek)", "Natchez", "Timucua", "Yamasee" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hovenden_Walker", "http://dbpedia.org/resource/James_Moore_(South_Carolina_politician)", "http://dbpedia.org/resource/Sebastian_Rale", "http://dbpedia.org/resource/Joseph_Dudley", "http://dbpedia.org/resource/José_de_Zúñiga_y_la_Cerda", "http://dbpedia.org/resource/Francis_Nicholson", "http://dbpedia.org/resource/Benjamin_Church_(ranger)", "http://dbpedia.org/resource/Daniel_d'Auger_de_Subercase", "http://dbpedia.org/resource/Jean-Baptiste_Hertel_de_Rouville", "http://dbpedia.org/resource/Philippe_de_Rigaud_Vaudreuil", "http://dbpedia.org/resource/Teganissorens" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/War_of_the_Spanish_Succession" ],
+    "dbo:notes" : [ "Casualties are not known for Acadian populations, or for the actions in Newfoundland." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_America" ],
+    "dbo:result" : [ "British victory", "Treaty of Portsmouth", "Treaty of Utrecht" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Saint_Kitts", "http://dbpedia.org/resource/Hudson_Bay", "http://dbpedia.org/resource/Acadia", "http://dbpedia.org/resource/Newfoundland_(island)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/QueenAnnesWarBefore.svg?width=300" ],
+    "dbp:caption" : [ "European colonization of North America, 1702" ],
+    "dbp:casualties" : [ "Carolina: 150", "Great Britain: 900", "Indian allies: light", "New England: 200" ],
+    "dbp:date" : [ "1702" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Queen Anne's War (1702–1713), as the North American theater of the War of the Spanish Succession was known in the British colonies, was the second in a series of French and Indian Wars fought between France and England, later Great Britain, in North America for control of the continent. The War of the Spanish Succession was primarily fought in Europe. In addition to the two main combatants, the war also involved numerous Native American tribes allied with each nation, and Spain, which was allied with France. It was also known as the Third Indian War or in French as the Second Intercontinental War. The war was fought on three fronts: 1.  \n*  Spanish Florida and the English Province of Carolina were each subjected to attacks from the other, and the English engaged the French based at Mobile in what was essentially a proxy war involving primarily allied Native Americans on both sides. The southern war, although it did not result in significant territorial changes, had the effect of nearly wiping out the Native population of Spanish Florida, including parts of present-day southern Georgia, and destroying Spain's network of missions in the area. 2.  \n*  The English colonies of New England fought with French and Native American forces based in Acadia and Canada. Quebec City was repeatedly targeted (but never successfully reached) by British expeditions, and the Acadian capital Port Royal was taken in 1710. The French and Wabanaki Confederacy sought to thwart New England expansion into Acadia, whose border New France defined as the Kennebec River in southern Maine. Toward this end, they executed raids against targets in Massachusetts (including present-day Maine), most famously raiding Deerfield in 1704. 3.  \n*  On Newfoundland, English colonists based at St. John's disputed control of the island with the French based at Plaisance. Most of the conflict consisted of economically destructive raids against the other side's settlements. The French successfully captured St. John's in 1709, but the British quickly reoccupied it after the French abandoned it. Following a preliminary peace in 1712, the Treaty of Utrecht ended the war in 1713. It resulted in the French cession of claims to the territories of Hudson Bay, Acadia, and Newfoundland to Britain, while retaining Cape Breton and other islands in the Gulf of St. Lawrence. Some of its terms were ambiguous, and concerns of various Native American tribes were not included in the treaty, setting the stage for future conflicts."
+}, {
+  "entityIndex" : "entity27117",
+  "entityUrl" : "http://dbpedia.org/resource/Qin's_wars_of_unification",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Chu state", "Dai state", "Han state", "Qi state", "Qin state", "Wei state", "Yan state", "Zhao state" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/King_Xi_of_Yan", "http://dbpedia.org/resource/Jian_of_Qi", "http://dbpedia.org/resource/Qin_Shi_Huang" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Warring_States_period" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China" ],
+    "dbo:result" : [ "Qin victory;", "Unification of China under theQin dynasty" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Hou_Xuanxuan_The_situation_map_of_Qin's_war.gif?width=300" ],
+    "dbp:date" : [ "230" ]
+  },
+  "text" : "Qin's wars of unification were a series of military campaigns launched in the late 3rd century BC by the Qin state against the other six major states — Han, Zhao, Yan, Wei, Chu and Qi — within the territories that formed modern China. By the end of the wars in 221 BC, Qin had unified most of the states and occupied some lands south of the Yangtze River. The territories conquered by Qin served as the foundation of the Qin dynasty."
+}, {
+  "entityIndex" : "entity27118",
+  "entityUrl" : "http://dbpedia.org/resource/Qin's_campaign_against_the_Yue_tribes",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Baiyue", "Qin empire" ],
+    "dbo:result" : [ "Qin victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Qin_Empire_in_the_south_of_Yangtze_River_(210_BC).png?width=300" ],
+    "dbp:date" : [ "214" ],
+    "dbp:place" : [ "Southern China and northern Vietnam" ]
+  },
+  "text" : "In 214 BC, the Qin dynasty undertook a military campaign against the Baiyue to conquer the territories of what is now southern China and northern Vietnam. In 214 BC, Qin Shi Huang secured his boundaries to the north with a fraction of his large army (300,000 men), and sent the majority (500,000 men) south to seize still more land. At that time, southern China was known for its fertile land, elephant tusks and jade production. Prior to the events leading to Qin dominance over China, the Baiyue had gained possession of much of Sichuan to the southwest. The Qin army was unfamiliar with the jungle terrain, and was defeated by the southern tribes' guerrilla warfare tactics, with over 100,000 men lost. However, Qin did manage to build a canal to the south, which they used heavily to supply and reinforce their troops during a second attack to the south. Building on these gains, the Qin armies conquered the coastal lands surrounding Guangzhou and took areas of Fuzhou and Guilin. After these victories in the south, the First Emperor moved over 100,000 prisoners and exiles to the newly conquered area to colonize them. By 208 BC, Zhao Tuo had reached Cổ Loa Citadel, capital of the state of Âu Lạc, 16 km (10 mi) northeast of present-day central Hanoi. Then, he defeated An Dương Vương and founded Nanyue kingdom in the same year."
+}, {
+  "entityIndex" : "entity27119",
+  "entityUrl" : "http://dbpedia.org/resource/Qing_conquest_of_the_Ming",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "varies" ],
+    "dbo:combatant" : [ "----", "Qing dynasty", "Supported by:", "Ming dynasty", "Shun dynasty", "Kumul Khanate", "Northern Yuan dynasty(1618–1635)", "Turfan Khanate", "Yarkent Khanate(1646–1650)", "Zhang Xianzhong's rebel army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Dorgon", "http://dbpedia.org/resource/Koxinga", "http://dbpedia.org/resource/Shi_Lang", "http://dbpedia.org/resource/Yuan_Chonghuan", "http://dbpedia.org/resource/Jirgalang", "http://dbpedia.org/resource/Shi_Kefa", "http://dbpedia.org/resource/Wu_Sangui", "http://dbpedia.org/resource/Chongzhen_Emperor", "http://dbpedia.org/resource/Ligdan_Khan", "http://dbpedia.org/resource/Nurhaci", "http://dbpedia.org/resource/Shang_Kexi", "http://dbpedia.org/resource/Shunzhi_Emperor", "http://dbpedia.org/resource/Li_Zicheng", "http://dbpedia.org/resource/Zhu_Yuyue,_Prince_of_Tang", "http://dbpedia.org/resource/Zhang_Xianzhong", "http://dbpedia.org/resource/Zheng_Zhilong", "http://dbpedia.org/resource/Zhu_Youlang,_Prince_of_Gui", "http://dbpedia.org/resource/Zhu_Yousong,_Prince_of_Fu", "http://dbpedia.org/resource/Hong_Taiji", "http://dbpedia.org/resource/Geng_Zhongming", "http://dbpedia.org/resource/Li_Dingguo", "http://dbpedia.org/resource/Dodo_(prince)", "http://dbpedia.org/resource/Zu_Dashou", "http://dbpedia.org/resource/Ou_Guangchen", "http://dbpedia.org/resource/Zhu_Yujian,_Prince_of_Tang", "http://dbpedia.org/resource/Zhu_Shugui", "http://dbpedia.org/resource/Kong_Youde", "http://dbpedia.org/resource/Zhu_Yihai,_Prince_of_Lu", "http://dbpedia.org/resource/Li_Yongfang", "http://dbpedia.org/resource/Ding_Guodong", "http://dbpedia.org/resource/Ma_Shouying", "http://dbpedia.org/resource/Meng_Qiaofang", "http://dbpedia.org/resource/Milayin", "http://dbpedia.org/resource/Sa'id_Baba", "http://dbpedia.org/resource/Turumtay", "http://dbpedia.org/resource/Zhu_Shichuan,_Prince_of_Yanchang" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China_proper", "http://dbpedia.org/resource/Manchuria" ],
+    "dbo:result" : [ "Ming dynastyfalls", "Qing dynastyis formed", "Short-livedShun dynastyfalls" ],
+    "dbo:strength" : [ "----", "varies", ": Manchu, Mongol, HanBannermen", "Shun dynasty army varies between 60,000 and 100,000 men", "HanGreen Standard Armydefectors (after 1644)", "Zhang Xianzhong's army - 100,000 men", "by 1648, Han Chinese Bannermen made up 75% of the Eight Banners while Manchus at only 16%." ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Shanhaiguan.gif?width=300" ],
+    "dbp:author" : [ "E.H. Parker" ],
+    "dbp:c" : [ "三等子爵" ],
+    "dbp:caption" : [ "Decisive Battle of Shanhai Pass in 1644." ],
+    "dbp:casualties" : [ "unknown", "varies" ],
+    "dbp:date" : [ "1618" ],
+    "dbp:labels" : [ "no" ],
+    "dbp:p" : [ "sān děng zǐjué" ],
+    "dbp:source" : [ "The Financial Capacity of China; Journal of the North-China Branch of the Royal Asiatic Society" ],
+    "dbp:text" : [ "The conquest of the Empire, after the Manchus had securely seated themselves in Peking, had to be undertaken largely with Chinese troops, simply \" stiffened \" a little with a Manchu regiment here and there." ]
+  },
+  "text" : "The Qing conquest of the Ming, also known as the Ming–Qing transition and as the Manchu conquest of China, was a period of conflict between the Qing dynasty, established by Manchu clan Aisin Gioro in Manchuria (contemporary Northeastern China), and the Ming dynasty of China in the south (various other regional or temporary powers were also associated with events, such as the short-lived Shun dynasty). Leading up to the Qing conquest, in 1618, Aisin Gioro leader Nurhaci commissioned a document entitled the Seven Grievances, which enumerated grievances against the Ming and began to rebel against their domination. Many of the grievances dealt with conflicts against Yehe, which was a major Manchu clan, and Ming favoritism of Yehe. Nurhaci's demand that the Ming pay tribute to him to redress the seven grievances was effectively a declaration of war, as the Ming were not willing to pay money to a former tributary. Shortly afterwards, Nurhaci began to force the Ming out of Liaoning in southern Manchuria. At the same time, the Ming dynasty was fighting for its survival against fiscal turmoil and peasant rebellions. On April 24, 1644, Beijing fell to a rebel army led by Li Zicheng, a former minor Ming official who became the leader of the peasant revolt, who then proclaimed the Shun dynasty. The last Ming emperor, the Chongzhen Emperor, hanged himself on a tree in the imperial garden outside the Forbidden City. When Li Zicheng moved against him, the Ming general Wu Sangui shifted his alliance to the Manchus. Li Zicheng was defeated at the Battle of Shanhai Pass by the joint forces of Wu Sangui and Manchu prince Dorgon. On June 6, the Manchus and Wu entered the capital and proclaimed the young Shunzhi Emperor as Emperor of China. The Kangxi Emperor ascended the throne in 1661, and in 1662 his regents launched the Great Clearance to defeat the resistance of Ming loyalists in South China. He then fought off several rebellions, such as the Revolt of the Three Feudatories led by Wu Sangui in southern China, starting in 1673, and then countered by launching a series of campaigns that expanded his empire. In 1662, Zheng Chenggong founded the Kingdom of Tungning in Taiwan, a pro-Ming dynasty state with a goal of reconquering China. However, the Kingdom of Tungning was defeated in the Battle of Penghu by Han Chinese admiral Shi Lang, who had also served under the Ming. The fall of the Ming dynasty was largely caused by a combination of factors. Kenneth Swope argues that one key factor was deteriorating relations between Ming Royalty and the Ming Empire's military leadership. Other factors include repeated military expeditions to the North, inflationary pressures caused by spending too much from the imperial treasury, natural disasters and epidemics of disease. Contributing further to the chaos was a peasant rebellion in Beijing in 1644 and a series of weak emperors. Ming power would hold out in what is now southern China for years, though eventually would be overtaken by the Manchus."
+}, {
+  "entityIndex" : "entity27120",
+  "entityUrl" : "http://dbpedia.org/resource/Qin's_campaign_against_the_Xiongnu",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Xiongnu", "Qin empire" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Touman", "http://dbpedia.org/resource/Meng_Tian" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ordos_Desert" ],
+    "dbo:result" : [ "Qin victory" ],
+    "dbo:strength" : [ "--", "Reported as 100,000 or 300,000 troops" ],
+    "dbp:date" : [ "215" ]
+  },
+  "text" : "In 215 BC, Qin Shi Huangdi ordered General Meng Tian to set out against the Xiongnu tribes, situated in the Ordos region, and establish a frontier region at the Ordos Loop. Believing that the Xiongnu were a possible threat, the emperor launched a preemptive strike against the Xiongnu with the intention to expand his empire. In 215 BC, General Meng Tian succeeded in defeating the Xiongnu and driving them from the Ordos region, then he seized their homeland. After the catastrophic defeat at the hands of General Meng Tian, the Xiongnu leader Touman was forced to flee far into the Mongolian Plateau. As a result of the northward expansion, the threat that the Qin empire posed to the Xiongnu ultimately led to the reorganization of the many tribes into a confederacy. General Meng Tian was instructed to secure the frontier with a line of fortifications, which would become known as the Great Wall of China. Fusu (Prince of Qin) and General Meng Tian were stationed at a garrison in Suide and soon began with the construction of the walled defenses, which would be connected with the old walls from the Qin, Yan, and Zhao states. The Qin walls ran from Liaodong to Lintao, thus enclosing the conquered Ordos region."
+} ]

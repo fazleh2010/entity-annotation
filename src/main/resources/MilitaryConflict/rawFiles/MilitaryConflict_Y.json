@@ -1,0 +1,368 @@
+[ {
+  "entityIndex" : "entity28554",
+  "entityUrl" : "http://dbpedia.org/resource/Yom_Kippur_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,063 tanks destroyed, damaged or captured", "102–387 aircraft destroyed", "2,521–2,800 dead", "293 captured", "407 armored vehicles destroyed or captured", "7,250–8,800 wounded" ],
+    "dbo:combatant" : [ "*", "*Iraq", "*Libya", "Expeditionary forces:", "Supported by:" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Anwar_Sadat", "http://dbpedia.org/resource/Israel_Tal", "http://dbpedia.org/resource/Shmuel_Gonen", "http://dbpedia.org/resource/Yitzhak_Hofi", "http://dbpedia.org/resource/Ariel_Sharon", "http://dbpedia.org/resource/Albert_Mandler", "http://dbpedia.org/resource/Golda_Meir", "http://dbpedia.org/resource/Hafez_al-Assad", "http://dbpedia.org/resource/Moshe_Dayan", "http://dbpedia.org/resource/Binyamin_Peled", "http://dbpedia.org/resource/Mustafa_Tlass", "http://dbpedia.org/resource/Ahmad_Ismail_Ali", "http://dbpedia.org/resource/Haim_Bar-Lev", "http://dbpedia.org/resource/David_Elazar", "http://dbpedia.org/resource/Ali_Aslan", "http://dbpedia.org/resource/Saad_El_Shazly", "http://dbpedia.org/resource/Abdel_Ghani_el-Gamasy", "http://dbpedia.org/resource/Omar_Abrash", "http://dbpedia.org/resource/Yusuf_Shakkour" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Arab–Israeli_conflict", "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Golan_Heights", "http://dbpedia.org/resource/Suez_Canal" ],
+    "dbo:result" : [ "* 1978 Camp-David Accords", "* Political gains for Egypt and Israel", "Israeli military victory" ],
+    "dbo:strength" : [ "1,120 artillery units", "1,200 tanks", "1,500–4,000 troops", "1,700 tanks (1,020 crossed)", "1,700 tanks,", "1,720 artillery units", "100,000 troops", "104 Navy vessels", "104 navy vessels", "140 helicopters", "150 surface to air missile batteries", "150,000 troops", "2,400 armored carriers", "3,000 armored carriers,", "3,000 troops", "3,430–3,600 tanks", "3,900–4,000 armored carriers", "30 tanks", "375,000–415,000 troops,", "400 combat aircraft", "440 combat aircraft", "452 combat aircraft", "5,500 troops", "500–670 tanks", "52 combat aircraft", "600 artillery units", "650,000–800,000 troops (200,000 crossed)", "700 armored carriers", "800–900 armored carriers", "945 artillery units,", "Cuba:", "Egypt:", "Expeditionary Forces*:", "Morocco:", "150 surface to air missile batteries (62 in the front line)", "Saudi-Arabia", "Syria:", "Total: 914,000–1,067,500 troops" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bridge_Crossing.jpg?width=300" ],
+    "dbp:caption" : [ "--10-07" ],
+    "dbp:casualties" : [ "13", "19", "77", "341", "392", "898", "2250", "8000", "8372", "8783", "18000", "Egypt: 5,000–15,000 dead" ],
+    "dbp:casus" : [ "Israel's retention of territory taken from Egypt and Syria in Six-Day War" ],
+    "dbp:date" : [ "--10-06" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Yom Kippur War, Ramadan War, or October War (Arabic: حرب أكتوبر‎‎ Ḥarb ʾUktōbar, or حرب تشرين Ḥarb Tišrīn; Hebrew: מלחמת יום הכיפורים‎‎ Milẖemet Yom HaKipurim or מלחמת יום כיפור Milẖemet Yom Kipur), also known as the 1973 Arab–Israeli War, was a war fought by the coalition of Arab states led by Egypt and Syria against Israel from October 6 to 25, 1973. The fighting mostly took place in the Sinai and the Golan Heights, territories that had been occupied by Israel since the Six-Day War of 1967. Egyptian President Anwar Sadat wanted also to reopen the Suez Canal. Neither specifically planned to destroy Israel, although the Israeli leaders could not be sure of that. The war began when the Arab coalition launched a joint surprise attack on Israeli positions in the Israeli-occupied territories on Yom Kippur, the holiest day in Judaism, which also occurred that year during the Muslim holy month of Ramadan. Egyptian and Syrian forces crossed ceasefire lines to enter the Sinai Peninsula and the Golan Heights respectively. Both the United States and the Soviet Union initiated massive resupply efforts to their respective allies during the war, and this led to a near-confrontation between the two nuclear superpowers. The war began with a massive and successful Egyptian crossing of the Suez Canal. After crossing the cease-fire lines, Egyptian forces advanced virtually unopposed into the Sinai Peninsula. After three days, Israel had mobilized most of its forces and halted the Egyptian offensive, resulting in a military stalemate. The Syrians coordinated their attack on the Golan Heights to coincide with the Egyptian offensive and initially made threatening gains into Israeli-held territory. Within three days, however, Israeli forces had pushed the Syrians back to the pre-war ceasefire lines. The Israel Defense Forces (IDF) then launched a four-day counter-offensive deep into Syria. Within a week, Israeli artillery began to shell the outskirts of Damascus. As Egyptian President Sadat began to worry about the integrity of his major ally, he believed that capturing two strategic passes located deeper in the Sinai would make his position stronger during post-war negotiations. He therefore ordered the Egyptians to go back on the offensive, but their attack was quickly repulsed. The Israelis then counter-attacked at the seam between the two Egyptian armies, crossed the Suez Canal into Egypt, and began slowly advancing southward and westward towards the city of Suez in over a week of heavy fighting that resulted in heavy casualties on both sides. On October 22 a United Nations–brokered ceasefire quickly unraveled, with each side blaming the other for the breach. By October 24, the Israelis had improved their positions considerably and completed their encirclement of Egypt's Third Army and the city of Suez. This development led to tensions between the United States and the Soviet Union. As a result, a second ceasefire was imposed cooperatively on October 25 to end the war. The war had far-reaching implications. The Arab World, which had experienced humiliation in the lopsided rout of the Egyptian–Syrian–Jordanian alliance in the Six-Day War, felt psychologically vindicated by early successes in the conflict. In Israel, despite impressive operational and tactical achievements on the battlefield, the war led to recognition that there was no guarantee that Israel would always dominate the Arab states militarily. These changes paved the way for the subsequent peace process. The 1978 Camp David Accords that followed led to the return of the Sinai to Egypt and normalized relations—the first peaceful recognition of Israel by an Arab country. Egypt continued its drift away from the Soviet Union and left the Soviet sphere of influence entirely."
+}, {
+  "entityIndex" : "entity28555",
+  "entityUrl" : "http://dbpedia.org/resource/Yuuzhan_Vong",
+  "dboClass" : "MilitaryConflict",
+  "properties" : { },
+  "text" : "The Yuuzhan Vong are a fictional alien species from the Star Wars expanded universe. They rise as a threat to the New Republic in the New Jedi Order series of novels. The Yuuzhan Vong and their Chazrach slaves are one of the few known alien species in the Star Wars universe to have originated outside the Star Wars galaxy. They are a race of religious zealots that genetically engineer and grow all of their technology organically and view mechanical technology as blasphemy. The Yuuzhan Vong endeavor to improve their physical capabilities through organ grafting. Notably, only one Yuuzhan Vong is able to touch the Force or seemingly be felt through it, something the Jedi find very mysterious, since all living things are supposed to have, in some way or another, a unique Force energy signature distinct from other species. Later, it is discovered they were stripped from the Force upon separation from their symbiosis with the sentient planet Yuuzhan'tar. When Star Wars canon was changed, Yuuzhan Vong were rendered non-canon."
+}, {
+  "entityIndex" : "entity28556",
+  "entityUrl" : "http://dbpedia.org/resource/Yellow_Turban_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Han dynasty", "Yellow Turban rebels" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Zhang_Bao_(Yellow_Turban)", "http://dbpedia.org/resource/Lu_Zhi_(Han_Dynasty)", "http://dbpedia.org/resource/Emperor_Ling", "http://dbpedia.org/resource/Cao_Cao", "http://dbpedia.org/resource/Zhang_Liang_(Yellow_Turban)", "http://dbpedia.org/resource/Zhu_Jun_(Han_Dynasty)", "http://dbpedia.org/resource/Huangfu_Song", "http://dbpedia.org/resource/He_Jin", "http://dbpedia.org/resource/Liu_Bei", "http://dbpedia.org/resource/Sun_Jian", "http://dbpedia.org/resource/Zhang_Jue", "http://dbpedia.org/resource/Zhang_Mancheng", "http://dbpedia.org/resource/Bo_Cai" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/End_of_the_Han_dynasty" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China" ],
+    "dbo:result" : [ "Rebellion suppressed, Han victory" ],
+    "dbo:strength" : [ "2,000,000 (360,000 were initially followers of Zhang Jue)", "350,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Three_Brothers_during_the_Yellow_Turban_Rebellion.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:c" : [ "太平道" ],
+    "dbp:caption" : [ "A Qing dynasty illustration of the novel Romance of the Three Kingdoms, showing Liu Bei, Zhang Fei, and Guan Yu fighting Yellow Turban rebels" ],
+    "dbp:casualties" : [ "Death toll said to be from 3–7 million" ],
+    "dbp:date" : [ "184" ],
+    "dbp:direction" : [ "horizontal" ],
+    "dbp:footer" : [ "An Eastern Han glazed ceramic statue of a horse with bridle and halter headgear, from Sichuan, late 2nd century to early 3rd century AD" ],
+    "dbp:footerAlign" : [ "left" ],
+    "dbp:headerAlign" : [ "left/right/center" ],
+    "dbp:image" : [ "Sichuan, han orientali, cavallo con ciuffo e criniera corta, seconda metà II-inizio III sec. 02.JPG", "Sichuan, han orientali, cavallo con ciuffo e criniera corta, seconda metà II-inizio III sec. 03.JPG" ],
+    "dbp:l" : [ "\"Yellow Turban Conflict\"" ],
+    "dbp:p" : [ "Huángjīn zhī luàn", "Tàipíng Dào", "Tàipíng Yàoshù" ],
+    "dbp:s" : [ "苍天已死，黄天当立。岁在甲子，天下大吉。", "太平要术", "黄巾之乱" ],
+    "dbp:t" : [ "蒼天已死，黃天當立。歲在甲子，天下大吉。", "太平要術", "黃巾之亂" ],
+    "dbp:width" : [ "130", "263" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Yellow Turban Rebellion, also translated as the Yellow Scarves Rebellion, was a peasant revolt in China against the Han dynasty. The uprising broke out in the year 184 during the reign of Emperor Ling. It took 21 years until the uprising was suppressed in the year 205. The rebellion, which got its name from the color of the cloths that the rebels wore on their heads, marked an important point in the history of Taoism due to the rebels' association with secret Taoist societies. The revolt was also used as the opening event in Luo Guanzhong's historical novel Romance of the Three Kingdoms."
+}, {
+  "entityIndex" : "entity28557",
+  "entityUrl" : "http://dbpedia.org/resource/Yugoslav_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1991-03-31", "2001-11-12" ],
+    "dbo:notes" : [ "Total deaths: ≈140,000+ Displaced: ≈4,000,000" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Yugoslavia" ],
+    "dbo:result" : [ "Dissolution ofSFR Yugoslaviaand formation of independentsuccessor states" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Collage_Yugoslav_wars.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:caption" : [ "--07-11" ],
+    "dbp:direction" : [ "horizontal" ],
+    "dbp:footer" : [ "Radovan Karadžić , former president of Republika Srpska, and Ratko Mladić , former Chief of Staff of the Army of the Republika Srpska; both charged with war crimes, including genocide, by the International Criminal Tribunal for the Former Yugoslavia in The Hague." ],
+    "dbp:image" : [ "Evstafiev-Radovan Karadzic 3MAR94.jpg", "Evstafiev-ratko-mladic-1993-w.jpg" ],
+    "dbp:width" : [ "150", "157" ]
+  },
+  "text" : "The Yugoslav Wars were ethnic conflicts fought from 1991 to 2001 inside the territory of the former Yugoslavia. These wars accompanied and/or facilitated the breakup of the country, when its constituent republics declared independence, but the issues of ethnic minorities in the new countries (chiefly Serbs in central parts and Albanians in the southeast) were still unresolved at the time the republics were recognized internationally. The wars are generally considered to be a series of separate but related military conflicts which occurred in, and affected, most of the former Yugoslav republics: \n* War in Slovenia (1991) \n* Croatian War of Independence (1991–1995) \n* Bosnian War (1992–1995) \n* Kosovo War (1998–1999), including the NATO bombing of Yugoslavia \n* Insurgency in the Preševo Valley (1999–2001) \n* Insurgency in the Republic of Macedonia (2001) The wars mostly resulted in peace accords, involving full international recognition of new states, but with massive economic damage to the region.Initially the Yugoslav People's Army (JNA) sought to preserve the unity of the whole of Yugoslavia by crushing the secessionist governments; however the JNA increasingly came under the influence of the Serbian government of Slobodan Milošević that evoked Serbian nationalist rhetoric and was willing to support the Yugoslav state insofar as using it to preserve the unity of Serbs in one state; as a result the JNA began to lose Slovenes, Croats, Kosovar Albanians, Bosniaks, and ethnic Macedonians, and effectively became a Serb army. According to the 1994 United Nations report, the Serb side did not aim to restore Yugoslavia, but to create a \"Greater Serbia\" from parts of Croatia and Bosnia. Other irredentist movements have also been brought into connection with the wars, such as \"Greater Albania\" and \"Greater Croatia\". Often described as Europe's deadliest conflict since World War II, the conflicts have become infamous for the war crimes involved, including ethnic cleansing, crimes against humanity and rape. These were the first European conflicts since World War II to be formally judged genocidal in character and many key individual participants were subsequently charged with war crimes. The International Criminal Tribunal for the former Yugoslavia (ICTY) was established by the UN to prosecute these crimes. According to the International Center for Transitional Justice, the Yugoslav Wars resulted in the deaths of 140,000 people. The Humanitarian Law Center estimates that in the conflicts in former Yugoslav republics at least 130,000 people lost their lives."
+}, {
+  "entityIndex" : "entity28558",
+  "entityUrl" : "http://dbpedia.org/resource/Yelnya_Offensive",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "23,000 (XX Army Corps for the period from August 8 to Sept 8)" ],
+    "dbo:combatant" : [ "20pxGermany", "20pxSoviet Union" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Georgy_Zhukov", "http://dbpedia.org/resource/Konstantin_Rakutin", "http://dbpedia.org/resource/Fedor_von_Bock" ],
+    "dbo:date" : [ "1941-09-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Battle_of_Smolensk_(1941)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Soviet_Union", "http://dbpedia.org/resource/Yelnya" ],
+    "dbo:result" : [ "Soviet tactical victory" ],
+    "dbo:strength" : [ "103,200" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Mass_grave_in_Yelnya.jpg?width=300" ],
+    "dbp:caption" : [ "Mass grave of Red Army soldiers buried in Yelnya" ],
+    "dbp:casualties" : [ "10701", "21152", "31853" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Soviet Army's Yelnya Offensive operation (August 30 – September 8, 1941) was part of the Battle of Smolensk during the German Operation Barbarossa on the German-Soviet War. The offensive was against the semi-circular Yelnya salient which the German 4th Army had extended 50 kilometres (31 mi) south-east of Smolensk forming a staging area for an offensive towards Vyazma and eventually Moscow. Under heavy pressure on its flanks, the Wehrmacht evacuated the salient by 8 September 1941, leaving behind a devastated and depopulated region. As the first reverse that the Wehrmacht suffered during Barbarossa, and the first recapture of the Soviet territory by the Red Army, the battle was covered by both Nazi and Soviet propaganda, and served as a morale boost to the Soviet population."
+}, {
+  "entityIndex" : "entity28559",
+  "entityUrl" : "http://dbpedia.org/resource/Yamasee_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Yamasee", "Colonial militia of North Carolina", "Colonial militia of South Carolina", "Catawba(from 1715)", "Catawba(until 1715)", "Cherokee(from 1716)", "Cherokee(until 1716)", "Colonial militia of Virginia", "Ochese Creeks", "Santee", "Waxhaw" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Charles_Craven" ],
+    "dbo:date" : [ "1715-04-14" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/South_Carolina" ],
+    "dbo:result" : [ "Colonial government victory", "* The Catawba become the dominant tribe in the interior", "* Power of the Yamasee was broken", "* South Carolina colonists establish uncontested control of the coast" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/YamaseeWarMap01.png?width=300" ]
+  },
+  "text" : "The Yamasee or Yemassee War (1715–1717) was a conflict between British settlers of colonial South Carolina and various Native American tribes, including the Yamasee, Muscogee, Cherokee, Chickasaw, Catawba, Apalachee, Apalachicola, Yuchi, Savannah River Shawnee, Congaree, Waxhaw, Pee Dee, Cape Fear, Cheraw, and others. Some of the Native American Indian groups played a minor role while others launched attacks throughout South Carolina in an attempt to destroy the colony. Native Americans killed hundreds of colonists and destroyed many settlements. Traders \"in the field\" were killed throughout what is now southeastern United States. Abandoning settled frontiers, people fled to Charles Town, where starvation set in as supplies ran low. The survival of the South Carolina colony was in question during 1715. The tide turned in early 1716 when the Cherokee sided with the colonists against the Creek, their traditional enemy. The last of South Carolina's major Native American foes withdrew from the conflict in 1717, bringing a fragile peace to the colony. The Yamasee War was one of the most disruptive and transformational conflicts of colonial America. It was one of the American Indians' most serious challenges to European dominance. For over a year the colony faced the possibility of annihilation. About 7% of South Carolina's white citizenry was killed, making the war bloodier than King Philip's War, which is often cited as North America's bloodiest war involving Native Americans. The geopolitical situation for British, Spanish, and French colonies, as well as the Indian groups of the southeast, was radically altered. The war marks the end of the early colonial era of the American South. The Yamasee War and its aftermath contributed to the emergence of new Indian confederated nations, such as the Muscogee Creek and Catawba. The origin of the war was complex. Reasons for fighting differed among the many Indian groups who participated. Commitment differed as well. Factors included land encroachment by Europeans, the trading system, trader abuses, the Indian slave trade, the depletion of deer, increasing Indian debts in contrast to increasing wealth among some colonists, the spread of rice plantation agriculture, French power in Louisiana offering an alternative to British trade, long-established Indian links to Spanish Florida, the vying for power among Indian groups, as well as an increasingly large-scale and robust intertribal communication network, and recent experiences in military collaboration among previously distant tribes."
+}, {
+  "entityIndex" : "entity28560",
+  "entityUrl" : "http://dbpedia.org/resource/Yakima_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Nez Perce tribe", "Cayuse tribe", "Snoqualmie tribe", "Umatilla tribe", "Walla Walla tribe", "Yakama tribe" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/George_Wright_(general)", "http://dbpedia.org/resource/Joel_Palmer", "http://dbpedia.org/resource/Kanasket", "http://dbpedia.org/resource/Leschi_(Native_American_leader)", "http://dbpedia.org/resource/Chief_Kamiakin", "http://dbpedia.org/resource/Isaac_Stevens", "http://dbpedia.org/resource/Patkanim" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Washington_Territory" ],
+    "dbo:result" : [ "United States victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/1855_U.S._Army_artillery_uniform.jpg?width=300" ],
+    "dbp:caption" : [ "In a generic scene depicting a U.S. Army battery of light artillery in 1855, a first sergeant of the light artillery is shown in the left foreground in the new jacket issued for American mounted troops in 1854." ],
+    "dbp:date" : [ "1855" ],
+    "dbp:units" : [ "3", "4", "6", "9", "Cayuse warriors", "Nisqually warriors", "Oregon militia", "Snoqualmie warriorsWashington militia", "Umatilla warriors", "Walla Walla warriors", "Yakama warriors" ]
+  },
+  "text" : "The Yakima War (1855-1858) was a conflict between the United States and the Yakama, a Sahaptian-speaking people of the Northwest Plateau, then part of Washington Territory, and the tribal allies of each. It primarily took place in the southern interior of present-day Washington, with isolated battles in western Washington and the northern Inland Empire sometimes separately referred to as the Puget Sound War and the Palouse War, respectively. This conflict is also referred to as the Yakima Native American War of 1855."
+}, {
+  "entityIndex" : "entity28561",
+  "entityUrl" : "http://dbpedia.org/resource/Young_Turk_Revolution",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Ottoman government", "Young Turks" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Sultan" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Dissolution_of_the_Ottoman_Empire" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ottoman_Empire" ],
+    "dbo:result" : [ "** Reinstatement of the1876 constitution", "** Reinstatement of theparliament", "*Second Constitutional Erabegins", "*Young Turksvictory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Young_Turk_Revolution_-_Decleration_-_Armenian_Greek_Muslim_Leaders.png?width=300" ],
+    "dbp:align" : [ "center" ],
+    "dbp:caption" : [ "Hristo Chernopeev's band, which will be part of march in deposing the countercoup", "Report about anarchic situation caused by Arnaut movement and terror in the Bitola Vilayet.", "Greek lithograph celebrating the new constitution and the promised equality and brotherhood among the Ottoman subjects", "Demonstration in the Sultanahmet", "Flyer for the new constitution", "Declaration of the Young Turk Revolution by the leaders of the Ottoman millets" ],
+    "dbp:date" : [ "1908" ],
+    "dbp:header" : [ "Revolution" ],
+    "dbp:height" : [ "471", "480", "540" ],
+    "dbp:image" : [ "1908", "Greek demonastration Bitola 1908.JPG", "Ottoman-Empire-Public-Demo.png", "Izvestaj za anarhijata predizvikana od Arnautite.JPG", "Young Turk Revolution - Flayer for the constitution.png", "Greek lithograph celebrating the Ottoman Constitution.png" ],
+    "dbp:totalWidth" : [ "500" ],
+    "dbp:width" : [ "640", "800", "820" ]
+  },
+  "text" : "The Young Turk Revolution (July 1908) of the Ottoman Empire was the restoration of the Ottoman constitution of 1876 and the ushering in of multi-party politics in a two stage electoral system (electoral law) under the Ottoman parliament by the Young Turks movement. More than 3 decades earlier in 1876, constitutional monarchy had been established under Sultan Abdul Hamid II during a period of time known as the First Constitutional Era, which only lasted for two years before Abdul Hamid suspended it and restored autocratic powers to himself. On 24 July 1908, Abdul Hamid capitulated and announced the restoration of Constitution, which established the Second Constitutional Era. Once underground, organizations (named committee, group, etc.) established (declared) their parties. Among them \"Committee of Union and Progress\" (CUP), and \"Freedom and Accord Party\" also known as the Liberal Union or Liberal Entente (LU) were major parties. There were smaller parties such as Ottoman Socialist Party. On the other end of the spectrum were the ethnic parties which included; People's Federative Party (Bulgarian Section), Bulgarian Constitutional Clubs, Jewish Social Democratic Labour Party in Palestine (Poale Zion), Al-Fatat, and Armenians organized under Armenakan, Hunchakian and Armenian Revolutionary Federation (ARF). ARF, previously outlawed, became the main representative of the Armenian community in the Ottoman Empire, replacing the pre-1908 Armenian elite, which had been composed of merchants, artisans, and clerics who had seen their future in obtaining more privileges within the boundaries of the state's version of Ottomanism."
+}, {
+  "entityIndex" : "entity28562",
+  "entityUrl" : "http://dbpedia.org/resource/Yorktown_campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*Hesse-Kassel", "*15pxAnsbach-Bayreuth" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/George_Washington", "http://dbpedia.org/resource/Thomas_Graves,_1st_Baron_Graves", "http://dbpedia.org/resource/Charles_René_Dominique_Sochet,_Chevalier_Destouches", "http://dbpedia.org/resource/Thomas_Symonds", "http://dbpedia.org/resource/Jean-Baptiste_Donatien_de_Vimeur,_comte_de_Rochambeau", "http://dbpedia.org/resource/William_Phillips_(British_Army_officer)", "http://dbpedia.org/resource/Anthony_Wayne", "http://dbpedia.org/resource/Charles_Cornwallis,_1st_Marquess_Cornwallis", "http://dbpedia.org/resource/Gilbert_du_Motier,_marquis_de_Lafayette", "http://dbpedia.org/resource/Marriot_Arbuthnot", "http://dbpedia.org/resource/François_Joseph_Paul_de_Grasse", "http://dbpedia.org/resource/Benedict_Arnold", "http://dbpedia.org/resource/Henry_Clinton_(American_War_of_Independence)", "http://dbpedia.org/resource/Jacques-Melchior,_Comte_de_Barras_Saint-Laurent", "http://dbpedia.org/resource/Claude-Anne-Montbleru,_Marquis_de_St._Simon" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Revolutionary_War" ],
+    "dbo:notes" : [ "Force strengths are maximums marshalled during and shortly after the siege of Yorktown." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Virginia" ],
+    "dbo:result" : [ "Decisive Franco-American victory" ],
+    "dbo:strength" : [ "American land forces: 5,500, sixty cannon", "Clinton land forces: 7,000", "Cornwallis land forces: 7,000", "French land forces: 9,500, ninety cannon", "French naval personnel: 20–22,000", "French navy: 36 ships of the line", "New York fleet: 25 ships of the line", "Yorktown fleet: 63 small ships" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Surrender_of_Lord_Cornwallis.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:caption" : [ "Oil on canvas, 1820.", "Surrender of Lord Cornwallis", "by John Trumbull, depicting the British surrendering to French  and American  troops." ],
+    "dbp:date" : [ "June – October, 1781" ],
+    "dbp:quote" : [ "\"Sir,—I have the mortification to inform your excellency that I have been forced to give up the posts of York and Gloucester, and to surrender the troops under my command, by capitulation on the 19th instant, as prisoners of war to the combined forces of America and France.\"" ],
+    "dbp:source" : [ "--10-20" ],
+    "dbp:width" : [ "30.0" ]
+  },
+  "text" : "The Yorktown or Virginia campaign was a series of military maneuvers and battles during the American Revolutionary War that culminated in the decisive Siege of Yorktown in October 1781. The result of the campaign was the surrender of the British Army force of General Charles, Earl Cornwallis, an event that led directly to the beginning of serious peace negotiations and the eventual end of the war. The campaign was marked by disagreements, indecision, and miscommunication on the part of British leaders, and by a remarkable set of cooperative decisions, at times in violation of orders, by the French and Americans. The campaign involved land and naval forces of Great Britain and France, and land forces of the United States. British forces sent to Virginia between January and April 1781 joined with Cornwallis's army in May, which came north from an extended campaign through the southern states. These forces were first opposed weakly by Virginia militia, but General George Washington sent first the Marquis de Lafayette and then Anthony Wayne with Continental Army troops to oppose the raiding and economic havoc the British were wreaking. The combined American forces, however, were insufficient in number to oppose the combined British forces, and it was only after a series of controversially confusing orders by General Sir Henry Clinton, the British commander-in-chief, that Cornwallis moved to Yorktown in July and built a defensive position that was strong against the land forces he then faced, but was vulnerable to naval blockade and siege. British naval forces in North America and the West Indies were weaker than the combined fleets of France and Spain, and, after some critical decisions and tactical missteps by British naval commanders, the French fleet of Paul de Grasse gained control over Chesapeake Bay, blockading Cornwallis from naval support and delivering additional land forces to blockade him on land. The Royal Navy attempted to dispute this control, but Admiral Thomas Graves was defeated in the key Battle of the Chesapeake on September 5. American and French armies that had massed outside New York City began moving south late in August, and arrived near Yorktown in mid-September; deceptions about their movement successfully delayed attempts by Clinton to send more troops to Cornwallis. The Siege of Yorktown began on September 28. In a step that probably shortened the siege, Cornwallis decided to abandon parts of his outer defenses, and the besiegers successfully stormed two of his redoubts. When it became clear that his position was untenable, Cornwallis opened negotiations on October 17 and surrendered two days later. When the news reached London, the government of Lord North fell, and the following Rockingham ministry entered into peace negotiations. These culminated in the Treaty of Paris in 1783, in which King George III recognized the independent United States of America. Clinton and Cornwallis engaged in a public war of words defending their roles in the campaign, and British naval command also discussed the navy's shortcomings that led to the defeat."
+}, {
+  "entityIndex" : "entity28563",
+  "entityUrl" : "http://dbpedia.org/resource/Young_Irelander_Rebellion_of_1848",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2 killed" ],
+    "dbo:combatant" : [ "Irish Constabulary", "Young Irelanders" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/William_Smith_O'Brien" ],
+    "dbo:date" : [ "1848-07-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Revolutions_of_1848" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Ireland", "http://dbpedia.org/resource/Ballingarry,_South_Tipperary" ],
+    "dbo:result" : [ "Rebels besiege a police unit, but retreat after police reinforcements arrive" ],
+    "dbo:strength" : [ "unknown", "47, unknown number of reinforcements arrived later" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/William_Smith_O'Brien.jpg?width=300" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:colourScheme" : [ "background:#bbcccc" ],
+    "dbp:commander" : [ "Sub-Inspector Cox", "Sub-Inspector Trant" ],
+    "dbp:title" : [ "Books by Young Irelanders" ],
+    "dbp:titlestyle" : [ "background:pink; text-align:center;" ]
+  },
+  "text" : "The Young Irelander Rebellion was a failed Irish nationalist uprising led by the Young Ireland movement, part of the wider Revolutions of 1848 that affected most of Europe. It took place on 29 July 1848 in the village of Ballingarry, South Tipperary. After being chased by a force of Young Irelanders and their supporters, an Irish Constabulary unit raided a house and took those inside as hostages. A several-hour gunfight followed, but the rebels fled after a large group of police reinforcements arrived. It is sometimes called the Famine Rebellion (since it took place during the Great Irish Famine) or the Battle of Ballingarry."
+}, {
+  "entityIndex" : "entity28564",
+  "entityUrl" : "http://dbpedia.org/resource/Yanzhou_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "63,000" ],
+    "dbo:combatant" : [ "National Revolutionary Army", "60px|Flag of the National Revolutionary Army", "60px|PLA", "Chinese Red Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Xu_Shiyou" ],
+    "dbo:date" : [ "1948-05-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Shandong", "http://dbpedia.org/resource/China" ],
+    "dbo:result" : [ "Communistvictory" ],
+    "dbo:strength" : [ "100,000", "70,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_Army.svg?width=300" ],
+    "dbp:c" : [ "四关", "大汶口", "太平镇", "新西门", "津浦路中段战役", "界河", "老西门", "薛城" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:commander" : [ "22" ],
+    "dbp:l" : [ "Big Wen Mouth", "Border River" ],
+    "dbp:p" : [ "Da Wen Kou", "Jie He", "Lao Xi Men", "Si Guan", "Tai Ping Zhen", "Xin Xi Men", "Xue Cheng" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Yanzhou Campaign (Chinese: 兖州战役; pinyin: Yǎnzhōu Zhànyì), also known as the Campaign at the Central Section of the Tianjin-Pukou Railway (Chinese: 津浦路中段战役; pinyin: Jīn Pŭ Lù Zhōng Duàn Zhànyì) was a series of battles fought between the nationalists and the communists for the control of the town Yanzhou (兖州), which is today under the administration of Jining, and the region to the north of the town in Shandong, China during the Chinese Civil War in the post World War II era, and resulted in communist victory."
+}, {
+  "entityIndex" : "entity28565",
+  "entityUrl" : "http://dbpedia.org/resource/Years_of_Lead_(Italy)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Around 500-1,000 civilians and officer killed" ],
+    "dbo:combatant" : [ "Supported by:", "PAC", "(alleged)", "NAR", "*Arm of Carabineers", "*Italian Armed Forces", "*SISDE(Internal)", "*SISMI(Foreign)", "20pxNational Vanguard", "20pxRed Brigades", "Black Order", "Continuous Struggle", "Far-left terroristgroups:", "Far-right terroristgroups:", "Front Line", "Italian Government", "October 22 Group", "PO-AO", "Third Position" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Arnaldo_Forlani", "http://dbpedia.org/resource/Franco_Restivo", "http://dbpedia.org/resource/Valerio_Fioravanti", "http://dbpedia.org/resource/Franco_Piperno", "http://dbpedia.org/resource/Giulio_Andreotti", "http://dbpedia.org/resource/Francesco_Cossiga", "http://dbpedia.org/resource/Cesare_Battisti_(born_1954)", "http://dbpedia.org/resource/Virginio_Rognoni", "http://dbpedia.org/resource/Alberto_Franceschini", "http://dbpedia.org/resource/Oreste_Scalzone", "http://dbpedia.org/resource/Margherita_Cagol", "http://dbpedia.org/resource/Aldo_Moro", "http://dbpedia.org/resource/Gabriele_Adinolfi", "http://dbpedia.org/resource/Vincenzo_Vinciguerra", "http://dbpedia.org/resource/Roberto_Fiore", "http://dbpedia.org/resource/Renato_Curcio", "http://dbpedia.org/resource/Emilio_Colombo", "http://dbpedia.org/resource/Mariano_Rumor", "http://dbpedia.org/resource/Stefano_Delle_Chiaie", "http://dbpedia.org/resource/Toni_Negri", "http://dbpedia.org/resource/Giangiacomo_Feltrinelli", "http://dbpedia.org/resource/Franco_Freda", "http://dbpedia.org/resource/Marco_Donat_Cattin", "http://dbpedia.org/resource/Francesca_Mambro" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cold_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Italy" ],
+    "dbo:result" : [ "*Bologna massacrecaused thefar-right terroristmain groups's ending, like the neo-fascist was accused of the bombing", "*Moro kidnappingcaused the fall of popularity of theRed Brigades", "Decrease of theterrorism in Italy:", "* \"P2 affair\" caused the decline of secret circles for several years" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Stragedibologna-2.jpg?width=300" ],
+    "dbp:caption" : [ "Attack at the Bologna railway station; it was the deadliest episode of the Years of Lead." ],
+    "dbp:date" : [ "1968" ]
+  },
+  "text" : "The Years of Lead (Italian: Anni di piombo) is a term used for a period of socio-political turmoil in Italy that lasted from the late 1960s until the early 1980s, marked by a wave of both left-wing and right-wing political terrorism. Among the possible origins of the name are a reference to the vast number of bullets fired, or a popular 1981 German film Marianne and Juliane directed by Margarethe von Trotta, for which the Italian title is Anni di piombo. The left-wing autonomist movement lasted from 1968 until the end of the 1970s. The Years of Lead are considered to have begun with the death of the policeman Antonio Annarumma in November 1969 and the Piazza Fontana bombing in December that year, both in Milan."
+}, {
+  "entityIndex" : "entity28566",
+  "entityUrl" : "http://dbpedia.org/resource/Yonekura_Shigetsugu",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Takeda forces", "combined Oda-Tokugawa forces" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Tokugawa_Ieyasu", "http://dbpedia.org/resource/Takeda_Katsuyori", "http://dbpedia.org/resource/Takeda_Nobukado", "http://dbpedia.org/resource/Oda_Nobunaga", "http://dbpedia.org/resource/Anayama_Nobukimi", "http://dbpedia.org/resource/Okudaira_Sadamasa" ],
+    "dbo:date" : [ "1575-06-28" ],
+    "dbo:deathDate" : [ "1575-1-1" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sengoku_period" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Japan", "http://dbpedia.org/resource/Mikawa_Province" ],
+    "dbo:result" : [ "Siege fails;Oda-Tokugawavictory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Estampe-p1000685.jpg?width=300" ],
+    "dbp:caption" : [ "General launching his troops to attack the castle of Nagashino in 1575, by Yoshitoshi" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Yonekura Shigetsugu (died 1575) was a famous Japanese samurai and a member of the Takeda clan."
+}, {
+  "entityIndex" : "entity28567",
+  "entityUrl" : "http://dbpedia.org/resource/Yetaishan_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "500+" ],
+    "dbo:combatant" : [ "60px|Flag of the National Revolutionary ArmyNational Revolutionary Army", "60px|PLAPeople's Liberation Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hu_Zongnan", "http://dbpedia.org/resource/Zhang_Zongxun" ],
+    "dbo:date" : [ "1945-07-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Chinese_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Shaanxi" ],
+    "dbo:result" : [ "Communistvictory" ],
+    "dbo:strength" : [ "6,000", "20,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_Army.svg?width=300" ],
+    "dbp:casualties" : [ "200" ]
+  },
+  "text" : "The Yetaishan Campaign (爷台山战役), also known as the Chunhua Incident (淳化事变) by the nationalists and dubbed the Yetaishan Counteroffensive (爷台山反击战) by the communists, was a series of battles fought between the nationalists and the communists during Chinese Civil War shortly before the end of World War II, and resulted in the communist victory."
+}, {
+  "entityIndex" : "entity28568",
+  "entityUrl" : "http://dbpedia.org/resource/Yuma_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Cocopah (1850-1853)Cahuilla", "Cupeno (1851)", "Cupeno(1852-1853)Cocopah(1853)", "Halyikwamai", "Mohave", "Mountain Cahuilla(1851)", "Paipai", "Yuma" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Samuel_P._Heintzelman", "http://dbpedia.org/resource/George_Stoneman", "http://dbpedia.org/resource/Frederick_Steele", "http://dbpedia.org/resource/Irataba", "http://dbpedia.org/resource/Juan_Antonio_(Cahuilla)", "http://dbpedia.org/resource/Cavallo_y_Pelo", "http://dbpedia.org/resource/Cecili", "http://dbpedia.org/resource/Chipule", "http://dbpedia.org/resource/Delozier_Davidson", "http://dbpedia.org/resource/Edward_H._Fitzgerald", "http://dbpedia.org/resource/Huttami", "http://dbpedia.org/resource/Jose_Maria_(war_chief)", "http://dbpedia.org/resource/Mecedon_(warchief)", "http://dbpedia.org/resource/Santiago_(Quechan_chief)", "http://dbpedia.org/resource/Vicente_(warchief)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Indian_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/California", "http://dbpedia.org/resource/Traditional_Arizona" ],
+    "dbo:result" : [ "United States victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Emory-Yuma.jpg?width=300" ],
+    "dbp:caption" : [ "Yumans along the Colorado River by William Emory, circa 1857." ],
+    "dbp:date" : [ "1850" ]
+  },
+  "text" : "The Yuma War was the name given to a series of United States military operations conducted in southern California and what is today southwestern Arizona from 1850 to 1853. The Yumans were the primary opponent of the United States Army, though engagements were fought between the Americans and other native groups in the region. Conflict generally took the form of guerrilla warfare and over the course of three years, the army engaged in pursuing unfriendly natives, protecting American settlers crossing the Colorado River and preventing conflict between the native tribes. A peace treaty in summer of 1853 was signed, ending hostilities between the Yuma and the United States, but it sparked a short war between the Yuma and the Cocopah. During the conflict, the historic Fort Yuma was constructed and became an important outpost on the frontier."
+}, {
+  "entityIndex" : "entity28569",
+  "entityUrl" : "http://dbpedia.org/resource/Yavapai_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*Mohave", "*Yuma", "*Apache", "*Kwevkapaya", "*Tolkapaya", "*Wipukpa", "*Yavapé", "Yavapai Allies:", "Yavapai:" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Pauline_Weaver", "http://dbpedia.org/resource/George_Crook", "http://dbpedia.org/resource/Charles_King_(general)", "http://dbpedia.org/resource/Delshay", "http://dbpedia.org/resource/Nanni-chaddi" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Indian_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Arizona" ],
+    "dbo:result" : [ "United States victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Tonto_Apache.jpg?width=300" ],
+    "dbp:caption" : [ "Tonto Apache. - White Mountain Reservation, Arizona, 1891, by Julian Scott." ],
+    "dbp:date" : [ "1861" ]
+  },
+  "text" : "The Yavapai Wars, or the Tonto Wars, were a series of armed conflicts between the Yavapai and Tonto tribes against the United States in Arizona. The period began no later than 1861, with the arrival of American settlers on Yavapai and Tonto land. At the time, the Yavapai were considered a band of the Western Apache people due to their close relationship with tribes such as the Tonto and Pinal. The wars ended with the Yavapai's and the Tonto's removal from the Camp Verde Reservation to San Carlos on February 27, 1875, now known as Exodus Day."
+}, {
+  "entityIndex" : "entity28570",
+  "entityUrl" : "http://dbpedia.org/resource/Yaqui_Wars",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "23pxYaqui", "(1533–1716)", "(1716–1821)", "(1821–1929)", "(1896-1918)", "*Mayo", "*Opata", "*Pima", "Yaqui Allies:" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Teresa_Urrea", "http://dbpedia.org/resource/Cajemé", "http://dbpedia.org/resource/Juan_Banderas", "http://dbpedia.org/resource/Tetabiate", "http://dbpedia.org/resource/Frank_Wheaton", "http://dbpedia.org/resource/Alvaro_Obregon", "http://dbpedia.org/resource/Emilio_Kosterlitsky", "http://dbpedia.org/resource/Frederick_H.L._Ryder", "http://dbpedia.org/resource/Lorenzo_Torres", "http://dbpedia.org/resource/Rafael_Izábal" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Indian_Wars", "http://dbpedia.org/resource/Mexican_Indian_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/United_States", "http://dbpedia.org/resource/Sonora", "http://dbpedia.org/resource/Mexico", "http://dbpedia.org/resource/Arizona" ],
+    "dbo:result" : [ "Mexican/United States victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Uprising_of_Yaqui_Indians_Remington_1896.jpg?width=300" ],
+    "dbp:caption" : [ "Uprising of the Yaqui Indians - Yaqui Warriors in Retreat, by Frederic Remington, 1896." ],
+    "dbp:date" : [ "1533" ]
+  },
+  "text" : "The Yaqui Wars, were a series of armed conflicts between New Spain, and the later Mexican republic, against the Yaqui Native Americans. The period began in 1533 and lasted until 1929. The Yaqui Wars, along with the Caste War against the Maya, were the last conflicts of the centuries long Mexican Indian Wars. Over the course of nearly 400 years, the Spanish and the Mexicans repeatedly launched military campaigns into Yaqui territory which resulted in several serious battles and some infamous massacres."
+}, {
+  "entityIndex" : "entity28571",
+  "entityUrl" : "http://dbpedia.org/resource/Yazoo_City_Expedition",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "5 killed", "14 wounded" ],
+    "dbo:combatant" : [ "CSA (Confederacy)", "United States(Union)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_McArthur", "http://dbpedia.org/resource/Wirt_Adams" ],
+    "dbo:date" : [ "1864-05-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Yazoo_County,_Mississippi" ],
+    "dbo:result" : [ "Unionvictory" ],
+    "dbo:strength" : [ "brigade", "2 brigades of infantry" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Yazoo_river.gif?width=300" ],
+    "dbp:caption" : [ "http://dbpedia.org/resource/Yazoo_River" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:units" : [ "Adams' Cavalry Brigade", "Post of Vicksburg" ]
+  },
+  "text" : "The Yazoo City Expedition was an expedition of Union forces from the Vicksburg garrison under General John McArthur against Confederate forces in central Mississippi under General Wirt Adams."
+}, {
+  "entityIndex" : "entity28572",
+  "entityUrl" : "http://dbpedia.org/resource/Yemenite_War_of_1979",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "38T-55andT-62Tanks destroyed", "576 ground troops KIA, 824 POW", "6MiG-21aircraft destroyed on ground, 4MiG-17shot down in combat, 1 pilot POW; 2Mil Mi-24s and 5Mil Mi-17s destroyed on ground", "16SA-3and 5SA-6launchers destroyed; 34P-15 radars destroyed" ],
+    "dbo:combatant" : [ "Supported by:", "United States", "National Democratic Front" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abdel_Fattah_Ismail", "http://dbpedia.org/resource/Ali_Abdullah_Saleh" ],
+    "dbo:date" : [ "1979-03-19" ],
+    "dbo:result" : [ "*No territorial changes", "*Yemen's re-pledge ambition to unify", "Kuwait Agreement" ],
+    "dbo:strength" : [ "120,000 total", "18,000 in theater", "2100 Tanks total", "300 Tanks in theater", "300,000 total", "350 Tanks in theater", "45,000 in theater", "900 Tanks total" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Divided_Yemen.svg?width=300" ],
+    "dbp:caption" : [ "North & South Yemen" ],
+    "dbp:casualties" : [ "12", "412", "-22.0" ],
+    "dbp:place" : [ "North Yemen-South Yemen border" ],
+    "dbp:units" : [ "1", "2", "3" ]
+  },
+  "text" : "The Yemenite War of 1979 was a short military conflict between North and South Yemen. The war developed out of a breakdown in relations between the two countries after the Presidents of both were overthrown in coups. The hostility of the rhetoric from the new leadership of both countries escalated, leading to small scale border fighting, which then in turn escalated into a full blown war in February 1979. North Yemen appeared on the edge of a decisive defeat after a three-front invasion by South Yemeni combined arms formation, however this was prevented by a successful mediation in the form of the Kuwait Agreement of 1979, which resulted in Arab League forces being deployed to patrol the North-South border. An agreement to unite both countries was also signed, although was not implemented."
+}, {
+  "entityIndex" : "entity28573",
+  "entityUrl" : "http://dbpedia.org/resource/Yongle_Emperor's_campaigns_against_the_Mongols",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "----", "Ming China", "Eastern Mongols", "Oyirad Mongols", "Various Mongol tribes" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Yongle_Emperor", "http://dbpedia.org/resource/Arughtai", "http://dbpedia.org/resource/Bunyashiri" ],
+    "dbo:result" : [ "Ming victory", "* Arughtai retreated to evade battle", "* Bunyashiri defeated", "* Mahmud defeated", "* Plunder of Mongol tribes" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Ming-Empire2.jpg?width=300" ],
+    "dbp:caption" : [ "Ming China during the reign of the Yongle Emperor" ],
+    "dbp:place" : [ "Mongolian Plateau" ]
+  },
+  "text" : "Yongle Emperor's campaigns against the Mongols was the military campaign of Ming China under Yongle Emperor against the Mongols in the north. During his reign he launched several aggressive campaigns against the Eastern Mongols, Oyirad Mongols, and various other Mongol tribes."
+}, {
+  "entityIndex" : "entity28574",
+  "entityUrl" : "http://dbpedia.org/resource/Yellowstone_Expedition_of_1873",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "4 killed, 12 wounded" ],
+    "dbo:combatant" : [ "Lakota Sioux" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Crazy_Horse", "http://dbpedia.org/resource/Rain_in_the_Face", "http://dbpedia.org/resource/Sitting_Bull", "http://dbpedia.org/resource/David_S._Stanley", "http://dbpedia.org/resource/George_A._Custer", "http://dbpedia.org/resource/Gall_(Native_American_leader)" ],
+    "dbo:date" : [ "1873-09-23" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sioux_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Dakota_Territory", "http://dbpedia.org/resource/Montana_Territory" ],
+    "dbo:result" : [ "United States Victory" ],
+    "dbo:strength" : [ "1,530 Soldiers", "353 Civilians", "~1000 Warriors" ],
+    "dbp:casualties" : [ "11" ]
+  },
+  "text" : "The Yellowstone Expedition of 1873 was an expedition of the United States Army in the summer of 1873 in Dakota Territory and Montana Territory, to survey a route for the Northern Pacific Railroad along the Yellowstone River. The expedition was under the overall command of Colonel David S. Stanley, with Lieutenant Colonel George A. Custer second in command."
+} ]

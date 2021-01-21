@@ -1,0 +1,7 @@
+http://dbpedia.org/resource/Ye%C5%9Fil%C4%B1rmak_River
+http://dbpedia.org/resource/Yumur%C3%AD_River
+http://dbpedia.org/resource/Y%C5%ABbari_River
+http://dbpedia.org/resource/Y%C5%ABbetsu_River
+http://dbpedia.org/resource/Yar%C3%AD_River
+http://dbpedia.org/resource/Yanggara_River
+http://dbpedia.org/resource/Yuraqmayu

@@ -1,0 +1,1090 @@
+[ {
+  "entityIndex" : "entity26007",
+  "entityUrl" : "http://dbpedia.org/resource/Juno_Beach",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "340 dead", "47 captured", "574 wounded" ],
+    "dbo:combatant" : [ "*" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Crocker", "http://dbpedia.org/resource/Rod_Keller", "http://dbpedia.org/resource/Wilhelm_Richter" ],
+    "dbo:date" : [ "1944-06-06" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Battle_for_Caen", "http://dbpedia.org/resource/Normandy_landings" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Calvados_(department)", "http://dbpedia.org/resource/Bernières-sur-Mer", "http://dbpedia.org/resource/Saint-Aubin-sur-Mer,_Calvados", "http://dbpedia.org/resource/Courseulles" ],
+    "dbo:result" : [ "Alliedvictory" ],
+    "dbo:strength" : [ "1 Commando Battalion", "1ArmouredBrigade", "1InfantryDivision", "Elements of 1 Infantry Division" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Canadian_Soldiers_Juno_Beach_Town.jpg?width=300" ],
+    "dbp:caption" : [ "Canadian soldiers landing at Juno on the outskirts of Bernières." ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:units" : [ "2", "3", "21", "Company, 736th Grenadier Regiment", "No. 48 (Royal Marine) Commando" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "Juno or Juno Beach was one of five beaches of the Allied invasion of German occupied France in the Normandy landings on 6 June 1944, during the Second World War. The beach spanned from Courseulles, a village just east of the British beach Gold, to Saint-Aubin-sur-Mer, just west of the British beach Sword. Taking Juno was the responsibility of the Canadian Army, with sea transport, mine sweeping, and a naval bombardment force provided by the Royal Canadian Navy and the British Royal Navy as well as elements from the Free French, Norwegian, and other Allied navies. The objectives of the 3rd Canadian Infantry Division on D-Day were to cut the Caen-Bayeux road, seize the Carpiquet airport west of Caen, and form a link between the two British beaches of Gold and Sword on either side of Juno Beach. The beach was defended by two battalions of the German 716th Infantry Division, with elements of the 21st Panzer Division held in reserve near Caen. The invasion plan called for two brigades of the 3rd Canadian Division to land on two beach sectors—Mike and Nan—focusing on Courseulles, Bernières and Saint-Aubin. It was hoped that the preliminary naval and air bombardments would soften up the beach defences and destroy coastal strong points. Close support on the beaches was to be provided by amphibious tanks of the 2nd Canadian Armoured Brigade. Once the landing zones were secured, the plan called for the 9th Canadian Infantry Brigade to land reserve battalions and deploy inland, the Royal Marine commandos to establish contact with the British 3rd Infantry Division on Sword Beach and the 7th Canadian Infantry Brigade to link up with the British 50th Infantry Division on Gold Beach. The 3rd Canadian Division's D-Day objectives were to capture Carpiquet Airfield and reach the Caen–Bayeux railway line by nightfall. The landings initially encountered heavy resistance from the German 716th Division; the preliminary bombardment proved less effective than had been hoped, and rough weather forced the first wave to be delayed until 07:35. Several assault companies—notably those of the Royal Winnipeg Rifles and The Queen's Own Rifles of Canada—took heavy casualties in the opening minutes of the first wave. Strength of numbers, as well as coordinated fire support from artillery and armoured squadrons, cleared most of the coastal defences within two hours of landing. The reserves of the 7th and 8th brigades began deploying at 08:30 (along with the Royal Marines), while the 9th Brigade began its deployment at 11:40. The subsequent push inland towards Carpiquet and the Caen–Bayeux railway line achieved mixed results. The sheer numbers of men and vehicles on the beaches created lengthy delays between the landing of the 9th Brigade and the beginning of substantive attacks to the south. The 7th Brigade encountered heavy initial opposition before pushing south and making contact with the British 50th Division at Creully. The 8th Brigade encountered heavy resistance from a battalion of the 716th at Tailleville, while the 9th Brigade deployed towards Carpiquet early in the evening. Resistance in Saint-Aubin prevented the Royal Marines from establishing contact with the British 3rd Division on Sword. When all operations on the Anglo-Canadian front were ordered to halt at 21:00, by which time The Queen's Own Rifles of Canada had reached its D-Day objective, and the 3rd Canadian Infantry Division had succeeded in pushing farther inland than any other landing force on D-Day."
+}, {
+  "entityIndex" : "entity26008",
+  "entityUrl" : "http://dbpedia.org/resource/Jameson_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "18 killed and about 40 wounded" ],
+    "dbo:combatant" : [ "United Kingdom" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Cecil_Rhodes", "http://dbpedia.org/resource/Leander_Starr_Jameson", "http://dbpedia.org/resource/Piet_Cronjé", "http://dbpedia.org/resource/Reform_Committee_(Transvaal)" ],
+    "dbo:date" : [ "1895-12-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Boer_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/South_African_Republic" ],
+    "dbo:result" : [ "South African Republic victory, see: Aftermath" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Cecil_rhodes_&_alfred_beit00.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:backgroundColor" : [ ";border:none;" ],
+    "dbp:caption" : [ "Beit, associate of Rhodes and privy to Jameson's plans, financed the revolutionists to the order of £400,000 and was subsequently censured in the House of Commons and British press.", "Wernher, Beit's business partner, was not drawn into the investigation, and his role, at least in the raid's initial stages, remains unproven.", "In the raid's aftermath Rhodes was severely censured and had to resign as chairman of the Chartered Company and Cape prime minister.", "Cecil Rhodes and Alfred Beit, instrumental in the Jameson Raid", "To re-engineer the subjugation of Transvaal, Milner was appointed High Commissioner to South Africa and Lt.-Governor of the Cape in 1897." ],
+    "dbp:casualties" : [ "4" ],
+    "dbp:direction" : [ "horizontal" ],
+    "dbp:headerAlign" : [ "center" ],
+    "dbp:image" : [ "http://www.allatsea.co.za/abw/burgershoop/jamesonmemorial.htm", "Alfred Beit00.jpg", "Cecil Rhodes portrait LAC CANADA.jpg", "Julius Wernher02.jpg", "Lord_Milner.jpg" ],
+    "dbp:latitude" : [ "-26.1" ],
+    "dbp:longitude" : [ "27.8" ],
+    "dbp:mapSize" : [ "250" ],
+    "dbp:mapType" : [ "South Africa" ],
+    "dbp:width" : [ "132", "145", "157" ]
+  },
+  "text" : "The Jameson Raid (29 December 1895 – 2 January 1896) was a botched raid on Paul Kruger's South African Republic (commonly known as the Transvaal) carried out by British colonial statesman Leander Starr Jameson and his Company troops (\"police\" in the employ of Beit and Rhodes' British South Africa Company) and Bechuanaland policemen over the New Year weekend of 1895–96. It was intended to trigger an uprising by the primarily British expatriate workers (known as Uitlanders) in the Transvaal but failed to do so. The workers were called the Johannesburg conspirators. They were expected to recruit an army and prepare for an insurrection. The raid was ineffective and no uprising took place, but it was an inciting factor in the Second Boer War and the Second Matabele War."
+}, {
+  "entityIndex" : "entity26009",
+  "entityUrl" : "http://dbpedia.org/resource/January_Uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "10,000 to 20,000" ],
+    "dbo:combatant" : [ "Russian Empire", "20pxPolish National Government", "and multicultural insurgents" ],
+    "dbo:date" : [ "1863-01-22" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Poland", "http://dbpedia.org/resource/Russian_Empire" ],
+    "dbo:result" : [ "Russian victory" ],
+    "dbo:strength" : [ "unknown", "around 200,000 over the course of the uprising" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Rok_1863_Polonia.JPG?width=300" ],
+    "dbp:caption" : [ "1863.0" ],
+    "dbp:casus" : [ "impending forced conscription into the Tsarist Army" ],
+    "dbp:date" : [ "November 2014" ],
+    "dbp:reason" : [ "Belarusian historian Novik might be biased, especially since Belorussia is an authoritarian state" ]
+  },
+  "text" : "The January Uprising (Polish: powstanie styczniowe, Lithuanian: 1863 m. sukilimas, Belarusian: Паўстанне 1863-1864 гадоў) was an uprising in the former Polish-Lithuanian Commonwealth (present-day Poland, Lithuania, Belarus, Latvia, parts of Ukraine, and western Russia) against the Russian Empire. It began on 22 January 1863 and lasted until the last insurgents were captured in 1864. The uprising began as a spontaneous protest by young Poles against conscription into the Imperial Russian Army. It was soon joined by high-ranking Polish-Lithuanian officers and various politicians. The insurrectionists, severely outnumbered and lacking serious outside support, were forced to resort to guerrilla warfare tactics. Public executions and deportations to Siberia led many Poles to abandon armed struggle and turn instead to the idea of \"organic work\": economic and cultural self-improvement."
+}, {
+  "entityIndex" : "entity26010",
+  "entityUrl" : "http://dbpedia.org/resource/Jugurthine_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Numidia", "Roman Republic" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Gaius_Marius", "http://dbpedia.org/resource/Jugurtha", "http://dbpedia.org/resource/Sulla", "http://dbpedia.org/resource/Metellus" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Numidia" ],
+    "dbo:result" : [ "Roman victory" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Mauretania" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Sulla_Coin2.jpg?width=300" ],
+    "dbp:author" : [ "Gaius  SALLUSTIUS CRISPUS" ],
+    "dbp:caption" : [ "Sulla Capturing Jugurtha" ],
+    "dbp:date" : [ "112" ],
+    "dbp:title" : [ "The Catiline Conspiracy and the Jugurthine War" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Jugurthine War took place in 112–106 BC, between Rome and Jugurtha of Numidia, a kingdom on the north African coast approximating to modern Algeria. The Romans defeated Jugurtha. The war takes its name from the Ancient Libyan king Jugurtha, nephew and later adopted son of Micipsa, King of Numidia. The war constituted an important phase in the Roman subjugation of Northern Africa, but Numidia did not become a Roman province until 46 BC. Following Jugurtha's usurpation of the throne of Numidia, a loyal ally of Rome since the Punic Wars, Rome felt compelled to intervene."
+}, {
+  "entityIndex" : "entity26011",
+  "entityUrl" : "http://dbpedia.org/resource/Junker_mutiny",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Committee for Salvation of Motherland and Revolution", "*Junkers", "*Red Guard", "Russian Soviet Republic" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/October_Revolution" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Petrograd", "http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic" ],
+    "dbo:result" : [ "Bolsheviks remains in power", "Mutiny failed" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir_Junker_Military_School_1916.jpg?width=300" ],
+    "dbp:caption" : [ "Junkers of Vladimir Academy in 1916. The cadets opposed the seizure of power by the Bolsheviks." ],
+    "dbp:date" : [ "1917-10-29" ]
+  },
+  "text" : "Junker mutiny (Russian: Юнкерский мятеж) was a counterrevolutionary mutiny of students of junker schools against the Bolsheviks in Petrograd in October 1917. On October 29 (November 11 (N.S.)) of 1917, students of junker schools in Petrograd rose up against the Bolsheviks under the leadership of the Committee for Salvation of Motherland and Revolution (Комитет спасения родины и революции), organised by the Right Esers. The goal of the mutiny was to support the Kerensky-Krasnov uprising (October 26–31, 1917). The rebellious students wanted to seize the city telephone exchange, Peter and Paul Fortress, Smolny and arrest the Soviet government together with the Bolshevik leaders. On October 29, the Red Guard patrol detained one of the leaders of the Junker mutiny, an Eser A.A.Bruderer, who had a plan of the mutiny with him. Former commander-in-chief of the Petrograd military okrug Colonel G.P.Polkovnikov pronounced himself a commander of the so-called \"salvation army\" (войска спасения) and ordered his garrison not to execute orders issued by the Petrograd Military Revolutionary Committee (PMRC), arrest its commissars, and send representatives from all military units to Nikolayevskoye School of Engineers (a.k.a. Engineer's Fortress), the headquarters of the mutiny leaders. The junkers of the Nikolayevskoye School of Engineers seized the Mikhailovsky Manege, stole a number of armored cars, captured the city telephone exchange, cut off power in Smolny, seized Hotel Astoria, and began to disarm the Red Guards and revolutionary soldiers. The students of Vladimirskoye Military School disarmed the school guards and arrested some of the PMRC commissars. At 8:30 a.m. on October 29, the leaders of the Junker mutiny sent out telegrams all over Petrograd, announcing the success of the rebellion and calling out for the arrest of all the PMRC commissars and the concentration of participating military units at the Nikolayevskoye School of Engineers. The revolutionary garrison of Petrograd, however, refused to support the mutiny. PMRC issued an appeal to the citizens of Petrograd and announced the state of siege. By 11 a.m. of October 29, the Red Guards and revolutionary soldiers had regained control over the telephone exchange and surrounded the Engineer’s Fortress. Most of the junkers fled, but those who remained would be disarmed by 5 p.m. and sent to the Peter and Paul Fortress."
+}, {
+  "entityIndex" : "entity26012",
+  "entityUrl" : "http://dbpedia.org/resource/Java_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "15,000 dead (including 7,000 European soldiers)" ],
+    "dbo:combatant" : [ "Chinese mercenaries", "Rebel forces of PrinceDiponegoro", "plus pro-Dutch Javanese" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Diponegoro", "http://dbpedia.org/resource/Hendrik_Merkus_de_Kock" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Java" ],
+    "dbo:result" : [ "Dutch victory", "*Diponegorodeported toMakassar; rebellion ends" ],
+    "dbo:strength" : [ "50,000", "100,000" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Nicolaas_Pieneman_-_The_Submission_of_Prince_Dipo_Negoro_to_General_De_Kock.jpg?width=300" ],
+    "dbp:caption" : [ "The Submission of Prince Dipo Negoro to General De Kock, by Nicolaas Pieneman" ],
+    "dbp:casualties" : [ "20000", "200000" ],
+    "dbp:date" : [ "1825" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Java War or Diponegoro War was fought in Java between 1825 and 1830, which took place in central Java. It started as a rebellion led by Prince Diponegoro: a leading member of the Javanese aristocracy who had previously cooperated with the Dutch."
+}, {
+  "entityIndex" : "entity26013",
+  "entityUrl" : "http://dbpedia.org/resource/Jayuya_Uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3 Nationalists dead" ],
+    "dbo:combatant" : [ "Puerto Rican Nationalist Party" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Luis_R._Esteves", "http://dbpedia.org/resource/Blanca_Canales" ],
+    "dbo:date" : [ "1950-10-30" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Puerto_Rico" ],
+    "dbo:result" : [ "United States victory", "* Uprising suppressed" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Jayuya1950.gif?width=300" ],
+    "dbp:align" : [ "left" ],
+    "dbp:audio" : [ "1950.0" ],
+    "dbp:caption" : [ "Puerto Rican flag removed by a member of the National Guard after the 1950 Jayuya Uprising" ],
+    "dbp:casualties" : [ "6" ]
+  },
+  "text" : "The Jayuya Uprising, also known as the Jayuya Revolt or El Grito de Jayuya, was a Nationalist revolt that took place on October 30, 1950, in the town of Jayuya, Puerto Rico. The revolt, led by Blanca Canales, was one of the multiple revolts that occurred throughout Puerto Rico on that day against the Puerto Rican government supported by the United States. The Nationalists considered the US to be a colonial power."
+}, {
+  "entityIndex" : "entity26014",
+  "entityUrl" : "http://dbpedia.org/resource/January_28_Incident",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "13,000, including 4,000 KIA, plus 10,000–20,000 civilian deaths" ],
+    "dbo:combatant" : [ "China" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Kanichiro_Tashiro", "http://dbpedia.org/resource/Zhang_Zhizhong", "http://dbpedia.org/resource/Cai_Tingkai", "http://dbpedia.org/resource/Yoshinori_Shirakawa", "http://dbpedia.org/resource/Jiang_Guangnai" ],
+    "dbo:date" : [ "1932-03-03" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Republic_of_China_(1912–49)", "http://dbpedia.org/resource/Shanghai" ],
+    "dbo:result" : [ "Ceasefire", "Shanghai demilitarized" ],
+    "dbo:strength" : [ "50,000", "100,000+" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Shanghai_1932_19th_route.jpg?width=300" ],
+    "dbp:caption" : [ "The Chinese 19th Route Army in a defensive position." ],
+    "dbp:casualties" : [ "5000" ],
+    "dbp:p" : [ "Sānyǒu Shíyèshè", "Sōnghù Tíngzhàn Xiédìng", "Yī Èrbā Shìbiàn", "shíjǐulùjūn" ],
+    "dbp:s" : [ "一·二八事变", "三友实业社", "十九路军", "淞沪停战协定" ],
+    "dbp:t" : [ "一·二八事變", "三友實業社", "十九路軍", "淞滬停戰協定" ],
+    "dbp:units" : [ "19", "http://dbpedia.org/resource/Imperial_Japanese_Navy", "http://dbpedia.org/resource/Shanghai_Expeditionary_Army" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The January 28 Incident or Shanghai Incident (January 28 – March 3, 1932) was a conflict between the Republic of China and the Empire of Japan, before official hostilities of the Second Sino-Japanese War commenced in 1937."
+}, {
+  "entityIndex" : "entity26015",
+  "entityUrl" : "http://dbpedia.org/resource/Jintian_Uprising",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1,000+" ],
+    "dbo:combatant" : [ "Qing Dynasty", "Taiping Heavenly Kingdom" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Hong_Xiuquan", "http://dbpedia.org/resource/Li_Dianyuan", "http://dbpedia.org/resource/Yiketanbu", "http://dbpedia.org/resource/Zhou_Fengqi" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Taiping_Rebellion" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/China", "http://dbpedia.org/resource/Guiping", "http://dbpedia.org/resource/Guangxi" ],
+    "dbo:result" : [ "Taiping victory" ],
+    "dbo:strength" : [ "20,000+", "7,000+" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:date" : [ "11" ],
+    "dbp:p" : [ "Jīntián Qǐyì" ],
+    "dbp:s" : [ "金田起义" ],
+    "dbp:t" : [ "金田起義" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Jintian Uprising was an armed revolt formally declared by Hong Xiuquan on 11 January 1851 during the late Qing Dynasty. The uprising was named after Jintian (present-day Guiping, Guangxi), the place where it took place. It was the beginning of the Taiping Rebellion."
+}, {
+  "entityIndex" : "entity26016",
+  "entityUrl" : "http://dbpedia.org/resource/July_Days",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "700 wounded demonstrators, 16 people killed and 100 arrested" ],
+    "dbo:combatant" : [ "*Anarchists", "*Bolshevik Party", "*Mensheviks", "*Socialist Revolutionary Party", "Demonstrators", "Russian government" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Vladimir_Lenin", "http://dbpedia.org/resource/Alexander_Kerensky", "http://dbpedia.org/resource/Leon_Trotsky", "http://dbpedia.org/resource/Pavel_Dybenko", "http://dbpedia.org/resource/Grigory_Zinoviev" ],
+    "dbo:date" : [ "1917-07-20" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Russian_Revolution_of_1917" ],
+    "dbo:notes" : [ "After the demonstration, the Bolshevik Pravda newspaper and Central Committee was captured and destroyed by black-hundreds militia." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Saint_Petersburg", "http://dbpedia.org/resource/Russian_Provisional_Government" ],
+    "dbo:result" : [ "Government victory, dispersion of demonstrations and strikes, arrest of Bolsheviks, workers and sailors." ],
+    "dbo:strength" : [ "500,000 unarmed demonstrators, 4,000–5,000 Red Guard soldiers, a few hundred anarchists sailors and 12,000 soldiers and low-rank officers", "Thousands of policemen, loyal soldiers, officers, cossacks and black-hundreds" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/19170704_Riot_on_Nevsky_prosp_Petrograd.jpg?width=300" ],
+    "dbp:caption" : [ "--07-17" ],
+    "dbp:casualties" : [ "24" ],
+    "dbp:casus" : [ "Failed Kerensky Offensive" ]
+  },
+  "text" : "The July Days refers to events in 1917 that took place in Petrograd, Russia, between 3 July and 7 July (Julian calendar) (16 July – 20 July, Gregorian calendar), when soldiers and industrial workers engaged in spontaneous armed demonstrations against the Russian Provisional Government. The Bolsheviks initially attempted to prevent the demonstrations and then decided to support them. (Dates given in article Gregorian Calendar.) The Bolsheviks intended to hold peaceful demonstrations. However, armed clashes broke out. Lenin went into hiding, while other leaders were arrested. The outcome of the July Days represented a temporary decline in the growth of Bolshevik power and influence in the period before the October Revolution."
+}, {
+  "entityIndex" : "entity26017",
+  "entityUrl" : "http://dbpedia.org/resource/January_Events_(Lithuania)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 civilian died due to heart attack", "14 civilians killed", "702 injured" ],
+    "dbo:combatant" : [ "*Soviet Army", "*19px76th Airborne Division", "*19px|link=KGBAlpha Group", "*Lithuanian Riflemen's Union", "National Salvation Committee of the Lithuanian SSR" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Gediminas_Vagnorius", "http://dbpedia.org/resource/Vytautas_Landsbergis", "http://dbpedia.org/resource/Mikhail_Gorbachev", "http://dbpedia.org/resource/Mykolas_Burokevičius", "http://dbpedia.org/resource/Vladislav_Achalov", "http://dbpedia.org/resource/Albertas_Šimėnas" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Cold_War", "http://dbpedia.org/resource/Singing_Revolution", "http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Lithuania" ],
+    "dbo:result" : [ "Soviet forces withdrew" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/January_13_events_in_Vilnius_Lithuania.jpg?width=300" ],
+    "dbp:caption" : [ "--01-13" ],
+    "dbp:casualties" : [ "1" ],
+    "dbp:date" : [ "--01-11" ]
+  },
+  "text" : "The January Events (Lithuanian: Sausio įvykiai) took place in Lithuania between January 11 and 13, 1991 in the aftermath of the Act of the Re-Establishment of the State of Lithuania. As a result of Soviet military actions, 14 civilians were killed and 702 were injured. The events were centered in its capital, Vilnius, along with related actions in its suburbs and in the cities of Alytus, Šiauliai, Varėna, and Kaunas."
+}, {
+  "entityIndex" : "entity26018",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Thailand",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:commander" : [ "http://dbpedia.org/resource/Nobutake_Kondo", "http://dbpedia.org/resource/Tomoyuki_Yamashita", "http://dbpedia.org/resource/Shōjirō_Iida", "http://dbpedia.org/resource/Plaek_Pibulsonggram" ],
+    "dbo:date" : [ "1941-12-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Thailand" ],
+    "dbo:result" : [ "Ceasefire", "*Thai alliance with Japan", "*Thailand declares war on theAllied Powers" ],
+    "dbo:strength" : [ "15th army", "25th army", "2nd fleet navy", "Royal Thai Armed Forces" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese_Invasion_of_Thailand_8_Dec_1941.png?width=300" ],
+    "dbp:caption" : [ "--12-08" ]
+  },
+  "text" : "The Japanese invasion of Thailand occurred on 8 December 1941. It was fought between Thailand and the Empire of Japan. Despite fierce fighting in southern Thailand, the resistance lasted only a matter of hours before ending in a ceasefire."
+}, {
+  "entityIndex" : "entity26019",
+  "entityUrl" : "http://dbpedia.org/resource/Jementah_Civil_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Supported by:", "Johor Sultanate", "MuarunderSultan Ali", "Tengku Alam's faction" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Muhamad_Salleh_bin_Perang", "http://dbpedia.org/resource/Tengku_Alam_Shah", "http://dbpedia.org/resource/Sultan_Ali_of_Johor", "http://dbpedia.org/resource/Abu_Bakar_of_Johor" ],
+    "dbo:date" : [ "1879-10-25", "1879-12-30" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Muar_town", "http://dbpedia.org/resource/Kesang,_Malaysia", "http://dbpedia.org/resource/Jementah", "http://dbpedia.org/resource/Segamat" ],
+    "dbo:result" : [ "Johor state governmentretakesMuar District" ]
+  },
+  "text" : "The Jementah Civil War happened in 1879 in Jementah, Sultanate of Johor when Tengku Alam Shah, the heir of Sultan Ali of Muar refused to give the district of Muar to the temporary administration of Sultan Abu Bakar of Johor (then Maharaja in 1879). The final result of the civil war became a factor of the opening of the town of Muar. Before Sultan Abu Bakar became the ruler of Johor, Johor was ruled by Temenggong Ibrahim who was more favored than Sultan Ali. To settle the problems of administration, Sultan Ali was given the district of Muar while Temenggong Ibrahim ruled the remaining districts in Johor. The war was triggered on 25 October 1879 because Sultan Ali crowned his 11-year-old son named Tengku Mahmood as his successor after his death, resulting in Tengku Alam's fury and envy. He also felt unsatisfied when Colonel Archibald Anson put the district of Muar under Maharaja Abu Bakar's temporary administration. He began his moves by asking his cousins Tengku Nong and Tengku Mat to spread false information to the residents of Muar district to be on his side. He also gathered some powerful warriors for the battle. Tengku Alam and his followers launched the first blow of the war by attacking Jementah on 25 October 1879 and winning the battle. As a result, the headman of Jementah sent reports to the ruler of Johor and Maharaja Abu Bakar responded by sending a powerful army of soldiers led by his cousin, Ungku Ahmad. Ungku Ahmad was a great tactician who contributed to Johor's rapid victory. Dato' Mohammed Salleh bin Perang, also known as Dato' Bentara Luar, was sent to the battlefield by the government on 2 December 1879 to assist the government army. As a strategy, he split the Johor government army into four parts to fight enemies easier. Each component contained about 100 soldiers. During the middle of December 1879, the government army conquered more enemy strongholds and finally gained total victory at dawn on 30 December 1879 after a surprise attack on the enemy's final redoubt. Since then, the original District of Muar which included Segamat was re-occupied by the government of Johor."
+}, {
+  "entityIndex" : "entity26020",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Taiwan_(1874)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "6 killed", "~30 wounded" ],
+    "dbo:combatant" : [ "Paiwan" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Saigō_Tsugumichi", "http://dbpedia.org/resource/Tauketok" ],
+    "dbo:notes" : [ "*531 Japanese troops are said to have died of disease during the expedition and occupation." ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Qing_dynasty", "http://dbpedia.org/resource/Fujian_Province", "http://dbpedia.org/resource/Taiwan_under_Qing_rule" ],
+    "dbo:result" : [ "Japanese military victory", "occupation of Taiwan", "payment of indemnity by China to Japan" ],
+    "dbo:strength" : [ "Sea:", "unknown", "Land:", "3,600" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Soldiers_of_the_Japanese_expedition_in_Taiwan.jpg?width=300" ],
+    "dbp:caption" : [ "--05-22" ],
+    "dbp:casualties" : [ "~30 killed" ],
+    "dbp:casus" : [ "Botan/Mudan Incident" ],
+    "dbp:date" : [ "May 1874" ],
+    "dbp:p" : [ "Táiwān shēngfān" ],
+    "dbp:partof" : [ "the Formosa Conflict" ],
+    "dbp:t" : [ "臺灣生番" ],
+    "dbp:territory" : [ "Occupation of Taiwan by Japan" ]
+  },
+  "text" : "The Japanese punitive expedition to Taiwan in 1874, referred to in Japan as the Taiwan Expedition (Japanese: 台湾出兵 Hepburn: Taiwan Shuppei) and in Taiwan and mainland China as the Mudan incident (Chinese: 牡丹社事件), was a punitive expedition launched by the Japanese in retaliation for the murder of 54 Ryukyuan sailors by Paiwan aborigines near the southwestern tip of Taiwan in December 1871. The success of the expedition, which marked the first overseas deployment of the Imperial Japanese Army and Imperial Japanese Navy, revealed the fragility of the Qing dynasty's hold on Taiwan and encouraged further Japanese adventurism. Diplomatically, Japan's embroilment with China in 1874 was eventually resolved by a British arbitration under which Qing China agreed to compensate Japan for property damage. Some ambiguous wording in the agreed terms were later argued by Japan to be confirmation of Chinese renunciation of suzerainty over the Ryukyu Islands, paving the way for de facto Japanese incorporation of Ryukyu in 1879."
+}, {
+  "entityIndex" : "entity26021",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_French_Indochina",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1000 killed and wounded" ],
+    "dbo:combatant" : [ "*French Indochina" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Takuma_Nishimura", "http://dbpedia.org/resource/Akihito_Nakamura", "http://dbpedia.org/resource/Maurice_Martin_(General)" ],
+    "dbo:date" : [ "1940-09-26" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Second_Sino-Japanese_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/French_Indochina" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:strength" : [ "3,000 men", "36,000 men" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese_troops_entering_Saigon_in_1941.jpg?width=300" ],
+    "dbp:caption" : [ "Japanese troops entering Saigon." ],
+    "dbp:casualties" : [ "824" ],
+    "dbp:territory" : [ "Japanese occupation of Northern French Indochina" ]
+  },
+  "text" : "In September 1940, the Japanese invaded Vichy French Indochina (仏印進駐 Futsu-in shinchū) to prevent the Republic of China from importing arms and fuel through French Indochina along the Sino-Vietnamese Railway, from the port of Haiphong through Hanoi to Kunming in Yunnan. The fighting, which lasted several days before the French authorities reached an agreement with the Japanese, took place in the context of the ongoing Sino-Japanese War and World War II. Japan was able to occupy Tonkin in northern Indochina, tightening the blockade of China and making a continuation of the drawn-out Battle of South Guangxi unnecessary."
+}, {
+  "entityIndex" : "entity26022",
+  "entityUrl" : "http://dbpedia.org/resource/Jewish_revolt_against_Constantius_Gallus",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Minimal" ],
+    "dbo:combatant" : [ "22pxRoman Empire", "Jews of Palestine" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ursicinus_(Roman_general)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Syria_Palaestina" ],
+    "dbo:result" : [ "Decisive Roman victory, destruction of several cities" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Vexilloid_of_the_Roman_Empire.svg?width=300" ],
+    "dbp:casualties" : [ "Several thousand rebels killed" ],
+    "dbp:commander" : [ "Patricius", "Isaac of Diocesarea" ],
+    "dbp:date" : [ "351" ]
+  },
+  "text" : "In 351–352 the Jews of Roman Palaestina revolted against the rule of Constantius Gallus, brother-in-law of Emperor Constantius II and Caesar of the Eastern Roman Empire. The revolt was crushed by Gallus' general Ursicinus."
+}, {
+  "entityIndex" : "entity26023",
+  "entityUrl" : "http://dbpedia.org/resource/Jewish_revolt_against_Heraclius",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Tens of thousands" ],
+    "dbo:combatant" : [ "Byzantine Empire", "*Jewishallies", "Sasanian Empire," ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Modestus_of_Jerusalem", "http://dbpedia.org/resource/Heraclius", "http://dbpedia.org/resource/Benjamin_of_Tiberias", "http://dbpedia.org/resource/Shahrbaraz", "http://dbpedia.org/resource/Nehemiah_ben_Hushiel", "http://dbpedia.org/resource/Zacharias_of_Jerusalem" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Byzantine–Sasanian_War_of_602–628" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Palaestina_Prima" ],
+    "dbo:result" : [ "*Expulsion of Jews from the region", "Jewish surrender and expulsion", "*Byzantine defeat and temporal rule of Persians and Jews over parts ofDiocese of the East", "*Brief restoration of Byzantine (Eastern Roman) rule 630–640" ],
+    "dbo:strength" : [ "Byzantine Empire", "Sasanian Empire", "*20,000 or 26,000 Jewish rebels", "*Byzantine Army", "*Christian rebels", "*Sassanian army" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Palaestina_Prima", "http://dbpedia.org/resource/Palaestina_Secunda" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Byzantine-persian_campaigns_611-624-mohammad_adil_rais.PNG?width=300" ],
+    "dbp:casualties" : [ "Tens of thousands" ],
+    "dbp:date" : [ "614" ]
+  },
+  "text" : "The Jewish revolt against Heraclius was part of the Byzantine–Sasanian War of 602–628 and is considered the last serious Jewish attempt for gaining autonomy in the Land of Israel prior to modern times. Many historians view this war as marking the end of antiquity. According to a recent theory, the revolt and the general Byzantine-Persian War took place during the Late Antique Little Ice Age, which marked the decline of the classic empires, demographic and economic collapse across the Near East and rise of the opportunistic forces, such as Muslim Arabs and Turks. Following the Battle of Antioch in 613, Shahrbaraz led his forces through Palaestina Secunda and into Palaestina Prima provinces. In 614, Shahrbaraz conquered Caesarea Maritima, the administrative capital of the Palaestina Prima province. The Persian army reinforced by Jewish forces led by Nehemiah ben Hushiel and Benjamin of Tiberias would shortly capture Jerusalem without resistance. After only a few months a Christian revolt occurred. Nehemiah ben Hushiel and his council of sixteen righteous were killed along with many other Jews, some throwing themselves off the city walls. Christians were able to briefly retake the city before the walls were breached by Shahrbaraz’s forces who lay siege to the city. According to the Armenian bishop and historian Sebeos the siege resulted in a total Christian death toll of 17,000, Christian sources later exaggerated the extent of the massacre, claiming a death toll as high as 90,000. In addition 35,000 or 37,000 people including the patriarch Zacharias are said to have been deported to Mesopotamia. The city is said to have been burnt down. However, neither wide spread burning nor destruction of churches have been found in the archaeological record. Bands of Jews from Jerusalem, Tiberias, Galilee, Damascus, and even from Cyprus, united and undertook an incursion against Tyre, having been invited by the 4,000 Jewish inhabitants of that city to surprise and massacre the Christians on Easter night. The Jewish army is said to have consisted of 20,000 men. The expedition, however, miscarried, as the Christians of Tyre learned of the impending danger, and seized the 4,000 Tyrian Jews as hostages. The Jewish invaders destroyed the churches around Tyre, an act which the Christians avenged by killing two thousand of their Jewish prisoners. The besiegers, to save the remaining prisoners, withdrew. The Jews had hoped that Khosrau II would give them all of the Land of Israel in exchange for their support. By 617 CE the Persians had reversed their policy and sided with the Christians over the Jews, probably because of pressure from Mesopotamian Christians in Persia itself. By 622 CE, the Roman Emperor Heraclius had assembled an army to retake the territory lost to the Sasanian Empire. In 628, following the deposition of Khosrau II, Kavadh II made peace with Heraclius, but Kavadh II would only have a brief reign. It is said that Benjamin even accompanied Heraclius on his voyage to Jerusalem and Benjamin was persuaded to convert, Benjamin obtained a general pardon for himself and the Jews. On 21 March 630, Emperor Heraclius marched in triumph into Jerusalem with the True Cross. A general massacre of the Jewish population ensued. The massacre devastated the Jewish communities of the Galilee and Jerusalem. Only those Jews who could flee to the mountains or Egypt are said to have been spared. Some historians believe the war reduced and weakened the Christian population not just in Jerusalem but across the Near East, allowing the success of the following Arab invasion. However, over the past thirty years the archaeological evidence has not supported the ancient manuscripts which record the devastation of the Christian community in Jerusalem."
+}, {
+  "entityIndex" : "entity26024",
+  "entityUrl" : "http://dbpedia.org/resource/Jiangqiao_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3,000 (Japanese estimate)" ],
+    "dbo:combatant" : [ "Imperial Japanese Army,Empire of Japan", "National Revolutionary Army,Republic of China" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ma_Zhanshan", "http://dbpedia.org/resource/Jirō_Tamon" ],
+    "dbo:date" : [ "1931-11-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Heilongjiang", "http://dbpedia.org/resource/Manchuria", "http://dbpedia.org/resource/Republic_of_China_(1912–1949)" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:strength" : [ "23,000", "3,500" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/IJA_Infantry_in_Manchuria.jpg?width=300" ],
+    "dbp:caption" : [ "Japanese infantry advances in Manchuria after the Mukden Incident" ],
+    "dbp:casualties" : [ "300" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Jiangqiao Campaign was a series of battles and skirmishes occurring after the Mukden Incident, during the invasion of Manchuria by the Imperial Japanese Army, prior to the Second Sino-Japanese War."
+}, {
+  "entityIndex" : "entity26025",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Manchuria",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "?" ],
+    "dbo:combatant" : [ "Empire of Japan", "Republic of China", "*22px|borderNational Revolutionary Army", "*22x20px|borderImperial Japanese Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Zhang_Xueliang", "http://dbpedia.org/resource/Ma_Zhanshan", "http://dbpedia.org/resource/Jirō_Tamon", "http://dbpedia.org/resource/Hideki_Tojo", "http://dbpedia.org/resource/Ting_Chao", "http://dbpedia.org/resource/Senjuro_Hayashi", "http://dbpedia.org/resource/Shigeru_Honjō", "http://dbpedia.org/resource/Feng_Zhanhai" ],
+    "dbo:date" : [ "1931-09-18", "1932-02-27" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Manchuria", "http://dbpedia.org/resource/Republic_of_China_(1912–1949)" ],
+    "dbo:result" : [ "Japanese victory", "Tanggu Truce" ],
+    "dbo:strength" : [ "160,000 men", "30,000 – 60,450 men" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese_troops_entering_Tsitsihar.jpg?width=300" ],
+    "dbp:bot" : [ "medic" ],
+    "dbp:caption" : [ "--09-18" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:date" : [ "May 2016" ]
+  },
+  "text" : "The Japanese invasion of Manchuria began on September 18, 1931, when the Kwantung Army of the Empire of Japan invaded Manchuria immediately following the Mukden Incident. The Japanese established a puppet state called Manchukuo, and their occupation lasted until the end of World War II."
+}, {
+  "entityIndex" : "entity26026",
+  "entityUrl" : "http://dbpedia.org/resource/Jaffna_University_Helidrop",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "35 killed", "1 captured" ],
+    "dbo:combatant" : [ "Liberation Tigers of Tamil Eelam", "India" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Velupillai_Prabhakaran", "http://dbpedia.org/resource/Depinder_Singh", "http://dbpedia.org/resource/Harkirat_Singh_(Major_General)" ],
+    "dbo:date" : [ "1987-10-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sri_Lankan_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Jaffna,_Sri_Lanka" ],
+    "dbo:result" : [ "LTTEtactical victory" ],
+    "dbo:strength" : [ "150", "Unknown" ],
+    "dbp:casualties" : [ "Unknown" ]
+  },
+  "text" : "The Jaffna University Helidrop was the first of the operations launched by the Indian Peace Keeping Forces (IPKF) aimed at disarming the Liberation Tigers of Tamil Eelam (LTTE) by force and securing the town of Jaffna, Sri Lanka, in the opening stages of Operation Pawan during the active Indian mediation in the Sri Lankan Civil War. Mounted on the midnight of 12 October 1987, the operation was planned as a fast heliborne assault involving Mi-8's of the No.109 HU, the 10th Para Commandos and a contingent of the 13th Sikh LI. The aim of the operation was to capture the LTTE leadership at Jaffna University building which served as the Tactical Headquarters of the LTTE, which was expected to shorten Operation Pawan, the battle for Jaffna. However, the operation ended disastrously, failing to capture its objectives due to intelligence and planning failures. The helidropped force suffered significant casualties, with nearly the entire Sikh LI detachment of twenty-nine troops, along with six paracommandos, falling in battle."
+}, {
+  "entityIndex" : "entity26027",
+  "entityUrl" : "http://dbpedia.org/resource/Jinzhou_Operation",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3,000 (Japanese estimate)" ],
+    "dbo:combatant" : [ "Imperial Japanese Army,Empire of Japan", "National Revolutionary Army,Anti-Japanese Volunteer Armies,Republic of China" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Zhang_Xueliang", "http://dbpedia.org/resource/Jirō_Tamon" ],
+    "dbo:date" : [ "1931-12-21" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Second_Sino-Japanese_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Liaoning", "http://dbpedia.org/resource/Manchuria", "http://dbpedia.org/resource/Republic_of_China_(1912–1949)" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:strength" : [ "12,000 men", "84,000 men" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/IJA_artillery_in_Manchuria.jpg?width=300" ],
+    "dbp:caption" : [ "Japanese artillery in Manchuria after the Mukden Incident" ],
+    "dbp:casualties" : [ "300" ]
+  },
+  "text" : "The Jinzhou (Chinchow) Operation was an operation in 1931 during the Japanese invasion of Manchuria, which was a preliminary, contributing factor to the outbreak of the Second Sino-Japanese War in 1937."
+}, {
+  "entityIndex" : "entity26028",
+  "entityUrl" : "http://dbpedia.org/resource/Joint_Expedition_against_Franklin",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "5KIA, 21 wounded" ],
+    "dbo:combatant" : [ "Confederate States Army", "Union Army", "Union Navy" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Collett_Leventhorpe", "http://dbpedia.org/resource/James_K._Marshall", "http://dbpedia.org/resource/Charles_W._Flusser", "http://dbpedia.org/resource/Samuel_P._Spear", "http://dbpedia.org/resource/Edmund_R._Colhoun" ],
+    "dbo:date" : [ "1862-10-03" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Blackwater_River_(Virginia)", "http://dbpedia.org/resource/Franklin,_Virginia" ],
+    "dbo:result" : [ "Confederate victory" ],
+    "dbo:strength" : [ "1,300Infantry", "10,000–12,000Infantry", "3Gunboats", "w/1 ×Artillerysection" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Virginia_BattleField_map_JEAF_extract.jpg?width=300" ],
+    "dbp:caption" : [ "Extract from 1892 map detailing the subject area. The Blackwater River flows north-south in the left of the image. The image measures approximately  × , or ." ],
+    "dbp:casualties" : [ "estimated 70&ndash;100" ],
+    "dbp:latitude" : [ "36.6747" ],
+    "dbp:longitude" : [ "-76.9306" ],
+    "dbp:mapCaption" : [ "Franklin, Virginia" ],
+    "dbp:mapType" : [ "Virginia" ]
+  },
+  "text" : "The Joint Expedition Against Franklin was a joint engagement between the United States Army & Navy against the Confederate States Army during the American Civil War. The engagement was intended to move Union forces into an area where Confederate forces were gathering as they prepared to move on Suffolk, Virginia. Originally planned as a coordinated two-pronged attack with a naval flotilla supporting an infantry advance on Franklin, Virginia, communications delays caused the Union Navy to start the mission before the Army was ready to support it. Instead, October 3, 1862 found Union Naval forces on the Blackwater River greatly outnumbered by Confederate infantrymen and ultimately forced to retreat. The naval action alone is also known as the Action at Crumpler's Bluff or the Battle of Crumpler's Bluff. Simultaneously, a nearby Army reconnaissance team conducted a failed assault on the town on the basis that the audibly nearby Naval forces—which they did not know were then in retreat—would bring support. The outcome left the Union forces with a combined 5 casualties and 21 wounded. Dialogue between officers following the conflict left the Union navy questioning the usefulness of gunboats in joint expedition settings in which they would not be capable of supporting themselves."
+}, {
+  "entityIndex" : "entity26029",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Taiwan_(1895)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Died from disease: 4,642 1,432 killed,unkown wounded.", "Killed: 164", "Wounded: 515" ],
+    "dbo:combatant" : [ "Republic of Formosa", "various militia forces" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Kabayama_Sukenori", "http://dbpedia.org/resource/Tang_Ching-sung", "http://dbpedia.org/resource/Liu_Yung-fu", "http://dbpedia.org/resource/Arichi_Shinanojo" ],
+    "dbo:date" : [ "1895-10-21" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Taiwan", "http://dbpedia.org/resource/Penghu_Islands" ],
+    "dbo:result" : [ "7-year insurgency", "Japanese victory. Extinction of theRepublic of Formosa" ],
+    "dbo:strength" : [ "7,000, rising to 37,000 by October 1895", "around a dozen warships", "75,000 (ex-Qing regulars, local volunteers andHakkamilitia)" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Taiwan" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese_Invasion_of_Taiwan-1895.jpg?width=300" ],
+    "dbp:c" : [ "乙未戰爭", "布袋嘴", "茄苳腳" ],
+    "dbp:caption" : [ "Japanese operations in Taiwan, 1895" ],
+    "dbp:casualties" : [ "Killed: 14,000 including civilian casualties" ],
+    "dbp:casus" : [ "http://dbpedia.org/resource/First_Sino-Japanese_War", "Treaty of Shimonoseki" ],
+    "dbp:j" : [ "乙未戰爭" ],
+    "dbp:p" : [ "Shiqiuling paotai" ],
+    "dbp:poj" : [ "Ka-tang-kha", "Pò͘-tē-chhùi" ],
+    "dbp:t" : [ "獅球嶺砲台" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Japanese invasion of Taiwan (Chinese and Japanese: 乙未戰爭) (May–October 1895) was a conflict between the Empire of Japan and the armed forces of the short-lived Republic of Formosa following the Qing Dynasty's cession of Taiwan to Japan in April 1895 at the end of the First Sino-Japanese War. The Japanese sought to take control of their new possession, while the Republican forces fought to resist Japanese occupation. The Japanese landed near Keelung on the northern coast of Taiwan on 29 May 1895, and in a five-month campaign swept southwards to Tainan. Although their advance was slowed by guerrilla activity, the Japanese defeated the Formosan forces (a mixture of regular Chinese units and local Hakka militias) whenever they attempted to make a stand. The Japanese victory at Baguashan on 27 August, the largest battle ever fought on Taiwanese soil, doomed the Formosan resistance to an early defeat. The fall of Tainan on 21 October ended organised resistance to Japanese occupation, and inaugurated five decades of Japanese rule in Taiwan."
+}, {
+  "entityIndex" : "entity26030",
+  "entityUrl" : "http://dbpedia.org/resource/Jeltoqsan",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "168-200 civilians killed", "More than 200 injured" ],
+    "dbo:combatant" : [ "*KGB", "*OMON", "Kazakh protesters" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Gennady_Kolbin", "http://dbpedia.org/resource/Mikhail_Gorbachev" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kazakh_Soviet_Socialist_Republic", "http://dbpedia.org/resource/Soviet_Union", "http://dbpedia.org/resource/Almaty" ],
+    "dbo:result" : [ "Massacre of civilians" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Jeltoqsan_scene.jpg?width=300" ],
+    "dbp:caption" : [ "A depiction of the Jeltoqsan events on Republic Square in Almaty" ],
+    "dbp:commander" : [ "?" ],
+    "dbp:date" : [ "--12-16" ]
+  },
+  "text" : "The Jeltoqsan (Kazakh: Желтоқсан көтерілісі) or \"December\" of 1986 were riots that took place in Alma-Ata (present day Almaty), Kazakhstan, in response to General Secretary Mikhail Gorbachev's dismissal of Dinmukhamed Konayev, the First Secretary of the Communist Party of Kazakhstan and an ethnic Kazakh, and his appointment of Gennady Kolbin, an outsider from the Russian SFSR. Some sources cite Kolbin's ethnicity as Russian, others as Chuvash. The events lasted from 16 December until 19 December 1986. The protests began in the morning of 17 December, as a student demonstration attracted thousands of participants as they marched through Brezhnev Square across to the CPK Central Committee building. As internal troops and OMON forces entered the city, violence erupted throughout the city, capital of Kazakhstan until 1987. In the following days, protests spread to Shymkent, Taldykorgan, and Karaganda."
+}, {
+  "entityIndex" : "entity26031",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Malaya",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "68 killed", "360 wounded", "37 missing" ],
+    "dbo:combatant" : [ "*", "British Empire:" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Arthur_Percival", "http://dbpedia.org/resource/Tomoyuki_Yamashita", "http://dbpedia.org/resource/Billy_Key", "http://dbpedia.org/resource/Arthur_Edward_Barstow", "http://dbpedia.org/resource/Lewis_Heath", "http://dbpedia.org/resource/Renya_Mutaguchi", "http://dbpedia.org/resource/Shintarō_Hashimoto", "http://dbpedia.org/resource/Arthur_Edward_Cumming", "http://dbpedia.org/resource/Conway_Pulford", "http://dbpedia.org/resource/Hiroshi_Takumi" ],
+    "dbo:date" : [ "1941-12-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Battle_of_Malaya" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/British_Malaya" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:strength" : [ "1 light cruiser", "N/A", "4 destroyers", "3 troopships", "2 minesweepers", "1 submarine chaser", "5,300 infantry" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bachok_Beach.jpg?width=300" ],
+    "dbp:caption" : [ "Bachok Beach, Kota Bharu, July 1941, possibly one of the Japanese landing points." ],
+    "dbp:casualties" : [ "3", "320", "538" ],
+    "dbp:units" : [ "5", "9", "11", "18", "http://dbpedia.org/resource/No._21_Squadron_RAAF", "http://dbpedia.org/resource/No._8_Squadron_RAAF", "http://dbpedia.org/resource/Imperial_Japanese_Navy", "http://dbpedia.org/resource/Indian_III_Corps", "http://dbpedia.org/resource/No._1_Squadron_RAAF", "http://dbpedia.org/resource/No._453_Squadron_RAAF", "http://dbpedia.org/resource/No._36_Squadron_RAF", "http://dbpedia.org/resource/No._62_Squadron_RAF", "http://dbpedia.org/resource/No._27_Squadron_RAF", "http://dbpedia.org/resource/Twenty-Fifth_Army_(Japan)", "http://dbpedia.org/resource/No._205_Squadron_RAF", "Australia:", "British India:" ]
+  },
+  "text" : "The Japanese Invasion of Malaya began just after midnight on 8 December 1941 (local time) before the attack on Pearl Harbor. It was the first major battle of the Pacific War, and was fought between ground forces of the British Indian Army and the Empire of Japan. Kota Bharu, capital of Kelantan State on Malaysia's northeast coast, was, in 1941, the Royal Air Force's (RAF) and Royal Australian Air Force's (RAAF) base of operations in Northern Malaya. There was an airstrip at Kota Bharu and two more at Gong Kedah and Machang. Japanese losses were significant because of sporadic Australian air attacks, Indian coastal defences, and artillery fire."
+}, {
+  "entityIndex" : "entity26032",
+  "entityUrl" : "http://dbpedia.org/resource/Johnson_South_Reef_Skirmish",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 wounded" ],
+    "dbo:date" : [ "1988-03-14" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sino-Vietnamese_conflicts_1979–90", "http://dbpedia.org/resource/Spratly_Islands_dispute" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Johnson_South_Reef" ],
+    "dbo:result" : [ "Chinese victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Union_Banks_en.svg?width=300" ],
+    "dbp:c" : [ "赤瓜礁海战" ],
+    "dbp:caption" : [ "Map of the Union Banks, where the battle occurred" ],
+    "dbp:casualties" : [ "1", "9", "11", "64" ],
+    "dbp:commander" : [ "Chen Weiwen", "Deputy Brigadier Tran Duc Thong;", "Le Lenh Son, CO HQ-605;", "Vu Huy Le, CO HQ-505", "Vu Phi Tru, CO HQ-604;" ],
+    "dbp:f" : [ "h" ],
+    "dbp:l" : [ "test", "Naval Battle of Chigua Reef" ],
+    "dbp:p" : [ "Chìguā jiāo hǎizhàn" ],
+    "dbp:units" : [ "502", "531", "556", "HQ-505  landing craft;", "HQ-604 armed transporter;", "HQ-605 armed transporter" ],
+    "dbp:v" : [ "Hải chiến Trường Sa" ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Johnson South Reef Skirmish of 1988 (Chinese: 赤瓜礁海战; pinyin: Chìguā jiāo hǎizhàn; literally: \"Naval Battle of Chigua Reef\"; Vietnamese: Hải chiến Trường Sa, lit: \"Spratly Islands naval battle\", or Vietnamese: Hải chiến Gạc Ma, lit: \"Johnson South Reef naval battle\") was a naval battle that took place between Chinese and Vietnamese forces over Johnson South Reef in the Spratly Islands on 14 March 1988."
+}, {
+  "entityIndex" : "entity26033",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_occupation_of_the_Philippines",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*", "*Philippine Commonwealth", "Hukbalahap" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Douglas_MacArthur", "http://dbpedia.org/resource/Luis_Taruc", "http://dbpedia.org/resource/General_of_the_Army", "http://dbpedia.org/resource/Major_General", "http://dbpedia.org/resource/Manuel_L._Quezon", "http://dbpedia.org/resource/José_P._Laurel", "http://dbpedia.org/resource/Sergio_Osmeña" ],
+    "dbo:date" : [ "1942-05-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/US_propaganda_and_Japanese_soldier.jpg?width=300" ],
+    "dbp:caption" : [ "A Japanese soldier standing in front of an American propaganda poster during the occupation of the Philippines in 1943." ],
+    "dbp:combatant3a" : [ "Unaffiliated Moro Muslim insurgents" ],
+    "dbp:units" : [ "Second Philippine Republic", ";Armed Forces", "Hukbalahap fighters" ]
+  },
+  "text" : "The Japanese occupation of the Philippines occurred between 1942 and 1945, when the Empire of Japan occupied the Commonwealth of the Philippines during World War II. The invasion of the Philippines started on 8 December 1941, ten hours after the attack on Pearl Harbor. As at Pearl Harbor, American aircraft were severely damaged in the initial Japanese attack. Lacking air cover, the American Asiatic Fleet in the Philippines withdrew to Java on 12 December 1941. General Douglas MacArthur was ordered out, leaving his men at Corregidor on the night of 11 March 1942 for Australia, 4,000 km away. The 76,000 starving and sick American and Filipino defenders on Bataan surrendered on 9 April 1942, and were forced to endure the infamous Bataan Death March on which 7,000–10,000 died or were murdered. The 13,000 survivors on Corregidor surrendered on 6 May. Japan occupied the Philippines for over three years, until the surrender of Japan. A highly effective guerilla campaign by Philippine resistance forces controlled sixty percent of the islands, mostly jungle and mountain areas. MacArthur supplied them by submarine, and sent reinforcements and officers. Filipinos remained loyal to the United States, partly because of the American guarantee of independence, and also because the Japanese had pressed large numbers of Filipinos into work details and even put young Filipino women into brothels. General MacArthur kept his promise to return to the Philippines on 20 October 1944. The landings on the island of Leyte were accompanied by a force of 700 vessels and 174,000 men. Through December 1944, the islands of Leyte and Mindoro were cleared of Japanese soldiers. During the campaign, the Imperial Japanese Army conducted a suicidal defense of the islands. Cities such as Manila (the second most destroyed Allied city in WWII) were reduced to rubble. Between 500,000 and 1,000,000 Filipinos died during the occupation."
+}, {
+  "entityIndex" : "entity26034",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_conquest_of_Burma",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ ")", "1,499 killed", "11,964 wounded", "116 aircraft (RAF)", "30,000 total casualties", "50,000 killed, captured, or missing", "95 aircraft (", "AVG", "~100 tanks" ],
+    "dbo:combatant" : [ "China", "Allies:", "Axis:", "Thailand", "British Burma", "Burma National Army" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis", "http://dbpedia.org/resource/Burma", "http://dbpedia.org/resource/Republic_of_China", "http://dbpedia.org/resource/Luo_Zhuoying", "http://dbpedia.org/resource/Aung_San", "http://dbpedia.org/resource/Jarun_Rattanakun_Seriroengrit", "http://dbpedia.org/resource/Archibald_Wavell,_1st_Earl_Wavell", "http://dbpedia.org/resource/Thomas_Hutton", "http://dbpedia.org/resource/Shojiro_Iida" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Burma_Campaign" ],
+    "dbo:result" : [ "Axis victory", "*End ofBritish rule in Burma", "*Establishment of theState of Burma" ],
+    "dbo:strength" : [ "95,000", "85,000", "42,000-47,000" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Shan_State", "http://dbpedia.org/resource/Japanese_occupation_of_Burma" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/IJA_15th_Army_on_border_of_Burma.jpg?width=300" ],
+    "dbp:accessdate" : [ "2007-11-19" ],
+    "dbp:caption" : [ "Troops of Japanese Fifteenth Army on the border of Burma" ],
+    "dbp:casualties" : [ "117", "4597" ],
+    "dbp:date" : [ "20091027105102", "1946-09-17", "January – May 1942" ],
+    "dbp:endpage" : [ "4671" ],
+    "dbp:issue" : [ "37728" ],
+    "dbp:place" : [ "Burma" ],
+    "dbp:startpage" : [ "4663" ],
+    "dbp:supp" : [ "yes" ],
+    "dbp:title" : [ "Thailand's Northern Campaign in the Shan States 1942–45" ],
+    "dbp:url" : [ "http://geocities.com/thailandwwii/shans.html" ]
+  },
+  "text" : "The Japanese conquest of Burma was the opening chapter of the Burma Campaign in the South-East Asian Theatre of World War II, which took place over four years from 1942 to 1945. During the first year of the campaign, the Japanese Army (with aid from Thai forces and Burmese insurgents) drove British Empire and Chinese forces out of Burma, then began the Japanese occupation of Burma and formed a nominally independent Burmese administrative government."
+}, {
+  "entityIndex" : "entity26035",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_occupation_of_Kiska",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "2 killed", "7 captured", "1 escaped (later surrendered)" ],
+    "dbo:combatant" : [ "*United States Navy", "*Imperial Japanese Navy", "*Special Naval Landing Forces" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Boshiro_Hosogaya", "http://dbpedia.org/resource/Lieutenant", "http://dbpedia.org/resource/Monzo_Akiyama", "http://dbpedia.org/resource/Kiichiro_Higuchi", "http://dbpedia.org/resource/Takeji_Ono" ],
+    "dbo:date" : [ "1942-06-06" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_War", "http://dbpedia.org/resource/American_Theater_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Kiska", "http://dbpedia.org/resource/Aleutian_Islands" ],
+    "dbo:result" : [ "Japanese occupation commences" ],
+    "dbo:strength" : [ "3 aircraft", "+500Special Naval Landing Forces(Initial force)", "1-6 dogs", "10-manweather station", "5,183-5,400 civilians and soldiers (Occupation)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/JapaneseKiska.jpg?width=300" ],
+    "dbp:caption" : [ "--06-06" ],
+    "dbp:casualties" : [ "No casualties during initial capture, or during occupation/withdraw." ],
+    "dbp:wordnet_type" : [ "http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" ]
+  },
+  "text" : "The Japanese occupation of Kiska took place between 6 June 1942 and 28 July 1943 during the Aleutian Islands Campaign of the American Theater and the Pacific Theater of World War II. The Japanese occupied Kiska and nearby Attu Island in order to protect the northern flank of the Japanese Empire."
+}, {
+  "entityIndex" : "entity26036",
+  "entityUrl" : "http://dbpedia.org/resource/Jabidah_massacre",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ismail_Nasiruddin_of_Terengganu", "http://dbpedia.org/resource/Mustapha_Harun", "http://dbpedia.org/resource/Tunku_Abdul_Rahman", "http://dbpedia.org/resource/Ferdinand_Marcos" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/North_Borneo_dispute" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Philippines", "http://dbpedia.org/resource/Sabah", "http://dbpedia.org/resource/Malaysia" ],
+    "dbo:result" : [ "* Beginning ofMoro insurgency", "* Jabidah massacre", "Mutiny", "* Malaysia temporarily suspendsdiplomatic tieswith Philippines" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Recreation_of_Jabidah_unit_patch.png?width=300" ],
+    "dbp:date" : [ "1967" ]
+  },
+  "text" : "The Jabidah massacre was the alleged killing of Moro soldiers by members of the Armed Forces of the Philippines (AFP) on 18 March 1968. It is also known as the Corregidor massacre as the killing took place on Corregidor Island in the Philippines. The state, at that point in time, had suppressed the affair in the interest of national unity which therefore led to little or no documentation on the incident. This then led to speculations on the number of trainees killed, varying from 11 to 68 and the reasons behind the massacre. Some authors believe that the massacre never happened."
+}, {
+  "entityIndex" : "entity26037",
+  "entityUrl" : "http://dbpedia.org/resource/Jordanian_campaign_(1967)",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "550 killed, 2,400 wounded" ],
+    "dbo:combatant" : [ "Iraq" ],
+    "dbo:date" : [ "1967-06-07" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Six-Day_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/West_Bank" ],
+    "dbo:result" : [ "Israeli victory, Israel seizes the West Bank, including East Jerusalem" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/1967_Six_Day_War_-_The_Jordan_salient.jpg?width=300" ],
+    "dbp:caption" : [ "--06-05" ],
+    "dbp:casualties" : [ "Iraq: 10 killed, 30 wounded", "Jordan: 700 killed, 2,500 wounded" ],
+    "dbp:commanders" : [ "King Hussein", "Moshe Dayan", "Uzi Narkiss" ]
+  },
+  "text" : "The Jordanian campaign of 1967 was part of the broader Six-Day War, in which Israel inflicted a devastating defeat on Egypt, Syria, Jordan, and Iraq. For Israel, it was the most significant part of the war, as it resulted in the capture of many Jewish monuments by the Israelis."
+}, {
+  "entityIndex" : "entity26038",
+  "entityUrl" : "http://dbpedia.org/resource/John_Brown's_raid_on_Harpers_Ferry",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 killed", "1 wounded", "U.S. Marines:", "Virginia and Maryland Militia: Unknown" ],
+    "dbo:combatant" : [ "Abolitionist Insurgents" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Robert_E._Lee", "http://dbpedia.org/resource/John_Brown_(abolitionist)", "http://dbpedia.org/resource/Israel_Greene" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/West_Virginia", "http://dbpedia.org/resource/Harpers_Ferry" ],
+    "dbo:result" : [ "U.S. victory" ],
+    "dbo:strength" : [ "1 freed slave", "1 fugitive slave", "12 free black men", "8 white men", "88U.S. Marines", "Unknown number of Virginia Militia and Maryland Militia" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/HWFireHouseBrown.jpg?width=300" ],
+    "dbp:caption" : [ "Harper's Weekly illustration of U.S. Marines attacking John Brown's \"Fort\"" ],
+    "dbp:casualties" : [ "5", "6", "7", "9", "10", "Civilians:" ],
+    "dbp:date" : [ "--10-16" ]
+  },
+  "text" : "John Brown's raid on Harpers Ferry (also known as John Brown's raid or The raid on Harpers Ferry; in many books the town is called \"Harper's Ferry\") was an effort by white abolitionist John Brown to initiate an armed slave revolt in 1859 by taking over a United States arsenal at Harpers Ferry, Virginia. Brown's raid, accompanied by 21 men in his party, was defeated by a company of U.S. Marines from the Marine Barracks, 8th And I, Washington, DC, led by First Lieutenant Israel Greene, USMC. Colonel Robert E. Lee, USA, was in overall command of the operation to retake the arsenal. John Brown had originally asked Harriet Tubman and Frederick Douglass, both of whom he had met in his formative years as an abolitionist in Springfield, Massachusetts, to join him in his raid, but Tubman was prevented by illness, and Douglass declined, as he believed Brown's plan would fail."
+}, {
+  "entityIndex" : "entity26039",
+  "entityUrl" : "http://dbpedia.org/resource/June_Rebellion",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "73 killed, 344 wounded" ],
+    "dbo:combatant" : [ "July Monarchy", "*National Guards", "*Regular Army", "23px|borderRepublicans" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Georges_Mouton" ],
+    "dbo:date" : [ "1832-06-06" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Paris" ],
+    "dbo:result" : [ "Orléanistvictory, rebellion crushed" ],
+    "dbo:strength" : [ "3,000", "30,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/June_Rebellion.jpg?width=300" ],
+    "dbp:caption" : [ "An 1870 illustration depicting the rebellion" ],
+    "dbp:casualties" : [ "93" ],
+    "dbp:commander" : [ "23" ]
+  },
+  "text" : "The June Rebellion or the Paris Uprising of 1832 (French: Insurrection républicaine à Paris en juin 1832), was an anti-monarchist insurrection of Parisian republicans on 5 and 6 June 1832. The rebellion originated in an attempt of the republicans to reverse the establishment in 1830 of the July Monarchy of Louis-Philippe, shortly after the death of the king's powerful supporter, President of the Council Casimir Pierre Périer, on 16 May 1832. The death of Jean Maximilien Lamarque was a spark shortly before the revolutionaries rose to their barricades. The rebellion was the last outbreak of violence linked with the July Revolution of 1830. Author Victor Hugo described the rebellion in his novel Les Misérables, and it figures largely in the stage musical and films based on the book."
+}, {
+  "entityIndex" : "entity26040",
+  "entityUrl" : "http://dbpedia.org/resource/Jones-Imboden_Raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "30 killed", "1,000 head of cattle", "1,200 horses", "150,000 barrels of oil", "16 rail bridges", "700 prisoners", "Human casualties", "Livestock driven off", "Resources destroyed" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Robert_C._Schenck", "http://dbpedia.org/resource/John_D._Imboden", "http://dbpedia.org/resource/William_E._Jones", "http://dbpedia.org/resource/Benjamin_S._Roberts" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Virginia", "http://dbpedia.org/resource/Western_Maryland" ],
+    "dbo:result" : [ "Confederatevictory" ],
+    "dbo:strength" : [ "7,000", "45,000 (Total Middle Military Department)" ],
+    "dbp:caption" : [ "\"" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:date" : [ "&ndash;" ]
+  },
+  "text" : "The Jones-Imboden Raid was a Confederate military action conducted in western Virginia (now the state of West Virginia) in April and May 1863 during the American Civil War. The raid, led by Brig. Gens. William E. Jones and John D. Imboden, was aimed at disrupting traffic on the vital Baltimore and Ohio Railroad and reasserting Confederate authority in transmountain Virginia in an effort to derail the growing statehood movement in the region. The raid was successful from a military vantage as severe damage was inflicted upon the railroad and other critical Union resources and valuable supplies and recruits were obtained. From a political standpoint, however, the raid was a failure, having little effect on the sentiment for the formation of a new state."
+}, {
+  "entityIndex" : "entity26041",
+  "entityUrl" : "http://dbpedia.org/resource/Jacobite_rising_of_1745",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Jacobites" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Lord_George_Murray_(general)", "http://dbpedia.org/resource/John_Cope_(British_Army_officer)", "http://dbpedia.org/resource/Charles_Edward_Stuart", "http://dbpedia.org/resource/George_II_of_Great_Britain", "http://dbpedia.org/resource/Henry_Pelham", "http://dbpedia.org/resource/Prince_William,_Duke_of_Cumberland" ],
+    "dbo:date" : [ "1745-08-16" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Jacobite_risings" ],
+    "dbo:result" : [ "British Government victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/The_Battle_of_Culloden.jpg?width=300" ],
+    "dbp:caption" : [ "The Battle of Culloden by David Morier" ],
+    "dbp:place" : [ "Great Britain" ]
+  },
+  "text" : "The Jacobite rising of 1745 was the attempt by Charles Edward Stuart to regain the British throne for the exiled House of Stuart. The rising occurred during the War of the Austrian Succession when most of the British Army was on the European continent. Charles Edward Stuart, commonly known as \"Bonnie Prince Charlie\" or \"the Young Pretender\", sailed to Scotland and raised the Jacobite standard at Glenfinnan in the Scottish Highlands, where he was supported by a gathering of Highland clansmen. The march south began with an initial victory at Prestonpans near Edinburgh. The Jacobite army, now in bold spirits, marched onwards to Carlisle, over the border in England. When it reached Derby, some British divisions were recalled from the Continent and the Jacobite army retreated north to Inverness where the last battle on Scottish soil took place on a nearby moor at Culloden. The Battle of Culloden ended with the final defeat of the Jacobite cause, and with Charles Edward Stuart fleeing with a price on his head, before finally sailing to France."
+}, {
+  "entityIndex" : "entity26042",
+  "entityUrl" : "http://dbpedia.org/resource/July_12,_2007_Baghdad_airstrike",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbp:colwidth" : [ "30" ],
+    "dbp:date" : [ "2007-07-12" ],
+    "dbp:fatalities" : [ "Press reports of the number killed vary from 12 to \"over 18\". 2 journalists were killed, and 2 children were wounded." ],
+    "dbp:location" : [ "http://dbpedia.org/resource/Baghdad", "http://dbpedia.org/resource/Iraq", "http://dbpedia.org/resource/New_Baghdad" ],
+    "dbp:partof" : [ "the post-invasion Iraq War" ],
+    "dbp:perps" : [ "http://dbpedia.org/resource/United_States_Army" ],
+    "dbp:title" : [ "--07-12" ],
+    "dbp:type" : [ "http://dbpedia.org/resource/Airstrike" ]
+  },
+  "text" : "The July 12, 2007 Baghdad airstrikes were a series of air-to-ground attacks conducted by a team of two US AH-64 Apache helicopters in Al-Amin al-Thaniyah, New Baghdad during the Iraqi insurgency which followed the Iraq War. The attacks received worldwide coverage following the leaking of 39 minutes of classified gunsight footage in 2010, provoking ongoing global discussion on the legality and morality of the attacks. In the first strike, the crews of two Apaches directed 30mm cannon fire at a group of ten Iraqi men standing at a position (intersection) insurgents had previously used to shoot an American Humvee with small arms fire. Among the group were two Iraqi war correspondents working for Reuters, Saeed Chmagh and Namir Noor-Eldeen. Namir accomplished his objective with three photos of the Humvee which included the large dirt pile used as cover by insurgents to attack the Humvee earlier that morning. Seven men (including Noor-Eldeen) were killed during this first strike, and Saeed Chmagh was injured. The second strike, also using 30 mm rounds, was directed at a van whose driver, Saleh Matasher Tomal, appeared to happen to drive by and who proceeded to help the wounded Chmagh. However, in the long version of the video this van was targeted prior to the first engagement by one Apache (Crazyhorse 1/8) as it traveled south toward the Reuters employees who were, simultaneously, targeted by the other Apache (Crazyhorse 1/9) as they walked north on the same road toward the van. Minutes after the first engagement ended the van returned traveling in an opposite direction (north) once again on this same road. Two men assisting in the rescue effort were from a group of five standing at an intersection - seen in the upper right corner of the video when the Reuters employees arrive in the courtyard - reported to Apaches as being a second position combatants were using to attack the Humvee. Both of these men, Chmagh and Tomal, were killed in the second strike, and two of Tomal's children were badly wounded. In a third strike Apache pilots watched people flee into a building and engaged that building with several AGM-114 Hellfire missiles. Reuters had unsuccessfully requested the footage of the airstrikes under the Freedom of Information Act in 2007. The footage was acquired from an undisclosed source in 2009 by the leaks website WikiLeaks, which released the footage on April 5, 2010 under the name Collateral Murder. Recorded from the gunsight Target Acquisition and Designation System of one of the attacking helicopters, the video shows the incident and the radio chatter between the aircrews and ground units involved. An anonymous U.S. military official confirmed the authenticity of the footage."
+}, {
+  "entityIndex" : "entity26043",
+  "entityUrl" : "http://dbpedia.org/resource/Jingnan_Campaign",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "Unknown" ],
+    "dbo:combatant" : [ "Ming Government", "Prince of YanArmy" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Jianwen_Emperor", "http://dbpedia.org/resource/Zhang_Yu_(general)", "http://dbpedia.org/resource/Geng_Bingwen", "http://dbpedia.org/resource/Yongle_Emperor", "http://dbpedia.org/resource/Hongxi_Emperor", "http://dbpedia.org/resource/Prince_of_Yan", "http://dbpedia.org/resource/Zhu_Gaoxu" ],
+    "dbo:date" : [ "1399-08-08" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_China_Plain" ],
+    "dbo:result" : [ "*Fall ofNanjing", "*Zhu Di crowned theYongle Emperor", "Decisive Prince of Yan victory" ],
+    "dbo:strength" : [ "120,000", "500,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Jingnan_Campaign_(English).svg?width=300" ],
+    "dbp:c" : [ "靖難之役" ],
+    "dbp:caption" : [ "Map of Jingnan Campaign" ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:l" : [ "Pacification  of crisis" ],
+    "dbp:p" : [ "Jìnnàn Zīyì" ]
+  },
+  "text" : "Jingnan Campaign, or Jingnan Rebellion, was a civil war in the early years of the Ming Dynasty of China between the Jianwen Emperor and his uncle Zhu Di, the Prince of Yan. It started in 1399 and lasted for 3 years. The campaign ended after the forces of Prince of Yan captured the imperial capital Nanjing. The fall of Nanjing was followed by the demise of Jianwen Emperor, and Zhu Di was crowned the Yongle Emperor."
+}, {
+  "entityIndex" : "entity26044",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_occupation_of_Attu",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 civilian killed", "46 civilians captured" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Boshirō_Hosogaya", "http://dbpedia.org/resource/Yasuyo_Yamasaki", "http://dbpedia.org/resource/Matsutoshi_Hosumi" ],
+    "dbo:date" : [ "1942-06-06" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Pacific_War", "http://dbpedia.org/resource/American_Theater_(World_War_II)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Pacific_Ocean", "http://dbpedia.org/resource/Attu_Island", "http://dbpedia.org/resource/Aleutian_Islands" ],
+    "dbo:result" : [ "Japanese occupation commences." ],
+    "dbo:strength" : [ "N/A", "1,140 - 2,900" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/A6M2-N_Rufes_Holtz_Bay_1942.jpg?width=300" ],
+    "dbp:caption" : [ "--11-07" ],
+    "dbp:casualties" : [ "unknown" ],
+    "dbp:commander" : [ "N/A" ]
+  },
+  "text" : "The Japanese occupation of Attu was the result of an invasion of the Aleutian Islands during World War II. Imperial Japanese Army troops landed on 6 June 1942 at the same time as the invasion of Kiska. The occupation ended with the Allied victory in the Battle of Attu on 30 May 1943."
+}, {
+  "entityIndex" : "entity26045",
+  "entityUrl" : "http://dbpedia.org/resource/Jackson_Expedition",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "100 killed", "800 wounded", "100 missing" ],
+    "dbo:combatant" : [ "CSA (Confederacy)", "United States(Union)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Joseph_E._Johnston", "http://dbpedia.org/resource/William_T._Sherman" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/American_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Jackson,_Mississippi" ],
+    "dbo:result" : [ "Unionvictory" ],
+    "dbo:strength" : [ "30,000", "40,000" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Jacksonsiege.jpg?width=300" ],
+    "dbp:caption" : [ "--07-10" ],
+    "dbp:casualties" : [ "71", "504", "764" ],
+    "dbp:date" : [ "--07-05" ]
+  },
+  "text" : "The Jackson Expedition occurred in the aftermath of the surrender of Vicksburg, Mississippi in July 1863. Union Maj. Gen. William T. Sherman led the expedition to clear General Joseph E. Johnston's relief effort from the Vicksburg area."
+}, {
+  "entityIndex" : "entity26046",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_air_attacks_on_the_Mariana_Islands",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "37 aircraft destroyed" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II", "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Saipan", "http://dbpedia.org/resource/Tinian" ],
+    "dbo:result" : [ "Inconclusive" ],
+    "dbo:strength" : [ "Fighter aircraft", "Anti-aircraft guns", "Over 80 aircraft" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Aircraft_burning_Isley_Field_27_Nov_44.jpg?width=300" ],
+    "dbp:caption" : [ "--11-27" ],
+    "dbp:casualties" : [ "45", "-29.0" ],
+    "dbp:date" : [ "November 1944–January 1945" ]
+  },
+  "text" : "During World War II, a series of Japanese air attacks on the Mariana Islands took place between November 1944 and January 1945. These raids targeted United States Army Air Forces (USAAF) bases and sought to disrupt the bombing of Japan by B-29 Superfortress heavy bombers operating from the islands. The Japanese lost 37 aircraft during this operation, but destroyed 11 B-29s and damaged a further 43. Preparations were also made for commando raids on the bases in early and mid-1945 but these did not go ahead. While the attacks on the Mariana Islands did not seriously disrupt the USAAF air campaign, they had an effect on other American operations. After determining that the Japanese raiders were staging through Iwo Jima, American forces stepped up their attacks on that island. While the decision to invade Iwo Jima had been made before the raids commenced, stopping the attacks formed part of the justification for the landing. In addition, further air defense units were deployed to the Mariana Islands to protect the B-29 bases."
+}, {
+  "entityIndex" : "entity26047",
+  "entityUrl" : "http://dbpedia.org/resource/Jacobite_rising_of_1715",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Jacobites", "Kingdom of France" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/John_Campbell,_2nd_Duke_of_Argyll", "http://dbpedia.org/resource/John_Erskine,_22nd_Earl_of_Mar" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Jacobite_risings" ],
+    "dbo:result" : [ "Decisive Hanoverian-British Victory" ],
+    "dbo:thumbnail" : [ "http://en.wikipedia.org/wiki/Special:FilePath/Prince_James_Francis_Edward_Stuart_by_Anton_Raphael_Mengs.jpg?width=300" ],
+    "dbp:caption" : [ "James Francis Edward Stuart" ],
+    "dbp:date" : [ "1715" ],
+    "dbp:place" : [ "Great Britain" ]
+  },
+  "text" : "The Jacobite rising of 1715 (also referred to as the Fifteen or Lord Mar's Revolt), was the attempt by James Francis Edward Stuart (also called the Old Pretender) to regain the thrones of England, Ireland and Scotland for the exiled House of Stuart."
+}, {
+  "entityIndex" : "entity26048",
+  "entityUrl" : "http://dbpedia.org/resource/Johanna_Expedition",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "None" ],
+    "dbo:combatant" : [ "Sultanate of Johanna" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/William_Pearson_(naval_officer)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/African_Slave_Trade_Patrol" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Indian_Ocean", "http://dbpedia.org/resource/Johanna_Island", "http://dbpedia.org/resource/Matsamudu" ],
+    "dbo:result" : [ "American victory", "*Johannans surrender the town, houses, slaves, cattle and money" ],
+    "dbo:strength" : [ "U.S. Marines", "U.S. Navy", "1fort", "1blockhouse", "1sloop-of-war" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/USS_Dale_San_Jose_del_Cabo_Mexico.jpg?width=300" ],
+    "dbp:caption" : [ "USS Dale off San José del Cabo, Mexico in 1847, by William Henry Meyers." ],
+    "dbp:casualties" : [ "1" ],
+    "dbp:commander" : [ "Selim" ],
+    "dbp:date" : [ "August 1851" ]
+  },
+  "text" : "The Johanna Expedition, or Anjouan Expedition, was a naval operation that occurred in August 1851 during the American anti-slavery patrols off Africa. The event was unrelated to slavery and began after the seizure of the merchant ship Maria and her captain at Johanna Island. The United States Navy sent a sloop-of-war to free the captain, who was still being held, and to demand compensation for the incident. When Sultan Selim refused, the Americans briefly bombarded the island's fortifications."
+}, {
+  "entityIndex" : "entity26049",
+  "entityUrl" : "http://dbpedia.org/resource/June_2011_Jisr_ash-Shugur_operation",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "(opposition claim)", "172 killed, 2,000 arrested" ],
+    "dbo:combatant" : [ "Syrian government", "*Opposition protesters", "*Rebels", "*Syrian Army", "Syrian opposition" ],
+    "dbo:date" : [ "2011-06-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Civil_uprising_phase_of_the_Syrian_civil_war" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Syria", "http://dbpedia.org/resource/Jisr_ash-Shugur" ],
+    "dbo:result" : [ "*Security forces establish control of the city", "Syrian Army victory" ],
+    "dbo:strength" : [ "Unknown", "4th Armoured Division", "*555th Airborne Regiment" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Syrian_Arab_Army.svg?width=300" ],
+    "dbp:casualties" : [ "120" ],
+    "dbp:commander" : [ "Unknown", "Hosain al-Harmoush" ]
+  },
+  "text" : "On 4 June 2011, during the Civil uprising phase of the Syrian civil war, the Syrian military launched an operation in the Syrian city of Jisr ash-Shugur. The government said it was targeting terrorist groups, while the Syrian opposition called it a crackdown against pro-democracy protesters. The operation lasted until 12 June 2011."
+}, {
+  "entityIndex" : "entity26050",
+  "entityUrl" : "http://dbpedia.org/resource/July_1936_military_uprising_in_Seville",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3,000 civilians shot" ],
+    "dbo:combatant" : [ "Spanish Republic", "Rebel faction" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Antonio_Castejón_Espinosa", "http://dbpedia.org/resource/Gonzalo_Queipo_de_Llano", "http://dbpedia.org/resource/José_Cuesta_Moreneo" ],
+    "dbo:date" : [ "1936-07-25" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Spain", "http://dbpedia.org/resource/Seville,_Spain" ],
+    "dbo:result" : [ "Rebel victory" ],
+    "dbo:strength" : [ "4,000 men", "Unknown number of assault guards" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Sevilla_city_walls.JPG?width=300" ],
+    "dbp:caption" : [ "Walls of Macarena district, Seville. Here, many Republicans were executed after the coup." ],
+    "dbp:casualties" : [ "13" ],
+    "dbp:commander" : [ "José Fernández de Villa-Abrile10px|Surrendered", "José María Varela Rendueles10px|Surrendered", "Manuel Allanegi Lusarreta10px|Surrendered" ]
+  },
+  "text" : "The July 1936 military uprising in Seville was a military uprising in Seville, Spain on 18 July 1936, which contributed to the start of the Spanish Civil War. The 17–18 July coup failed in the Andalusian cities of Malaga, Jaen and Huelva, but succeeded in Cordoba, Granada, Cadiz and in the capital city, Seville. The city's garrison, led by Queipo de Llano, occupied the city and carried out a bloody repression. In August 1936, the Nationalists started their advance towards Madrid from Seville."
+}, {
+  "entityIndex" : "entity26051",
+  "entityUrl" : "http://dbpedia.org/resource/July_1936_military_uprising_in_Melilla",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "189 civilians and soldiers executed" ],
+    "dbo:combatant" : [ "Spanish Republic", "Rebel faction" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Eduardo_Sáenz_de_Buruaga", "http://dbpedia.org/resource/Juan_Yagüe" ],
+    "dbo:date" : [ "1936-07-18" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Melilla", "http://dbpedia.org/resource/Spain" ],
+    "dbo:result" : [ "Decisive Nationalist Victory; Nationalists seize Spanish Morocco" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Morocco-spanish-protectorate-1955-a.svg?width=300" ],
+    "dbp:caption" : [ "Map of Spanish Morocco" ],
+    "dbp:casualties" : [ "?" ],
+    "dbp:commander" : [ "Commander Virgilio Lerez Ruiz10px|Surrendered", "General Gomez Morato10px|Surrendered", "General Manuel Romerales10px|Surrendered" ]
+  },
+  "text" : "The July 1936 military uprising in Melilla was a military uprising in Melilla, Spain, that occurred July 17–18, 1936, at the start of the Spanish Civil War. The rebels seized the main garrisons of the Spanish Army in Africa and by July 18 had crushed the resistance of the army officers loyal to the Republican government. The supporters of the Second Spanish Republic were detained or shot."
+}, {
+  "entityIndex" : "entity26052",
+  "entityUrl" : "http://dbpedia.org/resource/July_1936_military_uprising_in_Barcelona",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "200" ],
+    "dbo:combatant" : [ "Nationalist Spain", "CNT/FAI", "Generalitat of Catalonia", "Second Spanish Republic" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Francisco_Llano_de_la_Encomienda", "http://dbpedia.org/resource/Buenaventura_Durruti", "http://dbpedia.org/resource/Francisco_Ascaso", "http://dbpedia.org/resource/Lluís_Companys", "http://dbpedia.org/resource/Antonio_Escobar_Huertas", "http://dbpedia.org/resource/Manuel_Goded", "http://dbpedia.org/resource/Frederic_Escofet", "http://dbpedia.org/resource/Álvaro_Fernández_Burriel" ],
+    "dbo:date" : [ "1936-07-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Spanish_Civil_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Barcelona", "http://dbpedia.org/resource/Catalonia", "http://dbpedia.org/resource/Spain" ],
+    "dbo:result" : [ "*Republican strategic victory." ],
+    "dbo:strength" : [ "5,000 men", "5,000 men (Civil Guard, Police, Assault Guard, Mossos d'Esquadra)", "CNT Militia" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Bandera_CNT-AIT.svg?width=300" ],
+    "dbp:caption" : [ "Boy wearing an FAI cap near a CNT barricade in Barcelona, August 1936." ],
+    "dbp:casualties" : [ "300" ]
+  },
+  "text" : "The July 1936 military uprising in Barcelona was a military uprising in Barcelona, the capital and main city of Catalonia, Spain on 19 July 1936 which contributed to the start of the Spanish Civil War. Most of the army officers in the city supported the coup, but the Civil Guard and the Assault Guard (Guardia de Asalto) remained loyal to the government. Furthermore, Barcelona was one of the strongholds of the anarchist union, the Confederación Nacional del Trabajo (CNT). The rebel troops were defeated after bloody combat."
+}, {
+  "entityIndex" : "entity26053",
+  "entityUrl" : "http://dbpedia.org/resource/Jicarilla_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Apache", "Ute" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Flechas_Rayada", "http://dbpedia.org/resource/Kit_Carson", "http://dbpedia.org/resource/John_Davidson_(general)", "http://dbpedia.org/resource/Philip_St._George_Cooke", "http://dbpedia.org/resource/Chacon_(Apache)", "http://dbpedia.org/resource/Lobo_Blanco" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Apache_Wars", "http://dbpedia.org/resource/Ute_Wars", "http://dbpedia.org/resource/American_Indian_Wars" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/New_Mexico_Territory", "http://dbpedia.org/resource/Texas" ],
+    "dbo:result" : [ "United States victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Kit_Carson_1854.jpg?width=300" ],
+    "dbp:caption" : [ "Kit Carson in 1854 by William Ranney." ],
+    "dbp:date" : [ "1849" ]
+  },
+  "text" : "The Jicarilla War began in 1849 and was fought between the Jicarilla Apaches and the United States military in the New Mexico Territory. Ute warriors also played a significant role in the conflict as they were allied with the Jicarillas. The war started when the Apaches and Utes began raiding against settlers on the Santa Fe Trail. Eventually, in 1853, the American army retaliated which resulted in a series of battles and campaigns that ended in 1854 when a large military expedition managed to quell most of the violence. However, some minor skirmishing continued into 1855."
+}, {
+  "entityIndex" : "entity26054",
+  "entityUrl" : "http://dbpedia.org/resource/Jebel_Akhdar_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 British pilot killed (1958 air campaigns)", "13 British and Muscat troops killed, 57 wounded (1959 offensive)" ],
+    "dbo:combatant" : [ "Supported by:", "* Ibriyin tribe", "*Ibadisect", "Imamate of Oman", "Sultanate of Muscat and Oman" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Ghalib_bin_Ali", "http://dbpedia.org/resource/Said_bin_Taimur", "http://dbpedia.org/resource/Talib_bin_Ali_Al_Hinai" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Muscat_and_Oman" ],
+    "dbo:result" : [ "Defeat of the Imamate of Oman" ],
+    "dbo:strength" : [ "1,000 total", "150–600 hardline rebels", "1,000 total, including 250 British troops in two SAS squadrons (1959 Jebel offensive)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Muscat.svg?width=300" ],
+    "dbp:casualties" : [ "176", "Several dozen killed or wounded", "Total: 213–523+ killed" ],
+    "dbp:date" : [ "1954" ]
+  },
+  "text" : "Jebel Akhdar War (Arabic: حرب الجبل الأخضر Harb al-Jebel el-Akhdar) or Jebel Akhdar rebellion erupted in 1954 and again in 1957 in Oman, as an effort by Imam Ghalib bin Ali Al Hinai to protect the Imamate of Oman lands from the Sultan Said bin Taimur. The war continued until 1959, when British armed forces were involved in aiding the Sultan and winning the war."
+}, {
+  "entityIndex" : "entity26055",
+  "entityUrl" : "http://dbpedia.org/resource/June-August_2012_Hakkari_clashes",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "(Dağlıca attack) 10 killed, 10 wounded", "(Çukurca attack) 8 killed", "(Şemdinli events)5 killed 27 wounded, 1 helicopter down" ],
+    "dbo:combatant" : [ "Kurdistan Workers' Party(PKK)" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Bahoz_Erdal", "http://dbpedia.org/resource/Necdet_Özel", "http://dbpedia.org/resource/Reşit_Dostum", "http://dbpedia.org/resource/Yılmaz_Kürdo", "http://dbpedia.org/resource/İskender_Derik" ],
+    "dbo:date" : [ "2012-06-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Turkey–PKK_conflict" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Northern_Iraq", "http://dbpedia.org/resource/Hakkâri_Province", "http://dbpedia.org/resource/Turkey" ],
+    "dbo:result" : [ "Turkish claim victory stating that PKK failed to set up a \"liberated\" zone and then Turkish Forces launched a new operation." ],
+    "dbo:strength" : [ "200-250 (Dağlıca attack)", "5,000 60 tank 70 armored veiche", "600+ (Şemdinli events)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Kurdistan_Workers_Party_(PKK).svg?width=300" ],
+    "dbp:casualties" : [ "26" ]
+  },
+  "text" : "The June 2012 Hakkari clashes are an ongoing series of clashes between the PKK and the Turkish Army near Şemdinli in Hakkari province in southern Turkey and in north Iraq. The clashes began on June 19, with a coordinated PKK attack upon a Turkish Army post in Yuksekova town in Hakkari province near the border with Kurdistan region of Iraq. On July 20–21, the PKK made an attempt to capture an area in Semdinli, resulting in Turkish counter-offensive. The continuing counter offensive has resulted in 8 Turkish security forces and 130 Kurdish militants killed, according to Turkish security forces. The KCK recorded over 400 incidents of shelling, air bombardment and other armed clashes during August 2012. The events were described as the \"heaviest fighting in Turkey in years\"."
+}, {
+  "entityIndex" : "entity26056",
+  "entityUrl" : "http://dbpedia.org/resource/Jifjafa_raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 dead" ],
+    "dbo:date" : [ "1916-04-14" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Middle_Eastern_theatre_of_the_First_World_War" ],
+    "dbo:result" : [ "British victory" ],
+    "dbo:strength" : [ "320 men", "1 Austrian Engineer officer", "1 Turkish officer, 25 soldiers", "15 Labour Corps", "175 horses", "261 camels", "42 men" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/9th_Light_Horse_crossing_the_Suez_canal.jpg?width=300" ],
+    "dbp:caption" : [ "Men of the 9th Light Horse Regiment crossing the Suez Canal" ],
+    "dbp:casualties" : [ "6", "36" ],
+    "dbp:commander" : [ "William Henry Scott" ],
+    "dbp:place" : [ "Bir el Jifjafa" ],
+    "dbp:units" : [ "2", "8", "9", "http://dbpedia.org/resource/Egyptian_Camel_Transport_Corps", "http://dbpedia.org/resource/Royal_Flying_Corps", "http://dbpedia.org/resource/Bikaner_Camel_Corps", "ANZAC Mounted Division support troops" ]
+  },
+  "text" : "The Jifjafa Raid (11–14 April 1916) was a long range pre-emptive operation by a composite formation of the British Empire against Ottoman Turkish Empire forces at the Jifjafa well in the Sinai Desert. During the Sinai and Palestine Campaign of the First World War. The Jifkafa well (Bir el Jifjafa) is located in the Sinai Desert fifty-two miles (84 km) to the east of Ismalia on the Suez Canal. The raid was carried out by men from the 3rd Light Horse Brigade, supported by small detachments of other corps and a larger group from the Egyptian Camel Transport Corps. Although some of the Australians had seen action in the Gallipoli Campaign, this was the first offensive operation, conducted by any Australian force, during the Sinai and Palestine Campaign. The raid was a complete success for the British. For the cost of one man killed, the first light horse casualty of the campaign, they killed six men, captured another thirty-six, and destroyed the well's infrastructure. The raiders returned safely to their own lines. In recognition of their achievement, Major William Henry Scott the commander of the raid was invested as a Companion of the Distinguished Service Order."
+}, {
+  "entityIndex" : "entity26057",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Aparri",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1941-12-10" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Philippines_Campaign_(1941–42)", "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Philippines", "http://dbpedia.org/resource/Aparri" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Invasion_of_the_Philippines,_1941.jpg?width=300" ]
+  },
+  "text" : "The Japanese Invasion of Aparri on 10 December 1941 was one in a series of advance landings made by Imperial Japanese forces as first step in their invasion of the Philippines. The purpose was to obtain control of local air strips, which could be used as forward bases by fighter aircraft for operations further south. The first invasion was at Batan Island on 8 December 1941. This was followed by Vigan, Legaspi, Davao, and Jolo Island over the next few days"
+}, {
+  "entityIndex" : "entity26058",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Vigan",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "*" ],
+    "dbo:date" : [ "1941-12-10" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Philippines_Campaign_(1941–42)", "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Philippines", "http://dbpedia.org/resource/Vigan" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Invasion_of_the_Philippines,_1941.jpg?width=300" ]
+  },
+  "text" : "The Japanese Invasion of Vigan on 10 December 1941 was one in a series of advance landings made by Imperial Japanese forces as first step in their invasion of the Philippines. The purpose was to obtain control of local air strips, which could be used as forward bases by fighter aircraft for operations further south. The first invasion was at Batan Island on 8 December 1941. This was followed by Vigan, Aparri, Legaspi, Davao, and Jolo Island over the next few days"
+}, {
+  "entityIndex" : "entity26059",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Legaspi",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1941-12-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Philippines_Campaign_(1941–42)", "http://dbpedia.org/resource/Pacific_War" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Philippines", "http://dbpedia.org/resource/Legazpi,_Albay" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Invasion_of_the_Philippines,_1941.jpg?width=300" ]
+  },
+  "text" : "The Japanese Invasion of Legaspi on 12 December 1941 was one in a series of advance landings made by Imperial Japanese forces as first step in their invasion of the Philippines. The purpose was to obtain control of local air strips, which could be used as forward bases by fighter aircraft for operations in central Luzon. Control of Legaspi was an important point in the Japanese strategy, as it would also give them control of San Bernardino Strait, between the islands Luzon and Samar, which would prevent the Americans from bringing in reinforcements from the south.The first invasion was at Batan Island on 8 December 1941. This was followed by Vigan, Aparri, Legaspi, Davao, and Jolo Island over the next few days"
+}, {
+  "entityIndex" : "entity26060",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Lingayen_Gulf",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1941-12-23" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Philippines_Campaign_(1941–42)", "http://dbpedia.org/resource/South_West_Pacific_Theatre_of_World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Philippines", "http://dbpedia.org/resource/Luzon" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Invasion_of_the_Philippines,_1941.jpg?width=300" ],
+    "dbp:caption" : [ "--12-08" ],
+    "dbp:imageSize" : [ "300" ]
+  },
+  "text" : "The Japanese Invasion of Lingayen Gulf was the key point in the Japanese plan for the conquest of the Philippines. Preparations had already been made by the Attack on Clark Field and the landings of Japanese forces at five points in northern and southern Luzon and Mindanao in early/mid December 1941, with the IJAAF seizing air fields and basing aircraft for ground support, and the Imperial Japanese Navy establishing seaplane bases at the Camiguin Island, Legaspi, and Davao. The main landing of Japanese forces targeted Lingayen Gulf, with its proximity to the Philippine capital of Manila, and Lamon Bay on the opposite coast to the south."
+}, {
+  "entityIndex" : "entity26061",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Davao",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1941-12-25" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Philippines_Campaign_(1941–42)", "http://dbpedia.org/resource/South_West_Pacific_Theatre_of_World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Philippines", "http://dbpedia.org/resource/Davao_City" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Mindanao_1941-1942.svg?width=300" ]
+  },
+  "text" : "The Japanese Invasion of Davao and on Jolo in the Sulu Archipelago on 19 December 1941 was one in a series of advance landings made by Imperial Japanese forces as first step in their invasion of the Philippines. The purpose was to cut off the possibility of reinforcements reaching Luzon from the south and to complete the encirclement of American forces there, with the secondary purpose of establishing a base from which the IJA 16th Army could launch an invasion of British North Borneo and the Netherlands Indies . The first invasion of the Philippines was at Batan Island on 8 December 1941. This was followed by Vigan, Aparri, Legaspi, Davao, and Jolo over the next few days"
+}, {
+  "entityIndex" : "entity26062",
+  "entityUrl" : "http://dbpedia.org/resource/Japanese_invasion_of_Batan_Island",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:date" : [ "1941-12-08" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Philippines_Campaign_(1941–42)", "http://dbpedia.org/resource/South_West_Pacific_Theatre_of_World_War_II" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Philippines", "http://dbpedia.org/resource/Batan_Island" ],
+    "dbo:result" : [ "Japanese victory" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Invasion_of_the_Philippines,_1941.jpg?width=300" ]
+  },
+  "text" : "The Japanese invasion of Batan Island was the first step in their invasion of the Philippines, an American colony. The purpose was to obtain control of local air strips, which could be used as forward bases by fighter aircraft for operations further south in the Philippines. The attack on Batan Island was the first of several other advance landings; the other landings took place at Aparri, Vigan, Legaspi, Davao, and Jolo Island."
+}, {
+  "entityIndex" : "entity26063",
+  "entityUrl" : "http://dbpedia.org/resource/June_1941_uprising_in_eastern_Herzegovina",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Serb rebels from eastern Herzegovina and Montenegro" ],
+    "dbo:date" : [ "1941-07-07" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/World_War_II_in_Yugoslavia" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Independent_State_of_Croatia", "http://dbpedia.org/resource/Herzegovina" ],
+    "dbo:result" : [ "Uprising suppressed" ],
+    "dbo:strength" : [ "1,500–3,000", "2,362 men", "68 officers," ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Lukavac6.jpg?width=300" ],
+    "dbp:alt" : [ "a map of the eastern half of the NDH showing the locations of Trebinje, Nevesinje, Bileća, and Gacko and Avtovac", "a map of the eastern half of the NDH showing the locations of Korita, Nevesinje and Ljubinje" ],
+    "dbp:caption" : [ "The capture of the gendarmerie post in Gornji Lukavac was one of the first actions of the uprising", "Map showing the locations of Croatian Home Guard garrisons in eastern Herzegovina at the time of the uprising", "Map showing the locations of Ustaše massacres in eastern Herzegovina prior to the uprising" ],
+    "dbp:float" : [ "right" ],
+    "dbp:latitude" : [ "43.16" ],
+    "dbp:longitude" : [ "18.07" ],
+    "dbp:mapAlt" : [ "A map of the NDH showing the location of Nevesinje, eastern Herzegovina in the southeastern corner of the country near the Adriatic coast" ],
+    "dbp:mapCaption" : [ "Location of the town of Nevesinje in eastern Herzegovina. The dashed line denotes the boundary between the German  and Italian  zones" ],
+    "dbp:mapLabel" : [ "Nevesinje" ],
+    "dbp:mapSize" : [ "295" ],
+    "dbp:mapType" : [ "NDH" ],
+    "dbp:units" : [ "No formed units", "*Elements of Adriatic Command" ],
+    "dbp:width" : [ "275", "300" ]
+  },
+  "text" : "In June 1941, Serbs in eastern Herzegovina rebelled against the authorities of the Independent State of Croatia (Croatian: Nezavisna Država Hrvatska, NDH), an Axis puppet state established during World War II on the territory of the defeated Kingdom of Yugoslavia. As the NDH imposed its authority, members of the fascist Ustaše ruling party began a campaign of persecution against Serbs throughout the country. In eastern Herzegovina, the Ustaše perpetrated a series of massacres and attacks against the majority Serb population commencing in the first week of June. Between 3 and 22 June 1941, spontaneous clashes occurred between NDH authorities and groups of Serbs in the region. The German invasion of the Soviet Union began on 22 June. Over the next two days, the sporadic revolts by Serbs against the NDH in eastern Herzegovina erupted into mass rebellion, triggered by Ustaše persecution, Serb solidarity with the Russian people, hatred and fear of the NDH authorities, and other factors. Serb rebels, under the leadership of both local Serbs and Montenegrins, attacked police, gendarmerie, Ustaše and Croatian Home Guard forces in the region. In the first few days, the rebels captured gendarmerie posts in several villages, set up roadblocks on the major roads and ambushed several military vehicles. On the night of 26 June, the rebels mounted a sustained attack on the town of Nevesinje in an attempt to capture it, but the garrison held out until the morning of 28 June when NDH troops broke through the rebel roadblocks. On 28 June, the rebels ambushed a truckload of Italian soldiers, prompting the Italian Army commander in the NDH to warn the NDH government that he would take unilateral action to secure communication routes. A further gendarmerie post was destroyed by the rebels, and in the evening the rebels captured the village of Avtovac, looting and burning it, and killing dozens of non-Serb civilians. The following day an Italian column cleared the rebels from Avtovac and relieved the hard-pressed NDH garrison in the town of Gacko. From 3 July, an NDH force of over 2,000 fanned out from Nevesinje, clearing towns, villages and routes of rebels. The rebel forces did not put up any significant opposition to the clearing operation, and either retreated into nearby Montenegro, or hid their weapons in the mountains and went home. By 7 July, NDH forces had regained full control of all towns and major transport routes in eastern Herzegovina."
+}, {
+  "entityIndex" : "entity26064",
+  "entityUrl" : "http://dbpedia.org/resource/Jesselton_Revolt",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3,000–4,000 civilians massacred" ],
+    "dbo:combatant" : [ "Kinabalu guerillas" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Albert_Kwok", "http://dbpedia.org/resource/Mustapha_bin_Datu_Harun" ],
+    "dbo:date" : [ "1943-10-09" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/British_Borneo", "http://dbpedia.org/resource/Jesselton" ],
+    "dbo:result" : [ "Failure of uprising" ],
+    "dbo:strength" : [ "100 Chinese", "200SulukMuslims andBajauMuslims", "Dusun-Muruts", "Kempeitai", "Sikh Indians" ],
+    "dbp:casualties" : [ "60" ],
+    "dbp:commander" : [ "Lieutenant Shimizu" ]
+  },
+  "text" : "The Jesselton Revolt or Double Tenth Incident was a multi-ethnic uprising, mainly led by Chinese and Suluk guerrilla forces known as the Kinabalu Guerrillas, against the Japanese occupation of British Borneo. After the revolt, the Japanese forces initiated an ethnic cleansing against the Suluk people as punishment."
+}, {
+  "entityIndex" : "entity26065",
+  "entityUrl" : "http://dbpedia.org/resource/July_2014_Al-Wadi_Al-Gedid_attack",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "3 killed" ],
+    "dbo:combatant" : [ "Egyptian Army", "Unknown attackers" ],
+    "dbo:date" : [ "2014-07-19" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Post-coup_unrest_in_Egypt_(2013–14)" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Egypt", "http://dbpedia.org/resource/New_Valley_Governorate" ],
+    "dbo:strength" : [ "20 gunmen" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Army_of_Egypt.svg?width=300" ],
+    "dbp:caption" : [ "Al-Wadi Al-Gedid governorate on Egypt's map." ],
+    "dbp:casualties" : [ "22" ],
+    "dbp:latitude" : [ "27.0583" ],
+    "dbp:longitude" : [ "27.97" ]
+  },
+  "text" : "The July 2014 Al-Wadi Al-Gedid attack was an armed assault perpetrated on 19 July 2014 by unidentified gunmen against a military checkpoint in the New Valley Governorate in Egypt's Western Desert region. At least 22 border guards were killed in the attack, which was one of the biggest since the July 2013 ouster of Egyptian president Mohamed Morsi and the second at the same checkpoint in less than three months."
+}, {
+  "entityIndex" : "entity26066",
+  "entityUrl" : "http://dbpedia.org/resource/Jalumi_War",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Ibadan", "Ilorins, Ekitis and Ijeshas" ],
+    "dbo:date" : [ "1878-11-01" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Osun_State" ],
+    "dbp:latitude" : [ "7.92" ],
+    "dbp:longitude" : [ "4.66" ],
+    "dbp:mapRelief" : [ "yes" ],
+    "dbp:mapType" : [ "Nigeria" ],
+    "dbp:partof" : [ "Ibadan War" ]
+  },
+  "text" : "The Jalumi War, also called the Battle of Ikirun, was a battle that took place on 1 November 1878 in the north east of present-day Osun State, Nigeria.It was part of the larger conflict named the Ibadan War.The forces of Ibadan victorious in detail a force of rebellious Yorubas including soldiers from Ilorin, Ekiti, Ila and Ijesha. Despite the victory, fighting continued in the years that followed until the Ilorins were finally defeated in 1897."
+}, {
+  "entityIndex" : "entity26067",
+  "entityUrl" : "http://dbpedia.org/resource/January_2015_Kolofata_raid",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "1 killed", "1 injured" ],
+    "dbo:combatant" : [ "Islamic State of Iraq and the Levant", "Boko Haram" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Abubakar_Shekau", "http://dbpedia.org/resource/Abu_Bakr_al-Baghdadi" ],
+    "dbo:date" : [ "2015-01-12" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Islamist_insurgency_in_Nigeria" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Cameroon", "http://dbpedia.org/resource/Far_North_Region_(Cameroon)", "http://dbpedia.org/resource/Kolofata" ],
+    "dbo:result" : [ "Cameroonian victory" ],
+    "dbo:strength" : [ "Unknown", "300+" ],
+    "dbp:casualties" : [ "143" ],
+    "dbp:commander" : [ "Didier Badjec" ]
+  },
+  "text" : "The January 2015 Kolofata raid was an unsuccessful assault on a Cameroonian military base at Kolofata, Far North Region, perpetrated by Boko Haram. The incident occurred on 12 January 2015 coming shortly after another Boko Haram incursion onto Cameroonian soil."
+}, {
+  "entityIndex" : "entity26068",
+  "entityUrl" : "http://dbpedia.org/resource/January_2015_Sinai_attacks",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "44 killed", "\"Hundreds\" (Wilayat Sinai claim)", "(24 soldiers, 6 policemen, 14 civilians)" ],
+    "dbo:combatant" : [ "Egyptian Army", "Islamic State of Iraq and the Levant", "*Wilayat Sinai(formerly known asAnsar Bait al-Maqdis)" ],
+    "dbo:date" : [ "2015-01-29" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Sinai_insurgency" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/North_Sinai" ],
+    "dbp:casualties" : [ "Unknown" ]
+  },
+  "text" : "On 29 January 2015, militants from the ISIL-affiliated Wilayat Sinai (Sinai Province) militant group launched a series of attacks on army and police bases in Arish using car bombs and mortars. The attacks, which occurred in more than six different locations, resulted in 44 deaths."
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "entityIndex" : "entity28795",
+  "entityUrl" : "http://dbpedia.org/resource/5_October_1910_revolution",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:combatant" : [ "Portuguese monarchy", "Portuguese republicans" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Manuel_II_of_Portugal", "http://dbpedia.org/resource/Manuel_de_Arriaga", "http://dbpedia.org/resource/Teófilo_Braga", "http://dbpedia.org/resource/José_Relvas", "http://dbpedia.org/resource/António_Teixeira_de_Sousa", "http://dbpedia.org/resource/Henrique_Mitchell_de_Paiva_Couceiro", "http://dbpedia.org/resource/Afonso_Costa" ],
+    "dbo:date" : [ "1910-10-05" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Portugal" ],
+    "dbo:result" : [ "Republican victory", "*King Manuel II is exiled and flees to Britain.", "*Abolition of the monarchy and proclamation of the republic." ],
+    "dbo:strength" : [ "3cruisers", "About 2,000 revolutionaries", "About 7,000 men" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Estremoz13.jpg?width=300" ],
+    "dbp:align" : [ "right" ],
+    "dbp:caption" : [ "--10-05", "Two versions of the bust on coins from the Portuguese Republic: by Francisco dos Santos, above; by José Simões de Almeida, below." ],
+    "dbp:casualties" : [ "At least 37 dead and dozens wounded, with at least 14 of them dying in the following days." ],
+    "dbp:direction" : [ "vertical" ],
+    "dbp:image" : [ "PRT008.JPG", "PRT025.JPG" ],
+    "dbp:width" : [ "200" ]
+  },
+  "text" : "The establishment of the Portuguese Republic was the result of a coup d'état organised by the Portuguese Republican Party which, on 5 October 1910, deposed the constitutional monarchy and established a republican regime in Portugal. The subjugation of the country to British colonial interests, the royal family's expenses, the power of the Church, the political and social instability, the system of alternating power of the two political parties (Progressive and Regenerador), João Franco's dictatorship, an apparent inability to adapt to modern times – all contributed to an unrelenting erosion of the Portuguese monarchy. The proponents of the republic, particularly the Republican Party, found ways to take advantage of the situation. The Republican Party presented itself as the only one that had a programme that was capable of returning to the country its lost status and place Portugal on the way of progress. After a reluctance of the military to combat the nearly two thousand soldiers and sailors that rebelled between 3 and 4 October 1910, the Republic was proclaimed at 9 o'clock of the next day from the balcony of the Paços do Concelho in Lisbon. After the revolution, a provisional government led by Teófilo Braga directed the fate of the country until the approval of the Constitution in 1911 that marked the beginning of the First Republic. Among other things, with the establishment of the republic, national symbols were changed: the national anthem and the flag. The revolution produced some civil and religious liberties, although there was no advance in women's rights and in workers rights, unlike what happened in other European countries."
+} ]

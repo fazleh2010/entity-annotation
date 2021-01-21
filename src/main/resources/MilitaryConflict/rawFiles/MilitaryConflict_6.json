@@ -1,0 +1,28 @@
+[ {
+  "entityIndex" : "entity28796",
+  "entityUrl" : "http://dbpedia.org/resource/6th_Airborne_Division_in_Palestine",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/Tel_Aviv_3_August_1946.jpg?width=300" ]
+  },
+  "text" : "The 6th Airborne Division in Palestine was initially posted to the region as the Imperial Strategic Reserve. It was envisioned as a mobile peace keeping force, positioned to be able to respond quickly to any area of the British Empire. In fact the division became involved in an internal security role between 1945 and 1948. Palestine had been a British Mandate since the end of World War I. Under the terms of the mandate, Great Britain was responsible for the government and security of the country. It had long been a stated British aim to establish a Jewish homeland in Palestine and between 1922 and 1939 over 250,000 Jewish immigrants had arrived in the country. However, Arab resistance and World War II prompted the British to curtail immigration. The time also saw the rise of the Jewish Resistance Movement, which eventually came into conflict with the British authorities. When the British 6th Airborne Division arrived in response to increasing terrorist activity, it became involved in internal security, being responsible for cordons and search operations, guarding convoys and key installations. As the situation worsened, the men of the division had to patrol the towns and cities, enforce curfews and deal with rioting by the civilian population. They also protected Jewish and Arab settlements from sectarian violence. This was not without loss to the division and several members were killed and wounded during this time. The end of the British mandate coincided with the post war reduction of the British Army back to peace time levels, and the division's numbers were gradually reduced. By the end of their tenure in Palestine, the division's strength was reduced in real terms, to less than brigade size. In 1948 it was disbanded soon after its withdrawal from Palestine."
+}, {
+  "entityIndex" : "entity28797",
+  "entityUrl" : "http://dbpedia.org/resource/6th_Airborne_Division_advance_to_the_River_Seine",
+  "dboClass" : "MilitaryConflict",
+  "properties" : {
+    "dbo:causalties" : [ "4,457" ],
+    "dbo:commander" : [ "http://dbpedia.org/resource/Josef_Reichert", "http://dbpedia.org/resource/Richard_Gale_(British_Army_officer)" ],
+    "dbo:isPartOfMilitaryConflict" : [ "http://dbpedia.org/resource/Operation_Overlord" ],
+    "dbo:notes" : [ "British casualties are from the start of the campaign, 6 June 1944" ],
+    "dbo:place" : [ "http://dbpedia.org/resource/Normandy" ],
+    "dbo:result" : [ "Allied victory" ],
+    "dbo:territory" : [ "http://dbpedia.org/resource/Seine", "http://dbpedia.org/resource/Dives_(river)" ],
+    "dbo:thumbnail" : [ "http://commons.wikimedia.org/wiki/Special:FilePath/1st_Canadian_Army_advance_in_Normandy.jpg?width=300" ],
+    "dbp:caption" : [ "Map of the First Canadian Army's advance, August 1944." ],
+    "dbp:casualties" : [ "Unknown" ],
+    "dbp:date" : [ "August 1944" ],
+    "dbp:units" : [ "6", "711" ]
+  },
+  "text" : "The 6th Airborne Division advance to the River Seine occurred in August 1944, in the later stages of the Battle of Normandy, following the German Army's defeat in the Falaise Pocket, during the Second World War. The British 6th Airborne Division, under the command of Major-General Richard Nelson Gale, was one of the first Allied units to arrive in Normandy on D-Day, 6 June 1944, and successfully secured the left flank of the invasion zone. Resisting efforts to dislodge them by the combined efforts of two infantry and one panzer division, a month later they were ordered to prepare to advance. Their objective was the mouth of the River Seine, 45 miles (72 km) away. To assist them in carrying out their mission, the division was reinforced by the 1st and 4th Special Service Brigades, the 1st Belgian Infantry Brigade and the Royal Netherlands Motorized Infantry Brigade, as well as increased artillery support. To reach the Seine, the division had to cross three rivers that had been flooded by the Germans, and had only two roads available to them. The 6th Airborne Division began their advance on 17 August, after the German Army had started to withdraw. Fighting several small battles, by the end of the month they reached their objective at the River Seine. Here the division halted until early in September, when they returned to England to prepare for further airborne operations later in the war."
+} ]
