@@ -1,0 +1,164 @@
+[ {
+  "entityIndex" : "entity10767",
+  "entityUrl" : "http://dbpedia.org/resource/Vittorio_De_Sica",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Vittorio_De_Sica) dbo:activeYearsEndYear o'<1974>",
+    "2" : "s(Vittorio_De_Sica) dbo:activeYearsStartYear o'<1917>",
+    "3" : "s(Vittorio_De_Sica) dbo:birthDate o'<1901-07-07>",
+    "4" : "s(Vittorio_De_Sica) dbo:birthDate o'<1901-7-7>",
+    "5" : "s(Vittorio_De_Sica) dbo:birthPlace o'<Sora,_Lazio>",
+    "6" : "s(Vittorio_De_Sica) dbo:birthPlace o'<Kingdom_of_Italy>",
+    "7" : "s(Vittorio_De_Sica) dbo:birthYear o'<1901>",
+    "8" : "s(Vittorio_De_Sica) dbo:child o'<Christian_De_Sica>",
+    "9" : "s(Vittorio_De_Sica) dbo:child o'<Manuel_De_Sica>",
+    "10" : "s(Vittorio_De_Sica) dbo:deathDate o'<1974-11-13>",
+    "11" : "s(Vittorio_De_Sica) dbo:deathPlace o'<Hauts-de-Seine>",
+    "12" : "s(Vittorio_De_Sica) dbo:deathPlace o'<Neuilly-sur-Seine>",
+    "13" : "s(Vittorio_De_Sica) dbo:deathPlace o'<France>",
+    "14" : "s(Vittorio_De_Sica) dbo:deathYear o'<1974>",
+    "15" : "s(Vittorio_De_Sica) dbo:occupation o'<Vittorio_De_Sica__1>",
+    "16" : "s(Vittorio_De_Sica) dbo:occupation o'<Film_director>",
+    "17" : "s(Vittorio_De_Sica) dbo:occupation o'<Actor>",
+    "18" : "s(Vittorio_De_Sica) dbo:religion o'<Roman_Catholicism>",
+    "19" : "s(Vittorio_De_Sica) dbo:spouse o'<MarÃ­a_Mercader>",
+    "20" : "s(Vittorio_De_Sica) dbo:spouse o'<Giuditta_Rissone>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(vittorio de sica=Vittorio_De_Sica) [directed won academy awards sciusci ] o'<film=Film_director>"
+  },
+  "abstract" : {
+    "4" : "four of the films<Film_director> vittorio de sica<Vittorio_De_Sica> directed won academy awards: sciusciã  and bicycle thieves were awarded honorary oscars, while ieri, oggi, domani and il giardino dei finzi contini won the best foreign language film<Film_director> oscar\n"
+  }
+}, {
+  "entityIndex" : "entity10768",
+  "entityUrl" : "http://dbpedia.org/resource/Valens",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Valens) dbo:activeYearsEndYear o'<0375>",
+    "2" : "s(Valens) dbo:activeYearsStartYear o'<0364>",
+    "3" : "s(Valens) dbo:birthDate o'<328-1-1>",
+    "4" : "s(Valens) dbo:birthPlace o'<Croatia>",
+    "5" : "s(Valens) dbo:birthPlace o'<Sirmium>",
+    "6" : "s(Valens) dbo:birthPlace o'<Vinkovci>",
+    "7" : "s(Valens) dbo:birthPlace o'<Pannonia>",
+    "8" : "s(Valens) dbo:birthPlace o'<Cibalae>",
+    "9" : "s(Valens) dbo:deathDate o'<0378-08-09>",
+    "10" : "s(Valens) dbo:deathDate o'<378-8-9>",
+    "11" : "s(Valens) dbo:deathPlace o'<Edirne>",
+    "12" : "s(Valens) dbo:deathPlace o'<Battle_of_Adrianople>",
+    "13" : "s(Valens) dbo:parent o'<Gratian_the_Elder>",
+    "14" : "s(Valens) dbo:predecessor o'<Valentinian_I>",
+    "15" : "s(Valens) dbo:spouse o'<Albia_Dominica>",
+    "16" : "s(Valens) dbo:successor o'<Theodosius_I>",
+    "17" : "s(Valens) dbo:title o'<66th Emperorof theRoman Empire>",
+    "18" : "s(Valens) dbp:birthDate o'<328>",
+    "19" : "s(Valens) dbp:dynasty o'<Valentinian_dynasty>",
+    "20" : "s(Valens) dbp:imageSize o'<250>",
+    "21" : "s(Valens) dbp:issue o'<Valentinianus_Galates>",
+    "22" : "s(Valens) dbp:issue o'<Anastasia>",
+    "23" : "s(Valens) dbp:issue o'<Carosa,>",
+    "24" : "s(Valens) dbp:regent o'<Valentinian_I>",
+    "25" : "s(Valens) dbp:regent o'<Valentinian_II>",
+    "26" : "s(Valens) dbp:title o'<List_of_Roman_Emperors>",
+    "27" : "s(Valens) dbp:title o'<Consul of the Roman Empire>",
+    "28" : "s(Valens) dbp:years o'<364>",
+    "29" : "s(Valens) dbp:years o'<365>",
+    "30" : "s(Valens) dbp:years o'<368>",
+    "31" : "s(Valens) dbp:years o'<370>",
+    "32" : "s(Valens) dbp:years o'<373>",
+    "33" : "s(Valens) dbp:years o'<376>",
+    "34" : "s(Valens) dbp:years o'<378>",
+    "35" : "s(Valens) dbp:years o'<with Valentinian I, Gratian, and Valentinian II>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(valens=Valens) [given eastern half ] o'<valentinian i=Valentinian_I>"
+  },
+  "abstract" : {
+    "2" : "valens<Valens> was given the eastern half of the empire by his brother valentinian i<Valentinian_I> after the latter's accession to the throne\n"
+  }
+}, {
+  "entityIndex" : "entity10769",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Alsop",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Vincent_Alsop) dbo:birthDate o'<1630-0-0>",
+    "2" : "s(Vincent_Alsop) dbo:birthPlace o'<Northamptonshire>",
+    "3" : "s(Vincent_Alsop) dbo:deathDate o'<1703-5-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10770",
+  "entityUrl" : "http://dbpedia.org/resource/Vitellius",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Vitellius) dbo:activeYearsEndYear o'<1969>",
+    "2" : "s(Vitellius) dbo:activeYearsStartYear o'<1969>",
+    "3" : "s(Vitellius) dbo:birthDate o'<0015-09-24>",
+    "4" : "s(Vitellius) dbo:birthDate o'<15-9-24>",
+    "5" : "s(Vitellius) dbo:birthPlace o'<Q470839>",
+    "6" : "s(Vitellius) dbo:deathDate o'<0069-12-22>",
+    "7" : "s(Vitellius) dbo:deathPlace o'<Rome>",
+    "8" : "s(Vitellius) dbo:parent o'<Lucius_Vitellius>",
+    "9" : "s(Vitellius) dbo:parent o'<Sextilia>",
+    "10" : "s(Vitellius) dbo:predecessor o'<Otho>",
+    "11" : "s(Vitellius) dbo:successor o'<Vespasian>",
+    "12" : "s(Vitellius) dbp:after o'<Quintus_Veranius>",
+    "13" : "s(Vitellius) dbp:after o'<Gaius_Pompeius_Longus_Gallus>",
+    "14" : "s(Vitellius) dbp:before o'<Claudius>",
+    "15" : "s(Vitellius) dbp:before o'<Lucius_Vitellius>",
+    "16" : "s(Vitellius) dbp:birthPlace o'<Rome>",
+    "17" : "s(Vitellius) dbp:deathPlace o'<Rome>",
+    "18" : "s(Vitellius) dbp:dynasty o'<None>",
+    "19" : "s(Vitellius) dbp:spouse o'<Galeria Fundania>",
+    "20" : "s(Vitellius) dbp:succession o'<8>",
+    "21" : "s(Vitellius) dbp:title o'<List_of_Roman_Emperors>",
+    "22" : "s(Vitellius) dbp:title o'<Consul of the Roman Empire>",
+    "23" : "s(Vitellius) dbp:with o'<Lucius_Vipstanus_Poplicola>",
+    "24" : "s(Vitellius) dbp:years o'<48>",
+    "25" : "s(Vitellius) dbp:years o'<69>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(vitellius=Vitellius) [latin aulus PRONOUN germanicus augustus ] o'<roman emperor=List_of_Roman_Emperors>",
+    "2" : "s(vitellius=Vitellius) [proclaimed ] o'<emperor=List_of_Roman_emperors>",
+    "3" : "s(vitellius=Vitellius) [first to add ] o'<caesar=Claudius>",
+    "5" : "s(vitellius=Vitellius) [at second battle of ] o'<italy=Rome>",
+    "6" : "s(vitellius=Vitellius) [realised his support wavering ] o'<vitellius=Lucius_Vitellius>"
+  },
+  "abstract" : {
+    "1" : "vitellius<Lucius_Vitellius> (latin: aulus vitellius<Lucius_Vitellius> germanicus augustus; 24 september 15 â€“ 22 december 69) was roman emperor<List_of_Roman_Emperors> for eight months, from 16 april to 22 december 69",
+    "2" : "vitellius<Lucius_Vitellius> was proclaimed emperor<List_of_Roman_emperors> following the quick succession of the previous emperors<List_of_Roman_emperors> galba and otho<Otho>, in a year of civil war known as the year of the four emperors<List_of_Roman_emperors>",
+    "3" : "vitellius<Lucius_Vitellius> was the first to add the honorific cognomen germanicus to his name instead of caesar<Claudius> upon his accession; the latter name had fallen into disrepute in many quarters because of the actions of nero",
+    "5" : "war ensued, leading to a crushing defeat for vitellius<Lucius_Vitellius> at the second battle of bedriacum in northern italy<Rome>",
+    "6" : "once vitellius<Vitellius> realised his support was wavering, vitellius<Lucius_Vitellius> prepared to abdicate in favor of vespasian<Vespasian> but was executed in rome<Rome> by vespasian's<Vespasian> soldiers on 22 december 69\n"
+  }
+}, {
+  "entityIndex" : "entity10771",
+  "entityUrl" : "http://dbpedia.org/resource/Villard_de_Honnecourt",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Villard_de_Honnecourt) dbo:birthDate o'<1200-1-1>",
+    "2" : "s(Villard_de_Honnecourt) dbo:birthPlace o'<Honnecourt-sur-Escaut>",
+    "3" : "s(Villard_de_Honnecourt) dbo:deathDate o'<1250-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10772",
+  "entityUrl" : "http://dbpedia.org/resource/Vincenzo_Bellini",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Vincenzo_Bellini) dbo:birthDate o'<1801-11-3>",
+    "2" : "s(Vincenzo_Bellini) dbo:birthPlace o'<Catania>",
+    "3" : "s(Vincenzo_Bellini) dbo:deathDate o'<1835-9-23>",
+    "4" : "s(Vincenzo_Bellini) dbo:deathPlace o'<Puteaux>",
+    "5" : "s(Vincenzo_Bellini) dbo:soundRecording o'<Vincenzo_Bellini__1>",
+    "6" : "s(Vincenzo_Bellini) dbp:colWidth o'<20>",
+    "7" : "s(Vincenzo_Bellini) dbp:rules o'<yes>",
+    "8" : "s(Vincenzo_Bellini) dbp:width o'<200>",
+    "9" : "s(Vincenzo_Bellini) dbp:width o'<260>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

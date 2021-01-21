@@ -1,0 +1,144 @@
+[ {
+  "entityIndex" : "entity10785",
+  "entityUrl" : "http://dbpedia.org/resource/Yunus_Emre",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Yunus_Emre) dbo:birthDate o'<1240-1-1>",
+    "2" : "s(Yunus_Emre) dbo:birthPlace o'<Q12824780>",
+    "3" : "s(Yunus_Emre) dbo:deathDate o'<1321-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10786",
+  "entityUrl" : "http://dbpedia.org/resource/Yes,_Virginia,_there_is_a_Santa_Claus",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:birthDate o'<1889-07-20>",
+    "2" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:birthPlace o'<Manhattan>",
+    "3" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:birthPlace o'<New_York_(state)>",
+    "4" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:birthYear o'<1889>",
+    "5" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:deathDate o'<1971-05-13>",
+    "6" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:deathPlace o'<Valatie,_New_York>",
+    "7" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:deathYear o'<1971>",
+    "8" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:imdbId o'<0103305>",
+    "9" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:imdbId o'<0392925>",
+    "10" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbo:imdbId o'<1545330>",
+    "11" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbp:name o'<Yes, Virginia, there is a Santa Claus>",
+    "12" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbp:no o'<26305>",
+    "13" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbp:title o'<Yes Virginia, There Is a Santa Claus>",
+    "14" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbp:title o'<Yes, Virginia>",
+    "15" : "s(Yes,_Virginia,_there_is_a_Santa_Claus) dbp:title o'<Yes, Virginia, there is a Santa Claus>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10787",
+  "entityUrl" : "http://dbpedia.org/resource/Yeardley_Smith",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Yeardley_Smith) dbo:activeYearsStartYear o'<1982>",
+    "2" : "s(Yeardley_Smith) dbo:birthDate o'<1964-07-03>",
+    "3" : "s(Yeardley_Smith) dbo:birthDate o'<1964-7-3>",
+    "4" : "s(Yeardley_Smith) dbo:birthName o'<Martha Maria Yeardley Smith>",
+    "5" : "s(Yeardley_Smith) dbo:birthPlace o'<Paris>",
+    "6" : "s(Yeardley_Smith) dbo:birthPlace o'<France>",
+    "7" : "s(Yeardley_Smith) dbo:birthYear o'<1964>",
+    "8" : "s(Yeardley_Smith) dbo:knownFor o'<The_Simpsons>",
+    "9" : "s(Yeardley_Smith) dbo:knownFor o'<Lisa_Simpson>",
+    "10" : "s(Yeardley_Smith) dbo:occupation o'<Yeardley_Smith__1>",
+    "11" : "s(Yeardley_Smith) dbp:align o'<right>",
+    "12" : "s(Yeardley_Smith) dbp:bgcolor o'<transparent>",
+    "13" : "s(Yeardley_Smith) dbp:citizenship o'<American, French>",
+    "14" : "s(Yeardley_Smith) dbp:notableWorks o'<The Simpsons>",
+    "15" : "s(Yeardley_Smith) dbp:quote o'<It's a happy fluke. When she was cast back in 1987, I just liked the sound of her voice. She's also a great actress. In general, people who make their living doing voices on cartoons aren't always great for us. Most cartoons want things peppy and cartoony. Yeardley is able to go through moments of great emotion and wring it for all she's worth.>",
+    "16" : "s(Yeardley_Smith) dbp:salign o'<right>",
+    "17" : "s(Yeardley_Smith) dbp:source o'<â€”Matt Groening on Smith's vocal style>",
+    "18" : "s(Yeardley_Smith) dbp:spouse o'<Christopher Grove>",
+    "19" : "s(Yeardley_Smith) dbp:spouse o'<Daniel Erickson>",
+    "20" : "s(Yeardley_Smith) dbp:width o'<30>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(yeardley smith=Yeardley_Smith) [best known for ] o'<lisa simpson=Lisa_Simpson>",
+    "3" : "s(yeardley smith=Yeardley_Smith) [born ] o'<in paris=Paris>",
+    "8" : "s(yeardley smith=Yeardley_Smith) [auditioned for role in ] o'<the simpson family=The_Simpsons>",
+    "9" : "s(yeardley smith=Yeardley_Smith) [assigned role of ] o'<lisa=Lisa_Simpson>",
+    "10" : "s(yeardley smith=Yeardley_Smith) [voiced ] o'<lisa=Lisa_Simpson>"
+  },
+  "abstract" : {
+    "2" : "yeardley smith<Yeardley_Smith> is best known for her long-running role as lisa simpson<Lisa_Simpson> on the animated television series the simpsons<The_Simpsons>\n",
+    "3" : "yeardley smith<Yeardley_Smith> was born in paris<Paris> and moved with her family to washington, dc, in 1966\n",
+    "8" : "in 1987, yeardley smith<Yeardley_Smith> auditioned for a role in a series of animated shorts about the simpson family<The_Simpsons> on the tracey ullman show<The_Simpsons>\n",
+    "9" : "smith intended to audition for the role of bart simpson, but the casting director felt her voice was too high, so yeardley smith<Yeardley_Smith> was assigned the role of lisa<Lisa_Simpson>, instead\n",
+    "10" : "yeardley smith<Yeardley_Smith> voiced lisa<Lisa_Simpson> for three seasons on the tracey ullman show<The_Simpsons>, and in 1989, the shorts were spun off into their own half-hour show<The_Simpsons>, the simpsons<The_Simpsons>\n"
+  }
+}, {
+  "entityIndex" : "entity10788",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Ono",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Yoko_Ono) dbo:birthDate o'<1933-02-18>",
+    "2" : "s(Yoko_Ono) dbo:birthDate o'<1933-2-18>",
+    "3" : "s(Yoko_Ono) dbo:birthPlace o'<Tokyo>",
+    "4" : "s(Yoko_Ono) dbo:birthPlace o'<Empire_of_Japan>",
+    "5" : "s(Yoko_Ono) dbo:birthPlace o'<Q7473516>",
+    "6" : "s(Yoko_Ono) dbo:birthYear o'<1933>",
+    "7" : "s(Yoko_Ono) dbo:child o'<Sean_Lennon>",
+    "8" : "s(Yoko_Ono) dbo:occupation o'<Yoko_Ono__1>",
+    "9" : "s(Yoko_Ono) dbo:occupation o'<Peace_activist>",
+    "10" : "s(Yoko_Ono) dbp:spouse o'<--11-28>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(yoko ono=Yoko_Ono) [second wife ] o'<lennon=Sean_Lennon>",
+    "6" : "s(yoko ono=Yoko_Ono) [first met ] o'<lennon=Sean_Lennon>",
+    "14" : "s(yoko ono=Yoko_Ono) [funded strawberry fields in new ] o'<city=Tokyo>",
+    "15" : "s(yoko ono=Yoko_Ono) [made significant philanthropic contributions ] o'<japan=Empire_of_Japan>",
+    "20" : "s(yoko ono=Yoko_Ono) [daughter kyoko chan ] o'<sean=Sean_Lennon>"
+  },
+  "abstract" : {
+    "2" : "yoko ono<Yoko_Ono> is the second wife and widow of singer-songwriter john lennon<Sean_Lennon> of the beatles\n",
+    "6" : "yoko ono<Yoko_Ono> first met lennon<Sean_Lennon> in 1966 at her own art exhibition in london, and they became a couple in 1968\n",
+    "14" : "yoko ono<Yoko_Ono> funded strawberry fields in new york city<Tokyo>, the imagine peace tower in iceland, and the john lennon<Sean_Lennon> museum in saitama, japan<Empire_of_Japan> (which closed in 2010)\n",
+    "15" : "yoko ono<Yoko_Ono> has made significant philanthropic contributions to the arts, peace, philippine and japan<Empire_of_Japan> disaster relief, and other causes\n",
+    "20" : "yoko ono<Yoko_Ono> has a daughter, kyoko chan cox, from her marriage to anthony cox and a son, sean<Sean_Lennon> taro ono lennon<Sean_Lennon>, from her marriage to lennon<Sean_Lennon>, with whom yoko ono<Yoko_Ono> collaborates musically\n"
+  }
+}, {
+  "entityIndex" : "entity10789",
+  "entityUrl" : "http://dbpedia.org/resource/Yukihiro_Matsumoto",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Yukihiro_Matsumoto) dbo:birthDate o'<1965-04-14>",
+    "2" : "s(Yukihiro_Matsumoto) dbo:birthDate o'<1965-4-14>",
+    "3" : "s(Yukihiro_Matsumoto) dbo:birthPlace o'<Osaka_Prefecture>",
+    "4" : "s(Yukihiro_Matsumoto) dbo:birthYear o'<1965>",
+    "5" : "s(Yukihiro_Matsumoto) dbo:knownFor o'<Ruby_(programming_language)>",
+    "6" : "s(Yukihiro_Matsumoto) dbo:occupation o'<Yukihiro_Matsumoto__1>",
+    "7" : "s(Yukihiro_Matsumoto) dbo:religion o'<Christian>",
+    "8" : "s(Yukihiro_Matsumoto) dbp:children o'<4>",
+    "9" : "s(Yukihiro_Matsumoto) dbp:nationality o'<Japanese>",
+    "10" : "s(Yukihiro_Matsumoto) dbp:nickname o'<Matz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10790",
+  "entityUrl" : "http://dbpedia.org/resource/Yukinobu_Hoshino",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Yukinobu_Hoshino) dbo:birthDate o'<1954-01-29>",
+    "2" : "s(Yukinobu_Hoshino) dbo:birthDate o'<1954-1-29>",
+    "3" : "s(Yukinobu_Hoshino) dbo:birthPlace o'<Kushiro>",
+    "4" : "s(Yukinobu_Hoshino) dbo:birthPlace o'<HokkaidÅ�>",
+    "5" : "s(Yukinobu_Hoshino) dbo:birthPlace o'<Kushiro,_Hokkaido>",
+    "6" : "s(Yukinobu_Hoshino) dbo:birthYear o'<1954>",
+    "7" : "s(Yukinobu_Hoshino) dbo:occupation o'<Yukinobu_Hoshino__1>",
+    "8" : "s(Yukinobu_Hoshino) dbo:occupation o'<Mangaka>",
+    "9" : "s(Yukinobu_Hoshino) dbp:nationality o'<Japanese>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(yukinobu hoshino=Yukinobu_Hoshino) [born in ] o'<kushiro=Kushiro>"
+  },
+  "abstract" : {
+    "2" : "yukinobu hoshino<Yukinobu_Hoshino> was born in kushiro<Kushiro>, hokkaidå� and dropped out of aichi prefectural university of fine arts and music mid-semester from the fine arts department\n"
+  }
+} ]

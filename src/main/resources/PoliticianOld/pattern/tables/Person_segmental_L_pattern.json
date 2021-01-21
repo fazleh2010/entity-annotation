@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity11686",
+  "entityUrl" : "http://dbpedia.org/resource/Lugenia_Burns_Hope",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Lugenia_Burns_Hope) dbo:birthDate o'<1871-02-19>",
+    "2" : "s(Lugenia_Burns_Hope) dbo:birthDate o'<1871-2-19>",
+    "3" : "s(Lugenia_Burns_Hope) dbo:birthPlace o'<Missouri>",
+    "4" : "s(Lugenia_Burns_Hope) dbo:birthPlace o'<St._Louis>",
+    "5" : "s(Lugenia_Burns_Hope) dbo:birthYear o'<1871>",
+    "6" : "s(Lugenia_Burns_Hope) dbo:deathDate o'<1947-08-14>",
+    "7" : "s(Lugenia_Burns_Hope) dbo:deathDate o'<1947-8-14>",
+    "8" : "s(Lugenia_Burns_Hope) dbo:deathPlace o'<Nashville,_Tennessee>",
+    "9" : "s(Lugenia_Burns_Hope) dbo:deathYear o'<1947>",
+    "10" : "s(Lugenia_Burns_Hope) dbo:occupation o'<Lugenia_Burns_Hope__1>",
+    "11" : "s(Lugenia_Burns_Hope) dbo:spouse o'<John_Hope_(educator)>",
+    "12" : "s(Lugenia_Burns_Hope) dbp:relatives o'<Leah Hope>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11687",
+  "entityUrl" : "http://dbpedia.org/resource/Lavenia_Padarath",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11688",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_So-yeon_(actress)",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Lee_So-yeon_(actress)) dbo:activeYearsStartYear o'<2002>",
+    "2" : "s(Lee_So-yeon_(actress)) dbo:birthDate o'<1982-04-16>",
+    "3" : "s(Lee_So-yeon_(actress)) dbo:birthDate o'<1982-4-16>",
+    "4" : "s(Lee_So-yeon_(actress)) dbo:birthPlace o'<South_Korea>",
+    "5" : "s(Lee_So-yeon_(actress)) dbo:birthPlace o'<Seoul>",
+    "6" : "s(Lee_So-yeon_(actress)) dbo:birthYear o'<1982>",
+    "7" : "s(Lee_So-yeon_(actress)) dbo:education o'<Hanyang_University>",
+    "8" : "s(Lee_So-yeon_(actress)) dbo:occupation o'<Actress>",
+    "9" : "s(Lee_So-yeon_(actress)) dbo:occupation o'<Lee_So-yeon_(actress)__1>",
+    "10" : "s(Lee_So-yeon_(actress)) dbp:agent o'<Fantagio>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11689",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Crew",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Linda_Crew) dbo:birthDate o'<1951-1-1>",
+    "2" : "s(Linda_Crew) dbo:country o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11690",
+  "entityUrl" : "http://dbpedia.org/resource/Lynn_Peterzell",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Lynn_Peterzell) dbo:birthDate o'<1955-1-10>",
+    "2" : "s(Lynn_Peterzell) dbo:country o'<United_States>",
+    "3" : "s(Lynn_Peterzell) dbo:deathDate o'<1994-9-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11691",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Spencer",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Lee_Spencer) dbo:alias o'<Lee Alan Spencer Todd Kitchen.>",
+    "2" : "s(Lee_Spencer) dbo:birthDate o'<1963-1-1>",
+    "3" : "s(Lee_Spencer) dbo:birthName o'<Lee Alan Spencer-Todd>",
+    "4" : "s(Lee_Spencer) dbo:birthYear o'<1963>",
+    "5" : "s(Lee_Spencer) dbo:occupation o'<Record_producer>",
+    "6" : "s(Lee_Spencer) dbo:occupation o'<Lee_Spencer__1>",
+    "7" : "s(Lee_Spencer) dbp:nationality o'<English>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

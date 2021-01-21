@@ -1,0 +1,79 @@
+[ {
+  "entityIndex" : "entity11997",
+  "entityUrl" : "http://dbpedia.org/resource/Ibrahima_Fall",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ibrahima_Fall) dbo:birthDate o'<1855-1-1>",
+    "2" : "s(Ibrahima_Fall) dbo:deathDate o'<1930-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11998",
+  "entityUrl" : "http://dbpedia.org/resource/Isabella_Dunwill",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Isabella_Dunwill) dbo:activeYearsEndYear o'<1998>",
+    "2" : "s(Isabella_Dunwill) dbo:activeYearsStartYear o'<1998>",
+    "3" : "s(Isabella_Dunwill) dbo:birthName o'<Isabella Dunwill>",
+    "4" : "s(Isabella_Dunwill) dbo:imdbId o'<0243103>",
+    "5" : "s(Isabella_Dunwill) dbp:birthDate o'<Unknown>",
+    "6" : "s(Isabella_Dunwill) dbp:birthPlace o'<Australia>",
+    "7" : "s(Isabella_Dunwill) dbp:imagesize o'<150>",
+    "8" : "s(Isabella_Dunwill) dbp:name o'<Isabella Dunwill>",
+    "9" : "s(Isabella_Dunwill) dbp:notableRole o'<Geri Hallett in Neighbours>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(isabella dunwill=Isabella_Dunwill) [since gone on to ] o'<australian=Australia>"
+  },
+  "abstract" : {
+    "5" : "isabella dunwill<Isabella_Dunwill> has since gone on to study at the australian<Australia> national<Australia> institute of dramatic art (graduating in 2003) and has had roles both on stage and on screen, notably including what the butler saw directed by jim sharman, for belvoir st\n"
+  }
+}, {
+  "entityIndex" : "entity11999",
+  "entityUrl" : "http://dbpedia.org/resource/Isabel_Colegate",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Isabel_Colegate) dbo:birthDate o'<1931-9-10>",
+    "2" : "s(Isabel_Colegate) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12000",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Makarov",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ivan_Makarov) dbo:birthDate o'<1822-3-23>",
+    "2" : "s(Ivan_Makarov) dbo:birthPlace o'<Arzamas>",
+    "3" : "s(Ivan_Makarov) dbo:deathDate o'<1897-4-9>",
+    "4" : "s(Ivan_Makarov) dbo:deathPlace o'<Saint_Petersburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12001",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Iliev",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ivan_Iliev) dbo:birthDate o'<1985-3-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12002",
+  "entityUrl" : "http://dbpedia.org/resource/Ippolito_Galantini_(painter)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ippolito_Galantini_(painter)) dbo:birthDate o'<1627-1-1>",
+    "2" : "s(Ippolito_Galantini_(painter)) dbo:birthPlace o'<Florence>",
+    "3" : "s(Ippolito_Galantini_(painter)) dbo:deathDate o'<1706-1-1>",
+    "4" : "s(Ippolito_Galantini_(painter)) dbo:deathPlace o'<Florence>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(ippolito galantini (painter)=Ippolito_Galantini_(painter)) [died in 1706 in ] o'<florence=Florence>"
+  },
+  "abstract" : {
+    "5" : "ippolito galantini (painter)<Ippolito_Galantini_(painter)> died in 1706, in the monastery of montughi, near florence<Florence>\n"
+  }
+} ]

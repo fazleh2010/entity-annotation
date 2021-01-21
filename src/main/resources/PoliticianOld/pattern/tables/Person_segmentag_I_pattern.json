@@ -1,0 +1,59 @@
+[ {
+  "entityIndex" : "entity10853",
+  "entityUrl" : "http://dbpedia.org/resource/Isidore_Jacques_Eggermont",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Isidore_Jacques_Eggermont) dbo:birthDate o'<1844-5-15>",
+    "2" : "s(Isidore_Jacques_Eggermont) dbo:deathDate o'<1923-4-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10854",
+  "entityUrl" : "http://dbpedia.org/resource/Ibrahim_Jaja",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10855",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Francescato",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ivan_Francescato) dbo:birthDate o'<1967-2-10>",
+    "2" : "s(Ivan_Francescato) dbo:birthPlace o'<Treviso>",
+    "3" : "s(Ivan_Francescato) dbo:deathDate o'<1999-1-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10856",
+  "entityUrl" : "http://dbpedia.org/resource/Ignatije_Midi%C4%87",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10857",
+  "entityUrl" : "http://dbpedia.org/resource/Igor_Dmitriev",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Igor_Dmitriev) dbo:birthDate o'<1927-5-29>",
+    "2" : "s(Igor_Dmitriev) dbo:birthPlace o'<Saint_Petersburg>",
+    "3" : "s(Igor_Dmitriev) dbo:deathDate o'<2008-1-26>",
+    "4" : "s(Igor_Dmitriev) dbo:deathPlace o'<Saint_Petersburg>",
+    "5" : "s(Igor_Dmitriev) dbo:imdbId o'<0229392>",
+    "6" : "s(Igor_Dmitriev) dbp:name o'<Igor Dmitriyev>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10858",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Lines",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ian_Lines) dbo:birthDate o'<1965-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

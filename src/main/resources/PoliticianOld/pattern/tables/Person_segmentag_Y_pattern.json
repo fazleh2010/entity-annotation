@@ -1,0 +1,79 @@
+[ {
+  "entityIndex" : "entity10949",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8D_Yoshimura",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10950",
+  "entityUrl" : "http://dbpedia.org/resource/Yefim_Kopelyan",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Yefim_Kopelyan) dbo:birthDate o'<1912-4-12>",
+    "2" : "s(Yefim_Kopelyan) dbo:birthPlace o'<Rechytsa>",
+    "3" : "s(Yefim_Kopelyan) dbo:deathDate o'<1975-3-6>",
+    "4" : "s(Yefim_Kopelyan) dbo:deathPlace o'<Saint_Petersburg>",
+    "5" : "s(Yefim_Kopelyan) dbo:imdbId o'<0465748>",
+    "6" : "s(Yefim_Kopelyan) dbp:name o'<Yefim Kopelyan>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(yefim kopelyan=Yefim_Kopelyan) [born in belarusian town ] o'<rechytsa=Rechytsa>",
+    "5" : "s(yefim kopelyan=Yefim_Kopelyan) [worked metal craftsman ] o'<leningrad=Saint_Petersburg>"
+  },
+  "abstract" : {
+    "4" : "yefim kopelyan<Yefim_Kopelyan> was born in belarusian town rechytsa<Rechytsa> into a jewish family\n",
+    "5" : "after graduation, yefim kopelyan<Yefim_Kopelyan> worked as a metal craftsman at the plant krasny putilovets in leningrad<Saint_Petersburg>\n"
+  }
+}, {
+  "entityIndex" : "entity10951",
+  "entityUrl" : "http://dbpedia.org/resource/Yukari_Fukui",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Yukari_Fukui) dbo:birthDate o'<1982-10-28>",
+    "2" : "s(Yukari_Fukui) dbo:birthPlace o'<Hiratsuka,_Kanagawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10952",
+  "entityUrl" : "http://dbpedia.org/resource/Yukio_Kasaya",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Yukio_Kasaya) dbo:birthDate o'<1943-08-17>",
+    "2" : "s(Yukio_Kasaya) dbo:birthDate o'<1943-8-17>",
+    "3" : "s(Yukio_Kasaya) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yukio_Kasaya) dbo:birthPlace o'<Yoichi,_Hokkaido>",
+    "5" : "s(Yukio_Kasaya) dbo:height o'<170.0>",
+    "6" : "s(Yukio_Kasaya) dbo:height o'<1.7>",
+    "7" : "s(Yukio_Kasaya) dbo:weight o'<66.0>",
+    "8" : "s(Yukio_Kasaya) dbo:weight o'<66000.0>",
+    "9" : "s(Yukio_Kasaya) dbp:club o'<Meiji_University>",
+    "10" : "s(Yukio_Kasaya) dbp:club o'<Nikka_Whisky_Distilling>",
+    "11" : "s(Yukio_Kasaya) dbp:id o'<29544>",
+    "12" : "s(Yukio_Kasaya) dbp:name o'<Y. Kasaya>",
+    "13" : "s(Yukio_Kasaya) dbp:showMedals o'<yes>",
+    "14" : "s(Yukio_Kasaya) dbp:sport o'<Ski_jumping>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10953",
+  "entityUrl" : "http://dbpedia.org/resource/Yassamin_Maleknasr",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Yassamin_Maleknasr) dbo:birthPlace o'<Tehran>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10954",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Yida",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Yuan_Yida) dbp:p o'<YuÃ¡n YÃ¬dÃ¡>",
+    "2" : "s(Yuan_Yida) dbp:t o'<è¢�ç¾©é�”>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

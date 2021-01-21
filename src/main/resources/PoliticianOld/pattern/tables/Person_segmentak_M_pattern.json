@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity11530",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Green_(political_expert)",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Michael_Green_(political_expert)) dbo:birthDate o'<1961-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11531",
+  "entityUrl" : "http://dbpedia.org/resource/Manuel_Mora_Morales",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Manuel_Mora_Morales) dbo:birthDate o'<1952-1-1>",
+    "2" : "s(Manuel_Mora_Morales) dbo:birthPlace o'<La_Gomera>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11532",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_Darow",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Mike_Darow) dbo:alias o'<Mike Darow, Mike Darrow>",
+    "2" : "s(Mike_Darow) dbo:birthDate o'<1933-01-08>",
+    "3" : "s(Mike_Darow) dbo:birthDate o'<1933-1-8>",
+    "4" : "s(Mike_Darow) dbo:birthYear o'<1933>",
+    "5" : "s(Mike_Darow) dbo:deathDate o'<1996-12-07>",
+    "6" : "s(Mike_Darow) dbo:deathDate o'<1996-12-7>",
+    "7" : "s(Mike_Darow) dbo:deathYear o'<1996>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11533",
+  "entityUrl" : "http://dbpedia.org/resource/Melissa_Davis",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11534",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammad_Zeki_Mahjoub",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11535",
+  "entityUrl" : "http://dbpedia.org/resource/Murali_Mohan",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Murali_Mohan) dbo:birthDate o'<1940-6-24>",
+    "2" : "s(Murali_Mohan) dbo:birthPlace o'<Eluru>",
+    "3" : "s(Murali_Mohan) dbo:birthPlace o'<Chataparru>",
+    "4" : "s(Murali_Mohan) dbo:office o'<Memberof theIndia Parliament>",
+    "5" : "s(Murali_Mohan) dbo:office o'<forRajahmundry>",
+    "6" : "s(Murali_Mohan) dbo:party o'<Telugu_Desam_Party>",
+    "7" : "s(Murali_Mohan) dbo:predecessor o'<Undavalli_Aruna_Kumar>",
+    "8" : "s(Murali_Mohan) dbo:relation o'<Jayabheri_Arts>",
+    "9" : "s(Murali_Mohan) dbo:residence o'<Hyderabad>",
+    "10" : "s(Murali_Mohan) dbo:residence o'<Film_Nagar>",
+    "11" : "s(Murali_Mohan) dbo:residence o'<Telangana>",
+    "12" : "s(Murali_Mohan) dbp:children o'<2>",
+    "13" : "s(Murali_Mohan) dbp:officialStatus o'<Politician>",
+    "14" : "s(Murali_Mohan) dbp:officialStatus o'<Actor>",
+    "15" : "s(Murali_Mohan) dbp:officialStatus o'<Chairman, Jayabheri Group>",
+    "16" : "s(Murali_Mohan) dbp:religion o'<Hindu>",
+    "17" : "s(Murali_Mohan) dbp:spouse o'<Vijaya Lakshmi>",
+    "18" : "s(Murali_Mohan) dbp:termStart o'<May 2014>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(murali mohan=Murali_Mohan) [served in various positions ] o'<film=Actor>",
+    "7" : "s(murali mohan=Murali_Mohan) [formed his ] o'<film=Actor>",
+    "12" : "s(murali mohan=Murali_Mohan) [active in ] o'<politics=Politician>",
+    "13" : "s(murali mohan=Murali_Mohan) [contested in 15th loksabha ] o'<tdp=Telugu_Desam_Party>",
+    "14" : "s(murali mohan=Murali_Mohan) [won 16th loksabha elections ] o'<member=Politician>"
+  },
+  "abstract" : {
+    "5" : "murali mohan<Murali_Mohan> has served in various positions in national film<Actor> development corporation (nfdc) and the andhra pradesh<Telangana> film<Actor> development corporation\n",
+    "7" : "in 1980 murali mohan<Murali_Mohan> formed his own film<Actor> production company, jayabheri arts<Jayabheri_Arts>, with his brother kishore\n",
+    "12" : "murali mohan<Murali_Mohan> has also been active in politics<Politician> for the telugu desam party<Telugu_Desam_Party>\n",
+    "13" : "on the political front, murali mohan<Murali_Mohan> contested in the 15th loksabha elections in 2009 as the tdp<Telugu_Desam_Party> candidate from rajahmundry parliamentary constituency of andhra pradesh<Telangana>, which eventually lost to the indian<Hindu> national congress<Telugu_Desam_Party> candidate vundavalli aruna kumar by just 2,147 votes\n",
+    "14" : "in 2014, murali mohan<Murali_Mohan> won the 16th loksabha elections as a member<Politician> of parliament from rajahmundry\n"
+  }
+} ]

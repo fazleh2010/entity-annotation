@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11255",
+  "entityUrl" : "http://dbpedia.org/resource/Taborah_Johnson",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Taborah_Johnson) dbo:activeYearsStartYear o'<1979>",
+    "2" : "s(Taborah_Johnson) dbo:birthDate o'<1953-03-21>",
+    "3" : "s(Taborah_Johnson) dbo:birthDate o'<1953-3-21>",
+    "4" : "s(Taborah_Johnson) dbo:birthName o'<Taborah Johnson>",
+    "5" : "s(Taborah_Johnson) dbo:birthPlace o'<Toronto>",
+    "6" : "s(Taborah_Johnson) dbo:birthPlace o'<Canada>",
+    "7" : "s(Taborah_Johnson) dbo:birthYear o'<1953>",
+    "8" : "s(Taborah_Johnson) dbo:occupation o'<Taborah_Johnson__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(taborah johnson=Taborah_Johnson) [born march 21 1953 ] o'<tabby johnson=Taborah_Johnson>",
+    "3" : "s(taborah johnson=Taborah_Johnson) [began career in ] o'<toronto=Toronto>",
+    "5" : "s(taborah johnson=Taborah_Johnson) [subsequently returned to ] o'<toronto=Toronto>",
+    "14" : "s(taborah johnson=Taborah_Johnson) [appeared on ] o'<toronto=Toronto>"
+  },
+  "abstract" : {
+    "1" : "taborah johnson<Taborah_Johnson> (born march 21, 1953), also known as tabby johnson<Taborah_Johnson>, is a canadian singer and actress",
+    "3" : "taborah johnson<Taborah_Johnson> began her career in the toronto<Toronto> production of hair as a teenager\n",
+    "5" : "taborah johnson<Taborah_Johnson> subsequently returned to toronto<Toronto>, where taborah johnson<Taborah_Johnson> sang as a jazz performer and as a backing vocalist for her sister molly's band infidels, and acted in occasional film and television roles, including appearances on cagney and lacey, airwaves, e\n",
+    "14" : "in the summer of 2005, taborah johnson<Taborah_Johnson> appeared on toronto<Toronto> news/talk station cfrb, filling in for mark elliot on his late night talk radio shift\n"
+  }
+}, {
+  "entityIndex" : "entity11256",
+  "entityUrl" : "http://dbpedia.org/resource/Talish",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Talish) dbo:activeYearsEndYear o'<1998>",
+    "2" : "s(Talish) dbo:activeYearsStartYear o'<1950>",
+    "3" : "s(Talish) dbo:birthDate o'<1927-0-0>",
+    "4" : "s(Talish) dbo:birthName o'<Agha Ali Abbas Qazalbash,Agha Talish>",
+    "5" : "s(Talish) dbo:birthPlace o'<Ludhiana>",
+    "6" : "s(Talish) dbo:birthYear o'<1926>",
+    "7" : "s(Talish) dbo:child o'<Ahson_Talish>",
+    "8" : "s(Talish) dbo:deathDate o'<1998-02-19>",
+    "9" : "s(Talish) dbo:deathDate o'<1998-2-19>",
+    "10" : "s(Talish) dbo:deathPlace o'<Lahore>",
+    "11" : "s(Talish) dbo:deathYear o'<1998>",
+    "12" : "s(Talish) dbo:occupation o'<Talish__1>",
+    "13" : "s(Talish) dbp:imagesize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(talish=Talish) [born in ] o'<ludhiana=Ludhiana>"
+  },
+  "abstract" : {
+    "3" : "talish's real name was agha ali abbas qizilbash, talish<Talish> was born in ludhiana<Ludhiana>, india in 1926\n"
+  }
+}, {
+  "entityIndex" : "entity11257",
+  "entityUrl" : "http://dbpedia.org/resource/Ti%C3%A9bil%C3%A9_Dram%C3%A9",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11258",
+  "entityUrl" : "http://dbpedia.org/resource/T._T._Martin",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(T._T._Martin) dbo:birthDate o'<1862-1-1>",
+    "2" : "s(T._T._Martin) dbo:birthPlace o'<Smith_County,_Mississippi>",
+    "3" : "s(T._T._Martin) dbo:birthPlace o'<Mississippi>",
+    "4" : "s(T._T._Martin) dbo:birthYear o'<1862>",
+    "5" : "s(T._T._Martin) dbo:deathDate o'<1939-05-23>",
+    "6" : "s(T._T._Martin) dbo:deathDate o'<1939-5-23>",
+    "7" : "s(T._T._Martin) dbo:deathYear o'<1939>",
+    "8" : "s(T._T._Martin) dbp:birthName o'<Thomas Theodore Martin>",
+    "9" : "s(T._T._Martin) dbp:institutions o'<Evangelism>",
+    "10" : "s(T._T._Martin) dbp:institutions o'<Antievolutionism>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11259",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Ramirez",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ted_Ramirez) dbo:country o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11260",
+  "entityUrl" : "http://dbpedia.org/resource/Trudy_Huskamp_Peterson",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Trudy_Huskamp_Peterson) dbo:birthDate o'<1945-1-25>",
+    "2" : "s(Trudy_Huskamp_Peterson) dbp:after o'<John_W._Carlin>",
+    "3" : "s(Trudy_Huskamp_Peterson) dbp:before o'<Don_W._Wilson>",
+    "4" : "s(Trudy_Huskamp_Peterson) dbp:title o'<Archivist_of_the_United_States>",
+    "5" : "s(Trudy_Huskamp_Peterson) dbp:years o'<1993>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "8" : "s(trudy huskamp peterson=Trudy_Huskamp_Peterson) [consulting ] o'<archivist=Archivist_of_the_United_States>"
+  },
+  "abstract" : {
+    "8" : "trudy huskamp peterson<Trudy_Huskamp_Peterson> has been a consulting archivist<Archivist_of_the_United_States> since 2002, most recently assisting in the digitization of more than 30,000 linear feet of records at the north american veterinary dental college\n"
+  }
+} ]

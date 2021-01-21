@@ -1,0 +1,32 @@
+[ {
+  "entityIndex" : "entity11137",
+  "entityUrl" : "http://dbpedia.org/resource/6th_Dalai_Lama",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(6th_Dalai_Lama) dbo:birthDate o'<1683-3-1>",
+    "2" : "s(6th_Dalai_Lama) dbo:birthPlace o'<Tawang>",
+    "3" : "s(6th_Dalai_Lama) dbo:deathDate o'<1706-11-15>",
+    "4" : "s(6th_Dalai_Lama) dbp:birthDate o'<1683-03-01>",
+    "5" : "s(6th_Dalai_Lama) dbp:birthPlace o'<Tawang Town, Tibet, now in India>",
+    "6" : "s(6th_Dalai_Lama) dbp:chinese o'<å€‰å¤®å˜‰æŽª>",
+    "7" : "s(6th_Dalai_Lama) dbp:deathDate o'<1706-11-15>",
+    "8" : "s(6th_Dalai_Lama) dbp:deathPlace o'<Qing_dynasty>",
+    "9" : "s(6th_Dalai_Lama) dbp:deathPlace o'<Qinghai>",
+    "10" : "s(6th_Dalai_Lama) dbp:name o'<Tsangyang>",
+    "11" : "s(6th_Dalai_Lama) dbp:predecessor o'<5th_Dalai_Lama>",
+    "12" : "s(6th_Dalai_Lama) dbp:reign o'<1697>",
+    "13" : "s(6th_Dalai_Lama) dbp:successor o'<7th_Dalai_Lama>",
+    "14" : "s(6th_Dalai_Lama) dbp:t o'<à½šà½„à½¦à¼‹à½‘à½–à¾±à½„à½¦à¼‹à½¢à¾’à¾±à¼‹à½˜à½šà½¼>",
+    "15" : "s(6th_Dalai_Lama) dbp:tibetan o'<à½šà½„à½¦à¼‹à½‘à½–à¾±à½„à½¦à¼‹à½¢à¾’à¾±à¼‹à½˜à½šà½¼à¼‹>",
+    "16" : "s(6th_Dalai_Lama) dbp:title o'<6>",
+    "17" : "s(6th_Dalai_Lama) dbp:title o'<Dalai_Lama>",
+    "18" : "s(6th_Dalai_Lama) dbp:transprc o'<Cangyang Gyaco>",
+    "19" : "s(6th_Dalai_Lama) dbp:w o'<tshangs-dbyangs rgya-mtsho>",
+    "20" : "s(6th_Dalai_Lama) dbp:wylie o'<tshangs dbyangs rgya mtsho>",
+    "21" : "s(6th_Dalai_Lama) dbp:years o'<1697>",
+    "22" : "s(6th_Dalai_Lama) dbp:years o'<Recognized in 1688>",
+    "23" : "s(6th_Dalai_Lama) dbp:z o'<Cangyang Gyamco>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

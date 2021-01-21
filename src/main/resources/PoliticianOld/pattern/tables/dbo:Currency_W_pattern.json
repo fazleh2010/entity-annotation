@@ -1,0 +1,31 @@
+[ {
+  "entityIndex" : "entity11108",
+  "entityUrl" : "http://dbpedia.org/resource/West_African_CFA_franc",
+  "dboClass" : "dbo:Currency",
+  "triples" : {
+    "1" : "s(West_African_CFA_franc) dbo:usingCountry o'<Benin>",
+    "2" : "s(West_African_CFA_franc) dbo:usingCountry o'<Burkina_Faso>",
+    "3" : "s(West_African_CFA_franc) dbo:usingCountry o'<Guinea-Bissau>",
+    "4" : "s(West_African_CFA_franc) dbo:usingCountry o'<Mali>",
+    "5" : "s(West_African_CFA_franc) dbo:usingCountry o'<Niger>",
+    "6" : "s(West_African_CFA_franc) dbo:usingCountry o'<Senegal>",
+    "7" : "s(West_African_CFA_franc) dbo:usingCountry o'<Ivory_Coast>",
+    "8" : "s(West_African_CFA_franc) dbo:usingCountry o'<Togo>",
+    "9" : "s(West_African_CFA_franc) dbp:imageTitle o'<Current coins of the West African CFA franc.>",
+    "10" : "s(West_African_CFA_franc) dbp:isoCode o'<XOF>",
+    "11" : "s(West_African_CFA_franc) dbp:isoExponent o'<0>",
+    "12" : "s(West_African_CFA_franc) dbp:isoNumber o'<952>",
+    "13" : "s(West_African_CFA_franc) dbp:issuingAuthority o'<Central_Bank_of_West_African_States>",
+    "14" : "s(West_African_CFA_franc) dbp:issuingAuthorityWebsite o'<www.bceao.int>",
+    "15" : "s(West_African_CFA_franc) dbp:nickname o'<céfa, franc>",
+    "16" : "s(West_African_CFA_franc) dbp:peggedWith o'<euro = CFA 655.957>",
+    "17" : "s(West_African_CFA_franc) dbp:subunitName o'<Centime>",
+    "18" : "s(West_African_CFA_franc) dbp:subunitRatio o'<1>",
+    "19" : "s(West_African_CFA_franc) dbp:symbol o'<CFA>",
+    "20" : "s(West_African_CFA_franc) dbp:symbolSubunit o'<c>",
+    "21" : "s(West_African_CFA_franc) dbp:usedBanknotes o'<9223372036854775807>",
+    "22" : "s(West_African_CFA_franc) dbp:usedCoins o'<9223372036854775807>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

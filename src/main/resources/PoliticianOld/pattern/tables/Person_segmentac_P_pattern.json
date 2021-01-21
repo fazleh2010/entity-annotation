@@ -1,0 +1,107 @@
+[ {
+  "entityIndex" : "entity11058",
+  "entityUrl" : "http://dbpedia.org/resource/Pehr_Wilhelm_Wargentin",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Pehr_Wilhelm_Wargentin) dbo:birthDate o'<1717-0-0>",
+    "2" : "s(Pehr_Wilhelm_Wargentin) dbo:birthPlace o'<Sunne,_Sweden>",
+    "3" : "s(Pehr_Wilhelm_Wargentin) dbo:deathDate o'<1783-0-0>",
+    "4" : "s(Pehr_Wilhelm_Wargentin) dbo:deathPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "10" : "s(pehr wilhelm wargentin=Pehr_Wilhelm_Wargentin) [called to ] o'<stockholm=Stockholm>"
+  },
+  "abstract" : {
+    "10" : "pehr wilhelm wargentin<Pehr_Wilhelm_Wargentin> was called to stockholm<Stockholm> as secretary of the royal swedish academy of sciences in 1749 on the death of secretary pehr elvius, jr\n"
+  }
+}, {
+  "entityIndex" : "entity11059",
+  "entityUrl" : "http://dbpedia.org/resource/Pieter_Kok",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Pieter_Kok) dbo:birthDate o'<1972-6-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11060",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Twinn",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Peter_Twinn) dbo:almaMater o'<Brasenose_College,_Oxford>",
+    "2" : "s(Peter_Twinn) dbo:birthDate o'<1916-01-09>",
+    "3" : "s(Peter_Twinn) dbo:birthDate o'<1916-1-9>",
+    "4" : "s(Peter_Twinn) dbo:birthName o'<Peter Frank George Twinn>",
+    "5" : "s(Peter_Twinn) dbo:birthPlace o'<London>",
+    "6" : "s(Peter_Twinn) dbo:birthPlace o'<Streatham>",
+    "7" : "s(Peter_Twinn) dbo:birthYear o'<1916>",
+    "8" : "s(Peter_Twinn) dbo:citizenship o'<British_nationality_law>",
+    "9" : "s(Peter_Twinn) dbo:deathDate o'<2004-10-29>",
+    "10" : "s(Peter_Twinn) dbo:deathPlace o'<English_people>",
+    "11" : "s(Peter_Twinn) dbo:deathYear o'<2004>",
+    "12" : "s(Peter_Twinn) dbo:education o'<Dulwich_College>",
+    "13" : "s(Peter_Twinn) dbo:education o'<Manchester_Grammar_School>",
+    "14" : "s(Peter_Twinn) dbo:employer o'<Government_Code_and_Cypher_School>",
+    "15" : "s(Peter_Twinn) dbo:nationality o'<English_people>",
+    "16" : "s(Peter_Twinn) dbo:occupation o'<Cryptanalysis>",
+    "17" : "s(Peter_Twinn) dbo:occupation o'<Civil_service>",
+    "18" : "s(Peter_Twinn) dbo:occupation o'<Peter_Twinn__1>",
+    "19" : "s(Peter_Twinn) dbo:stateOfOrigin o'<English_people>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11061",
+  "entityUrl" : "http://dbpedia.org/resource/P._J._Grigg",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(P._J._Grigg) dbo:almaMater o'<St_John's_College,_Cambridge>",
+    "2" : "s(P._J._Grigg) dbo:birthDate o'<1890-12-16>",
+    "3" : "s(P._J._Grigg) dbo:birthPlace o'<Devon>",
+    "4" : "s(P._J._Grigg) dbo:birthPlace o'<Exmouth>",
+    "5" : "s(P._J._Grigg) dbo:deathDate o'<1964-05-05>",
+    "6" : "s(P._J._Grigg) dbo:deathDate o'<1964-5-5>",
+    "7" : "s(P._J._Grigg) dbo:monarch o'<George_VI_of_the_United_Kingdom>",
+    "8" : "s(P._J._Grigg) dbo:nationality o'<British_people>",
+    "9" : "s(P._J._Grigg) dbo:orderInOffice o'<Secretary of State for War>",
+    "10" : "s(P._J._Grigg) dbo:predecessor o'<David_Margesson,_1st_Viscount_Margesson>",
+    "11" : "s(P._J._Grigg) dbo:primeMinister o'<Winston_Churchill>",
+    "12" : "s(P._J._Grigg) dbo:successor o'<Jack_Lawson>",
+    "13" : "s(P._J._Grigg) dbo:termPeriod o'<P._J._Grigg__1>",
+    "14" : "s(P._J._Grigg) dbp:after o'<Hilary_Marquand>",
+    "15" : "s(P._J._Grigg) dbp:after o'<Jack_Lawson>",
+    "16" : "s(P._J._Grigg) dbp:after o'<Frederick_Bovenschen>",
+    "17" : "s(P._J._Grigg) dbp:after o'<Sir Eric Speed>",
+    "18" : "s(P._J._Grigg) dbp:before o'<David_Margesson,_1st_Viscount_Margesson>",
+    "19" : "s(P._J._Grigg) dbp:before o'<Herbert_Creedy>",
+    "20" : "s(P._J._Grigg) dbp:before o'<Owen_Temple-Morris>",
+    "21" : "s(P._J._Grigg) dbp:honorificPrefix o'<The_Right_Honourable>",
+    "22" : "s(P._J._Grigg) dbp:honorificSuffix o'<Order_of_the_Bath>",
+    "23" : "s(P._J._Grigg) dbp:honorificSuffix o'<Order_of_the_Star_of_India>",
+    "24" : "s(P._J._Grigg) dbp:imagesize o'<200>",
+    "25" : "s(P._J._Grigg) dbp:title o'<Under-Secretary_of_State_for_War>",
+    "26" : "s(P._J._Grigg) dbp:title o'<Secretary_of_State_for_War>",
+    "27" : "s(P._J._Grigg) dbp:title o'<Member of Parliament for Cardiff East>",
+    "28" : "s(P._J._Grigg) dbp:years o'<1939>",
+    "29" : "s(P._J._Grigg) dbp:years o'<1942>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11062",
+  "entityUrl" : "http://dbpedia.org/resource/Pauline_Gregg",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Pauline_Gregg) dbo:birthDate o'<1909-7-17>",
+    "2" : "s(Pauline_Gregg) dbo:deathDate o'<2006-3-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11063",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Cruzatte",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

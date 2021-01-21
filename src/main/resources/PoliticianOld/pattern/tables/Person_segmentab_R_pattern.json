@@ -1,0 +1,145 @@
+[ {
+  "entityIndex" : "entity10907",
+  "entityUrl" : "http://dbpedia.org/resource/Reinhold_Gli%C3%A8re",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10908",
+  "entityUrl" : "http://dbpedia.org/resource/Rasmus_Rask",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Rasmus_Rask) dbo:birthDate o'<1787-11-22>",
+    "2" : "s(Rasmus_Rask) dbo:birthPlace o'<Odense>",
+    "3" : "s(Rasmus_Rask) dbo:deathDate o'<1832-11-14>",
+    "4" : "s(Rasmus_Rask) dbo:deathPlace o'<Copenhagen>",
+    "5" : "s(Rasmus_Rask) dbp:almaMater o'<University_of_Copenhagen>",
+    "6" : "s(Rasmus_Rask) dbp:birthDate o'<1787-11-22>",
+    "7" : "s(Rasmus_Rask) dbp:birthName o'<Rasmus Christian Nielsen Rasch>",
+    "8" : "s(Rasmus_Rask) dbp:birthPlace o'<BrÃ¦ndekilde, Denmark>",
+    "9" : "s(Rasmus_Rask) dbp:deathCause o'<Tuberculosis>",
+    "10" : "s(Rasmus_Rask) dbp:deathDate o'<1832-11-14>",
+    "11" : "s(Rasmus_Rask) dbp:deathPlace o'<Copenhagen, Denmark>",
+    "12" : "s(Rasmus_Rask) dbp:discipline o'<Philology>",
+    "13" : "s(Rasmus_Rask) dbp:discipline o'<Linguistics>",
+    "14" : "s(Rasmus_Rask) dbp:name o'<Rasmus Rask>",
+    "15" : "s(Rasmus_Rask) dbp:nationality o'<Danish>",
+    "16" : "s(Rasmus_Rask) dbp:subDiscipline o'<Historical_linguistics>",
+    "17" : "s(Rasmus_Rask) dbp:subDiscipline o'<Comparative_linguistics>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(rasmus rask=Rasmus_Rask) [hired professor of ] o'<languages=Linguistics>"
+  },
+  "abstract" : {
+    "4" : "shortly before his death, rasmus rask<Rasmus_Rask> was hired as professor of eastern languages<Linguistics> at the university of copenhagen<University_of_Copenhagen>\n"
+  }
+}, {
+  "entityIndex" : "entity10909",
+  "entityUrl" : "http://dbpedia.org/resource/Rosamond_McKitterick",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Rosamond_McKitterick) dbo:almaMater o'<University_of_Western_Australia>",
+    "2" : "s(Rosamond_McKitterick) dbo:birthDate o'<1949-05-31>",
+    "3" : "s(Rosamond_McKitterick) dbo:birthDate o'<1949-5-31>",
+    "4" : "s(Rosamond_McKitterick) dbo:field o'<Medieval_history>",
+    "5" : "s(Rosamond_McKitterick) dbp:after o'<Christine_Carpenter_(historian)>",
+    "6" : "s(Rosamond_McKitterick) dbp:before o'<Barrie_Dobson>",
+    "7" : "s(Rosamond_McKitterick) dbp:imageSize o'<Î”Î¿Î�Î‘>",
+    "8" : "s(Rosamond_McKitterick) dbp:nationality o'<British>",
+    "9" : "s(Rosamond_McKitterick) dbp:title o'<Professor_of_Medieval_History_(Cambridge)>",
+    "10" : "s(Rosamond_McKitterick) dbp:workplaces o'<Sidney_Sussex_College,_Cambridge>",
+    "11" : "s(Rosamond_McKitterick) dbp:workplaces o'<Newnham_College,_Cambridge>",
+    "12" : "s(Rosamond_McKitterick) dbp:years o'<1999>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(rosamond mckitterick=Rosamond_McKitterick) [professor of ] o'<medieval history=Medieval_history>"
+  },
+  "abstract" : {
+    "2" : "from 1999 until 2016 rosamond mckitterick<Rosamond_McKitterick> was professor of medieval history<Medieval_history> at the university of cambridge<Sidney_Sussex_College,_Cambridge>\n"
+  }
+}, {
+  "entityIndex" : "entity10910",
+  "entityUrl" : "http://dbpedia.org/resource/Rudolf_Hoernl%C3%A9",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10911",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_A._Lovett",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Robert_A._Lovett) dbo:almaMater o'<Yale_University>",
+    "2" : "s(Robert_A._Lovett) dbo:almaMater o'<Harvard_University>",
+    "3" : "s(Robert_A._Lovett) dbo:battle o'<World_War_I>",
+    "4" : "s(Robert_A._Lovett) dbo:birthDate o'<1895-09-14>",
+    "5" : "s(Robert_A._Lovett) dbo:birthDate o'<1895-9-14>",
+    "6" : "s(Robert_A._Lovett) dbo:birthPlace o'<United_States>",
+    "7" : "s(Robert_A._Lovett) dbo:birthPlace o'<Huntsville,_Texas>",
+    "8" : "s(Robert_A._Lovett) dbo:birthPlace o'<Texas>",
+    "9" : "s(Robert_A._Lovett) dbo:child o'<Robert_S._Lovett>",
+    "10" : "s(Robert_A._Lovett) dbo:deathDate o'<1986-05-07>",
+    "11" : "s(Robert_A._Lovett) dbo:deathDate o'<1986-5-7>",
+    "12" : "s(Robert_A._Lovett) dbo:deathPlace o'<United_States>",
+    "13" : "s(Robert_A._Lovett) dbo:deathPlace o'<Locust_Valley,_New_York>",
+    "14" : "s(Robert_A._Lovett) dbo:deathPlace o'<New_York_(state)>",
+    "15" : "s(Robert_A._Lovett) dbo:militaryBranch o'<United_States_Navy>",
+    "16" : "s(Robert_A._Lovett) dbo:militaryRank o'<Lieutenant_Commander>",
+    "17" : "s(Robert_A._Lovett) dbo:orderInOffice o'<15th>",
+    "18" : "s(Robert_A._Lovett) dbo:orderInOffice o'<2nd>",
+    "19" : "s(Robert_A._Lovett) dbo:orderInOffice o'<4th>",
+    "20" : "s(Robert_A._Lovett) dbo:party o'<Republican_Party_(United_States)>",
+    "21" : "s(Robert_A._Lovett) dbo:predecessor o'<Stephen_T._Early>",
+    "22" : "s(Robert_A._Lovett) dbo:predecessor o'<Dean_G._Acheson>",
+    "23" : "s(Robert_A._Lovett) dbo:predecessor o'<George_C._Marshall>",
+    "24" : "s(Robert_A._Lovett) dbo:president o'<Harry_S._Truman>",
+    "25" : "s(Robert_A._Lovett) dbo:profession o'<Government>",
+    "26" : "s(Robert_A._Lovett) dbo:profession o'<Businessman>",
+    "27" : "s(Robert_A._Lovett) dbo:successor o'<Roger_M._Kyes>",
+    "28" : "s(Robert_A._Lovett) dbo:successor o'<James_E._Webb>",
+    "29" : "s(Robert_A._Lovett) dbo:successor o'<Charles_Erwin_Wilson>",
+    "30" : "s(Robert_A._Lovett) dbo:termPeriod o'<Robert_A._Lovett__1>",
+    "31" : "s(Robert_A._Lovett) dbo:termPeriod o'<Robert_A._Lovett__2>",
+    "32" : "s(Robert_A._Lovett) dbo:termPeriod o'<Robert_A._Lovett__3>",
+    "33" : "s(Robert_A._Lovett) dbp:after o'<Roger_M._Kyes>",
+    "34" : "s(Robert_A._Lovett) dbp:after o'<James_E._Webb>",
+    "35" : "s(Robert_A._Lovett) dbp:after o'<James_B._Conant>",
+    "36" : "s(Robert_A._Lovett) dbp:after o'<Charles_Erwin_Wilson>",
+    "37" : "s(Robert_A._Lovett) dbp:before o'<Stephen_T._Early>",
+    "38" : "s(Robert_A._Lovett) dbp:before o'<Dean_G._Acheson>",
+    "39" : "s(Robert_A._Lovett) dbp:before o'<John_J._McCloy>",
+    "40" : "s(Robert_A._Lovett) dbp:before o'<George_C._Marshall>",
+    "41" : "s(Robert_A._Lovett) dbp:birthName o'<Robert Abercrombie Lovett>",
+    "42" : "s(Robert_A._Lovett) dbp:department o'<Secretary of Defense>",
+    "43" : "s(Robert_A._Lovett) dbp:parents o'<Robert_S._Lovett>",
+    "44" : "s(Robert_A._Lovett) dbp:parents o'<Lavinia Chilton Abercrombie Lovett>",
+    "45" : "s(Robert_A._Lovett) dbp:president o'<Harry_S._Truman>",
+    "46" : "s(Robert_A._Lovett) dbp:restingPlace o'<Locust Valley Cemetery in Locust, New York, U.S.>",
+    "47" : "s(Robert_A._Lovett) dbp:spouse o'<Adele Quartley Brown Lovett>",
+    "48" : "s(Robert_A._Lovett) dbp:title o'<United_States_Secretary_of_Defense>",
+    "49" : "s(Robert_A._Lovett) dbp:title o'<Sylvanus_Thayer_Award>",
+    "50" : "s(Robert_A._Lovett) dbp:title o'<United_States_Deputy_Secretary_of_Defense>",
+    "51" : "s(Robert_A._Lovett) dbp:title o'<Under_Secretary_of_State>",
+    "52" : "s(Robert_A._Lovett) dbp:years o'<1947>",
+    "53" : "s(Robert_A._Lovett) dbp:years o'<1950>",
+    "54" : "s(Robert_A._Lovett) dbp:years o'<1951>",
+    "55" : "s(Robert_A._Lovett) dbp:years o'<1964>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(robert a. lovett=Robert_A._Lovett) [served in cabinet of ] o'<president=United_States>"
+  },
+  "abstract" : {
+    "2" : "robert a. lovett<Robert_A._Lovett> served in the cabinet of president<United_States> harry<Harry_S._Truman> s\n"
+  }
+}, {
+  "entityIndex" : "entity10912",
+  "entityUrl" : "http://dbpedia.org/resource/Rashid_Bakr",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Rashid_Bakr) dbo:birthDate o'<1930-1-1>",
+    "2" : "s(Rashid_Bakr) dbo:deathDate o'<1988-3-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

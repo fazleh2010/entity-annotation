@@ -1,0 +1,72 @@
+[ {
+  "entityIndex" : "entity14128",
+  "entityUrl" : "http://dbpedia.org/resource/John_Fenton-Cawthorne",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(John_Fenton-Cawthorne) dbo:birthDate o'<1753-01-05>",
+    "2" : "s(John_Fenton-Cawthorne) dbo:birthDate o'<1753-1-5>",
+    "3" : "s(John_Fenton-Cawthorne) dbo:birthYear o'<1753>",
+    "4" : "s(John_Fenton-Cawthorne) dbo:deathDate o'<1831-3-1>",
+    "5" : "s(John_Fenton-Cawthorne) dbo:deathYear o'<1831>",
+    "6" : "s(John_Fenton-Cawthorne) dbo:occupation o'<John_Fenton-Cawthorne__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14129",
+  "entityUrl" : "http://dbpedia.org/resource/Jeffrey_Schiff",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Jeffrey_Schiff) dbo:birthPlace o'<Rolla,_North_Dakota>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14130",
+  "entityUrl" : "http://dbpedia.org/resource/Jauhar_Saleem",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14131",
+  "entityUrl" : "http://dbpedia.org/resource/Jack_Rusher",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Jack_Rusher) dbo:birthDate o'<1967-04-18>",
+    "2" : "s(Jack_Rusher) dbo:birthDate o'<1967-4-18>",
+    "3" : "s(Jack_Rusher) dbo:birthPlace o'<Boston,_Massachusetts>",
+    "4" : "s(Jack_Rusher) dbo:birthPlace o'<Boston>",
+    "5" : "s(Jack_Rusher) dbp:headercolor o'<lightsteelblue>",
+    "6" : "s(Jack_Rusher) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14132",
+  "entityUrl" : "http://dbpedia.org/resource/John_Lingo",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(John_Lingo) dbo:birthDate o'<1500-0-0>",
+    "2" : "s(John_Lingo) dbo:birthYear o'<1500>",
+    "3" : "s(John_Lingo) dbo:deathYear o'<1560>",
+    "4" : "s(John_Lingo) dbo:occupation o'<Vicar>",
+    "5" : "s(John_Lingo) dbo:occupation o'<Monk>",
+    "6" : "s(John_Lingo) dbo:occupation o'<Chantry_priest>",
+    "7" : "s(John_Lingo) dbo:occupation o'<John_Lingo__1>",
+    "8" : "s(John_Lingo) dbp:knownFor o'<1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "7" : "s(john lingo=John_Lingo) [appointed ] o'<vicar=Vicar>"
+  },
+  "abstract" : {
+    "7" : "some time after 1554 john lingo<John_Lingo> was appointed vicar<Vicar> of the nearby parish of st\n"
+  }
+}, {
+  "entityIndex" : "entity14133",
+  "entityUrl" : "http://dbpedia.org/resource/Jerome_Anderson_(football_agent)",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

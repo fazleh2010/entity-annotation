@@ -1,0 +1,50 @@
+[ {
+  "entityIndex" : "entity11088",
+  "entityUrl" : "http://dbpedia.org/resource/Uzi_Narkiss",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Uzi_Narkiss) dbo:birthDate o'<1925-1-6>",
+    "2" : "s(Uzi_Narkiss) dbo:birthPlace o'<Jerusalem>",
+    "3" : "s(Uzi_Narkiss) dbo:deathDate o'<1997-12-17>",
+    "4" : "s(Uzi_Narkiss) dbo:deathPlace o'<Jerusalem>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11089",
+  "entityUrl" : "http://dbpedia.org/resource/Usko_Meril%C3%A4inen",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11090",
+  "entityUrl" : "http://dbpedia.org/resource/Udi_Hrant_Kenkulian",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Udi_Hrant_Kenkulian) dbo:deathDate o'<1978-8-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11091",
+  "entityUrl" : "http://dbpedia.org/resource/Ulpius_Marcellus",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11092",
+  "entityUrl" : "http://dbpedia.org/resource/Ulpius_Marcellus_(son)",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11093",
+  "entityUrl" : "http://dbpedia.org/resource/Ulla_J%C3%BCr%C3%9F",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

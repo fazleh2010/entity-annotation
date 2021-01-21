@@ -1,0 +1,100 @@
+[ {
+  "entityIndex" : "entity10828",
+  "entityUrl" : "http://dbpedia.org/resource/06/05",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(05) dbo:budget o'<1.2>",
+    "2" : "s(05) dbo:cinematography o'<Thomas_Kist>",
+    "3" : "s(05) dbo:director o'<Theo_van_Gogh_(film_director)>",
+    "4" : "s(05) dbo:distributor o'<Inspire_Pictures>",
+    "5" : "s(05) dbo:editing o'<Merel_Notten>",
+    "6" : "s(05) dbo:musicComposer o'<Rainer_Hensel>",
+    "7" : "s(05) dbo:producer o'<Gijs_van_Westelaken>",
+    "8" : "s(05) dbo:runtime o'<120.0>",
+    "9" : "s(05) dbo:runtime o'<7200.0>",
+    "10" : "s(05) dbo:starring o'<Thijs_Römer>",
+    "11" : "s(05) dbo:starring o'<Tara_Elders>",
+    "12" : "s(05) dbo:starring o'<Johnny_de_Mol>",
+    "13" : "s(05) dbo:starring o'<Tooske_Breugem>",
+    "14" : "s(05) dbo:writer o'<Tomas_Ross>",
+    "15" : "s(05) dbp:country o'<Netherlands>",
+    "16" : "s(05) dbp:language o'<Dutch>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10829",
+  "entityUrl" : "http://dbpedia.org/resource/002_Operazione_Luna",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(002_Operazione_Luna) dbo:cinematography o'<Tino_Santoni>",
+    "2" : "s(002_Operazione_Luna) dbo:country o'<Italy>",
+    "3" : "s(002_Operazione_Luna) dbo:director o'<Lucio_Fulci>",
+    "4" : "s(002_Operazione_Luna) dbo:editing o'<Pedro_del_Rey>",
+    "5" : "s(002_Operazione_Luna) dbo:imdbId o'<0057805>",
+    "6" : "s(002_Operazione_Luna) dbo:language o'<Italian_language>",
+    "7" : "s(002_Operazione_Luna) dbo:musicComposer o'<Coriolano_Gori>",
+    "8" : "s(002_Operazione_Luna) dbo:runtime o'<90.0>",
+    "9" : "s(002_Operazione_Luna) dbo:runtime o'<5400.0>",
+    "10" : "s(002_Operazione_Luna) dbo:starring o'<Mónica_Randall>",
+    "11" : "s(002_Operazione_Luna) dbo:starring o'<Ciccio_Ingrassia>",
+    "12" : "s(002_Operazione_Luna) dbo:starring o'<Franco_Franchi>",
+    "13" : "s(002_Operazione_Luna) dbo:writer o'<Vittorio_Metz>",
+    "14" : "s(002_Operazione_Luna) dbo:writer o'<José_Luis_Dibildos>",
+    "15" : "s(002_Operazione_Luna) dbp:title o'<2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10830",
+  "entityUrl" : "http://dbpedia.org/resource/008",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(008) dbo:wikiPageDisambiguates o'<008:_Operation_Exterminate>",
+    "2" : "s(008) dbo:wikiPageDisambiguates o'<Explosivo_008>",
+    "3" : "s(008) dbo:wikiPageDisambiguates o'<Peugeot_008>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10831",
+  "entityUrl" : "http://dbpedia.org/resource/08/15_(film_series)",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(15_(film_series)) dbo:cinematography o'<Heinz_Hölscher>",
+    "2" : "s(15_(film_series)) dbo:director o'<Paul_May>",
+    "3" : "s(15_(film_series)) dbo:editing o'<Arnfried_Heyne>",
+    "4" : "s(15_(film_series)) dbo:editing o'<Walter_Boos>",
+    "5" : "s(15_(film_series)) dbo:musicComposer o'<Rolf_A._Wilhelm>",
+    "6" : "s(15_(film_series)) dbo:producer o'<Ilse_Kubaschewski>",
+    "7" : "s(15_(film_series)) dbo:writer o'<Hans_Hellmut_Kirst>",
+    "8" : "s(15_(film_series)) dbo:writer o'<Paul_May>",
+    "9" : "s(15_(film_series)) dbo:writer o'<Ernst_von_Salomon>",
+    "10" : "s(15_(film_series)) dbo:writer o'<Claus_Hardt>",
+    "11" : "s(15_(film_series)) dbp:country o'<West Germany>",
+    "12" : "s(15_(film_series)) dbp:distributor o'<Gloria Filmverleih AG>",
+    "13" : "s(15_(film_series)) dbp:language o'<German>",
+    "14" : "s(15_(film_series)) dbp:studio o'<Divina-Film>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10832",
+  "entityUrl" : "http://dbpedia.org/resource/03",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(03) dbo:wikiPageDisambiguates o'<2003>",
+    "2" : "s(03) dbo:wikiPageDisambiguates o'<03_(Son_of_Dave_album)>",
+    "3" : "s(03) dbo:wikiPageDisambiguates o'<03_(Twelve_album)>",
+    "4" : "s(03) dbo:wikiPageDisambiguates o'<03_(Urban_Zakapa_album)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10833",
+  "entityUrl" : "http://dbpedia.org/resource/00_Schneider_%E2%80%93_Jagd_auf_Nihil_Baxter",
+  "dboClass" : "dbo:Film",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

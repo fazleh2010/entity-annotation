@@ -1,0 +1,116 @@
+[ {
+  "entityIndex" : "entity11500",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Pereira_Mendes",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Henry_Pereira_Mendes) dbo:birthDate o'<1852-1-1>",
+    "2" : "s(Henry_Pereira_Mendes) dbo:deathDate o'<1937-1-1>",
+    "3" : "s(Henry_Pereira_Mendes) dbp:article o'<Mendes>",
+    "4" : "s(Henry_Pereira_Mendes) dbp:url o'<view.jsp?letter=M&artid=448>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11501",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Brown_(footballer,_born_1924)",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Harry_Brown_(footballer,_born_1924)) dbo:birthDate o'<1924-4-9>",
+    "2" : "s(Harry_Brown_(footballer,_born_1924)) dbo:deathDate o'<1982-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11502",
+  "entityUrl" : "http://dbpedia.org/resource/Heather_Watts",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Heather_Watts) dbo:birthDate o'<1953-09-27>",
+    "2" : "s(Heather_Watts) dbo:birthDate o'<1953-9-27>",
+    "3" : "s(Heather_Watts) dbo:birthYear o'<1953>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11503",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Jensen",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Harry_Jensen) dbo:birthDate o'<1913-07-12>",
+    "2" : "s(Harry_Jensen) dbo:birthDate o'<1913-7-12>",
+    "3" : "s(Harry_Jensen) dbo:birthPlace o'<New_South_Wales>",
+    "4" : "s(Harry_Jensen) dbo:birthPlace o'<Australia>",
+    "5" : "s(Harry_Jensen) dbo:birthPlace o'<Newtown,_New_South_Wales>",
+    "6" : "s(Harry_Jensen) dbo:deathDate o'<1998-08-27>",
+    "7" : "s(Harry_Jensen) dbo:deathDate o'<1998-8-27>",
+    "8" : "s(Harry_Jensen) dbo:deathPlace o'<Australia>",
+    "9" : "s(Harry_Jensen) dbo:deathPlace o'<Randwick,_New_South_Wales>",
+    "10" : "s(Harry_Jensen) dbo:orderInOffice o'<71stLord Mayor of Sydney>",
+    "11" : "s(Harry_Jensen) dbo:party o'<Australian_Labor_Party>",
+    "12" : "s(Harry_Jensen) dbo:predecessor o'<Pat_Hills>",
+    "13" : "s(Harry_Jensen) dbo:successor o'<John_Armstrong_(Australian_politician)>",
+    "14" : "s(Harry_Jensen) dbo:termPeriod o'<Harry_Jensen__1>",
+    "15" : "s(Harry_Jensen) dbp:after o'<Paul_Landa>",
+    "16" : "s(Harry_Jensen) dbp:after o'<John_Armstrong_(Australian_politician)>",
+    "17" : "s(Harry_Jensen) dbp:as o'<Minister for Highways>",
+    "18" : "s(Harry_Jensen) dbp:as o'<Minister for Planning and Environment>",
+    "19" : "s(Harry_Jensen) dbp:before o'<Peter_Cox_(politician)>",
+    "20" : "s(Harry_Jensen) dbp:before o'<John_Fuller_(Australian_politician)>",
+    "21" : "s(Harry_Jensen) dbp:before o'<Pat_Hills>",
+    "22" : "s(Harry_Jensen) dbp:honorificPrefix o'<(The Honourable)>",
+    "23" : "s(Harry_Jensen) dbp:honorificSuffix o'<(AO)>",
+    "24" : "s(Harry_Jensen) dbp:title o'<List_of_Mayors_and_Lord_Mayors_of_Sydney>",
+    "25" : "s(Harry_Jensen) dbp:title o'<Minister_for_Transport_(New_South_Wales)>",
+    "26" : "s(Harry_Jensen) dbp:title o'<List_of_mayors_of_Randwick>",
+    "27" : "s(Harry_Jensen) dbp:title o'<Electoral_district_of_Munmorah>",
+    "28" : "s(Harry_Jensen) dbp:title o'<Minister_for_Local_Government_(New_South_Wales)>",
+    "29" : "s(Harry_Jensen) dbp:title o'<Electoral_district_of_Wyong>",
+    "30" : "s(Harry_Jensen) dbp:title o'<Minister_for_Planning_(New_South_Wales)>",
+    "31" : "s(Harry_Jensen) dbp:years o'<1954>",
+    "32" : "s(Harry_Jensen) dbp:years o'<1956>",
+    "33" : "s(Harry_Jensen) dbp:years o'<1965>",
+    "34" : "s(Harry_Jensen) dbp:years o'<1973>",
+    "35" : "s(Harry_Jensen) dbp:years o'<1976>",
+    "36" : "s(Harry_Jensen) dbp:years o'<1978>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(harry jensen=Harry_Jensen) [lord ] o'<mayor of sydney=List_of_Mayors_and_Lord_Mayors_of_Sydney>",
+    "6" : "s(harry jensen=Harry_Jensen) [worked electrician ] o'<labor=Australian_Labor_Party>",
+    "8" : "s(harry jensen=Harry_Jensen) [served alderman on ] o'<randwick=Randwick,_New_South_Wales>",
+    "9" : "s(harry jensen=Harry_Jensen) [alderman on ] o'<sydney=Australia>",
+    "10" : "s(harry jensen=Harry_Jensen) [entered ] o'<new south wales=New_South_Wales>",
+    "11" : "s(harry jensen=Harry_Jensen) [reelected in november 1973 ] o'<munmorah=Electoral_district_of_Munmorah>",
+    "13" : "s(harry jensen=Harry_Jensen) [died in ] o'<randwick=Randwick,_New_South_Wales>"
+  },
+  "abstract" : {
+    "2" : "harry jensen<Harry_Jensen> was also lord mayor of sydney<List_of_Mayors_and_Lord_Mayors_of_Sydney> from 1957 until 1965\n",
+    "6" : "harry jensen<Harry_Jensen> worked as an electrician and became an organiser within the australian electrical trades union and a delegate to the australian trades and labor<Australian_Labor_Party> council\n",
+    "8" : "harry jensen<Harry_Jensen> served as an alderman on randwick<Randwick,_New_South_Wales> municipal council from 1950 until 1956, including mayor of randwick<List_of_mayors_of_Randwick> from 1954\n",
+    "9" : "harry jensen<Harry_Jensen> was an alderman on sydney<Australia> city council from 1956 until 1965, and lord mayor of sydney<List_of_Mayors_and_Lord_Mayors_of_Sydney> from 1957 until 1965\n",
+    "10" : "harry jensen<Harry_Jensen> entered the new south wales<New_South_Wales> legislative assembly at the 1965 state<New_South_Wales> election, as member for wyong<Electoral_district_of_Wyong>, which harry jensen<Harry_Jensen> represented until october 1973\n",
+    "11" : "harry jensen<Harry_Jensen> was re-elected in november 1973 as the representative for munmorah<Electoral_district_of_Munmorah>, a seat harry jensen<Harry_Jensen> occupied until 28 august 1981\n",
+    "13" : "harry jensen<Harry_Jensen> died in randwick<Randwick,_New_South_Wales>, new south wales<New_South_Wales>\n"
+  }
+}, {
+  "entityIndex" : "entity11504",
+  "entityUrl" : "http://dbpedia.org/resource/Herbert_Bentwich",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Herbert_Bentwich) dbo:birthDate o'<1856-5-11>",
+    "2" : "s(Herbert_Bentwich) dbo:birthPlace o'<Whitechapel_(disambiguation)>",
+    "3" : "s(Herbert_Bentwich) dbo:deathDate o'<1932-6-25>",
+    "4" : "s(Herbert_Bentwich) dbo:deathPlace o'<Rehavia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11505",
+  "entityUrl" : "http://dbpedia.org/resource/Harold_Searles",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Harold_Searles) dbo:birthDate o'<1918-1-1>",
+    "2" : "s(Harold_Searles) dbo:deathDate o'<2015-11-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

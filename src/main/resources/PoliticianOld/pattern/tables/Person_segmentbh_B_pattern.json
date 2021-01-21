@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11303",
+  "entityUrl" : "http://dbpedia.org/resource/Broughton_Knox",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Broughton_Knox) dbo:birthDate o'<1916-12-26>",
+    "2" : "s(Broughton_Knox) dbo:deathDate o'<1994-1-14>",
+    "3" : "s(Broughton_Knox) dbp:after o'<Peter_Jensen_(bishop)>",
+    "4" : "s(Broughton_Knox) dbp:before o'<Marcus_Loane>",
+    "5" : "s(Broughton_Knox) dbp:title o'<Principal of Moore Theological College>",
+    "6" : "s(Broughton_Knox) dbp:years o'<1959>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11304",
+  "entityUrl" : "http://dbpedia.org/resource/Boriboon_Chanrueng",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Boriboon_Chanrueng) dbo:birthDate o'<1979-12-19>",
+    "2" : "s(Boriboon_Chanrueng) dbo:birthName o'<Boriboon Chanrueng>",
+    "3" : "s(Boriboon_Chanrueng) dbo:birthPlace o'<Thailand>",
+    "4" : "s(Boriboon_Chanrueng) dbo:birthYear o'<1979>",
+    "5" : "s(Boriboon_Chanrueng) dbo:occupation o'<Boriboon_Chanrueng__1>",
+    "6" : "s(Boriboon_Chanrueng) dbo:occupation o'<Actor>",
+    "7" : "s(Boriboon_Chanrueng) dbo:religion o'<Buddhism>",
+    "8" : "s(Boriboon_Chanrueng) dbo:spouse o'<Else_Tan_Aichia>",
+    "9" : "s(Boriboon_Chanrueng) dbp:otherNames o'<Tuk Boriboon>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(boriboon chanrueng=Boriboon_Chanrueng) [later became best known for ] o'<television=Actor>",
+    "4" : "s(boriboon chanrueng=Boriboon_Chanrueng) [married to ] o'<else tan aichia=Else_Tan_Aichia>"
+  },
+  "abstract" : {
+    "3" : "starting off a career as an actor<Actor>, boriboon chanrueng<Boriboon_Chanrueng> later became best known for his moderator role in khon uad phee, the television<Actor> programme of workpoint entertainment\n",
+    "4" : "boriboon chanrueng<Boriboon_Chanrueng> is married to else tan aichia<Else_Tan_Aichia>, the former malay<Thailand> air hostess on july 28, 2013 06:30 pm at grand hiad erawan hotel, bangkok\n"
+  }
+}, {
+  "entityIndex" : "entity11305",
+  "entityUrl" : "http://dbpedia.org/resource/Ba_Kaung",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Ba_Kaung) dbo:birthDate o'<1921-1-1>",
+    "2" : "s(Ba_Kaung) dbo:birthPlace o'<British_Burma>",
+    "3" : "s(Ba_Kaung) dbo:birthPlace o'<Shwebo>",
+    "4" : "s(Ba_Kaung) dbo:birthYear o'<1921>",
+    "5" : "s(Ba_Kaung) dbo:deathDate o'<2003-7-8>",
+    "6" : "s(Ba_Kaung) dbo:deathPlace o'<Myanmar>",
+    "7" : "s(Ba_Kaung) dbo:deathPlace o'<Yangon>",
+    "8" : "s(Ba_Kaung) dbo:deathYear o'<2003>",
+    "9" : "s(Ba_Kaung) dbo:nationality o'<Burma>",
+    "10" : "s(Ba_Kaung) dbo:stateOfOrigin o'<Burma>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ba kaung=Ba_Kaung) [established progressive student force ] o'<burma=Burma>"
+  },
+  "abstract" : {
+    "2" : "along with other student activists, ba kaung<Ba_Kaung> established the progressive student force, in 1957, a rival union of the government-backed democratic student organization and also served as a leader for the communist party of burma<Burma>\n"
+  }
+}, {
+  "entityIndex" : "entity11306",
+  "entityUrl" : "http://dbpedia.org/resource/Bernhard_Schottl%C3%A4nder",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11307",
+  "entityUrl" : "http://dbpedia.org/resource/Berto_Barbarani",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Berto_Barbarani) dbo:birthDate o'<1872-12-3>",
+    "2" : "s(Berto_Barbarani) dbo:birthPlace o'<Verona>",
+    "3" : "s(Berto_Barbarani) dbo:deathDate o'<1945-1-27>",
+    "4" : "s(Berto_Barbarani) dbo:deathPlace o'<Verona>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(berto barbarani=Berto_Barbarani) [wrote many poems in ] o'<veronese=Verona>"
+  },
+  "abstract" : {
+    "2" : "berto barbarani<Berto_Barbarani> wrote many poems in veronese<Verona>, a dialect of northern italy\n"
+  }
+}, {
+  "entityIndex" : "entity11308",
+  "entityUrl" : "http://dbpedia.org/resource/Bruno_Doehring",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Bruno_Doehring) dbo:birthDate o'<1879-02-03>",
+    "2" : "s(Bruno_Doehring) dbo:birthDate o'<1879-2-3>",
+    "3" : "s(Bruno_Doehring) dbo:birthPlace o'<MorÄ…g>",
+    "4" : "s(Bruno_Doehring) dbo:birthPlace o'<Mohrungen>",
+    "5" : "s(Bruno_Doehring) dbo:birthYear o'<1879>",
+    "6" : "s(Bruno_Doehring) dbo:deathDate o'<1961-04-16>",
+    "7" : "s(Bruno_Doehring) dbo:deathDate o'<1961-4-16>",
+    "8" : "s(Bruno_Doehring) dbo:deathPlace o'<Berlin>",
+    "9" : "s(Bruno_Doehring) dbo:deathYear o'<1961>",
+    "10" : "s(Bruno_Doehring) dbo:occupation o'<Bruno_Doehring__1>",
+    "11" : "s(Bruno_Doehring) dbo:occupation o'<Pastor>",
+    "12" : "s(Bruno_Doehring) dbp:nationality o'<German>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

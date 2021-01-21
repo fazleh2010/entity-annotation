@@ -1,0 +1,79 @@
+[ {
+  "entityIndex" : "entity12009",
+  "entityUrl" : "http://dbpedia.org/resource/Krzysztof_W%C4%99glarz",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12010",
+  "entityUrl" : "http://dbpedia.org/resource/Kai_Fagaschinski",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Kai_Fagaschinski) dbo:background o'<non_vocal_instrumentalist>",
+    "2" : "s(Kai_Fagaschinski) dbo:birthDate o'<1974-07-10>",
+    "3" : "s(Kai_Fagaschinski) dbo:birthDate o'<1974-10-6>",
+    "4" : "s(Kai_Fagaschinski) dbo:birthPlace o'<Dannenberg_(Elbe)>",
+    "5" : "s(Kai_Fagaschinski) dbo:birthPlace o'<Lower_Saxony>",
+    "6" : "s(Kai_Fagaschinski) dbo:genre o'<Jazz>",
+    "7" : "s(Kai_Fagaschinski) dbo:occupation o'<Musician>",
+    "8" : "s(Kai_Fagaschinski) dbo:occupation o'<Clarinet>",
+    "9" : "s(Kai_Fagaschinski) dbo:occupation o'<Composer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12011",
+  "entityUrl" : "http://dbpedia.org/resource/Kan_Fukumoto",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Kan_Fukumoto) dbp:blp o'<yes>",
+    "2" : "s(Kan_Fukumoto) dbp:date o'<May 2016>",
+    "3" : "s(Kan_Fukumoto) dbp:reason o'<use MADB to source basics, add Anime Encyclopedia and others>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12012",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuki_Namioka",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Kazuki_Namioka) dbo:birthDate o'<1978-08-02>",
+    "2" : "s(Kazuki_Namioka) dbo:birthDate o'<1978-8-2>",
+    "3" : "s(Kazuki_Namioka) dbo:birthPlace o'<Japan>",
+    "4" : "s(Kazuki_Namioka) dbo:birthPlace o'<Osaka>",
+    "5" : "s(Kazuki_Namioka) dbo:birthPlace o'<Osaka_Prefecture>",
+    "6" : "s(Kazuki_Namioka) dbo:birthYear o'<1978>",
+    "7" : "s(Kazuki_Namioka) dbo:country o'<Japan>",
+    "8" : "s(Kazuki_Namioka) dbo:occupation o'<Kazuki_Namioka__1>",
+    "9" : "s(Kazuki_Namioka) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12013",
+  "entityUrl" : "http://dbpedia.org/resource/Kevan_Barbour",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Kevan_Barbour) dbo:birthDate o'<1949-10-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12014",
+  "entityUrl" : "http://dbpedia.org/resource/Kenichi_Mikawa",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Kenichi_Mikawa) dbo:birthDate o'<1946-05-15>",
+    "2" : "s(Kenichi_Mikawa) dbo:birthDate o'<1946-5-15>",
+    "3" : "s(Kenichi_Mikawa) dbo:birthName o'<Yoshikazu Momose>",
+    "4" : "s(Kenichi_Mikawa) dbo:birthPlace o'<Suwa,_Nagano>",
+    "5" : "s(Kenichi_Mikawa) dbo:birthYear o'<1946>",
+    "6" : "s(Kenichi_Mikawa) dbo:occupation o'<Kenichi_Mikawa__1>",
+    "7" : "s(Kenichi_Mikawa) dbp:nationality o'<Japanese>",
+    "8" : "s(Kenichi_Mikawa) dbp:nativeName o'<ç¾Žå·� æ†²ä¸€>",
+    "9" : "s(Kenichi_Mikawa) dbp:nativeNameLang o'<ja>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

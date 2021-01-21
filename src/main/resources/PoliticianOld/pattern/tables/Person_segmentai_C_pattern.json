@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity11145",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Bliss",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11146",
+  "entityUrl" : "http://dbpedia.org/resource/Claude_Voilier",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Claude_Voilier) dbo:birthDate o'<1917-11-9>",
+    "2" : "s(Claude_Voilier) dbo:birthPlace o'<Saint-Gaudens,_Haute-Garonne>",
+    "3" : "s(Claude_Voilier) dbo:deathDate o'<2009-5-22>",
+    "4" : "s(Claude_Voilier) dbo:deathPlace o'<La_Teste-de-Buch>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11147",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Robin",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Charles_Robin) dbo:birthDate o'<1743-10-30>",
+    "2" : "s(Charles_Robin) dbo:deathDate o'<1824-6-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11148",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_Clemenson",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Christian_Clemenson) dbo:activeYearsStartYear o'<1985>",
+    "2" : "s(Christian_Clemenson) dbo:birthDate o'<1958-03-17>",
+    "3" : "s(Christian_Clemenson) dbo:birthDate o'<1958-3-17>",
+    "4" : "s(Christian_Clemenson) dbo:birthName o'<Christian Dayton Clemenson>",
+    "5" : "s(Christian_Clemenson) dbo:birthPlace o'<United_States>",
+    "6" : "s(Christian_Clemenson) dbo:birthPlace o'<Humboldt,_Iowa>",
+    "7" : "s(Christian_Clemenson) dbo:birthYear o'<1958>",
+    "8" : "s(Christian_Clemenson) dbo:occupation o'<Christian_Clemenson__1>",
+    "9" : "s(Christian_Clemenson) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11149",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Abbot_(botanist)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Charles_Abbot_(botanist)) dbo:birthDate o'<1761-3-24>",
+    "2" : "s(Charles_Abbot_(botanist)) dbo:birthPlace o'<London>",
+    "3" : "s(Charles_Abbot_(botanist)) dbo:deathDate o'<1817-9-8>",
+    "4" : "s(Charles_Abbot_(botanist)) dbo:deathPlace o'<Bedford>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11150",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Abbott,_3rd_Baron_Tenterden",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Charles_Abbott,_3rd_Baron_Tenterden) dbo:birthDate o'<1834-12-26>",
+    "2" : "s(Charles_Abbott,_3rd_Baron_Tenterden) dbo:deathDate o'<1882-9-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

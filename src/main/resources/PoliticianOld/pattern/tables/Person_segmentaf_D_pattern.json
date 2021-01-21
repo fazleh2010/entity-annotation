@@ -1,0 +1,56 @@
+[ {
+  "entityIndex" : "entity10659",
+  "entityUrl" : "http://dbpedia.org/resource/Dhun_Jehangir_Ruttonjee",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Dhun_Jehangir_Ruttonjee) dbo:birthDate o'<1903-1-1>",
+    "2" : "s(Dhun_Jehangir_Ruttonjee) dbo:deathDate o'<1974-7-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10660",
+  "entityUrl" : "http://dbpedia.org/resource/David_Knights",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(David_Knights) dbo:birthDate o'<1945-6-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10661",
+  "entityUrl" : "http://dbpedia.org/resource/D._M._S._Watson",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(D._M._S._Watson) dbo:birthDate o'<1886-6-18>",
+    "2" : "s(D._M._S._Watson) dbo:birthPlace o'<Greater_Manchester>",
+    "3" : "s(D._M._S._Watson) dbo:deathDate o'<1973-7-23>",
+    "4" : "s(D._M._S._Watson) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10662",
+  "entityUrl" : "http://dbpedia.org/resource/David_Hartman_(rabbi)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(David_Hartman_(rabbi)) dbo:birthDate o'<1931-9-11>",
+    "2" : "s(David_Hartman_(rabbi)) dbo:deathDate o'<2013-2-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10663",
+  "entityUrl" : "http://dbpedia.org/resource/Dora_Peja%C4%8Devi%C4%87",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10664",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Levinson",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

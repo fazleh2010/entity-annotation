@@ -1,0 +1,76 @@
+[ {
+  "entityIndex" : "entity14104",
+  "entityUrl" : "http://dbpedia.org/resource/Fumihiko_Sueki",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Fumihiko_Sueki) dbo:birthDate o'<1949-9-6>",
+    "2" : "s(Fumihiko_Sueki) dbo:birthPlace o'<KÅ�fu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14105",
+  "entityUrl" : "http://dbpedia.org/resource/Franti%C5%A1ek_Smol%C3%ADk",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14106",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Montague_Moore",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Frank_Montague_Moore) dbo:birthDate o'<1877-1-1>",
+    "2" : "s(Frank_Montague_Moore) dbo:birthPlace o'<Great_Britain>",
+    "3" : "s(Frank_Montague_Moore) dbo:deathDate o'<1967-1-1>",
+    "4" : "s(Frank_Montague_Moore) dbo:deathPlace o'<Carmel-by-the-Sea,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14107",
+  "entityUrl" : "http://dbpedia.org/resource/Fulgenzio_Micanzio",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Fulgenzio_Micanzio) dbo:birthDate o'<1570-1-1>",
+    "2" : "s(Fulgenzio_Micanzio) dbo:birthPlace o'<Passirano>",
+    "3" : "s(Fulgenzio_Micanzio) dbo:deathDate o'<1654-1-1>",
+    "4" : "s(Fulgenzio_Micanzio) dbo:deathPlace o'<Venice>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14108",
+  "entityUrl" : "http://dbpedia.org/resource/Florica_Lavric",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Florica_Lavric) dbo:birthDate o'<1962-01-07>",
+    "2" : "s(Florica_Lavric) dbo:birthDate o'<1962-1-7>",
+    "3" : "s(Florica_Lavric) dbo:birthPlace o'<Romania>",
+    "4" : "s(Florica_Lavric) dbo:birthPlace o'<CopÄƒlÄƒu>",
+    "5" : "s(Florica_Lavric) dbo:deathDate o'<2014-06-20>",
+    "6" : "s(Florica_Lavric) dbo:deathDate o'<2014-6-20>",
+    "7" : "s(Florica_Lavric) dbo:deathPlace o'<Romania>",
+    "8" : "s(Florica_Lavric) dbo:deathPlace o'<Bucharest>",
+    "9" : "s(Florica_Lavric) dbo:height o'<181.0>",
+    "10" : "s(Florica_Lavric) dbo:height o'<1.81>",
+    "11" : "s(Florica_Lavric) dbo:weight o'<80.0>",
+    "12" : "s(Florica_Lavric) dbo:weight o'<80000.0>",
+    "13" : "s(Florica_Lavric) dbp:club o'<Steaua Bucharest>",
+    "14" : "s(Florica_Lavric) dbp:imageSize o'<220>",
+    "15" : "s(Florica_Lavric) dbp:showMedals o'<yes>",
+    "16" : "s(Florica_Lavric) dbp:sport o'<Rowing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14109",
+  "entityUrl" : "http://dbpedia.org/resource/Felix_Abuchi",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Felix_Abuchi) dbo:birthDate o'<1991-3-4>",
+    "2" : "s(Felix_Abuchi) dbo:birthPlace o'<Lagos>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

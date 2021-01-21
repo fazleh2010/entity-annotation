@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity11183",
+  "entityUrl" : "http://dbpedia.org/resource/Helmut_Bakaitis",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Helmut_Bakaitis) dbo:birthDate o'<1944-09-26>",
+    "2" : "s(Helmut_Bakaitis) dbo:birthDate o'<1944-9-26>",
+    "3" : "s(Helmut_Bakaitis) dbo:birthPlace o'<Nazi_Germany>",
+    "4" : "s(Helmut_Bakaitis) dbo:birthPlace o'<LubaÅ„>",
+    "5" : "s(Helmut_Bakaitis) dbo:birthPlace o'<Free_State_of_Prussia>",
+    "6" : "s(Helmut_Bakaitis) dbo:birthPlace o'<Lauban>",
+    "7" : "s(Helmut_Bakaitis) dbo:birthPlace o'<Province_of_Lower_Silesia>",
+    "8" : "s(Helmut_Bakaitis) dbo:birthYear o'<1944>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11184",
+  "entityUrl" : "http://dbpedia.org/resource/Hung_Liu",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Hung_Liu) dbo:birthDate o'<1948-02-17>",
+    "2" : "s(Hung_Liu) dbo:birthDate o'<1948-2-17>",
+    "3" : "s(Hung_Liu) dbo:birthPlace o'<Changchun>",
+    "4" : "s(Hung_Liu) dbo:training o'<China_Central_Academy_of_Fine_Arts>",
+    "5" : "s(Hung_Liu) dbo:training o'<Beijing_Teachers_College>",
+    "6" : "s(Hung_Liu) dbp:awards o'<National Endowment for the Arts Fellowship , Joan Mitchell Fellowship , Society for the Encouragement of Contemporary Art  award , Eureka Fellowship>",
+    "7" : "s(Hung_Liu) dbp:bgcolour o'<#6495ED>",
+    "8" : "s(Hung_Liu) dbp:field o'<Painting, mural painting>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11185",
+  "entityUrl" : "http://dbpedia.org/resource/Hippolyte_Havel",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Hippolyte_Havel) dbo:birthDate o'<1871-8-13>",
+    "2" : "s(Hippolyte_Havel) dbo:birthPlace o'<TÃ¡bor>",
+    "3" : "s(Hippolyte_Havel) dbo:deathDate o'<1950-1-1>",
+    "4" : "s(Hippolyte_Havel) dbo:deathPlace o'<New_Jersey>",
+    "5" : "s(Hippolyte_Havel) dbp:id o'<Havel,+Hippolyte>",
+    "6" : "s(Hippolyte_Havel) dbp:name o'<Hippolyte Havel>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11186",
+  "entityUrl" : "http://dbpedia.org/resource/Heike_Wilms-Kegel",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Heike_Wilms-Kegel) dbo:birthDate o'<1952-10-19>",
+    "2" : "s(Heike_Wilms-Kegel) dbo:country o'<Germany>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11187",
+  "entityUrl" : "http://dbpedia.org/resource/Huguette_Oligny",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Huguette_Oligny) dbo:birthDate o'<1922-01-31>",
+    "2" : "s(Huguette_Oligny) dbo:birthDate o'<1922-1-31>",
+    "3" : "s(Huguette_Oligny) dbo:birthPlace o'<Montreal>",
+    "4" : "s(Huguette_Oligny) dbo:birthPlace o'<Canada>",
+    "5" : "s(Huguette_Oligny) dbo:birthPlace o'<Quebec>",
+    "6" : "s(Huguette_Oligny) dbo:birthYear o'<1922>",
+    "7" : "s(Huguette_Oligny) dbo:deathDate o'<2013-05-09>",
+    "8" : "s(Huguette_Oligny) dbo:deathDate o'<2013-5-9>",
+    "9" : "s(Huguette_Oligny) dbo:deathPlace o'<Montreal,_Quebec>",
+    "10" : "s(Huguette_Oligny) dbo:deathPlace o'<Montreal>",
+    "11" : "s(Huguette_Oligny) dbo:deathYear o'<2013>",
+    "12" : "s(Huguette_Oligny) dbo:imdbId o'<0646419>",
+    "13" : "s(Huguette_Oligny) dbp:name o'<Huguette Oligny>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11188",
+  "entityUrl" : "http://dbpedia.org/resource/Henri_Membertou",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Henri_Membertou) dbo:birthDate o'<1510-0-0>",
+    "2" : "s(Henri_Membertou) dbo:deathDate o'<1611-9-18>",
+    "3" : "s(Henri_Membertou) dbo:deathPlace o'<Port-Royal_National_Historic_Site>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

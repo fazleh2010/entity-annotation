@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity14098",
+  "entityUrl" : "http://dbpedia.org/resource/Edel_Viola_Ski",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Edel_Viola_Ski) dbo:birthDate o'<1918-4-2>",
+    "2" : "s(Edel_Viola_Ski) dbo:deathDate o'<2010-1-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14099",
+  "entityUrl" : "http://dbpedia.org/resource/Ecaterina_Oancia",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Ecaterina_Oancia) dbo:birthDate o'<1954-3-25>",
+    "2" : "s(Ecaterina_Oancia) dbo:birthPlace o'<SÃ¢ngeorgiu_de_PÄƒdure>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14100",
+  "entityUrl" : "http://dbpedia.org/resource/Edith_Kerr_Macdonald",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14101",
+  "entityUrl" : "http://dbpedia.org/resource/Edna_Molewa",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Edna_Molewa) dbo:birthDate o'<1957-03-23>",
+    "2" : "s(Edna_Molewa) dbo:birthDate o'<1957-3-23>",
+    "3" : "s(Edna_Molewa) dbo:birthPlace o'<Bela-Bela>",
+    "4" : "s(Edna_Molewa) dbo:office o'<Minister of Social Development>",
+    "5" : "s(Edna_Molewa) dbo:office o'<Minister of Environmental Affairs>",
+    "6" : "s(Edna_Molewa) dbo:office o'<Minister of Water and Environmental Affairs>",
+    "7" : "s(Edna_Molewa) dbo:office o'<Premier of North West Province>",
+    "8" : "s(Edna_Molewa) dbo:party o'<African_National_Congress>",
+    "9" : "s(Edna_Molewa) dbo:predecessor o'<Buyelwa_Sonjica>",
+    "10" : "s(Edna_Molewa) dbo:predecessor o'<Popo_Molefe>",
+    "11" : "s(Edna_Molewa) dbo:predecessor o'<Zola_Skweyiya>",
+    "12" : "s(Edna_Molewa) dbo:successor o'<Nomvula_Mokonyane>",
+    "13" : "s(Edna_Molewa) dbo:successor o'<Maureen_Modiselle>",
+    "14" : "s(Edna_Molewa) dbo:successor o'<Bathabile_Dlamini>",
+    "15" : "s(Edna_Molewa) dbo:termPeriod o'<Edna_Molewa__1>",
+    "16" : "s(Edna_Molewa) dbo:termPeriod o'<Edna_Molewa__2>",
+    "17" : "s(Edna_Molewa) dbo:termPeriod o'<Edna_Molewa__3>",
+    "18" : "s(Edna_Molewa) dbo:termPeriod o'<Edna_Molewa__4>",
+    "19" : "s(Edna_Molewa) dbp:birthPlace o'<?>",
+    "20" : "s(Edna_Molewa) dbp:honorificPrefix o'<The_Honourable>",
+    "21" : "s(Edna_Molewa) dbp:honorificSuffix o'<Member_of_Parliament>",
+    "22" : "s(Edna_Molewa) dbp:predecessor o'<Herself as Minister of Water and Environmental Affairs>",
+    "23" : "s(Edna_Molewa) dbp:spouse o'<Richard Molewa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14102",
+  "entityUrl" : "http://dbpedia.org/resource/Eugen_Johannessen",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Eugen_Johannessen) dbo:birthDate o'<1892-1-1>",
+    "2" : "s(Eugen_Johannessen) dbo:deathDate o'<1975-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14103",
+  "entityUrl" : "http://dbpedia.org/resource/Enkelejd_Alibeaj",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Enkelejd_Alibeaj) dbo:office o'<Minister of Justice>",
+    "2" : "s(Enkelejd_Alibeaj) dbo:office o'<Member of parliament>",
+    "3" : "s(Enkelejd_Alibeaj) dbo:party o'<Democratic_Party_of_Albania>",
+    "4" : "s(Enkelejd_Alibeaj) dbo:predecessor o'<Aldo_BumÃ§i>",
+    "5" : "s(Enkelejd_Alibeaj) dbo:president o'<Bamir_Topi>",
+    "6" : "s(Enkelejd_Alibeaj) dbo:signature o'<Enkelejd Alibeaj signature.png>",
+    "7" : "s(Enkelejd_Alibeaj) dbo:successor o'<Bujar_Nishani>",
+    "8" : "s(Enkelejd_Alibeaj) dbo:termPeriod o'<Enkelejd_Alibeaj__1>",
+    "9" : "s(Enkelejd_Alibeaj) dbo:termPeriod o'<Enkelejd_Alibeaj__2>",
+    "10" : "s(Enkelejd_Alibeaj) dbp:termEnd o'<2009>",
+    "11" : "s(Enkelejd_Alibeaj) dbp:termEnd o'<incumbent>",
+    "12" : "s(Enkelejd_Alibeaj) dbp:termStart o'<2005>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

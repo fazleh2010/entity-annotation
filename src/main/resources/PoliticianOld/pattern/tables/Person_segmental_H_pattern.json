@@ -1,0 +1,70 @@
+[ {
+  "entityIndex" : "entity11662",
+  "entityUrl" : "http://dbpedia.org/resource/Hildor_Lundvik",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Hildor_Lundvik) dbo:birthDate o'<1885-3-6>",
+    "2" : "s(Hildor_Lundvik) dbo:deathDate o'<1951-1-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11663",
+  "entityUrl" : "http://dbpedia.org/resource/Hal_Hopson",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Hal_Hopson) dbo:birthDate o'<1933-6-22>",
+    "2" : "s(Hal_Hopson) dbo:country o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11664",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_D'Esterre_Darby",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Henry_D'Esterre_Darby) dbo:birthDate o'<1750-1-1>",
+    "2" : "s(Henry_D'Esterre_Darby) dbo:deathDate o'<1823-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11665",
+  "entityUrl" : "http://dbpedia.org/resource/Harrie_Geelen",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Harrie_Geelen) dbo:birthDate o'<1939-01-10>",
+    "2" : "s(Harrie_Geelen) dbo:birthDate o'<1939-1-10>",
+    "3" : "s(Harrie_Geelen) dbo:birthPlace o'<Heerlen>",
+    "4" : "s(Harrie_Geelen) dbo:birthYear o'<1939>",
+    "5" : "s(Harrie_Geelen) dbo:occupation o'<Animator>",
+    "6" : "s(Harrie_Geelen) dbo:occupation o'<Illustrator>",
+    "7" : "s(Harrie_Geelen) dbo:occupation o'<Harrie_Geelen__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11666",
+  "entityUrl" : "http://dbpedia.org/resource/Helen_Wallis",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Helen_Wallis) dbo:birthDate o'<1924-8-17>",
+    "2" : "s(Helen_Wallis) dbo:deathDate o'<1995-2-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11667",
+  "entityUrl" : "http://dbpedia.org/resource/Hakuo_Yanagisawa",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Hakuo_Yanagisawa) dbo:birthDate o'<1935-8-18>",
+    "2" : "s(Hakuo_Yanagisawa) dbo:birthPlace o'<Fukuroi,_Shizuoka>",
+    "3" : "s(Hakuo_Yanagisawa) dbp:after o'<YÅ�ichi_Masuzoe>",
+    "4" : "s(Hakuo_Yanagisawa) dbp:before o'<JirÅ�_Kawasaki>",
+    "5" : "s(Hakuo_Yanagisawa) dbp:title o'<Minister of Health, Labour and Welfare of Japan>",
+    "6" : "s(Hakuo_Yanagisawa) dbp:years o'<2006>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

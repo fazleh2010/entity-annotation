@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity11065",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Reynolds",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Quentin_Reynolds) dbo:birthDate o'<1902-04-11>",
+    "2" : "s(Quentin_Reynolds) dbo:birthDate o'<1902-4-11>",
+    "3" : "s(Quentin_Reynolds) dbo:birthName o'<Quentin James Reynolds>",
+    "4" : "s(Quentin_Reynolds) dbo:birthPlace o'<United_States>",
+    "5" : "s(Quentin_Reynolds) dbo:birthPlace o'<New_York_City>",
+    "6" : "s(Quentin_Reynolds) dbo:birthYear o'<1902>",
+    "7" : "s(Quentin_Reynolds) dbo:deathDate o'<1965-03-17>",
+    "8" : "s(Quentin_Reynolds) dbo:deathDate o'<1965-3-17>",
+    "9" : "s(Quentin_Reynolds) dbo:deathPlace o'<United_States>",
+    "10" : "s(Quentin_Reynolds) dbo:deathPlace o'<San_Francisco,_California>",
+    "11" : "s(Quentin_Reynolds) dbo:deathYear o'<1965>",
+    "12" : "s(Quentin_Reynolds) dbo:nationality o'<United_States>",
+    "13" : "s(Quentin_Reynolds) dbo:occupation o'<Journalist>",
+    "14" : "s(Quentin_Reynolds) dbo:occupation o'<Quentin_Reynolds__1>",
+    "15" : "s(Quentin_Reynolds) dbo:stateOfOrigin o'<United_States>",
+    "16" : "s(Quentin_Reynolds) dbp:deathCause o'<he was killed by natural death>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11066",
+  "entityUrl" : "http://dbpedia.org/resource/Quintin_Paredes",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Quintin_Paredes) dbo:wikiPageRedirects o'<QuintÃ­n_Paredes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11067",
+  "entityUrl" : "http://dbpedia.org/resource/Qenan_Al-Ghamdi",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11068",
+  "entityUrl" : "http://dbpedia.org/resource/Quintin_Gill",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Quintin_Gill) dbo:activeYearsStartYear o'<1990>",
+    "2" : "s(Quintin_Gill) dbo:birthDate o'<1959-11-27>",
+    "3" : "s(Quintin_Gill) dbo:birthName o'<Quintin Bennett Gill>",
+    "4" : "s(Quintin_Gill) dbo:birthPlace o'<Blackburn>",
+    "5" : "s(Quintin_Gill) dbo:birthPlace o'<Lancashire>",
+    "6" : "s(Quintin_Gill) dbo:birthYear o'<1959>",
+    "7" : "s(Quintin_Gill) dbo:employer o'<Isle_of_Man_Government>",
+    "8" : "s(Quintin_Gill) dbo:ethnicity o'<White_British>",
+    "9" : "s(Quintin_Gill) dbo:nationality o'<British_nationality_law>",
+    "10" : "s(Quintin_Gill) dbo:occupation o'<Politician>",
+    "11" : "s(Quintin_Gill) dbo:occupation o'<Quintin_Gill__1>",
+    "12" : "s(Quintin_Gill) dbo:residence o'<Isle_of_Man>",
+    "13" : "s(Quintin_Gill) dbo:residence o'<Port_St_Mary>",
+    "14" : "s(Quintin_Gill) dbo:stateOfOrigin o'<British_nationality_law>",
+    "15" : "s(Quintin_Gill) dbp:children o'<3>",
+    "16" : "s(Quintin_Gill) dbp:spouse o'<1989>",
+    "17" : "s(Quintin_Gill) dbp:spouse o'<Joy McCaffrey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11069",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Letts",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Quentin_Letts) dbo:almaMater o'<Haileybury_and_Imperial_Service_College>",
+    "2" : "s(Quentin_Letts) dbo:almaMater o'<Jesus_College,_Cambridge>",
+    "3" : "s(Quentin_Letts) dbo:almaMater o'<Trinity_College,_Dublin>",
+    "4" : "s(Quentin_Letts) dbo:almaMater o'<Bellarmine_University>",
+    "5" : "s(Quentin_Letts) dbo:birthDate o'<1963-02-06>",
+    "6" : "s(Quentin_Letts) dbo:birthDate o'<1963-2-6>",
+    "7" : "s(Quentin_Letts) dbo:birthPlace o'<England>",
+    "8" : "s(Quentin_Letts) dbo:birthPlace o'<Cirencester>",
+    "9" : "s(Quentin_Letts) dbo:birthPlace o'<Gloucestershire>",
+    "10" : "s(Quentin_Letts) dbo:birthYear o'<1963>",
+    "11" : "s(Quentin_Letts) dbo:nationality o'<United_Kingdom>",
+    "12" : "s(Quentin_Letts) dbo:occupation o'<Journalist>",
+    "13" : "s(Quentin_Letts) dbo:occupation o'<Quentin_Letts__1>",
+    "14" : "s(Quentin_Letts) dbo:occupation o'<Theatre_critic>",
+    "15" : "s(Quentin_Letts) dbo:stateOfOrigin o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11070",
+  "entityUrl" : "http://dbpedia.org/resource/Qu_Leilei",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Qu_Leilei) dbo:birthDate o'<1951-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

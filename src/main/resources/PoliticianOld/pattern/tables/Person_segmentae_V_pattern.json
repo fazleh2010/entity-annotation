@@ -1,0 +1,101 @@
+[ {
+  "entityIndex" : "entity11431",
+  "entityUrl" : "http://dbpedia.org/resource/Virgil_Frye",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Virgil_Frye) dbo:birthDate o'<1930-08-21>",
+    "2" : "s(Virgil_Frye) dbo:birthDate o'<1930-8-21>",
+    "3" : "s(Virgil_Frye) dbo:birthPlace o'<United_States>",
+    "4" : "s(Virgil_Frye) dbo:birthPlace o'<Estherville,_Iowa>",
+    "5" : "s(Virgil_Frye) dbo:birthYear o'<1930>",
+    "6" : "s(Virgil_Frye) dbo:deathDate o'<2012-05-07>",
+    "7" : "s(Virgil_Frye) dbo:deathDate o'<2012-5-7>",
+    "8" : "s(Virgil_Frye) dbo:deathPlace o'<United_States>",
+    "9" : "s(Virgil_Frye) dbo:deathPlace o'<Orange_County,_California>",
+    "10" : "s(Virgil_Frye) dbo:deathYear o'<2012>",
+    "11" : "s(Virgil_Frye) dbo:occupation o'<Film>",
+    "12" : "s(Virgil_Frye) dbo:occupation o'<Boxing>",
+    "13" : "s(Virgil_Frye) dbo:occupation o'<Television>",
+    "14" : "s(Virgil_Frye) dbo:occupation o'<Virgil_Frye__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "12" : "s(virgil frye=Virgil_Frye) [subject of ] o'<documentary=Film>"
+  },
+  "abstract" : {
+    "12" : "virgil frye<Virgil_Frye> was the subject of a documentary<Film> made by his daughter, titled sonny boy, which documents a trip that frye and his daughter, soleil moon frye, took to his hometown, and the effect his illness has had on their relationship\n"
+  }
+}, {
+  "entityIndex" : "entity11432",
+  "entityUrl" : "http://dbpedia.org/resource/Vinnette_Justine_Carroll",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Vinnette_Justine_Carroll) dbo:birthDate o'<1922-3-11>",
+    "2" : "s(Vinnette_Justine_Carroll) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Vinnette_Justine_Carroll) dbo:deathDate o'<2002-11-5>",
+    "4" : "s(Vinnette_Justine_Carroll) dbo:deathPlace o'<Lauderhill,_Florida>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11433",
+  "entityUrl" : "http://dbpedia.org/resource/Vincenzo_Camuccini",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Vincenzo_Camuccini) dbo:birthDate o'<1771-2-22>",
+    "2" : "s(Vincenzo_Camuccini) dbo:birthPlace o'<Rome>",
+    "3" : "s(Vincenzo_Camuccini) dbo:deathDate o'<1844-9-2>",
+    "4" : "s(Vincenzo_Camuccini) dbo:deathPlace o'<Rome>",
+    "5" : "s(Vincenzo_Camuccini) dbp:pages o'<139140>",
+    "6" : "s(Vincenzo_Camuccini) dbp:volume o'<5>",
+    "7" : "s(Vincenzo_Camuccini) dbp:wstitle o'<Camuccini, Vincenzo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11434",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Smurfit",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Victoria_Smurfit) dbo:activeYearsStartYear o'<1995>",
+    "2" : "s(Victoria_Smurfit) dbo:birthDate o'<1974-03-31>",
+    "3" : "s(Victoria_Smurfit) dbo:birthDate o'<1974-1-1>",
+    "4" : "s(Victoria_Smurfit) dbo:birthPlace o'<Dublin>",
+    "5" : "s(Victoria_Smurfit) dbo:birthPlace o'<Republic_of_Ireland>",
+    "6" : "s(Victoria_Smurfit) dbo:birthYear o'<1974>",
+    "7" : "s(Victoria_Smurfit) dbo:imdbId o'<0810729>",
+    "8" : "s(Victoria_Smurfit) dbo:occupation o'<Victoria_Smurfit__1>",
+    "9" : "s(Victoria_Smurfit) dbo:residence o'<Santa_Monica,_California>",
+    "10" : "s(Victoria_Smurfit) dbp:children o'<3>",
+    "11" : "s(Victoria_Smurfit) dbp:spouse o'<Douglas Baxter>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11435",
+  "entityUrl" : "http://dbpedia.org/resource/Varghese_Mathai",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11436",
+  "entityUrl" : "http://dbpedia.org/resource/Vertner_Woodson_Tandy",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Vertner_Woodson_Tandy) dbo:birthDate o'<1885-05-17>",
+    "2" : "s(Vertner_Woodson_Tandy) dbo:birthDate o'<1885-5-17>",
+    "3" : "s(Vertner_Woodson_Tandy) dbo:birthPlace o'<Lexington,_Kentucky>",
+    "4" : "s(Vertner_Woodson_Tandy) dbo:birthYear o'<1885>",
+    "5" : "s(Vertner_Woodson_Tandy) dbo:deathDate o'<1949-11-07>",
+    "6" : "s(Vertner_Woodson_Tandy) dbo:deathDate o'<1949-11-7>",
+    "7" : "s(Vertner_Woodson_Tandy) dbo:deathPlace o'<Manhattan,_New_York_City>",
+    "8" : "s(Vertner_Woodson_Tandy) dbo:deathYear o'<1949>",
+    "9" : "s(Vertner_Woodson_Tandy) dbo:knownFor o'<Alpha_Phi_Alpha>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(vertner woodson tandy=Vertner_Woodson_Tandy) [one of seven ] o'<alpha phi alpha=Alpha_Phi_Alpha>"
+  },
+  "abstract" : {
+    "2" : "vertner woodson tandy<Vertner_Woodson_Tandy> was one of the seven founders (commonly referred to as the seven jewels) of alpha phi alpha<Alpha_Phi_Alpha> fraternity<Alpha_Phi_Alpha> at cornell university in 1906\n"
+  }
+} ]

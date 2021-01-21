@@ -1,0 +1,94 @@
+[ {
+  "entityIndex" : "entity14441",
+  "entityUrl" : "http://dbpedia.org/resource/Ginni_Rometty",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ginni_Rometty) dbo:birthDate o'<1957-07-29>",
+    "2" : "s(Ginni_Rometty) dbo:birthDate o'<1957-7-29>",
+    "3" : "s(Ginni_Rometty) dbo:birthName o'<Virginia Marie Nicosia>",
+    "4" : "s(Ginni_Rometty) dbo:birthPlace o'<Chicago>",
+    "5" : "s(Ginni_Rometty) dbo:birthYear o'<1957>",
+    "6" : "s(Ginni_Rometty) dbo:education o'<Bachelor_of_Science>",
+    "7" : "s(Ginni_Rometty) dbo:education o'<Northwestern_University>",
+    "8" : "s(Ginni_Rometty) dbo:nationality o'<Americans>",
+    "9" : "s(Ginni_Rometty) dbo:occupation o'<Ginni_Rometty__1>",
+    "10" : "s(Ginni_Rometty) dbo:occupation o'<President>",
+    "11" : "s(Ginni_Rometty) dbo:occupation o'<Chief_Executive_Officer>",
+    "12" : "s(Ginni_Rometty) dbo:occupation o'<Chairwoman>",
+    "13" : "s(Ginni_Rometty) dbo:predecessor o'<Samuel_J._Palmisano>",
+    "14" : "s(Ginni_Rometty) dbo:salary o'<1.93E7>",
+    "15" : "s(Ginni_Rometty) dbo:stateOfOrigin o'<Americans>",
+    "16" : "s(Ginni_Rometty) dbp:after o'<Present CEO>",
+    "17" : "s(Ginni_Rometty) dbp:before o'<Samuel_J._Palmisano>",
+    "18" : "s(Ginni_Rometty) dbp:title o'<IBM>",
+    "19" : "s(Ginni_Rometty) dbp:years o'<2012>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14442",
+  "entityUrl" : "http://dbpedia.org/resource/G%C3%B6tz_Alsmann",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14443",
+  "entityUrl" : "http://dbpedia.org/resource/George_McDougall",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(George_McDougall) dbo:birthDate o'<1821-09-09>",
+    "2" : "s(George_McDougall) dbo:birthDate o'<1821-9-9>",
+    "3" : "s(George_McDougall) dbo:birthName o'<George Millward McDougall>",
+    "4" : "s(George_McDougall) dbo:birthPlace o'<Kingston,_Ontario>",
+    "5" : "s(George_McDougall) dbo:birthPlace o'<Upper_Canada>",
+    "6" : "s(George_McDougall) dbo:birthYear o'<1821>",
+    "7" : "s(George_McDougall) dbo:deathDate o'<1876-01-25>",
+    "8" : "s(George_McDougall) dbo:deathDate o'<1876-1-25>",
+    "9" : "s(George_McDougall) dbo:deathPlace o'<Alberta>",
+    "10" : "s(George_McDougall) dbo:deathPlace o'<Calgary>",
+    "11" : "s(George_McDougall) dbo:deathYear o'<1876>",
+    "12" : "s(George_McDougall) dbo:occupation o'<Missionary>",
+    "13" : "s(George_McDougall) dbo:occupation o'<George_McDougall__1>",
+    "14" : "s(George_McDougall) dbo:religion o'<Methodist>",
+    "15" : "s(George_McDougall) dbp:honorificPrefix o'<Reverend>",
+    "16" : "s(George_McDougall) dbp:imageSize o'<180>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14444",
+  "entityUrl" : "http://dbpedia.org/resource/Gertrude_Sterroll",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14445",
+  "entityUrl" : "http://dbpedia.org/resource/Guido_Winkmann",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Guido_Winkmann) dbo:birthDate o'<1973-11-27>",
+    "2" : "s(Guido_Winkmann) dbp:birthDate o'<1973-11-27>",
+    "3" : "s(Guido_Winkmann) dbp:league o'<2>",
+    "4" : "s(Guido_Winkmann) dbp:league o'<Bundesliga>",
+    "5" : "s(Guido_Winkmann) dbp:league o'<German_Football_Association>",
+    "6" : "s(Guido_Winkmann) dbp:name o'<Guido Winkmann>",
+    "7" : "s(Guido_Winkmann) dbp:otheroccupation o'<Police_officer>",
+    "8" : "s(Guido_Winkmann) dbp:role o'<Referee>",
+    "9" : "s(Guido_Winkmann) dbp:years o'<2001>",
+    "10" : "s(Guido_Winkmann) dbp:years o'<2004>",
+    "11" : "s(Guido_Winkmann) dbp:years o'<2008>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14446",
+  "entityUrl" : "http://dbpedia.org/resource/Galeria_Copiola",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Galeria_Copiola) dbo:birthDate o'<-96-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

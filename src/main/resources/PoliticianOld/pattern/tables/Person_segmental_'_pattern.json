@@ -1,0 +1,11 @@
+[ {
+  "entityIndex" : "entity11782",
+  "entityUrl" : "http://dbpedia.org/resource/'Monsewer'_Eddie_Gray",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s('Monsewer'_Eddie_Gray) dbo:birthDate o'<1898-6-10>",
+    "2" : "s('Monsewer'_Eddie_Gray) dbo:deathDate o'<1969-9-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

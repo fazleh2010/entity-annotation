@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity14200",
+  "entityUrl" : "http://dbpedia.org/resource/Viktor_Omelyanovich",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Viktor_Omelyanovich) dbo:birthDate o'<1958-4-13>",
+    "2" : "s(Viktor_Omelyanovich) dbo:birthPlace o'<Dnipropetrovsk>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14201",
+  "entityUrl" : "http://dbpedia.org/resource/Vasily_Tikhonov",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Vasily_Tikhonov) dbo:birthDate o'<1960-11-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14202",
+  "entityUrl" : "http://dbpedia.org/resource/Veronica_Necula",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Veronica_Necula) dbo:birthDate o'<1967-05-15>",
+    "2" : "s(Veronica_Necula) dbo:birthDate o'<1967-5-15>",
+    "3" : "s(Veronica_Necula) dbo:birthPlace o'<Romania>",
+    "4" : "s(Veronica_Necula) dbo:birthPlace o'<TÃ¢rgoviÈ™te>",
+    "5" : "s(Veronica_Necula) dbo:birthPlace o'<TÃ¢rgoviÅŸte>",
+    "6" : "s(Veronica_Necula) dbo:height o'<182.0>",
+    "7" : "s(Veronica_Necula) dbo:height o'<1.82>",
+    "8" : "s(Veronica_Necula) dbo:weight o'<80.0>",
+    "9" : "s(Veronica_Necula) dbo:weight o'<80000.0>",
+    "10" : "s(Veronica_Necula) dbp:club o'<CSA Steaua Bucuresti>",
+    "11" : "s(Veronica_Necula) dbp:imageSize o'<200>",
+    "12" : "s(Veronica_Necula) dbp:showMedals o'<yes>",
+    "13" : "s(Veronica_Necula) dbp:sport o'<Rowing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14203",
+  "entityUrl" : "http://dbpedia.org/resource/Vladimir_Kovalevsky",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Vladimir_Kovalevsky) dbo:birthDate o'<1848-11-10>",
+    "2" : "s(Vladimir_Kovalevsky) dbo:birthPlace o'<Ukraine>",
+    "3" : "s(Vladimir_Kovalevsky) dbo:birthPlace o'<Balakliia>",
+    "4" : "s(Vladimir_Kovalevsky) dbo:birthPlace o'<Kharkiv_Oblast>",
+    "5" : "s(Vladimir_Kovalevsky) dbo:birthPlace o'<Kharkov_Governorate>",
+    "6" : "s(Vladimir_Kovalevsky) dbo:birthPlace o'<Russian_Empire>",
+    "7" : "s(Vladimir_Kovalevsky) dbo:birthYear o'<1848>",
+    "8" : "s(Vladimir_Kovalevsky) dbo:deathDate o'<1935-11-02>",
+    "9" : "s(Vladimir_Kovalevsky) dbo:deathDate o'<1934-11-2>",
+    "10" : "s(Vladimir_Kovalevsky) dbo:deathPlace o'<Saint_Petersburg>",
+    "11" : "s(Vladimir_Kovalevsky) dbo:deathPlace o'<USSR>",
+    "12" : "s(Vladimir_Kovalevsky) dbo:deathPlace o'<Leningrad>",
+    "13" : "s(Vladimir_Kovalevsky) dbo:deathYear o'<1935>",
+    "14" : "s(Vladimir_Kovalevsky) dbo:knownFor o'<Saint_Petersburg_Polytechnic_Institute>",
+    "15" : "s(Vladimir_Kovalevsky) dbo:nationality o'<Russian_people>",
+    "16" : "s(Vladimir_Kovalevsky) dbo:occupation o'<Entrepreneur>",
+    "17" : "s(Vladimir_Kovalevsky) dbo:occupation o'<Vladimir_Kovalevsky__1>",
+    "18" : "s(Vladimir_Kovalevsky) dbo:personFunction o'<Vladimir_Kovalevsky__1>",
+    "19" : "s(Vladimir_Kovalevsky) dbo:religion o'<Russian_Orthodox_Christianity>",
+    "20" : "s(Vladimir_Kovalevsky) dbo:restingPlace o'<Smolensky_Cemetery>",
+    "21" : "s(Vladimir_Kovalevsky) dbo:restingPlacePosition o'<Vladimir_Kovalevsky__restingPlacePosition__1>",
+    "22" : "s(Vladimir_Kovalevsky) dbo:stateOfOrigin o'<Russian_people>",
+    "23" : "s(Vladimir_Kovalevsky) dbo:title o'<Actual State Councillor (1891â€“1899)>",
+    "24" : "s(Vladimir_Kovalevsky) dbo:title o'<Privy Councillor (1899â€“1917)>",
+    "25" : "s(Vladimir_Kovalevsky) dbp:children o'<Gregory Vladimirovich Kovalevsky>",
+    "26" : "s(Vladimir_Kovalevsky) dbp:honorificPrefix o'<His Excellency>",
+    "27" : "s(Vladimir_Kovalevsky) dbp:imageSize o'<200>",
+    "28" : "s(Vladimir_Kovalevsky) dbp:organization o'<Institute_of_Plant_Industry>",
+    "29" : "s(Vladimir_Kovalevsky) dbp:organization o'<Saint_Petersburg_State_Polytechnical_University>",
+    "30" : "s(Vladimir_Kovalevsky) dbp:signature o'<Kovalevskiy sig.png>",
+    "31" : "s(Vladimir_Kovalevsky) dbp:signatureAlt o'<Ð’Ð»Ð°Ð´Ð¸Ð¼Ð¸Ñ€ ÐšÐ¾Ð²Ð°Ð»ÐµÐ²Ñ�ÐºÐ¸Ð¹>",
+    "32" : "s(Vladimir_Kovalevsky) dbp:spouse o'<Ekaterina Nikitichna Lukhutina>",
+    "33" : "s(Vladimir_Kovalevsky) dbp:spouse o'<Maria Gregoryevna Blagosvetlova>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14204",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Bond",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Victoria_Bond) dbo:birthDate o'<1945-5-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14205",
+  "entityUrl" : "http://dbpedia.org/resource/Vasily_Glukharev",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

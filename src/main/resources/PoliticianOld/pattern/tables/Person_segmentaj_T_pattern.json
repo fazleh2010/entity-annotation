@@ -1,0 +1,77 @@
+[ {
+  "entityIndex" : "entity11409",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Chilton_(game_developer)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Tom_Chilton_(game_developer)) dbo:birthDate o'<1968-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11410",
+  "entityUrl" : "http://dbpedia.org/resource/Tench_Francis,_Jr.",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Tench_Francis,_Jr.) dbo:wikiPageRedirects o'<Tench_Francis_Jr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11411",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Herbert_Robertson",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Thomas_Herbert_Robertson) dbo:birthDate o'<1849-4-26>",
+    "2" : "s(Thomas_Herbert_Robertson) dbo:deathDate o'<1916-7-11>",
+    "3" : "s(Thomas_Herbert_Robertson) dbp:after o'<Horatio_Bottomley>",
+    "4" : "s(Thomas_Herbert_Robertson) dbp:before o'<John_Fletcher_Moulton,_Baron_Moulton>",
+    "5" : "s(Thomas_Herbert_Robertson) dbp:title o'<Member of Parliament for Hackney South>",
+    "6" : "s(Thomas_Herbert_Robertson) dbp:years o'<1895>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11412",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Buttersworth",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Thomas_Buttersworth) dbo:birthDate o'<1768-5-5>",
+    "2" : "s(Thomas_Buttersworth) dbo:birthPlace o'<Isle_of_Wight>",
+    "3" : "s(Thomas_Buttersworth) dbo:deathDate o'<1842-11-1>",
+    "4" : "s(Thomas_Buttersworth) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11413",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Vilhelm_Garde",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Thomas_Vilhelm_Garde) dbo:award o'<Long_Service_Awards_(Denmark)>",
+    "2" : "s(Thomas_Vilhelm_Garde) dbo:award o'<Order_of_the_Dannebrog>",
+    "3" : "s(Thomas_Vilhelm_Garde) dbo:birthDate o'<1859-10-22>",
+    "4" : "s(Thomas_Vilhelm_Garde) dbo:birthPlace o'<Copenhagen>",
+    "5" : "s(Thomas_Vilhelm_Garde) dbo:deathDate o'<1926-6-24>",
+    "6" : "s(Thomas_Vilhelm_Garde) dbo:deathPlace o'<Copenhagen>",
+    "7" : "s(Thomas_Vilhelm_Garde) dbo:serviceEndYear o'<1921>",
+    "8" : "s(Thomas_Vilhelm_Garde) dbo:serviceStartYear o'<1877>",
+    "9" : "s(Thomas_Vilhelm_Garde) dbp:birthDate o'<1859-10-22>",
+    "10" : "s(Thomas_Vilhelm_Garde) dbp:birthPlace o'<Copenhagen>",
+    "11" : "s(Thomas_Vilhelm_Garde) dbp:birthPlace o'<Denmark>",
+    "12" : "s(Thomas_Vilhelm_Garde) dbp:deathDate o'<1926-06-24>",
+    "13" : "s(Thomas_Vilhelm_Garde) dbp:deathPlace o'<Copenhagen>",
+    "14" : "s(Thomas_Vilhelm_Garde) dbp:deathPlace o'<Denmark>",
+    "15" : "s(Thomas_Vilhelm_Garde) dbp:rank o'<Commander>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11414",
+  "entityUrl" : "http://dbpedia.org/resource/Tench_Francis,_Sr.",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Tench_Francis,_Sr.) dbo:wikiPageRedirects o'<Tench_Francis_Sr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

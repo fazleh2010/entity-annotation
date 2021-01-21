@@ -1,0 +1,79 @@
+[ {
+  "entityIndex" : "entity12075",
+  "entityUrl" : "http://dbpedia.org/resource/Vernon_R._Pederson",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Vernon_R._Pederson) dbo:birthDate o'<1919-9-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12076",
+  "entityUrl" : "http://dbpedia.org/resource/Vasil_Ruci",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Vasil_Ruci) dbo:birthDate o'<1958-02-17>",
+    "2" : "s(Vasil_Ruci) dbo:birthDate o'<1958-2-20>",
+    "3" : "s(Vasil_Ruci) dbo:birthPlace o'<Albania>",
+    "4" : "s(Vasil_Ruci) dbo:birthPlace o'<VlorÃ«>",
+    "5" : "s(Vasil_Ruci) dbo:careerStation o'<Vasil_Ruci__1>",
+    "6" : "s(Vasil_Ruci) dbo:careerStation o'<Vasil_Ruci__2>",
+    "7" : "s(Vasil_Ruci) dbo:careerStation o'<Vasil_Ruci__4>",
+    "8" : "s(Vasil_Ruci) dbo:careerStation o'<Vasil_Ruci__5>",
+    "9" : "s(Vasil_Ruci) dbo:careerStation o'<Vasil_Ruci__6>",
+    "10" : "s(Vasil_Ruci) dbo:managerClub o'<Flamurtari_VlorÃ«>",
+    "11" : "s(Vasil_Ruci) dbo:managerClub o'<KF_Turbina_CÃ«rrik>",
+    "12" : "s(Vasil_Ruci) dbo:managerClub o'<KF_Himara>",
+    "13" : "s(Vasil_Ruci) dbo:position o'<Striker_(association_football)>",
+    "14" : "s(Vasil_Ruci) dbo:team o'<Flamurtari_VlorÃ«>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12077",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_von_Ebner",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Victor_von_Ebner) dbo:birthDate o'<1842-2-4>",
+    "2" : "s(Victor_von_Ebner) dbo:birthPlace o'<Bregenz>",
+    "3" : "s(Victor_von_Ebner) dbo:deathDate o'<1925-3-20>",
+    "4" : "s(Victor_von_Ebner) dbo:deathPlace o'<Vienna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12078",
+  "entityUrl" : "http://dbpedia.org/resource/Van_Ikin",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Van_Ikin) dbo:birthDate o'<1951-11-25>",
+    "2" : "s(Van_Ikin) dbo:country o'<Australia>",
+    "3" : "s(Van_Ikin) dbp:date o'<September 2015>",
+    "4" : "s(Van_Ikin) dbp:reason o'<per WP:CIRCULAR>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(van ikin=Van_Ikin) [reviewed science fiction ] o'<sydney=Australia>"
+  },
+  "abstract" : {
+    "5" : "van ikin<Van_Ikin> has reviewed science fiction and fantasy for the sydney<Australia> morning herald since 1984\n"
+  }
+}, {
+  "entityIndex" : "entity12079",
+  "entityUrl" : "http://dbpedia.org/resource/Vagif_Bayatly_Oner",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Vagif_Bayatly_Oner) dbo:birthDate o'<1948-10-1>",
+    "2" : "s(Vagif_Bayatly_Oner) dbo:birthPlace o'<BÃ¶yÃ¼k_MÉ™rcanlÄ±>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12080",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_Armstrong",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Victoria_Armstrong) dbo:birthDate o'<1977-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

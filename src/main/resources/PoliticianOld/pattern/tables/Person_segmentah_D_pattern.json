@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity10987",
+  "entityUrl" : "http://dbpedia.org/resource/David_Niles",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(David_Niles) dbo:almaMater o'<Harvard_Law_School>",
+    "2" : "s(David_Niles) dbo:birthDate o'<1888-11-23>",
+    "3" : "s(David_Niles) dbo:birthPlace o'<Boston,_Massachusetts>",
+    "4" : "s(David_Niles) dbo:birthPlace o'<Boston>",
+    "5" : "s(David_Niles) dbo:birthYear o'<1888>",
+    "6" : "s(David_Niles) dbo:deathDate o'<1952-09-28>",
+    "7" : "s(David_Niles) dbo:deathDate o'<1952-9-28>",
+    "8" : "s(David_Niles) dbo:deathPlace o'<Boston,_Massachusetts>",
+    "9" : "s(David_Niles) dbo:deathPlace o'<Boston>",
+    "10" : "s(David_Niles) dbo:deathYear o'<1952>",
+    "11" : "s(David_Niles) dbo:ethnicity o'<Jews>",
+    "12" : "s(David_Niles) dbo:knownFor o'<Franklin_D._Roosevelt>",
+    "13" : "s(David_Niles) dbo:nationality o'<United_States>",
+    "14" : "s(David_Niles) dbo:occupation o'<Lawyer>",
+    "15" : "s(David_Niles) dbo:occupation o'<David_Niles__1>",
+    "16" : "s(David_Niles) dbo:stateOfOrigin o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "11" : "s(david niles=David_Niles) [graduated from prestigious ] o'<boston=Boston>"
+  },
+  "abstract" : {
+    "11" : "david niles<David_Niles> graduated from the prestigious boston<Boston> latin school in 1906\n"
+  }
+}, {
+  "entityIndex" : "entity10988",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Ippolito",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Dennis_Ippolito) dbo:birthDate o'<1942-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10989",
+  "entityUrl" : "http://dbpedia.org/resource/David_J._Landau",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(David_J._Landau) dbo:birthDate o'<1921-3-15>",
+    "2" : "s(David_J._Landau) dbo:birthPlace o'<Warsaw>",
+    "3" : "s(David_J._Landau) dbo:deathDate o'<1996-5-16>",
+    "4" : "s(David_J._Landau) dbo:deathPlace o'<Melbourne>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10990",
+  "entityUrl" : "http://dbpedia.org/resource/Dean_Kenneally",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Dean_Kenneally) dbo:birthDate o'<1967-3-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10991",
+  "entityUrl" : "http://dbpedia.org/resource/Danielle_Curzon",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Danielle_Curzon) dbo:birthDate o'<1983-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10992",
+  "entityUrl" : "http://dbpedia.org/resource/David_Heilpern",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(David_Heilpern) dbo:almaMater o'<University_of_Sydney>",
+    "2" : "s(David_Heilpern) dbo:almaMater o'<Southern_Cross_University>",
+    "3" : "s(David_Heilpern) dbo:education o'<Bachelor_of_Laws>",
+    "4" : "s(David_Heilpern) dbo:knownFor o'<Magistrate>",
+    "5" : "s(David_Heilpern) dbo:nationality o'<Australia>",
+    "6" : "s(David_Heilpern) dbo:occupation o'<Lawyer>",
+    "7" : "s(David_Heilpern) dbo:occupation o'<David_Heilpern__1>",
+    "8" : "s(David_Heilpern) dbo:residence o'<New_South_Wales>",
+    "9" : "s(David_Heilpern) dbo:stateOfOrigin o'<Australia>",
+    "10" : "s(David_Heilpern) dbp:employer o'<NSW Magistrates Court>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(david heilpern=David_Heilpern) [author of for ] o'<advocate=Lawyer>",
+    "4" : "s(david heilpern=David_Heilpern) [became one of youngest ] o'<magistrates=Magistrate>"
+  },
+  "abstract" : {
+    "3" : "david heilpern<David_Heilpern> is the author of for fear of favour: sexual assault of young prisoners, a prominent study of sexual assault in prisons, and has been an advocate<Lawyer> of prison and law<Bachelor_of_Laws> reform\n",
+    "4" : "in 1998 david heilpern<David_Heilpern> became one of the youngest magistrates<Magistrate> in new south wales<New_South_Wales>\n"
+  }
+} ]

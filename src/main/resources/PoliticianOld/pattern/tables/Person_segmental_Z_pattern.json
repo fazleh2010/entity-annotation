@@ -1,0 +1,57 @@
+[ {
+  "entityIndex" : "entity11770",
+  "entityUrl" : "http://dbpedia.org/resource/Zviad_Kvachantiradze",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Zviad_Kvachantiradze) dbo:birthDate o'<1965-7-7>",
+    "2" : "s(Zviad_Kvachantiradze) dbo:birthPlace o'<Ozurgeti>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11771",
+  "entityUrl" : "http://dbpedia.org/resource/Zemah_ben_Hayyim",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11772",
+  "entityUrl" : "http://dbpedia.org/resource/Ziad_Asali",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ziad_Asali) dbo:birthDate o'<1942-0-0>",
+    "2" : "s(Ziad_Asali) dbo:birthPlace o'<Jerusalem>",
+    "3" : "s(Ziad_Asali) dbo:birthYear o'<0024>",
+    "4" : "s(Ziad_Asali) dbo:knownFor o'<American_Task_Force_on_Palestine>",
+    "5" : "s(Ziad_Asali) dbo:occupation o'<Ziad_Asali__1>",
+    "6" : "s(Ziad_Asali) dbp:imageSize o'<200>",
+    "7" : "s(Ziad_Asali) dbp:spouse o'<Naila Asali>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11773",
+  "entityUrl" : "http://dbpedia.org/resource/Zolt%C3%A1n_Pongr%C3%A1cz",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11774",
+  "entityUrl" : "http://dbpedia.org/resource/Zara_Mints",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Zara_Mints) dbo:birthDate o'<1927-7-24>",
+    "2" : "s(Zara_Mints) dbo:deathDate o'<1990-10-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11775",
+  "entityUrl" : "http://dbpedia.org/resource/Zolt%C3%A1n_Ozoray_Schenker",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

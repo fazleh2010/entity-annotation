@@ -1,0 +1,161 @@
+[ {
+  "entityIndex" : "entity11333",
+  "entityUrl" : "http://dbpedia.org/resource/Greg_Leding",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Greg_Leding) dbo:almaMater o'<University_of_Arkansas>",
+    "2" : "s(Greg_Leding) dbo:birthDate o'<1978-04-10>",
+    "3" : "s(Greg_Leding) dbo:birthDate o'<1978-4-10>",
+    "4" : "s(Greg_Leding) dbo:birthPlace o'<Arkansas>",
+    "5" : "s(Greg_Leding) dbo:birthPlace o'<Springdale,_Arkansas>",
+    "6" : "s(Greg_Leding) dbo:office o'<Minority Leader of the Arkansas House of Representatives (2012-2014)>",
+    "7" : "s(Greg_Leding) dbo:party o'<Democratic_Party_(United_States)>",
+    "8" : "s(Greg_Leding) dbo:region o'<Arkansas>",
+    "9" : "s(Greg_Leding) dbo:religion o'<Roman_Catholic_Church>",
+    "10" : "s(Greg_Leding) dbo:termPeriod o'<Greg_Leding__2>",
+    "11" : "s(Greg_Leding) dbp:children o'<1>",
+    "12" : "s(Greg_Leding) dbp:district o'<86>",
+    "13" : "s(Greg_Leding) dbp:preceded o'<Lindsley_Armstrong_Smith>",
+    "14" : "s(Greg_Leding) dbp:spouse o'<2013>",
+    "15" : "s(Greg_Leding) dbp:spouse o'<Emily Ironside>",
+    "16" : "s(Greg_Leding) dbp:termStart o'<January 2011>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11334",
+  "entityUrl" : "http://dbpedia.org/resource/G.K.Singh",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(G.K.Singh) dbo:birthDate o'<1957-06-17>",
+    "2" : "s(G.K.Singh) dbo:birthDate o'<1957-6-17>",
+    "3" : "s(G.K.Singh) dbo:birthPlace o'<Sangrur>",
+    "4" : "s(G.K.Singh) dbo:birthPlace o'<Punjab,_India>",
+    "5" : "s(G.K.Singh) dbo:office o'<Deputy Commissioner,Patiala>",
+    "6" : "s(G.K.Singh) dbo:office o'<Deputy Commissioner,Ropar>",
+    "7" : "s(G.K.Singh) dbo:office o'<Director General School Education,Punjab>",
+    "8" : "s(G.K.Singh) dbo:office o'<Director, Rural Development & Panchayats,Punjab>",
+    "9" : "s(G.K.Singh) dbo:profession o'<Indian_Administrative_Services>",
+    "10" : "s(G.K.Singh) dbo:religion o'<Sikhism>",
+    "11" : "s(G.K.Singh) dbo:residence o'<India>",
+    "12" : "s(G.K.Singh) dbo:residence o'<Chandigarh>",
+    "13" : "s(G.K.Singh) dbo:termPeriod o'<G.K.Singh__1>",
+    "14" : "s(G.K.Singh) dbo:termPeriod o'<G.K.Singh__2>",
+    "15" : "s(G.K.Singh) dbo:termPeriod o'<G.K.Singh__3>",
+    "16" : "s(G.K.Singh) dbo:termPeriod o'<G.K.Singh__4>",
+    "17" : "s(G.K.Singh) dbp:almamater o'<Punjabi_University,_Patiala>",
+    "18" : "s(G.K.Singh) dbp:children o'<Rohan B.S. Dhaliwal,  Kanwar Partap B.S. Dhaliwal>",
+    "19" : "s(G.K.Singh) dbp:nationality o'<Indian>",
+    "20" : "s(G.K.Singh) dbp:predecessor o'<Anjali Bhawra>",
+    "21" : "s(G.K.Singh) dbp:predecessor o'<Arunjit Singh Miglani>",
+    "22" : "s(G.K.Singh) dbp:predecessor o'<Sukhjit Singh Bains>",
+    "23" : "s(G.K.Singh) dbp:predecessor o'<Vikas Garg>",
+    "24" : "s(G.K.Singh) dbp:spouse o'<Neel Kamal Kaur Brar Dhaliwal>",
+    "25" : "s(G.K.Singh) dbp:successor o'<Varun Roojam>",
+    "26" : "s(G.K.Singh) dbp:successor o'<Pradeep Aggarwal>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(g.k.singh=G.K.Singh) [1986 batch officer ] o'<punjab=Punjab,_India>",
+    "5" : "s(g.k.singh=G.K.Singh) [founder of ] o'<punjab=Punjab,_India>"
+  },
+  "abstract" : {
+    "4" : "g.k.singh<G.K.Singh> is a 1986 batch officer of the punjab<Punjab,_India> civil services, was later promoted to indian administrative service in 2001\n",
+    "5" : "g.k.singh<G.K.Singh> is also the founder of an ngos village development council, jalwana, involved in the integrated development of backward areas of punjab<Punjab,_India> and is also the founder member of sarbat da bhala charitable trust, instrumental in rehabilitation of disabled\n"
+  }
+}, {
+  "entityIndex" : "entity11335",
+  "entityUrl" : "http://dbpedia.org/resource/Gary_Owen_(politician)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Gary_Owen_(politician)) dbo:almaMater o'<University_of_Michigan>",
+    "2" : "s(Gary_Owen_(politician)) dbo:birthDate o'<1944-09-09>",
+    "3" : "s(Gary_Owen_(politician)) dbo:birthDate o'<1944-9-9>",
+    "4" : "s(Gary_Owen_(politician)) dbo:birthPlace o'<Lawrence_County,_Alabama>",
+    "5" : "s(Gary_Owen_(politician)) dbo:governor o'<James_J._Blanchard>",
+    "6" : "s(Gary_Owen_(politician)) dbo:party o'<Democratic_Party_(United_States)>",
+    "7" : "s(Gary_Owen_(politician)) dbo:predecessor o'<Bobby_Crim>",
+    "8" : "s(Gary_Owen_(politician)) dbo:predecessor o'<Daisy_Elliott>",
+    "9" : "s(Gary_Owen_(politician)) dbo:religion o'<Baptist>",
+    "10" : "s(Gary_Owen_(politician)) dbo:speaker o'<62>",
+    "11" : "s(Gary_Owen_(politician)) dbo:successor o'<Kirk_Profit>",
+    "12" : "s(Gary_Owen_(politician)) dbo:successor o'<Lew_Dodak>",
+    "13" : "s(Gary_Owen_(politician)) dbo:termPeriod o'<Gary_Owen_(politician)__1>",
+    "14" : "s(Gary_Owen_(politician)) dbp:district o'<22>",
+    "15" : "s(Gary_Owen_(politician)) dbp:stateHouse o'<Michigan>",
+    "16" : "s(Gary_Owen_(politician)) dbp:termEnd o'<1988>",
+    "17" : "s(Gary_Owen_(politician)) dbp:termStart o'<1983>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11336",
+  "entityUrl" : "http://dbpedia.org/resource/Glenn_McLean_(footballer)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Glenn_McLean_(footballer)) dbo:birthDate o'<1961-7-10>",
+    "2" : "s(Glenn_McLean_(footballer)) dbp:birthDate o'<1961-07-10>",
+    "3" : "s(Glenn_McLean_(footballer)) dbp:clubs o'<Melbourne_Football_Club>",
+    "4" : "s(Glenn_McLean_(footballer)) dbp:clubs o'<Collingwood>",
+    "5" : "s(Glenn_McLean_(footballer)) dbp:games(goals)_ o'<2>",
+    "6" : "s(Glenn_McLean_(footballer)) dbp:games(goals)_ o'<42>",
+    "7" : "s(Glenn_McLean_(footballer)) dbp:games(goals)_ o'<44>",
+    "8" : "s(Glenn_McLean_(footballer)) dbp:heightweight o'<194>",
+    "9" : "s(Glenn_McLean_(footballer)) dbp:originalteam o'<Sandringham_Football_Club>",
+    "10" : "s(Glenn_McLean_(footballer)) dbp:statsend o'<1984>",
+    "11" : "s(Glenn_McLean_(footballer)) dbp:years o'<1980>",
+    "12" : "s(Glenn_McLean_(footballer)) dbp:years o'<1984>",
+    "13" : "s(Glenn_McLean_(footballer)) dbp:years o'<Total ->"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(glenn mclean (footballer)=Glenn_McLean_(footballer)) [came to ] o'<melbourne=Melbourne_Football_Club>",
+    "7" : "s(glenn mclean (footballer)=Glenn_McLean_(footballer)) [shared ruck duties with brownlow ] o'<melbourne=Melbourne_Football_Club>",
+    "11" : "s(glenn mclean (footballer)=Glenn_McLean_(footballer)) [played in rounds 15 ] o'<collingwood=Collingwood>"
+  },
+  "abstract" : {
+    "3" : "glenn mclean (footballer)<Glenn_McLean_(footballer)> came to melbourne<Melbourne_Football_Club> from sandringham<Sandringham_Football_Club> in the victorian football association (vfa)\n",
+    "7" : "in the 1983 vfl season glenn mclean (footballer)<Glenn_McLean_(footballer)> shared ruck duties with brownlow medalist peter moore and was the only melbourne<Melbourne_Football_Club> player to appear in all 22 rounds\n",
+    "11" : "glenn mclean (footballer)<Glenn_McLean_(footballer)> played in rounds 15 and 16, before losing his place in the collingwood<Collingwood> team\n"
+  }
+}, {
+  "entityIndex" : "entity11337",
+  "entityUrl" : "http://dbpedia.org/resource/Garry_Jones",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Garry_Jones) dbo:birthDate o'<1950-12-11>",
+    "2" : "s(Garry_Jones) dbo:birthPlace o'<Wythenshawe>",
+    "3" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__1>",
+    "4" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__10>",
+    "5" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__2>",
+    "6" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__3>",
+    "7" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__4>",
+    "8" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__5>",
+    "9" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__6>",
+    "10" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__7>",
+    "11" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__8>",
+    "12" : "s(Garry_Jones) dbo:careerStation o'<Garry_Jones__9>",
+    "13" : "s(Garry_Jones) dbo:deathDate o'<2016-04-06>",
+    "14" : "s(Garry_Jones) dbo:deathDate o'<2016-4-6>",
+    "15" : "s(Garry_Jones) dbo:deathPlace o'<Cheshire>",
+    "16" : "s(Garry_Jones) dbo:deathPlace o'<Bramhall>",
+    "17" : "s(Garry_Jones) dbo:position o'<Centre_forward>",
+    "18" : "s(Garry_Jones) dbo:team o'<Hereford_United_F.C.>",
+    "19" : "s(Garry_Jones) dbo:team o'<Derry_City_F.C.>",
+    "20" : "s(Garry_Jones) dbo:team o'<Runcorn_F.C._Halton>",
+    "21" : "s(Garry_Jones) dbo:team o'<Los_Angeles_Aztecs>",
+    "22" : "s(Garry_Jones) dbo:team o'<Sheffield_United_F.C.>",
+    "23" : "s(Garry_Jones) dbo:team o'<Northwich_Victoria_F.C.>",
+    "24" : "s(Garry_Jones) dbo:team o'<Bolton_Wanderers_F.C.>",
+    "25" : "s(Garry_Jones) dbo:team o'<Blackpool_F.C.>",
+    "26" : "s(Garry_Jones) dbo:team o'<Chorley_F.C.>",
+    "27" : "s(Garry_Jones) dbp:youthyears o'<â€“>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11338",
+  "entityUrl" : "http://dbpedia.org/resource/Gordon_Hazlewood",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

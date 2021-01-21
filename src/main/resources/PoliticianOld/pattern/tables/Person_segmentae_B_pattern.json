@@ -1,0 +1,113 @@
+[ {
+  "entityIndex" : "entity11311",
+  "entityUrl" : "http://dbpedia.org/resource/Bogdan_Zdrojewski",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Bogdan_Zdrojewski) dbo:birthDate o'<1957-05-18>",
+    "2" : "s(Bogdan_Zdrojewski) dbo:birthDate o'<1957-5-18>",
+    "3" : "s(Bogdan_Zdrojewski) dbo:birthPlace o'<KÅ‚odzko>",
+    "4" : "s(Bogdan_Zdrojewski) dbo:office o'<Parliamentary Leader of the Civic Platform>",
+    "5" : "s(Bogdan_Zdrojewski) dbo:office o'<Member of theSejm>",
+    "6" : "s(Bogdan_Zdrojewski) dbo:office o'<(5thLeader of the Civic Platform in the Sejm)>",
+    "7" : "s(Bogdan_Zdrojewski) dbo:orderInOffice o'<Mayor of WrocÅ‚aw>",
+    "8" : "s(Bogdan_Zdrojewski) dbo:orderInOffice o'<Minister of Culture and National Heritage>",
+    "9" : "s(Bogdan_Zdrojewski) dbo:party o'<Civic_Platform>",
+    "10" : "s(Bogdan_Zdrojewski) dbo:predecessor o'<Donald_Tusk>",
+    "11" : "s(Bogdan_Zdrojewski) dbo:predecessor o'<Kazimierz_MichaÅ‚_Ujazdowski>",
+    "12" : "s(Bogdan_Zdrojewski) dbo:predecessor o'<Stefan_SkÄ…pski>",
+    "13" : "s(Bogdan_Zdrojewski) dbo:president o'<Lech_KaczyÅ„ski>",
+    "14" : "s(Bogdan_Zdrojewski) dbo:president o'<BronisÅ‚aw_Komorowski>",
+    "15" : "s(Bogdan_Zdrojewski) dbo:primeMinister o'<Donald_Tusk>",
+    "16" : "s(Bogdan_Zdrojewski) dbo:region o'<WrocÅ‚aw_(parliamentary_constituency)>",
+    "17" : "s(Bogdan_Zdrojewski) dbo:successor o'<StanisÅ‚aw_Huskowski>",
+    "18" : "s(Bogdan_Zdrojewski) dbo:successor o'<MaÅ‚gorzata_Omilanowska>",
+    "19" : "s(Bogdan_Zdrojewski) dbo:successor o'<Zbigniew_Chlebowski>",
+    "20" : "s(Bogdan_Zdrojewski) dbo:termPeriod o'<Bogdan_Zdrojewski__1>",
+    "21" : "s(Bogdan_Zdrojewski) dbo:termPeriod o'<Bogdan_Zdrojewski__2>",
+    "22" : "s(Bogdan_Zdrojewski) dbo:termPeriod o'<Bogdan_Zdrojewski__3>",
+    "23" : "s(Bogdan_Zdrojewski) dbo:termPeriod o'<Bogdan_Zdrojewski__4>",
+    "24" : "s(Bogdan_Zdrojewski) dbp:constituencyMp o'<Lower_Silesian_and_Opole_(European_Parliament_constituency)>",
+    "25" : "s(Bogdan_Zdrojewski) dbp:imagesize o'<250>",
+    "26" : "s(Bogdan_Zdrojewski) dbp:leader o'<Donald_Tusk>",
+    "27" : "s(Bogdan_Zdrojewski) dbp:parliament o'<European>",
+    "28" : "s(Bogdan_Zdrojewski) dbp:spouse o'<Barbara Mietelska>",
+    "29" : "s(Bogdan_Zdrojewski) dbp:termEnd o'<2007-11-05>",
+    "30" : "s(Bogdan_Zdrojewski) dbp:termEnd o'<...>",
+    "31" : "s(Bogdan_Zdrojewski) dbp:termStart o'<2006-12-05>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11312",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_LaMacchia",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11313",
+  "entityUrl" : "http://dbpedia.org/resource/Brad_Strickland",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Brad_Strickland) dbo:birthDate o'<1947-10-27>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11314",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_Ward_Richardson",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Benjamin_Ward_Richardson) dbo:birthDate o'<1828-10-28>",
+    "2" : "s(Benjamin_Ward_Richardson) dbo:birthDate o'<1828-10-31>",
+    "3" : "s(Benjamin_Ward_Richardson) dbo:birthPlace o'<Somerby,_Leicestershire>",
+    "4" : "s(Benjamin_Ward_Richardson) dbo:birthYear o'<1828>",
+    "5" : "s(Benjamin_Ward_Richardson) dbo:deathDate o'<1896-11-21>",
+    "6" : "s(Benjamin_Ward_Richardson) dbo:deathYear o'<1896>",
+    "7" : "s(Benjamin_Ward_Richardson) dbo:nationality o'<United_Kingdom>",
+    "8" : "s(Benjamin_Ward_Richardson) dbo:occupation o'<Physician>",
+    "9" : "s(Benjamin_Ward_Richardson) dbo:occupation o'<Benjamin_Ward_Richardson__1>",
+    "10" : "s(Benjamin_Ward_Richardson) dbo:stateOfOrigin o'<United_Kingdom>",
+    "11" : "s(Benjamin_Ward_Richardson) dbp:deathPlace o'<London>",
+    "12" : "s(Benjamin_Ward_Richardson) dbp:first o'<D'Arcy>",
+    "13" : "s(Benjamin_Ward_Richardson) dbp:id o'<Richardson,+Benjamin+Ward>",
+    "14" : "s(Benjamin_Ward_Richardson) dbp:knownFor o'<Public hygiene>",
+    "15" : "s(Benjamin_Ward_Richardson) dbp:last o'<Power>",
+    "16" : "s(Benjamin_Ward_Richardson) dbp:name o'<Benjamin Ward Richardson>",
+    "17" : "s(Benjamin_Ward_Richardson) dbp:wstitle o'<Richardson, Benjamin Ward>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "11" : "s(benjamin ward richardson=Benjamin_Ward_Richardson) [recipient of ] o'<medical=Physician>",
+    "16" : "s(benjamin ward richardson=Benjamin_Ward_Richardson) [made known peculiar ] o'<medical profession=Physician>"
+  },
+  "abstract" : {
+    "11" : "benjamin ward richardson<Benjamin_Ward_Richardson> was the recipient of the fothergill gold medal, awarded by the medical<Physician> society of london<LONDON> in 1854 and of the astley cooper triennial prize for an essay in physiology\n",
+    "16" : "benjamin ward richardson<Benjamin_Ward_Richardson> also made known the peculiar properties of amyl nitrite, a drug which was largely used in the treatment of angina pectoris, and benjamin ward richardson<Benjamin_Ward_Richardson> introduced the bromides of quinine, iron and strychnia, ozonized ether, styptic and iodized colloid, hydrogen peroxide, and sodium ethoxide, substances which were soon largely used by the medical profession<Physician>\n"
+  }
+}, {
+  "entityIndex" : "entity11315",
+  "entityUrl" : "http://dbpedia.org/resource/B._K._Tikader",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(B._K._Tikader) dbo:birthDate o'<1928-1-1>",
+    "2" : "s(B._K._Tikader) dbo:birthPlace o'<Khulna>",
+    "3" : "s(B._K._Tikader) dbo:birthYear o'<1928>",
+    "4" : "s(B._K._Tikader) dbo:deathDate o'<1994-08-12>",
+    "5" : "s(B._K._Tikader) dbo:deathDate o'<1994-8-12>",
+    "6" : "s(B._K._Tikader) dbo:deathYear o'<1994>",
+    "7" : "s(B._K._Tikader) dbo:occupation o'<B._K._Tikader__1>",
+    "8" : "s(B._K._Tikader) dbo:occupation o'<Zoologist>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11316",
+  "entityUrl" : "http://dbpedia.org/resource/Blanche_Fisher_Wright",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Blanche_Fisher_Wright) dbp:id o'<Wright,+Blanche+Fisher>",
+    "2" : "s(Blanche_Fisher_Wright) dbp:name o'<Blanche Fisher Wright>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

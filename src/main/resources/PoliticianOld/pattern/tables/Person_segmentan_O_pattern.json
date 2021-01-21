@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity12033",
+  "entityUrl" : "http://dbpedia.org/resource/Obert_C._Teigen",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Obert_C._Teigen) dbo:birthDate o'<1908-9-27>",
+    "2" : "s(Obert_C._Teigen) dbo:deathDate o'<1978-5-26>",
+    "3" : "s(Obert_C._Teigen) dbp:after o'<Alvin_C._Strutz>",
+    "4" : "s(Obert_C._Teigen) dbp:before o'<Alvin_C._Strutz>",
+    "5" : "s(Obert_C._Teigen) dbp:before o'<Thomas_J._Burke_(North_Dakota)>",
+    "6" : "s(Obert_C._Teigen) dbp:title o'<List_of_North_Dakota_Supreme_Court_Chief_Justices>",
+    "7" : "s(Obert_C._Teigen) dbp:years o'<1965>",
+    "8" : "s(Obert_C._Teigen) dbp:years o'<1971>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12034",
+  "entityUrl" : "http://dbpedia.org/resource/Omar_Hayssam",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Omar_Hayssam) dbo:birthDate o'<1963-1-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12035",
+  "entityUrl" : "http://dbpedia.org/resource/Odo_II,_Margrave_of_the_Saxon_Ostmark",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Odo_II,_Margrave_of_the_Saxon_Ostmark) dbo:birthDate o'<1100-1-1>",
+    "2" : "s(Odo_II,_Margrave_of_the_Saxon_Ostmark) dbo:deathDate o'<1032-1-1>",
+    "3" : "s(Odo_II,_Margrave_of_the_Saxon_Ostmark) dbp:after o'<Dedi_I,_Margrave_of_the_Saxon_Ostmark>",
+    "4" : "s(Odo_II,_Margrave_of_the_Saxon_Ostmark) dbp:rows o'<1>",
+    "5" : "s(Odo_II,_Margrave_of_the_Saxon_Ostmark) dbp:title o'<Margrave_of_the_Ostmark>",
+    "6" : "s(Odo_II,_Margrave_of_the_Saxon_Ostmark) dbp:years o'<1030>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12036",
+  "entityUrl" : "http://dbpedia.org/resource/Omar_Naim",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Omar_Naim) dbo:activeYearsStartYear o'<1998>",
+    "2" : "s(Omar_Naim) dbo:alias o'<Omar NaÃ¯m>",
+    "3" : "s(Omar_Naim) dbo:birthDate o'<1977-09-27>",
+    "4" : "s(Omar_Naim) dbo:birthDate o'<1977-9-27>",
+    "5" : "s(Omar_Naim) dbo:birthPlace o'<Amman>",
+    "6" : "s(Omar_Naim) dbo:birthPlace o'<Jordan>",
+    "7" : "s(Omar_Naim) dbo:birthYear o'<1977>",
+    "8" : "s(Omar_Naim) dbo:imdbId o'<0619715>",
+    "9" : "s(Omar_Naim) dbo:nationality o'<Lebanese_people>",
+    "10" : "s(Omar_Naim) dbo:occupation o'<Omar_Naim__1>",
+    "11" : "s(Omar_Naim) dbo:stateOfOrigin o'<Lebanese_people>",
+    "12" : "s(Omar_Naim) dbp:name o'<Omar Naim>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(omar naim=Omar_Naim) [PRONOUN est un ralisateur scnariste ] o'<amman=Amman>"
+  },
+  "abstract" : {
+    "1" : "omar naim<Omar_Naim> omar naim<Omar_Naim>, est un rã©alisateur, scã©nariste et producteur libanais, nã© le 27 septembre 1977 ã  amman<Amman> (jordanie)"
+  }
+}, {
+  "entityIndex" : "entity12037",
+  "entityUrl" : "http://dbpedia.org/resource/Osvaldo_Terranova",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Osvaldo_Terranova) dbo:activeYearsEndYear o'<1984>",
+    "2" : "s(Osvaldo_Terranova) dbo:activeYearsStartYear o'<1949>",
+    "3" : "s(Osvaldo_Terranova) dbo:birthDate o'<1923-08-30>",
+    "4" : "s(Osvaldo_Terranova) dbo:birthDate o'<1924-6-30>",
+    "5" : "s(Osvaldo_Terranova) dbo:birthPlace o'<Villaguay>",
+    "6" : "s(Osvaldo_Terranova) dbo:birthPlace o'<Entre_RÃ­os_Province>",
+    "7" : "s(Osvaldo_Terranova) dbo:birthYear o'<1923>",
+    "8" : "s(Osvaldo_Terranova) dbo:deathDate o'<1984-10-04>",
+    "9" : "s(Osvaldo_Terranova) dbo:deathDate o'<1984-10-4>",
+    "10" : "s(Osvaldo_Terranova) dbo:deathPlace o'<Villaguay>",
+    "11" : "s(Osvaldo_Terranova) dbo:deathYear o'<1984>",
+    "12" : "s(Osvaldo_Terranova) dbo:imdbId o'<0855776>",
+    "13" : "s(Osvaldo_Terranova) dbp:imagesize o'<150>",
+    "14" : "s(Osvaldo_Terranova) dbp:name o'<Osvaldo Terranova>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12038",
+  "entityUrl" : "http://dbpedia.org/resource/Ofir_Drori",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ofir_Drori) dbo:birthDate o'<1976-4-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

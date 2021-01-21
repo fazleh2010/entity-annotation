@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity11295",
+  "entityUrl" : "http://dbpedia.org/resource/Anna_Madeley",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Anna_Madeley) dbo:birthDate o'<1976-03-08>",
+    "2" : "s(Anna_Madeley) dbo:birthDate o'<1976-1-1>",
+    "3" : "s(Anna_Madeley) dbo:birthPlace o'<London>",
+    "4" : "s(Anna_Madeley) dbo:birthYear o'<1976>",
+    "5" : "s(Anna_Madeley) dbp:children o'<Rowena>",
+    "6" : "s(Anna_Madeley) dbp:partner o'<Geoffrey Streatfield>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11296",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Lively",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Adam_Lively) dbo:birthDate o'<1961-1-20>",
+    "2" : "s(Adam_Lively) dbp:id o'<Adam_Lively>",
+    "3" : "s(Adam_Lively) dbp:name o'<Adam Lively>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11297",
+  "entityUrl" : "http://dbpedia.org/resource/Adel_Darwish",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11298",
+  "entityUrl" : "http://dbpedia.org/resource/Adolphe_Guillet_dit_Tourangeau",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:birthDate o'<1831-01-15>",
+    "2" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:birthDate o'<1831-1-15>",
+    "3" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:birthPlace o'<Lower_Canada>",
+    "4" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:birthPlace o'<Quebec_City>",
+    "5" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:deathDate o'<1894-10-08>",
+    "6" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:deathDate o'<1894-10-8>",
+    "7" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:deathPlace o'<Quebec_City>",
+    "8" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:deathPlace o'<Quebec>",
+    "9" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:office o'<Mayor of Quebec City>",
+    "10" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:party o'<Conservative_Party_of_Canada_(1867â€“1942)>",
+    "11" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:predecessor o'<William_Hossak>",
+    "12" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:predecessor o'<Thomas_Pope_(politician)>",
+    "13" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:predecessor o'<Pierre-Gabriel_Huot>",
+    "14" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:successor o'<Isidore_Thibaudeau>",
+    "15" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:successor o'<Pierre_Garneau>",
+    "16" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:successor o'<Joseph_Ã‰douard_Cauchon>",
+    "17" : "s(Adolphe_Guillet_dit_Tourangeau) dbo:termPeriod o'<Adolphe_Guillet_dit_Tourangeau__2>",
+    "18" : "s(Adolphe_Guillet_dit_Tourangeau) dbp:constituencyMp o'<Quebec_East>",
+    "19" : "s(Adolphe_Guillet_dit_Tourangeau) dbp:parliament o'<Canadian>",
+    "20" : "s(Adolphe_Guillet_dit_Tourangeau) dbp:termEnd o'<1865>",
+    "21" : "s(Adolphe_Guillet_dit_Tourangeau) dbp:termEnd o'<1870>",
+    "22" : "s(Adolphe_Guillet_dit_Tourangeau) dbp:termEnd o'<1874>",
+    "23" : "s(Adolphe_Guillet_dit_Tourangeau) dbp:termStart o'<1864>",
+    "24" : "s(Adolphe_Guillet_dit_Tourangeau) dbp:termStart o'<1870>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11299",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Dale_Trendall",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Arthur_Dale_Trendall) dbo:birthDate o'<1909-3-28>",
+    "2" : "s(Arthur_Dale_Trendall) dbo:birthPlace o'<Auckland>",
+    "3" : "s(Arthur_Dale_Trendall) dbo:deathDate o'<1995-11-13>",
+    "4" : "s(Arthur_Dale_Trendall) dbo:deathPlace o'<Melbourne>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11300",
+  "entityUrl" : "http://dbpedia.org/resource/Asteas",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

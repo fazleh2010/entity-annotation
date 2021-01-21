@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11461",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%8Cno_Kurobei",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11462",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81lvaro_I_of_Kongo",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11463",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%9Eorsteinn_Gylfason",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11464",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81rmin_V%C3%A1mb%C3%A9ry",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11465",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81brah%C3%A1m_Lederer",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11466",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98tefan_Neaga",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

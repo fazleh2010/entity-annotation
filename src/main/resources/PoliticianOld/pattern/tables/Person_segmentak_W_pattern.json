@@ -1,0 +1,127 @@
+[ {
+  "entityIndex" : "entity11590",
+  "entityUrl" : "http://dbpedia.org/resource/William_M._Haynsworth,_Jr.",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(William_M._Haynsworth,_Jr.) dbo:birthDate o'<1901-1-16>",
+    "2" : "s(William_M._Haynsworth,_Jr.) dbo:deathDate o'<1942-8-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11591",
+  "entityUrl" : "http://dbpedia.org/resource/William_Hank",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(William_Hank) dbo:deathDate o'<1942-11-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11592",
+  "entityUrl" : "http://dbpedia.org/resource/W._H._McFadden",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(W._H._McFadden) dbo:birthDate o'<1869-06-11>",
+    "2" : "s(W._H._McFadden) dbo:birthDate o'<1869-6-11>",
+    "3" : "s(W._H._McFadden) dbo:birthPlace o'<West_Virginia>",
+    "4" : "s(W._H._McFadden) dbo:birthPlace o'<Moundsville,_West_Virginia>",
+    "5" : "s(W._H._McFadden) dbo:birthPlace o'<Moundsville>",
+    "6" : "s(W._H._McFadden) dbo:birthYear o'<1869>",
+    "7" : "s(W._H._McFadden) dbo:deathDate o'<1956-0-0>",
+    "8" : "s(W._H._McFadden) dbo:deathPlace o'<Fort_Worth,_Texas>",
+    "9" : "s(W._H._McFadden) dbo:deathYear o'<1956>",
+    "10" : "s(W._H._McFadden) dbo:occupation o'<W._H._McFadden__1>",
+    "11" : "s(W._H._McFadden) dbo:occupation o'<American_Oil_Businessman>",
+    "12" : "s(W._H._McFadden) dbo:occupation o'<List_of_business_people>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11593",
+  "entityUrl" : "http://dbpedia.org/resource/Willie_Burden",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Willie_Burden) dbo:birthDate o'<1951-07-21>",
+    "2" : "s(Willie_Burden) dbo:birthDate o'<1951-7-21>",
+    "3" : "s(Willie_Burden) dbo:birthPlace o'<Raleigh,_North_Carolina>",
+    "4" : "s(Willie_Burden) dbo:college o'<North_Carolina_State_University>",
+    "5" : "s(Willie_Burden) dbo:deathDate o'<2015-12-04>",
+    "6" : "s(Willie_Burden) dbo:deathDate o'<2015-12-4>",
+    "7" : "s(Willie_Burden) dbo:deathPlace o'<Atlanta>",
+    "8" : "s(Willie_Burden) dbo:deathPlace o'<Atlanta,_Georgia>",
+    "9" : "s(Willie_Burden) dbo:height o'<1.8034>",
+    "10" : "s(Willie_Burden) dbo:highschool o'<William_G._Enloe_High_School>",
+    "11" : "s(Willie_Burden) dbo:number o'<10>",
+    "12" : "s(Willie_Burden) dbo:position o'<Running_back>",
+    "13" : "s(Willie_Burden) dbo:weight o'<92.988>",
+    "14" : "s(Willie_Burden) dbo:weight o'<92988.0>",
+    "15" : "s(Willie_Burden) dbp:awards o'<CFL MOP>",
+    "16" : "s(Willie_Burden) dbp:careerHighlights o'<Y>",
+    "17" : "s(Willie_Burden) dbp:cfhof o'<burdenwillie>",
+    "18" : "s(Willie_Burden) dbp:cfhofyear o'<2001>",
+    "19" : "s(Willie_Burden) dbp:cflwestallstar o'<,>",
+    "20" : "s(Willie_Burden) dbp:color o'<red>",
+    "21" : "s(Willie_Burden) dbp:fontcolor o'<white>",
+    "22" : "s(Willie_Burden) dbp:heightFt o'<5>",
+    "23" : "s(Willie_Burden) dbp:heightIn o'<11>",
+    "24" : "s(Willie_Burden) dbp:import o'<yes>",
+    "25" : "s(Willie_Burden) dbp:nfldraftedpick o'<139>",
+    "26" : "s(Willie_Burden) dbp:nfldraftedround o'<6>",
+    "27" : "s(Willie_Burden) dbp:nfldraftedteam o'<Detroit_Lions>",
+    "28" : "s(Willie_Burden) dbp:nfldraftedyear o'<1974>",
+    "29" : "s(Willie_Burden) dbp:playingTeam o'<Calgary_Stampeders>",
+    "30" : "s(Willie_Burden) dbp:playingYears o'<â€“>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11594",
+  "entityUrl" : "http://dbpedia.org/resource/William_C._Dowlan",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(William_C._Dowlan) dbo:activeYearsEndYear o'<1920>",
+    "2" : "s(William_C._Dowlan) dbo:activeYearsStartYear o'<1912>",
+    "3" : "s(William_C._Dowlan) dbo:alias o'<William Dowlan>",
+    "4" : "s(William_C._Dowlan) dbo:alias o'<W.C. Dowlan>",
+    "5" : "s(William_C._Dowlan) dbo:birthDate o'<1882-09-21>",
+    "6" : "s(William_C._Dowlan) dbo:birthDate o'<1882-9-21>",
+    "7" : "s(William_C._Dowlan) dbo:birthPlace o'<St._Paul,_Minnesota>",
+    "8" : "s(William_C._Dowlan) dbo:birthPlace o'<Saint_Paul,_Minnesota>",
+    "9" : "s(William_C._Dowlan) dbo:birthYear o'<1882>",
+    "10" : "s(William_C._Dowlan) dbo:deathDate o'<1947-11-06>",
+    "11" : "s(William_C._Dowlan) dbo:deathDate o'<1947-11-6>",
+    "12" : "s(William_C._Dowlan) dbo:deathPlace o'<Los_Angeles>",
+    "13" : "s(William_C._Dowlan) dbo:deathPlace o'<Los_Angeles,_California>",
+    "14" : "s(William_C._Dowlan) dbo:deathYear o'<1947>",
+    "15" : "s(William_C._Dowlan) dbo:imdbId o'<0235791>",
+    "16" : "s(William_C._Dowlan) dbo:occupation o'<William_C._Dowlan__1>",
+    "17" : "s(William_C._Dowlan) dbo:occupation o'<Film_director>",
+    "18" : "s(William_C._Dowlan) dbo:occupation o'<Actor>",
+    "19" : "s(William_C._Dowlan) dbp:name o'<William C. Dowlan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11595",
+  "entityUrl" : "http://dbpedia.org/resource/Wallace_MacDonald",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Wallace_MacDonald) dbo:activeYearsEndYear o'<1959>",
+    "2" : "s(Wallace_MacDonald) dbo:activeYearsStartYear o'<1912>",
+    "3" : "s(Wallace_MacDonald) dbo:birthDate o'<1891-05-05>",
+    "4" : "s(Wallace_MacDonald) dbo:birthDate o'<1891-5-5>",
+    "5" : "s(Wallace_MacDonald) dbo:birthPlace o'<Mulgrave,_Nova_Scotia>",
+    "6" : "s(Wallace_MacDonald) dbo:birthPlace o'<Canada>",
+    "7" : "s(Wallace_MacDonald) dbo:birthYear o'<1891>",
+    "8" : "s(Wallace_MacDonald) dbo:deathDate o'<1978-10-30>",
+    "9" : "s(Wallace_MacDonald) dbo:deathPlace o'<California>",
+    "10" : "s(Wallace_MacDonald) dbo:deathPlace o'<Santa_Barbara,_California>",
+    "11" : "s(Wallace_MacDonald) dbo:deathYear o'<1978>",
+    "12" : "s(Wallace_MacDonald) dbo:occupation o'<Wallace_MacDonald__1>",
+    "13" : "s(Wallace_MacDonald) dbo:occupation o'<Film_producer>",
+    "14" : "s(Wallace_MacDonald) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

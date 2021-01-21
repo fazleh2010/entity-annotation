@@ -1,0 +1,10 @@
+[ {
+  "entityIndex" : "entity12111",
+  "entityUrl" : "http://dbpedia.org/resource/'Abd_al-Majid_Nimer_Zaghmout",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s('Abd_al-Majid_Nimer_Zaghmout) dbo:deathDate o'<2000-2-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

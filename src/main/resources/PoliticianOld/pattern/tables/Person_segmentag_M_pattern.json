@@ -1,0 +1,81 @@
+[ {
+  "entityIndex" : "entity10877",
+  "entityUrl" : "http://dbpedia.org/resource/Murong_Hong",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Murong_Hong) dbo:deathDate o'<384-1-1>",
+    "2" : "s(Murong_Hong) dbp:reason o'<Sixteen_Kingdoms>",
+    "3" : "s(Murong_Hong) dbp:title o'<Emperor_of_China>",
+    "4" : "s(Murong_Hong) dbp:title o'<Prince of Jibei>",
+    "5" : "s(Murong_Hong) dbp:years o'<350>",
+    "6" : "s(Murong_Hong) dbp:years o'<384>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(murong hong=Murong_Hong) [son of ] o'<emperor=Emperor_of_China>",
+    "7" : "s(murong hong=Murong_Hong) [heard his uncle murong ] o'<emperor=Emperor_of_China>",
+    "18" : "s(murong hong=Murong_Hong) [explicitly urged murong hong ] o'<imperial title=Emperor_of_China>"
+  },
+  "abstract" : {
+    "2" : "murong hong<Murong_Hong> was a son of the former yan emperor<Emperor_of_China> murong jun and a younger brother of former yan emperor<Emperor_of_China> murong wei\n",
+    "7" : "early that year, murong hong<Murong_Hong> heard that his uncle murong chui had rebelled against former qin rule in light of the former qin emperor<Emperor_of_China> fu jiä�n's defeat at the battle of fei river in 383\n",
+    "18" : "murong hong<Murong_Hong> also explicitly urged murong hong to prepare taking the imperial title<Emperor_of_China> if murong hong heard that fu jiä�n had executed him\n"
+  }
+}, {
+  "entityIndex" : "entity10878",
+  "entityUrl" : "http://dbpedia.org/resource/Mortimer_L._Schiff",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Mortimer_L._Schiff) dbo:birthDate o'<1877-6-5>",
+    "2" : "s(Mortimer_L._Schiff) dbo:deathDate o'<1931-6-4>",
+    "3" : "s(Mortimer_L._Schiff) dbp:title o'<National_president_of_the_Boy_Scouts_of_America>",
+    "4" : "s(Mortimer_L._Schiff) dbp:years o'<Mayâ€“June 1931>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10879",
+  "entityUrl" : "http://dbpedia.org/resource/Micanopy",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Micanopy) dbo:birthDate o'<1780-1-1>",
+    "2" : "s(Micanopy) dbo:birthPlace o'<St._Augustine,_Florida>",
+    "3" : "s(Micanopy) dbo:deathDate o'<1849-1-2>",
+    "4" : "s(Micanopy) dbo:deathPlace o'<Fort_Gibson,_Oklahoma>",
+    "5" : "s(Micanopy) dbp:after o'<%3F>",
+    "6" : "s(Micanopy) dbp:before o'<Bolek>",
+    "7" : "s(Micanopy) dbp:title o'<Leading_chief_of_the_Seminoles>",
+    "8" : "s(Micanopy) dbp:years o'<1819>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10880",
+  "entityUrl" : "http://dbpedia.org/resource/Mar%C3%ADa_Pacheco",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10881",
+  "entityUrl" : "http://dbpedia.org/resource/Margo_Gunn",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Margo_Gunn) dbo:birthDate o'<1956-2-8>",
+    "2" : "s(Margo_Gunn) dbo:country o'<England>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "9" : "s(margo gunn=Margo_Gunn) [used to run ] o'<home=England>"
+  },
+  "abstract" : {
+    "9" : "margo gunn<Margo_Gunn> used to run her own drama workshops for children called active arts with amanda jordan, a home<England> educator and former theatre director\n"
+  }
+}, {
+  "entityIndex" : "entity10882",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Lattke",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Michael_Lattke) dbo:birthDate o'<1942-5-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

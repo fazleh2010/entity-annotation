@@ -1,0 +1,21 @@
+[ {
+  "entityIndex" : "entity14240",
+  "entityUrl" : "http://dbpedia.org/resource/3rd_Jebtsundamba_Khutughtu",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(3rd_Jebtsundamba_Khutughtu) dbo:birthDate o'<1758-1-1>",
+    "2" : "s(3rd_Jebtsundamba_Khutughtu) dbo:birthPlace o'<Tibet>",
+    "3" : "s(3rd_Jebtsundamba_Khutughtu) dbo:birthPlace o'<Gaocheng,_Sichuan>",
+    "4" : "s(3rd_Jebtsundamba_Khutughtu) dbo:deathDate o'<1773-1-1>",
+    "5" : "s(3rd_Jebtsundamba_Khutughtu) dbo:deathPlace o'<Mongolia>",
+    "6" : "s(3rd_Jebtsundamba_Khutughtu) dbo:deathPlace o'<Ulaanbaatar>",
+    "7" : "s(3rd_Jebtsundamba_Khutughtu) dbo:predecessor o'<2nd_Jebtsundamba_Khutughtu>",
+    "8" : "s(3rd_Jebtsundamba_Khutughtu) dbp:birthDate o'<1758>",
+    "9" : "s(3rd_Jebtsundamba_Khutughtu) dbp:deathDate o'<1773>",
+    "10" : "s(3rd_Jebtsundamba_Khutughtu) dbp:imageSize o'<200>",
+    "11" : "s(3rd_Jebtsundamba_Khutughtu) dbp:occupation o'<Spiritual head of Mongolia>",
+    "12" : "s(3rd_Jebtsundamba_Khutughtu) dbp:title o'<His Holiness the 3rd Jebtsundamba Khutughtu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

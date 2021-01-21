@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity14338",
+  "entityUrl" : "http://dbpedia.org/resource/Quincy_Smith",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Quincy_Smith) dbo:birthDate o'<1918-2-3>",
+    "2" : "s(Quincy_Smith) dbo:deathDate o'<2002-1-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14339",
+  "entityUrl" : "http://dbpedia.org/resource/Qi_Xueqi",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Qi_Xueqi) dbo:activeYearsEndYear o'<1945>",
+    "2" : "s(Qi_Xueqi) dbo:activeYearsStartYear o'<1932>",
+    "3" : "s(Qi_Xueqi) dbo:almaMater o'<Tsinghua_University>",
+    "4" : "s(Qi_Xueqi) dbo:birthDate o'<1900-08-28>",
+    "5" : "s(Qi_Xueqi) dbo:birthDate o'<1900-8-28>",
+    "6" : "s(Qi_Xueqi) dbo:birthPlace o'<Hunan>",
+    "7" : "s(Qi_Xueqi) dbo:birthPlace o'<Changsha>",
+    "8" : "s(Qi_Xueqi) dbo:birthYear o'<1900>",
+    "9" : "s(Qi_Xueqi) dbo:deathDate o'<1945-03-08>",
+    "10" : "s(Qi_Xueqi) dbo:deathDate o'<1945-3-8>",
+    "11" : "s(Qi_Xueqi) dbo:deathYear o'<1945>",
+    "12" : "s(Qi_Xueqi) dbo:occupation o'<Qi_Xueqi__1>",
+    "13" : "s(Qi_Xueqi) dbp:c o'<é½�å­¦å�¯>",
+    "14" : "s(Qi_Xueqi) dbp:deathCause o'<assassination>",
+    "15" : "s(Qi_Xueqi) dbp:nationality o'<Chinese>",
+    "16" : "s(Qi_Xueqi) dbp:nativeName o'<é½�å­¦å�¯>",
+    "17" : "s(Qi_Xueqi) dbp:nativeNameLang o'<zh=hans>",
+    "18" : "s(Qi_Xueqi) dbp:organization o'<Kuomintang>",
+    "19" : "s(Qi_Xueqi) dbp:p o'<QÃ­ XuÃ©qÇ�>",
+    "20" : "s(Qi_Xueqi) dbp:parents o'<Qi Zhizhang>",
+    "21" : "s(Qi_Xueqi) dbp:partner o'<Tong Xijun>",
+    "22" : "s(Qi_Xueqi) dbp:partner o'<Xiang>",
+    "23" : "s(Qi_Xueqi) dbp:spouse o'<Li Houlin>",
+    "24" : "s(Qi_Xueqi) dbp:spouse o'<Wang Yuelun>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14340",
+  "entityUrl" : "http://dbpedia.org/resource/Queenie_Thomas",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Queenie_Thomas) dbo:birthDate o'<1898-6-18>",
+    "2" : "s(Queenie_Thomas) dbo:birthPlace o'<Wales>",
+    "3" : "s(Queenie_Thomas) dbo:deathDate o'<1977-10-11>",
+    "4" : "s(Queenie_Thomas) dbo:deathPlace o'<England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14341",
+  "entityUrl" : "http://dbpedia.org/resource/Quintus_Fabius_Maximus_(consul_213_BC)",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Quintus_Fabius_Maximus_(consul_213_BC)) dbo:birthDate o'<-300-1-1>",
+    "2" : "s(Quintus_Fabius_Maximus_(consul_213_BC)) dbp:regent o'<Tiberius_Sempronius_Gracchus_(consul_215_BC)>",
+    "3" : "s(Quintus_Fabius_Maximus_(consul_213_BC)) dbp:title o'<Consul of the Roman Republic>",
+    "4" : "s(Quintus_Fabius_Maximus_(consul_213_BC)) dbp:years o'<213>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14342",
+  "entityUrl" : "http://dbpedia.org/resource/Qamil_Musa_Haxhi_Feza",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14343",
+  "entityUrl" : "http://dbpedia.org/resource/Qing_Suping",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Qing_Suping) dbo:country o'<China>",
+    "2" : "s(Qing_Suping) dbp:givenname o'<Qing>",
+    "3" : "s(Qing_Suping) dbp:surname o'<Suping>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(qing suping=Qing_Suping) [competed in 2008 summer ] o'<china=China>"
+  },
+  "abstract" : {
+    "2" : "qing suping<Qing_Suping> competed in the 2008 summer paralympics in beijing, china<China>\n"
+  }
+} ]

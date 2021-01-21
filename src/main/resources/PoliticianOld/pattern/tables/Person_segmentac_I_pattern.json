@@ -1,0 +1,102 @@
+[ {
+  "entityIndex" : "entity11016",
+  "entityUrl" : "http://dbpedia.org/resource/Iain_McIntyre",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11017",
+  "entityUrl" : "http://dbpedia.org/resource/Ioannis_Kasoulidis",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Ioannis_Kasoulidis) dbo:almaMater o'<University_of_Lyon>",
+    "2" : "s(Ioannis_Kasoulidis) dbo:birthDate o'<1948-08-10>",
+    "3" : "s(Ioannis_Kasoulidis) dbo:birthDate o'<1948-8-10>",
+    "4" : "s(Ioannis_Kasoulidis) dbo:birthPlace o'<Cyprus>",
+    "5" : "s(Ioannis_Kasoulidis) dbo:birthPlace o'<Nicosia>",
+    "6" : "s(Ioannis_Kasoulidis) dbo:office o'<Minister of Foreign Affairs>",
+    "7" : "s(Ioannis_Kasoulidis) dbo:party o'<Democratic_Rally>",
+    "8" : "s(Ioannis_Kasoulidis) dbo:predecessor o'<Erato_Kozakou-Marcoullis>",
+    "9" : "s(Ioannis_Kasoulidis) dbo:predecessor o'<Alekos_Michaelides>",
+    "10" : "s(Ioannis_Kasoulidis) dbo:president o'<Nicos_Anastasiades>",
+    "11" : "s(Ioannis_Kasoulidis) dbo:president o'<Glafcos_Clerides>",
+    "12" : "s(Ioannis_Kasoulidis) dbo:successor o'<Georgios_Iacovou>",
+    "13" : "s(Ioannis_Kasoulidis) dbo:termPeriod o'<Ioannis_Kasoulidis__1>",
+    "14" : "s(Ioannis_Kasoulidis) dbo:termPeriod o'<Ioannis_Kasoulidis__2>",
+    "15" : "s(Ioannis_Kasoulidis) dbp:title o'<List_of_Ministers_of_Foreign_Affairs_of_Cyprus>",
+    "16" : "s(Ioannis_Kasoulidis) dbp:years o'<1997>",
+    "17" : "s(Ioannis_Kasoulidis) dbp:years o'<2013>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ioannis kasoulidis=Ioannis_Kasoulidis) [held number of ] o'<cyprus=Cyprus>"
+  },
+  "abstract" : {
+    "3" : "ioannis kasoulidis<Ioannis_Kasoulidis> has held a number of political posts in cyprus<Cyprus>, including member of the house of representatives of cyprus<Cyprus> from 1991 until 1993, and government spokesman from 1993 until 1997\n"
+  }
+}, {
+  "entityIndex" : "entity11018",
+  "entityUrl" : "http://dbpedia.org/resource/Ijuin_Tadaaki",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Ijuin_Tadaaki) dbo:birthDate o'<1520-0-0>",
+    "2" : "s(Ijuin_Tadaaki) dbo:deathDate o'<1561-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11019",
+  "entityUrl" : "http://dbpedia.org/resource/Ismet_Horo",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Ismet_Horo) dbo:activeYearsStartYear o'<1986>",
+    "2" : "s(Ismet_Horo) dbo:birthDate o'<1959-07-05>",
+    "3" : "s(Ismet_Horo) dbo:birthDate o'<1959-7-5>",
+    "4" : "s(Ismet_Horo) dbo:birthPlace o'<Bosnia_and_Herzegovina>",
+    "5" : "s(Ismet_Horo) dbo:birthYear o'<1959>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11020",
+  "entityUrl" : "http://dbpedia.org/resource/Imogen_Stubbs",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Imogen_Stubbs) dbo:activeYearsStartYear o'<1982>",
+    "2" : "s(Imogen_Stubbs) dbo:birthDate o'<1961-02-20>",
+    "3" : "s(Imogen_Stubbs) dbo:birthDate o'<1961-2-20>",
+    "4" : "s(Imogen_Stubbs) dbo:birthPlace o'<Rothbury>",
+    "5" : "s(Imogen_Stubbs) dbo:birthPlace o'<Northumberland>",
+    "6" : "s(Imogen_Stubbs) dbo:birthYear o'<1961>",
+    "7" : "s(Imogen_Stubbs) dbo:education o'<Exeter_College,_Oxford>",
+    "8" : "s(Imogen_Stubbs) dbo:education o'<Westminster_School>",
+    "9" : "s(Imogen_Stubbs) dbo:education o'<St_Paul's_Girls'_School>",
+    "10" : "s(Imogen_Stubbs) dbo:occupation o'<Imogen_Stubbs__1>",
+    "11" : "s(Imogen_Stubbs) dbo:spouse o'<Trevor_Nunn>",
+    "12" : "s(Imogen_Stubbs) dbp:children o'<1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11021",
+  "entityUrl" : "http://dbpedia.org/resource/Idris_Davies",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Idris_Davies) dbo:birthDate o'<1905-1-6>",
+    "2" : "s(Idris_Davies) dbo:birthPlace o'<Rhymney>",
+    "3" : "s(Idris_Davies) dbo:deathDate o'<1953-4-6>",
+    "4" : "s(Idris_Davies) dbp:align o'<right>",
+    "5" : "s(Idris_Davies) dbp:bgcolor o'<#FFFFF0>",
+    "6" : "s(Idris_Davies) dbp:date o'<20080720021227>",
+    "7" : "s(Idris_Davies) dbp:df o'<yes>",
+    "8" : "s(Idris_Davies) dbp:quote o'<Gwalia Deserta XXXVI>",
+    "9" : "s(Idris_Davies) dbp:quoted o'<true>",
+    "10" : "s(Idris_Davies) dbp:salign o'<right>",
+    "11" : "s(Idris_Davies) dbp:source o'<from Gwalia Deserta>",
+    "12" : "s(Idris_Davies) dbp:title o'<\"When April came to Rhymney\" â€“ Poem by Idris Davies. Music by Mick Tems>",
+    "13" : "s(Idris_Davies) dbp:url o'<page1.html>",
+    "14" : "s(Idris_Davies) dbp:width o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

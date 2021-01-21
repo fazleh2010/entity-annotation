@@ -1,0 +1,10 @@
+[ {
+  "entityIndex" : "entity11457",
+  "entityUrl" : "http://dbpedia.org/resource/'Ilima_Lei_Tohi",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s('Ilima_Lei_Tohi) dbo:wikiPageRedirects o'<Ê»Ilima_Lei_Tohi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

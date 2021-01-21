@@ -1,0 +1,116 @@
+[ {
+  "entityIndex" : "entity10817",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Lindley",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Charles_Lindley) dbo:birthDate o'<1865-1-1>",
+    "2" : "s(Charles_Lindley) dbo:deathDate o'<1957-1-1>",
+    "3" : "s(Charles_Lindley) dbp:after o'<John Benstead>",
+    "4" : "s(Charles_Lindley) dbp:before o'<Charlie_Cramp>",
+    "5" : "s(Charles_Lindley) dbp:title o'<President of the International Transport Workers' Federation>",
+    "6" : "s(Charles_Lindley) dbp:years o'<1933>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10818",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_J._Hughes,_Jr.",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Charles_J._Hughes,_Jr.) dbo:wikiPageRedirects o'<Charles_J._Hughes_Jr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10819",
+  "entityUrl" : "http://dbpedia.org/resource/Curuppumullage_Jinarajadasa",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Curuppumullage_Jinarajadasa) dbo:birthDate o'<1875-12-16>",
+    "2" : "s(Curuppumullage_Jinarajadasa) dbo:birthPlace o'<Sri_Lanka>",
+    "3" : "s(Curuppumullage_Jinarajadasa) dbo:birthYear o'<1875>",
+    "4" : "s(Curuppumullage_Jinarajadasa) dbo:deathDate o'<1953-06-18>",
+    "5" : "s(Curuppumullage_Jinarajadasa) dbo:deathDate o'<1953-6-18>",
+    "6" : "s(Curuppumullage_Jinarajadasa) dbo:deathPlace o'<Wheaton,_Illinois>",
+    "7" : "s(Curuppumullage_Jinarajadasa) dbo:deathYear o'<1953>",
+    "8" : "s(Curuppumullage_Jinarajadasa) dbo:education o'<Ananda_College>",
+    "9" : "s(Curuppumullage_Jinarajadasa) dbo:education o'<University_of_Cambridge>",
+    "10" : "s(Curuppumullage_Jinarajadasa) dbo:education o'<University_of_Pavia>",
+    "11" : "s(Curuppumullage_Jinarajadasa) dbo:knownFor o'<Theosophy>",
+    "12" : "s(Curuppumullage_Jinarajadasa) dbo:knownFor o'<Occult_Chemistry_(book)>",
+    "13" : "s(Curuppumullage_Jinarajadasa) dbo:nationality o'<Sri_Lanka>",
+    "14" : "s(Curuppumullage_Jinarajadasa) dbo:religion o'<Theosophy>",
+    "15" : "s(Curuppumullage_Jinarajadasa) dbo:religion o'<Buddhism>",
+    "16" : "s(Curuppumullage_Jinarajadasa) dbo:stateOfOrigin o'<Sri_Lanka>",
+    "17" : "s(Curuppumullage_Jinarajadasa) dbp:deathPlace o'<United States>",
+    "18" : "s(Curuppumullage_Jinarajadasa) dbp:spouse o'<Dorothy M. Graham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10820",
+  "entityUrl" : "http://dbpedia.org/resource/Claude_Bertrand_(neurosurgeon)",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Claude_Bertrand_(neurosurgeon)) dbo:award o'<Order_of_Canada>",
+    "2" : "s(Claude_Bertrand_(neurosurgeon)) dbo:birthDate o'<1917-03-28>",
+    "3" : "s(Claude_Bertrand_(neurosurgeon)) dbo:birthDate o'<1917-3-28>",
+    "4" : "s(Claude_Bertrand_(neurosurgeon)) dbo:birthPlace o'<Sherbrooke>",
+    "5" : "s(Claude_Bertrand_(neurosurgeon)) dbo:birthPlace o'<Quebec>",
+    "6" : "s(Claude_Bertrand_(neurosurgeon)) dbo:birthYear o'<1917>",
+    "7" : "s(Claude_Bertrand_(neurosurgeon)) dbo:deathDate o'<2014-08-07>",
+    "8" : "s(Claude_Bertrand_(neurosurgeon)) dbo:deathDate o'<2014-8-7>",
+    "9" : "s(Claude_Bertrand_(neurosurgeon)) dbo:deathPlace o'<Montreal>",
+    "10" : "s(Claude_Bertrand_(neurosurgeon)) dbo:deathPlace o'<Quebec>",
+    "11" : "s(Claude_Bertrand_(neurosurgeon)) dbo:deathYear o'<2014>",
+    "12" : "s(Claude_Bertrand_(neurosurgeon)) dbo:knownFor o'<Neurosurgeon>",
+    "13" : "s(Claude_Bertrand_(neurosurgeon)) dbo:nationality o'<Canadians>",
+    "14" : "s(Claude_Bertrand_(neurosurgeon)) dbo:stateOfOrigin o'<Canadians>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10821",
+  "entityUrl" : "http://dbpedia.org/resource/Cha_Tae-hyun",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Cha_Tae-hyun) dbo:activeYearsStartYear o'<1995>",
+    "2" : "s(Cha_Tae-hyun) dbo:birthDate o'<1976-03-25>",
+    "3" : "s(Cha_Tae-hyun) dbo:birthDate o'<1976-3-25>",
+    "4" : "s(Cha_Tae-hyun) dbo:birthPlace o'<South_Korea>",
+    "5" : "s(Cha_Tae-hyun) dbo:birthPlace o'<Seoul>",
+    "6" : "s(Cha_Tae-hyun) dbo:birthYear o'<1976>",
+    "7" : "s(Cha_Tae-hyun) dbo:education o'<Chung-Ang_University>",
+    "8" : "s(Cha_Tae-hyun) dbo:education o'<Kyonggi_University>",
+    "9" : "s(Cha_Tae-hyun) dbo:education o'<Seoul_Institute_of_the_Arts>",
+    "10" : "s(Cha_Tae-hyun) dbo:occupation o'<Singer>",
+    "11" : "s(Cha_Tae-hyun) dbo:occupation o'<Cha_Tae-hyun__1>",
+    "12" : "s(Cha_Tae-hyun) dbo:occupation o'<Actor>",
+    "13" : "s(Cha_Tae-hyun) dbo:occupation o'<Radio_personality>",
+    "14" : "s(Cha_Tae-hyun) dbo:religion o'<Christianity>",
+    "15" : "s(Cha_Tae-hyun) dbp:agent o'<Blossom_Entertainment>",
+    "16" : "s(Cha_Tae-hyun) dbp:children o'<3>",
+    "17" : "s(Cha_Tae-hyun) dbp:spouse o'<2006>",
+    "18" : "s(Cha_Tae-hyun) dbp:spouse o'<Choi Suk-eun>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10822",
+  "entityUrl" : "http://dbpedia.org/resource/Colin_D._Gibson",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Colin_D._Gibson) dbo:birthDate o'<1922-11-2>",
+    "2" : "s(Colin_D._Gibson) dbo:deathDate o'<2002-7-3>",
+    "3" : "s(Colin_D._Gibson) dbp:after o'<Sean_O'Sullivan_(priest)>",
+    "4" : "s(Colin_D._Gibson) dbp:before o'<riding created>",
+    "5" : "s(Colin_D._Gibson) dbp:title o'<Member of Parliament from Hamiltonâ€”Wentworth>",
+    "6" : "s(Colin_D._Gibson) dbp:years o'<1968>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "10" : "s(colin d. gibson=Colin_D._Gibson) [defeated in 1972 ] o'<sean o'sullivan=Sean_O'Sullivan_(priest)>"
+  },
+  "abstract" : {
+    "10" : "colin d. gibson<Colin_D._Gibson> was defeated in the 1972 federal election by progressive conservative sean o'sullivan<Sean_O'Sullivan_(priest)>, who at 20 years old was the youngest mp ever elected to that point\n"
+  }
+} ]

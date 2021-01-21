@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity12063",
+  "entityUrl" : "http://dbpedia.org/resource/Tejal_A._Desai",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Tejal_A._Desai) dbo:birthDate o'<1972-6-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12064",
+  "entityUrl" : "http://dbpedia.org/resource/Theodore_Friend",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Theodore_Friend) dbo:birthDate o'<1931-8-27>",
+    "2" : "s(Theodore_Friend) dbo:birthPlace o'<Pittsburgh>",
+    "3" : "s(Theodore_Friend) dbo:country o'<United_States>",
+    "4" : "s(Theodore_Friend) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12065",
+  "entityUrl" : "http://dbpedia.org/resource/Tiburzio_di_Maso",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Tiburzio_di_Maso) dbo:deathDate o'<1460-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12066",
+  "entityUrl" : "http://dbpedia.org/resource/Thankmar",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Thankmar) dbo:deathDate o'<938-7-28>",
+    "2" : "s(Thankmar) dbo:deathPlace o'<Eresburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12067",
+  "entityUrl" : "http://dbpedia.org/resource/Thietmar,_Margrave_of_the_Saxon_Ostmark",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Thietmar,_Margrave_of_the_Saxon_Ostmark) dbo:birthDate o'<990-0-0>",
+    "2" : "s(Thietmar,_Margrave_of_the_Saxon_Ostmark) dbo:deathDate o'<1030-1-10>",
+    "3" : "s(Thietmar,_Margrave_of_the_Saxon_Ostmark) dbp:after o'<Odo_II,_Margrave_of_the_Saxon_Ostmark>",
+    "4" : "s(Thietmar,_Margrave_of_the_Saxon_Ostmark) dbp:rows o'<1>",
+    "5" : "s(Thietmar,_Margrave_of_the_Saxon_Ostmark) dbp:title o'<Margrave_of_the_Ostmark>",
+    "6" : "s(Thietmar,_Margrave_of_the_Saxon_Ostmark) dbp:years o'<1015>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12068",
+  "entityUrl" : "http://dbpedia.org/resource/Thietmar,_Margrave_of_Meissen",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Thietmar,_Margrave_of_Meissen) dbo:activeYearsEndYear o'<0979>",
+    "2" : "s(Thietmar,_Margrave_of_Meissen) dbo:activeYearsStartYear o'<0976>",
+    "3" : "s(Thietmar,_Margrave_of_Meissen) dbo:birthDate o'<1000-1-1>",
+    "4" : "s(Thietmar,_Margrave_of_Meissen) dbo:deathDate o'<0979-08-03>",
+    "5" : "s(Thietmar,_Margrave_of_Meissen) dbo:deathDate o'<979-8-3>",
+    "6" : "s(Thietmar,_Margrave_of_Meissen) dbo:parent o'<Christian_of_Thuringia>",
+    "7" : "s(Thietmar,_Margrave_of_Meissen) dbo:placeOfBurial o'<Nienburg_Abbey>",
+    "8" : "s(Thietmar,_Margrave_of_Meissen) dbo:spouse o'<Billung>",
+    "9" : "s(Thietmar,_Margrave_of_Meissen) dbo:title o'<Margrave of Meissen>",
+    "10" : "s(Thietmar,_Margrave_of_Meissen) dbp:after o'<Rikdag>",
+    "11" : "s(Thietmar,_Margrave_of_Meissen) dbp:before o'<Wigbert,_Margrave_of_Meissen>",
+    "12" : "s(Thietmar,_Margrave_of_Meissen) dbp:issue o'<Gero_II,_Margrave_of_the_Saxon_Ostmark>",
+    "13" : "s(Thietmar,_Margrave_of_Meissen) dbp:mother o'<Hidda of Merseburg>",
+    "14" : "s(Thietmar,_Margrave_of_Meissen) dbp:title o'<List_of_margraves_of_Meissen>",
+    "15" : "s(Thietmar,_Margrave_of_Meissen) dbp:years o'<976>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

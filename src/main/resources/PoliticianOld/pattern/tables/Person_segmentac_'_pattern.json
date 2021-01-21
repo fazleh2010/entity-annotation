@@ -1,0 +1,20 @@
+[ {
+  "entityIndex" : "entity11130",
+  "entityUrl" : "http://dbpedia.org/resource/'Abd_Allah_II_ibn_'Ali_'Abd_ash-Shakur",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s('Abd_Allah_II_ibn_'Ali_'Abd_ash-Shakur) dbo:deathDate o'<1930-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11131",
+  "entityUrl" : "http://dbpedia.org/resource/'Ali_ibn_al-'Abbas_al-Majusi",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s('Ali_ibn_al-'Abbas_al-Majusi) dbo:birthPlace o'<Ahvaz>",
+    "2" : "s('Ali_ibn_al-'Abbas_al-Majusi) dbo:deathDate o'<994-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

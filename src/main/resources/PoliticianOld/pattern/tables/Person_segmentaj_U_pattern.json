@@ -1,0 +1,66 @@
+[ {
+  "entityIndex" : "entity11415",
+  "entityUrl" : "http://dbpedia.org/resource/Ulla_Sandb%C3%A6k",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11416",
+  "entityUrl" : "http://dbpedia.org/resource/Ute_Thimm",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Ute_Thimm) dbo:birthDate o'<1958-7-10>",
+    "2" : "s(Ute_Thimm) dbo:birthPlace o'<Bochum>",
+    "3" : "s(Ute_Thimm) dbp:id o'<61891>",
+    "4" : "s(Ute_Thimm) dbp:name o'<Ute Thimm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11417",
+  "entityUrl" : "http://dbpedia.org/resource/Utagawa_Yoshiiku",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Utagawa_Yoshiiku) dbo:birthDate o'<1833-1-1>",
+    "2" : "s(Utagawa_Yoshiiku) dbo:deathDate o'<1904-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11418",
+  "entityUrl" : "http://dbpedia.org/resource/Uwe_Dotzauer",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Uwe_Dotzauer) dbo:birthDate o'<1959-2-19>",
+    "2" : "s(Uwe_Dotzauer) dbo:birthPlace o'<Klingenthal>",
+    "3" : "s(Uwe_Dotzauer) dbp:id o'<14165>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11419",
+  "entityUrl" : "http://dbpedia.org/resource/Uchida_Kuichi",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Uchida_Kuichi) dbo:birthDate o'<1844-1-1>",
+    "2" : "s(Uchida_Kuichi) dbo:birthPlace o'<Nagasaki>",
+    "3" : "s(Uchida_Kuichi) dbo:deathDate o'<1875-2-17>",
+    "4" : "s(Uchida_Kuichi) dbo:deathPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11420",
+  "entityUrl" : "http://dbpedia.org/resource/Uel_Key",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Uel_Key) dbo:birthDate o'<1874-0-0>",
+    "2" : "s(Uel_Key) dbo:deathDate o'<1948-0-0>",
+    "3" : "s(Uel_Key) dbp:date o'<20091027131220>",
+    "4" : "s(Uel_Key) dbp:title o'<The Pulp Heroes: R by Jess Nevins>",
+    "5" : "s(Uel_Key) dbp:url o'<pulpsr.html>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

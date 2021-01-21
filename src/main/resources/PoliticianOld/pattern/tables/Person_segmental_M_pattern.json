@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity11692",
+  "entityUrl" : "http://dbpedia.org/resource/Megabates",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Megabates) dbo:birthDate o'<-600-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11693",
+  "entityUrl" : "http://dbpedia.org/resource/Martin_Vari",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Martin_Vari) dbo:birthDate o'<1982-2-27>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11694",
+  "entityUrl" : "http://dbpedia.org/resource/Matthew_Darby-Griffith",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Matthew_Darby-Griffith) dbo:birthDate o'<1772-1-1>",
+    "2" : "s(Matthew_Darby-Griffith) dbo:deathDate o'<1823-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11695",
+  "entityUrl" : "http://dbpedia.org/resource/Mika_Sakai",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Mika_Sakai) dbo:birthDate o'<1975-3-7>",
+    "2" : "s(Mika_Sakai) dbo:birthPlace o'<Osaka_Prefecture>",
+    "3" : "s(Mika_Sakai) dbp:300games o'<1>",
+    "4" : "s(Mika_Sakai) dbp:affiliation o'<JPBA>",
+    "5" : "s(Mika_Sakai) dbp:birthDate o'<1975-03-07>",
+    "6" : "s(Mika_Sakai) dbp:blogurl o'<bowling_s>",
+    "7" : "s(Mika_Sakai) dbp:championships o'<3>",
+    "8" : "s(Mika_Sakai) dbp:classno o'<25>",
+    "9" : "s(Mika_Sakai) dbp:gender o'<Female>",
+    "10" : "s(Mika_Sakai) dbp:hand o'<Right>",
+    "11" : "s(Mika_Sakai) dbp:hometown o'<Osaka_Prefecture>",
+    "12" : "s(Mika_Sakai) dbp:license o'<268>",
+    "13" : "s(Mika_Sakai) dbp:logogram o'<Kanji>",
+    "14" : "s(Mika_Sakai) dbp:logogramname o'<é…’äº•ç¾Žä½³>",
+    "15" : "s(Mika_Sakai) dbp:name o'<Mika Sakai>",
+    "16" : "s(Mika_Sakai) dbp:rookieyear o'<1992>",
+    "17" : "s(Mika_Sakai) dbp:spaced o'<ã�•ã�‹ã�„ã€€ã�¿ã�‹>",
+    "18" : "s(Mika_Sakai) dbp:spacedtype o'<Spaced hiragana>",
+    "19" : "s(Mika_Sakai) dbp:sponsors o'<profile.html>",
+    "20" : "s(Mika_Sakai) dbp:videourl o'<sakai.wmv>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11696",
+  "entityUrl" : "http://dbpedia.org/resource/Marcus_Annius_Libo",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Marcus_Annius_Libo) dbo:deathDate o'<162-1-1>",
+    "2" : "s(Marcus_Annius_Libo) dbp:regent o'<Lucius_Caesennius_Antoninus>",
+    "3" : "s(Marcus_Annius_Libo) dbp:regent o'<Lucius_Nonius_Calpurnius_Torquatus_Asprenas>",
+    "4" : "s(Marcus_Annius_Libo) dbp:regent o'<Quintus_Camurius_Numisius_Junior>",
+    "5" : "s(Marcus_Annius_Libo) dbp:title o'<Consul of the Roman Empire>",
+    "6" : "s(Marcus_Annius_Libo) dbp:years o'<128>",
+    "7" : "s(Marcus_Annius_Libo) dbp:years o'<161>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11697",
+  "entityUrl" : "http://dbpedia.org/resource/Manuel_Eyre",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Manuel_Eyre) dbo:birthDate o'<1736-1-1>",
+    "2" : "s(Manuel_Eyre) dbo:deathDate o'<1805-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

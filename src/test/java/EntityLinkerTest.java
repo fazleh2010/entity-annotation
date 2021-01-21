@@ -80,7 +80,7 @@ public class EntityLinkerTest implements TextAnalyzer, DirectoryLocation {
  
         List<String> CLASSES = new ArrayList<String>();
         CLASSES.add(Property.dbo_City);
-        CLASSES.add(Property.dbo_Company);
+        //CLASSES.add(Property.dbo_Company);
        
         for (String dbo_Class : CLASSES) {
             String classDir = FileFolderUtils.getClassDir(dbo_Class) + "/";

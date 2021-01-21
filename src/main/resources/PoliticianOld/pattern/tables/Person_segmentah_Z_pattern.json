@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11119",
+  "entityUrl" : "http://dbpedia.org/resource/Zack_Orji",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11120",
+  "entityUrl" : "http://dbpedia.org/resource/Zorawar_Singh_(Sikhism)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Zorawar_Singh_(Sikhism)) dbo:birthDate o'<1696-11-17>",
+    "2" : "s(Zorawar_Singh_(Sikhism)) dbo:birthName o'<Zorawar Singh>",
+    "3" : "s(Zorawar_Singh_(Sikhism)) dbo:birthPlace o'<India>",
+    "4" : "s(Zorawar_Singh_(Sikhism)) dbo:birthPlace o'<Anandpur_Sahib>",
+    "5" : "s(Zorawar_Singh_(Sikhism)) dbo:birthYear o'<1696>",
+    "6" : "s(Zorawar_Singh_(Sikhism)) dbo:deathDate o'<1705-12-12>",
+    "7" : "s(Zorawar_Singh_(Sikhism)) dbo:deathPlace o'<India>",
+    "8" : "s(Zorawar_Singh_(Sikhism)) dbo:deathPlace o'<Sirhind>",
+    "9" : "s(Zorawar_Singh_(Sikhism)) dbo:deathYear o'<1705>",
+    "10" : "s(Zorawar_Singh_(Sikhism)) dbo:parent o'<Mata_Jito>",
+    "11" : "s(Zorawar_Singh_(Sikhism)) dbo:parent o'<Guru_Gobind_Singh>",
+    "12" : "s(Zorawar_Singh_(Sikhism)) dbo:relative o'<Sahibzada_Ajit_Singh>",
+    "13" : "s(Zorawar_Singh_(Sikhism)) dbo:relative o'<Sahibzada_Jujhar_Singh>",
+    "14" : "s(Zorawar_Singh_(Sikhism)) dbo:relative o'<Sahibzada_Fateh_Singh>",
+    "15" : "s(Zorawar_Singh_(Sikhism)) dbp:knownFor o'<martyrdom in 1705>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(zorawar singh (sikhism)=Zorawar_Singh_(Sikhism)) [his younger brother ] o'<sahibzada fateh singh=Sahibzada_Fateh_Singh>",
+    "10" : "s(zorawar singh (sikhism)=Zorawar_Singh_(Sikhism)) [turned over three members ] o'<guru=Guru_Gobind_Singh>",
+    "16" : "s(zorawar singh (sikhism)=Zorawar_Singh_(Sikhism)) [moved towards ] o'<sirhind=Sirhind>"
+  },
+  "abstract" : {
+    "2" : "zorawar singh (sikhism)<Zorawar_Singh_(Sikhism)> and his younger brother, sahibzada fateh singh<Sahibzada_Fateh_Singh> are among the most hallowed martyrs in sikhism\n",
+    "10" : "bribed by the mughals, zorawar singh (sikhism)<Zorawar_Singh_(Sikhism)> turned over the three members of guru<Guru_Gobind_Singh> gobind's family to the faujdar of morinda\n",
+    "16" : "after laying waste, the cities of samana and sandhaura, zorawar singh (sikhism)<Zorawar_Singh_(Sikhism)> moved towards sirhind<Sirhind> and after defeating the mughal forces, beheaded wazir khan\n"
+  }
+}, {
+  "entityIndex" : "entity11121",
+  "entityUrl" : "http://dbpedia.org/resource/Zana_Briski",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Zana_Briski) dbo:almaMater o'<University_of_Cambridge>",
+    "2" : "s(Zana_Briski) dbo:birthDate o'<1966-10-25>",
+    "3" : "s(Zana_Briski) dbo:birthPlace o'<England>",
+    "4" : "s(Zana_Briski) dbo:birthPlace o'<London>",
+    "5" : "s(Zana_Briski) dbo:birthYear o'<1966>",
+    "6" : "s(Zana_Briski) dbo:knownFor o'<Born_into_Brothels>",
+    "7" : "s(Zana_Briski) dbo:nationality o'<United_Kingdom>",
+    "8" : "s(Zana_Briski) dbo:occupation o'<Filmmaker>",
+    "9" : "s(Zana_Briski) dbo:occupation o'<Zana_Briski__1>",
+    "10" : "s(Zana_Briski) dbo:occupation o'<Photographer>",
+    "11" : "s(Zana_Briski) dbo:residence o'<New_York_City,_New_York>",
+    "12" : "s(Zana_Briski) dbo:stateOfOrigin o'<United_Kingdom>",
+    "13" : "s(Zana_Briski) dbp:imageSize o'<300>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11122",
+  "entityUrl" : "http://dbpedia.org/resource/Zbigniew_Bujak",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Zbigniew_Bujak) dbo:birthDate o'<1954-11-29>",
+    "2" : "s(Zbigniew_Bujak) dbo:birthPlace o'<Gmina_Å�opuszno>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11123",
+  "entityUrl" : "http://dbpedia.org/resource/Zha_Fuxi",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Zha_Fuxi) dbo:birthDate o'<1895-0-0>",
+    "2" : "s(Zha_Fuxi) dbo:birthPlace o'<Qing>",
+    "3" : "s(Zha_Fuxi) dbo:birthPlace o'<Jiangxi>",
+    "4" : "s(Zha_Fuxi) dbo:birthPlace o'<Xiushui_County>",
+    "5" : "s(Zha_Fuxi) dbo:birthYear o'<1895>",
+    "6" : "s(Zha_Fuxi) dbo:deathDate o'<1976-0-0>",
+    "7" : "s(Zha_Fuxi) dbo:deathPlace o'<PRC>",
+    "8" : "s(Zha_Fuxi) dbo:deathPlace o'<Beijing>",
+    "9" : "s(Zha_Fuxi) dbo:deathYear o'<1976>",
+    "10" : "s(Zha_Fuxi) dbo:occupation o'<Zha_Fuxi__1>",
+    "11" : "s(Zha_Fuxi) dbo:occupation o'<Central_Air_Transport_Co.>",
+    "12" : "s(Zha_Fuxi) dbp:nativeName o'<æŸ»é˜œè¥¿>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(zha fuxi=Zha_Fuxi) [vicechairman of ] o'<beijing=Beijing>"
+  },
+  "abstract" : {
+    "5" : "after the people's republic of china<PRC> was established in 1949, zha fuxi<Zha_Fuxi> was a vice-chairman of the national musical association, president of the beijing<Beijing> guqin society, and a department head at the central institute of (folk) music\n"
+  }
+}, {
+  "entityIndex" : "entity11124",
+  "entityUrl" : "http://dbpedia.org/resource/Zhou_Tiehai",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Zhou_Tiehai) dbo:birthDate o'<1966-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

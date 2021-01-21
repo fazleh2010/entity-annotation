@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity11365",
+  "entityUrl" : "http://dbpedia.org/resource/Kristin_Forbes",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Kristin_Forbes) dbo:birthDate o'<1970-8-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11366",
+  "entityUrl" : "http://dbpedia.org/resource/Konstantin_Kavelin",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Konstantin_Kavelin) dbo:birthDate o'<1818-0-0>",
+    "2" : "s(Konstantin_Kavelin) dbo:birthPlace o'<Saint_Petersburg>",
+    "3" : "s(Konstantin_Kavelin) dbo:deathDate o'<1885-5-15>",
+    "4" : "s(Konstantin_Kavelin) dbo:deathPlace o'<Saint_Petersburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11367",
+  "entityUrl" : "http://dbpedia.org/resource/Katharine_Culbert_Lyall",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Katharine_Culbert_Lyall) dbo:birthDate o'<1941-4-26>",
+    "2" : "s(Katharine_Culbert_Lyall) dbo:country o'<United_States>",
+    "3" : "s(Katharine_Culbert_Lyall) dbo:nationality o'<United_States>",
+    "4" : "s(Katharine_Culbert_Lyall) dbp:after o'<Kevin_P._Reilly>",
+    "5" : "s(Katharine_Culbert_Lyall) dbp:before o'<Kenneth_%22Buzz%22_Shaw>",
+    "6" : "s(Katharine_Culbert_Lyall) dbp:title o'<President of the University of Wisconsin system>",
+    "7" : "s(Katharine_Culbert_Lyall) dbp:years o'<1992>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(katharine culbert lyall=Katharine_Culbert_Lyall) [previously served executive ] o'<president=United_States>"
+  },
+  "abstract" : {
+    "3" : "katharine culbert lyall<Katharine_Culbert_Lyall> had previously served as executive vice president<United_States> of the system, and director of the graduate program in public policy at johns hopkins university\n"
+  }
+}, {
+  "entityIndex" : "entity11368",
+  "entityUrl" : "http://dbpedia.org/resource/Kjartan_Salvesen",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Kjartan_Salvesen) dbo:birthDate o'<1976-10-17>",
+    "2" : "s(Kjartan_Salvesen) dbo:birthPlace o'<Sandnes,_Norway>",
+    "3" : "s(Kjartan_Salvesen) dbo:birthPlace o'<Sandnes>",
+    "4" : "s(Kjartan_Salvesen) dbo:birthYear o'<1976>",
+    "5" : "s(Kjartan_Salvesen) dbp:after o'<Jorun Stiansen>",
+    "6" : "s(Kjartan_Salvesen) dbp:before o'<Kurt Nilsen>",
+    "7" : "s(Kjartan_Salvesen) dbp:nationality o'<Norwegian>",
+    "8" : "s(Kjartan_Salvesen) dbp:title o'<Idol (Norway) winner>",
+    "9" : "s(Kjartan_Salvesen) dbp:years o'<Season 2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11369",
+  "entityUrl" : "http://dbpedia.org/resource/Kari_Matchett",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Kari_Matchett) dbo:activeYearsStartYear o'<1996>",
+    "2" : "s(Kari_Matchett) dbo:birthDate o'<1970-3-25>",
+    "3" : "s(Kari_Matchett) dbo:birthPlace o'<Spalding,_Saskatchewan>",
+    "4" : "s(Kari_Matchett) dbo:imdbId o'<0558182>",
+    "5" : "s(Kari_Matchett) dbo:occupation o'<Actress>",
+    "6" : "s(Kari_Matchett) dbo:occupation o'<Kari_Matchett__1>",
+    "7" : "s(Kari_Matchett) dbp:name o'<Kari Matchett>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11370",
+  "entityUrl" : "http://dbpedia.org/resource/Kajikawa_Yoriteru",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Kajikawa_Yoriteru) dbo:deathDate o'<1722-9-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity10829",
+  "entityUrl" : "http://dbpedia.org/resource/Egil_Endresen",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Egil_Endresen) dbo:birthDate o'<1920-4-28>",
+    "2" : "s(Egil_Endresen) dbo:birthPlace o'<Stavanger>",
+    "3" : "s(Egil_Endresen) dbo:deathDate o'<1992-5-10>",
+    "4" : "s(Egil_Endresen) dbp:after o'<Oddvar_Berrefjord>",
+    "5" : "s(Egil_Endresen) dbp:before o'<Elisabeth_Schweigaard_Selmer>",
+    "6" : "s(Egil_Endresen) dbp:title o'<Minister_of_Justice_and_the_Police_(Norway)>",
+    "7" : "s(Egil_Endresen) dbp:years o'<1970>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(egil endresen=Egil_Endresen) [born in ] o'<stavanger=Stavanger>",
+    "7" : "s(egil endresen=Egil_Endresen) [worked secretary in ] o'<ministry of justice=Minister_of_Justice_and_the_Police_(Norway)>",
+    "8" : "s(egil endresen=Egil_Endresen) [attorney in ] o'<stavanger=Stavanger>",
+    "12" : "s(egil endresen=Egil_Endresen) [on 3 october 1970 ] o'<minister of justice=Minister_of_Justice_and_the_Police_(Norway)>"
+  },
+  "abstract" : {
+    "2" : "egil endresen<Egil_Endresen> was born in stavanger<Stavanger> as a son of gustav adolf emil endresen (1882â€“1955) and alida anda (1883â€“1974)\n",
+    "7" : "egil endresen<Egil_Endresen> worked as a secretary in the norwegian ministry of justice<Minister_of_Justice_and_the_Police_(Norway)> and the police from 1947 to 1948, then as a deputy judge in ryfylke district court in and jã¦ren district court from 1949 to 1950\n",
+    "8" : "egil endresen<Egil_Endresen> was an attorney in stavanger<Stavanger> from 1950 to 1963, from 1960 a barrister with access to work with supreme court cases\n",
+    "12" : "his second term was cut short as egil endresen<Egil_Endresen> on 3 october 1970 was appointed minister of justice<Minister_of_Justice_and_the_Police_(Norway)> and the police during the centre-right borten's cabinet, replacing elisabeth schweigaard selmer<Elisabeth_Schweigaard_Selmer>\n"
+  }
+}, {
+  "entityIndex" : "entity10830",
+  "entityUrl" : "http://dbpedia.org/resource/Erik_Enge",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Erik_Enge) dbo:birthDate o'<1852-1-1>",
+    "2" : "s(Erik_Enge) dbo:deathDate o'<1933-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10831",
+  "entityUrl" : "http://dbpedia.org/resource/Ellen_Mattson",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ellen_Mattson) dbo:birthDate o'<1962-1-1>",
+    "2" : "s(Ellen_Mattson) dbo:birthPlace o'<Uddevalla_Municipality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10832",
+  "entityUrl" : "http://dbpedia.org/resource/Ebenezer_Perry",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ebenezer_Perry) dbo:birthDate o'<1788-9-29>",
+    "2" : "s(Ebenezer_Perry) dbo:deathDate o'<1876-5-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10833",
+  "entityUrl" : "http://dbpedia.org/resource/E._Peter_Raynes",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(E._Peter_Raynes) dbo:birthDate o'<1945-7-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10834",
+  "entityUrl" : "http://dbpedia.org/resource/Erich_Hilgenfeldt",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Erich_Hilgenfeldt) dbo:birthDate o'<1897-07-02>",
+    "2" : "s(Erich_Hilgenfeldt) dbo:birthDate o'<1897-7-2>",
+    "3" : "s(Erich_Hilgenfeldt) dbo:birthPlace o'<Ottweiler>",
+    "4" : "s(Erich_Hilgenfeldt) dbo:birthPlace o'<Heinitz>",
+    "5" : "s(Erich_Hilgenfeldt) dbo:birthPlace o'<Q1331824>",
+    "6" : "s(Erich_Hilgenfeldt) dbo:birthYear o'<1897>",
+    "7" : "s(Erich_Hilgenfeldt) dbo:deathDate o'<1945-04-25>",
+    "8" : "s(Erich_Hilgenfeldt) dbo:deathDate o'<1945-4-25>",
+    "9" : "s(Erich_Hilgenfeldt) dbo:deathPlace o'<Berlin>",
+    "10" : "s(Erich_Hilgenfeldt) dbo:deathYear o'<1945>",
+    "11" : "s(Erich_Hilgenfeldt) dbo:occupation o'<Erich_Hilgenfeldt__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

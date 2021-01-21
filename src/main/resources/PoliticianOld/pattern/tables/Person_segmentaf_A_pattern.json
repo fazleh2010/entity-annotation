@@ -1,0 +1,116 @@
+[ {
+  "entityIndex" : "entity10641",
+  "entityUrl" : "http://dbpedia.org/resource/Amado_Garc%C3%ADa_Guerrero",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10642",
+  "entityUrl" : "http://dbpedia.org/resource/Aw_Boon_Haw",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Aw_Boon_Haw) dbo:birthDate o'<1882-1-1>",
+    "2" : "s(Aw_Boon_Haw) dbo:birthPlace o'<British_Burma>",
+    "3" : "s(Aw_Boon_Haw) dbo:birthPlace o'<Yangon>",
+    "4" : "s(Aw_Boon_Haw) dbo:birthPlace o'<Rangoon>",
+    "5" : "s(Aw_Boon_Haw) dbo:birthYear o'<1882>",
+    "6" : "s(Aw_Boon_Haw) dbo:child o'<Sally_Aw>",
+    "7" : "s(Aw_Boon_Haw) dbo:deathDate o'<1954-1-1>",
+    "8" : "s(Aw_Boon_Haw) dbo:deathPlace o'<Hong_Kong>",
+    "9" : "s(Aw_Boon_Haw) dbo:parent o'<Aw_Chu_Kin>",
+    "10" : "s(Aw_Boon_Haw) dbo:relative o'<Aw_Boon_Par>",
+    "11" : "s(Aw_Boon_Haw) dbp:c o'<èƒ¡æ–‡è™Ž>",
+    "12" : "s(Aw_Boon_Haw) dbp:nationality o'<British>",
+    "13" : "s(Aw_Boon_Haw) dbp:nativeName o'<èƒ¡æ–‡è™Ž>",
+    "14" : "s(Aw_Boon_Haw) dbp:p o'<HÃº WÃ©nhÇ”>",
+    "15" : "s(Aw_Boon_Haw) dbp:poj o'<HÃ´Í˜ BÃ»n-hÃ³Í˜>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10643",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_Conlon",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Alfred_Conlon) dbo:birthDate o'<1908-10-7>",
+    "2" : "s(Alfred_Conlon) dbo:deathDate o'<1961-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10644",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_Steel_(actor)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Anthony_Steel_(actor)) dbo:activeYearsEndYear o'<1998>",
+    "2" : "s(Anthony_Steel_(actor)) dbo:activeYearsStartYear o'<1948>",
+    "3" : "s(Anthony_Steel_(actor)) dbo:birthDate o'<1920-05-21>",
+    "4" : "s(Anthony_Steel_(actor)) dbo:birthDate o'<1920-5-21>",
+    "5" : "s(Anthony_Steel_(actor)) dbo:birthName o'<Anthony Maitland Steel>",
+    "6" : "s(Anthony_Steel_(actor)) dbo:birthPlace o'<England>",
+    "7" : "s(Anthony_Steel_(actor)) dbo:birthPlace o'<London>",
+    "8" : "s(Anthony_Steel_(actor)) dbo:birthPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "9" : "s(Anthony_Steel_(actor)) dbo:birthYear o'<1920>",
+    "10" : "s(Anthony_Steel_(actor)) dbo:deathDate o'<2001-03-21>",
+    "11" : "s(Anthony_Steel_(actor)) dbo:deathDate o'<2001-3-21>",
+    "12" : "s(Anthony_Steel_(actor)) dbo:deathPlace o'<England>",
+    "13" : "s(Anthony_Steel_(actor)) dbo:deathPlace o'<London>",
+    "14" : "s(Anthony_Steel_(actor)) dbo:deathPlace o'<Northwood,_London>",
+    "15" : "s(Anthony_Steel_(actor)) dbo:deathPlace o'<Middlesex>",
+    "16" : "s(Anthony_Steel_(actor)) dbo:deathPlace o'<United_Kingdom_of_Great_Britain_and_Ireland>",
+    "17" : "s(Anthony_Steel_(actor)) dbo:deathYear o'<2001>",
+    "18" : "s(Anthony_Steel_(actor)) dbo:imdbId o'<0824389>",
+    "19" : "s(Anthony_Steel_(actor)) dbo:occupation o'<Anthony_Steel_(actor)__1>",
+    "20" : "s(Anthony_Steel_(actor)) dbo:partner o'<Patricia_Roc>",
+    "21" : "s(Anthony_Steel_(actor)) dbo:spouse o'<Anita_Ekberg>",
+    "22" : "s(Anthony_Steel_(actor)) dbp:name o'<Anthony Steel>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10645",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Cyrille_Albert_Malouin",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Arthur_Cyrille_Albert_Malouin) dbo:birthDate o'<1857-03-13>",
+    "2" : "s(Arthur_Cyrille_Albert_Malouin) dbo:birthDate o'<1857-3-13>",
+    "3" : "s(Arthur_Cyrille_Albert_Malouin) dbo:birthPlace o'<Quebec_City>",
+    "4" : "s(Arthur_Cyrille_Albert_Malouin) dbo:birthPlace o'<Canada_East>",
+    "5" : "s(Arthur_Cyrille_Albert_Malouin) dbo:deathDate o'<1939-04-05>",
+    "6" : "s(Arthur_Cyrille_Albert_Malouin) dbo:deathDate o'<1936-4-5>",
+    "7" : "s(Arthur_Cyrille_Albert_Malouin) dbo:office o'<Puisne Justiceof theSupreme Court of Canada>",
+    "8" : "s(Arthur_Cyrille_Albert_Malouin) dbo:party o'<Liberal_Party_of_Canada>",
+    "9" : "s(Arthur_Cyrille_Albert_Malouin) dbo:predecessor o'<FranÃ§ois_Langelier>",
+    "10" : "s(Arthur_Cyrille_Albert_Malouin) dbo:predecessor o'<Louis-Philippe_Brodeur>",
+    "11" : "s(Arthur_Cyrille_Albert_Malouin) dbo:relation o'<Jacques_Malouin>",
+    "12" : "s(Arthur_Cyrille_Albert_Malouin) dbo:successor o'<Thibaudeau_Rinfret>",
+    "13" : "s(Arthur_Cyrille_Albert_Malouin) dbo:successor o'<Arthur_Lachance>",
+    "14" : "s(Arthur_Cyrille_Albert_Malouin) dbo:termPeriod o'<Arthur_Cyrille_Albert_Malouin__2>",
+    "15" : "s(Arthur_Cyrille_Albert_Malouin) dbp:constituencyMp o'<Quebec-Centre>",
+    "16" : "s(Arthur_Cyrille_Albert_Malouin) dbp:nominator o'<William_Lyon_Mackenzie_King>",
+    "17" : "s(Arthur_Cyrille_Albert_Malouin) dbp:parliament o'<Canadian>",
+    "18" : "s(Arthur_Cyrille_Albert_Malouin) dbp:termEnd o'<1905>",
+    "19" : "s(Arthur_Cyrille_Albert_Malouin) dbp:termStart o'<1898>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(arthur cyrille albert malouin=Arthur_Cyrille_Albert_Malouin) [called to ] o'<quebec=Quebec_City>",
+    "4" : "s(arthur cyrille albert malouin=Arthur_Cyrille_Albert_Malouin) [acclaimed to ] o'<canadian=Canadian>",
+    "6" : "s(arthur cyrille albert malouin=Arthur_Cyrille_Albert_Malouin) [appointed puisne judge ] o'<quebec=Quebec_City>"
+  },
+  "abstract" : {
+    "3" : "arthur cyrille albert malouin<Arthur_Cyrille_Albert_Malouin> was called to the quebec<Quebec_City> bar in 1882 and practiced law in quebec city<Quebec_City>\n",
+    "4" : "in an 1898 by-election, arthur cyrille albert malouin<Arthur_Cyrille_Albert_Malouin> was acclaimed to the canadian<Canadian> house of commons as a liberal for the riding of quebec-centre<Quebec-Centre>\n",
+    "6" : "in 1905, arthur cyrille albert malouin<Arthur_Cyrille_Albert_Malouin> was appointed a puisne judge of the quebec<Quebec_City> superior court, arthabasca district\n"
+  }
+}, {
+  "entityIndex" : "entity10646",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Mitchell",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Alan_Mitchell) dbo:birthDate o'<1922-11-4>",
+    "2" : "s(Alan_Mitchell) dbo:deathDate o'<1995-8-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

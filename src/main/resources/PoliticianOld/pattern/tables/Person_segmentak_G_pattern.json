@@ -1,0 +1,72 @@
+[ {
+  "entityIndex" : "entity11494",
+  "entityUrl" : "http://dbpedia.org/resource/George_Powell_(footballer)",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(George_Powell_(footballer)) dbo:birthDate o'<1924-11-11>",
+    "2" : "s(George_Powell_(footballer)) dbo:deathDate o'<1989-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11495",
+  "entityUrl" : "http://dbpedia.org/resource/Gabriel_V%C3%A1squez",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11496",
+  "entityUrl" : "http://dbpedia.org/resource/Geoffrey_Shindler",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11497",
+  "entityUrl" : "http://dbpedia.org/resource/Grigory_Broydo",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Grigory_Broydo) dbo:birthDate o'<1883-1-1>",
+    "2" : "s(Grigory_Broydo) dbo:birthPlace o'<Vilnius>",
+    "3" : "s(Grigory_Broydo) dbo:deathDate o'<1956-1-1>",
+    "4" : "s(Grigory_Broydo) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11498",
+  "entityUrl" : "http://dbpedia.org/resource/Gertrude_Le_Brandt",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Gertrude_Le_Brandt) dbo:birthDate o'<1863-07-01>",
+    "2" : "s(Gertrude_Le_Brandt) dbo:birthDate o'<1863-7-1>",
+    "3" : "s(Gertrude_Le_Brandt) dbo:birthPlace o'<Illinois>",
+    "4" : "s(Gertrude_Le_Brandt) dbo:birthYear o'<1863>",
+    "5" : "s(Gertrude_Le_Brandt) dbo:deathDate o'<1955-08-28>",
+    "6" : "s(Gertrude_Le_Brandt) dbo:deathDate o'<1955-8-28>",
+    "7" : "s(Gertrude_Le_Brandt) dbo:deathPlace o'<Hollywood,_California>",
+    "8" : "s(Gertrude_Le_Brandt) dbo:deathPlace o'<Hollywood>",
+    "9" : "s(Gertrude_Le_Brandt) dbo:deathYear o'<1955>",
+    "10" : "s(Gertrude_Le_Brandt) dbo:occupation o'<Gertrude_Le_Brandt__1>",
+    "11" : "s(Gertrude_Le_Brandt) dbo:occupation o'<Film_actress>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(gertrude le brandt=Gertrude_Le_Brandt) [entered ] o'<film=Film_actress>"
+  },
+  "abstract" : {
+    "2" : "gertrude le brandt<Gertrude_Le_Brandt> entered film<Film_actress> in 1916 in youth's endearing charm with actors such as mary miles minter and harry von meter\n"
+  }
+}, {
+  "entityIndex" : "entity11499",
+  "entityUrl" : "http://dbpedia.org/resource/Gregory_of_Heimburg",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Gregory_of_Heimburg) dbo:birthDate o'<1400-1-1>",
+    "2" : "s(Gregory_of_Heimburg) dbo:birthPlace o'<Schweinfurt>",
+    "3" : "s(Gregory_of_Heimburg) dbo:deathDate o'<1472-1-1>",
+    "4" : "s(Gregory_of_Heimburg) dbo:deathPlace o'<Tharandt>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

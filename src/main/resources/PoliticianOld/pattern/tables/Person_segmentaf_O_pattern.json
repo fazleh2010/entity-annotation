@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity10725",
+  "entityUrl" : "http://dbpedia.org/resource/Olle_Helander",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Olle_Helander) dbo:birthDate o'<1919-8-2>",
+    "2" : "s(Olle_Helander) dbo:deathDate o'<1976-4-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10726",
+  "entityUrl" : "http://dbpedia.org/resource/Oru%C3%A7_Reis",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10727",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Oyston",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Owen_Oyston) dbo:birthDate o'<1934-01-03>",
+    "2" : "s(Owen_Oyston) dbo:birthDate o'<1934-3-24>",
+    "3" : "s(Owen_Oyston) dbo:birthName o'<Owen John Oyston>",
+    "4" : "s(Owen_Oyston) dbo:birthYear o'<1934>",
+    "5" : "s(Owen_Oyston) dbo:child o'<Karl_Oyston>",
+    "6" : "s(Owen_Oyston) dbo:education o'<St_Joseph's_College,_Blackpool>",
+    "7" : "s(Owen_Oyston) dbo:knownFor o'<Blackpool_F.C.>",
+    "8" : "s(Owen_Oyston) dbo:networth o'<100.0>",
+    "9" : "s(Owen_Oyston) dbo:occupation o'<Owen_Oyston__1>",
+    "10" : "s(Owen_Oyston) dbp:criminalCharge o'<Rape>",
+    "11" : "s(Owen_Oyston) dbp:criminalPenalty o'<Six years>",
+    "12" : "s(Owen_Oyston) dbp:nationality o'<British>",
+    "13" : "s(Owen_Oyston) dbp:spouse o'<Vicki Oyston>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(owen oyston=Owen_Oyston) [convicted of ] o'<rape=Rape>"
+  },
+  "abstract" : {
+    "2" : "owen oyston<Owen_Oyston> was convicted of rape<Rape> and indecent assault<Rape> in 1996\n"
+  }
+}, {
+  "entityIndex" : "entity10728",
+  "entityUrl" : "http://dbpedia.org/resource/Olivier_Dutheillet_de_Lamothe",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Olivier_Dutheillet_de_Lamothe) dbo:birthDate o'<1949-11-10>",
+    "2" : "s(Olivier_Dutheillet_de_Lamothe) dbo:birthPlace o'<Neuilly-sur-Seine>",
+    "3" : "s(Olivier_Dutheillet_de_Lamothe) dbo:country o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10729",
+  "entityUrl" : "http://dbpedia.org/resource/Ofelia_Medina",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ofelia_Medina) dbo:activeYearsStartYear o'<1968>",
+    "2" : "s(Ofelia_Medina) dbo:birthDate o'<1950-04-04>",
+    "3" : "s(Ofelia_Medina) dbo:birthDate o'<1950-3-4>",
+    "4" : "s(Ofelia_Medina) dbo:birthPlace o'<MÃ©rida,_YucatÃ¡n>",
+    "5" : "s(Ofelia_Medina) dbo:birthYear o'<1950>",
+    "6" : "s(Ofelia_Medina) dbo:imdbId o'<0575754>",
+    "7" : "s(Ofelia_Medina) dbo:nationality o'<Mexico>",
+    "8" : "s(Ofelia_Medina) dbo:stateOfOrigin o'<Mexico>",
+    "9" : "s(Ofelia_Medina) dbp:awards o'<Ariel Award>",
+    "10" : "s(Ofelia_Medina) dbp:name o'<Ofelia Medina>",
+    "11" : "s(Ofelia_Medina) dbp:spouse o'<Alex Philips, Jr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10730",
+  "entityUrl" : "http://dbpedia.org/resource/Oswald_Hanfling",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Oswald_Hanfling) dbo:birthDate o'<1927-12-21>",
+    "2" : "s(Oswald_Hanfling) dbo:deathDate o'<2005-10-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

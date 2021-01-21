@@ -1,0 +1,88 @@
+[ {
+  "entityIndex" : "entity11235",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Meadmore",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11236",
+  "entityUrl" : "http://dbpedia.org/resource/Rahat_Khan",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Rahat_Khan) dbo:almaMater o'<University_of_Dhaka>",
+    "2" : "s(Rahat_Khan) dbo:award o'<Ekushey_Padak>",
+    "3" : "s(Rahat_Khan) dbo:award o'<Bangla_Academy_Award>",
+    "4" : "s(Rahat_Khan) dbo:birthDate o'<1940-1-1>",
+    "5" : "s(Rahat_Khan) dbo:birthPlace o'<Bangladesh>",
+    "6" : "s(Rahat_Khan) dbo:birthPlace o'<Kishoreganj_District>",
+    "7" : "s(Rahat_Khan) dbo:birthPlace o'<British_India>",
+    "8" : "s(Rahat_Khan) dbo:birthPlace o'<Kishoreganj>",
+    "9" : "s(Rahat_Khan) dbo:birthYear o'<1940>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11237",
+  "entityUrl" : "http://dbpedia.org/resource/Rashid_Haider",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Rashid_Haider) dbo:award o'<Ekushey_Padak>",
+    "2" : "s(Rashid_Haider) dbo:nationality o'<Bangladesh>",
+    "3" : "s(Rashid_Haider) dbo:occupation o'<Rashid_Haider__1>",
+    "4" : "s(Rashid_Haider) dbo:stateOfOrigin o'<Bangladesh>",
+    "5" : "s(Rashid_Haider) dbp:nativeName o'<à¦°à¦¶à§€à¦¦ à¦¹à¦¾à¦¯à¦¼à¦¦à¦¾à¦°>",
+    "6" : "s(Rashid_Haider) dbp:nativeNameLang o'<bn>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(rashid haider=Rashid_Haider) [awarded ] o'<ekushey padak=Ekushey_Padak>"
+  },
+  "abstract" : {
+    "2" : "rashid haider<Rashid_Haider> was awarded ekushey padak<Ekushey_Padak> in 2014 by the government of bangladesh<Bangladesh>\n"
+  }
+}, {
+  "entityIndex" : "entity11238",
+  "entityUrl" : "http://dbpedia.org/resource/Razia_Khan",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Razia_Khan) dbo:award o'<Ekushey_Padak>",
+    "2" : "s(Razia_Khan) dbo:award o'<Bangla_Academy_Award>",
+    "3" : "s(Razia_Khan) dbo:birthDate o'<1936-1-1>",
+    "4" : "s(Razia_Khan) dbo:birthYear o'<1936>",
+    "5" : "s(Razia_Khan) dbo:deathDate o'<2011-12-28>",
+    "6" : "s(Razia_Khan) dbo:deathPlace o'<Bangladesh>",
+    "7" : "s(Razia_Khan) dbo:deathPlace o'<Dhaka>",
+    "8" : "s(Razia_Khan) dbo:deathYear o'<2011>",
+    "9" : "s(Razia_Khan) dbp:nativeName o'<à¦°à¦¾à¦œà¦¿à¦¯à¦¼à¦¾ à¦–à¦¾à¦¨>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11239",
+  "entityUrl" : "http://dbpedia.org/resource/Rabeya_Khatun",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Rabeya_Khatun) dbo:award o'<Bangla_Academy_Award>",
+    "2" : "s(Rabeya_Khatun) dbo:birthDate o'<1935-0-0>",
+    "3" : "s(Rabeya_Khatun) dbo:birthYear o'<1935>",
+    "4" : "s(Rabeya_Khatun) dbo:nationality o'<Bangladesh>",
+    "5" : "s(Rabeya_Khatun) dbo:occupation o'<Rabeya_Khatun__1>",
+    "6" : "s(Rabeya_Khatun) dbo:occupation o'<Novelist>",
+    "7" : "s(Rabeya_Khatun) dbo:stateOfOrigin o'<Bangladesh>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11240",
+  "entityUrl" : "http://dbpedia.org/resource/Rizia_Rahman",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Rizia_Rahman) dbo:birthDate o'<1939-1-1>",
+    "2" : "s(Rizia_Rahman) dbo:birthYear o'<1939>",
+    "3" : "s(Rizia_Rahman) dbo:occupation o'<Rizia_Rahman__1>",
+    "4" : "s(Rizia_Rahman) dbp:nationality o'<Bangladeshi>",
+    "5" : "s(Rizia_Rahman) dbp:nativeName o'<à¦°à¦¿à¦œà¦¿à¦¯à¦¼à¦¾ à¦°à¦¹à¦®à¦¾à¦¨>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,116 @@
+[ {
+  "entityIndex" : "entity12021",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_N._Harbour",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Michael_N._Harbour) dbo:birthDate o'<1945-07-04>",
+    "2" : "s(Michael_N._Harbour) dbo:birthDate o'<1945-7-4>",
+    "3" : "s(Michael_N._Harbour) dbo:birthName o'<Michael Ninian Harbour>",
+    "4" : "s(Michael_N._Harbour) dbo:birthPlace o'<Edinburgh>",
+    "5" : "s(Michael_N._Harbour) dbo:birthPlace o'<Scotland>",
+    "6" : "s(Michael_N._Harbour) dbo:birthPlace o'<United_Kingdom>",
+    "7" : "s(Michael_N._Harbour) dbo:birthPlace o'<Midlothian>",
+    "8" : "s(Michael_N._Harbour) dbo:birthYear o'<1945>",
+    "9" : "s(Michael_N._Harbour) dbo:deathDate o'<2009-04-09>",
+    "10" : "s(Michael_N._Harbour) dbo:deathDate o'<2009-4-9>",
+    "11" : "s(Michael_N._Harbour) dbo:deathPlace o'<Cornwall>",
+    "12" : "s(Michael_N._Harbour) dbo:deathPlace o'<England>",
+    "13" : "s(Michael_N._Harbour) dbo:deathPlace o'<United_Kingdom>",
+    "14" : "s(Michael_N._Harbour) dbo:deathPlace o'<Trebetherick>",
+    "15" : "s(Michael_N._Harbour) dbo:deathYear o'<2009>",
+    "16" : "s(Michael_N._Harbour) dbo:nationality o'<United_Kingdom>",
+    "17" : "s(Michael_N._Harbour) dbo:occupation o'<Michael_N._Harbour__1>",
+    "18" : "s(Michael_N._Harbour) dbo:occupation o'<Actor>",
+    "19" : "s(Michael_N._Harbour) dbo:stateOfOrigin o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(michael n. harbour=Michael_N._Harbour) [took on roles in ] o'<television=Actor>"
+  },
+  "abstract" : {
+    "3" : "in a career spanning forty years from 1969 until his death, michael n. harbour<Michael_N._Harbour> took on roles in television<Actor> programmes such as the line of beauty, heartbeat, casualty, doctors, dixon of dock green and midsomer murders\n"
+  }
+}, {
+  "entityIndex" : "entity12022",
+  "entityUrl" : "http://dbpedia.org/resource/Modupe_Ozolua",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Modupe_Ozolua) dbo:birthDate o'<1973-10-10>",
+    "2" : "s(Modupe_Ozolua) dbo:birthPlace o'<Benin_City>",
+    "3" : "s(Modupe_Ozolua) dbo:birthYear o'<1973>",
+    "4" : "s(Modupe_Ozolua) dbo:nationality o'<Nigerian>",
+    "5" : "s(Modupe_Ozolua) dbo:occupation o'<Modupe_Ozolua__1>",
+    "6" : "s(Modupe_Ozolua) dbo:occupation o'<Social_Entrepreneur_and_Philanthropist>",
+    "7" : "s(Modupe_Ozolua) dbo:stateOfOrigin o'<Nigerian>",
+    "8" : "s(Modupe_Ozolua) dbp:children o'<1>",
+    "9" : "s(Modupe_Ozolua) dbp:knownFor o'<Pioneering Cosmetic Surgery in West Africa>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(modupe ozolua=Modupe_Ozolua) [chief executive officer ] o'<nigeria=Nigerian>"
+  },
+  "abstract" : {
+    "2" : "modupe ozolua<Modupe_Ozolua> is the chief executive officer of body enhancement limited in nigeria<Nigerian>\n"
+  }
+}, {
+  "entityIndex" : "entity12023",
+  "entityUrl" : "http://dbpedia.org/resource/Malcolm_Stevenson",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Malcolm_Stevenson) dbo:birthDate o'<1878-03-15>",
+    "2" : "s(Malcolm_Stevenson) dbo:birthDate o'<1878-3-15>",
+    "3" : "s(Malcolm_Stevenson) dbo:birthPlace o'<Lisburn>",
+    "4" : "s(Malcolm_Stevenson) dbo:birthPlace o'<Lisburn,_Ireland>",
+    "5" : "s(Malcolm_Stevenson) dbo:deathDate o'<1927-11-27>",
+    "6" : "s(Malcolm_Stevenson) dbo:deathDate o'<1927-12-27>",
+    "7" : "s(Malcolm_Stevenson) dbo:deathPlace o'<Seychelles>",
+    "8" : "s(Malcolm_Stevenson) dbo:nationality o'<British_people>",
+    "9" : "s(Malcolm_Stevenson) dbo:orderInOffice o'<Governor of Cyprus>",
+    "10" : "s(Malcolm_Stevenson) dbo:orderInOffice o'<Governor of the Seychelles>",
+    "11" : "s(Malcolm_Stevenson) dbo:predecessor o'<High_Commissioner>",
+    "12" : "s(Malcolm_Stevenson) dbo:predecessor o'<Sir_Joseph_Aloysius_Byrne>",
+    "13" : "s(Malcolm_Stevenson) dbo:successor o'<Sir_Ronald_Storrs>",
+    "14" : "s(Malcolm_Stevenson) dbo:successor o'<Sir_de_Symons_Montagu_George_Honey>",
+    "15" : "s(Malcolm_Stevenson) dbo:termPeriod o'<Malcolm_Stevenson__1>",
+    "16" : "s(Malcolm_Stevenson) dbp:termEnd o'<November 1927>",
+    "17" : "s(Malcolm_Stevenson) dbp:termStart o'<May 1927>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(malcolm stevenson=Malcolm_Stevenson) [served ] o'<governor of cyprus=Governor_of_Cyprus>",
+    "5" : "s(malcolm stevenson=Malcolm_Stevenson) [seconded to colonial ] o'<governor=Governor_of_Cyprus>",
+    "7" : "s(malcolm stevenson=Malcolm_Stevenson) [administered government from november ] o'<high commissioner=High_Commissioner>",
+    "8" : "s(malcolm stevenson=Malcolm_Stevenson) [became first ] o'<governor=Governor_of_Cyprus>",
+    "9" : "s(malcolm stevenson=Malcolm_Stevenson) [appointed ] o'<governor=Governor_of_Cyprus>",
+    "11" : "s(malcolm stevenson=Malcolm_Stevenson) [died on 27 november 1927 ] o'<the seychelles=Seychelles>"
+  },
+  "abstract" : {
+    "2" : "malcolm stevenson<Malcolm_Stevenson> served as the governor of cyprus<Governor_of_Cyprus> and later as the governor<Governor_of_Cyprus> of the seychelles<Seychelles>\n",
+    "5" : "from december 1912 to october 1913 malcolm stevenson<Malcolm_Stevenson> was seconded to the colonial office in london, but then returned to ceylon as private secretary to governor<Governor_of_Cyprus> sir robert chalmers\n",
+    "7" : "in may 1917, stevenson was appointed chief secretary of cyprus, in which post malcolm stevenson<Malcolm_Stevenson> administered the government from november 1918 to august 1920, when malcolm stevenson<Malcolm_Stevenson> was appointed high commissioner<High_Commissioner>\n",
+    "8" : "in may 1925, when cyprus was given the status of a crown colony, malcolm stevenson<Malcolm_Stevenson> became the first governor<Governor_of_Cyprus>, holding the post until november 1926\n",
+    "9" : "in may 1927 malcolm stevenson<Malcolm_Stevenson> was appointed governor<Governor_of_Cyprus> of the seychelles<Seychelles>, but died suddenly just six months later\n",
+    "11" : "malcolm stevenson<Malcolm_Stevenson> died on 27 november 1927 in the seychelles<Seychelles>\n"
+  }
+}, {
+  "entityIndex" : "entity12024",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammad_Robin",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Mohammad_Robin) dbp:att o'<January 2016>",
+    "2" : "s(Mohammad_Robin) dbp:date o'<February 2009>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12025",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammad_Sayeem",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12026",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammad_Shakil",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

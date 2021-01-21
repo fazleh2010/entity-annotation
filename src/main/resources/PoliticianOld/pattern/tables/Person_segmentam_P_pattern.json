@@ -1,0 +1,65 @@
+[ {
+  "entityIndex" : "entity11873",
+  "entityUrl" : "http://dbpedia.org/resource/Pakudha_Kaccayana",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11874",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Tripp",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Paul_Tripp) dbo:birthDate o'<1911-02-20>",
+    "2" : "s(Paul_Tripp) dbo:birthDate o'<1911-2-20>",
+    "3" : "s(Paul_Tripp) dbo:birthPlace o'<New_York_City>",
+    "4" : "s(Paul_Tripp) dbo:birthYear o'<1911>",
+    "5" : "s(Paul_Tripp) dbo:deathDate o'<2002-08-29>",
+    "6" : "s(Paul_Tripp) dbo:deathDate o'<2002-8-29>",
+    "7" : "s(Paul_Tripp) dbo:deathPlace o'<New_York_City>",
+    "8" : "s(Paul_Tripp) dbo:deathYear o'<2002>",
+    "9" : "s(Paul_Tripp) dbo:imdbId o'<0873101>",
+    "10" : "s(Paul_Tripp) dbo:occupation o'<Paul_Tripp__1>",
+    "11" : "s(Paul_Tripp) dbp:deathPlace o'<Manhattan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11875",
+  "entityUrl" : "http://dbpedia.org/resource/Palm_Heinrich_Ludwig_von_Boguslawski",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Palm_Heinrich_Ludwig_von_Boguslawski) dbo:birthDate o'<1789-9-7>",
+    "2" : "s(Palm_Heinrich_Ludwig_von_Boguslawski) dbo:birthPlace o'<Magdeburg>",
+    "3" : "s(Palm_Heinrich_Ludwig_von_Boguslawski) dbo:deathDate o'<1851-6-5>",
+    "4" : "s(Palm_Heinrich_Ludwig_von_Boguslawski) dbo:deathPlace o'<WrocÅ‚aw>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11876",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_of_Ravenna",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Peter_of_Ravenna) dbo:birthDate o'<1448-1-1>",
+    "2" : "s(Peter_of_Ravenna) dbo:birthPlace o'<Ravenna>",
+    "3" : "s(Peter_of_Ravenna) dbo:deathDate o'<1508-1-1>",
+    "4" : "s(Peter_of_Ravenna) dbo:deathPlace o'<Mainz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11877",
+  "entityUrl" : "http://dbpedia.org/resource/Pilar_Mu%C3%B1oz",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11878",
+  "entityUrl" : "http://dbpedia.org/resource/Pedro_Bell",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

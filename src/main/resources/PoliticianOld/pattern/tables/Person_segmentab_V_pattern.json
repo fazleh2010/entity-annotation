@@ -1,0 +1,119 @@
+[ {
+  "entityIndex" : "entity10931",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Cherbuliez",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Victor_Cherbuliez) dbo:birthDate o'<1829-7-19>",
+    "2" : "s(Victor_Cherbuliez) dbo:birthPlace o'<Geneva>",
+    "3" : "s(Victor_Cherbuliez) dbo:deathDate o'<1899-7-1>",
+    "4" : "s(Victor_Cherbuliez) dbo:deathPlace o'<Combs-la-Ville>",
+    "5" : "s(Victor_Cherbuliez) dbp:page o'<82>",
+    "6" : "s(Victor_Cherbuliez) dbp:volume o'<6>",
+    "7" : "s(Victor_Cherbuliez) dbp:wstitle o'<Cherbuliez, Charles Victor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(victor cherbuliez=Victor_Cherbuliez) [born at ] o'<geneva=Geneva>"
+  },
+  "abstract" : {
+    "2" : "victor cherbuliez<Victor_Cherbuliez> was born at geneva<Geneva>, switzerland and died at combs-la-ville<Combs-la-Ville>\n"
+  }
+}, {
+  "entityIndex" : "entity10932",
+  "entityUrl" : "http://dbpedia.org/resource/Viktoria_(singer)",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Viktoria_(singer)) dbo:activeYearsStartYear o'<1991>",
+    "2" : "s(Viktoria_(singer)) dbo:birthDate o'<1969-07-28>",
+    "3" : "s(Viktoria_(singer)) dbo:birthDate o'<1970-10-26>",
+    "4" : "s(Viktoria_(singer)) dbo:birthName o'<Teresita Viktoria Elizaga Agbayani>",
+    "5" : "s(Viktoria_(singer)) dbo:birthPlace o'<Philippines>",
+    "6" : "s(Viktoria_(singer)) dbo:birthPlace o'<Sual,_Pangasinan>",
+    "7" : "s(Viktoria_(singer)) dbo:birthYear o'<1969>",
+    "8" : "s(Viktoria_(singer)) dbo:occupation o'<Viktoria_(singer)__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10933",
+  "entityUrl" : "http://dbpedia.org/resource/Viktor_Knorre",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Viktor_Knorre) dbo:birthDate o'<1840-10-04>",
+    "2" : "s(Viktor_Knorre) dbo:birthDate o'<1840-10-4>",
+    "3" : "s(Viktor_Knorre) dbo:birthName o'<Viktor Karlovich Knorre>",
+    "4" : "s(Viktor_Knorre) dbo:birthPlace o'<Mykolaiv>",
+    "5" : "s(Viktor_Knorre) dbo:birthPlace o'<Russian_Empire>",
+    "6" : "s(Viktor_Knorre) dbo:birthYear o'<1840>",
+    "7" : "s(Viktor_Knorre) dbo:deathDate o'<1919-08-25>",
+    "8" : "s(Viktor_Knorre) dbo:deathDate o'<1919-8-25>",
+    "9" : "s(Viktor_Knorre) dbo:deathPlace o'<Berlin>",
+    "10" : "s(Viktor_Knorre) dbo:deathPlace o'<Germany>",
+    "11" : "s(Viktor_Knorre) dbo:deathYear o'<1919>",
+    "12" : "s(Viktor_Knorre) dbo:knownFor o'<158_Koronis>",
+    "13" : "s(Viktor_Knorre) dbo:occupation o'<Astronomer>",
+    "14" : "s(Viktor_Knorre) dbo:occupation o'<Viktor_Knorre__1>",
+    "15" : "s(Viktor_Knorre) dbo:parent o'<Karl_Friedrich_Knorre>",
+    "16" : "s(Viktor_Knorre) dbp:organization o'<Berlin_Observatory>",
+    "17" : "s(Viktor_Knorre) dbp:organization o'<Humboldt_University_of_Berlin>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(viktor knorre=Viktor_Knorre) [worked in ] o'<nikolaev=Mykolaiv>"
+  },
+  "abstract" : {
+    "2" : "viktor knorre<Viktor_Knorre> worked in nikolaev<Mykolaiv>, pulkovo and berlin<Berlin> and is best known for having discovered 158 koronis and three other minor planets\n"
+  }
+}, {
+  "entityIndex" : "entity10934",
+  "entityUrl" : "http://dbpedia.org/resource/Vivica_A._Fox",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Vivica_A._Fox) dbo:activeYearsStartYear o'<1988>",
+    "2" : "s(Vivica_A._Fox) dbo:birthDate o'<1964-07-30>",
+    "3" : "s(Vivica_A._Fox) dbo:birthDate o'<1964-7-30>",
+    "4" : "s(Vivica_A._Fox) dbo:birthName o'<Vivica Anjanetta Fox>",
+    "5" : "s(Vivica_A._Fox) dbo:birthPlace o'<Indianapolis>",
+    "6" : "s(Vivica_A._Fox) dbo:birthPlace o'<South_Bend,_Indiana>",
+    "7" : "s(Vivica_A._Fox) dbo:birthYear o'<1964>",
+    "8" : "s(Vivica_A._Fox) dbo:occupation o'<Vivica_A._Fox__1>",
+    "9" : "s(Vivica_A._Fox) dbp:spouse o'<1998>",
+    "10" : "s(Vivica_A._Fox) dbp:spouse o'<2002>",
+    "11" : "s(Vivica_A._Fox) dbp:spouse o'<Christopher Harvest>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10935",
+  "entityUrl" : "http://dbpedia.org/resource/Valentine_Dyall",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Valentine_Dyall) dbo:activeYearsEndYear o'<1985>",
+    "2" : "s(Valentine_Dyall) dbo:activeYearsStartYear o'<1942>",
+    "3" : "s(Valentine_Dyall) dbo:birthDate o'<1908-05-07>",
+    "4" : "s(Valentine_Dyall) dbo:birthDate o'<1908-5-7>",
+    "5" : "s(Valentine_Dyall) dbo:birthPlace o'<London>",
+    "6" : "s(Valentine_Dyall) dbo:birthYear o'<1908>",
+    "7" : "s(Valentine_Dyall) dbo:deathDate o'<1985-06-24>",
+    "8" : "s(Valentine_Dyall) dbo:deathDate o'<1985-6-24>",
+    "9" : "s(Valentine_Dyall) dbo:deathPlace o'<West_Sussex>",
+    "10" : "s(Valentine_Dyall) dbo:deathYear o'<1985>",
+    "11" : "s(Valentine_Dyall) dbp:children o'<3>",
+    "12" : "s(Valentine_Dyall) dbp:imageSize o'<200>",
+    "13" : "s(Valentine_Dyall) dbp:spouse o'<Babette Jones>",
+    "14" : "s(Valentine_Dyall) dbp:spouse o'<Kathleen E. Woodman>",
+    "15" : "s(Valentine_Dyall) dbp:spouse o'<Marjorie Stonor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10936",
+  "entityUrl" : "http://dbpedia.org/resource/Virgil_Fox",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Virgil_Fox) dbo:birthDate o'<1912-5-3>",
+    "2" : "s(Virgil_Fox) dbo:birthPlace o'<Princeton,_Illinois>",
+    "3" : "s(Virgil_Fox) dbo:deathDate o'<1980-10-25>",
+    "4" : "s(Virgil_Fox) dbo:deathPlace o'<Palm_Beach,_Florida>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity10907",
+  "entityUrl" : "http://dbpedia.org/resource/Rick_Karr",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Rick_Karr) dbo:birthDate o'<1965-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10908",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Alford",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Robert_Alford) dbo:birthDate o'<1950-12-10>",
+    "2" : "s(Robert_Alford) dbp:after o'<Randy_Thorsteinson>",
+    "3" : "s(Robert_Alford) dbp:after o'<Ken_Way>",
+    "4" : "s(Robert_Alford) dbp:before o'<Randy_Thorsteinson>",
+    "5" : "s(Robert_Alford) dbp:before o'<Harvey_Yuill>",
+    "6" : "s(Robert_Alford) dbp:title o'<Alberta Social Credit Party Party President>",
+    "7" : "s(Robert_Alford) dbp:title o'<Alberta Social Credit Party leader>",
+    "8" : "s(Robert_Alford) dbp:years o'<1990>",
+    "9" : "s(Robert_Alford) dbp:years o'<1992>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10909",
+  "entityUrl" : "http://dbpedia.org/resource/Rollie_Dotsch",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Rollie_Dotsch) dbo:birthDate o'<1933-2-14>",
+    "2" : "s(Rollie_Dotsch) dbo:deathDate o'<1988-3-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10910",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Pennant,_1st_Baron_Penrhyn",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbo:birthDate o'<1737-1-1>",
+    "2" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbo:deathDate o'<1808-1-21>",
+    "3" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:after o'<Richard_Croftes>",
+    "4" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:after o'<Henry_Rawlinson_(MP)>",
+    "5" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:after o'<Banastre_Tarleton>",
+    "6" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:after o'<John_Jolliffe_(of_Petersfield)>",
+    "7" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:after o'<Bamber_Gascoyne_(junior)>",
+    "8" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:before o'<Sir_William_Meredith,_3rd_Baronet>",
+    "9" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:before o'<Sir_John_Philipps,_6th_Baronet>",
+    "10" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:before o'<William_Gerard_Hamilton>",
+    "11" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:before o'<Bamber_Gascoyne_(junior)>",
+    "12" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:before o'<Ellis_Cunliffe>",
+    "13" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:before o'<Henry_Rawlinson_MP>",
+    "14" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:title o'<Baron_Penrhyn>",
+    "15" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:title o'<Member of Parliament for Liverpool>",
+    "16" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:title o'<Member of Parliament for Petersfield>",
+    "17" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:with o'<John_Jolliffe_(of_Petersfield)>",
+    "18" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:with o'<Bamber_Gascoyne_(junior)>",
+    "19" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:years o'<1761>",
+    "20" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:years o'<1767>",
+    "21" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:years o'<1783>",
+    "22" : "s(Richard_Pennant,_1st_Baron_Penrhyn) dbp:years o'<1784>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10911",
+  "entityUrl" : "http://dbpedia.org/resource/Radu_II_of_Wallachia",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Radu_II_of_Wallachia) dbo:deathDate o'<1427-1-1>",
+    "2" : "s(Radu_II_of_Wallachia) dbo:deathPlace o'<Transylvania>",
+    "3" : "s(Radu_II_of_Wallachia) dbp:after o'<Dan_II_of_Wallachia>",
+    "4" : "s(Radu_II_of_Wallachia) dbp:before o'<Dan_II_of_Wallachia>",
+    "5" : "s(Radu_II_of_Wallachia) dbp:title o'<List_of_Wallachian_rulers>",
+    "6" : "s(Radu_II_of_Wallachia) dbp:years o'<1421>",
+    "7" : "s(Radu_II_of_Wallachia) dbp:years o'<1423>",
+    "8" : "s(Radu_II_of_Wallachia) dbp:years o'<1424>",
+    "9" : "s(Radu_II_of_Wallachia) dbp:years o'<1427>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10912",
+  "entityUrl" : "http://dbpedia.org/resource/Radha_Burnier",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Radha_Burnier) dbo:birthDate o'<1923-11-15>",
+    "2" : "s(Radha_Burnier) dbo:birthPlace o'<Adyar,_Chennai>",
+    "3" : "s(Radha_Burnier) dbo:deathDate o'<2013-10-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

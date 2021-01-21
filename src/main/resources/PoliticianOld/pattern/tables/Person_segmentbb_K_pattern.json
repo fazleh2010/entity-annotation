@@ -1,0 +1,63 @@
+[ {
+  "entityIndex" : "entity14302",
+  "entityUrl" : "http://dbpedia.org/resource/Klaus_Servene",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Klaus_Servene) dbo:birthDate o'<1949-2-26>",
+    "2" : "s(Klaus_Servene) dbo:birthPlace o'<Marburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14303",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_von_Bruhn",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Karl_von_Bruhn) dbo:birthDate o'<1803-3-16>",
+    "2" : "s(Karl_von_Bruhn) dbo:country o'<Germany>",
+    "3" : "s(Karl_von_Bruhn) dbo:deathDate o'<1900-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14304",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Miller_(television_producer)",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Ken_Miller_(television_producer)) dbo:birthDate o'<1952-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14305",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Ludwig_Johann_D'Ester",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Karl_Ludwig_Johann_D'Ester) dbo:birthDate o'<1813-11-4>",
+    "2" : "s(Karl_Ludwig_Johann_D'Ester) dbo:birthPlace o'<Vallendar>",
+    "3" : "s(Karl_Ludwig_Johann_D'Ester) dbo:deathDate o'<1859-6-18>",
+    "4" : "s(Karl_Ludwig_Johann_D'Ester) dbo:deathPlace o'<ChÃ¢tel-Saint-Denis>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14306",
+  "entityUrl" : "http://dbpedia.org/resource/Kit_Lang",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Kit_Lang) dbo:birthDate o'<1984-8-6>",
+    "2" : "s(Kit_Lang) dbo:imdbId o'<3119336>",
+    "3" : "s(Kit_Lang) dbp:name o'<Kit Lang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14307",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Carl_Scholz",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Kevin_Carl_Scholz) dbo:birthDate o'<1955-2-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

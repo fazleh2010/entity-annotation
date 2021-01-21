@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "entity11023",
+  "entityUrl" : "http://dbpedia.org/resource/Julian_Sher",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Julian_Sher) dbo:country o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11024",
+  "entityUrl" : "http://dbpedia.org/resource/James_D._Savage",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11025",
+  "entityUrl" : "http://dbpedia.org/resource/Jason_Raize",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Jason_Raize) dbo:birthDate o'<1975-07-20>",
+    "2" : "s(Jason_Raize) dbo:birthDate o'<1975-7-20>",
+    "3" : "s(Jason_Raize) dbo:birthName o'<Jason Raize Rothenberg>",
+    "4" : "s(Jason_Raize) dbo:birthPlace o'<United_States>",
+    "5" : "s(Jason_Raize) dbo:birthPlace o'<Oneonta,_New_York>",
+    "6" : "s(Jason_Raize) dbo:birthYear o'<1975>",
+    "7" : "s(Jason_Raize) dbo:deathCause o'<Suicide>",
+    "8" : "s(Jason_Raize) dbo:deathDate o'<2004-02-03>",
+    "9" : "s(Jason_Raize) dbo:deathDate o'<2004-2-3>",
+    "10" : "s(Jason_Raize) dbo:deathPlace o'<Yass,_New_South_Wales>",
+    "11" : "s(Jason_Raize) dbo:deathPlace o'<Australia>",
+    "12" : "s(Jason_Raize) dbo:deathYear o'<2004>",
+    "13" : "s(Jason_Raize) dbo:occupation o'<Jason_Raize__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11026",
+  "entityUrl" : "http://dbpedia.org/resource/James_Whittaker",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(James_Whittaker) dbo:birthDate o'<1751-2-28>",
+    "2" : "s(James_Whittaker) dbo:deathDate o'<1787-7-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11027",
+  "entityUrl" : "http://dbpedia.org/resource/Jerry_Atkinson",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Jerry_Atkinson) dbo:birthDate o'<1921-1-25>",
+    "2" : "s(Jerry_Atkinson) dbo:deathDate o'<2006-4-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11028",
+  "entityUrl" : "http://dbpedia.org/resource/Jean-Marie_Rouart",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Jean-Marie_Rouart) dbo:birthDate o'<1943-04-08>",
+    "2" : "s(Jean-Marie_Rouart) dbo:birthDate o'<1943-4-8>",
+    "3" : "s(Jean-Marie_Rouart) dbo:birthPlace o'<Neuilly-sur-Seine>",
+    "4" : "s(Jean-Marie_Rouart) dbo:birthYear o'<1943>",
+    "5" : "s(Jean-Marie_Rouart) dbo:nationality o'<France>",
+    "6" : "s(Jean-Marie_Rouart) dbo:occupation o'<Jean-Marie_Rouart__1>",
+    "7" : "s(Jean-Marie_Rouart) dbo:stateOfOrigin o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

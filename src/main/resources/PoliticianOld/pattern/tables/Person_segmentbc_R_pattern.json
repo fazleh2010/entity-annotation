@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity14507",
+  "entityUrl" : "http://dbpedia.org/resource/Randi_Malkin_Steinberger",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Randi_Malkin_Steinberger) dbo:birthDate o'<1960-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14508",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_J._Betge",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Robert_J._Betge) dbo:birthDate o'<1824-0-0>",
+    "2" : "s(Robert_J._Betge) dbo:deathDate o'<1877-9-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14509",
+  "entityUrl" : "http://dbpedia.org/resource/Ramaz_Chkhikvadze",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ramaz_Chkhikvadze) dbo:birthDate o'<1928-02-28>",
+    "2" : "s(Ramaz_Chkhikvadze) dbo:birthDate o'<1928-2-28>",
+    "3" : "s(Ramaz_Chkhikvadze) dbo:birthName o'<Ramaz Grigoryevich Chkhikvadze>",
+    "4" : "s(Ramaz_Chkhikvadze) dbo:birthPlace o'<Georgia_SSR>",
+    "5" : "s(Ramaz_Chkhikvadze) dbo:birthPlace o'<Tbilisi>",
+    "6" : "s(Ramaz_Chkhikvadze) dbo:birthYear o'<1928>",
+    "7" : "s(Ramaz_Chkhikvadze) dbo:deathDate o'<2011-10-17>",
+    "8" : "s(Ramaz_Chkhikvadze) dbo:deathPlace o'<Georgia_SSR>",
+    "9" : "s(Ramaz_Chkhikvadze) dbo:deathPlace o'<Tbilisi>",
+    "10" : "s(Ramaz_Chkhikvadze) dbo:deathYear o'<2011>",
+    "11" : "s(Ramaz_Chkhikvadze) dbo:parent o'<Grigol_Chkhikvadze>",
+    "12" : "s(Ramaz_Chkhikvadze) dbp:spouse o'<Natasha Chkhikvadze>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14510",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_M._Sims,_Jr.",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Richard_M._Sims,_Jr.) dbo:birthDate o'<1910-1-1>",
+    "2" : "s(Richard_M._Sims,_Jr.) dbo:deathDate o'<1985-11-9>",
+    "3" : "s(Richard_M._Sims,_Jr.) dbo:deathPlace o'<Ross,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14511",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Reiffel",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ron_Reiffel) dbo:birthDate o'<1932-3-15>",
+    "2" : "s(Ron_Reiffel) dbp:birthDate o'<1932-03-15>",
+    "3" : "s(Ron_Reiffel) dbp:clubs o'<Richmond_Football_Club>",
+    "4" : "s(Ron_Reiffel) dbp:games(goals)_ o'<6>",
+    "5" : "s(Ron_Reiffel) dbp:heightweight o'<175>",
+    "6" : "s(Ron_Reiffel) dbp:statsend o'<1952>",
+    "7" : "s(Ron_Reiffel) dbp:years o'<1951>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14512",
+  "entityUrl" : "http://dbpedia.org/resource/Ramchandra_Purushottam_Marathe",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ramchandra_Purushottam_Marathe) dbo:alias o'<Ram Marathe, Pandit Ram Marathe>",
+    "2" : "s(Ramchandra_Purushottam_Marathe) dbo:birthDate o'<1924-10-23>",
+    "3" : "s(Ramchandra_Purushottam_Marathe) dbo:birthYear o'<1924>",
+    "4" : "s(Ramchandra_Purushottam_Marathe) dbo:deathDate o'<1989-10-04>",
+    "5" : "s(Ramchandra_Purushottam_Marathe) dbo:deathDate o'<1989-10-4>",
+    "6" : "s(Ramchandra_Purushottam_Marathe) dbo:deathYear o'<1989>",
+    "7" : "s(Ramchandra_Purushottam_Marathe) dbo:knownFor o'<Marathi_language>",
+    "8" : "s(Ramchandra_Purushottam_Marathe) dbo:relative o'<Anant_Purushottam_Marathe>",
+    "9" : "s(Ramchandra_Purushottam_Marathe) dbp:nationality o'<Indian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

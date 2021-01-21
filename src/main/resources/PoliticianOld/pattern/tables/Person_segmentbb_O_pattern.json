@@ -1,0 +1,70 @@
+[ {
+  "entityIndex" : "entity14326",
+  "entityUrl" : "http://dbpedia.org/resource/Orlando_Voorn",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Orlando_Voorn) dbo:birthDate o'<1991-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14327",
+  "entityUrl" : "http://dbpedia.org/resource/Oswald_Dietz",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Oswald_Dietz) dbo:birthDate o'<1823-5-27>",
+    "2" : "s(Oswald_Dietz) dbo:birthPlace o'<Wiesbaden>",
+    "3" : "s(Oswald_Dietz) dbo:deathDate o'<1898-3-9>",
+    "4" : "s(Oswald_Dietz) dbo:deathPlace o'<Cincinnati>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14328",
+  "entityUrl" : "http://dbpedia.org/resource/Odo_II_of_Champlitte",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Odo_II_of_Champlitte) dbo:deathDate o'<1204-5-0>",
+    "2" : "s(Odo_II_of_Champlitte) dbo:deathPlace o'<Constantinople>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14329",
+  "entityUrl" : "http://dbpedia.org/resource/Osip_Dymov_(writer)",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Osip_Dymov_(writer)) dbo:birthDate o'<1878-2-16>",
+    "2" : "s(Osip_Dymov_(writer)) dbo:birthPlace o'<BiaÅ‚ystok>",
+    "3" : "s(Osip_Dymov_(writer)) dbo:deathDate o'<1959-2-2>",
+    "4" : "s(Osip_Dymov_(writer)) dbo:deathPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14330",
+  "entityUrl" : "http://dbpedia.org/resource/Olivier_Robert-Murphy",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Olivier_Robert-Murphy) dbo:birthDate o'<1966-07-03>",
+    "2" : "s(Olivier_Robert-Murphy) dbo:birthDate o'<1966-7-3>",
+    "3" : "s(Olivier_Robert-Murphy) dbo:birthPlace o'<Toulouse>",
+    "4" : "s(Olivier_Robert-Murphy) dbo:birthPlace o'<Toulouse,_France>",
+    "5" : "s(Olivier_Robert-Murphy) dbo:birthYear o'<1966>",
+    "6" : "s(Olivier_Robert-Murphy) dbo:nationality o'<British>",
+    "7" : "s(Olivier_Robert-Murphy) dbo:occupation o'<Olivier_Robert-Murphy__1>",
+    "8" : "s(Olivier_Robert-Murphy) dbo:stateOfOrigin o'<British>",
+    "9" : "s(Olivier_Robert-Murphy) dbp:period o'<70>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14331",
+  "entityUrl" : "http://dbpedia.org/resource/Orkan_Telhan",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Orkan_Telhan) dbo:birthDate o'<1976-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

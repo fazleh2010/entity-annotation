@@ -1,0 +1,209 @@
+[ {
+  "entityIndex" : "entity10707",
+  "entityUrl" : "http://dbpedia.org/resource/Leslie_Caron",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Leslie_Caron) dbo:activeYearsStartYear o'<1951>",
+    "2" : "s(Leslie_Caron) dbo:birthDate o'<1931-07-01>",
+    "3" : "s(Leslie_Caron) dbo:birthDate o'<1931-7-1>",
+    "4" : "s(Leslie_Caron) dbo:birthName o'<Leslie Claire Margaret Caron>",
+    "5" : "s(Leslie_Caron) dbo:birthPlace o'<Boulogne-sur-Seine>",
+    "6" : "s(Leslie_Caron) dbo:birthPlace o'<Boulogne-Billancourt>",
+    "7" : "s(Leslie_Caron) dbo:birthYear o'<1931>",
+    "8" : "s(Leslie_Caron) dbo:occupation o'<Leslie_Caron__1>",
+    "9" : "s(Leslie_Caron) dbo:spouse o'<Peter_Hall_(director)>",
+    "10" : "s(Leslie_Caron) dbo:spouse o'<Geordie_Hormel>",
+    "11" : "s(Leslie_Caron) dbo:spouse o'<Michael_Laughlin>",
+    "12" : "s(Leslie_Caron) dbp:title o'<Awards for Leslie Caron>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10708",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_Wall",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Larry_Wall) dbo:almaMater o'<Seattle_Pacific_University>",
+    "2" : "s(Larry_Wall) dbo:almaMater o'<UC_Berkeley>",
+    "3" : "s(Larry_Wall) dbo:birthDate o'<1954-09-27>",
+    "4" : "s(Larry_Wall) dbo:birthDate o'<1954-9-27>",
+    "5" : "s(Larry_Wall) dbo:birthPlace o'<Los_Angeles>",
+    "6" : "s(Larry_Wall) dbo:birthPlace o'<Los_Angeles,_California>",
+    "7" : "s(Larry_Wall) dbo:birthYear o'<1954>",
+    "8" : "s(Larry_Wall) dbo:knownFor o'<Perl>",
+    "9" : "s(Larry_Wall) dbo:occupation o'<Larry_Wall__1>",
+    "10" : "s(Larry_Wall) dbo:occupation o'<Computer_programmer>",
+    "11" : "s(Larry_Wall) dbp:children o'<4>",
+    "12" : "s(Larry_Wall) dbp:nationality o'<American>",
+    "13" : "s(Larry_Wall) dbp:spouse o'<Gloria Wall>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10709",
+  "entityUrl" : "http://dbpedia.org/resource/Laura_Bush",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Laura_Bush) dbo:almaMater o'<Southern_Methodist_University>",
+    "2" : "s(Laura_Bush) dbo:almaMater o'<University_of_Texas_at_Austin_School_of_Information>",
+    "3" : "s(Laura_Bush) dbo:birthDate o'<1946-11-04>",
+    "4" : "s(Laura_Bush) dbo:birthDate o'<1946-11-4>",
+    "5" : "s(Laura_Bush) dbo:birthPlace o'<Midland,_Texas>",
+    "6" : "s(Laura_Bush) dbo:child o'<Jenna_Bush_Hager>",
+    "7" : "s(Laura_Bush) dbo:child o'<Barbara_Pierce_Bush>",
+    "8" : "s(Laura_Bush) dbo:governor o'<George_W._Bush>",
+    "9" : "s(Laura_Bush) dbo:imdbId o'<1197615>",
+    "10" : "s(Laura_Bush) dbo:office o'<First Lady of Texas>",
+    "11" : "s(Laura_Bush) dbo:office o'<First Lady of the United States>",
+    "12" : "s(Laura_Bush) dbo:party o'<Republican_Party_(United_States)>",
+    "13" : "s(Laura_Bush) dbo:predecessor o'<Rita_Crocker_Clements>",
+    "14" : "s(Laura_Bush) dbo:predecessor o'<Hillary_Clinton>",
+    "15" : "s(Laura_Bush) dbo:president o'<George_W._Bush>",
+    "16" : "s(Laura_Bush) dbo:religion o'<United_Methodist_Church>",
+    "17" : "s(Laura_Bush) dbo:signature o'<Laura Bush signature.svg>",
+    "18" : "s(Laura_Bush) dbo:spouse o'<George_W._Bush>",
+    "19" : "s(Laura_Bush) dbo:successor o'<Michelle_Obama>",
+    "20" : "s(Laura_Bush) dbo:successor o'<Anita_Thigpen_Perry>",
+    "21" : "s(Laura_Bush) dbo:termPeriod o'<Laura_Bush__1>",
+    "22" : "s(Laura_Bush) dbo:termPeriod o'<Laura_Bush__2>",
+    "23" : "s(Laura_Bush) dbp:after o'<Michelle_Obama>",
+    "24" : "s(Laura_Bush) dbp:before o'<Hillary_Clinton>",
+    "25" : "s(Laura_Bush) dbp:birthName o'<Laura Lane Welch>",
+    "26" : "s(Laura_Bush) dbp:name o'<Laura Bush>",
+    "27" : "s(Laura_Bush) dbp:rows o'<2>",
+    "28" : "s(Laura_Bush) dbp:termLabel o'<In role>",
+    "29" : "s(Laura_Bush) dbp:title o'<First_Lady_of_the_United_States>",
+    "30" : "s(Laura_Bush) dbp:title o'<List_of_First_Ladies_and_Gentlemen_of_Texas>",
+    "31" : "s(Laura_Bush) dbp:title o'<Honorary Chairperson of the President's Committee on the Arts and Humanities>",
+    "32" : "s(Laura_Bush) dbp:years o'<1995>",
+    "33" : "s(Laura_Bush) dbp:years o'<2001>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(laura bush=Laura_Bush) [PRONOUN2 born november 4 1946 ] o'<president=George_W._Bush>",
+    "9" : "s(laura bush=Laura_Bush) [campaigned with husband during ] o'<united states=First_Lady_of_the_United_States>",
+    "11" : "s(laura bush=Laura_Bush) [aided husband in campaigning ] o'<republican national convention=Republican_Party_(United_States)>",
+    "12" : "s(laura bush=Laura_Bush) [became ] o'<first lady=First_Lady_of_the_United_States>",
+    "19" : "s(laura bush=Laura_Bush) [represented ] o'<united states=First_Lady_of_the_United_States>"
+  },
+  "abstract" : {
+    "1" : "laura lane welch<Laura_Bush> laura lane welch<Laura_Bush>2 (born november 4, 1946) is the laura lane welch<Laura_Bush>0 of the 43rd president<George_W._Bush> of the united states<First_Lady_of_the_United_States>, george<George_W._Bush> laura lane welch<Laura_Bush>4",
+    "9" : "laura bush<Laura_Bush> campaigned with her husband during his unsuccessful 1978 run for the united states<First_Lady_of_the_United_States> congress, and later for his successful texas gubernatorial campaign\n",
+    "11" : "in 1999-2000, laura bush<Laura_Bush> aided her husband in campaigning for the presidency in a number of ways, most notably delivering a keynote address at the 2000 republican national convention<Republican_Party_(United_States)>, which gained her national attention\n",
+    "12" : "laura bush<Laura_Bush> became first lady<First_Lady_of_the_United_States> after her husband defeated democrat<Republican_Party_(United_States)> al gore in the 2000 u\n",
+    "19" : "laura bush<Laura_Bush> represented the united states<First_Lady_of_the_United_States> during her foreign trips, which tended to focus on hiv/aids and malaria awareness\n"
+  }
+}, {
+  "entityIndex" : "entity10710",
+  "entityUrl" : "http://dbpedia.org/resource/Leni_Riefenstahl",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Leni_Riefenstahl) dbo:activeYearsEndYear o'<2002>",
+    "2" : "s(Leni_Riefenstahl) dbo:activeYearsStartYear o'<1925>",
+    "3" : "s(Leni_Riefenstahl) dbo:birthDate o'<1902-08-22>",
+    "4" : "s(Leni_Riefenstahl) dbo:birthDate o'<1902-8-22>",
+    "5" : "s(Leni_Riefenstahl) dbo:birthName o'<Helene Bertha Amalie Riefenstahl>",
+    "6" : "s(Leni_Riefenstahl) dbo:birthPlace o'<Berlin>",
+    "7" : "s(Leni_Riefenstahl) dbo:birthPlace o'<German_Empire>",
+    "8" : "s(Leni_Riefenstahl) dbo:birthYear o'<1902>",
+    "9" : "s(Leni_Riefenstahl) dbo:deathDate o'<2003-09-08>",
+    "10" : "s(Leni_Riefenstahl) dbo:deathDate o'<2003-9-8>",
+    "11" : "s(Leni_Riefenstahl) dbo:deathPlace o'<PÃ¶cking>",
+    "12" : "s(Leni_Riefenstahl) dbo:deathPlace o'<Germany>",
+    "13" : "s(Leni_Riefenstahl) dbo:deathYear o'<2003>",
+    "14" : "s(Leni_Riefenstahl) dbo:knownFor o'<Olympia_(1938_film)>",
+    "15" : "s(Leni_Riefenstahl) dbo:knownFor o'<Triumph_des_Willens>",
+    "16" : "s(Leni_Riefenstahl) dbo:nationality o'<Germans>",
+    "17" : "s(Leni_Riefenstahl) dbo:nationality o'<Sudanese_people>",
+    "18" : "s(Leni_Riefenstahl) dbo:occupation o'<Leni_Riefenstahl__1>",
+    "19" : "s(Leni_Riefenstahl) dbo:religion o'<Lutheran>",
+    "20" : "s(Leni_Riefenstahl) dbo:restingPlace o'<Munich_Waldfriedhof>",
+    "21" : "s(Leni_Riefenstahl) dbo:stateOfOrigin o'<Germans>",
+    "22" : "s(Leni_Riefenstahl) dbo:stateOfOrigin o'<Sudanese_people>",
+    "23" : "s(Leni_Riefenstahl) dbp:deathCause o'<Cancer>",
+    "24" : "s(Leni_Riefenstahl) dbp:relations o'<Heinz , Bertha , Alfred>",
+    "25" : "s(Leni_Riefenstahl) dbp:spouse o'<Peter Jacob>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "7" : "s(leni riefenstahl=Leni_Riefenstahl) [directed ] o'<triumph des willens=Triumph_des_Willens>"
+  },
+  "abstract" : {
+    "7" : "in the 1930s, leni riefenstahl<Leni_Riefenstahl> directed triumph des willens<Triumph_des_Willens> (\"triumph of the will\") and olympia<Olympia_(1938_film)>, resulting in worldwide attention and acclaim\n"
+  }
+}, {
+  "entityIndex" : "entity10711",
+  "entityUrl" : "http://dbpedia.org/resource/Linus_Torvalds",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Linus_Torvalds) dbo:almaMater o'<University_of_Helsinki>",
+    "2" : "s(Linus_Torvalds) dbo:birthDate o'<1969-12-28>",
+    "3" : "s(Linus_Torvalds) dbo:birthName o'<Linus Benedict Torvalds>",
+    "4" : "s(Linus_Torvalds) dbo:birthPlace o'<Finland>",
+    "5" : "s(Linus_Torvalds) dbo:birthPlace o'<Helsinki>",
+    "6" : "s(Linus_Torvalds) dbo:birthYear o'<1969>",
+    "7" : "s(Linus_Torvalds) dbo:employer o'<Linux_Foundation>",
+    "8" : "s(Linus_Torvalds) dbo:knownFor o'<Git_(software)>",
+    "9" : "s(Linus_Torvalds) dbo:knownFor o'<Linux_kernel>",
+    "10" : "s(Linus_Torvalds) dbo:knownFor o'<Subsurface_(software)>",
+    "11" : "s(Linus_Torvalds) dbo:nationality o'<Finland>",
+    "12" : "s(Linus_Torvalds) dbo:occupation o'<Linus_Torvalds__1>",
+    "13" : "s(Linus_Torvalds) dbo:occupation o'<Software_engineer>",
+    "14" : "s(Linus_Torvalds) dbo:parent o'<Nils_Torvalds>",
+    "15" : "s(Linus_Torvalds) dbo:relative o'<Ole_Torvalds>",
+    "16" : "s(Linus_Torvalds) dbo:relative o'<Leo_TÃ¶rnqvist>",
+    "17" : "s(Linus_Torvalds) dbo:residence o'<Dunthorpe,_Oregon>",
+    "18" : "s(Linus_Torvalds) dbo:stateOfOrigin o'<Finland>",
+    "19" : "s(Linus_Torvalds) dbp:children o'<3>",
+    "20" : "s(Linus_Torvalds) dbp:date o'<2001-06-04>",
+    "21" : "s(Linus_Torvalds) dbp:date o'<November 2014>",
+    "22" : "s(Linus_Torvalds) dbp:langcode o'<fi>",
+    "23" : "s(Linus_Torvalds) dbp:otherarticle o'<Linus Torvalds>",
+    "24" : "s(Linus_Torvalds) dbp:spouse o'<p26>",
+    "25" : "s(Linus_Torvalds) dbp:title o'<Millennium Technology Prize winner>",
+    "26" : "s(Linus_Torvalds) dbp:urlDateArg o'<4>",
+    "27" : "s(Linus_Torvalds) dbp:years o'<2012>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(linus torvalds=Linus_Torvalds) [created distributed revision ] o'<git=Git_(software)>",
+    "5" : "s(linus torvalds=Linus_Torvalds) [honored along with shinya ] o'<finland=Finland>"
+  },
+  "abstract" : {
+    "4" : "linus torvalds<Linus_Torvalds> also created the distributed revision control system git<Git_(software)> and the diving logging and planning software<Software_engineer> subsurface<Subsurface_(software)>\n",
+    "5" : "linus torvalds<Linus_Torvalds> was honored, along with shinya yamanaka, with the 2012 millennium technology prize by the technology academy finland<Finland> \"in recognition of his creation of a new open source operating system for computers leading to the widely used linux<Linux_kernel> kernel\"\n"
+  }
+}, {
+  "entityIndex" : "entity10712",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Harvey_Oswald",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Lee_Harvey_Oswald) dbo:birthDate o'<1939-10-18>",
+    "2" : "s(Lee_Harvey_Oswald) dbo:birthPlace o'<Louisiana>",
+    "3" : "s(Lee_Harvey_Oswald) dbo:birthPlace o'<New_Orleans>",
+    "4" : "s(Lee_Harvey_Oswald) dbo:birthYear o'<1939>",
+    "5" : "s(Lee_Harvey_Oswald) dbo:deathCause o'<Gunshot_wound>",
+    "6" : "s(Lee_Harvey_Oswald) dbo:deathDate o'<1963-11-24>",
+    "7" : "s(Lee_Harvey_Oswald) dbo:deathPlace o'<Dallas>",
+    "8" : "s(Lee_Harvey_Oswald) dbo:deathPlace o'<Texas>",
+    "9" : "s(Lee_Harvey_Oswald) dbo:deathPlace o'<Parkland_Memorial_Hospital>",
+    "10" : "s(Lee_Harvey_Oswald) dbo:deathYear o'<1963>",
+    "11" : "s(Lee_Harvey_Oswald) dbo:restingPlace o'<Fort_Worth>",
+    "12" : "s(Lee_Harvey_Oswald) dbo:restingPlace o'<Texas>",
+    "13" : "s(Lee_Harvey_Oswald) dbo:restingPlacePosition o'<Lee_Harvey_Oswald__restingPlacePosition__1>",
+    "14" : "s(Lee_Harvey_Oswald) dbo:spouse o'<Marina_Oswald_Porter>",
+    "15" : "s(Lee_Harvey_Oswald) dbp:children o'<Audrey Marina Rachel Oswald>",
+    "16" : "s(Lee_Harvey_Oswald) dbp:children o'<June Lee Oswald>",
+    "17" : "s(Lee_Harvey_Oswald) dbp:criminalCharge o'<Murder of President John F. Kennedy and Dallas police officer J. D. Tippit>",
+    "18" : "s(Lee_Harvey_Oswald) dbp:imageSize o'<180>",
+    "19" : "s(Lee_Harvey_Oswald) dbp:nationality o'<American>",
+    "20" : "s(Lee_Harvey_Oswald) dbp:parents o'<Marguerite Frances Claverie>",
+    "21" : "s(Lee_Harvey_Oswald) dbp:parents o'<Robert Edward Lee Oswald, Sr.>",
+    "22" : "s(Lee_Harvey_Oswald) dbp:signature o'<Lee Harvey Oswald Signature.svg>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(lee harvey oswald=Lee_Harvey_Oswald) [traveled by motorcade through dealey ] o'<city of dallas=Dallas>",
+    "9" : "s(lee harvey oswald=Lee_Harvey_Oswald) [lived in belarusian ] o'<city=New_Orleans>"
+  },
+  "abstract" : {
+    "5" : "government investigations, oswald shot and killed kennedy as lee harvey oswald<Lee_Harvey_Oswald> traveled by motorcade through dealey plaza in the city of dallas<Dallas>, texas<Texas>\n",
+    "9" : "lee harvey oswald<Lee_Harvey_Oswald> lived in the belarusian city<New_Orleans> of minsk until june 1962, at which time lee harvey oswald<Lee_Harvey_Oswald> returned to the united states<Texas> with marina<Marina_Oswald_Porter>, his russian wife, eventually settling in dallas<Dallas>\n"
+  }
+} ]

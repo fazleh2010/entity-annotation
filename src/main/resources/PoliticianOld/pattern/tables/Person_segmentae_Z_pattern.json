@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity11455",
+  "entityUrl" : "http://dbpedia.org/resource/Zhuge_Ke",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Zhuge_Ke) dbo:birthDate o'<203-1-1>",
+    "2" : "s(Zhuge_Ke) dbo:deathDate o'<253-1-1>",
+    "3" : "s(Zhuge_Ke) dbp:birthDate o'<203>",
+    "4" : "s(Zhuge_Ke) dbp:deathDate o'<253>",
+    "5" : "s(Zhuge_Ke) dbp:imageSize o'<200>",
+    "6" : "s(Zhuge_Ke) dbp:kingdom o'<Eastern_Wu>",
+    "7" : "s(Zhuge_Ke) dbp:name o'<Zhuge Ke>",
+    "8" : "s(Zhuge_Ke) dbp:pinyin o'<ZhÅ«gÄ› KÃ¨>",
+    "9" : "s(Zhuge_Ke) dbp:simp o'<è¯¸è‘›æ�ª>",
+    "10" : "s(Zhuge_Ke) dbp:title o'<Regent>",
+    "11" : "s(Zhuge_Ke) dbp:trad o'<è«¸è‘›æ�ª>",
+    "12" : "s(Zhuge_Ke) dbp:wg o'<Chu-ko Ke>",
+    "13" : "s(Zhuge_Ke) dbp:zi o'<Yuanxun>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11456",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Zongchang",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Zhang_Zongchang) dbo:birthDate o'<1881-2-13>",
+    "2" : "s(Zhang_Zongchang) dbo:birthPlace o'<Laizhou_Bay>",
+    "3" : "s(Zhang_Zongchang) dbo:deathDate o'<1932-9-3>",
+    "4" : "s(Zhang_Zongchang) dbo:deathPlace o'<Shandong>",
+    "5" : "s(Zhang_Zongchang) dbp:p o'<ZhÄ�ng ZÅ�ngchÄ�ng>",
+    "6" : "s(Zhang_Zongchang) dbp:t o'<å¼µå®—æ˜Œ>",
+    "7" : "s(Zhang_Zongchang) dbp:w o'<Chang Tsung-ch'ang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11457",
+  "entityUrl" : "http://dbpedia.org/resource/Z%C3%A9lia_Cardoso_de_Mello",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11458",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Yue_(Tang_dynasty)",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Zhang_Yue_(Tang_dynasty)) dbo:birthDate o'<663-0-0>",
+    "2" : "s(Zhang_Yue_(Tang_dynasty)) dbo:deathDate o'<730-0-0>",
+    "3" : "s(Zhang_Yue_(Tang_dynasty)) dbp:p o'<ZhÄ�ng YuÃ¨>",
+    "4" : "s(Zhang_Yue_(Tang_dynasty)) dbp:t o'<å¼µèªª>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11459",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Jiazhen",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Zhang_Jiazhen) dbo:birthDate o'<666-1-1>",
+    "2" : "s(Zhang_Jiazhen) dbo:deathDate o'<729-9-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11460",
+  "entityUrl" : "http://dbpedia.org/resource/Zacharias_Ursinus",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Zacharias_Ursinus) dbo:birthDate o'<1534-07-18>",
+    "2" : "s(Zacharias_Ursinus) dbo:birthDate o'<1534-7-18>",
+    "3" : "s(Zacharias_Ursinus) dbo:birthPlace o'<WrocÅ‚aw>",
+    "4" : "s(Zacharias_Ursinus) dbo:birthPlace o'<Wroclaw>",
+    "5" : "s(Zacharias_Ursinus) dbo:birthYear o'<1534>",
+    "6" : "s(Zacharias_Ursinus) dbo:deathDate o'<1583-05-06>",
+    "7" : "s(Zacharias_Ursinus) dbo:deathDate o'<1583-5-6>",
+    "8" : "s(Zacharias_Ursinus) dbo:deathPlace o'<Neustadt_an_der_WeinstraÃŸe>",
+    "9" : "s(Zacharias_Ursinus) dbo:deathYear o'<1583>",
+    "10" : "s(Zacharias_Ursinus) dbo:nationality o'<Germans>",
+    "11" : "s(Zacharias_Ursinus) dbo:nationality o'<Silesians>",
+    "12" : "s(Zacharias_Ursinus) dbo:occupation o'<Theology>",
+    "13" : "s(Zacharias_Ursinus) dbo:occupation o'<Zacharias_Ursinus__1>",
+    "14" : "s(Zacharias_Ursinus) dbo:religion o'<Reformed>",
+    "15" : "s(Zacharias_Ursinus) dbo:residence o'<Heidelberg>",
+    "16" : "s(Zacharias_Ursinus) dbo:stateOfOrigin o'<Germans>",
+    "17" : "s(Zacharias_Ursinus) dbo:stateOfOrigin o'<Silesians>",
+    "18" : "s(Zacharias_Ursinus) dbp:artikel o'<URSINUS, Zacharias>",
+    "19" : "s(Zacharias_Ursinus) dbp:autor o'<Ulrich Hutter-Wolandt>",
+    "20" : "s(Zacharias_Ursinus) dbp:band o'<12>",
+    "21" : "s(Zacharias_Ursinus) dbp:notableWorks o'<Heidelberg_Catechism>",
+    "22" : "s(Zacharias_Ursinus) dbp:spalten o'<953>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

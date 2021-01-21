@@ -1,0 +1,81 @@
+[ {
+  "entityIndex" : "entity14374",
+  "entityUrl" : "http://dbpedia.org/resource/William_John_Hooper",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(William_John_Hooper) dbo:birthDate o'<1916-08-21>",
+    "2" : "s(William_John_Hooper) dbo:birthDate o'<1916-8-21>",
+    "3" : "s(William_John_Hooper) dbo:birthYear o'<1916>",
+    "4" : "s(William_John_Hooper) dbo:deathDate o'<1996-10-14>",
+    "5" : "s(William_John_Hooper) dbo:deathYear o'<1996>",
+    "6" : "s(William_John_Hooper) dbo:occupation o'<William_John_Hooper__1>",
+    "7" : "s(William_John_Hooper) dbp:birthPlace o'<Lichfield, Staffordshire, England>",
+    "8" : "s(William_John_Hooper) dbp:deathPlace o'<Worthing, Sussex, England>",
+    "9" : "s(William_John_Hooper) dbp:knownFor o'<Percy Prune>",
+    "10" : "s(William_John_Hooper) dbp:nationality o'<United Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14375",
+  "entityUrl" : "http://dbpedia.org/resource/Work_N_Gear__DiPaolo,_Anthony__1",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14376",
+  "entityUrl" : "http://dbpedia.org/resource/Warren_Felt_Evans",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Warren_Felt_Evans) dbo:birthDate o'<1817-12-23>",
+    "2" : "s(Warren_Felt_Evans) dbo:birthPlace o'<Vermont>",
+    "3" : "s(Warren_Felt_Evans) dbo:birthPlace o'<Rockingham,_Vermont>",
+    "4" : "s(Warren_Felt_Evans) dbo:birthYear o'<1817>",
+    "5" : "s(Warren_Felt_Evans) dbo:deathDate o'<1889-1-1>",
+    "6" : "s(Warren_Felt_Evans) dbo:deathYear o'<1889>",
+    "7" : "s(Warren_Felt_Evans) dbo:knownFor o'<New_Thought>",
+    "8" : "s(Warren_Felt_Evans) dbo:nationality o'<United_States_of_America>",
+    "9" : "s(Warren_Felt_Evans) dbo:occupation o'<Author>",
+    "10" : "s(Warren_Felt_Evans) dbo:occupation o'<Philosopher>",
+    "11" : "s(Warren_Felt_Evans) dbo:occupation o'<Warren_Felt_Evans__1>",
+    "12" : "s(Warren_Felt_Evans) dbo:stateOfOrigin o'<United_States_of_America>",
+    "13" : "s(Warren_Felt_Evans) dbp:imageSize o'<250>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14377",
+  "entityUrl" : "http://dbpedia.org/resource/Wm._Michael_Lynn",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Wm._Michael_Lynn) dbo:birthDate o'<1958-06-27>",
+    "2" : "s(Wm._Michael_Lynn) dbo:birthDate o'<1958-6-27>",
+    "3" : "s(Wm._Michael_Lynn) dbo:birthYear o'<1958>",
+    "4" : "s(Wm._Michael_Lynn) dbp:spouse o'<Ann Louise Lynn>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14378",
+  "entityUrl" : "http://dbpedia.org/resource/Winifred_Emery",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Winifred_Emery) dbo:birthDate o'<1861-8-1>",
+    "2" : "s(Winifred_Emery) dbo:birthPlace o'<Manchester>",
+    "3" : "s(Winifred_Emery) dbo:deathDate o'<1924-7-15>",
+    "4" : "s(Winifred_Emery) dbo:deathPlace o'<Bexhill-on-Sea>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14379",
+  "entityUrl" : "http://dbpedia.org/resource/William_Henry_Mudie",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(William_Henry_Mudie) dbo:birthDate o'<1830-0-0>",
+    "2" : "s(William_Henry_Mudie) dbo:deathDate o'<1903-7-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

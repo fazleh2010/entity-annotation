@@ -1,0 +1,94 @@
+[ {
+  "entityIndex" : "entity11313",
+  "entityUrl" : "http://dbpedia.org/resource/David_Sheffield",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(David_Sheffield) dbo:birthDate o'<1948-1-1>",
+    "2" : "s(David_Sheffield) dbo:birthPlace o'<United_States>",
+    "3" : "s(David_Sheffield) dbo:birthYear o'<1948>",
+    "4" : "s(David_Sheffield) dbo:occupation o'<Screenwriter>",
+    "5" : "s(David_Sheffield) dbo:occupation o'<David_Sheffield__1>",
+    "6" : "s(David_Sheffield) dbo:occupation o'<Television_writer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11314",
+  "entityUrl" : "http://dbpedia.org/resource/Dustin_Dollin",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Dustin_Dollin) dbo:birthDate o'<1980-06-27>",
+    "2" : "s(Dustin_Dollin) dbo:birthDate o'<1980-6-26>",
+    "3" : "s(Dustin_Dollin) dbo:birthPlace o'<Australia>",
+    "4" : "s(Dustin_Dollin) dbo:birthPlace o'<Ballina,_New_South_Wales>",
+    "5" : "s(Dustin_Dollin) dbo:birthYear o'<1980>",
+    "6" : "s(Dustin_Dollin) dbo:occupation o'<Dustin_Dollin__1>",
+    "7" : "s(Dustin_Dollin) dbo:residence o'<West_Hollywood,_California>",
+    "8" : "s(Dustin_Dollin) dbp:imagesize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11315",
+  "entityUrl" : "http://dbpedia.org/resource/Damien_Perquis",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Damien_Perquis) dbo:birthDate o'<1984-04-10>",
+    "2" : "s(Damien_Perquis) dbo:birthDate o'<1984-4-10>",
+    "3" : "s(Damien_Perquis) dbo:birthPlace o'<Troyes>",
+    "4" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__1>",
+    "5" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__10>",
+    "6" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__11>",
+    "7" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__2>",
+    "8" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__3>",
+    "9" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__4>",
+    "10" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__5>",
+    "11" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__6>",
+    "12" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__7>",
+    "13" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__8>",
+    "14" : "s(Damien_Perquis) dbo:careerStation o'<Damien_Perquis__9>",
+    "15" : "s(Damien_Perquis) dbo:height o'<185.0>",
+    "16" : "s(Damien_Perquis) dbo:height o'<1.85>",
+    "17" : "s(Damien_Perquis) dbo:number o'<27>",
+    "18" : "s(Damien_Perquis) dbo:position o'<Defender_(association_football)>",
+    "19" : "s(Damien_Perquis) dbo:team o'<Nottingham_Forest_F.C.>",
+    "20" : "s(Damien_Perquis) dbo:team o'<Toronto_FC>",
+    "21" : "s(Damien_Perquis) dbo:team o'<AS_Saint-Ã‰tienne>",
+    "22" : "s(Damien_Perquis) dbo:team o'<FC_Sochaux-MontbÃ©liard>",
+    "23" : "s(Damien_Perquis) dbo:team o'<Poland_national_football_team>",
+    "24" : "s(Damien_Perquis) dbo:team o'<Real_Betis>",
+    "25" : "s(Damien_Perquis) dbo:team o'<Troyes_AC>",
+    "26" : "s(Damien_Perquis) dbo:team o'<France_national_under-21_football_team>",
+    "27" : "s(Damien_Perquis) dbp:caps1. o'<2>",
+    "28" : "s(Damien_Perquis) dbp:clubUpdate o'<2016-08-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11316",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Adams_(boxer)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11317",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_Foster",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Diane_Foster) dbo:birthDate o'<1928-3-3>",
+    "2" : "s(Diane_Foster) dbo:birthPlace o'<Vancouver>",
+    "3" : "s(Diane_Foster) dbo:country o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11318",
+  "entityUrl" : "http://dbpedia.org/resource/David_S._Rosenthal",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(David_S._Rosenthal) dbo:birthDate o'<1968-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

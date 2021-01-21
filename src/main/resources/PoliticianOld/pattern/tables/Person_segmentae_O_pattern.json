@@ -1,0 +1,88 @@
+[ {
+  "entityIndex" : "entity11389",
+  "entityUrl" : "http://dbpedia.org/resource/Osamu_Watanabe",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Osamu_Watanabe) dbo:birthDate o'<1940-10-21>",
+    "2" : "s(Osamu_Watanabe) dbo:birthPlace o'<Wassamu,_Hokkaido>",
+    "3" : "s(Osamu_Watanabe) dbo:birthPlace o'<Wassamu>",
+    "4" : "s(Osamu_Watanabe) dbo:height o'<160.0>",
+    "5" : "s(Osamu_Watanabe) dbo:height o'<1.6>",
+    "6" : "s(Osamu_Watanabe) dbo:weight o'<63.0>",
+    "7" : "s(Osamu_Watanabe) dbo:weight o'<63000.0>",
+    "8" : "s(Osamu_Watanabe) dbp:almaMater o'<Chuo_University>",
+    "9" : "s(Osamu_Watanabe) dbp:showMedals o'<yes>",
+    "10" : "s(Osamu_Watanabe) dbp:sport o'<Freestyle wrestling>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11390",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Brahm",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Otto_Brahm) dbo:birthDate o'<1856-02-05>",
+    "2" : "s(Otto_Brahm) dbo:birthDate o'<1856-2-5>",
+    "3" : "s(Otto_Brahm) dbo:birthName o'<Otto Abrahamson>",
+    "4" : "s(Otto_Brahm) dbo:birthPlace o'<Germany>",
+    "5" : "s(Otto_Brahm) dbo:birthPlace o'<Hamburg>",
+    "6" : "s(Otto_Brahm) dbo:birthYear o'<1856>",
+    "7" : "s(Otto_Brahm) dbo:country o'<Germany>",
+    "8" : "s(Otto_Brahm) dbo:deathDate o'<1912-11-28>",
+    "9" : "s(Otto_Brahm) dbo:deathPlace o'<Berlin>",
+    "10" : "s(Otto_Brahm) dbo:deathPlace o'<Germany>",
+    "11" : "s(Otto_Brahm) dbo:deathYear o'<1912>",
+    "12" : "s(Otto_Brahm) dbo:nationality o'<Germany>",
+    "13" : "s(Otto_Brahm) dbo:occupation o'<Otto_Brahm__1>",
+    "14" : "s(Otto_Brahm) dbo:stateOfOrigin o'<Germany>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11391",
+  "entityUrl" : "http://dbpedia.org/resource/Onni_Palaste",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Onni_Palaste) dbo:birthDate o'<1917-12-27>",
+    "2" : "s(Onni_Palaste) dbo:deathDate o'<2009-7-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11392",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Vasilievich_Bremer",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Otto_Vasilievich_Bremer) dbo:birthDate o'<1812-1-1>",
+    "2" : "s(Otto_Vasilievich_Bremer) dbo:deathDate o'<1873-11-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11393",
+  "entityUrl" : "http://dbpedia.org/resource/Ovonramwen",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11394",
+  "entityUrl" : "http://dbpedia.org/resource/Ozolua",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Ozolua) dbo:activeYearsEndYear o'<1514>",
+    "2" : "s(Ozolua) dbo:activeYearsStartYear o'<1483>",
+    "3" : "s(Ozolua) dbo:deathDate o'<1504-0-0>",
+    "4" : "s(Ozolua) dbo:deathPlace o'<Benin_City>",
+    "5" : "s(Ozolua) dbo:parent o'<Ewuare>",
+    "6" : "s(Ozolua) dbo:successor o'<Esigie>",
+    "7" : "s(Ozolua) dbo:title o'<Oba of Benin>",
+    "8" : "s(Ozolua) dbp:predecessor o'<Olua>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ozolua=Ozolua) [important ] o'<oba=Oba_of_Benin>"
+  },
+  "abstract" : {
+    "3" : "ozolua<Ozolua> was an important oba<Oba_of_Benin> in both history of the kingdom of benin<Benin_City> and retains importance in the folklore and celebrations of the region\n"
+  }
+} ]

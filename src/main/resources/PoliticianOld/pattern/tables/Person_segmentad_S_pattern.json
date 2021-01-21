@@ -1,0 +1,148 @@
+[ {
+  "entityIndex" : "entity11249",
+  "entityUrl" : "http://dbpedia.org/resource/Stefan_Dennis",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Stefan_Dennis) dbo:activeYearsStartYear o'<1979>",
+    "2" : "s(Stefan_Dennis) dbo:birthDate o'<1958-10-30>",
+    "3" : "s(Stefan_Dennis) dbo:birthPlace o'<Victoria_(Australia)>",
+    "4" : "s(Stefan_Dennis) dbo:birthPlace o'<Australia>",
+    "5" : "s(Stefan_Dennis) dbo:birthPlace o'<Tawonga,_Victoria>",
+    "6" : "s(Stefan_Dennis) dbo:birthYear o'<1958>",
+    "7" : "s(Stefan_Dennis) dbo:imdbId o'<0219558>",
+    "8" : "s(Stefan_Dennis) dbo:occupation o'<Stefan_Dennis__1>",
+    "9" : "s(Stefan_Dennis) dbp:children o'<3>",
+    "10" : "s(Stefan_Dennis) dbp:name o'<Stefan Dennis>",
+    "11" : "s(Stefan_Dennis) dbp:spouse o'<Gail Easdale>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11250",
+  "entityUrl" : "http://dbpedia.org/resource/Syed_Kamal",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Syed_Kamal) dbo:activeYearsEndYear o'<2002>",
+    "2" : "s(Syed_Kamal) dbo:activeYearsStartYear o'<1945>",
+    "3" : "s(Syed_Kamal) dbo:birthDate o'<1934-04-27>",
+    "4" : "s(Syed_Kamal) dbo:birthDate o'<1934-4-27>",
+    "5" : "s(Syed_Kamal) dbo:birthPlace o'<Meerut>",
+    "6" : "s(Syed_Kamal) dbo:birthPlace o'<Uttar_Pradesh>",
+    "7" : "s(Syed_Kamal) dbo:birthPlace o'<British_Raj>",
+    "8" : "s(Syed_Kamal) dbo:birthYear o'<1934>",
+    "9" : "s(Syed_Kamal) dbo:deathDate o'<2009-10-01>",
+    "10" : "s(Syed_Kamal) dbo:deathDate o'<2009-10-1>",
+    "11" : "s(Syed_Kamal) dbo:deathPlace o'<Sindh>",
+    "12" : "s(Syed_Kamal) dbo:deathPlace o'<Karachi>",
+    "13" : "s(Syed_Kamal) dbo:deathPlace o'<Pakistan>",
+    "14" : "s(Syed_Kamal) dbo:deathYear o'<2009>",
+    "15" : "s(Syed_Kamal) dbo:imdbId o'<3852758>",
+    "16" : "s(Syed_Kamal) dbo:occupation o'<Film_director>",
+    "17" : "s(Syed_Kamal) dbo:occupation o'<Film_producer>",
+    "18" : "s(Syed_Kamal) dbo:occupation o'<Actor>",
+    "19" : "s(Syed_Kamal) dbo:occupation o'<Syed_Kamal__1>",
+    "20" : "s(Syed_Kamal) dbp:name o'<Syed Kamal>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(syed kamal=Syed_Kamal) [urdu   april 27 ] o'<actor=Actor>",
+    "2" : "s(syed kamal=Syed_Kamal) [worked in 4 bollywood ] o'<films=Film_producer>",
+    "3" : "s(syed kamal=Syed_Kamal) [popular ] o'<film=Film_director>",
+    "5" : "s(syed kamal=Syed_Kamal) [said people used to ] o'<raj=British_Raj>",
+    "6" : "s(syed kamal=Syed_Kamal) [used to practice ] o'<raj=British_Raj>",
+    "8" : "s(syed kamal=Syed_Kamal) [won nigar award special ] o'<film=Film_director>",
+    "9" : "s(syed kamal=Syed_Kamal) [began acting in ] o'<pakistan=Pakistan>"
+  },
+  "abstract" : {
+    "1" : "syed kamal<Syed_Kamal> (urdu: ø³ûœø¯ ú©ù…ø§ù„â€ž; april 27, 1934 â€“ october 1, 2009) was a pakistani syed kamal<Syed_Kamal>1 and tv actor<Actor>, producer<Film_producer> and director<Film_director>",
+    "2" : "syed kamal<Syed_Kamal> had worked in 4 bollywood films<Film_producer> before migrating to pakistan<Pakistan>\n",
+    "3" : "kamal<Syed_Kamal> was a popular film<Film_director> star<Actor> of in the 1960s and the 1970s",
+    "5" : "syed kamal<Syed_Kamal> once said, \"people used to mistake me for raj<British_Raj> kapoor while i was in bombay and syed kamal<Syed_Kamal> enjoyed it\"\n",
+    "6" : "in fact, according to pakistani script writer ali sufyan afaqi, kamal<Syed_Kamal> used to practice raj<British_Raj> kapoor's scenes in front of a mirror",
+    "8" : "syed kamal<Syed_Kamal> won a nigar award special award for film<Film_director> behan bhai (1968) , and also a nigar award 'lifetime achievement award' in 2000",
+    "9" : "after retirement from films<Film_producer>, syed kamal<Syed_Kamal> began acting in pakistan<Pakistan> television<Actor> dramas at fairly advanced age\n"
+  }
+}, {
+  "entityIndex" : "entity11251",
+  "entityUrl" : "http://dbpedia.org/resource/Sabiha_Khanum",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Sabiha_Khanum) dbo:activeYearsStartYear o'<1950>",
+    "2" : "s(Sabiha_Khanum) dbo:birthDate o'<1935-10-16>",
+    "3" : "s(Sabiha_Khanum) dbo:birthDate o'<1936-10-16>",
+    "4" : "s(Sabiha_Khanum) dbo:birthName o'<Mukhtar Begum>",
+    "5" : "s(Sabiha_Khanum) dbo:birthPlace o'<Gujrat_City>",
+    "6" : "s(Sabiha_Khanum) dbo:birthPlace o'<Punjab_(British_India)>",
+    "7" : "s(Sabiha_Khanum) dbo:birthPlace o'<British_India>",
+    "8" : "s(Sabiha_Khanum) dbo:birthPlace o'<Gujrat_city>",
+    "9" : "s(Sabiha_Khanum) dbo:birthYear o'<1935>",
+    "10" : "s(Sabiha_Khanum) dbo:imdbId o'<3845073>",
+    "11" : "s(Sabiha_Khanum) dbo:spouse o'<Syed_Musa_Raza>",
+    "12" : "s(Sabiha_Khanum) dbp:children o'<Syed Ahsan Raza, Fareeha Shaharyar and Afia Chaudhry>",
+    "13" : "s(Sabiha_Khanum) dbp:imagesize o'<250>",
+    "14" : "s(Sabiha_Khanum) dbp:list o'<in 1986>",
+    "15" : "s(Sabiha_Khanum) dbp:name o'<Sabiha Khanum>",
+    "16" : "s(Sabiha_Khanum) dbp:parents o'<Muhammad Ali & Iqbal Bano>",
+    "17" : "s(Sabiha_Khanum) dbp:title o'<Awards for Sabiha Khanum>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(sabiha khanum=Sabiha_Khanum) [punjabi urdu   born ] o'<mukhtar begum=Mukhtar_Begum>"
+  },
+  "abstract" : {
+    "1" : "sabiha khanum<Sabiha_Khanum> (punjabi, urdu: øµø¨ûœø­û� ø®ø§ù†ù…â€ž, born mukhtar begum<Mukhtar_Begum>, 16 october 1935 in gujrat) is a pakistani film actress"
+  }
+}, {
+  "entityIndex" : "entity11252",
+  "entityUrl" : "http://dbpedia.org/resource/Svend_Asmussen",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Svend_Asmussen) dbo:activeYearsEndYear o'<2010>",
+    "2" : "s(Svend_Asmussen) dbo:activeYearsStartYear o'<1923>",
+    "3" : "s(Svend_Asmussen) dbo:background o'<non_vocal_instrumentalist>",
+    "4" : "s(Svend_Asmussen) dbo:birthDate o'<1916-02-28>",
+    "5" : "s(Svend_Asmussen) dbo:birthDate o'<1916-2-28>",
+    "6" : "s(Svend_Asmussen) dbo:birthPlace o'<Copenhagen>",
+    "7" : "s(Svend_Asmussen) dbo:birthPlace o'<Denmark>",
+    "8" : "s(Svend_Asmussen) dbo:genre o'<Jazz>",
+    "9" : "s(Svend_Asmussen) dbo:occupation o'<Violin>",
+    "10" : "s(Svend_Asmussen) dbp:imageSize o'<260>",
+    "11" : "s(Svend_Asmussen) dbp:imdbId o'<401341>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11253",
+  "entityUrl" : "http://dbpedia.org/resource/Suriya_Jungrungreangkit",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Suriya_Jungrungreangkit) dbo:birthDate o'<1954-12-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11254",
+  "entityUrl" : "http://dbpedia.org/resource/Shakti_Kapoor",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Shakti_Kapoor) dbo:activeYearsStartYear o'<1974>",
+    "2" : "s(Shakti_Kapoor) dbo:almaMater o'<Film_and_Television_Institute_of_India>",
+    "3" : "s(Shakti_Kapoor) dbo:almaMater o'<Kirori_Mal_College>",
+    "4" : "s(Shakti_Kapoor) dbo:birthDate o'<1958-09-03>",
+    "5" : "s(Shakti_Kapoor) dbo:birthDate o'<1958-9-3>",
+    "6" : "s(Shakti_Kapoor) dbo:birthName o'<Sunil Sikanderlal Kapoor>",
+    "7" : "s(Shakti_Kapoor) dbo:birthPlace o'<India>",
+    "8" : "s(Shakti_Kapoor) dbo:birthPlace o'<Delhi>",
+    "9" : "s(Shakti_Kapoor) dbo:birthYear o'<1958>",
+    "10" : "s(Shakti_Kapoor) dbo:child o'<Shraddha_Kapoor>",
+    "11" : "s(Shakti_Kapoor) dbo:child o'<Siddhanth_Kapoor>",
+    "12" : "s(Shakti_Kapoor) dbo:height o'<175.26>",
+    "13" : "s(Shakti_Kapoor) dbo:height o'<1.7526>",
+    "14" : "s(Shakti_Kapoor) dbo:occupation o'<Comedian>",
+    "15" : "s(Shakti_Kapoor) dbo:occupation o'<Actor>",
+    "16" : "s(Shakti_Kapoor) dbo:occupation o'<Shakti_Kapoor__1>",
+    "17" : "s(Shakti_Kapoor) dbo:relative o'<List_of_Hindi_film_clans>",
+    "18" : "s(Shakti_Kapoor) dbp:spouse o'<1982>",
+    "19" : "s(Shakti_Kapoor) dbp:spouse o'<Shivangi Kapoor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

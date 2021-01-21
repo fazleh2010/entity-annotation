@@ -1,0 +1,30 @@
+[ {
+  "entityIndex" : "entity10641",
+  "entityUrl" : "http://dbpedia.org/resource/@Andheri",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(@Andheri) dbo:director o'<Biju_Bhaskar_Nair>",
+    "2" : "s(@Andheri) dbo:language o'<Malayalam>",
+    "3" : "s(@Andheri) dbo:musicComposer o'<Abhishek_Ray>",
+    "4" : "s(@Andheri) dbo:musicComposer o'<Alphons_Joseph>",
+    "5" : "s(@Andheri) dbo:musicComposer o'<M_Jayachandran>",
+    "6" : "s(@Andheri) dbo:starring o'<Sreenivasan_(actor)>",
+    "7" : "s(@Andheri) dbo:starring o'<Aparna_Nair>",
+    "8" : "s(@Andheri) dbo:starring o'<Biyon>",
+    "9" : "s(@Andheri) dbo:starring o'<Bineesh_Kodiyeri>",
+    "10" : "s(@Andheri) dbo:starring o'<Atul_Kulkarni_(actor_born_1965)>",
+    "11" : "s(@Andheri) dbo:starring o'<Disney_James>",
+    "12" : "s(@Andheri) dbo:writer o'<Biju_Bhaskar_Nair>",
+    "13" : "s(@Andheri) dbp:cinematography o'<Muhammed Rubyz>",
+    "14" : "s(@Andheri) dbp:country o'<India>",
+    "15" : "s(@Andheri) dbp:distributor o'<Damor Cinema>",
+    "16" : "s(@Andheri) dbp:editing o'<Raja Mohammed>",
+    "17" : "s(@Andheri) dbp:genre o'<Film>",
+    "18" : "s(@Andheri) dbp:producer o'<Santhosh Damodaran>",
+    "19" : "s(@Andheri) dbp:story o'<Biju_Bhaskar_Nair>",
+    "20" : "s(@Andheri) dbp:studio o'<Damor Cinema>",
+    "21" : "s(@Andheri) dbp:type o'<Soundtrack>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

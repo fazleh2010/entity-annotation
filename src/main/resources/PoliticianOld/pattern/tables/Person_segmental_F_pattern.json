@@ -1,0 +1,113 @@
+[ {
+  "entityIndex" : "entity11650",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Collindridge",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Frank_Collindridge) dbo:birthDate o'<1891-0-0>",
+    "2" : "s(Frank_Collindridge) dbo:country o'<United_Kingdom>",
+    "3" : "s(Frank_Collindridge) dbo:deathDate o'<1951-10-16>",
+    "4" : "s(Frank_Collindridge) dbo:party o'<Labor_Party_(UK)>",
+    "5" : "s(Frank_Collindridge) dbp:after o'<Sir_Roger_Conant,_1st_Baronet>",
+    "6" : "s(Frank_Collindridge) dbp:after o'<Sidney_Schofield>",
+    "7" : "s(Frank_Collindridge) dbp:before o'<John_Potts_(UK_politician)>",
+    "8" : "s(Frank_Collindridge) dbp:before o'<Michael_Stewart,_Baron_Stewart_of_Fulham>",
+    "9" : "s(Frank_Collindridge) dbp:title o'<Comptroller_of_the_Household>",
+    "10" : "s(Frank_Collindridge) dbp:title o'<'''>",
+    "11" : "s(Frank_Collindridge) dbp:title o'<Member of Parliament for Barnsley>",
+    "12" : "s(Frank_Collindridge) dbp:years o'<1938>",
+    "13" : "s(Frank_Collindridge) dbp:years o'<'''1946&ndash;1951>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(frank collindridge=Frank_Collindridge) [government whip with ] o'<comptroller=Comptroller_of_the_Household>"
+  },
+  "abstract" : {
+    "3" : "in clement attlee's post-war labour government frank collindridge<Frank_Collindridge> was a government whip, with the formal titles of lord of the treasury from 1945 to 1946, and comptroller<Comptroller_of_the_Household> of the household from 1946 to 1951\n"
+  }
+}, {
+  "entityIndex" : "entity11651",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Augustus_Wetherall",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Frederick_Augustus_Wetherall) dbo:birthDate o'<1754-1-1>",
+    "2" : "s(Frederick_Augustus_Wetherall) dbo:deathDate o'<1842-1-1>",
+    "3" : "s(Frederick_Augustus_Wetherall) dbp:after o'<Sir_Archibald_Campbell,_1st_Baronet>",
+    "4" : "s(Frederick_Augustus_Wetherall) dbp:before o'<Samuel_Hulse>",
+    "5" : "s(Frederick_Augustus_Wetherall) dbp:title o'<Governor_of_Blackness_Castle>",
+    "6" : "s(Frederick_Augustus_Wetherall) dbp:title o'<Colonel of 17th (Leicestershire) Regiment>",
+    "7" : "s(Frederick_Augustus_Wetherall) dbp:title o'<Colonel of the 62nd (Wiltshire) Regiment of Foot>",
+    "8" : "s(Frederick_Augustus_Wetherall) dbp:years o'<1830>",
+    "9" : "s(Frederick_Augustus_Wetherall) dbp:years o'<1837>",
+    "10" : "s(Frederick_Augustus_Wetherall) dbp:years o'<1840>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11652",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_May",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Fred_May) dbo:birthDate o'<1917-0-0>",
+    "2" : "s(Fred_May) dbo:country o'<Australia>",
+    "3" : "s(Fred_May) dbo:deathDate o'<1945-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11653",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Mackenzie_Ross",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Frank_Mackenzie_Ross) dbo:birthDate o'<1891-04-19>",
+    "2" : "s(Frank_Mackenzie_Ross) dbo:birthDate o'<1891-4-19>",
+    "3" : "s(Frank_Mackenzie_Ross) dbo:birthPlace o'<Scotland>",
+    "4" : "s(Frank_Mackenzie_Ross) dbo:birthPlace o'<Glasgow>",
+    "5" : "s(Frank_Mackenzie_Ross) dbo:deathDate o'<1971-12-11>",
+    "6" : "s(Frank_Mackenzie_Ross) dbo:deathPlace o'<Vancouver>",
+    "7" : "s(Frank_Mackenzie_Ross) dbo:deathPlace o'<Vancouver,_British_Columbia>",
+    "8" : "s(Frank_Mackenzie_Ross) dbo:monarch o'<Elizabeth_II>",
+    "9" : "s(Frank_Mackenzie_Ross) dbo:office o'<Lieutenant Governor of British Columbia>",
+    "10" : "s(Frank_Mackenzie_Ross) dbo:orderInOffice o'<19th>",
+    "11" : "s(Frank_Mackenzie_Ross) dbo:predecessor o'<Clarence_Wallace>",
+    "12" : "s(Frank_Mackenzie_Ross) dbo:relation o'<John_Turner>",
+    "13" : "s(Frank_Mackenzie_Ross) dbo:spouse o'<Phyllis_Ross>",
+    "14" : "s(Frank_Mackenzie_Ross) dbo:successor o'<George_Pearkes>",
+    "15" : "s(Frank_Mackenzie_Ross) dbo:termPeriod o'<Frank_Mackenzie_Ross__1>",
+    "16" : "s(Frank_Mackenzie_Ross) dbp:children o'<2>",
+    "17" : "s(Frank_Mackenzie_Ross) dbp:governorGeneral o'<Georges_Vanier>",
+    "18" : "s(Frank_Mackenzie_Ross) dbp:governorGeneral o'<Vincent_Massey>",
+    "19" : "s(Frank_Mackenzie_Ross) dbp:nationality o'<Canadian>",
+    "20" : "s(Frank_Mackenzie_Ross) dbp:occupation o'<Businessman, financier>",
+    "21" : "s(Frank_Mackenzie_Ross) dbp:premier o'<W._A._C._Bennett>",
+    "22" : "s(Frank_Mackenzie_Ross) dbp:profession o'<Soldier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11654",
+  "entityUrl" : "http://dbpedia.org/resource/Frances_Ward",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Frances_Ward) dbo:birthDate o'<1912-1-22>",
+    "2" : "s(Frances_Ward) dbo:deathDate o'<1987-6-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11655",
+  "entityUrl" : "http://dbpedia.org/resource/Fabio_Baldas",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Fabio_Baldas) dbo:birthDate o'<1949-3-19>",
+    "2" : "s(Fabio_Baldas) dbo:birthPlace o'<Trieste>",
+    "3" : "s(Fabio_Baldas) dbp:birthDate o'<1949-03-19>",
+    "4" : "s(Fabio_Baldas) dbp:birthPlace o'<Trieste, Italy>",
+    "5" : "s(Fabio_Baldas) dbp:confederation o'<FIFAâ€“listed>",
+    "6" : "s(Fabio_Baldas) dbp:internationalrole o'<Referee>",
+    "7" : "s(Fabio_Baldas) dbp:internationalyears o'<1991>",
+    "8" : "s(Fabio_Baldas) dbp:league o'<Serie_A>",
+    "9" : "s(Fabio_Baldas) dbp:role o'<Referee>",
+    "10" : "s(Fabio_Baldas) dbp:years o'<1985>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

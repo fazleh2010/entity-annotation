@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity14086",
+  "entityUrl" : "http://dbpedia.org/resource/Catherine_Sampson",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Catherine_Sampson) dbo:birthDate o'<1962-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14087",
+  "entityUrl" : "http://dbpedia.org/resource/Carlo_Vanvitelli",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Carlo_Vanvitelli) dbo:birthDate o'<1739-1-1>",
+    "2" : "s(Carlo_Vanvitelli) dbo:birthPlace o'<Naples>",
+    "3" : "s(Carlo_Vanvitelli) dbo:deathDate o'<1821-1-1>",
+    "4" : "s(Carlo_Vanvitelli) dbo:deathPlace o'<Naples>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14088",
+  "entityUrl" : "http://dbpedia.org/resource/Carlos_Bastos",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Carlos_Bastos) dbo:birthDate o'<1925-1-1>",
+    "2" : "s(Carlos_Bastos) dbo:deathDate o'<2004-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14089",
+  "entityUrl" : "http://dbpedia.org/resource/Craig_Muller",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Craig_Muller) dbo:birthDate o'<1961-6-7>",
+    "2" : "s(Craig_Muller) dbo:country o'<Australia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14090",
+  "entityUrl" : "http://dbpedia.org/resource/Clyde_Hefer",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Clyde_Hefer) dbo:birthDate o'<1961-4-12>",
+    "2" : "s(Clyde_Hefer) dbo:country o'<Australia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14091",
+  "entityUrl" : "http://dbpedia.org/resource/Clymer_Wright",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Clymer_Wright) dbo:almaMater o'<University_of_Southern_Mississippi>",
+    "2" : "s(Clymer_Wright) dbo:birthDate o'<1932-07-24>",
+    "3" : "s(Clymer_Wright) dbo:birthDate o'<1932-7-24>",
+    "4" : "s(Clymer_Wright) dbo:birthName o'<Clymer Lewis Wright, Jr.>",
+    "5" : "s(Clymer_Wright) dbo:birthYear o'<1932>",
+    "6" : "s(Clymer_Wright) dbo:deathDate o'<2011-01-24>",
+    "7" : "s(Clymer_Wright) dbo:deathDate o'<2011-1-24>",
+    "8" : "s(Clymer_Wright) dbo:deathPlace o'<Houston>",
+    "9" : "s(Clymer_Wright) dbo:deathPlace o'<Texas>",
+    "10" : "s(Clymer_Wright) dbo:deathYear o'<2011>",
+    "11" : "s(Clymer_Wright) dbo:nationality o'<United_States>",
+    "12" : "s(Clymer_Wright) dbo:occupation o'<Business>",
+    "13" : "s(Clymer_Wright) dbo:occupation o'<Journalist>",
+    "14" : "s(Clymer_Wright) dbo:occupation o'<Clymer_Wright__1>",
+    "15" : "s(Clymer_Wright) dbo:party o'<Republican_Party_(United_States)>",
+    "16" : "s(Clymer_Wright) dbo:religion o'<Baptist>",
+    "17" : "s(Clymer_Wright) dbo:stateOfOrigin o'<United_States>",
+    "18" : "s(Clymer_Wright) dbp:children o'<Cindy W. Gabriel-Flynn>",
+    "19" : "s(Clymer_Wright) dbp:children o'<Clymer L. Wright, III>",
+    "20" : "s(Clymer_Wright) dbp:children o'<Linda W. Tomasetti>",
+    "21" : "s(Clymer_Wright) dbp:children o'<Stepdaughter Lisa Kay Baker>",
+    "22" : "s(Clymer_Wright) dbp:spouse o'<Mary Katherine Sheftall Wright>",
+    "23" : "s(Clymer_Wright) dbp:spouse o'<Sandra Jean Lee Wright>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

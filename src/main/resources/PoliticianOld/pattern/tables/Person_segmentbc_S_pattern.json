@@ -1,0 +1,115 @@
+[ {
+  "entityIndex" : "entity14513",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Ashe_(MP)",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Samuel_Ashe_(MP)) dbo:deathDate o'<1708-0-0>",
+    "2" : "s(Samuel_Ashe_(MP)) dbp:after o'<Not represented in Restored Rump>",
+    "3" : "s(Samuel_Ashe_(MP)) dbp:before o'<Not represented in Second Protectorate Parliament>",
+    "4" : "s(Samuel_Ashe_(MP)) dbp:title o'<Member of Parliament for Heytesbury>",
+    "5" : "s(Samuel_Ashe_(MP)) dbp:with o'<John_Ashe_(MP_for_Hindon)>",
+    "6" : "s(Samuel_Ashe_(MP)) dbp:years o'<1659>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14514",
+  "entityUrl" : "http://dbpedia.org/resource/Sylvain_Girard",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Sylvain_Girard) dbo:birthDate o'<1975-10-03>",
+    "2" : "s(Sylvain_Girard) dbo:birthDate o'<1975-10-3>",
+    "3" : "s(Sylvain_Girard) dbo:birthPlace o'<Quebec>",
+    "4" : "s(Sylvain_Girard) dbo:birthPlace o'<Chicoutimi>",
+    "5" : "s(Sylvain_Girard) dbo:college o'<Concordia_University_(Quebec)>",
+    "6" : "s(Sylvain_Girard) dbo:height o'<1.8288>",
+    "7" : "s(Sylvain_Girard) dbo:position o'<Wide_receiver>",
+    "8" : "s(Sylvain_Girard) dbo:status o'<Retired>",
+    "9" : "s(Sylvain_Girard) dbo:team o'<Montreal_Alouettes>",
+    "10" : "s(Sylvain_Girard) dbo:weight o'<92.5344>",
+    "11" : "s(Sylvain_Girard) dbo:weight o'<92534.4>",
+    "12" : "s(Sylvain_Girard) dbp:cfl o'<119>",
+    "13" : "s(Sylvain_Girard) dbp:cfldraftedpick o'<5>",
+    "14" : "s(Sylvain_Girard) dbp:cfldraftedround o'<1>",
+    "15" : "s(Sylvain_Girard) dbp:cfldraftedteam o'<Montreal Alouettes>",
+    "16" : "s(Sylvain_Girard) dbp:cfldraftedyear o'<1999>",
+    "17" : "s(Sylvain_Girard) dbp:heightFt o'<6>",
+    "18" : "s(Sylvain_Girard) dbp:heightIn o'<0>",
+    "19" : "s(Sylvain_Girard) dbp:import o'<no>",
+    "20" : "s(Sylvain_Girard) dbp:name o'<Sylvain Girard>",
+    "21" : "s(Sylvain_Girard) dbp:playingTeam o'<Montreal_Alouettes>",
+    "22" : "s(Sylvain_Girard) dbp:playingYears o'<1999>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(sylvain girard=Sylvain_Girard) [born october 3 1975 ] o'<wide receiver=Wide_receiver>",
+    "2" : "s(sylvain girard=Sylvain_Girard) [won grey cup championship ] o'<alouettes=Montreal_Alouettes>",
+    "4" : "s(sylvain girard=Sylvain_Girard) [played cis football for ] o'<concordia=Concordia_University_(Quebec)>"
+  },
+  "abstract" : {
+    "1" : "sylvain girard<Sylvain_Girard> (born october 3, 1975) is a retired professional canadian football wide receiver<Wide_receiver> who played eight seasons for the montreal alouettes<Montreal_Alouettes> of the canadian football league",
+    "2" : "sylvain girard<Sylvain_Girard> won a grey cup championship with the alouettes<Montreal_Alouettes> in 2002\n",
+    "4" : "sylvain girard<Sylvain_Girard> played cis football for the concordia<Concordia_University_(Quebec)> stingers\n"
+  }
+}, {
+  "entityIndex" : "entity14515",
+  "entityUrl" : "http://dbpedia.org/resource/Sheila_Bridges",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14516",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Baldwyn",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Samuel_Baldwyn) dbp:after o'<Thomas_Mackworth>",
+    "2" : "s(Samuel_Baldwyn) dbp:after o'<Thomas Moor>",
+    "3" : "s(Samuel_Baldwyn) dbp:before o'<John Aston>",
+    "4" : "s(Samuel_Baldwyn) dbp:title o'<Member of Parliament for Ludlow>",
+    "5" : "s(Samuel_Baldwyn) dbp:with o'<Job_Charlton>",
+    "6" : "s(Samuel_Baldwyn) dbp:years o'<1659>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14517",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_W._Randolph",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Samuel_W._Randolph) dbo:birthDate o'<1872-12-05>",
+    "2" : "s(Samuel_W._Randolph) dbo:birthDate o'<1872-12-5>",
+    "3" : "s(Samuel_W._Randolph) dbo:birthPlace o'<Manitowoc,_Wisconsin>",
+    "4" : "s(Samuel_W._Randolph) dbo:deathDate o'<1941-0-0>",
+    "5" : "s(Samuel_W._Randolph) dbo:party o'<Democratic_Party_(United_States)>",
+    "6" : "s(Samuel_W._Randolph) dbp:deathDate o'<1941>",
+    "7" : "s(Samuel_W._Randolph) dbp:preceded o'<Norman_Knudson>",
+    "8" : "s(Samuel_W._Randolph) dbp:state o'<Wisconsin>",
+    "9" : "s(Samuel_W._Randolph) dbp:stateSenate o'<Wisconsin>",
+    "10" : "s(Samuel_W._Randolph) dbp:succeeded o'<Henry_Rollman>",
+    "11" : "s(Samuel_W._Randolph) dbp:termEnd o'<1914>",
+    "12" : "s(Samuel_W._Randolph) dbp:termStart o'<1903>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14518",
+  "entityUrl" : "http://dbpedia.org/resource/Steve_Brill",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Steve_Brill) dbo:activeYearsStartYear o'<1981>",
+    "2" : "s(Steve_Brill) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Steve_Brill) dbo:birthPlace o'<New_York_City,_New_York>",
+    "4" : "s(Steve_Brill) dbo:occupation o'<Steve_Brill__1>",
+    "5" : "s(Steve_Brill) dbo:occupation o'<Author>",
+    "6" : "s(Steve_Brill) dbo:occupation o'<Naturalist>",
+    "7" : "s(Steve_Brill) dbo:occupation o'<Environmental_educator>",
+    "8" : "s(Steve_Brill) dbp:alias o'<Wildman>",
+    "9" : "s(Steve_Brill) dbp:knownFor o'<New York City park forager>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(steve brill=Steve_Brill) [gained notoriety in 1986 ] o'<new york city's=New_York_City>"
+  },
+  "abstract" : {
+    "2" : "steve brill<Steve_Brill> gained notoriety in 1986, when steve brill<Steve_Brill> was arrested in new york city's<New_York_City> central park<New_York_City> for eating a dandelion\n"
+  }
+} ]

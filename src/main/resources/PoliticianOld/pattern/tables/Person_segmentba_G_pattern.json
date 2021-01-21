@@ -1,0 +1,54 @@
+[ {
+  "entityIndex" : "entity14110",
+  "entityUrl" : "http://dbpedia.org/resource/George_Groves_(American_football)",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(George_Groves_(American_football)) dbo:birthDate o'<1921-6-10>",
+    "2" : "s(George_Groves_(American_football)) dbo:deathDate o'<2011-7-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14111",
+  "entityUrl" : "http://dbpedia.org/resource/Gardner_F._Williams",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Gardner_F._Williams) dbo:birthDate o'<1842-3-14>",
+    "2" : "s(Gardner_F._Williams) dbo:deathDate o'<1922-8-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14112",
+  "entityUrl" : "http://dbpedia.org/resource/G%C3%A9rard_Vergnaud",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14113",
+  "entityUrl" : "http://dbpedia.org/resource/Gr%C3%A9gory_Anquetil",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14114",
+  "entityUrl" : "http://dbpedia.org/resource/Genc_Ruli",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Genc_Ruli) dbo:birthDate o'<1958-4-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14115",
+  "entityUrl" : "http://dbpedia.org/resource/Gary_Gullock",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Gary_Gullock) dbo:birthDate o'<1958-3-1>",
+    "2" : "s(Gary_Gullock) dbo:country o'<Australia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

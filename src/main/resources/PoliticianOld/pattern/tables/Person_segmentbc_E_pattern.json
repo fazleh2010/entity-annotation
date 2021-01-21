@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity14429",
+  "entityUrl" : "http://dbpedia.org/resource/Ellen_Brooks",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ellen_Brooks) dbo:birthDate o'<1946-2-3>",
+    "2" : "s(Ellen_Brooks) dbo:birthPlace o'<Los_Angeles>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ellen brooks=Ellen_Brooks) [began career on ] o'<west=Los_Angeles>",
+    "5" : "s(ellen brooks=Ellen_Brooks) [shown at museum ] o'<los angeles=Los_Angeles>"
+  },
+  "abstract" : {
+    "2" : "ellen brooks<Ellen_Brooks> began her career on the west<Los_Angeles> coast, and is associated with the los angeles-based<Los_Angeles> art community of the late 1960s and â€˜70s\n",
+    "5" : "ellen brooks<Ellen_Brooks> has shown at the museum of modern art (moma), the whitney museum of american art, the los angeles<Los_Angeles> museum of contemporary art, and the centre pompidou, and has worked in the permanent collections of the moma, the whitney, the national museum of american art, the getty museum, and others\n"
+  }
+}, {
+  "entityIndex" : "entity14430",
+  "entityUrl" : "http://dbpedia.org/resource/Eyesaw",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14431",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Wymarke",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Edward_Wymarke) dbo:deathDate o'<1634-9-30>",
+    "2" : "s(Edward_Wymarke) dbp:after o'<Sir John Davies>",
+    "3" : "s(Edward_Wymarke) dbp:after o'<John Hungerford>",
+    "4" : "s(Edward_Wymarke) dbp:after o'<Sir William Walter>",
+    "5" : "s(Edward_Wymarke) dbp:after o'<Edward Kerton>",
+    "6" : "s(Edward_Wymarke) dbp:after o'<General John Roberts>",
+    "7" : "s(Edward_Wymarke) dbp:after o'<Roger Manwood>",
+    "8" : "s(Edward_Wymarke) dbp:before o'<Thomas_Edmondes>",
+    "9" : "s(Edward_Wymarke) dbp:before o'<Rowland_Cotton>",
+    "10" : "s(Edward_Wymarke) dbp:before o'<Walter_Chetwynd_(died_1638)>",
+    "11" : "s(Edward_Wymarke) dbp:before o'<Nicholas_Tufton,_1st_Earl_of_Thanet>",
+    "12" : "s(Edward_Wymarke) dbp:before o'<Goddard_Pemberton>",
+    "13" : "s(Edward_Wymarke) dbp:before o'<Sharington Talbot>",
+    "14" : "s(Edward_Wymarke) dbp:title o'<Member of Parliament for Peterborough>",
+    "15" : "s(Edward_Wymarke) dbp:title o'<Member of Parliament for Chippenham>",
+    "16" : "s(Edward_Wymarke) dbp:title o'<Member of Parliament for Newcastle under Lyme>",
+    "17" : "s(Edward_Wymarke) dbp:with o'<Robert_Needham,_2nd_Viscount_Kilmorey>",
+    "18" : "s(Edward_Wymarke) dbp:with o'<Robert Berkeley>",
+    "19" : "s(Edward_Wymarke) dbp:with o'<Sharington Talbot 1597>",
+    "20" : "s(Edward_Wymarke) dbp:with o'<Sir Richard Cecil>",
+    "21" : "s(Edward_Wymarke) dbp:years o'<1597>",
+    "22" : "s(Edward_Wymarke) dbp:years o'<1604>",
+    "23" : "s(Edward_Wymarke) dbp:years o'<1614>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14432",
+  "entityUrl" : "http://dbpedia.org/resource/E._Vasu",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(E._Vasu) dbo:birthDate o'<1935-1-1>",
+    "2" : "s(E._Vasu) dbo:country o'<India>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14433",
+  "entityUrl" : "http://dbpedia.org/resource/Erica_Diamond",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Erica_Diamond) dbo:activeYearsStartYear o'<2009>",
+    "2" : "s(Erica_Diamond) dbo:birthDate o'<1975-04-07>",
+    "3" : "s(Erica_Diamond) dbo:birthDate o'<1975-4-7>",
+    "4" : "s(Erica_Diamond) dbo:birthName o'<Erica B Diamond>",
+    "5" : "s(Erica_Diamond) dbo:birthPlace o'<Fredericton>",
+    "6" : "s(Erica_Diamond) dbo:birthPlace o'<New_Brunswick>",
+    "7" : "s(Erica_Diamond) dbo:birthYear o'<1975>",
+    "8" : "s(Erica_Diamond) dbo:occupation o'<Erica_Diamond__1>",
+    "9" : "s(Erica_Diamond) dbo:occupation o'<Television_personality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14434",
+  "entityUrl" : "http://dbpedia.org/resource/Ewald_J._Schmeichel",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ewald_J._Schmeichel) dbo:birthDate o'<1889-1-1>",
+    "2" : "s(Ewald_J._Schmeichel) dbo:deathDate o'<1975-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

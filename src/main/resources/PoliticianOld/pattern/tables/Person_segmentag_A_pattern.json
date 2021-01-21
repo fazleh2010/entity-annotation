@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity10805",
+  "entityUrl" : "http://dbpedia.org/resource/Adolfo_Farsari",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Adolfo_Farsari) dbo:birthDate o'<1841-2-11>",
+    "2" : "s(Adolfo_Farsari) dbo:birthPlace o'<Vicenza>",
+    "3" : "s(Adolfo_Farsari) dbo:deathDate o'<1898-2-7>",
+    "4" : "s(Adolfo_Farsari) dbo:deathPlace o'<Vicenza>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10806",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_McLean",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Adam_McLean) dbo:birthDate o'<1948-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10807",
+  "entityUrl" : "http://dbpedia.org/resource/Arundel_Wrighte",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Arundel_Wrighte) dbo:birthDate o'<1804-1-1>",
+    "2" : "s(Arundel_Wrighte) dbo:deathDate o'<1887-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10808",
+  "entityUrl" : "http://dbpedia.org/resource/Al_Guest",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Al_Guest) dbo:imdbId o'<1375219>",
+    "2" : "s(Al_Guest) dbp:name o'<Al Guest>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10809",
+  "entityUrl" : "http://dbpedia.org/resource/Allan_L._Benson",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Allan_L._Benson) dbo:birthDate o'<1871-11-6>",
+    "2" : "s(Allan_L._Benson) dbo:birthPlace o'<Kent_County,_Michigan>",
+    "3" : "s(Allan_L._Benson) dbo:deathDate o'<1940-8-19>",
+    "4" : "s(Allan_L._Benson) dbo:deathPlace o'<Yonkers,_New_York>",
+    "5" : "s(Allan_L._Benson) dbp:after o'<Eugene_V._Debs>",
+    "6" : "s(Allan_L._Benson) dbp:before o'<Eugene_V._Debs>",
+    "7" : "s(Allan_L._Benson) dbp:title o'<Socialist Party of America Presidential candidate>",
+    "8" : "s(Allan_L._Benson) dbp:years o'<1916>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10810",
+  "entityUrl" : "http://dbpedia.org/resource/Ann_George",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ann_George) dbo:activeYearsEndYear o'<1989>",
+    "2" : "s(Ann_George) dbo:activeYearsStartYear o'<1930>",
+    "3" : "s(Ann_George) dbo:birthDate o'<1903-03-05>",
+    "4" : "s(Ann_George) dbo:birthDate o'<1903-3-5>",
+    "5" : "s(Ann_George) dbo:birthPlace o'<Smethwick>",
+    "6" : "s(Ann_George) dbo:birthPlace o'<West_Midlands_(county)>",
+    "7" : "s(Ann_George) dbo:birthYear o'<1903>",
+    "8" : "s(Ann_George) dbo:deathDate o'<1989-09-08>",
+    "9" : "s(Ann_George) dbo:deathDate o'<1989-9-8>",
+    "10" : "s(Ann_George) dbo:deathYear o'<1989>",
+    "11" : "s(Ann_George) dbo:imdbId o'<0313338>",
+    "12" : "s(Ann_George) dbo:occupation o'<Ann_George__1>",
+    "13" : "s(Ann_George) dbo:residence o'<Birmingham>",
+    "14" : "s(Ann_George) dbp:children o'<George Jr>",
+    "15" : "s(Ann_George) dbp:name o'<Ann George>",
+    "16" : "s(Ann_George) dbp:spouse o'<George Snape>",
+    "17" : "s(Ann_George) dbp:spouse o'<Gordon Buckingham>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

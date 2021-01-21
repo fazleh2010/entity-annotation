@@ -1,0 +1,74 @@
+[ {
+  "entityIndex" : "entity11401",
+  "entityUrl" : "http://dbpedia.org/resource/Quintiliano_de_Mesquita",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Quintiliano_de_Mesquita) dbo:birthDate o'<1918-0-0>",
+    "2" : "s(Quintiliano_de_Mesquita) dbo:deathDate o'<2000-10-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11402",
+  "entityUrl" : "http://dbpedia.org/resource/Quddus_(TV_personality)",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Quddus_(TV_personality)) dbo:activeYearsStartYear o'<1999>",
+    "2" : "s(Quddus_(TV_personality)) dbo:birthDate o'<1980-07-10>",
+    "3" : "s(Quddus_(TV_personality)) dbo:birthDate o'<1980-7-10>",
+    "4" : "s(Quddus_(TV_personality)) dbo:birthName o'<Benjamin Quddus Philippe>",
+    "5" : "s(Quddus_(TV_personality)) dbo:birthPlace o'<Ontario>",
+    "6" : "s(Quddus_(TV_personality)) dbo:birthPlace o'<Toronto>",
+    "7" : "s(Quddus_(TV_personality)) dbo:birthYear o'<1980>",
+    "8" : "s(Quddus_(TV_personality)) dbo:occupation o'<Quddus_(TV_personality)__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11403",
+  "entityUrl" : "http://dbpedia.org/resource/Q._D._Leavis",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Q._D._Leavis) dbo:birthDate o'<1906-12-7>",
+    "2" : "s(Q._D._Leavis) dbo:deathDate o'<1981-3-17>",
+    "3" : "s(Q._D._Leavis) dbo:deathPlace o'<Cambridge>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11404",
+  "entityUrl" : "http://dbpedia.org/resource/Quartinus",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Quartinus) dbo:activeYearsEndYear o'<0235>",
+    "2" : "s(Quartinus) dbo:activeYearsStartYear o'<0235>",
+    "3" : "s(Quartinus) dbo:deathDate o'<235-1-1>",
+    "4" : "s(Quartinus) dbo:deathPlace o'<Mesopotamia_(Roman_province)>",
+    "5" : "s(Quartinus) dbo:title o'<Usurperof theRoman Empire>",
+    "6" : "s(Quartinus) dbp:deathDate o'<235>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11405",
+  "entityUrl" : "http://dbpedia.org/resource/Qaem_Amrohvi",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Qaem_Amrohvi) dbo:birthDate o'<1919-0-0>",
+    "2" : "s(Qaem_Amrohvi) dbo:deathDate o'<1990-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11406",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Jackson",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Quentin_Jackson) dbo:birthDate o'<1909-1-13>",
+    "2" : "s(Quentin_Jackson) dbo:birthPlace o'<Springfield,_Ohio>",
+    "3" : "s(Quentin_Jackson) dbo:deathDate o'<1976-10-2>",
+    "4" : "s(Quentin_Jackson) dbo:deathPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity11231",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Harvie",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Patrick_Harvie) dbo:almaMater o'<Manchester_Metropolitan_University>",
+    "2" : "s(Patrick_Harvie) dbo:birthDate o'<1973-03-18>",
+    "3" : "s(Patrick_Harvie) dbo:birthDate o'<1973-3-18>",
+    "4" : "s(Patrick_Harvie) dbo:birthPlace o'<Dunbartonshire>",
+    "5" : "s(Patrick_Harvie) dbo:birthPlace o'<Vale_of_Leven>",
+    "6" : "s(Patrick_Harvie) dbo:party o'<Scottish_Green_Party>",
+    "7" : "s(Patrick_Harvie) dbo:termPeriod o'<Patrick_Harvie__1>",
+    "8" : "s(Patrick_Harvie) dbp:constituencyMp o'<Glasgow_(Scottish_Parliament_electoral_region)>",
+    "9" : "s(Patrick_Harvie) dbp:honorificSuffix o'<Member_of_the_Scottish_Parliament>",
+    "10" : "s(Patrick_Harvie) dbp:imagesize o'<250>",
+    "11" : "s(Patrick_Harvie) dbp:parliament o'<Scottish>",
+    "12" : "s(Patrick_Harvie) dbp:title o'<Co-Convener of the Scottish Green Party>",
+    "13" : "s(Patrick_Harvie) dbp:with o'<Maggie Chapman 2013â€“present>",
+    "14" : "s(Patrick_Harvie) dbp:with o'<Martha Wardrop 2008â€“2013>",
+    "15" : "s(Patrick_Harvie) dbp:years o'<2008>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11232",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Vogt",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Paul_Vogt) dbo:birthDate o'<1964-12-16>",
+    "2" : "s(Paul_Vogt) dbo:birthPlace o'<United_States>",
+    "3" : "s(Paul_Vogt) dbo:birthPlace o'<Buffalo,_New_York>",
+    "4" : "s(Paul_Vogt) dbo:birthYear o'<1964>",
+    "5" : "s(Paul_Vogt) dbo:occupation o'<Paul_Vogt__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11233",
+  "entityUrl" : "http://dbpedia.org/resource/Pete_O'Neal",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Pete_O'Neal) dbo:birthDate o'<1940-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11234",
+  "entityUrl" : "http://dbpedia.org/resource/Pia_Gjellerup",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Pia_Gjellerup) dbo:birthDate o'<1959-8-22>",
+    "2" : "s(Pia_Gjellerup) dbp:after o'<Thor_Pedersen>",
+    "3" : "s(Pia_Gjellerup) dbp:after o'<Erling_Olsen>",
+    "4" : "s(Pia_Gjellerup) dbp:after o'<Ole_Stavad>",
+    "5" : "s(Pia_Gjellerup) dbp:before o'<Jan_TrÃ¸jborg>",
+    "6" : "s(Pia_Gjellerup) dbp:before o'<Hans_Engell>",
+    "7" : "s(Pia_Gjellerup) dbp:before o'<Mogens_Lykketoft>",
+    "8" : "s(Pia_Gjellerup) dbp:title o'<List_of_Finance_Ministers_of_Denmark>",
+    "9" : "s(Pia_Gjellerup) dbp:title o'<List_of_Justice_Ministers_of_Denmark>",
+    "10" : "s(Pia_Gjellerup) dbp:title o'<Minister_of_Trade_and_Industry_(Denmark)>",
+    "11" : "s(Pia_Gjellerup) dbp:years o'<--01-25>",
+    "12" : "s(Pia_Gjellerup) dbp:years o'<--03-23>",
+    "13" : "s(Pia_Gjellerup) dbp:years o'<--12-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11235",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Palnik",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Paul_Palnik) dbo:birthDate o'<1946-1-1>",
+    "2" : "s(Paul_Palnik) dbo:country o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11236",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Saffo",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Paul_Saffo) dbo:birthDate o'<1954-0-0>",
+    "2" : "s(Paul_Saffo) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

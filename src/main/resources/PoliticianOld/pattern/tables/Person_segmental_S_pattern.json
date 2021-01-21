@@ -1,0 +1,134 @@
+[ {
+  "entityIndex" : "entity11728",
+  "entityUrl" : "http://dbpedia.org/resource/Sam_Gardiner",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Sam_Gardiner) dbo:birthDate o'<1940-03-24>",
+    "2" : "s(Sam_Gardiner) dbo:birthDate o'<1940-3-24>",
+    "3" : "s(Sam_Gardiner) dbo:birthPlace o'<Northern_Ireland>",
+    "4" : "s(Sam_Gardiner) dbo:birthPlace o'<Lurgan>",
+    "5" : "s(Sam_Gardiner) dbo:nationality o'<United_Kingdom>",
+    "6" : "s(Sam_Gardiner) dbo:office o'<Northern Ireland>",
+    "7" : "s(Sam_Gardiner) dbo:party o'<Ulster_Unionist_Party>",
+    "8" : "s(Sam_Gardiner) dbo:predecessor o'<George_Savage_(politician)>",
+    "9" : "s(Sam_Gardiner) dbo:region o'<Upper_Bann_(Assembly_constituency)>",
+    "10" : "s(Sam_Gardiner) dbo:religion o'<Church_of_Ireland>",
+    "11" : "s(Sam_Gardiner) dbo:residence o'<Lurgan>",
+    "12" : "s(Sam_Gardiner) dbo:residence o'<County_Armagh>",
+    "13" : "s(Sam_Gardiner) dbo:successor o'<Doug_Beattie>",
+    "14" : "s(Sam_Gardiner) dbo:termPeriod o'<Sam_Gardiner__1>",
+    "15" : "s(Sam_Gardiner) dbp:after o'<Jonathan_Bell_(UK_politician)>",
+    "16" : "s(Sam_Gardiner) dbp:after o'<???>",
+    "17" : "s(Sam_Gardiner) dbp:after o'<Incumbent>",
+    "18" : "s(Sam_Gardiner) dbp:after o'<James Gillespie>",
+    "19" : "s(Sam_Gardiner) dbp:after o'<James McCammick>",
+    "20" : "s(Sam_Gardiner) dbp:before o'<Mary_Simpson_(Northern_Ireland_politician)>",
+    "21" : "s(Sam_Gardiner) dbp:before o'<George_Savage_(politician)>",
+    "22" : "s(Sam_Gardiner) dbp:before o'<???>",
+    "23" : "s(Sam_Gardiner) dbp:before o'<Fred Crowe>",
+    "24" : "s(Sam_Gardiner) dbp:before o'<Sydney Cairns>",
+    "25" : "s(Sam_Gardiner) dbp:children o'<Keith>",
+    "26" : "s(Sam_Gardiner) dbp:children o'<Clive>",
+    "27" : "s(Sam_Gardiner) dbp:honorificSuffix o'<Member_of_the_Order_of_the_British_Empire>",
+    "28" : "s(Sam_Gardiner) dbp:honorificSuffix o'<Justice_of_the_Peace>",
+    "29" : "s(Sam_Gardiner) dbp:imagesize o'<175>",
+    "30" : "s(Sam_Gardiner) dbp:spouse o'<Elizabeth Gardiner>",
+    "31" : "s(Sam_Gardiner) dbp:title o'<Mayor_of_Craigavon>",
+    "32" : "s(Sam_Gardiner) dbp:title o'<Mayor_of_Lurgan>",
+    "33" : "s(Sam_Gardiner) dbp:title o'<MLA for Upper Bann>",
+    "34" : "s(Sam_Gardiner) dbp:years o'<1968>",
+    "35" : "s(Sam_Gardiner) dbp:years o'<1982>",
+    "36" : "s(Sam_Gardiner) dbp:years o'<1988>",
+    "37" : "s(Sam_Gardiner) dbp:years o'<2001>",
+    "38" : "s(Sam_Gardiner) dbp:years o'<2003>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(sam gardiner=Sam_Gardiner) [elected to ] o'<northern ireland=Northern_Ireland>",
+    "5" : "s(sam gardiner=Sam_Gardiner) [serves on environmental leisure ] o'<uup=Ulster_Unionist_Party>",
+    "7" : "s(sam gardiner=Sam_Gardiner) [former high sheriff ] o'<county armagh=County_Armagh>"
+  },
+  "abstract" : {
+    "3" : "sam gardiner<Sam_Gardiner> was elected to the northern ireland<Northern_Ireland> forum and was party whip in the same in 1996-1998\n",
+    "5" : "sam gardiner<Sam_Gardiner> serves on the environmental, leisure services and public services liaison committees and is uup<Ulster_Unionist_Party> spokesperson on environment\n",
+    "7" : "sam gardiner<Sam_Gardiner> is a former high sheriff for county armagh<County_Armagh> and was appointed as a justice<Justice_of_the_Peace> of the peace\n"
+  }
+}, {
+  "entityIndex" : "entity11729",
+  "entityUrl" : "http://dbpedia.org/resource/Sabrina_Salvador",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Sabrina_Salvador) dbo:birthDate o'<1980-9-6>",
+    "2" : "s(Sabrina_Salvador) dbo:birthPlace o'<AnzoÃ¡tegui>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11730",
+  "entityUrl" : "http://dbpedia.org/resource/Spencer_Pumpelly",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Spencer_Pumpelly) dbo:birthDate o'<1974-12-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11731",
+  "entityUrl" : "http://dbpedia.org/resource/Sidney_Schofield",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Sidney_Schofield) dbo:birthDate o'<1911-3-22>",
+    "2" : "s(Sidney_Schofield) dbo:country o'<United_Kingdom>",
+    "3" : "s(Sidney_Schofield) dbo:deathDate o'<1992-1-1>",
+    "4" : "s(Sidney_Schofield) dbo:party o'<Labor_Party_(UK)>",
+    "5" : "s(Sidney_Schofield) dbp:after o'<Mick_McGahey>",
+    "6" : "s(Sidney_Schofield) dbp:after o'<Roy_Mason>",
+    "7" : "s(Sidney_Schofield) dbp:after o'<Owen_Briscoe>",
+    "8" : "s(Sidney_Schofield) dbp:before o'<Sam_Bullough>",
+    "9" : "s(Sidney_Schofield) dbp:before o'<Frank_Collindridge>",
+    "10" : "s(Sidney_Schofield) dbp:before o'<Fred_Collindridge>",
+    "11" : "s(Sidney_Schofield) dbp:title o'<Member of Parliament for Barnsley>",
+    "12" : "s(Sidney_Schofield) dbp:title o'<General Secretary of the Yorkshire Area of the National Union of Mineworkers>",
+    "13" : "s(Sidney_Schofield) dbp:title o'<Vice President of the National Union of Mineworkers>",
+    "14" : "s(Sidney_Schofield) dbp:years o'<1951>",
+    "15" : "s(Sidney_Schofield) dbp:years o'<1964>",
+    "16" : "s(Sidney_Schofield) dbp:years o'<1969>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11732",
+  "entityUrl" : "http://dbpedia.org/resource/Sergio_Caputo",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Sergio_Caputo) dbo:birthDate o'<1954-8-31>",
+    "2" : "s(Sergio_Caputo) dbo:birthPlace o'<Rome>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11733",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Roger_Conant,_1st_Baronet",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Sir_Roger_Conant,_1st_Baronet) dbo:birthDate o'<1899-5-28>",
+    "2" : "s(Sir_Roger_Conant,_1st_Baronet) dbo:deathDate o'<1973-3-30>",
+    "3" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:after o'<George_Benson_(politician)>",
+    "4" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:after o'<Tam_Galbraith>",
+    "5" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:after o'<Kenneth_Lewis>",
+    "6" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:before o'<George_Benson_(politician)>",
+    "7" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:before o'<Gilbert_Heathcote-Drummond-Willoughby,_3rd_Earl_of_Ancaster>",
+    "8" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:before o'<Frank_Collindridge>",
+    "9" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:title o'<Comptroller_of_the_Household>",
+    "10" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:title o'<Conant_baronets>",
+    "11" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:title o'<Member of Parliament for Bewdley>",
+    "12" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:title o'<Member of Parliament for Chesterfield>",
+    "13" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:title o'<Member of Parliament for Rutland and Stamford>",
+    "14" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:years o'<1931>",
+    "15" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:years o'<1937>",
+    "16" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:years o'<1950>",
+    "17" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:years o'<1951>",
+    "18" : "s(Sir_Roger_Conant,_1st_Baronet) dbp:years o'<1954>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

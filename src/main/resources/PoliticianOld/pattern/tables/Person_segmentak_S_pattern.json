@@ -1,0 +1,88 @@
+[ {
+  "entityIndex" : "entity11566",
+  "entityUrl" : "http://dbpedia.org/resource/Seth_Adkins",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Seth_Adkins) dbo:activeYearsStartYear o'<1996>",
+    "2" : "s(Seth_Adkins) dbo:birthDate o'<1989-10-30>",
+    "3" : "s(Seth_Adkins) dbo:birthName o'<Seth Elijah Adkins>",
+    "4" : "s(Seth_Adkins) dbo:birthPlace o'<Albuquerque,_New_Mexico>",
+    "5" : "s(Seth_Adkins) dbo:birthYear o'<1989>",
+    "6" : "s(Seth_Adkins) dbo:occupation o'<Seth_Adkins__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11567",
+  "entityUrl" : "http://dbpedia.org/resource/Stuart_Brace",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Stuart_Brace) dbo:birthDate o'<1942-9-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11568",
+  "entityUrl" : "http://dbpedia.org/resource/Sean_Slemon",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Sean_Slemon) dbo:birthDate o'<1978-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11569",
+  "entityUrl" : "http://dbpedia.org/resource/Suthivelu",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Suthivelu) dbo:birthDate o'<1947-08-07>",
+    "2" : "s(Suthivelu) dbo:birthDate o'<1947-8-7>",
+    "3" : "s(Suthivelu) dbo:birthName o'<Kurumaddali Lakshmi Narasimha Rao>",
+    "4" : "s(Suthivelu) dbo:birthPlace o'<Bhogireddipalle>",
+    "5" : "s(Suthivelu) dbo:birthPlace o'<British_Raj>",
+    "6" : "s(Suthivelu) dbo:birthPlace o'<Bhogireddypalli>",
+    "7" : "s(Suthivelu) dbo:birthYear o'<1947>",
+    "8" : "s(Suthivelu) dbo:deathDate o'<2012-09-16>",
+    "9" : "s(Suthivelu) dbo:deathDate o'<2012-9-16>",
+    "10" : "s(Suthivelu) dbo:deathPlace o'<Chennai>",
+    "11" : "s(Suthivelu) dbo:deathPlace o'<British_Raj>",
+    "12" : "s(Suthivelu) dbo:deathYear o'<2012>",
+    "13" : "s(Suthivelu) dbo:imdbId o'<0892742>",
+    "14" : "s(Suthivelu) dbp:name o'<Suthi Velu>",
+    "15" : "s(Suthivelu) dbp:notableRole o'<Pratighatana>",
+    "16" : "s(Suthivelu) dbp:spouse o'<Lakshmi Rajyam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11570",
+  "entityUrl" : "http://dbpedia.org/resource/Susan_Shirk",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Susan_Shirk) dbo:birthDate o'<1945-0-0>",
+    "2" : "s(Susan_Shirk) dbo:birthYear o'<1945>",
+    "3" : "s(Susan_Shirk) dbo:occupation o'<Susan_Shirk__1>",
+    "4" : "s(Susan_Shirk) dbo:spouse o'<Samuel_L._Popkin>",
+    "5" : "s(Susan_Shirk) dbp:almaMater o'<Massachusetts_Institute_of_Technology>",
+    "6" : "s(Susan_Shirk) dbp:almaMater o'<Mount_Holyoke_College>",
+    "7" : "s(Susan_Shirk) dbp:almaMater o'<University_of_California,_Berkeley>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(susan shirk=Susan_Shirk) [professor at ] o'<university of california=University_of_California,_Berkeley>"
+  },
+  "abstract" : {
+    "5" : "susan shirk<Susan_Shirk> is currently a professor at the school of global policy and strategy at the university of california<University_of_California,_Berkeley>, san diego\n"
+  }
+}, {
+  "entityIndex" : "entity11571",
+  "entityUrl" : "http://dbpedia.org/resource/Sylvain_Auguste_de_Marseul",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Sylvain_Auguste_de_Marseul) dbo:birthDate o'<1812-1-21>",
+    "2" : "s(Sylvain_Auguste_de_Marseul) dbo:birthPlace o'<Fougerolles-du-Plessis>",
+    "3" : "s(Sylvain_Auguste_de_Marseul) dbo:deathDate o'<1890-4-16>",
+    "4" : "s(Sylvain_Auguste_de_Marseul) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity12051",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Taverner",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Roger_Taverner) dbo:birthDate o'<1505-1-1>",
+    "2" : "s(Roger_Taverner) dbo:deathDate o'<1572-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12052",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Dokpesi",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Raymond_Dokpesi) dbo:birthDate o'<1951-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12053",
+  "entityUrl" : "http://dbpedia.org/resource/Reginar,_Duke_of_Lorraine",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Reginar,_Duke_of_Lorraine) dbo:birthDate o'<850-1-1>",
+    "2" : "s(Reginar,_Duke_of_Lorraine) dbo:deathDate o'<915-1-1>",
+    "3" : "s(Reginar,_Duke_of_Lorraine) dbo:deathPlace o'<Meerssen>",
+    "4" : "s(Reginar,_Duke_of_Lorraine) dbo:parent o'<Gilbert,_Count_of_the_Maasgau>",
+    "5" : "s(Reginar,_Duke_of_Lorraine) dbo:title o'<Duke of Lorraine>",
+    "6" : "s(Reginar,_Duke_of_Lorraine) dbo:title o'<Count of Hainaut>",
+    "7" : "s(Reginar,_Duke_of_Lorraine) dbp:after o'<Regnier_II,_Count_of_Hainaut>",
+    "8" : "s(Reginar,_Duke_of_Lorraine) dbp:after o'<Sigard,_Count_of_Hainaut>",
+    "9" : "s(Reginar,_Duke_of_Lorraine) dbp:after o'<Gilbert,_Duke_of_Lorraine>",
+    "10" : "s(Reginar,_Duke_of_Lorraine) dbp:before o'<Gebhard,_Duke_of_Lorraine>",
+    "11" : "s(Reginar,_Duke_of_Lorraine) dbp:before o'<Hagano,_Count_of_Hainaut>",
+    "12" : "s(Reginar,_Duke_of_Lorraine) dbp:before o'<title created>",
+    "13" : "s(Reginar,_Duke_of_Lorraine) dbp:birthDate o'<850>",
+    "14" : "s(Reginar,_Duke_of_Lorraine) dbp:deathDate o'<915>",
+    "15" : "s(Reginar,_Duke_of_Lorraine) dbp:issue o'<Reginar_II,_Count_of_Hainaut>",
+    "16" : "s(Reginar,_Duke_of_Lorraine) dbp:issue o'<Balderic_of_Utrecht>",
+    "17" : "s(Reginar,_Duke_of_Lorraine) dbp:issue o'<Gilbert,_Duke_of_Lorraine>",
+    "18" : "s(Reginar,_Duke_of_Lorraine) dbp:issue o'<Frederick,_Archbishop_of_Mainz>",
+    "19" : "s(Reginar,_Duke_of_Lorraine) dbp:issue o'<A Daughter>",
+    "20" : "s(Reginar,_Duke_of_Lorraine) dbp:nobleFamily o'<House_of_Reginar>",
+    "21" : "s(Reginar,_Duke_of_Lorraine) dbp:spouse o'<Hersinda>",
+    "22" : "s(Reginar,_Duke_of_Lorraine) dbp:title o'<Counts_of_Hainaut>",
+    "23" : "s(Reginar,_Duke_of_Lorraine) dbp:title o'<List_of_rulers_of_Lorraine>",
+    "24" : "s(Reginar,_Duke_of_Lorraine) dbp:titles o'<The Duke of Lorraine>",
+    "25" : "s(Reginar,_Duke_of_Lorraine) dbp:years o'<908>",
+    "26" : "s(Reginar,_Duke_of_Lorraine) dbp:years o'<910>",
+    "27" : "s(Reginar,_Duke_of_Lorraine) dbp:years o'<?â€“898>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12054",
+  "entityUrl" : "http://dbpedia.org/resource/Roy_Livingston",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Roy_Livingston) dbo:birthDate o'<1906-2-2>",
+    "2" : "s(Roy_Livingston) dbo:deathDate o'<1967-0-0>",
+    "3" : "s(Roy_Livingston) dbo:deathPlace o'<Manhattan>",
+    "4" : "s(Roy_Livingston) dbp:date o'<May 2013>",
+    "5" : "s(Roy_Livingston) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12055",
+  "entityUrl" : "http://dbpedia.org/resource/Ramesh_Garg",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12056",
+  "entityUrl" : "http://dbpedia.org/resource/Rumi_Hiiragi",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Rumi_Hiiragi) dbo:birthDate o'<1987-08-01>",
+    "2" : "s(Rumi_Hiiragi) dbo:birthDate o'<1987-8-1>",
+    "3" : "s(Rumi_Hiiragi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Rumi_Hiiragi) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Rumi_Hiiragi) dbo:birthPlace o'<Katsushika>",
+    "6" : "s(Rumi_Hiiragi) dbo:birthYear o'<1987>",
+    "7" : "s(Rumi_Hiiragi) dbo:occupation o'<Actress>",
+    "8" : "s(Rumi_Hiiragi) dbo:occupation o'<Rumi_Hiiragi__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

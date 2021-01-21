@@ -1,0 +1,79 @@
+[ {
+  "entityIndex" : "entity10761",
+  "entityUrl" : "http://dbpedia.org/resource/Urs_B%C3%BChler",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10762",
+  "entityUrl" : "http://dbpedia.org/resource/Urgulania",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Urgulania) dbo:birthDate o'<-100-1-1>",
+    "2" : "s(Urgulania) dbo:deathDate o'<100-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10763",
+  "entityUrl" : "http://dbpedia.org/resource/Urs_Vescoli",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Urs_Vescoli) dbo:birthDate o'<2000-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10764",
+  "entityUrl" : "http://dbpedia.org/resource/Ugolino_di_Nerio",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ugolino_di_Nerio) dbo:birthDate o'<1280-1-1>",
+    "2" : "s(Ugolino_di_Nerio) dbo:birthPlace o'<Siena>",
+    "3" : "s(Ugolino_di_Nerio) dbo:deathDate o'<1330-1-1>",
+    "4" : "s(Ugolino_di_Nerio) dbo:deathPlace o'<Siena>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10765",
+  "entityUrl" : "http://dbpedia.org/resource/Upton_Sheredine",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Upton_Sheredine) dbo:birthDate o'<1740-1-1>",
+    "2" : "s(Upton_Sheredine) dbo:birthPlace o'<Baltimore>",
+    "3" : "s(Upton_Sheredine) dbo:deathDate o'<1800-1-14>",
+    "4" : "s(Upton_Sheredine) dbp:after o'<Gabriel_Christie_(Maryland)>",
+    "5" : "s(Upton_Sheredine) dbp:before o'<Daniel_Carroll>",
+    "6" : "s(Upton_Sheredine) dbp:title o'<United_States_House_of_Representatives,_Maryland_District_6>",
+    "7" : "s(Upton_Sheredine) dbp:years o'<1791>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(upton sheredine=Upton_Sheredine) [represented ] o'<maryland=Baltimore>",
+    "4" : "s(upton sheredine=Upton_Sheredine) [served delegate during ] o'<maryland=Baltimore>",
+    "5" : "s(upton sheredine=Upton_Sheredine) [served in ] o'<maryland=Baltimore>",
+    "7" : "s(upton sheredine=Upton_Sheredine) [judge of frederick ] o'<maryland=Baltimore>",
+    "10" : "s(upton sheredine=Upton_Sheredine) [appointed commissioner of ] o'<maryland=Baltimore>",
+    "11" : "s(upton sheredine=Upton_Sheredine) [died on his estate midhill ] o'<maryland=Baltimore>"
+  },
+  "abstract" : {
+    "2" : "upton sheredine<Upton_Sheredine> represented maryland<Baltimore> at both the state and national level, and was a judge in several courts\n",
+    "4" : "upton sheredine<Upton_Sheredine> served as a delegate during the state constitutional convention in 1776, and one year later became a member of the maryland<Baltimore> house of delegates\n",
+    "5" : "upton sheredine<Upton_Sheredine> also served in the maryland<Baltimore> state senate from 1776 to 1781\n",
+    "7" : "upton sheredine<Upton_Sheredine> was judge of the frederick county, maryland<Baltimore> court of appeals in 1777, a member of the special court which tried, convicted, and sentenced tories on july 25, 1781, was judge of the orphans court of frederick county, and an associate judge of the fifth judicial district in 1791\n",
+    "10" : "in 1798, upton sheredine<Upton_Sheredine> was appointed commissioner of the fourth division of maryland<Baltimore> for the valuation of land and houses and the enumeration of slaves\n",
+    "11" : "upton sheredine<Upton_Sheredine> died on his estate, midhill, near liberty, maryland<Baltimore>, and is interred in a private cemetery on his estate\n"
+  }
+}, {
+  "entityIndex" : "entity10766",
+  "entityUrl" : "http://dbpedia.org/resource/Unsuri",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Unsuri) dbo:birthDate o'<980-1-1>",
+    "2" : "s(Unsuri) dbo:birthPlace o'<Balkh>",
+    "3" : "s(Unsuri) dbo:deathDate o'<1039-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

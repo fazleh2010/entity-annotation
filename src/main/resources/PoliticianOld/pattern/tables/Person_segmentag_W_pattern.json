@@ -1,0 +1,127 @@
+[ {
+  "entityIndex" : "entity10937",
+  "entityUrl" : "http://dbpedia.org/resource/William_Engseth",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(William_Engseth) dbo:birthDate o'<1933-8-1>",
+    "2" : "s(William_Engseth) dbp:after o'<Kjell_Borgen>",
+    "3" : "s(William_Engseth) dbp:after o'<Lars_Gunnar_Lie>",
+    "4" : "s(William_Engseth) dbp:before o'<Kjell_Borgen>",
+    "5" : "s(William_Engseth) dbp:before o'<Leif_Haraldseth>",
+    "6" : "s(William_Engseth) dbp:title o'<Minister_of_Local_Government_and_Regional_Development_(Norway)>",
+    "7" : "s(William_Engseth) dbp:title o'<Minister_of_Transport_and_Communications_(Norway)>",
+    "8" : "s(William_Engseth) dbp:years o'<1987>",
+    "9" : "s(William_Engseth) dbp:years o'<1988>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(william engseth=William_Engseth) [appointed minister of local ] o'<minister of transport=Minister_of_Transport_and_Communications_(Norway)>"
+  },
+  "abstract" : {
+    "2" : "william engseth<William_Engseth> was appointed minister of local government affairs in 1987, and in 1988 william engseth<William_Engseth> became minister of transport<Minister_of_Transport_and_Communications_(Norway)> and communications 1988-1989\n"
+  }
+}, {
+  "entityIndex" : "entity10938",
+  "entityUrl" : "http://dbpedia.org/resource/Wilhelm_J._Burger",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Wilhelm_J._Burger) dbo:birthDate o'<1844-3-15>",
+    "2" : "s(Wilhelm_J._Burger) dbo:birthPlace o'<Vienna>",
+    "3" : "s(Wilhelm_J._Burger) dbo:deathDate o'<1920-3-7>",
+    "4" : "s(Wilhelm_J._Burger) dbo:deathPlace o'<Vienna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10939",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_A._Brown",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Walter_A._Brown) dbo:birthDate o'<1905-02-10>",
+    "2" : "s(Walter_A._Brown) dbo:birthDate o'<1905-2-10>",
+    "3" : "s(Walter_A._Brown) dbo:birthPlace o'<United_States>",
+    "4" : "s(Walter_A._Brown) dbo:birthPlace o'<Hopkinton,_Massachusetts>",
+    "5" : "s(Walter_A._Brown) dbo:birthPlace o'<Massachusetts>",
+    "6" : "s(Walter_A._Brown) dbo:birthPlace o'<Boston>",
+    "7" : "s(Walter_A._Brown) dbo:birthYear o'<1905>",
+    "8" : "s(Walter_A._Brown) dbo:deathDate o'<1964-09-07>",
+    "9" : "s(Walter_A._Brown) dbo:deathDate o'<1964-9-7>",
+    "10" : "s(Walter_A._Brown) dbo:deathYear o'<1964>",
+    "11" : "s(Walter_A._Brown) dbo:knownFor o'<Boston_Celtics>",
+    "12" : "s(Walter_A._Brown) dbo:nationality o'<United_States>",
+    "13" : "s(Walter_A._Brown) dbo:occupation o'<Basketball>",
+    "14" : "s(Walter_A._Brown) dbo:occupation o'<Ice_hockey>",
+    "15" : "s(Walter_A._Brown) dbo:occupation o'<Walter_A._Brown__1>",
+    "16" : "s(Walter_A._Brown) dbo:stateOfOrigin o'<United_States>",
+    "17" : "s(Walter_A._Brown) dbp:after o'<Louis_Pieri>",
+    "18" : "s(Walter_A._Brown) dbp:after o'<Bunny_Ahearne>",
+    "19" : "s(Walter_A._Brown) dbp:after o'<Red_Auerbach>",
+    "20" : "s(Walter_A._Brown) dbp:after o'<Weston_Adams>",
+    "21" : "s(Walter_A._Brown) dbp:after o'<Louis Pieri and Marjorie Brown>",
+    "22" : "s(Walter_A._Brown) dbp:before o'<Boston_Garden-Arena_Corporation>",
+    "23" : "s(Walter_A._Brown) dbp:before o'<Weston_Adams>",
+    "24" : "s(Walter_A._Brown) dbp:before o'<Fritz_Kraatz>",
+    "25" : "s(Walter_A._Brown) dbp:before o'<First>",
+    "26" : "s(Walter_A._Brown) dbp:title o'<Boston Celtics principal owner>",
+    "27" : "s(Walter_A._Brown) dbp:title o'<President of the Boston Bruins>",
+    "28" : "s(Walter_A._Brown) dbp:title o'<President of the IIHF>",
+    "29" : "s(Walter_A._Brown) dbp:title o'<Boston Celtics general manager>",
+    "30" : "s(Walter_A._Brown) dbp:title o'<President of the Boston Celtics>",
+    "31" : "s(Walter_A._Brown) dbp:years o'<1946>",
+    "32" : "s(Walter_A._Brown) dbp:years o'<1950>",
+    "33" : "s(Walter_A._Brown) dbp:years o'<1951>",
+    "34" : "s(Walter_A._Brown) dbp:years o'<1954>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10940",
+  "entityUrl" : "http://dbpedia.org/resource/William_Lindsay_(Kentucky_politician)",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(William_Lindsay_(Kentucky_politician)) dbo:birthDate o'<1835-09-04>",
+    "2" : "s(William_Lindsay_(Kentucky_politician)) dbo:birthDate o'<1835-9-4>",
+    "3" : "s(William_Lindsay_(Kentucky_politician)) dbo:birthPlace o'<Virginia>",
+    "4" : "s(William_Lindsay_(Kentucky_politician)) dbo:birthPlace o'<Lexington,_Virginia>",
+    "5" : "s(William_Lindsay_(Kentucky_politician)) dbo:deathDate o'<1909-10-15>",
+    "6" : "s(William_Lindsay_(Kentucky_politician)) dbo:deathPlace o'<Kentucky>",
+    "7" : "s(William_Lindsay_(Kentucky_politician)) dbo:deathPlace o'<Frankfort,_Kentucky>",
+    "8" : "s(William_Lindsay_(Kentucky_politician)) dbo:office o'<Member of theKentucky Senate>",
+    "9" : "s(William_Lindsay_(Kentucky_politician)) dbo:party o'<Democratic_Party_(United_States)>",
+    "10" : "s(William_Lindsay_(Kentucky_politician)) dbo:predecessor o'<John_G._Carlisle>",
+    "11" : "s(William_Lindsay_(Kentucky_politician)) dbo:region o'<Kentucky>",
+    "12" : "s(William_Lindsay_(Kentucky_politician)) dbo:seniority o'<United States Senator>",
+    "13" : "s(William_Lindsay_(Kentucky_politician)) dbo:signature o'<William Lindsay sig.jpg>",
+    "14" : "s(William_Lindsay_(Kentucky_politician)) dbo:successor o'<Joseph_Clay_Stiles_Blackburn>",
+    "15" : "s(William_Lindsay_(Kentucky_politician)) dbo:termPeriod o'<William_Lindsay_(Kentucky_politician)__1>",
+    "16" : "s(William_Lindsay_(Kentucky_politician)) dbp:after o'<Joseph_Clay_Stiles_Blackburn>",
+    "17" : "s(William_Lindsay_(Kentucky_politician)) dbp:alongside o'<Joseph_Clay_Stiles_Blackburn>",
+    "18" : "s(William_Lindsay_(Kentucky_politician)) dbp:alongside o'<William_Joseph_Deboe>",
+    "19" : "s(William_Lindsay_(Kentucky_politician)) dbp:before o'<John_Griffin_Carlisle>",
+    "20" : "s(William_Lindsay_(Kentucky_politician)) dbp:class o'<2>",
+    "21" : "s(William_Lindsay_(Kentucky_politician)) dbp:state o'<Kentucky>",
+    "22" : "s(William_Lindsay_(Kentucky_politician)) dbp:term o'<1867>",
+    "23" : "s(William_Lindsay_(Kentucky_politician)) dbp:years o'<1893>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10941",
+  "entityUrl" : "http://dbpedia.org/resource/William_Heath_Davis",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(William_Heath_Davis) dbo:birthDate o'<1822-1-1>",
+    "2" : "s(William_Heath_Davis) dbo:deathDate o'<1909-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10942",
+  "entityUrl" : "http://dbpedia.org/resource/William_Howard_Hay",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(William_Howard_Hay) dbo:birthDate o'<1866-1-1>",
+    "2" : "s(William_Howard_Hay) dbo:deathDate o'<1940-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity12081",
+  "entityUrl" : "http://dbpedia.org/resource/Winston_Gordon",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Winston_Gordon) dbo:birthDate o'<1976-11-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12082",
+  "entityUrl" : "http://dbpedia.org/resource/William_Edmund_Barrett",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(William_Edmund_Barrett) dbo:birthDate o'<1900-11-16>",
+    "2" : "s(William_Edmund_Barrett) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(William_Edmund_Barrett) dbo:deathDate o'<1986-9-14>",
+    "4" : "s(William_Edmund_Barrett) dbo:deathPlace o'<Denver>",
+    "5" : "s(William_Edmund_Barrett) dbp:id o'<William_E._Barrett>",
+    "6" : "s(William_Edmund_Barrett) dbp:name o'<William E. Barrett>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12083",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Zwolinski",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Walter_Zwolinski) dbo:activeYearsStartYear o'<1968>",
+    "2" : "s(Walter_Zwolinski) dbo:associatedBand o'<Brutus_(Canadian_band)>",
+    "3" : "s(Walter_Zwolinski) dbo:associatedMusicalArtist o'<Brutus_(Canadian_band)>",
+    "4" : "s(Walter_Zwolinski) dbo:background o'<solo_singer>",
+    "5" : "s(Walter_Zwolinski) dbo:birthDate o'<1946-01-01>",
+    "6" : "s(Walter_Zwolinski) dbo:birthDate o'<1946-1-1>",
+    "7" : "s(Walter_Zwolinski) dbo:birthPlace o'<Ontario>",
+    "8" : "s(Walter_Zwolinski) dbo:birthPlace o'<Toronto>",
+    "9" : "s(Walter_Zwolinski) dbo:genre o'<Pop_music>",
+    "10" : "s(Walter_Zwolinski) dbo:genre o'<Rock_music>",
+    "11" : "s(Walter_Zwolinski) dbo:recordLabel o'<A&M_Records>",
+    "12" : "s(Walter_Zwolinski) dbo:recordLabel o'<EMI_America_Records>",
+    "13" : "s(Walter_Zwolinski) dbp:instrument o'<Vocals, Keyboards>",
+    "14" : "s(Walter_Zwolinski) dbp:occupation o'<Singer>",
+    "15" : "s(Walter_Zwolinski) dbp:occupation o'<musician>",
+    "16" : "s(Walter_Zwolinski) dbp:occupation o'<songwriter>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(walter zwolinski=Walter_Zwolinski) [continues to record perform ] o'<toronto=Toronto>"
+  },
+  "abstract" : {
+    "4" : "walter zwolinski<Walter_Zwolinski> continues to record and perform live in the toronto<Toronto> region\n"
+  }
+}, {
+  "entityIndex" : "entity12084",
+  "entityUrl" : "http://dbpedia.org/resource/Walt_Miller",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Walt_Miller) dbo:birthDate o'<1915-07-30>",
+    "2" : "s(Walt_Miller) dbo:birthDate o'<1915-7-30>",
+    "3" : "s(Walt_Miller) dbo:college o'<Duquesne_Dukes_men's_basketball>",
+    "4" : "s(Walt_Miller) dbo:deathDate o'<2001-1-21>",
+    "5" : "s(Walt_Miller) dbo:height o'<1.8796>",
+    "6" : "s(Walt_Miller) dbo:number o'<7>",
+    "7" : "s(Walt_Miller) dbo:position o'<Forward_(basketball)>",
+    "8" : "s(Walt_Miller) dbo:termPeriod o'<Walt_Miller__1>",
+    "9" : "s(Walt_Miller) dbo:termPeriod o'<Walt_Miller__2>",
+    "10" : "s(Walt_Miller) dbo:termPeriod o'<Walt_Miller__3>",
+    "11" : "s(Walt_Miller) dbo:termPeriod o'<Walt_Miller__4>",
+    "12" : "s(Walt_Miller) dbo:weight o'<86.184>",
+    "13" : "s(Walt_Miller) dbo:weight o'<86184.0>",
+    "14" : "s(Walt_Miller) dbp:bbr o'<millewa01>",
+    "15" : "s(Walt_Miller) dbp:deathDate o'<2001-01-21>",
+    "16" : "s(Walt_Miller) dbp:deathPlace o'<Lincoln Place, Pennsylvania>",
+    "17" : "s(Walt_Miller) dbp:heightFt o'<6>",
+    "18" : "s(Walt_Miller) dbp:heightIn o'<2>",
+    "19" : "s(Walt_Miller) dbp:highSchool o'<Homestead>",
+    "20" : "s(Walt_Miller) dbp:letter o'<m>",
+    "21" : "s(Walt_Miller) dbp:nationality o'<American>",
+    "22" : "s(Walt_Miller) dbp:team o'<Altoona Railroaders>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12085",
+  "entityUrl" : "http://dbpedia.org/resource/Warwick_Cairns",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Warwick_Cairns) dbo:birthDate o'<1962-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12086",
+  "entityUrl" : "http://dbpedia.org/resource/William_A._Neumann",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

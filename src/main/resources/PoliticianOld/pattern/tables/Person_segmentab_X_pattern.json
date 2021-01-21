@@ -1,0 +1,101 @@
+[ {
+  "entityIndex" : "entity10943",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Zhaoye",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Xiao_Zhaoye) dbo:birthDate o'<473-1-1>",
+    "2" : "s(Xiao_Zhaoye) dbo:deathDate o'<494-1-1>",
+    "3" : "s(Xiao_Zhaoye) dbp:after o'<Xiao_Zhaowen>",
+    "4" : "s(Xiao_Zhaoye) dbp:before o'<Emperor_Wu_of_Southern_Qi>",
+    "5" : "s(Xiao_Zhaoye) dbp:title o'<Emperor_of_Southern_Qi>",
+    "6" : "s(Xiao_Zhaoye) dbp:years o'<493>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(xiao zhaoye=Xiao_Zhaoye) [known overly devoting ] o'<xiao zhaowen=Xiao_Zhaowen>"
+  },
+  "abstract" : {
+    "3" : "during his brief reign, xiao zhaoye<Xiao_Zhaoye> was known as overly devoting his time on games and pleasure, unaware that the ambitious xiao luan had targeted him for removal, and after his death, xiao luan briefly made his brother xiao zhaowen<Xiao_Zhaowen> emperor, but then seized the throne himself\n"
+  }
+}, {
+  "entityIndex" : "entity10944",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Baojuan",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Xiao_Baojuan) dbo:birthDate o'<483-1-1>",
+    "2" : "s(Xiao_Baojuan) dbo:deathDate o'<501-1-1>",
+    "3" : "s(Xiao_Baojuan) dbp:after o'<Emperor_He_of_Southern_Qi>",
+    "4" : "s(Xiao_Baojuan) dbp:before o'<Emperor_Ming_of_Southern_Qi>",
+    "5" : "s(Xiao_Baojuan) dbp:title o'<Emperor_of_Southern_Qi>",
+    "6" : "s(Xiao_Baojuan) dbp:years o'<498>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10945",
+  "entityUrl" : "http://dbpedia.org/resource/Xunzi",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Xunzi) dbo:wikiPageDisambiguates o'<Xunzi_(book)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10946",
+  "entityUrl" : "http://dbpedia.org/resource/Xiang_of_Xia",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Xiang_of_Xia) dbo:birthName o'<ç›¸>",
+    "2" : "s(Xiang_of_Xia) dbo:child o'<Shaokang>",
+    "3" : "s(Xiang_of_Xia) dbo:parent o'<Zhong_Kang>",
+    "4" : "s(Xiang_of_Xia) dbo:relative o'<Tai_Kang>",
+    "5" : "s(Xiang_of_Xia) dbo:relative o'<Qi_of_Xia>",
+    "6" : "s(Xiang_of_Xia) dbp:spouse o'<Queen Ji>",
+    "7" : "s(Xiang_of_Xia) dbp:title o'<List_of_Chinese_monarchs>",
+    "8" : "s(Xiang_of_Xia) dbp:years o'<2075>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10947",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Dishan",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Xu_Dishan) dbo:birthDate o'<1893-2-3>",
+    "2" : "s(Xu_Dishan) dbo:birthPlace o'<Tainan>",
+    "3" : "s(Xu_Dishan) dbo:deathDate o'<1941-8-4>",
+    "4" : "s(Xu_Dishan) dbo:deathPlace o'<Hong_Kong>",
+    "5" : "s(Xu_Dishan) dbp:p o'<LuÃ² HuÃ¡shÄ“ng>",
+    "6" : "s(Xu_Dishan) dbp:p o'<XÇ” DÃ¬shÄ�n>",
+    "7" : "s(Xu_Dishan) dbp:t o'<è�½è�¯ç”Ÿ>",
+    "8" : "s(Xu_Dishan) dbp:t o'<è¨±åœ°å±±>",
+    "9" : "s(Xu_Dishan) dbp:w o'<HsÃ¼ Ti-shan>",
+    "10" : "s(Xu_Dishan) dbp:w o'<Lo Hua-sheng>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "11" : "s(xu dishan=Xu_Dishan) [appointed by ] o'<hong kong=Hong_Kong>",
+    "13" : "s(xu dishan=Xu_Dishan) [active in cultural ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "11" : "his association with hong kong<Hong_Kong> began in 1936 when xu dishan<Xu_Dishan> was appointed by hong kong<Hong_Kong> university to be dean of the department of chinese literature\n",
+    "13" : "xu dishan<Xu_Dishan> was also active in cultural circles in hong kong<Hong_Kong>, forming literature societies in hong kong<Hong_Kong>\n"
+  }
+}, {
+  "entityIndex" : "entity10948",
+  "entityUrl" : "http://dbpedia.org/resource/Xin_Qiji",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Xin_Qiji) dbo:birthDate o'<1140-5-28>",
+    "2" : "s(Xin_Qiji) dbo:deathDate o'<1207-1-1>",
+    "3" : "s(Xin_Qiji) dbp:altname o'<Jiaxuan>",
+    "4" : "s(Xin_Qiji) dbp:altname o'<You'an>",
+    "5" : "s(Xin_Qiji) dbp:c o'<å¹¼å®‰>",
+    "6" : "s(Xin_Qiji) dbp:p o'<JiÃ xuÄ�n>",
+    "7" : "s(Xin_Qiji) dbp:p o'<XÄ«n QÃ¬jÃ­>",
+    "8" : "s(Xin_Qiji) dbp:p o'<YÃ²u'Ä�n>",
+    "9" : "s(Xin_Qiji) dbp:t o'<ç¨¼è»’>",
+    "10" : "s(Xin_Qiji) dbp:t o'<è¾›æ£„ç–¾>",
+    "11" : "s(Xin_Qiji) dbp:w o'<Hsin Ch'i-chi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

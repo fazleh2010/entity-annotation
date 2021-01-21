@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity10865",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Freiherr_von_M%C3%BCffling",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10866",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Berger",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Karl_Berger) dbo:birthDate o'<1935-3-30>",
+    "2" : "s(Karl_Berger) dbo:birthPlace o'<Heidelberg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10867",
+  "entityUrl" : "http://dbpedia.org/resource/Kermit_Driscoll",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Kermit_Driscoll) dbo:birthDate o'<1956-3-4>",
+    "2" : "s(Kermit_Driscoll) dbo:birthPlace o'<Kearney,_Nebraska>",
+    "3" : "s(Kermit_Driscoll) dbp:title o'<Kermit Driscoll>",
+    "4" : "s(Kermit_Driscoll) dbp:user o'<kermitdriscoll>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10868",
+  "entityUrl" : "http://dbpedia.org/resource/Kurt_Hirsch",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Kurt_Hirsch) dbo:birthDate o'<1906-1-12>",
+    "2" : "s(Kurt_Hirsch) dbo:birthPlace o'<Berlin>",
+    "3" : "s(Kurt_Hirsch) dbo:deathDate o'<1986-11-4>",
+    "4" : "s(Kurt_Hirsch) dbo:deathPlace o'<London>",
+    "5" : "s(Kurt_Hirsch) dbp:id o'<Hirsch>",
+    "6" : "s(Kurt_Hirsch) dbp:title o'<Kurt Hirsch>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(kurt hirsch=Kurt_Hirsch) [taught at university of ] o'<london=LONDON>"
+  },
+  "abstract" : {
+    "4" : "kurt hirsch<Kurt_Hirsch> taught at the university of leicester from 1938 (except for a brief internment as an enemy alien in 1940), moved to king's college, newcastle in 1948, and then moved again to queen mary college in london<LONDON> in 1951, where kurt hirsch<Kurt_Hirsch> remained for the remainder of his career\n"
+  }
+}, {
+  "entityIndex" : "entity10869",
+  "entityUrl" : "http://dbpedia.org/resource/Kotono_Mitsuishi",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Kotono_Mitsuishi) dbo:activeYearsStartYear o'<1988>",
+    "2" : "s(Kotono_Mitsuishi) dbo:birthDate o'<1967-12-08>",
+    "3" : "s(Kotono_Mitsuishi) dbo:birthDate o'<1967-12-8>",
+    "4" : "s(Kotono_Mitsuishi) dbo:birthPlace o'<Tokyo>",
+    "5" : "s(Kotono_Mitsuishi) dbo:birthYear o'<1967>",
+    "6" : "s(Kotono_Mitsuishi) dbo:occupation o'<Kotono_Mitsuishi__1>",
+    "7" : "s(Kotono_Mitsuishi) dbo:occupation o'<Narrator>",
+    "8" : "s(Kotono_Mitsuishi) dbo:occupation o'<Voice_actress>",
+    "9" : "s(Kotono_Mitsuishi) dbp:credits o'<Neon Genesis Evangelion as Misato Katsuragi>",
+    "10" : "s(Kotono_Mitsuishi) dbp:credits o'<Sailor Moon>",
+    "11" : "s(Kotono_Mitsuishi) dbp:nativeName o'<ä¸‰çŸ³ ç�´ä¹ƒ>",
+    "12" : "s(Kotono_Mitsuishi) dbp:nativeNameLang o'<ja>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10870",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Wilhelm_Reinmuth",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Karl_Wilhelm_Reinmuth) dbo:birthDate o'<1892-4-4>",
+    "2" : "s(Karl_Wilhelm_Reinmuth) dbo:birthPlace o'<Heidelberg>",
+    "3" : "s(Karl_Wilhelm_Reinmuth) dbo:deathDate o'<1979-5-6>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(karl wilhelm reinmuth=Karl_Wilhelm_Reinmuth) [member at ] o'<heidelberg=Heidelberg>"
+  },
+  "abstract" : {
+    "3" : "karl wilhelm reinmuth<Karl_Wilhelm_Reinmuth> was a member at the minor planet group at ari between 1947 and 1950, and later became \"oberobservator\" or chief-observer at heidelberg<Heidelberg> observatory until his retirement in 1957\n"
+  }
+} ]

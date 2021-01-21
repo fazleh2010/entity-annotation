@@ -1,0 +1,19 @@
+[ {
+  "entityIndex" : "entity10798",
+  "entityUrl" : "http://dbpedia.org/resource/!Women_Art_Revolution",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(!Women_Art_Revolution) dbo:director o'<Lynn_Hershman_Leeson>",
+    "2" : "s(!Women_Art_Revolution) dbo:distributor o'<Zeitgeist_Films>",
+    "3" : "s(!Women_Art_Revolution) dbo:editing o'<Lynn_Hershman_Leeson>",
+    "4" : "s(!Women_Art_Revolution) dbo:musicComposer o'<Carrie_Brownstein>",
+    "5" : "s(!Women_Art_Revolution) dbo:producer o'<Lynn_Hershman_Leeson>",
+    "6" : "s(!Women_Art_Revolution) dbo:runtime o'<83.0>",
+    "7" : "s(!Women_Art_Revolution) dbo:runtime o'<4980.0>",
+    "8" : "s(!Women_Art_Revolution) dbo:writer o'<Lynn_Hershman_Leeson>",
+    "9" : "s(!Women_Art_Revolution) dbp:country o'<United States>",
+    "10" : "s(!Women_Art_Revolution) dbp:language o'<English>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

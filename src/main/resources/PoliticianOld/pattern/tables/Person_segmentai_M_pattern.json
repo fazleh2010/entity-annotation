@@ -1,0 +1,123 @@
+[ {
+  "entityIndex" : "entity11205",
+  "entityUrl" : "http://dbpedia.org/resource/Mokbula_Manzoor",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Mokbula_Manzoor) dbo:activeYearsEndYear o'<1997>",
+    "2" : "s(Mokbula_Manzoor) dbo:activeYearsStartYear o'<1968>",
+    "3" : "s(Mokbula_Manzoor) dbo:alias o'<Makbula Manzoor>",
+    "4" : "s(Mokbula_Manzoor) dbo:birthDate o'<1938-0-0>",
+    "5" : "s(Mokbula_Manzoor) dbo:birthPlace o'<Bangladesh>",
+    "6" : "s(Mokbula_Manzoor) dbo:birthYear o'<1938>",
+    "7" : "s(Mokbula_Manzoor) dbo:nationality o'<Bangladeshis>",
+    "8" : "s(Mokbula_Manzoor) dbo:occupation o'<Author>",
+    "9" : "s(Mokbula_Manzoor) dbo:occupation o'<Mokbula_Manzoor__1>",
+    "10" : "s(Mokbula_Manzoor) dbo:occupation o'<Novelist>",
+    "11" : "s(Mokbula_Manzoor) dbo:stateOfOrigin o'<Bangladeshis>",
+    "12" : "s(Mokbula_Manzoor) dbp:knownFor o'<Contributions to modern Bangladeshi literature>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(mokbula manzoor=Mokbula_Manzoor) [considered to ] o'<bangladeshi=Bangladeshis>"
+  },
+  "abstract" : {
+    "4" : "mokbula manzoor<Mokbula_Manzoor> is considered to be an outstanding bangladeshi<Bangladeshis> female writer<Author>, inspired by the events which led to the creation of the country<Bangladesh> in 1971\n"
+  }
+}, {
+  "entityIndex" : "entity11206",
+  "entityUrl" : "http://dbpedia.org/resource/Maurice_Laframboise",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Maurice_Laframboise) dbo:birthDate o'<1821-08-18>",
+    "2" : "s(Maurice_Laframboise) dbo:birthDate o'<1821-8-18>",
+    "3" : "s(Maurice_Laframboise) dbo:birthPlace o'<Lower_Canada>",
+    "4" : "s(Maurice_Laframboise) dbo:birthPlace o'<Montreal>",
+    "5" : "s(Maurice_Laframboise) dbo:deathDate o'<1882-02-01>",
+    "6" : "s(Maurice_Laframboise) dbo:deathDate o'<1882-2-1>",
+    "7" : "s(Maurice_Laframboise) dbo:deathPlace o'<Montreal>",
+    "8" : "s(Maurice_Laframboise) dbo:deathPlace o'<Quebec>",
+    "9" : "s(Maurice_Laframboise) dbo:office o'<Member of theLegislative Assembly of QuebecforShefford>",
+    "10" : "s(Maurice_Laframboise) dbo:party o'<Quebec_Liberal_Party>",
+    "11" : "s(Maurice_Laframboise) dbo:predecessor o'<Michel-Adrien_Bessette>",
+    "12" : "s(Maurice_Laframboise) dbo:successor o'<Joseph_Lafontaine_(Shefford_MLA)>",
+    "13" : "s(Maurice_Laframboise) dbo:termPeriod o'<Maurice_Laframboise__1>",
+    "14" : "s(Maurice_Laframboise) dbp:termEnd o'<1878>",
+    "15" : "s(Maurice_Laframboise) dbp:termStart o'<1871>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11207",
+  "entityUrl" : "http://dbpedia.org/resource/Masaki_Kaji",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Masaki_Kaji) dbo:birthDate o'<1988-01-29>",
+    "2" : "s(Masaki_Kaji) dbo:birthDate o'<1988-1-29>",
+    "3" : "s(Masaki_Kaji) dbo:birthName o'<Kaji Masaki>",
+    "4" : "s(Masaki_Kaji) dbo:birthName o'<åŠ æ²»å°†æ¨¹>",
+    "5" : "s(Masaki_Kaji) dbo:birthPlace o'<Tokyo,_Japan>",
+    "6" : "s(Masaki_Kaji) dbo:birthPlace o'<Tokyo>",
+    "7" : "s(Masaki_Kaji) dbo:birthYear o'<1988>",
+    "8" : "s(Masaki_Kaji) dbo:imdbId o'<2321980>",
+    "9" : "s(Masaki_Kaji) dbo:occupation o'<Singer>",
+    "10" : "s(Masaki_Kaji) dbo:occupation o'<Masaki_Kaji__1>",
+    "11" : "s(Masaki_Kaji) dbo:occupation o'<Actor>",
+    "12" : "s(Masaki_Kaji) dbp:after o'<Shinpei_Takagi_(actor,_born_1985)>",
+    "13" : "s(Masaki_Kaji) dbp:before o'<Moriyama_Eiji>",
+    "14" : "s(Masaki_Kaji) dbp:name o'<Masaki Kaji>",
+    "15" : "s(Masaki_Kaji) dbp:title o'<Takeshi Momoshiro in the Prince of Tennis Musicals>",
+    "16" : "s(Masaki_Kaji) dbp:years o'<2005>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11208",
+  "entityUrl" : "http://dbpedia.org/resource/Manju_Sarkar",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11209",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammad_Nurul_Huda",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Mohammad_Nurul_Huda) dbo:almaMater o'<University_of_Dhaka>",
+    "2" : "s(Mohammad_Nurul_Huda) dbo:birthDate o'<1949-09-30>",
+    "3" : "s(Mohammad_Nurul_Huda) dbo:birthDate o'<1949-1-1>",
+    "4" : "s(Mohammad_Nurul_Huda) dbo:birthPlace o'<Cox's_Bazar>",
+    "5" : "s(Mohammad_Nurul_Huda) dbo:birthPlace o'<East_Bengal>",
+    "6" : "s(Mohammad_Nurul_Huda) dbo:birthYear o'<1949>",
+    "7" : "s(Mohammad_Nurul_Huda) dbo:occupation o'<Mohammad_Nurul_Huda__1>",
+    "8" : "s(Mohammad_Nurul_Huda) dbp:education o'<MA>",
+    "9" : "s(Mohammad_Nurul_Huda) dbp:nativeName o'<à¦®à§�à¦¹à¦®à§�à¦®à¦¦ à¦¨à§�à¦°à§�à¦² à¦¹à§�à¦¦à¦¾>",
+    "10" : "s(Mohammad_Nurul_Huda) dbp:nativeNameLang o'<bn>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11210",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Uhrmann",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Michael_Uhrmann) dbo:birthDate o'<1978-09-16>",
+    "2" : "s(Michael_Uhrmann) dbo:birthDate o'<1978-9-16>",
+    "3" : "s(Michael_Uhrmann) dbo:birthPlace o'<Wegscheid,_Haut-Rhin>",
+    "4" : "s(Michael_Uhrmann) dbo:birthPlace o'<West_Germany>",
+    "5" : "s(Michael_Uhrmann) dbo:birthPlace o'<Wegscheid>",
+    "6" : "s(Michael_Uhrmann) dbo:height o'<181.0>",
+    "7" : "s(Michael_Uhrmann) dbo:height o'<1.81>",
+    "8" : "s(Michael_Uhrmann) dbp:id o'<62975>",
+    "9" : "s(Michael_Uhrmann) dbp:individualStarts o'<273>",
+    "10" : "s(Michael_Uhrmann) dbp:personalbest o'<(Planica, 20 Mar 2005)>",
+    "11" : "s(Michael_Uhrmann) dbp:personalbest o'<226 m>",
+    "12" : "s(Michael_Uhrmann) dbp:seasons o'<1995>",
+    "13" : "s(Michael_Uhrmann) dbp:teamStarts o'<31>",
+    "14" : "s(Michael_Uhrmann) dbp:teampodiums o'<17>",
+    "15" : "s(Michael_Uhrmann) dbp:teamwins o'<3>",
+    "16" : "s(Michael_Uhrmann) dbp:totalpodiums o'<14>",
+    "17" : "s(Michael_Uhrmann) dbp:updated o'<2016-02-10>",
+    "18" : "s(Michael_Uhrmann) dbp:wins o'<2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

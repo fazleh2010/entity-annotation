@@ -1,0 +1,57 @@
+[ {
+  "entityIndex" : "entity11458",
+  "entityUrl" : "http://dbpedia.org/resource/Antonio_Joseph_(artist)",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Antonio_Joseph_(artist)) dbo:birthDate o'<1921-1-1>",
+    "2" : "s(Antonio_Joseph_(artist)) dbo:birthPlace o'<Barahona,_Dominican_Republic>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11459",
+  "entityUrl" : "http://dbpedia.org/resource/Aleksandar_Ma%C4%87a%C5%A1ev",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11460",
+  "entityUrl" : "http://dbpedia.org/resource/Anne_Rhys,_7th_Duchess_of_Ciudad_Rodrigo",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Anne_Rhys,_7th_Duchess_of_Ciudad_Rodrigo) dbo:birthDate o'<1910-2-2>",
+    "2" : "s(Anne_Rhys,_7th_Duchess_of_Ciudad_Rodrigo) dbo:deathDate o'<1998-1-1>",
+    "3" : "s(Anne_Rhys,_7th_Duchess_of_Ciudad_Rodrigo) dbp:after o'<Gerald_Wellesley,_7th_Duke_of_Wellington>",
+    "4" : "s(Anne_Rhys,_7th_Duchess_of_Ciudad_Rodrigo) dbp:before o'<Henry_Wellesley,_6th_Duke_of_Wellington>",
+    "5" : "s(Anne_Rhys,_7th_Duchess_of_Ciudad_Rodrigo) dbp:title o'<Duke_of_Ciudad_Rodrigo>",
+    "6" : "s(Anne_Rhys,_7th_Duchess_of_Ciudad_Rodrigo) dbp:years o'<'''1943&ndash;1949>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11461",
+  "entityUrl" : "http://dbpedia.org/resource/Albert_Cullum",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Albert_Cullum) dbo:birthDate o'<1921-1-1>",
+    "2" : "s(Albert_Cullum) dbo:deathDate o'<2003-1-1>",
+    "3" : "s(Albert_Cullum) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11462",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Thompson_(swimming_coach)",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11463",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_Bozza",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

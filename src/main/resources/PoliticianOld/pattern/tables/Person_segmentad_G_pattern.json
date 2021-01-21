@@ -1,0 +1,114 @@
+[ {
+  "entityIndex" : "entity11177",
+  "entityUrl" : "http://dbpedia.org/resource/Gijs_de_Vries",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Gijs_de_Vries) dbo:birthDate o'<1956-2-22>",
+    "2" : "s(Gijs_de_Vries) dbo:birthPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11178",
+  "entityUrl" : "http://dbpedia.org/resource/Gojong_of_Goryeo",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Gojong_of_Goryeo) dbo:birthDate o'<1192-2-3>",
+    "2" : "s(Gojong_of_Goryeo) dbo:deathDate o'<1259-7-21>",
+    "3" : "s(Gojong_of_Goryeo) dbp:hangul o'<ê³ ì¢…>",
+    "4" : "s(Gojong_of_Goryeo) dbp:hanja o'<é«˜å®—>",
+    "5" : "s(Gojong_of_Goryeo) dbp:mr o'<Kojong>",
+    "6" : "s(Gojong_of_Goryeo) dbp:rr o'<Gojong>",
+    "7" : "s(Gojong_of_Goryeo) dbp:title o'<List_of_monarchs_of_Korea>",
+    "8" : "s(Gojong_of_Goryeo) dbp:years o'<1213>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11179",
+  "entityUrl" : "http://dbpedia.org/resource/Gabriel_Fran%C3%A7ois_Doyen",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11180",
+  "entityUrl" : "http://dbpedia.org/resource/Grant_Wilson",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Grant_Wilson) dbo:birthDate o'<1974-07-03>",
+    "2" : "s(Grant_Wilson) dbo:birthDate o'<1974-7-3>",
+    "3" : "s(Grant_Wilson) dbo:birthPlace o'<Providence,_Rhode_Island>",
+    "4" : "s(Grant_Wilson) dbo:birthYear o'<1974>",
+    "5" : "s(Grant_Wilson) dbo:occupation o'<Author>",
+    "6" : "s(Grant_Wilson) dbo:occupation o'<Paranormal_investigator>",
+    "7" : "s(Grant_Wilson) dbo:occupation o'<Television_producer>",
+    "8" : "s(Grant_Wilson) dbo:occupation o'<Presenter>",
+    "9" : "s(Grant_Wilson) dbo:occupation o'<Plumber>",
+    "10" : "s(Grant_Wilson) dbo:occupation o'<Grant_Wilson__1>",
+    "11" : "s(Grant_Wilson) dbo:occupation o'<Video_game_design>",
+    "12" : "s(Grant_Wilson) dbp:organization o'<The_Atlantic_Paranormal_Society>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(grant wilson=Grant_Wilson) [founded with michael richie now ] o'<rhode island=Providence,_Rhode_Island>",
+    "2" : "s(grant wilson=Grant_Wilson) [former star ] o'<co-producer=Television_producer>"
+  },
+  "abstract" : {
+    "1" : "grant steven wilson (born july 3, 1974) is an art director & developer for rather dashing games, a game company grant wilson<Grant_Wilson> founded with michael richie, (now a division of kalmbach publishing) and the co-founder of the atlantic paranormal society (taps), which is based in warwick, rhode island<Providence,_Rhode_Island>\n",
+    "2" : "grant wilson<Grant_Wilson> is also the former star and co-producer<Television_producer> of syfy's cable television<Television_producer> reality series, ghost hunters\n"
+  }
+}, {
+  "entityIndex" : "entity11181",
+  "entityUrl" : "http://dbpedia.org/resource/Giulia_Gam",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Giulia_Gam) dbo:birthDate o'<1966-12-28>",
+    "2" : "s(Giulia_Gam) dbo:birthPlace o'<Umbria>",
+    "3" : "s(Giulia_Gam) dbo:birthPlace o'<Italy>",
+    "4" : "s(Giulia_Gam) dbo:birthPlace o'<Perugia>",
+    "5" : "s(Giulia_Gam) dbo:birthYear o'<1966>",
+    "6" : "s(Giulia_Gam) dbo:imdbId o'<0303599>",
+    "7" : "s(Giulia_Gam) dbo:spouse o'<Pedro_Bial>",
+    "8" : "s(Giulia_Gam) dbp:children o'<ThÃ©o Bial>",
+    "9" : "s(Giulia_Gam) dbp:name o'<Giulia Gam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11182",
+  "entityUrl" : "http://dbpedia.org/resource/Gerard_John_Schaefer",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Gerard_John_Schaefer) dbo:alias o'<Jerry Shepherd>",
+    "2" : "s(Gerard_John_Schaefer) dbo:birthDate o'<1946-3-25>",
+    "3" : "s(Gerard_John_Schaefer) dbo:birthPlace o'<Wisconsin>",
+    "4" : "s(Gerard_John_Schaefer) dbo:deathDate o'<1995-12-3>",
+    "5" : "s(Gerard_John_Schaefer) dbo:deathPlace o'<Raiford,_Florida>",
+    "6" : "s(Gerard_John_Schaefer) dbp:apprehended o'<1973-04-07>",
+    "7" : "s(Gerard_John_Schaefer) dbp:beginyear o'<1969>",
+    "8" : "s(Gerard_John_Schaefer) dbp:birthDate o'<1946-03-25>",
+    "9" : "s(Gerard_John_Schaefer) dbp:birthName o'<Gerard John Schaefer, Jr.>",
+    "10" : "s(Gerard_John_Schaefer) dbp:birthPlace o'<Wisconsin>",
+    "11" : "s(Gerard_John_Schaefer) dbp:cause o'<Multiple stab wounds>",
+    "12" : "s(Gerard_John_Schaefer) dbp:conviction o'<Murder>",
+    "13" : "s(Gerard_John_Schaefer) dbp:country o'<United_States>",
+    "14" : "s(Gerard_John_Schaefer) dbp:deathDate o'<1995-12-03>",
+    "15" : "s(Gerard_John_Schaefer) dbp:deathPlace o'<Florida State Prison in Bradford County, Florida>",
+    "16" : "s(Gerard_John_Schaefer) dbp:endyear o'<1973>",
+    "17" : "s(Gerard_John_Schaefer) dbp:imprisoned o'<Florida_State_Prison>",
+    "18" : "s(Gerard_John_Schaefer) dbp:name o'<Gerard John Schaefer>",
+    "19" : "s(Gerard_John_Schaefer) dbp:sentence o'<Life_imprisonment>",
+    "20" : "s(Gerard_John_Schaefer) dbp:spouse o'<Martha Fogg>",
+    "21" : "s(Gerard_John_Schaefer) dbp:spouse o'<Teresa Dean>",
+    "22" : "s(Gerard_John_Schaefer) dbp:states o'<Florida>",
+    "23" : "s(Gerard_John_Schaefer) dbp:victims o'<2>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(gerard john schaefer=Gerard_John_Schaefer) [imprisoned in 1973 for ] o'<murders=Murder>",
+    "4" : "s(gerard john schaefer=Gerard_John_Schaefer) [convicted of two ] o'<murders=Murder>"
+  },
+  "abstract" : {
+    "3" : "gerard john schaefer<Gerard_John_Schaefer> was imprisoned in 1973 for murders<Murder> gerard john schaefer<Gerard_John_Schaefer> committed as a martin county, florida<Florida>, sheriff's deputy\n",
+    "4" : "while gerard john schaefer<Gerard_John_Schaefer> was convicted of two murders<Murder>, gerard john schaefer<Gerard_John_Schaefer> was suspected of many others<Murder>\n"
+  }
+} ]

@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity14170",
+  "entityUrl" : "http://dbpedia.org/resource/Qabus_ibn_al-Mundhir",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14171",
+  "entityUrl" : "http://dbpedia.org/resource/Quincy_Stewart",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Quincy_Stewart) dbo:birthDate o'<1978-3-27>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14172",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Jeongseong",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Queen_Jeongseong) dbo:birthDate o'<1692-12-7>",
+    "2" : "s(Queen_Jeongseong) dbo:deathDate o'<1757-2-15>",
+    "3" : "s(Queen_Jeongseong) dbp:after o'<Queen_Jeongsun>",
+    "4" : "s(Queen_Jeongseong) dbp:before o'<Queen_Seonui>",
+    "5" : "s(Queen_Jeongseong) dbp:title o'<Queen consort of Korea>",
+    "6" : "s(Queen_Jeongseong) dbp:years o'<1724>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14173",
+  "entityUrl" : "http://dbpedia.org/resource/Qusai_ibn_Kilab",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Qusai_ibn_Kilab) dbo:birthDate o'<400-1-1>",
+    "2" : "s(Qusai_ibn_Kilab) dbo:birthName o'<400>",
+    "3" : "s(Qusai_ibn_Kilab) dbo:child o'<Abd_Manaf_ibn_Qusai>",
+    "4" : "s(Qusai_ibn_Kilab) dbo:child o'<Abd-al-Dar_ibn_Qusai>",
+    "5" : "s(Qusai_ibn_Kilab) dbo:child o'<Abd-al-Uzza_ibn_Qusai>",
+    "6" : "s(Qusai_ibn_Kilab) dbo:deathDate o'<480-1-1>",
+    "7" : "s(Qusai_ibn_Kilab) dbo:deathYear o'<0480>",
+    "8" : "s(Qusai_ibn_Kilab) dbo:knownFor o'<Muhammad>",
+    "9" : "s(Qusai_ibn_Kilab) dbo:parent o'<Fatimah_bint_Sa'd>",
+    "10" : "s(Qusai_ibn_Kilab) dbo:parent o'<Kilab_ibn_Murrah>",
+    "11" : "s(Qusai_ibn_Kilab) dbo:relative o'<Zuhrah_ibn_Kilab>",
+    "12" : "s(Qusai_ibn_Kilab) dbo:spouse o'<Hubba_bint_Hulail>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14174",
+  "entityUrl" : "http://dbpedia.org/resource/Quautlatas",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Quautlatas) dbo:birthPlace o'<Tepehuanes>",
+    "2" : "s(Quautlatas) dbo:birthPlace o'<Tepehuanes,_Durango>",
+    "3" : "s(Quautlatas) dbo:deathPlace o'<Durango>",
+    "4" : "s(Quautlatas) dbo:nationality o'<TepehuÃ¡n>",
+    "5" : "s(Quautlatas) dbo:occupation o'<Religious>",
+    "6" : "s(Quautlatas) dbo:occupation o'<Quautlatas__1>",
+    "7" : "s(Quautlatas) dbo:stateOfOrigin o'<TepehuÃ¡n>",
+    "8" : "s(Quautlatas) dbp:birthDate o'<?>",
+    "9" : "s(Quautlatas) dbp:deathDate o'<?>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14175",
+  "entityUrl" : "http://dbpedia.org/resource/Qazi_Ghulam_Mustafa",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Qazi_Ghulam_Mustafa) dbo:activeYearsEndYear o'<0018>",
+    "2" : "s(Qazi_Ghulam_Mustafa) dbo:activeYearsStartYear o'<0017>",
+    "3" : "s(Qazi_Ghulam_Mustafa) dbo:birthPlace o'<Ferozepur_Jhirka>",
+    "4" : "s(Qazi_Ghulam_Mustafa) dbo:deathDate o'<1711-1-1>",
+    "5" : "s(Qazi_Ghulam_Mustafa) dbo:deathPlace o'<Ferozepur_Jhirka>",
+    "6" : "s(Qazi_Ghulam_Mustafa) dbo:placeOfBurial o'<Ferozepur_Jhirka>",
+    "7" : "s(Qazi_Ghulam_Mustafa) dbp:deathDate o'<AH 1123>",
+    "8" : "s(Qazi_Ghulam_Mustafa) dbp:father o'<Diwan Shaikh Asaf>",
+    "9" : "s(Qazi_Ghulam_Mustafa) dbp:house o'<Qadi>",
+    "10" : "s(Qazi_Ghulam_Mustafa) dbp:issue o'<Khan Zaman Khan Bahadur Ali Asghar>",
+    "11" : "s(Qazi_Ghulam_Mustafa) dbp:otherTitles o'<'Nawab Kar Talab Khan', Karoregiriâ€™ of the royal treasure, Khalat, Mansab Do Hazari , zaat wa sowar, responsibility of royal â€˜Amanatâ€™>",
+    "12" : "s(Qazi_Ghulam_Mustafa) dbp:religion o'<Islam>",
+    "13" : "s(Qazi_Ghulam_Mustafa) dbp:royalTitles o'<at Red Fort, Delhi>",
+    "14" : "s(Qazi_Ghulam_Mustafa) dbp:spouses o'<Bibi Rasti  daughter of Qazi Syed Rafi Mohammad.>",
+    "15" : "s(Qazi_Ghulam_Mustafa) dbp:successor o'<'Khan Zaman Khan Bahadur' Ali Asghar>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(qazi ghulam mustafa=Qazi_Ghulam_Mustafa) [emir belonged to ] o'<ferozepur jhirka=Ferozepur_Jhirka>"
+  },
+  "abstract" : {
+    "4" : "qazi ghulam mustafa<Qazi_Ghulam_Mustafa> was emir and belonged to ferozepur jhirka<Ferozepur_Jhirka>\n"
+  }
+} ]

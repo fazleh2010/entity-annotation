@@ -1,0 +1,70 @@
+[ {
+  "entityIndex" : "entity11985",
+  "entityUrl" : "http://dbpedia.org/resource/George_Jardine",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(George_Jardine) dbo:birthDate o'<1742-1-1>",
+    "2" : "s(George_Jardine) dbo:deathDate o'<1827-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11986",
+  "entityUrl" : "http://dbpedia.org/resource/George_Costigan",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(George_Costigan) dbo:activeYearsStartYear o'<1975>",
+    "2" : "s(George_Costigan) dbo:birthDate o'<1947-8-29>",
+    "3" : "s(George_Costigan) dbo:birthPlace o'<Hampshire>",
+    "4" : "s(George_Costigan) dbo:birthPlace o'<Portsmouth>",
+    "5" : "s(George_Costigan) dbo:imdbId o'<0182688>",
+    "6" : "s(George_Costigan) dbo:occupation o'<George_Costigan__1>",
+    "7" : "s(George_Costigan) dbp:name o'<George Costigan>",
+    "8" : "s(George_Costigan) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11987",
+  "entityUrl" : "http://dbpedia.org/resource/Georgi_Kizilashvili",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Georgi_Kizilashvili) dbo:birthDate o'<1983-3-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11988",
+  "entityUrl" : "http://dbpedia.org/resource/Gordon_Sheer",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Gordon_Sheer) dbo:birthDate o'<1971-6-9>",
+    "2" : "s(Gordon_Sheer) dbo:birthPlace o'<White_Plains,_New_York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11989",
+  "entityUrl" : "http://dbpedia.org/resource/Guy_Tillim",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Guy_Tillim) dbo:birthDate o'<1962-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11990",
+  "entityUrl" : "http://dbpedia.org/resource/Georgios_Lassanis",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Georgios_Lassanis) dbo:birthDate o'<1793-1-1>",
+    "2" : "s(Georgios_Lassanis) dbo:deathDate o'<1870-1-1>",
+    "3" : "s(Georgios_Lassanis) dbo:deathPlace o'<Athens>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "9" : "s(georgios lassanis=Georgios_Lassanis) [became general inspector of ] o'<greece=Athens>"
+  },
+  "abstract" : {
+    "9" : "after the establishment of the first greek state georgios lassanis<Georgios_Lassanis> became general inspector of the army of eastern greece<Athens>, and in 1837 georgios lassanis<Georgios_Lassanis> became finance minister\n"
+  }
+} ]

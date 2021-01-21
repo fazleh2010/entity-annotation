@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity11385",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Micou",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Paul_Micou) dbo:birthDate o'<1959-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11386",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Shapiro_(journalist)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Peter_Shapiro_(journalist)) dbo:nationality o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11387",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Waley",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11388",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Dupuis",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Pierre_Dupuis) dbo:birthDate o'<1610-3-3>",
+    "2" : "s(Pierre_Dupuis) dbo:birthPlace o'<Montfort-l'Amaury>",
+    "3" : "s(Pierre_Dupuis) dbo:deathDate o'<1682-1-1>",
+    "4" : "s(Pierre_Dupuis) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11389",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Jones_(athlete)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Patricia_Jones_(athlete)) dbo:birthDate o'<1930-10-16>",
+    "2" : "s(Patricia_Jones_(athlete)) dbo:birthPlace o'<New_Westminster>",
+    "3" : "s(Patricia_Jones_(athlete)) dbo:country o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11390",
+  "entityUrl" : "http://dbpedia.org/resource/Paavo_Korhonen",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Paavo_Korhonen) dbo:birthDate o'<1928-04-05>",
+    "2" : "s(Paavo_Korhonen) dbo:birthDate o'<1928-4-5>",
+    "3" : "s(Paavo_Korhonen) dbo:birthPlace o'<Finland>",
+    "4" : "s(Paavo_Korhonen) dbo:birthPlace o'<Joutseno>",
+    "5" : "s(Paavo_Korhonen) dbo:height o'<171.0>",
+    "6" : "s(Paavo_Korhonen) dbo:height o'<1.71>",
+    "7" : "s(Paavo_Korhonen) dbo:weight o'<78.0>",
+    "8" : "s(Paavo_Korhonen) dbo:weight o'<78000.0>",
+    "9" : "s(Paavo_Korhonen) dbp:club o'<Joutsenon Kullervo>",
+    "10" : "s(Paavo_Korhonen) dbp:id o'<31897>",
+    "11" : "s(Paavo_Korhonen) dbp:showMedals o'<yes>",
+    "12" : "s(Paavo_Korhonen) dbp:sport o'<Nordic_combined>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

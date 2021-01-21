@@ -1,0 +1,74 @@
+[ {
+  "entityIndex" : "entity11626",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Osborne",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Brian_Osborne) dbo:birthDate o'<1940-1-1>",
+    "2" : "s(Brian_Osborne) dbo:birthPlace o'<UK>",
+    "3" : "s(Brian_Osborne) dbo:birthPlace o'<England>",
+    "4" : "s(Brian_Osborne) dbo:birthPlace o'<Bath,_Somerset>",
+    "5" : "s(Brian_Osborne) dbo:birthPlace o'<Somerset>",
+    "6" : "s(Brian_Osborne) dbo:birthYear o'<1940>",
+    "7" : "s(Brian_Osborne) dbo:imdbId o'<0651623>",
+    "8" : "s(Brian_Osborne) dbp:imagesize o'<200>",
+    "9" : "s(Brian_Osborne) dbp:name o'<Brian Osborne>",
+    "10" : "s(Brian_Osborne) dbp:notableRole o'<Pearce in Upstairs, Downstairs>",
+    "11" : "s(Brian_Osborne) dbp:notableRole o'<Sam Lawes in The Sandbaggers>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11627",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Jackson_(director)",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Barry_Jackson_(director)) dbo:birthDate o'<1879-09-06>",
+    "2" : "s(Barry_Jackson_(director)) dbo:birthDate o'<1879-9-6>",
+    "3" : "s(Barry_Jackson_(director)) dbo:birthPlace o'<England>",
+    "4" : "s(Barry_Jackson_(director)) dbo:birthPlace o'<Kings_Norton>",
+    "5" : "s(Barry_Jackson_(director)) dbo:birthPlace o'<Worcestershire>",
+    "6" : "s(Barry_Jackson_(director)) dbo:deathDate o'<1961-04-03>",
+    "7" : "s(Barry_Jackson_(director)) dbo:deathDate o'<1961-4-3>",
+    "8" : "s(Barry_Jackson_(director)) dbo:deathPlace o'<England>",
+    "9" : "s(Barry_Jackson_(director)) dbo:deathPlace o'<Birmingham>",
+    "10" : "s(Barry_Jackson_(director)) dbo:nationality o'<England>",
+    "11" : "s(Barry_Jackson_(director)) dbp:occupation o'<Theatre Director, Entrepreneur>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11628",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Padarath",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ben_Padarath) dbo:birthDate o'<1970-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11629",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Stagner",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Bob_Stagner) dbo:birthDate o'<1957-7-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11630",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_O'Connor_(bassist)",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11631",
+  "entityUrl" : "http://dbpedia.org/resource/Bobby_Irvine_(footballer,_born_1900)",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Bobby_Irvine_(footballer,_born_1900)) dbo:birthDate o'<1900-4-29>",
+    "2" : "s(Bobby_Irvine_(footballer,_born_1900)) dbo:deathDate o'<1979-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

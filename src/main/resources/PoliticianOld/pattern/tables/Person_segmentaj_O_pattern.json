@@ -1,0 +1,71 @@
+[ {
+  "entityIndex" : "entity11379",
+  "entityUrl" : "http://dbpedia.org/resource/Ottar_Gjermundshaug",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Ottar_Gjermundshaug) dbo:birthDate o'<1925-1-23>",
+    "2" : "s(Ottar_Gjermundshaug) dbo:birthPlace o'<Alvdal>",
+    "3" : "s(Ottar_Gjermundshaug) dbo:deathDate o'<1963-4-10>",
+    "4" : "s(Ottar_Gjermundshaug) dbo:deathPlace o'<Alvdal>",
+    "5" : "s(Ottar_Gjermundshaug) dbp:id o'<20568>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11380",
+  "entityUrl" : "http://dbpedia.org/resource/Ole_Henrik_Fager%C3%A5s",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11381",
+  "entityUrl" : "http://dbpedia.org/resource/Oh_Eun-young",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Oh_Eun-young) dbo:birthDate o'<1985-1-1>",
+    "2" : "s(Oh_Eun-young) dbp:after o'<Sabrina Houssami>",
+    "3" : "s(Oh_Eun-young) dbp:before o'<Maria Karla Bautista>",
+    "4" : "s(Oh_Eun-young) dbp:title o'<Miss_World_Asia_Pacific>",
+    "5" : "s(Oh_Eun-young) dbp:years o'<2005>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11382",
+  "entityUrl" : "http://dbpedia.org/resource/Olivier_Galzi",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Olivier_Galzi) dbo:birthDate o'<1971-10-26>",
+    "2" : "s(Olivier_Galzi) dbo:birthPlace o'<Tunis>",
+    "3" : "s(Olivier_Galzi) dbo:birthPlace o'<Tunisia>",
+    "4" : "s(Olivier_Galzi) dbo:employer o'<I-TÃ©lÃ©>",
+    "5" : "s(Olivier_Galzi) dbo:imdbId o'<1682713>",
+    "6" : "s(Olivier_Galzi) dbo:nationality o'<France>",
+    "7" : "s(Olivier_Galzi) dbo:occupation o'<Olivier_Galzi__1>",
+    "8" : "s(Olivier_Galzi) dbo:stateOfOrigin o'<France>",
+    "9" : "s(Olivier_Galzi) dbp:birthName o'<1971-10-26>",
+    "10" : "s(Olivier_Galzi) dbp:name o'<Olivier Galzi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11383",
+  "entityUrl" : "http://dbpedia.org/resource/Olapade_Adeniken",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Olapade_Adeniken) dbo:birthDate o'<1969-8-19>",
+    "2" : "s(Olapade_Adeniken) dbo:birthPlace o'<Osogbo>",
+    "3" : "s(Olapade_Adeniken) dbp:id o'<23>",
+    "4" : "s(Olapade_Adeniken) dbp:name o'<Olapade Adeniken>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11384",
+  "entityUrl" : "http://dbpedia.org/resource/Ocidelus",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

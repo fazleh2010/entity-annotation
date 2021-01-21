@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity11403",
+  "entityUrl" : "http://dbpedia.org/resource/Sarah_Gainham",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Sarah_Gainham) dbo:birthDate o'<1915-10-1>",
+    "2" : "s(Sarah_Gainham) dbo:birthPlace o'<London>",
+    "3" : "s(Sarah_Gainham) dbo:deathDate o'<1999-11-24>",
+    "4" : "s(Sarah_Gainham) dbo:deathPlace o'<Petronell-Carnuntum>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11404",
+  "entityUrl" : "http://dbpedia.org/resource/Salvatore_Pansino",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Salvatore_Pansino) dbo:almaMater o'<Carnegie_Mellon_University>",
+    "2" : "s(Salvatore_Pansino) dbo:birthDate o'<1934-0-0>",
+    "3" : "s(Salvatore_Pansino) dbo:birthYear o'<1934>",
+    "4" : "s(Salvatore_Pansino) dbo:education o'<Electrical_Engineering>",
+    "5" : "s(Salvatore_Pansino) dbo:employer o'<Youngstown_State_University>",
+    "6" : "s(Salvatore_Pansino) dbo:occupation o'<Salvatore_Pansino__1>",
+    "7" : "s(Salvatore_Pansino) dbo:occupation o'<Professor>",
+    "8" : "s(Salvatore_Pansino) dbo:opponent o'<James_Traficant>",
+    "9" : "s(Salvatore_Pansino) dbo:party o'<Republican_Party_(United_States)>",
+    "10" : "s(Salvatore_Pansino) dbo:residence o'<Alliance,_Ohio>",
+    "11" : "s(Salvatore_Pansino) dbp:imageSize o'<220>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(salvatore pansino=Salvatore_Pansino) [ran against congressman ] o'<jim traficant=James_Traficant>",
+    "16" : "s(salvatore pansino=Salvatore_Pansino) [teaches in ] o'<electrical engineering=Electrical_engineering>"
+  },
+  "abstract" : {
+    "2" : "in 1992, salvatore pansino<Salvatore_Pansino> ran against congressman jim traficant<James_Traficant> as the republican candidate in ohio's 17th congressional district, losing the race\n",
+    "16" : "currently salvatore pansino<Salvatore_Pansino> teaches in the electrical engineering<Electrical_engineering> department of youngstown state university<Youngstown_State_University>\n"
+  }
+}, {
+  "entityIndex" : "entity11405",
+  "entityUrl" : "http://dbpedia.org/resource/Simmone_Jacobs",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Simmone_Jacobs) dbo:birthDate o'<1966-9-5>",
+    "2" : "s(Simmone_Jacobs) dbo:birthPlace o'<Reading,_Berkshire>",
+    "3" : "s(Simmone_Jacobs) dbp:id o'<62726>",
+    "4" : "s(Simmone_Jacobs) dbp:name o'<Simmone Jacobs>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11406",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Dale",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Samuel_Dale) dbo:alias o'<Daniel Boone of Alabama, Brigadier General Samuel Dale>",
+    "2" : "s(Samuel_Dale) dbo:birthDate o'<1772-0-0>",
+    "3" : "s(Samuel_Dale) dbo:birthPlace o'<Virginia>",
+    "4" : "s(Samuel_Dale) dbo:birthPlace o'<British_Empire>",
+    "5" : "s(Samuel_Dale) dbo:birthPlace o'<Colony_of_Virginia>",
+    "6" : "s(Samuel_Dale) dbo:birthPlace o'<Rockbridge_County,_Virginia>",
+    "7" : "s(Samuel_Dale) dbo:birthPlace o'<British_North_America>",
+    "8" : "s(Samuel_Dale) dbo:birthYear o'<1772>",
+    "9" : "s(Samuel_Dale) dbo:deathDate o'<1841-5-24>",
+    "10" : "s(Samuel_Dale) dbo:deathPlace o'<Lauderdale_County,_Mississippi>",
+    "11" : "s(Samuel_Dale) dbo:deathYear o'<1841>",
+    "12" : "s(Samuel_Dale) dbo:employer o'<Federal_government_of_the_United_States>",
+    "13" : "s(Samuel_Dale) dbo:employer o'<Government_of_Pennsylvania>",
+    "14" : "s(Samuel_Dale) dbo:employer o'<British_Government>",
+    "15" : "s(Samuel_Dale) dbo:ethnicity o'<Scotch-Irish_American>",
+    "16" : "s(Samuel_Dale) dbo:occupation o'<Courier>",
+    "17" : "s(Samuel_Dale) dbo:occupation o'<Reconnaissance>",
+    "18" : "s(Samuel_Dale) dbo:occupation o'<Samuel_Dale__1>",
+    "19" : "s(Samuel_Dale) dbp:knownFor o'<For serving, under General Andrew Jackson, in the Creek War of 1813-1814, who later, became a brigadier general in the U.S. Army, and an advocate for Alabama statehood.>",
+    "20" : "s(Samuel_Dale) dbp:nationality o'<American>",
+    "21" : "s(Samuel_Dale) dbp:relatives o'<eight siblings>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11407",
+  "entityUrl" : "http://dbpedia.org/resource/Sergei_Vonsovsky",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Sergei_Vonsovsky) dbo:birthDate o'<1910-9-2>",
+    "2" : "s(Sergei_Vonsovsky) dbo:birthPlace o'<Tashkent>",
+    "3" : "s(Sergei_Vonsovsky) dbo:deathDate o'<1998-8-11>",
+    "4" : "s(Sergei_Vonsovsky) dbo:deathPlace o'<Yekaterinburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11408",
+  "entityUrl" : "http://dbpedia.org/resource/Sankhadhar_Sakhwa",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

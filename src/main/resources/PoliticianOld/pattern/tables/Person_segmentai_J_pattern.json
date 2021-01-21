@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity11187",
+  "entityUrl" : "http://dbpedia.org/resource/James_Pimm",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(James_Pimm) dbo:birthDate o'<1798-1-1>",
+    "2" : "s(James_Pimm) dbo:deathDate o'<1866-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11188",
+  "entityUrl" : "http://dbpedia.org/resource/Jacob_Duch%C3%A9",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11189",
+  "entityUrl" : "http://dbpedia.org/resource/John_Le_Boutillier",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(John_Le_Boutillier) dbo:birthDate o'<1797-04-23>",
+    "2" : "s(John_Le_Boutillier) dbo:birthDate o'<1797-4-23>",
+    "3" : "s(John_Le_Boutillier) dbo:birthPlace o'<Jersey>",
+    "4" : "s(John_Le_Boutillier) dbo:deathDate o'<1872-07-31>",
+    "5" : "s(John_Le_Boutillier) dbo:deathDate o'<1872-7-31>",
+    "6" : "s(John_Le_Boutillier) dbo:deathPlace o'<GaspÃ©,_Quebec>",
+    "7" : "s(John_Le_Boutillier) dbo:deathPlace o'<Quebec>",
+    "8" : "s(John_Le_Boutillier) dbo:office o'<Member of theLegislative Council of Quebecfor Golfe>",
+    "9" : "s(John_Le_Boutillier) dbo:party o'<Conservative_Party_of_Quebec_(historical)>",
+    "10" : "s(John_Le_Boutillier) dbo:religion o'<Roman_Catholicism>",
+    "11" : "s(John_Le_Boutillier) dbo:successor o'<Thomas_Savage_(politician)>",
+    "12" : "s(John_Le_Boutillier) dbo:termPeriod o'<John_Le_Boutillier__1>",
+    "13" : "s(John_Le_Boutillier) dbp:birthPlace o'<Isle of Jersey>",
+    "14" : "s(John_Le_Boutillier) dbp:termEnd o'<1872>",
+    "15" : "s(John_Le_Boutillier) dbp:termStart o'<1867>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11190",
+  "entityUrl" : "http://dbpedia.org/resource/Joginder_Singh_(rally_driver)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Joginder_Singh_(rally_driver)) dbo:birthDate o'<1932-2-9>",
+    "2" : "s(Joginder_Singh_(rally_driver)) dbo:birthPlace o'<Kericho>",
+    "3" : "s(Joginder_Singh_(rally_driver)) dbo:deathDate o'<2013-10-20>",
+    "4" : "s(Joginder_Singh_(rally_driver)) dbo:deathPlace o'<London>",
+    "5" : "s(Joginder_Singh_(rally_driver)) dbp:birthDate o'<1932-02-09>",
+    "6" : "s(Joginder_Singh_(rally_driver)) dbp:birthPlace o'<Kericho, Kenya>",
+    "7" : "s(Joginder_Singh_(rally_driver)) dbp:deathDate o'<2013-10-20>",
+    "8" : "s(Joginder_Singh_(rally_driver)) dbp:deathPlace o'<London, England>",
+    "9" : "s(Joginder_Singh_(rally_driver)) dbp:firstRace o'<1973>",
+    "10" : "s(Joginder_Singh_(rally_driver)) dbp:firstWin o'<1974>",
+    "11" : "s(Joginder_Singh_(rally_driver)) dbp:lastRace o'<1980>",
+    "12" : "s(Joginder_Singh_(rally_driver)) dbp:lastWin o'<1976>",
+    "13" : "s(Joginder_Singh_(rally_driver)) dbp:name o'<Joginder Singh>",
+    "14" : "s(Joginder_Singh_(rally_driver)) dbp:nationality o'<Kenya>",
+    "15" : "s(Joginder_Singh_(rally_driver)) dbp:podiums o'<2>",
+    "16" : "s(Joginder_Singh_(rally_driver)) dbp:points o'<0>",
+    "17" : "s(Joginder_Singh_(rally_driver)) dbp:races o'<8>",
+    "18" : "s(Joginder_Singh_(rally_driver)) dbp:stageWins o'<0>",
+    "19" : "s(Joginder_Singh_(rally_driver)) dbp:teams o'<Mitsubishi>",
+    "20" : "s(Joginder_Singh_(rally_driver)) dbp:teams o'<Mercedes-Benz>",
+    "21" : "s(Joginder_Singh_(rally_driver)) dbp:wins o'<2>",
+    "22" : "s(Joginder_Singh_(rally_driver)) dbp:years o'<1973>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11191",
+  "entityUrl" : "http://dbpedia.org/resource/Jerry_Inman",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Jerry_Inman) dbo:birthDate o'<1940-2-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11192",
+  "entityUrl" : "http://dbpedia.org/resource/Jos%C3%A9_Garc%C3%ADa_Rom%C3%A1n",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

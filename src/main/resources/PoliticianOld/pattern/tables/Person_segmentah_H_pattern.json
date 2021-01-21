@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "entity11011",
+  "entityUrl" : "http://dbpedia.org/resource/Hannah_Vogt",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Hannah_Vogt) dbo:birthDate o'<1910-3-3>",
+    "2" : "s(Hannah_Vogt) dbo:birthPlace o'<Charlottenburg>",
+    "3" : "s(Hannah_Vogt) dbo:country o'<Germany>",
+    "4" : "s(Hannah_Vogt) dbo:deathDate o'<1994-2-13>",
+    "5" : "s(Hannah_Vogt) dbo:deathPlace o'<GÃ¶ttingen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11012",
+  "entityUrl" : "http://dbpedia.org/resource/Horibe_Yasubei",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Horibe_Yasubei) dbo:birthDate o'<1670-1-1>",
+    "2" : "s(Horibe_Yasubei) dbo:birthPlace o'<Shibata,_Niigata>",
+    "3" : "s(Horibe_Yasubei) dbo:deathDate o'<1703-3-20>",
+    "4" : "s(Horibe_Yasubei) dbo:deathPlace o'<Edo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11013",
+  "entityUrl" : "http://dbpedia.org/resource/Hans_Wilhelm_Frei",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Hans_Wilhelm_Frei) dbo:birthDate o'<1922-4-29>",
+    "2" : "s(Hans_Wilhelm_Frei) dbo:birthPlace o'<WrocÅ‚aw>",
+    "3" : "s(Hans_Wilhelm_Frei) dbo:deathDate o'<1988-9-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11014",
+  "entityUrl" : "http://dbpedia.org/resource/H._L._Nage_Gowda",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(H._L._Nage_Gowda) dbo:birthDate o'<1915-02-11>",
+    "2" : "s(H._L._Nage_Gowda) dbo:birthDate o'<1915-2-11>",
+    "3" : "s(H._L._Nage_Gowda) dbo:birthYear o'<1915>",
+    "4" : "s(H._L._Nage_Gowda) dbo:deathDate o'<2005-09-22>",
+    "5" : "s(H._L._Nage_Gowda) dbo:deathDate o'<2005-9-22>",
+    "6" : "s(H._L._Nage_Gowda) dbo:deathYear o'<2005>",
+    "7" : "s(H._L._Nage_Gowda) dbo:occupation o'<H._L._Nage_Gowda__1>",
+    "8" : "s(H._L._Nage_Gowda) dbp:nationality o'<Indian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11015",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Fowle_Durant",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Henry_Fowle_Durant) dbo:birthDate o'<1822-2-22>",
+    "2" : "s(Henry_Fowle_Durant) dbo:deathDate o'<1881-10-3>",
+    "3" : "s(Henry_Fowle_Durant) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11016",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_G._Pellegrin",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Harry_G._Pellegrin) dbo:birthDate o'<1957-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

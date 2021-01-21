@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity10883",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_Denari",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Neil_Denari) dbo:birthDate o'<1957-9-3>",
+    "2" : "s(Neil_Denari) dbp:align o'<right>",
+    "3" : "s(Neil_Denari) dbp:direction o'<horizontal>",
+    "4" : "s(Neil_Denari) dbp:width o'<185>",
+    "5" : "s(Neil_Denari) dbp:width o'<189>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10884",
+  "entityUrl" : "http://dbpedia.org/resource/Nasiruddin_Mahmud",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Nasiruddin_Mahmud) dbo:deathDate o'<1229-0-0>",
+    "2" : "s(Nasiruddin_Mahmud) dbp:after o'<Malik_Balkha_Khilji>",
+    "3" : "s(Nasiruddin_Mahmud) dbp:before o'<Ghiyasuddin_Iwaj_Shah>",
+    "4" : "s(Nasiruddin_Mahmud) dbp:title o'<List_of_rulers_of_Bengal>",
+    "5" : "s(Nasiruddin_Mahmud) dbp:years o'<1227>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(nasiruddin mahmud=Nasiruddin_Mahmud) [later served governor ] o'<bengal=List_of_rulers_of_Bengal>"
+  },
+  "abstract" : {
+    "3" : "nasiruddin mahmud<Nasiruddin_Mahmud> later served as the governor of bengal<List_of_rulers_of_Bengal> until his death\n"
+  }
+}, {
+  "entityIndex" : "entity10885",
+  "entityUrl" : "http://dbpedia.org/resource/Nalin_Pekgul",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Nalin_Pekgul) dbo:birthDate o'<1967-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10886",
+  "entityUrl" : "http://dbpedia.org/resource/Nikhat_Khan",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Nikhat_Khan) dbo:imdbId o'<1539779>",
+    "2" : "s(Nikhat_Khan) dbp:name o'<Nikhat Khanna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10887",
+  "entityUrl" : "http://dbpedia.org/resource/Nellie_Brimberry",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10888",
+  "entityUrl" : "http://dbpedia.org/resource/Nils_Handal",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Nils_Handal) dbo:birthDate o'<1906-6-18>",
+    "2" : "s(Nils_Handal) dbo:deathDate o'<1992-12-28>",
+    "3" : "s(Nils_Handal) dbp:after o'<Knut_TjÃ¸nneland>",
+    "4" : "s(Nils_Handal) dbp:after o'<Thorstein_Treholt>",
+    "5" : "s(Nils_Handal) dbp:after o'<Gudmund_Harlem>",
+    "6" : "s(Nils_Handal) dbp:after o'<Gustav_Sjaastad>",
+    "7" : "s(Nils_Handal) dbp:before o'<Kai_Knudsen>",
+    "8" : "s(Nils_Handal) dbp:before o'<Hans_Gabrielsen>",
+    "9" : "s(Nils_Handal) dbp:before o'<Lars_Evensen>",
+    "10" : "s(Nils_Handal) dbp:before o'<AsbjÃ¸rn_Stensaker>",
+    "11" : "s(Nils_Handal) dbp:title o'<List_of_County_Governors_of_Oppland>",
+    "12" : "s(Nils_Handal) dbp:title o'<Minister_of_Industry_(Norway)>",
+    "13" : "s(Nils_Handal) dbp:title o'<List_of_mayors_of_Bergen>",
+    "14" : "s(Nils_Handal) dbp:title o'<Minister_of_Defence_(Norway)>",
+    "15" : "s(Nils_Handal) dbp:years o'<1945>",
+    "16" : "s(Nils_Handal) dbp:years o'<1953>",
+    "17" : "s(Nils_Handal) dbp:years o'<1955>",
+    "18" : "s(Nils_Handal) dbp:years o'<1961>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

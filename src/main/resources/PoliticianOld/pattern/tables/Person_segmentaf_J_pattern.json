@@ -1,0 +1,80 @@
+[ {
+  "entityIndex" : "entity10695",
+  "entityUrl" : "http://dbpedia.org/resource/Jehangir_Hormusjee_Ruttonjee",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:birthDate o'<1880-1-1>",
+    "2" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:birthPlace o'<India>",
+    "3" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:birthPlace o'<Mumbai>",
+    "4" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:birthPlace o'<Bombay>",
+    "5" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:birthYear o'<1880>",
+    "6" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:deathDate o'<1960-1-1>",
+    "7" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:deathPlace o'<Hong_Kong>",
+    "8" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:deathYear o'<1960>",
+    "9" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:nationality o'<India>",
+    "10" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:occupation o'<Jehangir_Hormusjee_Ruttonjee__1>",
+    "11" : "s(Jehangir_Hormusjee_Ruttonjee) dbo:stateOfOrigin o'<India>",
+    "12" : "s(Jehangir_Hormusjee_Ruttonjee) dbp:deathPlace o'<Hong Kong>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(jehangir hormusjee ruttonjee=Jehangir_Hormusjee_Ruttonjee) [famous for founding ] o'<hong kong=Hong_Kong>"
+  },
+  "abstract" : {
+    "2" : "jehangir hormusjee ruttonjee<Jehangir_Hormusjee_Ruttonjee> is famous for founding the ruttonjee sanatoriums and helped in the establishment of the hong kong<Hong_Kong> anti-tuberculosis association\n"
+  }
+}, {
+  "entityIndex" : "entity10696",
+  "entityUrl" : "http://dbpedia.org/resource/J%C3%B8rgen_Kosmo",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10697",
+  "entityUrl" : "http://dbpedia.org/resource/James_McNabb",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(James_McNabb) dbo:deathDate o'<1820-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10698",
+  "entityUrl" : "http://dbpedia.org/resource/James_Carmichael_(British_politician)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(James_Carmichael_(British_politician)) dbo:birthDate o'<1894-4-0>",
+    "2" : "s(James_Carmichael_(British_politician)) dbo:deathDate o'<1966-1-19>",
+    "3" : "s(James_Carmichael_(British_politician)) dbp:after o'<James_Bennett_(British_politician)>",
+    "4" : "s(James_Carmichael_(British_politician)) dbp:before o'<James_Maxton>",
+    "5" : "s(James_Carmichael_(British_politician)) dbp:title o'<Member of Parliament for Glasgow Bridgeton>",
+    "6" : "s(James_Carmichael_(British_politician)) dbp:years o'<1946>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(james carmichael (british politician)=James_Carmichael_(British_politician)) [elected for glasgow bridgeton ] o'<james maxton=James_Maxton>"
+  },
+  "abstract" : {
+    "5" : "james carmichael (british politician)<James_Carmichael_(British_politician)> was elected for glasgow bridgeton at a by-election in 1946, following the death of james maxton<James_Maxton>, leader of the ilp\n"
+  }
+}, {
+  "entityIndex" : "entity10699",
+  "entityUrl" : "http://dbpedia.org/resource/Josef_Stejskal_(artist)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Josef_Stejskal_(artist)) dbo:birthDate o'<1945-3-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10700",
+  "entityUrl" : "http://dbpedia.org/resource/John_Adelbert_Parkhurst",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(John_Adelbert_Parkhurst) dbo:birthDate o'<1861-9-24>",
+    "2" : "s(John_Adelbert_Parkhurst) dbo:birthPlace o'<Dixon,_Illinois>",
+    "3" : "s(John_Adelbert_Parkhurst) dbo:deathDate o'<1925-3-1>",
+    "4" : "s(John_Adelbert_Parkhurst) dbo:deathPlace o'<New_York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

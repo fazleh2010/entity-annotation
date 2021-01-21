@@ -1,0 +1,68 @@
+[ {
+  "entityIndex" : "entity10943",
+  "entityUrl" : "http://dbpedia.org/resource/Xie_An",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Xie_An) dbo:birthDate o'<320-1-1>",
+    "2" : "s(Xie_An) dbo:deathDate o'<385-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10944",
+  "entityUrl" : "http://dbpedia.org/resource/Xie_Xuan",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Xie_Xuan) dbo:birthDate o'<343-1-1>",
+    "2" : "s(Xie_Xuan) dbo:deathDate o'<388-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10945",
+  "entityUrl" : "http://dbpedia.org/resource/Xpressway",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10946",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Daufresne",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Xavier_Daufresne) dbo:birthDate o'<1968-12-24>",
+    "2" : "s(Xavier_Daufresne) dbo:birthPlace o'<Lasne>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10947",
+  "entityUrl" : "http://dbpedia.org/resource/Xernona_Clayton",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Xernona_Clayton) dbo:almaMater o'<Tennessee_State_University>",
+    "2" : "s(Xernona_Clayton) dbo:birthDate o'<1930-08-30>",
+    "3" : "s(Xernona_Clayton) dbo:birthDate o'<1930-8-30>",
+    "4" : "s(Xernona_Clayton) dbo:birthPlace o'<Muskogee,_Oklahoma>",
+    "5" : "s(Xernona_Clayton) dbo:birthYear o'<1930>",
+    "6" : "s(Xernona_Clayton) dbo:knownFor o'<Civil_rights>",
+    "7" : "s(Xernona_Clayton) dbo:occupation o'<Broadcasting>",
+    "8" : "s(Xernona_Clayton) dbo:occupation o'<Xernona_Clayton__1>",
+    "9" : "s(Xernona_Clayton) dbo:residence o'<Atlanta,_Georgia>",
+    "10" : "s(Xernona_Clayton) dbo:spouse o'<Paul_L._Brady>",
+    "11" : "s(Xernona_Clayton) dbp:children o'<2>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(xernona clayton=Xernona_Clayton) [became corporate vice president for ] o'<broadcasting=Broadcasting>"
+  },
+  "abstract" : {
+    "5" : "xernona clayton<Xernona_Clayton> became corporate vice president for urban affairs for turner broadcasting<Broadcasting>\n"
+  }
+}, {
+  "entityIndex" : "entity10948",
+  "entityUrl" : "http://dbpedia.org/resource/Xia_Li",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

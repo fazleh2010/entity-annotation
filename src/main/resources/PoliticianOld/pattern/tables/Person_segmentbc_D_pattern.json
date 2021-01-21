@@ -1,0 +1,117 @@
+[ {
+  "entityIndex" : "entity14423",
+  "entityUrl" : "http://dbpedia.org/resource/Death_of_Ali_Abdulhadi_Mushaima",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:birthDate o'<1989-08-26>",
+    "2" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:birthDate o'<1989-8-26>",
+    "3" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:birthName o'<Ø¹Ù„ÙŠ Ø¹Ø¨Ø¯Ø§Ù„Ù‡Ø§Ø¯ÙŠ Ù…Ø´ÙŠÙ…Ø¹>",
+    "4" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:birthPlace o'<Al_Daih>",
+    "5" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:birthPlace o'<Bahrain>",
+    "6" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:birthYear o'<1989>",
+    "7" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:deathCause o'<Shotgun_shell>",
+    "8" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:deathDate o'<2011-02-14>",
+    "9" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:deathDate o'<2011-2-14>",
+    "10" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:deathPlace o'<Al_Daih>",
+    "11" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:deathYear o'<2011>",
+    "12" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:knownFor o'<Bahraini_uprising_(2011â€“present)>",
+    "13" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:nationality o'<Bahrain>",
+    "14" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:religion o'<Shia_Islam>",
+    "15" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:residence o'<Al_Daih>",
+    "16" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:restingPlace o'<Jidhafs>",
+    "17" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbo:stateOfOrigin o'<Bahrain>",
+    "18" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbp:imageSize o'<250>",
+    "19" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbp:parents o'<Abdulhadi>",
+    "20" : "s(Death_of_Ali_Abdulhadi_Mushaima) dbp:parents o'<Mohammed Mushaima>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14424",
+  "entityUrl" : "http://dbpedia.org/resource/DeObia_Oparei",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(DeObia_Oparei) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(DeObia_Oparei) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14425",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Rono",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Daniel_Rono) dbo:birthDate o'<1978-7-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14426",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Blair",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Don_Blair) dbo:birthDate o'<1972-04-06>",
+    "2" : "s(Don_Blair) dbo:birthDate o'<1972-4-6>",
+    "3" : "s(Don_Blair) dbo:birthPlace o'<Ontario>",
+    "4" : "s(Don_Blair) dbo:birthPlace o'<Ottawa>",
+    "5" : "s(Don_Blair) dbo:college o'<University_of_Calgary>",
+    "6" : "s(Don_Blair) dbo:height o'<1.8288>",
+    "7" : "s(Don_Blair) dbo:position o'<Wide_receiver>",
+    "8" : "s(Don_Blair) dbo:status o'<Retired>",
+    "9" : "s(Don_Blair) dbo:weight o'<88.452>",
+    "10" : "s(Don_Blair) dbo:weight o'<88452.0>",
+    "11" : "s(Don_Blair) dbp:careerHighlights o'<*  Grey Cup champion>",
+    "12" : "s(Don_Blair) dbp:cfldraftedpick o'<1>",
+    "13" : "s(Don_Blair) dbp:cfldraftedround o'<1>",
+    "14" : "s(Don_Blair) dbp:cfldraftedteam o'<Edmonton_Eskimos>",
+    "15" : "s(Don_Blair) dbp:cfldraftedyear o'<1996>",
+    "16" : "s(Don_Blair) dbp:heightFt o'<6>",
+    "17" : "s(Don_Blair) dbp:heightIn o'<0>",
+    "18" : "s(Don_Blair) dbp:honours o'<Hec_Crighton_Trophy>",
+    "19" : "s(Don_Blair) dbp:import o'<no>",
+    "20" : "s(Don_Blair) dbp:name o'<Don Blair>",
+    "21" : "s(Don_Blair) dbp:playingTeam o'<Calgary_Stampeders>",
+    "22" : "s(Don_Blair) dbp:playingTeam o'<Edmonton_Eskimos>",
+    "23" : "s(Don_Blair) dbp:playingTeam o'<BC_Lions>",
+    "24" : "s(Don_Blair) dbp:playingYears o'<â€“>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(don blair=Don_Blair) [member of ] o'<bc lions=BC_Lions>",
+    "4" : "s(don blair=Don_Blair) [played cis football for ] o'<calgary=Calgary_Stampeders>"
+  },
+  "abstract" : {
+    "3" : "don blair<Don_Blair> was a member of the 2000 bc lions<BC_Lions> team that won the 88th grey cup\n",
+    "4" : "don blair<Don_Blair> played cis football for the calgary<Calgary_Stampeders> dinos where don blair<Don_Blair> won the hec crighton trophy<Hec_Crighton_Trophy> in 1995\n"
+  }
+}, {
+  "entityIndex" : "entity14427",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_A._Currie",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Daniel_A._Currie) dbo:birthDate o'<1842-10-10>",
+    "2" : "s(Daniel_A._Currie) dbo:birthPlace o'<Scarsdale,_New_York>",
+    "3" : "s(Daniel_A._Currie) dbo:deathDate o'<1911-02-28>",
+    "4" : "s(Daniel_A._Currie) dbo:deathDate o'<1911-2-28>",
+    "5" : "s(Daniel_A._Currie) dbo:orderInOffice o'<Mayor of Englewood, New Jersey>",
+    "6" : "s(Daniel_A._Currie) dbo:predecessor o'<Elbert_Adrain_Brinckerhoff>",
+    "7" : "s(Daniel_A._Currie) dbo:successor o'<Dan_Fellows_Platt>",
+    "8" : "s(Daniel_A._Currie) dbp:imagesize o'<150>",
+    "9" : "s(Daniel_A._Currie) dbp:termEnd o'<1903>",
+    "10" : "s(Daniel_A._Currie) dbp:termStart o'<1902>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(daniel a. currie=Daniel_A._Currie) [credited serving ] o'<mayor of englewood=Mayor_of_Englewood,_New_Jersey>",
+    "4" : "s(daniel a. currie=Daniel_A._Currie) [served ] o'<mayor=Mayor_of_Englewood,_New_Jersey>"
+  },
+  "abstract" : {
+    "3" : "daniel a. currie<Daniel_A._Currie> has been credited as serving as the first mayor of englewood<Mayor_of_Englewood,_New_Jersey> (starting in 1896), but that was later declared to be prior to the proper incorporation of the town\n",
+    "4" : "daniel a. currie<Daniel_A._Currie> also served as mayor<Mayor_of_Englewood,_New_Jersey> in 1902 to 1903\n"
+  }
+}, {
+  "entityIndex" : "entity14428",
+  "entityUrl" : "http://dbpedia.org/resource/Dick_Webb",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

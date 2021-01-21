@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11614",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81ngel_Crespo",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11615",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%96rjan_Ramberg",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11616",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%90uro_%C5%BDivkovi%C4%87",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11617",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81ngela_Loij",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11618",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Pernet",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11619",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89lisabeth_de_Vaudey",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,71 @@
+[ {
+  "entityIndex" : "entity14392",
+  "entityUrl" : "http://dbpedia.org/resource/Zeger_III_of_Ghent",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Zeger_III_of_Ghent) dbo:deathDate o'<1227-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14393",
+  "entityUrl" : "http://dbpedia.org/resource/Zene_Baker",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Zene_Baker) dbo:activeYearsStartYear o'<1998>",
+    "2" : "s(Zene_Baker) dbo:occupation o'<Film_editor>",
+    "3" : "s(Zene_Baker) dbo:occupation o'<Zene_Baker__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(zene baker=Zene_Baker) [received bachelor of fine ] o'<film=Film_editor>"
+  },
+  "abstract" : {
+    "2" : "a native of raleigh, north carolina, baker is a 1998 graduate of the north carolina school of the arts where zene baker<Zene_Baker> received a bachelor of fine arts in film<Film_editor> editing<Film_editor>\n"
+  }
+}, {
+  "entityIndex" : "entity14394",
+  "entityUrl" : "http://dbpedia.org/resource/Zden%C4%9Bk_K%C3%A1rn%C3%ADk",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14395",
+  "entityUrl" : "http://dbpedia.org/resource/Zuane_Pizzigano",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Zuane_Pizzigano) dbo:birthPlace o'<Venice>",
+    "2" : "s(Zuane_Pizzigano) dbo:deathDate o'<1500-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14396",
+  "entityUrl" : "http://dbpedia.org/resource/Zhu_Huan",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Zhu_Huan) dbo:birthDate o'<177-1-1>",
+    "2" : "s(Zhu_Huan) dbo:deathDate o'<238-1-1>",
+    "3" : "s(Zhu_Huan) dbp:birthDate o'<177>",
+    "4" : "s(Zhu_Huan) dbp:deathDate o'<238>",
+    "5" : "s(Zhu_Huan) dbp:kingdom o'<Eastern_Wu>",
+    "6" : "s(Zhu_Huan) dbp:name o'<Zhu Huan>",
+    "7" : "s(Zhu_Huan) dbp:pinyin o'<ZhÅ« HuÃ¡n>",
+    "8" : "s(Zhu_Huan) dbp:simp o'<æœ±æ¡“>",
+    "9" : "s(Zhu_Huan) dbp:title o'<General>",
+    "10" : "s(Zhu_Huan) dbp:trad o'<æœ±æ¡“>",
+    "11" : "s(Zhu_Huan) dbp:wg o'<Chu Huan>",
+    "12" : "s(Zhu_Huan) dbp:zi o'<Xiumu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14397",
+  "entityUrl" : "http://dbpedia.org/resource/Zoe_Robinson",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Zoe_Robinson) dbo:birthDate o'<1989-11-30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

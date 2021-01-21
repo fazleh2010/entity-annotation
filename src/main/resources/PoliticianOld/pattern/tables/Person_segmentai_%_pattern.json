@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11289",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%BDikica_Jovanovi%C4%87_%C5%A0panac",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11290",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Molinaro",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11291",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%81ukasz_Kuropaczewski",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11292",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Bal%C3%A1zs",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11293",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Hajd%C3%BA",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11294",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%BDeljko_Kopanja",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

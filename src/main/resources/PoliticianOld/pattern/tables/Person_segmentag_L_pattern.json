@@ -1,0 +1,143 @@
+[ {
+  "entityIndex" : "entity10871",
+  "entityUrl" : "http://dbpedia.org/resource/Ludvig_Daae_(politician)",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ludvig_Daae_(politician)) dbo:birthDate o'<1829-4-24>",
+    "2" : "s(Ludvig_Daae_(politician)) dbo:birthPlace o'<Skodje>",
+    "3" : "s(Ludvig_Daae_(politician)) dbo:deathDate o'<1893-5-1>",
+    "4" : "s(Ludvig_Daae_(politician)) dbo:deathPlace o'<Kristiansand>",
+    "5" : "s(Ludvig_Daae_(politician)) dbp:after o'<Johan_Sverdrup>",
+    "6" : "s(Ludvig_Daae_(politician)) dbp:before o'<Lars_Christian_Dahll>",
+    "7" : "s(Ludvig_Daae_(politician)) dbp:title o'<Minister_of_Defence_(Norway)>",
+    "8" : "s(Ludvig_Daae_(politician)) dbp:years o'<1884>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ludvig daae (politician)=Ludvig_Daae_(politician)) [norwegian minister of ] o'<johan sverdrup=Johan_Sverdrup>",
+    "13" : "s(ludvig daae (politician)=Ludvig_Daae_(politician)) [served mayor of ] o'<skodje=Skodje>",
+    "14" : "s(ludvig daae (politician)=Ludvig_Daae_(politician)) [later founder of ] o'<skodje=Skodje>",
+    "18" : "s(ludvig daae (politician)=Ludvig_Daae_(politician)) [died in 1893 at ] o'<kristiansand=Kristiansand>"
+  },
+  "abstract" : {
+    "2" : "ludvig daae (politician)<Ludvig_Daae_(politician)> was the norwegian minister of the army from 1884 to 1885 on the cabinet of prime minister johan sverdrup<Johan_Sverdrup>\n",
+    "13" : "ludvig daae (politician)<Ludvig_Daae_(politician)> served as mayor of skodje<Skodje> and conciliation commissioner\n",
+    "14" : "ludvig daae (politician)<Ludvig_Daae_(politician)> was later founder of skodje<Skodje> and vatne sparebank\n",
+    "18" : "ludvig daae (politician)<Ludvig_Daae_(politician)> died in 1893 at kristiansand<Kristiansand> and was buried in skodje<Skodje>\n"
+  }
+}, {
+  "entityIndex" : "entity10872",
+  "entityUrl" : "http://dbpedia.org/resource/Lars_Evensen",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Lars_Evensen) dbo:birthDate o'<1896-11-12>",
+    "2" : "s(Lars_Evensen) dbo:deathDate o'<1969-1-19>",
+    "3" : "s(Lars_Evensen) dbp:after o'<Erik_Brofoss>",
+    "4" : "s(Lars_Evensen) dbp:after o'<Nils_Handal>",
+    "5" : "s(Lars_Evensen) dbp:after o'<Bue_Fjermeros>",
+    "6" : "s(Lars_Evensen) dbp:before o'<Alf_Frydenberg>",
+    "7" : "s(Lars_Evensen) dbp:before o'<Erik_Brofoss>",
+    "8" : "s(Lars_Evensen) dbp:before o'<Sven_Nielsen>",
+    "9" : "s(Lars_Evensen) dbp:title o'<List_of_County_Governors_of_Vest-Agder>",
+    "10" : "s(Lars_Evensen) dbp:title o'<Minister_of_Industry_(Norway)>",
+    "11" : "s(Lars_Evensen) dbp:years o'<1945>",
+    "12" : "s(Lars_Evensen) dbp:years o'<1954>",
+    "13" : "s(Lars_Evensen) dbp:years o'<September 1953&ndash;November 1953>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(lars evensen=Lars_Evensen) [served for many years ] o'<minister of industry=Minister_of_Industry_(Norway)>"
+  },
+  "abstract" : {
+    "4" : "after the second world war lars evensen<Lars_Evensen> served for many years as minister of industry<Minister_of_Industry_(Norway)>\n"
+  }
+}, {
+  "entityIndex" : "entity10873",
+  "entityUrl" : "http://dbpedia.org/resource/Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:activeYearsStartDate o'<1942-05-25>",
+    "2" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:almaMater o'<Winchester_College>",
+    "3" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:almaMater o'<Trinity_College,_Oxford>",
+    "4" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:birthDate o'<1902-04-10>",
+    "5" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:birthDate o'<1902-4-10>",
+    "6" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:deathDate o'<1983-02-25>",
+    "7" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:deathDate o'<1983-2-25>",
+    "8" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:nationality o'<UK>",
+    "9" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:orderInOffice o'<Member of Parliament>",
+    "10" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:orderInOffice o'<forChichester>",
+    "11" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:party o'<Conservative_Party_(UK)>",
+    "12" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbo:successor o'<Walter_Loveys>",
+    "13" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:after o'<Walter_Loveys>",
+    "14" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:after o'<Crispin_Joynson-Hicks,_4th_Viscount_Brentford>",
+    "15" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:before o'<John_Sewell_Courtauld>",
+    "16" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:before o'<Richard_Joynson-Hicks,_2nd_Viscount_Brentford>",
+    "17" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:honorificSuffix o'<Member_of_Parliament_(UK)>",
+    "18" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:predecessor o'<John_Sewell_Courtauld>",
+    "19" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:profession o'<Politician>",
+    "20" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:termEnd o'<27>",
+    "21" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:title o'<Viscount_Brentford>",
+    "22" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:title o'<Joynson-Hicks_Baronets>",
+    "23" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:title o'<Parliamentary_Secretary_to_the_Ministry_of_Fuel_and_Power>",
+    "24" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:title o'<Member of Parliament for Chichester>",
+    "25" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:years o'<1942>",
+    "26" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:years o'<1951>",
+    "27" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:years o'<1956>",
+    "28" : "s(Lancelot_Joynson-Hicks,_3rd_Viscount_Brentford) dbp:years o'<1958>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10874",
+  "entityUrl" : "http://dbpedia.org/resource/Leonard_Elliott_Elliott-Binns",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Leonard_Elliott_Elliott-Binns) dbo:birthDate o'<1885-9-18>",
+    "2" : "s(Leonard_Elliott_Elliott-Binns) dbo:country o'<United_Kingdom>",
+    "3" : "s(Leonard_Elliott_Elliott-Binns) dbo:deathDate o'<1963-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10875",
+  "entityUrl" : "http://dbpedia.org/resource/Leopold_Sulerzhitsky",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Leopold_Sulerzhitsky) dbo:birthDate o'<1872-9-27>",
+    "2" : "s(Leopold_Sulerzhitsky) dbo:birthPlace o'<Zhytomyr>",
+    "3" : "s(Leopold_Sulerzhitsky) dbo:deathDate o'<1916-12-30>",
+    "4" : "s(Leopold_Sulerzhitsky) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(leopold sulerzhitsky=Leopold_Sulerzhitsky) [associated with ] o'<moscow=Moscow>",
+    "6" : "s(leopold sulerzhitsky=Leopold_Sulerzhitsky) [joined stroganov art school ] o'<moscow=Moscow>"
+  },
+  "abstract" : {
+    "2" : "leopold sulerzhitsky<Leopold_Sulerzhitsky> is associated with the moscow<Moscow> art theatre and the household of leo tolstoy\n",
+    "6" : "in 1890 leopold sulerzhitsky<Leopold_Sulerzhitsky> joined the stroganov art school in moscow<Moscow> but dropped out four years later, due to his \"anti-government escapades\n"
+  }
+}, {
+  "entityIndex" : "entity10876",
+  "entityUrl" : "http://dbpedia.org/resource/Lyuben_Karavelov",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Lyuben_Karavelov) dbo:birthDate o'<1834-1-1>",
+    "2" : "s(Lyuben_Karavelov) dbo:birthName o'<Lyuben Stoychev Karavelov>",
+    "3" : "s(Lyuben_Karavelov) dbo:birthPlace o'<Ottoman_Empire>",
+    "4" : "s(Lyuben_Karavelov) dbo:birthPlace o'<Koprivshtitsa>",
+    "5" : "s(Lyuben_Karavelov) dbo:birthYear o'<1834>",
+    "6" : "s(Lyuben_Karavelov) dbo:deathDate o'<1879-01-21>",
+    "7" : "s(Lyuben_Karavelov) dbo:deathDate o'<1879-1-21>",
+    "8" : "s(Lyuben_Karavelov) dbo:deathPlace o'<Rousse>",
+    "9" : "s(Lyuben_Karavelov) dbo:deathPlace o'<Bulgaria>",
+    "10" : "s(Lyuben_Karavelov) dbo:deathPlace o'<Ruse,_Bulgaria>",
+    "11" : "s(Lyuben_Karavelov) dbo:deathYear o'<1879>",
+    "12" : "s(Lyuben_Karavelov) dbo:ethnicity o'<Bulgarians>",
+    "13" : "s(Lyuben_Karavelov) dbo:knownFor o'<Bulgarian_Revolutionary_Central_Committee>",
+    "14" : "s(Lyuben_Karavelov) dbo:occupation o'<Revolutionary>",
+    "15" : "s(Lyuben_Karavelov) dbo:occupation o'<Political_journalism>",
+    "16" : "s(Lyuben_Karavelov) dbo:occupation o'<Lyuben_Karavelov__1>",
+    "17" : "s(Lyuben_Karavelov) dbo:occupation o'<Poet>",
+    "18" : "s(Lyuben_Karavelov) dbo:religion o'<Eastern_Orthodox_Church>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

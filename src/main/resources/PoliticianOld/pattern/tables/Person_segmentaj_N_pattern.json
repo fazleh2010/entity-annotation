@@ -1,0 +1,100 @@
+[ {
+  "entityIndex" : "entity11373",
+  "entityUrl" : "http://dbpedia.org/resource/Nikita_Mikros",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11374",
+  "entityUrl" : "http://dbpedia.org/resource/N._G._Ranga",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(N._G._Ranga) dbo:almaMater o'<Oxford_Brookes_University>",
+    "2" : "s(N._G._Ranga) dbo:birthDate o'<1900-07-11>",
+    "3" : "s(N._G._Ranga) dbo:birthDate o'<1900-11-7>",
+    "4" : "s(N._G._Ranga) dbo:birthPlace o'<Andhra_Pradesh>",
+    "5" : "s(N._G._Ranga) dbo:birthPlace o'<India>",
+    "6" : "s(N._G._Ranga) dbo:birthPlace o'<Nidubrolu>",
+    "7" : "s(N._G._Ranga) dbo:deathDate o'<1995-06-09>",
+    "8" : "s(N._G._Ranga) dbo:deathDate o'<1995-6-9>",
+    "9" : "s(N._G._Ranga) dbo:nationality o'<India>",
+    "10" : "s(N._G._Ranga) dbo:religion o'<Hinduism>",
+    "11" : "s(N._G._Ranga) dbp:children o'<No>",
+    "12" : "s(N._G._Ranga) dbp:constituencyMp o'<Tenali_(Lok_Sabha_constituency)>",
+    "13" : "s(N._G._Ranga) dbp:constituencyMp o'<Chittoor_(Lok_Sabha_constituency)>",
+    "14" : "s(N._G._Ranga) dbp:constituencyMp o'<Guntur_(Lok_Sabha_constituency)>",
+    "15" : "s(N._G._Ranga) dbp:constituencyMp o'<Srikakulam_(Lok_Sabha_constituency)>",
+    "16" : "s(N._G._Ranga) dbp:occupation o'<Social, political activist>",
+    "17" : "s(N._G._Ranga) dbp:parliament o'<Indian>",
+    "18" : "s(N._G._Ranga) dbp:party o'<Indian_National_Congress>",
+    "19" : "s(N._G._Ranga) dbp:party o'<Swatantra_Party>",
+    "20" : "s(N._G._Ranga) dbp:party o'<Congress(I)>",
+    "21" : "s(N._G._Ranga) dbp:spouse o'<Bharathi Devi>",
+    "22" : "s(N._G._Ranga) dbp:termEnd o'<1962>",
+    "23" : "s(N._G._Ranga) dbp:termEnd o'<1967>",
+    "24" : "s(N._G._Ranga) dbp:termEnd o'<1984>",
+    "25" : "s(N._G._Ranga) dbp:termEnd o'<1989>",
+    "26" : "s(N._G._Ranga) dbp:termEnd o'<1991>",
+    "27" : "s(N._G._Ranga) dbp:termStart o'<1957>",
+    "28" : "s(N._G._Ranga) dbp:termStart o'<1962>",
+    "29" : "s(N._G._Ranga) dbp:termStart o'<1980>",
+    "30" : "s(N._G._Ranga) dbp:termStart o'<1984>",
+    "31" : "s(N._G._Ranga) dbp:termStart o'<1989>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11375",
+  "entityUrl" : "http://dbpedia.org/resource/Nellie_Halstead",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Nellie_Halstead) dbo:birthDate o'<1910-9-19>",
+    "2" : "s(Nellie_Halstead) dbo:birthPlace o'<Radcliffe,_Greater_Manchester>",
+    "3" : "s(Nellie_Halstead) dbo:deathDate o'<1991-11-1>",
+    "4" : "s(Nellie_Halstead) dbo:deathPlace o'<Bury>",
+    "5" : "s(Nellie_Halstead) dbp:sport o'<Women's athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11376",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Mackay",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Nancy_Mackay) dbo:birthDate o'<1922-04-06>",
+    "2" : "s(Nancy_Mackay) dbo:birthDate o'<1929-4-6>",
+    "3" : "s(Nancy_Mackay) dbo:birthPlace o'<Toronto>",
+    "4" : "s(Nancy_Mackay) dbo:birthPlace o'<Smethwick>",
+    "5" : "s(Nancy_Mackay) dbo:country o'<Canada>",
+    "6" : "s(Nancy_Mackay) dbp:club o'<Malvernette Athletic Club, Toronto>",
+    "7" : "s(Nancy_Mackay) dbp:event o'<100 m>",
+    "8" : "s(Nancy_Mackay) dbp:imageSize o'<300>",
+    "9" : "s(Nancy_Mackay) dbp:pb o'<6000.0>",
+    "10" : "s(Nancy_Mackay) dbp:showMedals o'<yes>",
+    "11" : "s(Nancy_Mackay) dbp:sport o'<Athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11377",
+  "entityUrl" : "http://dbpedia.org/resource/Natalya_Sokolova_(athlete)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Natalya_Sokolova_(athlete)) dbo:birthDate o'<1949-10-6>",
+    "2" : "s(Natalya_Sokolova_(athlete)) dbo:birthPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11378",
+  "entityUrl" : "http://dbpedia.org/resource/Nadezhda_Ilyina",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Nadezhda_Ilyina) dbo:birthDate o'<1949-1-24>",
+    "2" : "s(Nadezhda_Ilyina) dbo:birthPlace o'<Zelenokumsk>",
+    "3" : "s(Nadezhda_Ilyina) dbo:deathDate o'<2013-12-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

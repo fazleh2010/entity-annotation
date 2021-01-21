@@ -1,0 +1,129 @@
+[ {
+  "entityIndex" : "entity11317",
+  "entityUrl" : "http://dbpedia.org/resource/Clifford_Sobel",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Clifford_Sobel) dbo:alias o'<Cliff Sobel>",
+    "2" : "s(Clifford_Sobel) dbo:almaMater o'<Bachelor's_degree>",
+    "3" : "s(Clifford_Sobel) dbo:almaMater o'<New_York_University>",
+    "4" : "s(Clifford_Sobel) dbo:birthDate o'<1949-1-1>",
+    "5" : "s(Clifford_Sobel) dbo:birthYear o'<1949>",
+    "6" : "s(Clifford_Sobel) dbo:board o'<Diamond_Offshore_Drilling>",
+    "7" : "s(Clifford_Sobel) dbo:board o'<Empower_America>",
+    "8" : "s(Clifford_Sobel) dbo:board o'<Business_Executives_for_National_Security>",
+    "9" : "s(Clifford_Sobel) dbo:board o'<Republican_Leadership_Council>",
+    "10" : "s(Clifford_Sobel) dbo:occupation o'<Chairman>",
+    "11" : "s(Clifford_Sobel) dbo:occupation o'<Republican_Party_(United_States)>",
+    "12" : "s(Clifford_Sobel) dbo:occupation o'<Business_Executive>",
+    "13" : "s(Clifford_Sobel) dbo:occupation o'<Chief_Executive_Officer>",
+    "14" : "s(Clifford_Sobel) dbo:occupation o'<Clifford_Sobel__1>",
+    "15" : "s(Clifford_Sobel) dbo:occupation o'<Managing_Partner>",
+    "16" : "s(Clifford_Sobel) dbo:residence o'<New_Jersey>",
+    "17" : "s(Clifford_Sobel) dbo:residence o'<Florida>",
+    "18" : "s(Clifford_Sobel) dbo:residence o'<New_York_(state)>",
+    "19" : "s(Clifford_Sobel) dbp:after o'<Roland_Arnall>",
+    "20" : "s(Clifford_Sobel) dbp:after o'<Thomas_A._Shannon,_Jr.>",
+    "21" : "s(Clifford_Sobel) dbp:before o'<John_J._Danilovich>",
+    "22" : "s(Clifford_Sobel) dbp:before o'<Cynthia_P._Schneider>",
+    "23" : "s(Clifford_Sobel) dbp:nationality o'<American>",
+    "24" : "s(Clifford_Sobel) dbp:title o'<62>",
+    "25" : "s(Clifford_Sobel) dbp:title o'<United_States_Ambassador_to_Brazil>",
+    "26" : "s(Clifford_Sobel) dbp:years o'<2001>",
+    "27" : "s(Clifford_Sobel) dbp:years o'<2006>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(clifford sobel=Clifford_Sobel) [served united states ] o'<ambassador to brazil=United_States_Ambassador_to_Brazil>",
+    "6" : "s(clifford sobel=Clifford_Sobel) [nominated for post ] o'<president=Chairman>",
+    "13" : "s(clifford sobel=Clifford_Sobel) [sworn in by secretary ] o'<state=New_York_(state)>"
+  },
+  "abstract" : {
+    "5" : "most recently, clifford sobel<Clifford_Sobel> served as the united states ambassador to brazil<United_States_Ambassador_to_Brazil>\n",
+    "6" : "clifford sobel<Clifford_Sobel> was nominated for the post by president<Chairman> george w\n",
+    "13" : "bush nominated him on july 3, 2001 and clifford sobel<Clifford_Sobel> was sworn in by secretary of state<New_York_(state)> colin powell on november 8, 2001\n"
+  }
+}, {
+  "entityIndex" : "entity11318",
+  "entityUrl" : "http://dbpedia.org/resource/Chan_Heng_Chee",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Chan_Heng_Chee) dbo:almaMater o'<National_University_of_Singapore>",
+    "2" : "s(Chan_Heng_Chee) dbo:almaMater o'<Cornell_University>",
+    "3" : "s(Chan_Heng_Chee) dbo:birthDate o'<1942-04-19>",
+    "4" : "s(Chan_Heng_Chee) dbo:birthDate o'<1942-1-1>",
+    "5" : "s(Chan_Heng_Chee) dbo:birthPlace o'<Singapore>",
+    "6" : "s(Chan_Heng_Chee) dbo:birthYear o'<1942>",
+    "7" : "s(Chan_Heng_Chee) dbo:occupation o'<Chan_Heng_Chee__1>",
+    "8" : "s(Chan_Heng_Chee) dbo:personFunction o'<Chan_Heng_Chee__1>",
+    "9" : "s(Chan_Heng_Chee) dbo:title o'<Ambassador of Singapore to the United States>",
+    "10" : "s(Chan_Heng_Chee) dbp:education o'<PhD>",
+    "11" : "s(Chan_Heng_Chee) dbp:honorificSuffix o'<Darjah_Utama_Bakti_Cemerlang>",
+    "12" : "s(Chan_Heng_Chee) dbp:imageSize o'<200>",
+    "13" : "s(Chan_Heng_Chee) dbp:p o'<ChÃ©n QÃ¬ngzhÅ«>",
+    "14" : "s(Chan_Heng_Chee) dbp:spouse o'<Tay Kheng Soon>",
+    "15" : "s(Chan_Heng_Chee) dbp:t o'<é™³æ…¶ç� >",
+    "16" : "s(Chan_Heng_Chee) dbp:term o'<July 1996 â€“ July 2012>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11319",
+  "entityUrl" : "http://dbpedia.org/resource/Carly_Pope",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Carly_Pope) dbo:activeYearsStartYear o'<1996>",
+    "2" : "s(Carly_Pope) dbo:birthDate o'<1980-08-28>",
+    "3" : "s(Carly_Pope) dbo:birthDate o'<1980-8-28>",
+    "4" : "s(Carly_Pope) dbo:birthPlace o'<British_Columbia>",
+    "5" : "s(Carly_Pope) dbo:birthPlace o'<Vancouver>",
+    "6" : "s(Carly_Pope) dbo:birthYear o'<1980>",
+    "7" : "s(Carly_Pope) dbo:occupation o'<Carly_Pope__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11320",
+  "entityUrl" : "http://dbpedia.org/resource/Cynthia_Sikes",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Cynthia_Sikes) dbo:activeYearsStartYear o'<1975>",
+    "2" : "s(Cynthia_Sikes) dbo:birthDate o'<1954-01-02>",
+    "3" : "s(Cynthia_Sikes) dbo:birthDate o'<1954-1-2>",
+    "4" : "s(Cynthia_Sikes) dbo:birthName o'<Cynthia Lee Sikes>",
+    "5" : "s(Cynthia_Sikes) dbo:birthPlace o'<Coffeyville,_Kansas>",
+    "6" : "s(Cynthia_Sikes) dbo:birthYear o'<1954>",
+    "7" : "s(Cynthia_Sikes) dbo:occupation o'<Actress>",
+    "8" : "s(Cynthia_Sikes) dbo:occupation o'<Cynthia_Sikes__1>",
+    "9" : "s(Cynthia_Sikes) dbo:spouse o'<Bud_Yorkin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11321",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Dunnett",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Charles_Dunnett) dbo:birthDate o'<1921-8-24>",
+    "2" : "s(Charles_Dunnett) dbo:deathDate o'<2007-5-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11322",
+  "entityUrl" : "http://dbpedia.org/resource/Chungsuk_of_Goryeo",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Chungsuk_of_Goryeo) dbo:birthDate o'<1294-7-30>",
+    "2" : "s(Chungsuk_of_Goryeo) dbo:deathDate o'<1339-5-3>",
+    "3" : "s(Chungsuk_of_Goryeo) dbp:after o'<Chunghye_of_Goryeo>",
+    "4" : "s(Chungsuk_of_Goryeo) dbp:hangul o'<ì¶©ìˆ™ì™•>",
+    "5" : "s(Chungsuk_of_Goryeo) dbp:hanja o'<å¿ è‚…çŽ‹>",
+    "6" : "s(Chungsuk_of_Goryeo) dbp:mr o'<Ch'ungsuk wang>",
+    "7" : "s(Chungsuk_of_Goryeo) dbp:rows o'<2>",
+    "8" : "s(Chungsuk_of_Goryeo) dbp:rr o'<Chungsuk wang>",
+    "9" : "s(Chungsuk_of_Goryeo) dbp:title o'<List_of_monarchs_of_Korea>",
+    "10" : "s(Chungsuk_of_Goryeo) dbp:years o'<1313>",
+    "11" : "s(Chungsuk_of_Goryeo) dbp:years o'<1332>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

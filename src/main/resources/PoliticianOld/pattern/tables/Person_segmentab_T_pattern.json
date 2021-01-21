@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity10919",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_S._Gates,_Jr.",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Thomas_S._Gates,_Jr.) dbo:wikiPageRedirects o'<Thomas_S._Gates_Jr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10920",
+  "entityUrl" : "http://dbpedia.org/resource/Tristan_Honsinger",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Tristan_Honsinger) dbo:birthDate o'<1949-10-23>",
+    "2" : "s(Tristan_Honsinger) dbo:birthPlace o'<Burlington,_Vermont>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10921",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Horsfield",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Thomas_Horsfield) dbo:birthDate o'<1773-5-12>",
+    "2" : "s(Thomas_Horsfield) dbo:birthPlace o'<Philadelphia>",
+    "3" : "s(Thomas_Horsfield) dbo:deathDate o'<1859-7-24>",
+    "4" : "s(Thomas_Horsfield) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(thomas horsfield=Thomas_Horsfield) [later curator of ] o'<london=LONDON>"
+  },
+  "abstract" : {
+    "4" : "thomas horsfield<Thomas_Horsfield> was later a curator of the east india company museum in london<LONDON>\n"
+  }
+}, {
+  "entityIndex" : "entity10922",
+  "entityUrl" : "http://dbpedia.org/resource/Tim_Sweeney_(game_developer)",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Tim_Sweeney_(game_developer)) dbo:birthDate o'<1970-1-1>",
+    "2" : "s(Tim_Sweeney_(game_developer)) dbo:birthPlace o'<Potomac,_Maryland>",
+    "3" : "s(Tim_Sweeney_(game_developer)) dbo:birthYear o'<1970>",
+    "4" : "s(Tim_Sweeney_(game_developer)) dbo:occupation o'<Video_game_developer>",
+    "5" : "s(Tim_Sweeney_(game_developer)) dbo:occupation o'<Tim_Sweeney_(game_developer)__1>",
+    "6" : "s(Tim_Sweeney_(game_developer)) dbo:occupation o'<Game_programmer>",
+    "7" : "s(Tim_Sweeney_(game_developer)) dbp:knownFor o'<developing the Unreal series of engines>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(tim sweeney (game developer)=Tim_Sweeney_(game_developer)) [said PRONOUN ] o'<game development=Video_game_developer>"
+  },
+  "abstract" : {
+    "3" : "tim sweeney (game developer)<Tim_Sweeney_(game_developer)> said that tim sweeney (game developer)<Tim_Sweeney_(game_developer)> had been interested in game development<Video_game_developer> and computer programming<Game_programmer> since tim sweeney (game developer)<Tim_Sweeney_(game_developer)> was 10 years old, and finally started making games out of his parents' basement where tim sweeney (game developer)<Tim_Sweeney_(game_developer)> lived\n"
+  }
+}, {
+  "entityIndex" : "entity10923",
+  "entityUrl" : "http://dbpedia.org/resource/Tetsu_Sawaki",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Tetsu_Sawaki) dbo:birthDate o'<1982-08-24>",
+    "2" : "s(Tetsu_Sawaki) dbo:birthDate o'<1982-8-24>",
+    "3" : "s(Tetsu_Sawaki) dbo:birthPlace o'<Japan>",
+    "4" : "s(Tetsu_Sawaki) dbo:birthPlace o'<Osaka>",
+    "5" : "s(Tetsu_Sawaki) dbo:birthYear o'<1982>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10924",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_New",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Thomas_New) dbo:birthDate o'<1827-1-1>",
+    "2" : "s(Thomas_New) dbo:deathDate o'<1914-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

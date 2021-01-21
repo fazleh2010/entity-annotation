@@ -1,0 +1,63 @@
+[ {
+  "entityIndex" : "entity10975",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Davoli",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10976",
+  "entityUrl" : "http://dbpedia.org/resource/Bartholom%C3%A4us_Aich",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10977",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Gibbs_(cricket)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Barry_Gibbs_(cricket)) dbo:birthDate o'<1932-1-1>",
+    "2" : "s(Barry_Gibbs_(cricket)) dbo:deathDate o'<2006-4-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10978",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Gill_(artist)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Bob_Gill_(artist)) dbo:birthDate o'<1931-1-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10979",
+  "entityUrl" : "http://dbpedia.org/resource/Billy_McCracken",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Billy_McCracken) dbo:birthDate o'<1883-1-29>",
+    "2" : "s(Billy_McCracken) dbo:birthPlace o'<Belfast>",
+    "3" : "s(Billy_McCracken) dbo:deathDate o'<1979-1-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10980",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Chadwick",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Bill_Chadwick) dbo:birthDate o'<1915-10-10>",
+    "2" : "s(Bill_Chadwick) dbo:birthName o'<William Leroy Chadwick>",
+    "3" : "s(Bill_Chadwick) dbo:birthPlace o'<Manhattan>",
+    "4" : "s(Bill_Chadwick) dbo:birthYear o'<1915>",
+    "5" : "s(Bill_Chadwick) dbo:deathDate o'<2009-10-24>",
+    "6" : "s(Bill_Chadwick) dbo:deathPlace o'<Cutchogue,_New_York>",
+    "7" : "s(Bill_Chadwick) dbo:deathPlace o'<Cutchogue>",
+    "8" : "s(Bill_Chadwick) dbo:deathYear o'<2009>",
+    "9" : "s(Bill_Chadwick) dbo:occupation o'<NHL>",
+    "10" : "s(Bill_Chadwick) dbo:occupation o'<Bill_Chadwick__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

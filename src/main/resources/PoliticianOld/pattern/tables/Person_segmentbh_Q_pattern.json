@@ -1,0 +1,108 @@
+[ {
+  "entityIndex" : "entity11393",
+  "entityUrl" : "http://dbpedia.org/resource/Qais_bin_Ahmad",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Qais_bin_Ahmad) dbo:birthName o'<Qais bin Ahmad bin Sa'id Al-Busaidi>",
+    "2" : "s(Qais_bin_Ahmad) dbo:deathDate o'<1808-5-1>",
+    "3" : "s(Qais_bin_Ahmad) dbo:deathPlace o'<Khor_Fakkan>",
+    "4" : "s(Qais_bin_Ahmad) dbo:deathYear o'<1808>",
+    "5" : "s(Qais_bin_Ahmad) dbo:occupation o'<Sohar>",
+    "6" : "s(Qais_bin_Ahmad) dbo:occupation o'<Qais_bin_Ahmad__1>",
+    "7" : "s(Qais_bin_Ahmad) dbp:nationality o'<Omani>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11394",
+  "entityUrl" : "http://dbpedia.org/resource/Qambar_(person)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11395",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Gilbert",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Quentin_Gilbert) dbo:birthDate o'<1989-5-29>",
+    "2" : "s(Quentin_Gilbert) dbp:after o'<Incumbent>",
+    "3" : "s(Quentin_Gilbert) dbp:before o'<StÃ©phane_Lefebvre>",
+    "4" : "s(Quentin_Gilbert) dbp:birthDate o'<1989-05-29>",
+    "5" : "s(Quentin_Gilbert) dbp:championships o'<0>",
+    "6" : "s(Quentin_Gilbert) dbp:firstRace o'<2012>",
+    "7" : "s(Quentin_Gilbert) dbp:name o'<Quentin Gilbert>",
+    "8" : "s(Quentin_Gilbert) dbp:nationality o'<French>",
+    "9" : "s(Quentin_Gilbert) dbp:podiums o'<0>",
+    "10" : "s(Quentin_Gilbert) dbp:points o'<0>",
+    "11" : "s(Quentin_Gilbert) dbp:races o'<25>",
+    "12" : "s(Quentin_Gilbert) dbp:stagewins o'<0>",
+    "13" : "s(Quentin_Gilbert) dbp:teams o'<Collectif Equipe de France Rallye>",
+    "14" : "s(Quentin_Gilbert) dbp:title o'<Junior_World_Rally_Championship>",
+    "15" : "s(Quentin_Gilbert) dbp:title o'<List_of_World_Rally_Championship_Drivers'_champions>",
+    "16" : "s(Quentin_Gilbert) dbp:title o'<Champion>",
+    "17" : "s(Quentin_Gilbert) dbp:wins o'<0>",
+    "18" : "s(Quentin_Gilbert) dbp:years o'<2012>",
+    "19" : "s(Quentin_Gilbert) dbp:years o'<2015>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11396",
+  "entityUrl" : "http://dbpedia.org/resource/Qarin_III",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Qarin_III) dbo:deathDate o'<1117-0-0>",
+    "2" : "s(Qarin_III) dbp:after o'<Rustam_III>",
+    "3" : "s(Qarin_III) dbp:before o'<Shahriyar_IV>",
+    "4" : "s(Qarin_III) dbp:title o'<Bavand ruler>",
+    "5" : "s(Qarin_III) dbp:years o'<1114>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(qarin iii=Qarin_III) [son successor ] o'<shahriyar iv=Shahriyar_IV>"
+  },
+  "abstract" : {
+    "2" : "qarin iii<Qarin_III> was the son and successor of shahriyar iv<Shahriyar_IV>\n"
+  }
+}, {
+  "entityIndex" : "entity11397",
+  "entityUrl" : "http://dbpedia.org/resource/Qutbuddin_Hilal",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Qutbuddin_Hilal) dbo:birthDate o'<1952-0-0>",
+    "2" : "s(Qutbuddin_Hilal) dbo:birthPlace o'<Afghanistan>",
+    "3" : "s(Qutbuddin_Hilal) dbo:birthPlace o'<Khost>",
+    "4" : "s(Qutbuddin_Hilal) dbo:birthPlace o'<Khost_Province>",
+    "5" : "s(Qutbuddin_Hilal) dbo:office o'<Deputy Prime Minister>",
+    "6" : "s(Qutbuddin_Hilal) dbo:party o'<Hezbi_Islami>",
+    "7" : "s(Qutbuddin_Hilal) dbo:president o'<Burhanuddin_Rabbani>",
+    "8" : "s(Qutbuddin_Hilal) dbo:religion o'<Sunni_Islam>",
+    "9" : "s(Qutbuddin_Hilal) dbo:termPeriod o'<Qutbuddin_Hilal__1>",
+    "10" : "s(Qutbuddin_Hilal) dbp:children o'<Six>",
+    "11" : "s(Qutbuddin_Hilal) dbp:termEnd o'<1994>",
+    "12" : "s(Qutbuddin_Hilal) dbp:termStart o'<1993>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11398",
+  "entityUrl" : "http://dbpedia.org/resource/Qemal_Bey_Vrioni",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Qemal_Bey_Vrioni) dbo:alias o'<Qemal Vrioni>",
+    "2" : "s(Qemal_Bey_Vrioni) dbo:alias o'<Qemal Bej Vrioni>",
+    "3" : "s(Qemal_Bey_Vrioni) dbo:birthDate o'<1885-0-0>",
+    "4" : "s(Qemal_Bey_Vrioni) dbo:birthPlace o'<Fier>",
+    "5" : "s(Qemal_Bey_Vrioni) dbo:birthPlace o'<Ottoman_Albania>",
+    "6" : "s(Qemal_Bey_Vrioni) dbo:birthYear o'<1885>",
+    "7" : "s(Qemal_Bey_Vrioni) dbo:deathDate o'<1946-0-0>",
+    "8" : "s(Qemal_Bey_Vrioni) dbo:deathPlace o'<Burrel_prison>",
+    "9" : "s(Qemal_Bey_Vrioni) dbo:deathYear o'<1946>",
+    "10" : "s(Qemal_Bey_Vrioni) dbo:knownFor o'<Congress_of_DurrÃ«s>",
+    "11" : "s(Qemal_Bey_Vrioni) dbo:knownFor o'<Fier_Revolt_of_1935>",
+    "12" : "s(Qemal_Bey_Vrioni) dbo:occupation o'<Qemal_Bey_Vrioni__1>",
+    "13" : "s(Qemal_Bey_Vrioni) dbp:imageSize o'<180>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

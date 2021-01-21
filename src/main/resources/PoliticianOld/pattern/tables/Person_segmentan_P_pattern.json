@@ -1,0 +1,70 @@
+[ {
+  "entityIndex" : "entity12039",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Cousins",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Peter_Cousins) dbo:birthDate o'<1981-3-3>",
+    "2" : "s(Peter_Cousins) dbo:birthPlace o'<Harlow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12040",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Zweifel",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Paul_Zweifel) dbo:birthDate o'<1848-6-30>",
+    "2" : "s(Paul_Zweifel) dbo:birthPlace o'<HÃ¶ngg>",
+    "3" : "s(Paul_Zweifel) dbo:deathDate o'<1927-8-13>",
+    "4" : "s(Paul_Zweifel) dbo:deathPlace o'<Leipzig>",
+    "5" : "s(Paul_Zweifel) dbp:article o'<Zweifel, Paul>",
+    "6" : "s(Paul_Zweifel) dbp:author o'<Isidore Singer and Frederick T. Haneman>",
+    "7" : "s(Paul_Zweifel) dbp:url o'<view.jsp?artid=175&letter=Z>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12041",
+  "entityUrl" : "http://dbpedia.org/resource/P%C3%AAr-Jakez_Helias",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12042",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Robin_(judoka)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Pierre_Robin_(judoka)) dbo:birthDate o'<1982-11-1>",
+    "2" : "s(Pierre_Robin_(judoka)) dbo:birthPlace o'<Enghien-les-Bains>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12043",
+  "entityUrl" : "http://dbpedia.org/resource/Purva_Bedi",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Purva_Bedi) dbo:birthDate o'<1974-3-12>",
+    "2" : "s(Purva_Bedi) dbo:birthPlace o'<Chandigarh>",
+    "3" : "s(Purva_Bedi) dbo:birthYear o'<1974>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(purva bedi=Purva_Bedi) [born in ] o'<chandigarh=Chandigarh>"
+  },
+  "abstract" : {
+    "2" : "although purva bedi<Purva_Bedi> was born in chandigarh<Chandigarh>, purva bedi<Purva_Bedi> was brought up in belgium and the united states\n"
+  }
+}, {
+  "entityIndex" : "entity12044",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Nicolas_Gerdy",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Pierre_Nicolas_Gerdy) dbo:birthDate o'<1797-5-1>",
+    "2" : "s(Pierre_Nicolas_Gerdy) dbo:birthPlace o'<Loches-sur-Ource>",
+    "3" : "s(Pierre_Nicolas_Gerdy) dbo:deathDate o'<1856-3-18>",
+    "4" : "s(Pierre_Nicolas_Gerdy) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

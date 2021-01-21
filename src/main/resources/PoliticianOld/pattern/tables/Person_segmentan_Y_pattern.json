@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity12093",
+  "entityUrl" : "http://dbpedia.org/resource/Yellagonga",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12094",
+  "entityUrl" : "http://dbpedia.org/resource/Yoel_Razvozov",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Yoel_Razvozov) dbo:birthDate o'<1980-7-5>",
+    "2" : "s(Yoel_Razvozov) dbo:birthPlace o'<Soviet_Union>",
+    "3" : "s(Yoel_Razvozov) dbp:birthDate o'<1980-07-05>",
+    "4" : "s(Yoel_Razvozov) dbp:birthPlace o'<Soviet_Union>",
+    "5" : "s(Yoel_Razvozov) dbp:birthPlace o'<Birobidzhan>",
+    "6" : "s(Yoel_Razvozov) dbp:knesset(s)_ o'<1920>",
+    "7" : "s(Yoel_Razvozov) dbp:party o'<Yesh_Atid>",
+    "8" : "s(Yoel_Razvozov) dbp:partyyears o'<2013>",
+    "9" : "s(Yoel_Razvozov) dbp:yearOfAliyah o'<1991>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12095",
+  "entityUrl" : "http://dbpedia.org/resource/Yakiv_Barabash",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Yakiv_Barabash) dbo:deathDate o'<1658-8-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12096",
+  "entityUrl" : "http://dbpedia.org/resource/Yuri_Ozerov_(basketball)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Yuri_Ozerov_(basketball)) dbo:birthDate o'<1928-7-9>",
+    "2" : "s(Yuri_Ozerov_(basketball)) dbo:birthPlace o'<Moscow>",
+    "3" : "s(Yuri_Ozerov_(basketball)) dbo:deathDate o'<2004-2-25>",
+    "4" : "s(Yuri_Ozerov_(basketball)) dbo:deathPlace o'<Moscow>",
+    "5" : "s(Yuri_Ozerov_(basketball)) dbo:nationality o'<Soviet_Union>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12097",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Nozaki",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12098",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshimi_Takeuchi",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Yoshimi_Takeuchi) dbo:birthDate o'<1910-10-2>",
+    "2" : "s(Yoshimi_Takeuchi) dbo:deathDate o'<1977-3-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity11377",
+  "entityUrl" : "http://dbpedia.org/resource/Mehdi_Baala",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Mehdi_Baala) dbo:birthDate o'<1978-08-17>",
+    "2" : "s(Mehdi_Baala) dbo:birthDate o'<1978-8-17>",
+    "3" : "s(Mehdi_Baala) dbo:birthPlace o'<Strasbourg>",
+    "4" : "s(Mehdi_Baala) dbo:birthPlace o'<France>",
+    "5" : "s(Mehdi_Baala) dbo:height o'<183.0>",
+    "6" : "s(Mehdi_Baala) dbo:height o'<1.83>",
+    "7" : "s(Mehdi_Baala) dbo:nationality o'<France>",
+    "8" : "s(Mehdi_Baala) dbo:stateOfOrigin o'<France>",
+    "9" : "s(Mehdi_Baala) dbo:weight o'<65.0>",
+    "10" : "s(Mehdi_Baala) dbo:weight o'<65000.0>",
+    "11" : "s(Mehdi_Baala) dbp:imageSize o'<200>",
+    "12" : "s(Mehdi_Baala) dbp:sport o'<Middle-distance_running>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11378",
+  "entityUrl" : "http://dbpedia.org/resource/Marcos_Val%C3%A9rio",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11379",
+  "entityUrl" : "http://dbpedia.org/resource/Maurice_Connolly",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Maurice_Connolly) dbo:birthDate o'<1877-3-13>",
+    "2" : "s(Maurice_Connolly) dbo:birthPlace o'<Dubuque,_Iowa>",
+    "3" : "s(Maurice_Connolly) dbo:deathDate o'<1921-5-28>",
+    "4" : "s(Maurice_Connolly) dbp:after o'<Burton_E._Sweet>",
+    "5" : "s(Maurice_Connolly) dbp:before o'<Charles_E._Pickett>",
+    "6" : "s(Maurice_Connolly) dbp:district o'<3>",
+    "7" : "s(Maurice_Connolly) dbp:state o'<Iowa>",
+    "8" : "s(Maurice_Connolly) dbp:years o'<1913>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11380",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_W._Everson",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Mark_W._Everson) dbo:wikiPageRedirects o'<Mark_Everson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11381",
+  "entityUrl" : "http://dbpedia.org/resource/Malcolm_Gets",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Malcolm_Gets) dbo:birthDate o'<1963-12-28>",
+    "2" : "s(Malcolm_Gets) dbo:birthDate o'<1964-12-28>",
+    "3" : "s(Malcolm_Gets) dbo:birthName o'<Hugh Malcolm Gerard Gets>",
+    "4" : "s(Malcolm_Gets) dbo:birthPlace o'<United_States>",
+    "5" : "s(Malcolm_Gets) dbo:birthPlace o'<Illinois>",
+    "6" : "s(Malcolm_Gets) dbo:birthPlace o'<Waukegan,_Illinois>",
+    "7" : "s(Malcolm_Gets) dbo:birthPlace o'<Waukegan>",
+    "8" : "s(Malcolm_Gets) dbo:birthYear o'<1964>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11382",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Robbins",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Michael_Robbins) dbo:activeYearsEndYear o'<1991>",
+    "2" : "s(Michael_Robbins) dbo:activeYearsStartYear o'<1957>",
+    "3" : "s(Michael_Robbins) dbo:birthDate o'<1930-11-14>",
+    "4" : "s(Michael_Robbins) dbo:birthName o'<Michael Anthony Robbins>",
+    "5" : "s(Michael_Robbins) dbo:birthPlace o'<London>",
+    "6" : "s(Michael_Robbins) dbo:birthYear o'<1930>",
+    "7" : "s(Michael_Robbins) dbo:deathDate o'<1992-12-11>",
+    "8" : "s(Michael_Robbins) dbo:deathPlace o'<Caterham>",
+    "9" : "s(Michael_Robbins) dbo:deathYear o'<1992>",
+    "10" : "s(Michael_Robbins) dbo:imdbId o'<0730425>",
+    "11" : "s(Michael_Robbins) dbo:nationality o'<England>",
+    "12" : "s(Michael_Robbins) dbo:occupation o'<Michael_Robbins__1>",
+    "13" : "s(Michael_Robbins) dbo:stateOfOrigin o'<England>",
+    "14" : "s(Michael_Robbins) dbp:birthPlace o'<London, England>",
+    "15" : "s(Michael_Robbins) dbp:children o'<2>",
+    "16" : "s(Michael_Robbins) dbp:deathCause o'<Cancer>",
+    "17" : "s(Michael_Robbins) dbp:name o'<Michael Robbins>",
+    "18" : "s(Michael_Robbins) dbp:spouse o'<Shirley Hal Dyer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

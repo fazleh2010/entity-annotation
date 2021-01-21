@@ -1,0 +1,131 @@
+[ {
+  "entityIndex" : "entity11076",
+  "entityUrl" : "http://dbpedia.org/resource/Saint_Duthac",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11077",
+  "entityUrl" : "http://dbpedia.org/resource/Sandro_Rosa_do_Nascimento",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Sandro_Rosa_do_Nascimento) dbo:birthDate o'<1978-7-7>",
+    "2" : "s(Sandro_Rosa_do_Nascimento) dbo:birthPlace o'<Rio_de_Janeiro>",
+    "3" : "s(Sandro_Rosa_do_Nascimento) dbo:deathDate o'<2000-6-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11078",
+  "entityUrl" : "http://dbpedia.org/resource/Sewsunker_Sewgolum",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Sewsunker_Sewgolum) dbo:birthDate o'<1930-1-1>",
+    "2" : "s(Sewsunker_Sewgolum) dbo:deathDate o'<1978-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11079",
+  "entityUrl" : "http://dbpedia.org/resource/Scott_Quinnell",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Scott_Quinnell) dbo:birthDate o'<1972-8-20>",
+    "2" : "s(Scott_Quinnell) dbo:birthPlace o'<Swansea>",
+    "3" : "s(Scott_Quinnell) dbo:height o'<182.88>",
+    "4" : "s(Scott_Quinnell) dbo:height o'<1.8288>",
+    "5" : "s(Scott_Quinnell) dbo:relative o'<Barry_John>",
+    "6" : "s(Scott_Quinnell) dbo:relative o'<Craig_Quinnell>",
+    "7" : "s(Scott_Quinnell) dbo:relative o'<Derek_Quinnell>",
+    "8" : "s(Scott_Quinnell) dbo:relative o'<Gavin_Quinnell>",
+    "9" : "s(Scott_Quinnell) dbo:weight o'<114.30527724>",
+    "10" : "s(Scott_Quinnell) dbo:weight o'<114305.0>",
+    "11" : "s(Scott_Quinnell) dbp:birthDate o'<1972-08-20>",
+    "12" : "s(Scott_Quinnell) dbp:birthPlace o'<UK>",
+    "13" : "s(Scott_Quinnell) dbp:birthPlace o'<Glamorgan>",
+    "14" : "s(Scott_Quinnell) dbp:birthPlace o'<Swansea>",
+    "15" : "s(Scott_Quinnell) dbp:birthPlace o'<Wales>",
+    "16" : "s(Scott_Quinnell) dbp:birthPlace o'<Morriston>",
+    "17" : "s(Scott_Quinnell) dbp:rlClubcaps o'<41>",
+    "18" : "s(Scott_Quinnell) dbp:rlClubyears o'<1994>",
+    "19" : "s(Scott_Quinnell) dbp:rlNationalcaps o'<2>",
+    "20" : "s(Scott_Quinnell) dbp:rlNationalteam o'<Wales_national_rugby_league_team>",
+    "21" : "s(Scott_Quinnell) dbp:rlNationalyears o'<1995>",
+    "22" : "s(Scott_Quinnell) dbp:rlProclubs o'<Wigan_Warriors>",
+    "23" : "s(Scott_Quinnell) dbp:ruClubcaps o'<44>",
+    "24" : "s(Scott_Quinnell) dbp:ruClubcaps o'<59>",
+    "25" : "s(Scott_Quinnell) dbp:ruClubcaps o'<146>",
+    "26" : "s(Scott_Quinnell) dbp:ruClubyears o'<1990>",
+    "27" : "s(Scott_Quinnell) dbp:ruClubyears o'<1996>",
+    "28" : "s(Scott_Quinnell) dbp:ruClubyears o'<1998>",
+    "29" : "s(Scott_Quinnell) dbp:ruCurrentteam o'<Retired>",
+    "30" : "s(Scott_Quinnell) dbp:ruNationalcaps o'<3>",
+    "31" : "s(Scott_Quinnell) dbp:ruNationalcaps o'<52>",
+    "32" : "s(Scott_Quinnell) dbp:ruNationalteam o'<British_and_Irish_Lions>",
+    "33" : "s(Scott_Quinnell) dbp:ruNationalteam o'<Wales_national_rugby_union_team>",
+    "34" : "s(Scott_Quinnell) dbp:ruNationalyears o'<1993>",
+    "35" : "s(Scott_Quinnell) dbp:ruNationalyears o'<19972001>",
+    "36" : "s(Scott_Quinnell) dbp:ruPosition o'<Number_eight_(rugby_union)>",
+    "37" : "s(Scott_Quinnell) dbp:ruProclubs o'<Llanelli_RFC>",
+    "38" : "s(Scott_Quinnell) dbp:ruProclubs o'<Llanelli_Scarlets>",
+    "39" : "s(Scott_Quinnell) dbp:ruProclubs o'<Richmond_F.C.>",
+    "40" : "s(Scott_Quinnell) dbp:school o'<Graig Comprehensive School>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(scott quinnell=Scott_Quinnell) [scored 11 tries for ] o'<wales=Wales>"
+  },
+  "abstract" : {
+    "2" : "scott quinnell<Scott_Quinnell> scored 11 tries for wales<Wales> and captained his country on 7 occasions in rugby union<Wales_national_rugby_union_team>\n"
+  }
+}, {
+  "entityIndex" : "entity11080",
+  "entityUrl" : "http://dbpedia.org/resource/Sreeni_Pattathanam",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Sreeni_Pattathanam) dbo:activeYearsEndYear o'<1974>",
+    "2" : "s(Sreeni_Pattathanam) dbo:activeYearsStartYear o'<1974>",
+    "3" : "s(Sreeni_Pattathanam) dbo:birthDate o'<1956-06-10>",
+    "4" : "s(Sreeni_Pattathanam) dbo:birthDate o'<1954-0-0>",
+    "5" : "s(Sreeni_Pattathanam) dbo:birthPlace o'<Kerala>",
+    "6" : "s(Sreeni_Pattathanam) dbo:birthPlace o'<Kollam>",
+    "7" : "s(Sreeni_Pattathanam) dbo:birthPlace o'<Pattathanam>",
+    "8" : "s(Sreeni_Pattathanam) dbo:birthYear o'<1956>",
+    "9" : "s(Sreeni_Pattathanam) dbo:occupation o'<Sreeni_Pattathanam__1>",
+    "10" : "s(Sreeni_Pattathanam) dbp:imageSize o'<200>",
+    "11" : "s(Sreeni_Pattathanam) dbp:nationality o'<Indian>",
+    "12" : "s(Sreeni_Pattathanam) dbp:parents o'<A.Chellappan. K.M Sarassamma>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(sreeni pattathanam=Sreeni_Pattathanam) [born in ] o'<pattathanam=Pattathanam>",
+    "4" : "s(sreeni pattathanam=Sreeni_Pattathanam) [secretary of ] o'<kerala state=Kerala>"
+  },
+  "abstract" : {
+    "2" : "sreeni pattathanam<Sreeni_Pattathanam> was born in the pattathanam<Pattathanam> area of kollam city<Kollam> in the indian state of kerala<Kerala>\n",
+    "4" : "sreeni pattathanam<Sreeni_Pattathanam> was also the secretary of the kerala state<Kerala> branch of indian rationalist association\n"
+  }
+}, {
+  "entityIndex" : "entity11081",
+  "entityUrl" : "http://dbpedia.org/resource/Sion_Hart_Rogers",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Sion_Hart_Rogers) dbo:birthDate o'<1825-9-30>",
+    "2" : "s(Sion_Hart_Rogers) dbo:birthPlace o'<Raleigh,_North_Carolina>",
+    "3" : "s(Sion_Hart_Rogers) dbo:deathDate o'<1874-8-14>",
+    "4" : "s(Sion_Hart_Rogers) dbo:deathPlace o'<Raleigh,_North_Carolina>",
+    "5" : "s(Sion_Hart_Rogers) dbp:after o'<Lawrence_O'Bryan_Branch>",
+    "6" : "s(Sion_Hart_Rogers) dbp:after o'<William_Alexander_Smith_(politician)>",
+    "7" : "s(Sion_Hart_Rogers) dbp:after o'<William_M._Coleman>",
+    "8" : "s(Sion_Hart_Rogers) dbp:before o'<John_Manning,_Jr.>",
+    "9" : "s(Sion_Hart_Rogers) dbp:before o'<James_Turner_Morehead_(North_Carolina)>",
+    "10" : "s(Sion_Hart_Rogers) dbp:before o'<William_A._Jenkins>",
+    "11" : "s(Sion_Hart_Rogers) dbp:district o'<4>",
+    "12" : "s(Sion_Hart_Rogers) dbp:state o'<North Carolina>",
+    "13" : "s(Sion_Hart_Rogers) dbp:title o'<Attorney_General_of_North_Carolina>",
+    "14" : "s(Sion_Hart_Rogers) dbp:years o'<1853>",
+    "15" : "s(Sion_Hart_Rogers) dbp:years o'<1863>",
+    "16" : "s(Sion_Hart_Rogers) dbp:years o'<1871>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

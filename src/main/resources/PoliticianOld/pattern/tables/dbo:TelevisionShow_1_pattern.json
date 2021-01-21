@@ -1,0 +1,115 @@
+[ {
+  "entityIndex" : "entity11073",
+  "entityUrl" : "http://dbpedia.org/resource/100_Huntley_Street",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(100_Huntley_Street) dbo:country o'<Canada>",
+    "2" : "s(100_Huntley_Street) dbo:creator o'<David_Mainse>",
+    "3" : "s(100_Huntley_Street) dbo:genre o'<Talk_show>",
+    "4" : "s(100_Huntley_Street) dbo:language o'<English_language>",
+    "5" : "s(100_Huntley_Street) dbo:network o'<Global_Television_Network>",
+    "6" : "s(100_Huntley_Street) dbo:network o'<Yes_TV>",
+    "7" : "s(100_Huntley_Street) dbo:releaseDate o'<1977-06-15>",
+    "8" : "s(100_Huntley_Street) dbo:runtime o'<60.0>",
+    "9" : "s(100_Huntley_Street) dbo:runtime o'<30.0>",
+    "10" : "s(100_Huntley_Street) dbo:runtime o'<1800.0>",
+    "11" : "s(100_Huntley_Street) dbo:runtime o'<3600.0>",
+    "12" : "s(100_Huntley_Street) dbp:executiveProducer o'<Jennifer Taylor>",
+    "13" : "s(100_Huntley_Street) dbp:executiveProducer o'<Lorna Dueck, CEO>",
+    "14" : "s(100_Huntley_Street) dbp:executiveProducer o'<Melissa McEachern>",
+    "15" : "s(100_Huntley_Street) dbp:lastAired o'<present>",
+    "16" : "s(100_Huntley_Street) dbp:starring o'<Carey Nieuwhof>",
+    "17" : "s(100_Huntley_Street) dbp:starring o'<Cheryl Weber>",
+    "18" : "s(100_Huntley_Street) dbp:starring o'<Joe Amaral, Anchor>",
+    "19" : "s(100_Huntley_Street) dbp:starring o'<John Hull>",
+    "20" : "s(100_Huntley_Street) dbp:starring o'<Magdalene John>",
+    "21" : "s(100_Huntley_Street) dbp:starring o'<Moira Brown>",
+    "22" : "s(100_Huntley_Street) dbp:starring o'<Ron Mainse>",
+    "23" : "s(100_Huntley_Street) dbp:starring o'<Shelly Calcagno>",
+    "24" : "s(100_Huntley_Street) dbp:website o'<100>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11074",
+  "entityUrl" : "http://dbpedia.org/resource/100%25_(game_show)",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(100%25_(game_show)) dbo:company o'<Reg_Grundy_Productions>",
+    "2" : "s(100%25_(game_show)) dbo:completionDate o'<2001-12-24>",
+    "3" : "s(100%25_(game_show)) dbo:distributor o'<FremantleMedia>",
+    "4" : "s(100%25_(game_show)) dbo:format o'<4:3>",
+    "5" : "s(100%25_(game_show)) dbo:network o'<Channel_5_(UK)>",
+    "6" : "s(100%25_(game_show)) dbo:releaseDate o'<1997-03-31>",
+    "7" : "s(100%25_(game_show)) dbo:runtime o'<30.0>",
+    "8" : "s(100%25_(game_show)) dbo:runtime o'<1800.0>",
+    "9" : "s(100%25_(game_show)) dbp:country o'<United Kingdom>",
+    "10" : "s(100%25_(game_show)) dbp:creator o'<Tom Atkinson>",
+    "11" : "s(100%25_(game_show)) dbp:language o'<English>",
+    "12" : "s(100%25_(game_show)) dbp:showName o'<100>",
+    "13" : "s(100%25_(game_show)) dbp:voices o'<Robin Houston>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11075",
+  "entityUrl" : "http://dbpedia.org/resource/10-8",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(10-8) dbo:wikiPageRedirects o'<10-8:_Officers_on_Duty>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11076",
+  "entityUrl" : "http://dbpedia.org/resource/100_Deeds_for_Eddie_McDowd",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(100_Deeds_for_Eddie_McDowd) dbo:company o'<Thomas_W._Lynch>",
+    "2" : "s(100_Deeds_for_Eddie_McDowd) dbo:company o'<Fireworks_Entertainment>",
+    "3" : "s(100_Deeds_for_Eddie_McDowd) dbo:completionDate o'<2002-04-21>",
+    "4" : "s(100_Deeds_for_Eddie_McDowd) dbo:executiveProducer o'<Thomas_W._Lynch>",
+    "5" : "s(100_Deeds_for_Eddie_McDowd) dbo:network o'<Nickelodeon>",
+    "6" : "s(100_Deeds_for_Eddie_McDowd) dbo:numberOfEpisodes o'<40>",
+    "7" : "s(100_Deeds_for_Eddie_McDowd) dbo:numberOfSeasons o'<3>",
+    "8" : "s(100_Deeds_for_Eddie_McDowd) dbo:openingTheme o'<Who_Let_the_Dogs_Out%3F>",
+    "9" : "s(100_Deeds_for_Eddie_McDowd) dbo:openingTheme o'<Baha_Men>",
+    "10" : "s(100_Deeds_for_Eddie_McDowd) dbo:openingTheme o'<The_Hippos>",
+    "11" : "s(100_Deeds_for_Eddie_McDowd) dbo:releaseDate o'<1999-12-14>",
+    "12" : "s(100_Deeds_for_Eddie_McDowd) dbo:runtime o'<-24.0>",
+    "13" : "s(100_Deeds_for_Eddie_McDowd) dbo:runtime o'<-1440.0>",
+    "14" : "s(100_Deeds_for_Eddie_McDowd) dbo:starring o'<Morgan_Kibby>",
+    "15" : "s(100_Deeds_for_Eddie_McDowd) dbo:starring o'<Brandon_Gilberstadt>",
+    "16" : "s(100_Deeds_for_Eddie_McDowd) dbo:starring o'<Melanee_Murray>",
+    "17" : "s(100_Deeds_for_Eddie_McDowd) dbo:voice o'<Seth_Green>",
+    "18" : "s(100_Deeds_for_Eddie_McDowd) dbo:voice o'<Jason_Hervey>",
+    "19" : "s(100_Deeds_for_Eddie_McDowd) dbp:camera o'<Single_camera_setup>",
+    "20" : "s(100_Deeds_for_Eddie_McDowd) dbp:country o'<United States>",
+    "21" : "s(100_Deeds_for_Eddie_McDowd) dbp:creator o'<Mitchel Katlin>",
+    "22" : "s(100_Deeds_for_Eddie_McDowd) dbp:creator o'<Nat Bernstein>",
+    "23" : "s(100_Deeds_for_Eddie_McDowd) dbp:creator o'<Steven H. Berman>",
+    "24" : "s(100_Deeds_for_Eddie_McDowd) dbp:listEpisodes o'<List of 100 Deeds for Eddie McDowd episodes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11077",
+  "entityUrl" : "http://dbpedia.org/resource/101_Dalmatians",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(101_Dalmatians) dbo:wikiPageDisambiguates o'<The_101_Dalmatians_Musical>",
+    "2" : "s(101_Dalmatians) dbo:wikiPageDisambiguates o'<101_Dalmatians_(1996_film)>",
+    "3" : "s(101_Dalmatians) dbo:wikiPageDisambiguates o'<101_Dalmatians_II:_Patch's_London_Adventure>",
+    "4" : "s(101_Dalmatians) dbo:wikiPageDisambiguates o'<101_Dalmatians:_Escape_from_DeVil_Manor>",
+    "5" : "s(101_Dalmatians) dbo:wikiPageDisambiguates o'<101_Dalmatians:_The_Series>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11078",
+  "entityUrl" : "http://dbpedia.org/resource/1,_rue_S%C3%A9same",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

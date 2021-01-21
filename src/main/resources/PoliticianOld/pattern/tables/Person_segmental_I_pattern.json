@@ -1,0 +1,58 @@
+[ {
+  "entityIndex" : "entity11668",
+  "entityUrl" : "http://dbpedia.org/resource/Ignacio_Pi%C3%B1eiro",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11669",
+  "entityUrl" : "http://dbpedia.org/resource/Imme_Dros",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Imme_Dros) dbo:birthDate o'<1936-9-26>",
+    "2" : "s(Imme_Dros) dbo:birthPlace o'<Oudeschild>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11670",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_ben_Joseph_ibn_Pulgar",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Isaac_ben_Joseph_ibn_Pulgar) dbo:deathDate o'<1500-1-1>",
+    "2" : "s(Isaac_ben_Joseph_ibn_Pulgar) dbp:article o'<Ibn Pulgar, Isaac ben Joseph>",
+    "3" : "s(Isaac_ben_Joseph_ibn_Pulgar) dbp:url o'<view.jsp?letter=I&artid=37>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11671",
+  "entityUrl" : "http://dbpedia.org/resource/Isidoro_Sota",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Isidoro_Sota) dbo:birthDate o'<1902-2-4>",
+    "2" : "s(Isidoro_Sota) dbo:birthPlace o'<Orizaba>",
+    "3" : "s(Isidoro_Sota) dbo:deathDate o'<1976-12-8>",
+    "4" : "s(Isidoro_Sota) dbo:deathPlace o'<Mexico_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11672",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Mudie",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ian_Mudie) dbo:birthDate o'<1911-3-1>",
+    "2" : "s(Ian_Mudie) dbo:deathDate o'<1976-10-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11673",
+  "entityUrl" : "http://dbpedia.org/resource/Ikuro_Takahashi",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

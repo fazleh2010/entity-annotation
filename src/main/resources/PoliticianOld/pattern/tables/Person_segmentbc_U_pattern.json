@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity14525",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrich_II,_Duke_of_Mecklenburg-Stargard",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbo:birthDate o'<1428-0-0>",
+    "2" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbo:birthPlace o'<Burg_Stargard>",
+    "3" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbo:deathDate o'<1471-07-13>",
+    "4" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbo:deathDate o'<1471-7-13>",
+    "5" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbo:deathPlace o'<Burg_Stargard>",
+    "6" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbo:parent o'<Henry,_Duke_of_Mecklenburg-Stargard>",
+    "7" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:after o'<Henry_IV,_Duke_of_Mecklenburg>",
+    "8" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:as o'<Duke of Mecklenburg>",
+    "9" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:birthDate o'<probably before 1428>",
+    "10" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:burialPlace o'<Wanzka Monastery>",
+    "11" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:mother o'<Ingeborg of Pomerania>",
+    "12" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:nobleFamily o'<House_of_Mecklenburg>",
+    "13" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:spouse o'<Catherine of Werle>",
+    "14" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:title o'<List_of_dukes_and_grand_dukes_of_Mecklenburg>",
+    "15" : "s(Ulrich_II,_Duke_of_Mecklenburg-Stargard) dbp:years o'<1466>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14526",
+  "entityUrl" : "http://dbpedia.org/resource/Udaykumar",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Udaykumar) dbo:activeYearsEndYear o'<1985>",
+    "2" : "s(Udaykumar) dbo:activeYearsStartYear o'<1956>",
+    "3" : "s(Udaykumar) dbo:alias o'<Natasamrat, NaadaBhata>",
+    "4" : "s(Udaykumar) dbo:birthDate o'<1933-03-05>",
+    "5" : "s(Udaykumar) dbo:birthDate o'<1933-3-5>",
+    "6" : "s(Udaykumar) dbo:birthName o'<Bommasandra Srinivasaiah Suryanarayana Murthy>",
+    "7" : "s(Udaykumar) dbo:birthPlace o'<Tamil_Nadu>",
+    "8" : "s(Udaykumar) dbo:birthPlace o'<Dharmapuri>",
+    "9" : "s(Udaykumar) dbo:birthPlace o'<Palacode>",
+    "10" : "s(Udaykumar) dbo:birthPlace o'<Salem,_Tamil_Nadu>",
+    "11" : "s(Udaykumar) dbo:birthYear o'<1933>",
+    "12" : "s(Udaykumar) dbo:deathDate o'<1985-12-26>",
+    "13" : "s(Udaykumar) dbo:deathPlace o'<India>",
+    "14" : "s(Udaykumar) dbo:deathPlace o'<Bangalore>",
+    "15" : "s(Udaykumar) dbo:deathYear o'<1985>",
+    "16" : "s(Udaykumar) dbo:occupation o'<Udaykumar__1>",
+    "17" : "s(Udaykumar) dbp:children o'<Vikram UdayKumar and Shyamalatha>",
+    "18" : "s(Udaykumar) dbp:father o'<B. S. Srinivasaiah>",
+    "19" : "s(Udaykumar) dbp:mother o'<Sharadamma>",
+    "20" : "s(Udaykumar) dbp:nationality o'<Indian>",
+    "21" : "s(Udaykumar) dbp:spouse o'<Kamalamma>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14527",
+  "entityUrl" : "http://dbpedia.org/resource/Umar_Al-Qadri",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Umar_Al-Qadri) dbo:almaMater o'<Minhaj_University>",
+    "2" : "s(Umar_Al-Qadri) dbo:nationality o'<Netherlands>",
+    "3" : "s(Umar_Al-Qadri) dbo:occupation o'<Imam>",
+    "4" : "s(Umar_Al-Qadri) dbo:orderInOffice o'<FounderAl-Mustafa Islamic Cultural Centre IrelandChair Irish Muslim Peace & Integration Council>",
+    "5" : "s(Umar_Al-Qadri) dbo:religion o'<Islam>",
+    "6" : "s(Umar_Al-Qadri) dbp:children o'<3>",
+    "7" : "s(Umar_Al-Qadri) dbp:citizenship o'<Ireland>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14528",
+  "entityUrl" : "http://dbpedia.org/resource/Ubirat%C3%A0n_D'Ambrosio",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14529",
+  "entityUrl" : "http://dbpedia.org/resource/Uttej",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Uttej) dbo:birthPlace o'<India>",
+    "2" : "s(Uttej) dbo:birthPlace o'<Telangana>",
+    "3" : "s(Uttej) dbo:birthPlace o'<Nalgonda>",
+    "4" : "s(Uttej) dbo:occupation o'<Screenwriter>",
+    "5" : "s(Uttej) dbo:occupation o'<Uttej__1>",
+    "6" : "s(Uttej) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14530",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrich_Eisenlohr",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

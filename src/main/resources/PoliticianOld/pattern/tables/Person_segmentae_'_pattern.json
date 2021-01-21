@@ -1,0 +1,15 @@
+[ {
+  "entityIndex" : "entity11467",
+  "entityUrl" : "http://dbpedia.org/resource/'Alqama_ibn_'Abada",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11468",
+  "entityUrl" : "http://dbpedia.org/resource/'Imran_ibn_Shahin",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

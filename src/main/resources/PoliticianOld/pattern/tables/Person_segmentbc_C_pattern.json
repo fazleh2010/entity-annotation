@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "entity14417",
+  "entityUrl" : "http://dbpedia.org/resource/Clarence_E._Wagner",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Clarence_E._Wagner) dbo:birthDate o'<1896-1-1>",
+    "2" : "s(Clarence_E._Wagner) dbo:deathDate o'<1979-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14418",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_E._Alden",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Charles_E._Alden) dbo:nationality o'<United_States_of_America>",
+    "2" : "s(Charles_E._Alden) dbo:occupation o'<Charles_E._Alden__1>",
+    "3" : "s(Charles_E._Alden) dbo:stateOfOrigin o'<United_States_of_America>",
+    "4" : "s(Charles_E._Alden) dbp:knownFor o'<The invention of the \"vest pocket telephone\" in 1906>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14419",
+  "entityUrl" : "http://dbpedia.org/resource/Cresc%C3%AAnzio_Rinaldini",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14420",
+  "entityUrl" : "http://dbpedia.org/resource/Curry_Todd",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Curry_Todd) dbo:birthDate o'<1947-12-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14421",
+  "entityUrl" : "http://dbpedia.org/resource/Candace_Dempsey",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Candace_Dempsey) dbo:education o'<University_of_Oregon>",
+    "2" : "s(Candace_Dempsey) dbo:occupation o'<Candace_Dempsey__1>",
+    "3" : "s(Candace_Dempsey) dbo:residence o'<Seattle>",
+    "4" : "s(Candace_Dempsey) dbp:birthDate o'<Spokane, Washington>",
+    "5" : "s(Candace_Dempsey) dbp:imageSize o'<200>",
+    "6" : "s(Candace_Dempsey) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(candace dempsey=Candace_Dempsey) [maintains blog about ] o'<seattle=Seattle>"
+  },
+  "abstract" : {
+    "4" : "candace dempsey<Candace_Dempsey> maintains a blog about the case, \"let's talk about true crime,\" hosted by the seattle<Seattle> post-intelligencer\n"
+  }
+}, {
+  "entityIndex" : "entity14422",
+  "entityUrl" : "http://dbpedia.org/resource/C._W._Deane",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(C._W._Deane) dbo:birthDate o'<1837-1-1>",
+    "2" : "s(C._W._Deane) dbo:deathDate o'<1914-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

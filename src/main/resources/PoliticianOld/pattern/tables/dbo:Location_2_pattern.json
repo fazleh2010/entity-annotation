@@ -1,0 +1,25 @@
+[ {
+  "entityIndex" : "entity11282",
+  "entityUrl" : "http://dbpedia.org/resource/20,_Ashoka_Road",
+  "dboClass" : "dbo:Location",
+  "triples" : {
+    "1" : "s(20,_Ashoka_Road) dbo:country o'<India>",
+    "2" : "s(20,_Ashoka_Road) dbo:location o'<New_Delhi>",
+    "3" : "s(20,_Ashoka_Road) dbp:architect o'<Firoz Kudianwala>",
+    "4" : "s(20,_Ashoka_Road) dbp:client o'<Ministry_of_Communications_and_Information_Technology_(India)>",
+    "5" : "s(20,_Ashoka_Road) dbp:coordinatesDisplay o'<yes>",
+    "6" : "s(20,_Ashoka_Road) dbp:isoRegion o'<IN-DL>",
+    "7" : "s(20,_Ashoka_Road) dbp:latd o'<28>",
+    "8" : "s(20,_Ashoka_Road) dbp:latm o'<37>",
+    "9" : "s(20,_Ashoka_Road) dbp:latns o'<N>",
+    "10" : "s(20,_Ashoka_Road) dbp:lats o'<18>",
+    "11" : "s(20,_Ashoka_Road) dbp:longd o'<77>",
+    "12" : "s(20,_Ashoka_Road) dbp:longew o'<E>",
+    "13" : "s(20,_Ashoka_Road) dbp:longm o'<12>",
+    "14" : "s(20,_Ashoka_Road) dbp:longs o'<50>",
+    "15" : "s(20,_Ashoka_Road) dbp:mapCaption o'<Location of 20, Ashok Road in New Delhi>",
+    "16" : "s(20,_Ashoka_Road) dbp:mapType o'<India New Delhi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

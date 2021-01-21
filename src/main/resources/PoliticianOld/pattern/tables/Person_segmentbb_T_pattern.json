@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity14356",
+  "entityUrl" : "http://dbpedia.org/resource/Terre_Nash",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Terre_Nash) dbo:birthDate o'<1949-1-1>",
+    "2" : "s(Terre_Nash) dbo:birthPlace o'<Nanaimo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14357",
+  "entityUrl" : "http://dbpedia.org/resource/Taiwo_Allimi",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Taiwo_Allimi) dbo:birthDate o'<1944-12-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14358",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Morosini",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Thomas_Morosini) dbo:birthDate o'<1200-1-1>",
+    "2" : "s(Thomas_Morosini) dbo:birthPlace o'<Venice>",
+    "3" : "s(Thomas_Morosini) dbo:deathDate o'<1211-1-1>",
+    "4" : "s(Thomas_Morosini) dbo:deathPlace o'<Thessaloniki>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14359",
+  "entityUrl" : "http://dbpedia.org/resource/Tito_Jackson_(politician)",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Tito_Jackson_(politician)) dbo:almaMater o'<University_of_New_Hampshire>",
+    "2" : "s(Tito_Jackson_(politician)) dbo:birthDate o'<1975-04-11>",
+    "3" : "s(Tito_Jackson_(politician)) dbo:birthDate o'<1975-4-11>",
+    "4" : "s(Tito_Jackson_(politician)) dbo:committee o'<Chair of the Education Committee>",
+    "5" : "s(Tito_Jackson_(politician)) dbo:nationality o'<United_States>",
+    "6" : "s(Tito_Jackson_(politician)) dbo:predecessor o'<Chuck_Turner>",
+    "7" : "s(Tito_Jackson_(politician)) dbo:residence o'<Roxbury,_Boston>",
+    "8" : "s(Tito_Jackson_(politician)) dbp:occupation o'<Boston City Councillor, District 7>",
+    "9" : "s(Tito_Jackson_(politician)) dbp:termStart o'<2011>",
+    "10" : "s(Tito_Jackson_(politician)) dbp:title o'<Member of the Boston City Council from the 7th District>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(tito jackson (politician)=Tito_Jackson_(politician)) [represents council district 7 ] o'<roxbury neighborhood=Roxbury,_Boston>"
+  },
+  "abstract" : {
+    "2" : "tito jackson (politician)<Tito_Jackson_(politician)> represents council district 7, which consists of the roxbury neighborhood<Roxbury,_Boston> and parts of dorchester, south end, and fenway\n"
+  }
+}, {
+  "entityIndex" : "entity14360",
+  "entityUrl" : "http://dbpedia.org/resource/Thepchai_Yong",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Thepchai_Yong) dbo:award o'<CPJ_International_Press_Freedom_Awards>",
+    "2" : "s(Thepchai_Yong) dbo:award o'<Nieman_Fellowship>",
+    "3" : "s(Thepchai_Yong) dbo:birthDate o'<1955-04-22>",
+    "4" : "s(Thepchai_Yong) dbo:birthDate o'<1955-4-22>",
+    "5" : "s(Thepchai_Yong) dbo:birthPlace o'<Songkhla_Province>",
+    "6" : "s(Thepchai_Yong) dbo:birthPlace o'<Hat_Yai_District>",
+    "7" : "s(Thepchai_Yong) dbo:birthYear o'<1955>",
+    "8" : "s(Thepchai_Yong) dbo:nationality o'<Thailand>",
+    "9" : "s(Thepchai_Yong) dbo:occupation o'<Thepchai_Yong__1>",
+    "10" : "s(Thepchai_Yong) dbo:stateOfOrigin o'<Thailand>",
+    "11" : "s(Thepchai_Yong) dbp:organization o'<Thai_Public_Broadcasting_Service>",
+    "12" : "s(Thepchai_Yong) dbp:organization o'<Thai Broadcast Journalists Association>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14361",
+  "entityUrl" : "http://dbpedia.org/resource/Thalia_Field",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Thalia_Field) dbo:birthDate o'<1966-1-1>",
+    "2" : "s(Thalia_Field) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

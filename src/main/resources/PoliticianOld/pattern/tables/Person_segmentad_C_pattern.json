@@ -1,0 +1,85 @@
+[ {
+  "entityIndex" : "entity11153",
+  "entityUrl" : "http://dbpedia.org/resource/Carol_Lynley",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Carol_Lynley) dbo:activeYearsStartYear o'<1956>",
+    "2" : "s(Carol_Lynley) dbo:alias o'<Carolyn Lee>",
+    "3" : "s(Carol_Lynley) dbo:birthDate o'<1942-02-13>",
+    "4" : "s(Carol_Lynley) dbo:birthDate o'<1942-2-13>",
+    "5" : "s(Carol_Lynley) dbo:birthName o'<Carole Ann Jones>",
+    "6" : "s(Carol_Lynley) dbo:birthPlace o'<Manhattan>",
+    "7" : "s(Carol_Lynley) dbo:birthPlace o'<New_York_City>",
+    "8" : "s(Carol_Lynley) dbo:birthPlace o'<New_York_(state)>",
+    "9" : "s(Carol_Lynley) dbo:birthYear o'<1942>",
+    "10" : "s(Carol_Lynley) dbo:occupation o'<Carol_Lynley__1>",
+    "11" : "s(Carol_Lynley) dbp:children o'<1>",
+    "12" : "s(Carol_Lynley) dbp:spouse o'<1960>",
+    "13" : "s(Carol_Lynley) dbp:spouse o'<1964>",
+    "14" : "s(Carol_Lynley) dbp:spouse o'<Michael Selsman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11154",
+  "entityUrl" : "http://dbpedia.org/resource/Chi-Ming_Yang",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11155",
+  "entityUrl" : "http://dbpedia.org/resource/Carol_Flint",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11156",
+  "entityUrl" : "http://dbpedia.org/resource/Christine_Nixon",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Christine_Nixon) dbo:birthDate o'<1953-06-11>",
+    "2" : "s(Christine_Nixon) dbo:birthDate o'<1953-6-11>",
+    "3" : "s(Christine_Nixon) dbo:birthPlace o'<New_South_Wales>",
+    "4" : "s(Christine_Nixon) dbo:birthPlace o'<Sydney>",
+    "5" : "s(Christine_Nixon) dbo:birthPlace o'<Australia>",
+    "6" : "s(Christine_Nixon) dbo:birthPlace o'<Manly,_New_South_Wales>",
+    "7" : "s(Christine_Nixon) dbo:birthYear o'<1953>",
+    "8" : "s(Christine_Nixon) dbo:education o'<Macquarie_University>",
+    "9" : "s(Christine_Nixon) dbo:education o'<Harvard_Kennedy_School>",
+    "10" : "s(Christine_Nixon) dbo:education o'<Bachelor_of_Arts>",
+    "11" : "s(Christine_Nixon) dbo:education o'<Master_of_Public_Administration>",
+    "12" : "s(Christine_Nixon) dbo:knownFor o'<Police_commissioner>",
+    "13" : "s(Christine_Nixon) dbo:nationality o'<Australian>",
+    "14" : "s(Christine_Nixon) dbo:personFunction o'<Christine_Nixon__1>",
+    "15" : "s(Christine_Nixon) dbo:predecessor o'<Neil_Comrie>",
+    "16" : "s(Christine_Nixon) dbo:residence o'<Melbourne>",
+    "17" : "s(Christine_Nixon) dbo:stateOfOrigin o'<Australian>",
+    "18" : "s(Christine_Nixon) dbo:successor o'<Simon_Overland>",
+    "19" : "s(Christine_Nixon) dbo:title o'<Chief Commissioner of Victoria Police>",
+    "20" : "s(Christine_Nixon) dbp:imageSize o'<250>",
+    "21" : "s(Christine_Nixon) dbp:spouse o'<John Becquet>",
+    "22" : "s(Christine_Nixon) dbp:term o'<2001>",
+    "23" : "s(Christine_Nixon) dbp:title o'<Chief Commissioner of Victoria Police>",
+    "24" : "s(Christine_Nixon) dbp:years o'<2001>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11157",
+  "entityUrl" : "http://dbpedia.org/resource/Chaerephon",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Chaerephon) dbo:birthPlace o'<Q13446048>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11158",
+  "entityUrl" : "http://dbpedia.org/resource/Charles-Andr%C3%A9_van_Loo",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

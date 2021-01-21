@@ -1,0 +1,76 @@
+[ {
+  "entityIndex" : "entity10901",
+  "entityUrl" : "http://dbpedia.org/resource/Quah_Chow_Cheung",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Quah_Chow_Cheung) dbo:birthDate o'<1913-6-8>",
+    "2" : "s(Quah_Chow_Cheung) dbo:birthPlace o'<Penang>",
+    "3" : "s(Quah_Chow_Cheung) dbo:deathDate o'<1965-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10902",
+  "entityUrl" : "http://dbpedia.org/resource/Qutb_ad-D%C4%ABn_Haydar",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10903",
+  "entityUrl" : "http://dbpedia.org/resource/Quinn_Cummings",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Quinn_Cummings) dbo:activeYearsEndYear o'<1991>",
+    "2" : "s(Quinn_Cummings) dbo:activeYearsStartYear o'<1975>",
+    "3" : "s(Quinn_Cummings) dbo:birthDate o'<1967-08-13>",
+    "4" : "s(Quinn_Cummings) dbo:birthDate o'<1967-8-13>",
+    "5" : "s(Quinn_Cummings) dbo:birthPlace o'<United_States>",
+    "6" : "s(Quinn_Cummings) dbo:birthPlace o'<California>",
+    "7" : "s(Quinn_Cummings) dbo:birthPlace o'<Los_Angeles>",
+    "8" : "s(Quinn_Cummings) dbo:birthYear o'<1967>",
+    "9" : "s(Quinn_Cummings) dbo:occupation o'<Quinn_Cummings__1>",
+    "10" : "s(Quinn_Cummings) dbp:partner o'<Don DiPietro, co-CEO of online notary company>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10904",
+  "entityUrl" : "http://dbpedia.org/resource/Quenby_Fung",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10905",
+  "entityUrl" : "http://dbpedia.org/resource/Qifu_Gangui",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Qifu_Gangui) dbo:deathDate o'<412-1-1>",
+    "2" : "s(Qifu_Gangui) dbp:after o'<Yao_Xing>",
+    "3" : "s(Qifu_Gangui) dbp:reason o'<Sixteen_Kingdoms>",
+    "4" : "s(Qifu_Gangui) dbp:reason o'<Annexed by Later Qin>",
+    "5" : "s(Qifu_Gangui) dbp:rows o'<2>",
+    "6" : "s(Qifu_Gangui) dbp:title o'<Emperor_of_China>",
+    "7" : "s(Qifu_Gangui) dbp:title o'<Marquess of Guiyi>",
+    "8" : "s(Qifu_Gangui) dbp:title o'<Prince of Western Qin>",
+    "9" : "s(Qifu_Gangui) dbp:years o'<388>",
+    "10" : "s(Qifu_Gangui) dbp:years o'<400>",
+    "11" : "s(Qifu_Gangui) dbp:years o'<409>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10906",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Thomas",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Quentin_Thomas) dbo:birthDate o'<1944-0-0>",
+    "2" : "s(Quentin_Thomas) dbp:after o'<Patrick Swaffer>",
+    "3" : "s(Quentin_Thomas) dbp:before o'<Andreas_Whittam_Smith>",
+    "4" : "s(Quentin_Thomas) dbp:title o'<President of the British Board of Film Classification>",
+    "5" : "s(Quentin_Thomas) dbp:years o'<2002>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,66 @@
+[ {
+  "entityIndex" : "entity11831",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_James_Gould",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Isaac_James_Gould) dbo:birthDate o'<1839-11-13>",
+    "2" : "s(Isaac_James_Gould) dbo:deathDate o'<1915-6-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11832",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Darke",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Ian_Darke) dbo:birthDate o'<1950-1-1>",
+    "2" : "s(Ian_Darke) dbp:align o'<right>",
+    "3" : "s(Ian_Darke) dbp:b o'<no>",
+    "4" : "s(Ian_Darke) dbp:bgcolor o'<#FFFFF0>",
+    "5" : "s(Ian_Darke) dbp:quote o'<Rapinoe gets a cross in. In towards Wambach! Oh, can you believe this! Abby Wambach has saved the USA's life in this World Cup!>",
+    "6" : "s(Ian_Darke) dbp:quote o'<Cross â€“ and Dempsey is denied again! And Donovan has scored! Oh, can you believe this! Go, go, USA! Certainly through! Oh, it's incredible!>",
+    "7" : "s(Ian_Darke) dbp:quote o'<Zusi to take it...And there! It's there! What about that! It's John Brooks! It's John Brooks! For the USA! Have they stolen it?>",
+    "8" : "s(Ian_Darke) dbp:quoted o'<true>",
+    "9" : "s(Ian_Darke) dbp:salign o'<center>",
+    "10" : "s(Ian_Darke) dbp:source o'<Darke's call on ESPN for John Brooks' winning goal against Ghana in the 2014 World Cup group stage>",
+    "11" : "s(Ian_Darke) dbp:source o'<Darke's call on ESPN during Landon Donovan's winning goal against Algeria in the 2010 World Cup group stage>",
+    "12" : "s(Ian_Darke) dbp:source o'<Darke's call on ESPN for Abby Wambach's tying goal against Brazil in the 2011 Women's World Cup quarterfinals>",
+    "13" : "s(Ian_Darke) dbp:v o'<no>",
+    "14" : "s(Ian_Darke) dbp:width o'<25.0>",
+    "15" : "s(Ian_Darke) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11833",
+  "entityUrl" : "http://dbpedia.org/resource/Ion_Sumedrea",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Ion_Sumedrea) dbo:birthDate o'<1925-4-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11834",
+  "entityUrl" : "http://dbpedia.org/resource/Ion_Hebedeanu",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Ion_Hebedeanu) dbo:birthDate o'<1925-7-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11835",
+  "entityUrl" : "http://dbpedia.org/resource/Ign%C3%A1cz_Berecz",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11836",
+  "entityUrl" : "http://dbpedia.org/resource/Ilona_%C5%A0t%C4%9Bp%C3%A1nov%C3%A1-Kurzov%C3%A1",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

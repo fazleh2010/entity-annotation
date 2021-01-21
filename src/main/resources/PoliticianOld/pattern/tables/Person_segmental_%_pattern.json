@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11776",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%BDarko_Kora%C4%87",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11777",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Chassaignac",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11778",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81lvaro_Navarro_Serra",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11779",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%93lafur_J%C3%B3hann_Sigur%C3%B0sson",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11780",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%8Cseki_Masunori",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11781",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Sauret",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

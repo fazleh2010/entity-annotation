@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity10677",
+  "entityUrl" : "http://dbpedia.org/resource/George_Harris,_3rd_Baron_Harris",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(George_Harris,_3rd_Baron_Harris) dbo:birthDate o'<1810-08-14>",
+    "2" : "s(George_Harris,_3rd_Baron_Harris) dbo:birthDate o'<1810-8-14>",
+    "3" : "s(George_Harris,_3rd_Baron_Harris) dbo:birthPlace o'<Belmont_House_and_Gardens>",
+    "4" : "s(George_Harris,_3rd_Baron_Harris) dbo:deathDate o'<1872-11-23>",
+    "5" : "s(George_Harris,_3rd_Baron_Harris) dbo:deathPlace o'<United_Kingdom>",
+    "6" : "s(George_Harris,_3rd_Baron_Harris) dbo:orderInOffice o'<Governor of Madras Presidency>",
+    "7" : "s(George_Harris,_3rd_Baron_Harris) dbo:orderInOffice o'<Governor of Trinidad>",
+    "8" : "s(George_Harris,_3rd_Baron_Harris) dbo:predecessor o'<Daniel_Eliott>",
+    "9" : "s(George_Harris,_3rd_Baron_Harris) dbo:successor o'<Charles_Edward_Trevelyan>",
+    "10" : "s(George_Harris,_3rd_Baron_Harris) dbo:termPeriod o'<George_Harris,_3rd_Baron_Harris__1>",
+    "11" : "s(George_Harris,_3rd_Baron_Harris) dbp:after o'<James_Talbot,_4th_Baron_Talbot_of_Malahide>",
+    "12" : "s(George_Harris,_3rd_Baron_Harris) dbp:after o'<L._Bourchier>",
+    "13" : "s(George_Harris,_3rd_Baron_Harris) dbp:after o'<Sir_Charles_Trevelyan,_1st_Baronet>",
+    "14" : "s(George_Harris,_3rd_Baron_Harris) dbp:after o'<George_Harris,_4th_Baron_Harris>",
+    "15" : "s(George_Harris,_3rd_Baron_Harris) dbp:before o'<Daniel_Eliott>",
+    "16" : "s(George_Harris,_3rd_Baron_Harris) dbp:before o'<Henry_George_Macleod>",
+    "17" : "s(George_Harris,_3rd_Baron_Harris) dbp:before o'<William_Harris,_2nd_Baron_Harris>",
+    "18" : "s(George_Harris,_3rd_Baron_Harris) dbp:before o'<George_Byron,_7th_Baron_Byron>",
+    "19" : "s(George_Harris,_3rd_Baron_Harris) dbp:deathPlace o'<United Kingdom>",
+    "20" : "s(George_Harris,_3rd_Baron_Harris) dbp:honorificPrefix o'<The_Right_Honourable>",
+    "21" : "s(George_Harris,_3rd_Baron_Harris) dbp:imagesize o'<200>",
+    "22" : "s(George_Harris,_3rd_Baron_Harris) dbp:nationality o'<British>",
+    "23" : "s(George_Harris,_3rd_Baron_Harris) dbp:religion o'<Christian>",
+    "24" : "s(George_Harris,_3rd_Baron_Harris) dbp:title o'<Baron_Harris>",
+    "25" : "s(George_Harris,_3rd_Baron_Harris) dbp:title o'<Governor_of_Trinidad>",
+    "26" : "s(George_Harris,_3rd_Baron_Harris) dbp:title o'<Governor_of_Madras>",
+    "27" : "s(George_Harris,_3rd_Baron_Harris) dbp:title o'<Lord-in-Waiting>",
+    "28" : "s(George_Harris,_3rd_Baron_Harris) dbp:years o'<1845>",
+    "29" : "s(George_Harris,_3rd_Baron_Harris) dbp:years o'<1846>",
+    "30" : "s(George_Harris,_3rd_Baron_Harris) dbp:years o'<1854>",
+    "31" : "s(George_Harris,_3rd_Baron_Harris) dbp:years o'<1860>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(george harris, 3rd baron harris=George_Harris,_3rd_Baron_Harris) [served ] o'<governor of trinidad=Governor_of_Trinidad>"
+  },
+  "abstract" : {
+    "2" : "george harris, 3rd baron harris<George_Harris,_3rd_Baron_Harris> served as the governor of trinidad<Governor_of_Trinidad> from 1846 to 1854 and madras<Governor_of_Madras> from 1854 to 1859\n"
+  }
+}, {
+  "entityIndex" : "entity10678",
+  "entityUrl" : "http://dbpedia.org/resource/Gordon_Wenham",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Gordon_Wenham) dbo:birthDate o'<1943-1-1>",
+    "2" : "s(Gordon_Wenham) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10679",
+  "entityUrl" : "http://dbpedia.org/resource/Gaspar_Graziani",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Gaspar_Graziani) dbo:birthDate o'<1580-1-1>",
+    "2" : "s(Gaspar_Graziani) dbo:deathDate o'<1620-1-1>",
+    "3" : "s(Gaspar_Graziani) dbo:deathPlace o'<ÈšuÈ›ora>",
+    "4" : "s(Gaspar_Graziani) dbp:after o'<IliaÈ™_Alexandru>",
+    "5" : "s(Gaspar_Graziani) dbp:before o'<Radu_Mihnea>",
+    "6" : "s(Gaspar_Graziani) dbp:title o'<List_of_Moldavian_rulers>",
+    "7" : "s(Gaspar_Graziani) dbp:years o'<1619>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10680",
+  "entityUrl" : "http://dbpedia.org/resource/Galeazzo_Sabbatini",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Galeazzo_Sabbatini) dbo:birthDate o'<1597-1-1>",
+    "2" : "s(Galeazzo_Sabbatini) dbo:deathDate o'<1662-1-1>",
+    "3" : "s(Galeazzo_Sabbatini) dbo:nationality o'<Italy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10681",
+  "entityUrl" : "http://dbpedia.org/resource/Giuseppe_Sabbatini",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Giuseppe_Sabbatini) dbo:birthDate o'<1957-5-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10682",
+  "entityUrl" : "http://dbpedia.org/resource/George_Brumwell",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(George_Brumwell) dbo:birthDate o'<1939-10-22>",
+    "2" : "s(George_Brumwell) dbo:deathDate o'<2005-11-8>",
+    "3" : "s(George_Brumwell) dbp:after o'<Alan_Ritchie>",
+    "4" : "s(George_Brumwell) dbp:before o'<Albert_Williams_(trade_unionist)>",
+    "5" : "s(George_Brumwell) dbp:title o'<General Secretary of UCATT>",
+    "6" : "s(George_Brumwell) dbp:years o'<1992>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

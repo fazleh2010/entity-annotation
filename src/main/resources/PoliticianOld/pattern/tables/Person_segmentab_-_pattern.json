@@ -1,0 +1,11 @@
+[ {
+  "entityIndex" : "entity10967",
+  "entityUrl" : "http://dbpedia.org/resource/-minu",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(-minu) dbo:birthDate o'<1947-6-16>",
+    "2" : "s(-minu) dbo:birthPlace o'<Basel>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

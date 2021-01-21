@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity14134",
+  "entityUrl" : "http://dbpedia.org/resource/Klara_Zimmergren",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Klara_Zimmergren) dbo:birthDate o'<1967-2-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14135",
+  "entityUrl" : "http://dbpedia.org/resource/Klaus_Mosbach",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Klaus_Mosbach) dbo:birthDate o'<1932-11-26>",
+    "2" : "s(Klaus_Mosbach) dbo:birthPlace o'<Germany>",
+    "3" : "s(Klaus_Mosbach) dbo:birthPlace o'<Leipzig>",
+    "4" : "s(Klaus_Mosbach) dbo:birthYear o'<1932>",
+    "5" : "s(Klaus_Mosbach) dbo:occupation o'<Klaus_Mosbach__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14136",
+  "entityUrl" : "http://dbpedia.org/resource/Khaled_Hroub",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14137",
+  "entityUrl" : "http://dbpedia.org/resource/Karen_Brancourt",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Karen_Brancourt) dbo:birthDate o'<1962-3-15>",
+    "2" : "s(Karen_Brancourt) dbo:country o'<Australia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14138",
+  "entityUrl" : "http://dbpedia.org/resource/Kirsten_Wenzel",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Kirsten_Wenzel) dbo:birthDate o'<1961-2-27>",
+    "2" : "s(Kirsten_Wenzel) dbo:birthPlace o'<Leipzig>",
+    "3" : "s(Kirsten_Wenzel) dbo:country o'<Germany>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14139",
+  "entityUrl" : "http://dbpedia.org/resource/Kersten_Neisser",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Kersten_Neisser) dbo:birthDate o'<1956-5-4>",
+    "2" : "s(Kersten_Neisser) dbo:birthPlace o'<Halle_(Saale)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity11291",
+  "entityUrl" : "http://dbpedia.org/resource/Zoe_Stark",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Zoe_Stark) dbp:date o'<September 2013>",
+    "2" : "s(Zoe_Stark) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11292",
+  "entityUrl" : "http://dbpedia.org/resource/Zeke_Zekley",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Zeke_Zekley) dbo:birthDate o'<1915-2-11>",
+    "2" : "s(Zeke_Zekley) dbo:deathDate o'<2005-4-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11293",
+  "entityUrl" : "http://dbpedia.org/resource/Zeno_of_Tarsus",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Zeno_of_Tarsus) dbo:deathDate o'<-200-1-1>",
+    "2" : "s(Zeno_of_Tarsus) dbp:title o'<Leader of the Stoic school>",
+    "3" : "s(Zeno_of_Tarsus) dbp:years o'<206>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11294",
+  "entityUrl" : "http://dbpedia.org/resource/Zack_Shada",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Zack_Shada) dbo:activeYearsStartYear o'<2002>",
+    "2" : "s(Zack_Shada) dbo:alias o'<Zach Shada>",
+    "3" : "s(Zack_Shada) dbo:alias o'<Zachary Shada>",
+    "4" : "s(Zack_Shada) dbo:birthDate o'<1992-11-25>",
+    "5" : "s(Zack_Shada) dbo:birthName o'<Zachary David Shada>",
+    "6" : "s(Zack_Shada) dbo:birthPlace o'<United_States>",
+    "7" : "s(Zack_Shada) dbo:birthPlace o'<Idaho>",
+    "8" : "s(Zack_Shada) dbo:birthPlace o'<Boise,_Idaho>",
+    "9" : "s(Zack_Shada) dbo:birthYear o'<1992>",
+    "10" : "s(Zack_Shada) dbo:occupation o'<Music_director>",
+    "11" : "s(Zack_Shada) dbo:occupation o'<Record_producer>",
+    "12" : "s(Zack_Shada) dbo:occupation o'<Actor>",
+    "13" : "s(Zack_Shada) dbo:occupation o'<Zack_Shada__1>",
+    "14" : "s(Zack_Shada) dbo:relative o'<Jeremy_Shada>",
+    "15" : "s(Zack_Shada) dbo:relative o'<Josh_Shada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11295",
+  "entityUrl" : "http://dbpedia.org/resource/Zainab_Bahrani",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Zainab_Bahrani) dbo:birthDate o'<1962-8-29>",
+    "2" : "s(Zainab_Bahrani) dbo:birthPlace o'<Baghdad>",
+    "3" : "s(Zainab_Bahrani) dbo:birthPlace o'<Iraq>",
+    "4" : "s(Zainab_Bahrani) dbo:birthYear o'<1962>",
+    "5" : "s(Zainab_Bahrani) dbo:occupation o'<Archaeology>",
+    "6" : "s(Zainab_Bahrani) dbo:occupation o'<Zainab_Bahrani__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11296",
+  "entityUrl" : "http://dbpedia.org/resource/Zayn-e-Attar",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Zayn-e-Attar) dbo:birthPlace o'<Shiraz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

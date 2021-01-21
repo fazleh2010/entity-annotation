@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity11807",
+  "entityUrl" : "http://dbpedia.org/resource/Eugenius_of_Palermo",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Eugenius_of_Palermo) dbo:birthDate o'<1200-1-1>",
+    "2" : "s(Eugenius_of_Palermo) dbo:birthPlace o'<Palermo>",
+    "3" : "s(Eugenius_of_Palermo) dbo:deathDate o'<1202-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11808",
+  "entityUrl" : "http://dbpedia.org/resource/Eduardo_Y%C3%A1%C3%B1ez",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11809",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Iliffe,_1st_Baron_Iliffe",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:birthDate o'<1877-05-17>",
+    "2" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:birthDate o'<1877-5-17>",
+    "3" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:birthPlace o'<Coventry>",
+    "4" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:child o'<Langton_Iliffe,_2nd_Baron_Iliffe>",
+    "5" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:deathDate o'<1960-07-25>",
+    "6" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:deathDate o'<1960-7-25>",
+    "7" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:deathPlace o'<Marylebone>",
+    "8" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:office o'<Member of Parliament for Tamworth>",
+    "9" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:party o'<Conservative_Party_(UK)>",
+    "10" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:predecessor o'<Percy_Newson>",
+    "11" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:successor o'<Arthur_Steel-Maitland>",
+    "12" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbo:termPeriod o'<Edward_Iliffe,_1st_Baron_Iliffe__1>",
+    "13" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:after o'<Arthur_Steel-Maitland>",
+    "14" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:before o'<Percy_Newson>",
+    "15" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:birthName o'<Edward Mauger Iliffe>",
+    "16" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:honorificPrefix o'<The Right Honourable>",
+    "17" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:occupation o'<Newspaper magnate>",
+    "18" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:termEnd o'<1929>",
+    "19" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:termStart o'<1923>",
+    "20" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:title o'<Tamworth_(UK_Parliament_constituency)>",
+    "21" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:title o'<Baron_Iliffe>",
+    "22" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:years o'<1923>",
+    "23" : "s(Edward_Iliffe,_1st_Baron_Iliffe) dbp:years o'<1933>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11810",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Kowalski",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Edward_Kowalski) dbo:birthDate o'<1915-1-1>",
+    "2" : "s(Edward_Kowalski) dbo:deathDate o'<1998-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11811",
+  "entityUrl" : "http://dbpedia.org/resource/Eivor_Alm",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Eivor_Alm) dbo:birthDate o'<1924-6-29>",
+    "2" : "s(Eivor_Alm) dbo:deathDate o'<2011-3-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11812",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Whitfield,_1st_Baron_Kenswood",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Ernest_Whitfield,_1st_Baron_Kenswood) dbo:birthDate o'<1887-9-15>",
+    "2" : "s(Ernest_Whitfield,_1st_Baron_Kenswood) dbo:deathDate o'<1963-9-21>",
+    "3" : "s(Ernest_Whitfield,_1st_Baron_Kenswood) dbp:after o'<John_Whitfield,_2nd_Baron_Kenswood>",
+    "4" : "s(Ernest_Whitfield,_1st_Baron_Kenswood) dbp:before o'<New Creation>",
+    "5" : "s(Ernest_Whitfield,_1st_Baron_Kenswood) dbp:title o'<Baron_Kenswood>",
+    "6" : "s(Ernest_Whitfield,_1st_Baron_Kenswood) dbp:years o'<1951>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

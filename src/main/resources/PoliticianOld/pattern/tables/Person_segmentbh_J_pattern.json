@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11351",
+  "entityUrl" : "http://dbpedia.org/resource/Jeffrey_Feil",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Jeffrey_Feil) dbo:birthDate o'<1947-0-0>",
+    "2" : "s(Jeffrey_Feil) dbo:birthYear o'<1947>",
+    "3" : "s(Jeffrey_Feil) dbo:education o'<University_of_Cincinnati>",
+    "4" : "s(Jeffrey_Feil) dbo:education o'<Brooklyn_Law_School>",
+    "5" : "s(Jeffrey_Feil) dbo:ethnicity o'<American_Jews>",
+    "6" : "s(Jeffrey_Feil) dbo:knownFor o'<The_Feil_Organization>",
+    "7" : "s(Jeffrey_Feil) dbo:occupation o'<Jeffrey_Feil__1>",
+    "8" : "s(Jeffrey_Feil) dbp:family o'<Carole Feil>",
+    "9" : "s(Jeffrey_Feil) dbp:family o'<Judith Feil Jaffe>",
+    "10" : "s(Jeffrey_Feil) dbp:family o'<Marilyn Feil Barry>",
+    "11" : "s(Jeffrey_Feil) dbp:nationality o'<United States>",
+    "12" : "s(Jeffrey_Feil) dbp:parents o'<Gertrude Cohen Feil>",
+    "13" : "s(Jeffrey_Feil) dbp:parents o'<Louis Feil>",
+    "14" : "s(Jeffrey_Feil) dbp:religion o'<Judaism>",
+    "15" : "s(Jeffrey_Feil) dbp:spouse o'<Lee Feil>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11352",
+  "entityUrl" : "http://dbpedia.org/resource/Joaqu%C3%ADn_Caballero_Rosi%C3%B1ol",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11353",
+  "entityUrl" : "http://dbpedia.org/resource/Jos%C3%A9_Noel_P%C3%A9rez_de_Alba",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11354",
+  "entityUrl" : "http://dbpedia.org/resource/James_E._O'Neill,_Jr.",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(James_E._O'Neill,_Jr.) dbo:almaMater o'<University_of_Michigan>",
+    "2" : "s(James_E._O'Neill,_Jr.) dbo:almaMater o'<Central_Michigan_University>",
+    "3" : "s(James_E._O'Neill,_Jr.) dbo:birthDate o'<1929-05-26>",
+    "4" : "s(James_E._O'Neill,_Jr.) dbo:birthDate o'<1929-5-26>",
+    "5" : "s(James_E._O'Neill,_Jr.) dbo:birthPlace o'<Saginaw,_Michigan>",
+    "6" : "s(James_E._O'Neill,_Jr.) dbo:deathDate o'<2002-12-31>",
+    "7" : "s(James_E._O'Neill,_Jr.) dbo:party o'<Democratic_Party_(United_States)>",
+    "8" : "s(James_E._O'Neill,_Jr.) dbo:predecessor o'<William_A._Boos,_Jr.>",
+    "9" : "s(James_E._O'Neill,_Jr.) dbo:religion o'<Roman_Catholic>",
+    "10" : "s(James_E._O'Neill,_Jr.) dbo:serviceEndYear o'<1953>",
+    "11" : "s(James_E._O'Neill,_Jr.) dbo:serviceStartYear o'<1951>",
+    "12" : "s(James_E._O'Neill,_Jr.) dbo:successor o'<Michael_J._Hanley>",
+    "13" : "s(James_E._O'Neill,_Jr.) dbo:termPeriod o'<James_E._O'Neill,_Jr.__1>",
+    "14" : "s(James_E._O'Neill,_Jr.) dbp:allegiance o'<United States of America>",
+    "15" : "s(James_E._O'Neill,_Jr.) dbp:branch o'<Army>",
+    "16" : "s(James_E._O'Neill,_Jr.) dbp:district o'<95>",
+    "17" : "s(James_E._O'Neill,_Jr.) dbp:honorificPrefix o'<The Honorable>",
+    "18" : "s(James_E._O'Neill,_Jr.) dbp:priorTerm o'<85>",
+    "19" : "s(James_E._O'Neill,_Jr.) dbp:profession o'<Teacher>",
+    "20" : "s(James_E._O'Neill,_Jr.) dbp:stateHouse o'<Michigan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11355",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Bydlak",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Jonathan_Bydlak) dbo:almaMater o'<Princeton_University>",
+    "2" : "s(Jonathan_Bydlak) dbo:birthDate o'<1983-08-23>",
+    "3" : "s(Jonathan_Bydlak) dbo:birthDate o'<1983-8-23>",
+    "4" : "s(Jonathan_Bydlak) dbo:birthName o'<Jonathan Bydlak>",
+    "5" : "s(Jonathan_Bydlak) dbo:birthPlace o'<Springfield,_Massachusetts>",
+    "6" : "s(Jonathan_Bydlak) dbo:birthYear o'<1983>",
+    "7" : "s(Jonathan_Bydlak) dbo:board o'<indysci.org>",
+    "8" : "s(Jonathan_Bydlak) dbo:hometown o'<Westfield,_Massachusetts>",
+    "9" : "s(Jonathan_Bydlak) dbo:knownFor o'<Ron_Paul_presidential_campaign,_2008>",
+    "10" : "s(Jonathan_Bydlak) dbo:knownFor o'<Coalition_to_Reduce_Spending>",
+    "11" : "s(Jonathan_Bydlak) dbo:occupation o'<Jonathan_Bydlak__1>",
+    "12" : "s(Jonathan_Bydlak) dbo:party o'<Republican_Party_(United_States)>",
+    "13" : "s(Jonathan_Bydlak) dbp:awards o'<Red Alert Politics 30 under 30 for 2013.>",
+    "14" : "s(Jonathan_Bydlak) dbp:education o'<B.A. in Economics, 2005>",
+    "15" : "s(Jonathan_Bydlak) dbp:nationality o'<United States>",
+    "16" : "s(Jonathan_Bydlak) dbp:organization o'<Coalition_to_Reduce_Spending>",
+    "17" : "s(Jonathan_Bydlak) dbp:residence o'<Alexandria, VA>",
+    "18" : "s(Jonathan_Bydlak) dbp:spouse o'<Rebekah Bydlak>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(jonathan bydlak=Jonathan_Bydlak) [born august 21 1983 ] o'<president=United_States>"
+  },
+  "abstract" : {
+    "1" : "jonathan bydlak<Jonathan_Bydlak> (born august 21, 1983) is founder and president<United_States> of the coalition to reduce spending, an organization that advocates that all federal government<United_States> spending be open for reduction and that increases in spending be met with equal offsets"
+  }
+}, {
+  "entityIndex" : "entity11356",
+  "entityUrl" : "http://dbpedia.org/resource/Juan_Ram%C3%ADrez_Mejandre",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,86 @@
+[ {
+  "entityIndex" : "entity11897",
+  "entityUrl" : "http://dbpedia.org/resource/Torben_Betts",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Torben_Betts) dbo:birthDate o'<1968-02-10>",
+    "2" : "s(Torben_Betts) dbo:birthDate o'<1968-2-10>",
+    "3" : "s(Torben_Betts) dbo:birthPlace o'<Stamford,_Lincolnshire>",
+    "4" : "s(Torben_Betts) dbo:birthYear o'<1968>",
+    "5" : "s(Torben_Betts) dbo:occupation o'<Torben_Betts__1>",
+    "6" : "s(Torben_Betts) dbo:occupation o'<Dramatist>",
+    "7" : "s(Torben_Betts) dbp:imagesize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11898",
+  "entityUrl" : "http://dbpedia.org/resource/Tejaswini_Kolhapure",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Tejaswini_Kolhapure) dbo:birthDate o'<1980-01-01>",
+    "2" : "s(Tejaswini_Kolhapure) dbo:birthDate o'<1980-8-22>",
+    "3" : "s(Tejaswini_Kolhapure) dbo:birthPlace o'<India>",
+    "4" : "s(Tejaswini_Kolhapure) dbo:birthPlace o'<Maharashtra>",
+    "5" : "s(Tejaswini_Kolhapure) dbo:birthPlace o'<Nagpur>",
+    "6" : "s(Tejaswini_Kolhapure) dbo:birthYear o'<1980>",
+    "7" : "s(Tejaswini_Kolhapure) dbo:parent o'<Pandharinath_Kolhapure>",
+    "8" : "s(Tejaswini_Kolhapure) dbo:relative o'<Shraddha_Kapoor>",
+    "9" : "s(Tejaswini_Kolhapure) dbo:relative o'<Siddhanth_Kapoor>",
+    "10" : "s(Tejaswini_Kolhapure) dbo:spouse o'<Pankaj_Saraswat>",
+    "11" : "s(Tejaswini_Kolhapure) dbp:children o'<Vedika Saraswat>",
+    "12" : "s(Tejaswini_Kolhapure) dbp:siblings o'<Padmini_Kolhapure>",
+    "13" : "s(Tejaswini_Kolhapure) dbp:siblings o'<Shivangi_Kolhapure>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11899",
+  "entityUrl" : "http://dbpedia.org/resource/Theodor_Kotsch",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Theodor_Kotsch) dbo:birthDate o'<1818-1-6>",
+    "2" : "s(Theodor_Kotsch) dbo:birthPlace o'<Hanover>",
+    "3" : "s(Theodor_Kotsch) dbo:deathDate o'<1884-11-27>",
+    "4" : "s(Theodor_Kotsch) dbo:deathPlace o'<Munich>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11900",
+  "entityUrl" : "http://dbpedia.org/resource/Theodore_Eisfeld",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Theodore_Eisfeld) dbo:birthDate o'<1816-4-11>",
+    "2" : "s(Theodore_Eisfeld) dbo:deathDate o'<1882-9-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11901",
+  "entityUrl" : "http://dbpedia.org/resource/Tolga_Kashif",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Tolga_Kashif) dbo:birthDate o'<1962-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11902",
+  "entityUrl" : "http://dbpedia.org/resource/Tony_Dalton",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Tony_Dalton) dbo:birthDate o'<1975-02-13>",
+    "2" : "s(Tony_Dalton) dbo:birthDate o'<1975-2-13>",
+    "3" : "s(Tony_Dalton) dbo:birthName o'<Ã�lvaro Luis Bernat Dalton>",
+    "4" : "s(Tony_Dalton) dbo:birthPlace o'<Laredo,_Texas>",
+    "5" : "s(Tony_Dalton) dbo:birthYear o'<1975>",
+    "6" : "s(Tony_Dalton) dbo:height o'<182.88>",
+    "7" : "s(Tony_Dalton) dbo:height o'<1.8288>",
+    "8" : "s(Tony_Dalton) dbo:imdbId o'<0198366>",
+    "9" : "s(Tony_Dalton) dbo:occupation o'<Tony_Dalton__1>",
+    "10" : "s(Tony_Dalton) dbp:name o'<Tony Dalton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

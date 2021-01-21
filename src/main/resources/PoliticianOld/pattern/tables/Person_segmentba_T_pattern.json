@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity14188",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_N._George",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Thomas_N._George) dbo:almaMater o'<New_England_School_of_Law>",
+    "2" : "s(Thomas_N._George) dbo:almaMater o'<University_of_Massachusetts_Amherst>",
+    "3" : "s(Thomas_N._George) dbo:birthDate o'<1938-05-02>",
+    "4" : "s(Thomas_N._George) dbo:birthDate o'<1938-5-2>",
+    "5" : "s(Thomas_N._George) dbo:birthPlace o'<Worcester,_Massachusetts>",
+    "6" : "s(Thomas_N._George) dbo:party o'<Republican_Party_(United_States)>",
+    "7" : "s(Thomas_N._George) dbo:residence o'<Yarmouthport,_Massachusetts>",
+    "8" : "s(Thomas_N._George) dbp:district o'<1>",
+    "9" : "s(Thomas_N._George) dbp:preceded o'<Edward_B._Teague_III>",
+    "10" : "s(Thomas_N._George) dbp:profession o'<Attorney>",
+    "11" : "s(Thomas_N._George) dbp:profession o'<Entrepreneur>",
+    "12" : "s(Thomas_N._George) dbp:stateHouse o'<Massachusetts>",
+    "13" : "s(Thomas_N._George) dbp:succeeded o'<Cleon_Turner>",
+    "14" : "s(Thomas_N._George) dbp:termEnd o'<2005>",
+    "15" : "s(Thomas_N._George) dbp:termStart o'<1997>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14189",
+  "entityUrl" : "http://dbpedia.org/resource/T._H._Stokoe",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(T._H._Stokoe) dbo:deathDate o'<1903-12-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14190",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Edwards_(priest)",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Thomas_Edwards_(priest)) dbo:birthDate o'<1933-1-26>",
+    "2" : "s(Thomas_Edwards_(priest)) dbp:after o'<Trevor_Owen_Evans>",
+    "3" : "s(Thomas_Edwards_(priest)) dbp:before o'<John_Ivor_Rees>",
+    "4" : "s(Thomas_Edwards_(priest)) dbp:title o'<Dean of Bangor>",
+    "5" : "s(Thomas_Edwards_(priest)) dbp:years o'<1988>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14191",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Musgrave_(castaway)",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Thomas_Musgrave_(castaway)) dbo:birthDate o'<1832-5-10>",
+    "2" : "s(Thomas_Musgrave_(castaway)) dbo:deathDate o'<1891-11-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14192",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Patton",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Ted_Patton) dbo:birthDate o'<1966-02-18>",
+    "2" : "s(Ted_Patton) dbo:birthDate o'<1966-2-18>",
+    "3" : "s(Ted_Patton) dbo:birthPlace o'<New_York_City>",
+    "4" : "s(Ted_Patton) dbp:headercolor o'<lightsteelblue>",
+    "5" : "s(Ted_Patton) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14193",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Renton_Elliott",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Thomas_Renton_Elliott) dbo:birthDate o'<1877-10-11>",
+    "2" : "s(Thomas_Renton_Elliott) dbo:birthPlace o'<Willington,_County_Durham>",
+    "3" : "s(Thomas_Renton_Elliott) dbo:birthYear o'<1877>",
+    "4" : "s(Thomas_Renton_Elliott) dbo:deathDate o'<1961-3-4>",
+    "5" : "s(Thomas_Renton_Elliott) dbo:deathPlace o'<Broughton>",
+    "6" : "s(Thomas_Renton_Elliott) dbo:deathPlace o'<Peeblesshire>",
+    "7" : "s(Thomas_Renton_Elliott) dbo:deathYear o'<1961>",
+    "8" : "s(Thomas_Renton_Elliott) dbo:nationality o'<United_Kingdom>",
+    "9" : "s(Thomas_Renton_Elliott) dbo:stateOfOrigin o'<United_Kingdom>",
+    "10" : "s(Thomas_Renton_Elliott) dbp:knownFor o'<Investigation of the chemical transmission of nerve action>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

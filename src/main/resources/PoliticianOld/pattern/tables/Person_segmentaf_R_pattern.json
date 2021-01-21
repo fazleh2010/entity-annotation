@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity10743",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_A._Alberty",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Robert_A._Alberty) dbo:birthDate o'<1921-6-21>",
+    "2" : "s(Robert_A._Alberty) dbo:birthPlace o'<Winfield,_Kansas>",
+    "3" : "s(Robert_A._Alberty) dbo:deathDate o'<2014-1-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10744",
+  "entityUrl" : "http://dbpedia.org/resource/Ray_Twinney",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ray_Twinney) dbo:birthDate o'<1935-11-0>",
+    "2" : "s(Ray_Twinney) dbo:deathDate o'<1994-12-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10745",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Beasley_(politician)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Richard_Beasley_(politician)) dbo:birthDate o'<1761-7-21>",
+    "2" : "s(Richard_Beasley_(politician)) dbo:deathDate o'<1842-2-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10746",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Smith_(judge)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Robert_Smith_(judge)) dbo:birthDate o'<1858-12-07>",
+    "2" : "s(Robert_Smith_(judge)) dbo:birthDate o'<1858-12-7>",
+    "3" : "s(Robert_Smith_(judge)) dbo:birthPlace o'<Canada_West>",
+    "4" : "s(Robert_Smith_(judge)) dbo:child o'<Arnold_Neilson_Smith>",
+    "5" : "s(Robert_Smith_(judge)) dbo:deathDate o'<1942-03-18>",
+    "6" : "s(Robert_Smith_(judge)) dbo:deathDate o'<1942-3-18>",
+    "7" : "s(Robert_Smith_(judge)) dbo:deathPlace o'<Ontario>",
+    "8" : "s(Robert_Smith_(judge)) dbo:deathPlace o'<Ottawa>",
+    "9" : "s(Robert_Smith_(judge)) dbo:office o'<Puisne Justiceof theSupreme Court of Canada>",
+    "10" : "s(Robert_Smith_(judge)) dbo:party o'<Liberal_Party_of_Canada>",
+    "11" : "s(Robert_Smith_(judge)) dbo:predecessor o'<Robert_Abercrombie_Pringle>",
+    "12" : "s(Robert_Smith_(judge)) dbo:successor o'<Henry_Hague_Davis>",
+    "13" : "s(Robert_Smith_(judge)) dbo:successor o'<Duncan_Orestes_Alguire>",
+    "14" : "s(Robert_Smith_(judge)) dbo:termPeriod o'<Robert_Smith_(judge)__2>",
+    "15" : "s(Robert_Smith_(judge)) dbp:constituencyMp o'<Stormont_(electoral_district)>",
+    "16" : "s(Robert_Smith_(judge)) dbp:honorificPrefix o'<The Honourable Mr. Justice>",
+    "17" : "s(Robert_Smith_(judge)) dbp:nominator o'<William_Lyon_Mackenzie_King>",
+    "18" : "s(Robert_Smith_(judge)) dbp:parliament o'<Canadian>",
+    "19" : "s(Robert_Smith_(judge)) dbp:predecessor o'<None>",
+    "20" : "s(Robert_Smith_(judge)) dbp:termEnd o'<1911>",
+    "21" : "s(Robert_Smith_(judge)) dbp:termEnd o'<1933>",
+    "22" : "s(Robert_Smith_(judge)) dbp:termStart o'<1908>",
+    "23" : "s(Robert_Smith_(judge)) dbp:termStart o'<1927>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(robert smith (judge)=Robert_Smith_(judge)) [ran for ] o'<canadian=Canadian>"
+  },
+  "abstract" : {
+    "6" : "in 1904, robert smith (judge)<Robert_Smith_(judge)> ran for the canadian<Canadian> house of commons as a liberal in the riding of stormont<Stormont_(electoral_district)>, ontario\n"
+  }
+}, {
+  "entityIndex" : "entity10747",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Christian_Matheson",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Richard_Christian_Matheson) dbo:birthDate o'<1953-10-14>",
+    "2" : "s(Richard_Christian_Matheson) dbo:birthPlace o'<Los_Angeles>",
+    "3" : "s(Richard_Christian_Matheson) dbp:id o'<Richard_Christian_Matheson>",
+    "4" : "s(Richard_Christian_Matheson) dbp:name o'<Richard Christian Matheson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10748",
+  "entityUrl" : "http://dbpedia.org/resource/Russ_Williams_(DJ)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Russ_Williams_(DJ)) dbo:birthDate o'<1962-01-21>",
+    "2" : "s(Russ_Williams_(DJ)) dbo:birthDate o'<1962-1-21>",
+    "3" : "s(Russ_Williams_(DJ)) dbo:birthName o'<Russell Williams>",
+    "4" : "s(Russ_Williams_(DJ)) dbo:birthYear o'<1962>",
+    "5" : "s(Russ_Williams_(DJ)) dbo:occupation o'<Russ_Williams_(DJ)__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

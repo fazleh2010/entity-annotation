@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity11417",
+  "entityUrl" : "http://dbpedia.org/resource/Uili_Kolo'ofai",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Uili_Kolo'ofai) dbo:wikiPageRedirects o'<Uili_KoloÊ»ofai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11418",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrike_Schmidt",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11419",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrika_Sofia_De_Geer",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Ulrika_Sofia_De_Geer) dbo:wikiPageRedirects o'<Ulla_De_Geer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11420",
+  "entityUrl" : "http://dbpedia.org/resource/Urs_Schreiber",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Urs_Schreiber) dbo:birthDate o'<1974-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11421",
+  "entityUrl" : "http://dbpedia.org/resource/Upendra_Devkota",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Upendra_Devkota) dbo:birthDate o'<1956-11-19>",
+    "2" : "s(Upendra_Devkota) dbo:citizenship o'<Nepal>",
+    "3" : "s(Upendra_Devkota) dbo:hometown o'<Kathmandu>",
+    "4" : "s(Upendra_Devkota) dbo:nationality o'<Nepal>",
+    "5" : "s(Upendra_Devkota) dbo:occupation o'<Upendra_Devkota__1>",
+    "6" : "s(Upendra_Devkota) dbo:residence o'<Kathmandu_Valley>",
+    "7" : "s(Upendra_Devkota) dbo:stateOfOrigin o'<Nepal>",
+    "8" : "s(Upendra_Devkota) dbp:children o'<Three daughters>",
+    "9" : "s(Upendra_Devkota) dbp:education o'<FRCS in Neurosurgery>",
+    "10" : "s(Upendra_Devkota) dbp:honorificPrefix o'<Professor Dr>",
+    "11" : "s(Upendra_Devkota) dbp:knownFor o'<Expert consultant for neurosurgery>",
+    "12" : "s(Upendra_Devkota) dbp:nativeName o'<à¤‰à¤ªà¥‡à¤¨à¥�à¤¦à¥�à¤° à¤¦à¥‡à¤µà¤•à¥‹à¤Ÿà¤¾>",
+    "13" : "s(Upendra_Devkota) dbp:religion o'<Hindu>",
+    "14" : "s(Upendra_Devkota) dbp:spouse o'<Madhu Dixit Devkota>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(upendra devkota=Upendra_Devkota) [held post of ] o'<government of nepal=Nepal>",
+    "5" : "s(upendra devkota=Upendra_Devkota) [born in gorkha in ] o'<nepal=Nepal>",
+    "6" : "s(upendra devkota=Upendra_Devkota) [intermediate of sciences i ] o'<kathmandu=Kathmandu>",
+    "7" : "s(upendra devkota=Upendra_Devkota) [completed bachelor of medicine ] o'<india=Nepal>",
+    "9" : "s(upendra devkota=Upendra_Devkota) [returned back to ] o'<nepal=Nepal>",
+    "10" : "s(upendra devkota=Upendra_Devkota) [established ninas in bansbari ] o'<kathmandu=Kathmandu>"
+  },
+  "abstract" : {
+    "2" : "upendra devkota<Upendra_Devkota> has held the post of minister for health, science and technology, government of nepal<Nepal>\n",
+    "5" : "upendra devkota<Upendra_Devkota> was born in gorkha in 1954 and got his high school education in amar jyoti janata high school (commonly known as luintel high school of gorkha), palungtar, gorkha, nepal<Nepal>\n",
+    "6" : "upendra devkota<Upendra_Devkota> did intermediate of sciences (i sc) education from amrit science college, tribhuvan university, kathmandu<Kathmandu>, nepal<Nepal> and got colombo plan fellowship to pursue medical education in india<Nepal>\n",
+    "7" : "upendra devkota<Upendra_Devkota> completed bachelor of medicine and bachelor of surgery (mbbs) in 1978 from assam medical college, dibrughar university, assam, india<Nepal> and worked some years in bir hospital under dr dn gongol\n",
+    "9" : "upendra devkota<Upendra_Devkota> returned back to nepal<Nepal> in 1989 and started neurosurgery in bir hospital\n",
+    "10" : "upendra devkota<Upendra_Devkota> established ninas in bansbari, kathmandu<Kathmandu>, nepal<Nepal>\n"
+  }
+}, {
+  "entityIndex" : "entity11422",
+  "entityUrl" : "http://dbpedia.org/resource/Usha_Ananthasubramanian",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Usha_Ananthasubramanian) dbo:almaMater o'<University_of_Madras>",
+    "2" : "s(Usha_Ananthasubramanian) dbo:almaMater o'<University_of_Mumbai>",
+    "3" : "s(Usha_Ananthasubramanian) dbo:birthDate o'<1960-10-01>",
+    "4" : "s(Usha_Ananthasubramanian) dbo:birthDate o'<1960-10-1>",
+    "5" : "s(Usha_Ananthasubramanian) dbo:birthYear o'<1960>",
+    "6" : "s(Usha_Ananthasubramanian) dbo:ethnicity o'<Indian_people>",
+    "7" : "s(Usha_Ananthasubramanian) dbo:nationality o'<Indian_people>",
+    "8" : "s(Usha_Ananthasubramanian) dbo:occupation o'<Punjab_National_Bank>",
+    "9" : "s(Usha_Ananthasubramanian) dbo:occupation o'<Usha_Ananthasubramanian__1>",
+    "10" : "s(Usha_Ananthasubramanian) dbo:occupation o'<Managing_Director>",
+    "11" : "s(Usha_Ananthasubramanian) dbo:occupation o'<Chief_Executive_Officer>",
+    "12" : "s(Usha_Ananthasubramanian) dbo:stateOfOrigin o'<Indian_people>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity11855",
+  "entityUrl" : "http://dbpedia.org/resource/Manuel_Fern%C3%A1ndez_Silvestre",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11856",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Kaback",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11857",
+  "entityUrl" : "http://dbpedia.org/resource/Mohit_Suri",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Mohit_Suri) dbo:activeYearsStartYear o'<2005>",
+    "2" : "s(Mohit_Suri) dbo:birthDate o'<1981-4-11>",
+    "3" : "s(Mohit_Suri) dbo:birthPlace o'<India>",
+    "4" : "s(Mohit_Suri) dbo:birthPlace o'<Mumbai>",
+    "5" : "s(Mohit_Suri) dbo:birthYear o'<1981>",
+    "6" : "s(Mohit_Suri) dbo:imdbId o'<1887138>",
+    "7" : "s(Mohit_Suri) dbo:nationality o'<Indian_people>",
+    "8" : "s(Mohit_Suri) dbo:occupation o'<Mohit_Suri__1>",
+    "9" : "s(Mohit_Suri) dbo:relative o'<List_of_Hindi_film_clans>",
+    "10" : "s(Mohit_Suri) dbo:spouse o'<Udita_Goswami>",
+    "11" : "s(Mohit_Suri) dbo:stateOfOrigin o'<Indian_people>",
+    "12" : "s(Mohit_Suri) dbp:name o'<Mohit Suri>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11858",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Hines",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Michael_Hines) dbo:imdbId o'<1197959>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11859",
+  "entityUrl" : "http://dbpedia.org/resource/Maheboob_Khan",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Maheboob_Khan) dbo:birthDate o'<1887-1-1>",
+    "2" : "s(Maheboob_Khan) dbo:deathDate o'<1948-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11860",
+  "entityUrl" : "http://dbpedia.org/resource/Margarita_Isabel",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Margarita_Isabel) dbo:activeYearsStartYear o'<1970>",
+    "2" : "s(Margarita_Isabel) dbo:award o'<Ariel_Award>",
+    "3" : "s(Margarita_Isabel) dbo:award o'<Like_Water_for_Chocolate_(film)>",
+    "4" : "s(Margarita_Isabel) dbo:birthDate o'<1942-07-25>",
+    "5" : "s(Margarita_Isabel) dbo:birthDate o'<1943-7-25>",
+    "6" : "s(Margarita_Isabel) dbo:birthName o'<Margarita Isabel Morales y GonzÃ¡lez>",
+    "7" : "s(Margarita_Isabel) dbo:birthPlace o'<Mexico_City>",
+    "8" : "s(Margarita_Isabel) dbo:birthPlace o'<Mexico>",
+    "9" : "s(Margarita_Isabel) dbo:birthPlace o'<D.F.>",
+    "10" : "s(Margarita_Isabel) dbo:birthYear o'<1942>",
+    "11" : "s(Margarita_Isabel) dbo:child o'<Mario_IvÃ¡n_MartÃ­nez>",
+    "12" : "s(Margarita_Isabel) dbo:occupation o'<Margarita_Isabel__1>",
+    "13" : "s(Margarita_Isabel) dbo:relative o'<Alma_Delfina>",
+    "14" : "s(Margarita_Isabel) dbo:relative o'<Gonzalo_MartÃ­nez_Ortega>",
+    "15" : "s(Margarita_Isabel) dbo:relative o'<Socorro_Bonilla>",
+    "16" : "s(Margarita_Isabel) dbp:spouse o'<Mario IvÃ¡n MartÃ­nez>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

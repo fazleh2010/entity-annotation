@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11560",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Bolton",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Roger_Bolton) dbo:birthDate o'<1947-9-7>",
+    "2" : "s(Roger_Bolton) dbo:deathDate o'<2006-11-18>",
+    "3" : "s(Roger_Bolton) dbp:after o'<Gerry_Morrissey>",
+    "4" : "s(Roger_Bolton) dbp:before o'<Tony_Hearn>",
+    "5" : "s(Roger_Bolton) dbp:title o'<General Secretary of BECTU>",
+    "6" : "s(Roger_Bolton) dbp:years o'<1993>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11561",
+  "entityUrl" : "http://dbpedia.org/resource/Ray_Drinkwater",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11562",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9_Menard",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11563",
+  "entityUrl" : "http://dbpedia.org/resource/Ryan_Phillips",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Ryan_Phillips) dbo:birthDate o'<1982-11-15>",
+    "2" : "s(Ryan_Phillips) dbo:birthPlace o'<Seattle,_Washington>",
+    "3" : "s(Ryan_Phillips) dbo:college o'<Eastern_Washington_University>",
+    "4" : "s(Ryan_Phillips) dbo:height o'<1.778>",
+    "5" : "s(Ryan_Phillips) dbo:highschool o'<Franklin_High_School_(Seattle,_Washington)>",
+    "6" : "s(Ryan_Phillips) dbo:number o'<21>",
+    "7" : "s(Ryan_Phillips) dbo:position o'<Defensive_back>",
+    "8" : "s(Ryan_Phillips) dbo:status o'<Active>",
+    "9" : "s(Ryan_Phillips) dbo:team o'<BC_Lions>",
+    "10" : "s(Ryan_Phillips) dbp:careerHighlights o'<* Grey Cup champion>",
+    "11" : "s(Ryan_Phillips) dbp:cfl o'<118002>",
+    "12" : "s(Ryan_Phillips) dbp:cflallstar o'<, , ,>",
+    "13" : "s(Ryan_Phillips) dbp:cflwestallstar o'<, , , ,>",
+    "14" : "s(Ryan_Phillips) dbp:color o'<#f7923a>",
+    "15" : "s(Ryan_Phillips) dbp:fontcolor o'<black>",
+    "16" : "s(Ryan_Phillips) dbp:heightFt o'<5>",
+    "17" : "s(Ryan_Phillips) dbp:heightIn o'<10>",
+    "18" : "s(Ryan_Phillips) dbp:import o'<yes>",
+    "19" : "s(Ryan_Phillips) dbp:playingTeam o'<BC_Lions>",
+    "20" : "s(Ryan_Phillips) dbp:playingYears o'<â€“present>",
+    "21" : "s(Ryan_Phillips) dbp:records o'<BC Lions records :>",
+    "22" : "s(Ryan_Phillips) dbp:records o'<Most defensive touchdowns, career>",
+    "23" : "s(Ryan_Phillips) dbp:records o'<Most interception return touchdowns, career>",
+    "24" : "s(Ryan_Phillips) dbp:records o'<Most interception return yards , season>",
+    "25" : "s(Ryan_Phillips) dbp:records o'<Most interception return yards, career>",
+    "26" : "s(Ryan_Phillips) dbp:records o'<Most interceptions , season>",
+    "27" : "s(Ryan_Phillips) dbp:weightLb o'<195>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ryan phillips=Ryan_Phillips) [played his entire career ] o'<the lions=BC_Lions>",
+    "3" : "s(ryan phillips=Ryan_Phillips) [holds numerous ] o'<lions=BC_Lions>",
+    "5" : "s(ryan phillips=Ryan_Phillips) [2006 graduate of ] o'<eastern washington university=Eastern_Washington_University>"
+  },
+  "abstract" : {
+    "2" : "ryan phillips<Ryan_Phillips> has played his entire career with the lions<BC_Lions>, where ryan phillips<Ryan_Phillips> has been part of two grey cup championship teams (94th grey cup and 99th grey cup) and is the last remaining active lions<BC_Lions> player from the 2006 roster that won the 2006 grey cup\n",
+    "3" : "ryan phillips<Ryan_Phillips> holds numerous lions<BC_Lions> franchise records and had been named a western all-star five times and a league all-star four times\n",
+    "5" : "ryan phillips<Ryan_Phillips> is a 2006 graduate of eastern washington university<Eastern_Washington_University> which is also where ryan phillips<Ryan_Phillips> played college football for the eastern washington eagles<Eastern_Washington_University>\n"
+  }
+}, {
+  "entityIndex" : "entity11564",
+  "entityUrl" : "http://dbpedia.org/resource/Rachel_Parish",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Rachel_Parish) dbo:birthDate o'<1981-05-21>",
+    "2" : "s(Rachel_Parish) dbo:birthDate o'<1981-5-21>",
+    "3" : "s(Rachel_Parish) dbo:residence o'<Nottingham>",
+    "4" : "s(Rachel_Parish) dbp:country o'<United Kingdom>",
+    "5" : "s(Rachel_Parish) dbp:event o'<Trap_shooting>",
+    "6" : "s(Rachel_Parish) dbp:nationality o'<British>",
+    "7" : "s(Rachel_Parish) dbp:occupation o'<Physician>",
+    "8" : "s(Rachel_Parish) dbp:sport o'<Sport_shooter>",
+    "9" : "s(Rachel_Parish) dbp:updated o'<13>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(rachel parish=Rachel_Parish) [shot in double ] o'<trap=Trap_shooting>"
+  },
+  "abstract" : {
+    "5" : "selected for the commonwealth<United_Kingdom> games at melbourne in 2006, rachel parish<Rachel_Parish> shot in the double trap<Trap_shooting> pairs competition in partnership with charlotte kerwood and together they took the gold medal\n"
+  }
+}, {
+  "entityIndex" : "entity11565",
+  "entityUrl" : "http://dbpedia.org/resource/Reginald_Bridgeman",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Reginald_Bridgeman) dbo:birthDate o'<1884-10-14>",
+    "2" : "s(Reginald_Bridgeman) dbo:deathDate o'<1968-12-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,99 @@
+[ {
+  "entityIndex" : "entity10859",
+  "entityUrl" : "http://dbpedia.org/resource/Jean-Guillaume,_baron_Hyde_de_Neuville",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Jean-Guillaume,_baron_Hyde_de_Neuville) dbo:birthDate o'<1776-1-24>",
+    "2" : "s(Jean-Guillaume,_baron_Hyde_de_Neuville) dbo:birthPlace o'<La_CharitÃ©-sur-Loire>",
+    "3" : "s(Jean-Guillaume,_baron_Hyde_de_Neuville) dbo:deathDate o'<1858-5-28>",
+    "4" : "s(Jean-Guillaume,_baron_Hyde_de_Neuville) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10860",
+  "entityUrl" : "http://dbpedia.org/resource/Jan_Jakob_Lodewijk_ten_Kate",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Jan_Jakob_Lodewijk_ten_Kate) dbo:birthDate o'<1819-12-23>",
+    "2" : "s(Jan_Jakob_Lodewijk_ten_Kate) dbo:birthPlace o'<The_Hague>",
+    "3" : "s(Jan_Jakob_Lodewijk_ten_Kate) dbo:deathDate o'<1889-12-24>",
+    "4" : "s(Jan_Jakob_Lodewijk_ten_Kate) dbo:deathPlace o'<Amsterdam>",
+    "5" : "s(Jan_Jakob_Lodewijk_ten_Kate) dbp:id o'<Kate,+J.+J.+L.+ten+>",
+    "6" : "s(Jan_Jakob_Lodewijk_ten_Kate) dbp:name o'<Jan Jakob Lodewijk Kate>",
+    "7" : "s(Jan_Jakob_Lodewijk_ten_Kate) dbp:volume o'<26>",
+    "8" : "s(Jan_Jakob_Lodewijk_ten_Kate) dbp:wstitle o'<Ten Kate, Jan Jacob Lodewijk>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10861",
+  "entityUrl" : "http://dbpedia.org/resource/Jean_Georges_Lefranc_de_Pompignan",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Jean_Georges_Lefranc_de_Pompignan) dbo:birthDate o'<1715-2-22>",
+    "2" : "s(Jean_Georges_Lefranc_de_Pompignan) dbo:birthPlace o'<Montauban>",
+    "3" : "s(Jean_Georges_Lefranc_de_Pompignan) dbo:deathDate o'<1789-12-29>",
+    "4" : "s(Jean_Georges_Lefranc_de_Pompignan) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10862",
+  "entityUrl" : "http://dbpedia.org/resource/John_Thadeus_Delane",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(John_Thadeus_Delane) dbo:birthDate o'<1817-10-11>",
+    "2" : "s(John_Thadeus_Delane) dbo:birthName o'<John Thadeus Delane>",
+    "3" : "s(John_Thadeus_Delane) dbo:birthPlace o'<London>",
+    "4" : "s(John_Thadeus_Delane) dbo:birthYear o'<1817>",
+    "5" : "s(John_Thadeus_Delane) dbo:deathDate o'<1879-11-22>",
+    "6" : "s(John_Thadeus_Delane) dbo:deathPlace o'<Ascot,_Berkshire>",
+    "7" : "s(John_Thadeus_Delane) dbo:deathPlace o'<Berkshire>",
+    "8" : "s(John_Thadeus_Delane) dbo:deathYear o'<1879>",
+    "9" : "s(John_Thadeus_Delane) dbo:education o'<King's_College_London>",
+    "10" : "s(John_Thadeus_Delane) dbo:education o'<Hertford_College,_Oxford>",
+    "11" : "s(John_Thadeus_Delane) dbo:occupation o'<John_Thadeus_Delane__1>",
+    "12" : "s(John_Thadeus_Delane) dbo:occupation o'<Editing>",
+    "13" : "s(John_Thadeus_Delane) dbp:after o'<Thomas_Chenery>",
+    "14" : "s(John_Thadeus_Delane) dbp:before o'<Thomas_Barnes_(journalist)>",
+    "15" : "s(John_Thadeus_Delane) dbp:title o'<Editor of The Times>",
+    "16" : "s(John_Thadeus_Delane) dbp:years o'<1841>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(john thadeus delane=John_Thadeus_Delane) [11 october 1817  22 ] o'<editor=Editing>",
+    "7" : "s(john thadeus delane=John_Thadeus_Delane) [received good general education ] o'<king's college london=King's_College_London>",
+    "8" : "s(john thadeus delane=John_Thadeus_Delane) [succeeded ] o'<thomas barnes=Thomas_Barnes_(journalist)>",
+    "18" : "s(john thadeus delane=John_Thadeus_Delane) [retired from editorship ] o'<ascot heath=Ascot,_Berkshire>"
+  },
+  "abstract" : {
+    "1" : "john thadeus delane<John_Thadeus_Delane> (11 october 1817 â€“ 22 november 1879), editor<Editing> of the times (london<LONDON>), was born in london<LONDON>",
+    "7" : "john thadeus delane<John_Thadeus_Delane> received a good general education at private schools and king's college london<King's_College_London>, and also at magdalen hall<Hertford_College,_Oxford>, oxford; after taking his degree in 1840 john thadeus delane<John_Thadeus_Delane> at once began work on the paper, though later john thadeus delane<John_Thadeus_Delane> read for the bar, being called in 1847\n",
+    "8" : "in 1841 john thadeus delane<John_Thadeus_Delane> succeeded thomas barnes<Thomas_Barnes_(journalist)> as editor<Editing>, a post which john thadeus delane<John_Thadeus_Delane> occupied for thirty-six years\n",
+    "18" : "in 1877 his health gave way, and john thadeus delane<John_Thadeus_Delane> retired from the editorship; and on 22 november 1879 john thadeus delane<John_Thadeus_Delane> died at his country seat, ascot heath<Ascot,_Berkshire> house in berkshire<Berkshire>\n"
+  }
+}, {
+  "entityIndex" : "entity10863",
+  "entityUrl" : "http://dbpedia.org/resource/Jacques_Bernard_Hombron",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Jacques_Bernard_Hombron) dbo:birthDate o'<1798-1-1>",
+    "2" : "s(Jacques_Bernard_Hombron) dbo:deathDate o'<1852-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10864",
+  "entityUrl" : "http://dbpedia.org/resource/John_Malalas",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(John_Malalas) dbo:birthDate o'<491-1-1>",
+    "2" : "s(John_Malalas) dbo:birthPlace o'<Antakya>",
+    "3" : "s(John_Malalas) dbo:deathDate o'<578-1-1>",
+    "4" : "s(John_Malalas) dbp:page o'<461>",
+    "5" : "s(John_Malalas) dbp:volume o'<17>",
+    "6" : "s(John_Malalas) dbp:wstitle o'<Malalas, John>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

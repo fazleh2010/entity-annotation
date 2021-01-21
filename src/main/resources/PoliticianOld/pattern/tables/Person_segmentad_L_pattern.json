@@ -1,0 +1,152 @@
+[ {
+  "entityIndex" : "entity11207",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Hartley-Clark",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Linda_Hartley-Clark) dbo:birthDate o'<1967-1-1>",
+    "2" : "s(Linda_Hartley-Clark) dbo:imdbId o'<0366863>",
+    "3" : "s(Linda_Hartley-Clark) dbp:name o'<Linda Hartley>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11208",
+  "entityUrl" : "http://dbpedia.org/resource/LeBaron_Bradford_Colt",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(LeBaron_Bradford_Colt) dbo:almaMater o'<Columbia_Law_School>",
+    "2" : "s(LeBaron_Bradford_Colt) dbo:almaMater o'<Yale_College>",
+    "3" : "s(LeBaron_Bradford_Colt) dbo:birthDate o'<1846-06-25>",
+    "4" : "s(LeBaron_Bradford_Colt) dbo:birthDate o'<1846-6-25>",
+    "5" : "s(LeBaron_Bradford_Colt) dbo:birthPlace o'<United_States>",
+    "6" : "s(LeBaron_Bradford_Colt) dbo:birthPlace o'<Dedham,_Massachusetts>",
+    "7" : "s(LeBaron_Bradford_Colt) dbo:birthPlace o'<Massachusetts>",
+    "8" : "s(LeBaron_Bradford_Colt) dbo:deathDate o'<1924-08-18>",
+    "9" : "s(LeBaron_Bradford_Colt) dbo:deathDate o'<1924-8-18>",
+    "10" : "s(LeBaron_Bradford_Colt) dbo:deathPlace o'<United_States>",
+    "11" : "s(LeBaron_Bradford_Colt) dbo:deathPlace o'<Rhode_Island>",
+    "12" : "s(LeBaron_Bradford_Colt) dbo:deathPlace o'<Bristol,_Rhode_Island>",
+    "13" : "s(LeBaron_Bradford_Colt) dbo:office o'<Judge of theUnited States Court of Appeals for the First Circuit>",
+    "14" : "s(LeBaron_Bradford_Colt) dbo:office o'<Member of theRhode Island House of Representatives>",
+    "15" : "s(LeBaron_Bradford_Colt) dbo:office o'<Judge of theUnited States Circuit Court for the First Circuit>",
+    "16" : "s(LeBaron_Bradford_Colt) dbo:office o'<Judge of theUnited States District Court for the District of Rhode Island>",
+    "17" : "s(LeBaron_Bradford_Colt) dbo:party o'<Republican_Party_(United_States)>",
+    "18" : "s(LeBaron_Bradford_Colt) dbo:predecessor o'<George_P._Wetmore>",
+    "19" : "s(LeBaron_Bradford_Colt) dbo:predecessor o'<John_Lowell_(judge,_1865â€“1884)>",
+    "20" : "s(LeBaron_Bradford_Colt) dbo:predecessor o'<John_Power_Knowles>",
+    "21" : "s(LeBaron_Bradford_Colt) dbo:successor o'<Jesse_H._Metcalf>",
+    "22" : "s(LeBaron_Bradford_Colt) dbo:successor o'<George_Hutchins_Bingham>",
+    "23" : "s(LeBaron_Bradford_Colt) dbo:successor o'<George_Moulton_Carpenter,_Jr.>",
+    "24" : "s(LeBaron_Bradford_Colt) dbo:termPeriod o'<LeBaron_Bradford_Colt__1>",
+    "25" : "s(LeBaron_Bradford_Colt) dbo:termPeriod o'<LeBaron_Bradford_Colt__2>",
+    "26" : "s(LeBaron_Bradford_Colt) dbo:termPeriod o'<LeBaron_Bradford_Colt__3>",
+    "27" : "s(LeBaron_Bradford_Colt) dbo:termPeriod o'<LeBaron_Bradford_Colt__4>",
+    "28" : "s(LeBaron_Bradford_Colt) dbp:alongside o'<Henry_F._Lippitt>",
+    "29" : "s(LeBaron_Bradford_Colt) dbp:alongside o'<Peter_G._Gerry>",
+    "30" : "s(LeBaron_Bradford_Colt) dbp:appointer o'<James_A._Garfield>",
+    "31" : "s(LeBaron_Bradford_Colt) dbp:appointer o'<Chester_A._Arthur>",
+    "32" : "s(LeBaron_Bradford_Colt) dbp:predecessor o'<Seat established>",
+    "33" : "s(LeBaron_Bradford_Colt) dbp:sr o'<United States Senator>",
+    "34" : "s(LeBaron_Bradford_Colt) dbp:state o'<Rhode_Island>",
+    "35" : "s(LeBaron_Bradford_Colt) dbp:successor o'<Seat abolished>",
+    "36" : "s(LeBaron_Bradford_Colt) dbp:term o'<1879>",
+    "37" : "s(LeBaron_Bradford_Colt) dbp:title o'<List_of_United_States_Senators_from_Rhode_Island>",
+    "38" : "s(LeBaron_Bradford_Colt) dbp:title o'<Judge of the United States Court of Appeals for the First Circuit>",
+    "39" : "s(LeBaron_Bradford_Colt) dbp:title o'<Judge of the United States District Court for the District of Rhode Island>",
+    "40" : "s(LeBaron_Bradford_Colt) dbp:title o'<Judge of the United States Circuit Court for the First Circuit>",
+    "41" : "s(LeBaron_Bradford_Colt) dbp:years o'<1881>",
+    "42" : "s(LeBaron_Bradford_Colt) dbp:years o'<1884>",
+    "43" : "s(LeBaron_Bradford_Colt) dbp:years o'<1891>",
+    "44" : "s(LeBaron_Bradford_Colt) dbp:years o'<1913>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11209",
+  "entityUrl" : "http://dbpedia.org/resource/Lynton_Crosby",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Lynton_Crosby) dbo:almaMater o'<University_of_Adelaide>",
+    "2" : "s(Lynton_Crosby) dbo:birthDate o'<1956-08-23>",
+    "3" : "s(Lynton_Crosby) dbo:birthDate o'<1957-1-1>",
+    "4" : "s(Lynton_Crosby) dbo:birthName o'<Lynton Keith Crosby>",
+    "5" : "s(Lynton_Crosby) dbo:birthPlace o'<Kadina,_South_Australia>",
+    "6" : "s(Lynton_Crosby) dbo:birthYear o'<1956>",
+    "7" : "s(Lynton_Crosby) dbo:nationality o'<Australians>",
+    "8" : "s(Lynton_Crosby) dbo:occupation o'<Lynton_Crosby__1>",
+    "9" : "s(Lynton_Crosby) dbo:party o'<Liberal_Party_of_Australia>",
+    "10" : "s(Lynton_Crosby) dbo:residence o'<United_Kingdom>",
+    "11" : "s(Lynton_Crosby) dbo:stateOfOrigin o'<Australians>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(lynton crosby=Lynton_Crosby) [oversaw ] o'<party's=Liberal_Party_of_Australia>",
+    "7" : "s(lynton crosby=Lynton_Crosby) [managed ] o'<conservative=Liberal_Party_of_Australia>",
+    "8" : "s(lynton crosby=Lynton_Crosby) [since run conservative ] o'<london=United_Kingdom>"
+  },
+  "abstract" : {
+    "5" : "lynton crosby<Lynton_Crosby> oversaw the party's<Liberal_Party_of_Australia> successful campaigns at the 1996, 1998, 2001, and 2004 federal elections, which made the howard government australia's second-longest serving federal government\n",
+    "7" : "crosby first ventured into overseas politics at the 2005 uk<United_Kingdom> general election, where lynton crosby<Lynton_Crosby> managed the conservative<Liberal_Party_of_Australia> party's<Liberal_Party_of_Australia> unsuccessful uk<United_Kingdom> campaign\n",
+    "8" : "lynton crosby<Lynton_Crosby> has since also run conservative campaigns for the 2008 and 2012 london<United_Kingdom> mayoral elections, as well as the 2015 general election, all of which resulted in victories for the party\n"
+  }
+}, {
+  "entityIndex" : "entity11210",
+  "entityUrl" : "http://dbpedia.org/resource/Leland_Chapman",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Leland_Chapman) dbo:activeYearsStartYear o'<2004>",
+    "2" : "s(Leland_Chapman) dbo:birthDate o'<1976-12-14>",
+    "3" : "s(Leland_Chapman) dbo:birthName o'<Leland Blane Chapman>",
+    "4" : "s(Leland_Chapman) dbo:birthPlace o'<Groom,_Texas>",
+    "5" : "s(Leland_Chapman) dbo:birthYear o'<1976>",
+    "6" : "s(Leland_Chapman) dbo:occupation o'<Celebrity>",
+    "7" : "s(Leland_Chapman) dbo:occupation o'<Bail_bondsman>",
+    "8" : "s(Leland_Chapman) dbo:occupation o'<Bounty_hunter>",
+    "9" : "s(Leland_Chapman) dbo:occupation o'<Leland_Chapman__1>",
+    "10" : "s(Leland_Chapman) dbo:occupation o'<Boxer>",
+    "11" : "s(Leland_Chapman) dbp:children o'<3>",
+    "12" : "s(Leland_Chapman) dbp:spouse o'<Maui Chapman  Jamie Pilar Chapman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11211",
+  "entityUrl" : "http://dbpedia.org/resource/Leonardo_Boff",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Leonardo_Boff) dbo:birthDate o'<1938-12-14>",
+    "2" : "s(Leonardo_Boff) dbo:birthPlace o'<ConcÃ³rdia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11212",
+  "entityUrl" : "http://dbpedia.org/resource/Ludwig_Elsbett",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ludwig_Elsbett) dbo:birthDate o'<1913-11-08>",
+    "2" : "s(Ludwig_Elsbett) dbo:birthDate o'<1913-11-8>",
+    "3" : "s(Ludwig_Elsbett) dbo:birthPlace o'<Germany>",
+    "4" : "s(Ludwig_Elsbett) dbo:birthPlace o'<Lower_Franconia>",
+    "5" : "s(Ludwig_Elsbett) dbo:birthPlace o'<Salz,_Bavaria>",
+    "6" : "s(Ludwig_Elsbett) dbo:birthYear o'<1913>",
+    "7" : "s(Ludwig_Elsbett) dbo:deathDate o'<2003-03-28>",
+    "8" : "s(Ludwig_Elsbett) dbo:deathDate o'<2003-3-28>",
+    "9" : "s(Ludwig_Elsbett) dbo:deathPlace o'<Germany>",
+    "10" : "s(Ludwig_Elsbett) dbo:deathPlace o'<Lower_Franconia>",
+    "11" : "s(Ludwig_Elsbett) dbo:deathPlace o'<Salz,_Bavaria>",
+    "12" : "s(Ludwig_Elsbett) dbo:deathYear o'<2003>",
+    "13" : "s(Ludwig_Elsbett) dbo:nationality o'<Germany>",
+    "14" : "s(Ludwig_Elsbett) dbo:occupation o'<Engineer>",
+    "15" : "s(Ludwig_Elsbett) dbo:occupation o'<Diesel_Engine>",
+    "16" : "s(Ludwig_Elsbett) dbo:occupation o'<Ludwig_Elsbett__1>",
+    "17" : "s(Ludwig_Elsbett) dbo:personFunction o'<Ludwig_Elsbett__1>",
+    "18" : "s(Ludwig_Elsbett) dbo:stateOfOrigin o'<Germany>",
+    "19" : "s(Ludwig_Elsbett) dbo:title o'< company founder>",
+    "20" : "s(Ludwig_Elsbett) dbp:children o'<GÃ¼nter , Heidi , Linde , Max , Klaus>",
+    "21" : "s(Ludwig_Elsbett) dbp:imageSize o'<150>",
+    "22" : "s(Ludwig_Elsbett) dbp:parents o'<Victor & Maria Elsbett>",
+    "23" : "s(Ludwig_Elsbett) dbp:spouse o'<Lieselotte Elsbett>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

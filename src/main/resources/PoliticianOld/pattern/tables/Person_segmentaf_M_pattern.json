@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity10713",
+  "entityUrl" : "http://dbpedia.org/resource/Marcus_Gheeraerts_the_Elder",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Marcus_Gheeraerts_the_Elder) dbo:birthDate o'<1519-0-0>",
+    "2" : "s(Marcus_Gheeraerts_the_Elder) dbo:birthPlace o'<Bruges>",
+    "3" : "s(Marcus_Gheeraerts_the_Elder) dbo:deathDate o'<1589-0-0>",
+    "4" : "s(Marcus_Gheeraerts_the_Elder) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10714",
+  "entityUrl" : "http://dbpedia.org/resource/Marie,_Princess_of_Hornes",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Marie,_Princess_of_Hornes) dbo:birthDate o'<1704-1-1>",
+    "2" : "s(Marie,_Princess_of_Hornes) dbo:deathDate o'<1736-11-30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10715",
+  "entityUrl" : "http://dbpedia.org/resource/Martin_Flood",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Martin_Flood) dbo:birthDate o'<1964-1-1>",
+    "2" : "s(Martin_Flood) dbo:imdbId o'<2404410>",
+    "3" : "s(Martin_Flood) dbp:after o'<Most Recent Millionaire>",
+    "4" : "s(Martin_Flood) dbp:before o'<Rob \"Coach\" Fulton>",
+    "5" : "s(Martin_Flood) dbp:name o'<Martin Flood>",
+    "6" : "s(Martin_Flood) dbp:title o'<Who_Wants_to_Be_a_Millionaire%3F_(Australian_game_show)>",
+    "7" : "s(Martin_Flood) dbp:years o'<2005-11-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10716",
+  "entityUrl" : "http://dbpedia.org/resource/Magdalen_Nabb",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Magdalen_Nabb) dbo:birthDate o'<1947-1-16>",
+    "2" : "s(Magdalen_Nabb) dbo:birthPlace o'<Lancashire>",
+    "3" : "s(Magdalen_Nabb) dbo:deathDate o'<2007-8-18>",
+    "4" : "s(Magdalen_Nabb) dbo:deathPlace o'<Florence>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10717",
+  "entityUrl" : "http://dbpedia.org/resource/Mezzo_Morto_H%C3%BCseyin_Pasha",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10718",
+  "entityUrl" : "http://dbpedia.org/resource/Mick_Mashbir",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

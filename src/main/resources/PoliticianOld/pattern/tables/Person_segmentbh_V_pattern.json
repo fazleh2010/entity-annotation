@@ -1,0 +1,48 @@
+[ {
+  "entityIndex" : "entity11423",
+  "entityUrl" : "http://dbpedia.org/resource/Vicario_Portillo_Mart%C3%ADnez",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11424",
+  "entityUrl" : "http://dbpedia.org/resource/Vicente_Salvador_G%C3%B3mez",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11425",
+  "entityUrl" : "http://dbpedia.org/resource/Victoria_A._Budson",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Victoria_A._Budson) dbp:imageSize o'<220>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11426",
+  "entityUrl" : "http://dbpedia.org/resource/V%C3%ADctor_Hugo_Velasco_Orozco",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11427",
+  "entityUrl" : "http://dbpedia.org/resource/Vincenzo_Seratrice_the_Elder",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Vincenzo_Seratrice_the_Elder) dbo:birthDate o'<1851-0-0>",
+    "2" : "s(Vincenzo_Seratrice_the_Elder) dbo:deathDate o'<1922-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11428",
+  "entityUrl" : "http://dbpedia.org/resource/Vittore_Benedetto_Antonio_Trevisan_de_Saint-L%C3%A9on",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

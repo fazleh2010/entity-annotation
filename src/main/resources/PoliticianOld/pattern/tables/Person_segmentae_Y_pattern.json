@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity11449",
+  "entityUrl" : "http://dbpedia.org/resource/Yair_Lapid",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Yair_Lapid) dbo:birthDate o'<1963-11-5>",
+    "2" : "s(Yair_Lapid) dbo:birthPlace o'<Tel_Aviv>",
+    "3" : "s(Yair_Lapid) dbp:author o'<yes>",
+    "4" : "s(Yair_Lapid) dbp:b o'<no>",
+    "5" : "s(Yair_Lapid) dbp:birthDate o'<1963-11-05>",
+    "6" : "s(Yair_Lapid) dbp:birthPlace o'<Tel_Aviv>",
+    "7" : "s(Yair_Lapid) dbp:birthPlace o'<Israel>",
+    "8" : "s(Yair_Lapid) dbp:knesset(s)_ o'<1920>",
+    "9" : "s(Yair_Lapid) dbp:minister o'<Ministry_of_Finance_(Israel)>",
+    "10" : "s(Yair_Lapid) dbp:ministeryears o'<2013>",
+    "11" : "s(Yair_Lapid) dbp:name o'<Yair Lapid>",
+    "12" : "s(Yair_Lapid) dbp:party o'<Yesh_Atid>",
+    "13" : "s(Yair_Lapid) dbp:partyyears o'<2013>",
+    "14" : "s(Yair_Lapid) dbp:title o'<Ministry_of_Finance_(Israel)>",
+    "15" : "s(Yair_Lapid) dbp:title o'<Yesh_Atid>",
+    "16" : "s(Yair_Lapid) dbp:title o'<Leader of>",
+    "17" : "s(Yair_Lapid) dbp:v o'<no>",
+    "18" : "s(Yair_Lapid) dbp:wikt o'<no>",
+    "19" : "s(Yair_Lapid) dbp:years o'<2012>",
+    "20" : "s(Yair_Lapid) dbp:years o'<2013>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11450",
+  "entityUrl" : "http://dbpedia.org/resource/Yan_Yuan_(Qing_dynasty)",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Yan_Yuan_(Qing_dynasty)) dbo:birthDate o'<1635-4-27>",
+    "2" : "s(Yan_Yuan_(Qing_dynasty)) dbo:deathDate o'<1704-9-30>",
+    "3" : "s(Yan_Yuan_(Qing_dynasty)) dbp:c o'<ä¹ æ–‹>",
+    "4" : "s(Yan_Yuan_(Qing_dynasty)) dbp:c o'<é¢œå…ƒ>",
+    "5" : "s(Yan_Yuan_(Qing_dynasty)) dbp:p o'<XÃ­zhÄ�i>",
+    "6" : "s(Yan_Yuan_(Qing_dynasty)) dbp:p o'<YÃ¡n YuÃ¡n>",
+    "7" : "s(Yan_Yuan_(Qing_dynasty)) dbp:w o'<Hsi-chai>",
+    "8" : "s(Yan_Yuan_(Qing_dynasty)) dbp:w o'<Yen Yuan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11451",
+  "entityUrl" : "http://dbpedia.org/resource/Yeung_Kai-yin",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Yeung_Kai-yin) dbo:birthDate o'<1941-1-6>",
+    "2" : "s(Yeung_Kai-yin) dbo:deathDate o'<2007-2-8>",
+    "3" : "s(Yeung_Kai-yin) dbp:after o'<Haider_Barma>",
+    "4" : "s(Yeung_Kai-yin) dbp:before o'<Michael_Leung>",
+    "5" : "s(Yeung_Kai-yin) dbp:title o'<Secretary_for_the_Treasury_(Hong_Kong)>",
+    "6" : "s(Yeung_Kai-yin) dbp:title o'<Secretary_for_Education_and_Manpower>",
+    "7" : "s(Yeung_Kai-yin) dbp:title o'<Secretary_for_Transport>",
+    "8" : "s(Yeung_Kai-yin) dbp:years o'<1989>",
+    "9" : "s(Yeung_Kai-yin) dbp:years o'<1991>",
+    "10" : "s(Yeung_Kai-yin) dbp:years o'<1993>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11452",
+  "entityUrl" : "http://dbpedia.org/resource/Yves_Pelletier",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Yves_Pelletier) dbo:birthDate o'<1961-1-15>",
+    "2" : "s(Yves_Pelletier) dbo:birthPlace o'<Laval,_Quebec>",
+    "3" : "s(Yves_Pelletier) dbo:imdbId o'<0671149>",
+    "4" : "s(Yves_Pelletier) dbp:name o'<Yves Pelletier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11453",
+  "entityUrl" : "http://dbpedia.org/resource/Yaghi-Siyan",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Yaghi-Siyan) dbo:birthDate o'<1100-1-1>",
+    "2" : "s(Yaghi-Siyan) dbo:deathDate o'<1098-6-2>",
+    "3" : "s(Yaghi-Siyan) dbo:deathPlace o'<Antakya>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11454",
+  "entityUrl" : "http://dbpedia.org/resource/Yahu-Bihdi",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Yahu-Bihdi) dbo:birthDate o'<-800-1-1>",
+    "2" : "s(Yahu-Bihdi) dbo:deathDate o'<-800-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

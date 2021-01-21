@@ -1,0 +1,68 @@
+[ {
+  "entityIndex" : "entity11439",
+  "entityUrl" : "http://dbpedia.org/resource/Yolanda_Ramos",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Yolanda_Ramos) dbo:birthDate o'<1968-09-04>",
+    "2" : "s(Yolanda_Ramos) dbo:birthDate o'<1968-9-4>",
+    "3" : "s(Yolanda_Ramos) dbo:birthPlace o'<Barcelona>",
+    "4" : "s(Yolanda_Ramos) dbo:birthPlace o'<Spain>",
+    "5" : "s(Yolanda_Ramos) dbo:birthYear o'<1968>",
+    "6" : "s(Yolanda_Ramos) dbo:imdbId o'<1521392>",
+    "7" : "s(Yolanda_Ramos) dbp:imagesize o'<180>",
+    "8" : "s(Yolanda_Ramos) dbp:name o'<Yolanda Ramos>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11440",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C4%B1lmaz_Erdo%C4%9Fan",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11441",
+  "entityUrl" : "http://dbpedia.org/resource/Yokoyama_Matsusabur%C5%8D",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11442",
+  "entityUrl" : "http://dbpedia.org/resource/Yavilah_McCoy",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Yavilah_McCoy) dbo:birthDate o'<1972-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11443",
+  "entityUrl" : "http://dbpedia.org/resource/Yik-Man_Wong",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Yik-Man_Wong) dbo:birthDate o'<1990-11-3>",
+    "2" : "s(Yik-Man_Wong) dbo:birthPlace o'<Tilburg>",
+    "3" : "s(Yik-Man_Wong) dbp:birthDate o'<1990-11-03>",
+    "4" : "s(Yik-Man_Wong) dbp:birthPlace o'<Tilburg, The Netherlands>",
+    "5" : "s(Yik-Man_Wong) dbp:bwfId o'<93>",
+    "6" : "s(Yik-Man_Wong) dbp:event o'<Women's Singles & Doubles>",
+    "7" : "s(Yik-Man_Wong) dbp:highestRanking o'<134>",
+    "8" : "s(Yik-Man_Wong) dbp:highestRanking o'<213>",
+    "9" : "s(Yik-Man_Wong) dbp:name o'<Yik-Man Wong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11444",
+  "entityUrl" : "http://dbpedia.org/resource/Yelena_Vinogradova",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Yelena_Vinogradova) dbo:birthDate o'<1964-3-28>",
+    "2" : "s(Yelena_Vinogradova) dbp:id o'<61998>",
+    "3" : "s(Yelena_Vinogradova) dbp:name o'<Yelena Vinogradova>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

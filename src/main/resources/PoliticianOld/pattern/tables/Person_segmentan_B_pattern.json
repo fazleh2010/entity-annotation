@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity11955",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_Martin_(luger)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Brian_Martin_(luger)) dbo:birthDate o'<1974-01-19>",
+    "2" : "s(Brian_Martin_(luger)) dbo:birthDate o'<1974-1-19>",
+    "3" : "s(Brian_Martin_(luger)) dbo:birthPlace o'<Palo_Alto,_California>",
+    "4" : "s(Brian_Martin_(luger)) dbp:headercolor o'<lightsteelblue>",
+    "5" : "s(Brian_Martin_(luger)) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11956",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Clear",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Bob_Clear) dbo:birthDate o'<1927-12-14>",
+    "2" : "s(Bob_Clear) dbo:deathDate o'<2010-4-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11957",
+  "entityUrl" : "http://dbpedia.org/resource/Bernhard_Moritz_Carl_Ludwig_Riedel",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Bernhard_Moritz_Carl_Ludwig_Riedel) dbo:birthDate o'<1846-9-18>",
+    "2" : "s(Bernhard_Moritz_Carl_Ludwig_Riedel) dbo:birthPlace o'<Laage>",
+    "3" : "s(Bernhard_Moritz_Carl_Ludwig_Riedel) dbo:deathDate o'<1916-9-12>",
+    "4" : "s(Bernhard_Moritz_Carl_Ludwig_Riedel) dbo:deathPlace o'<Jena>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11958",
+  "entityUrl" : "http://dbpedia.org/resource/Barna_Bor",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Barna_Bor) dbo:birthDate o'<1986-12-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11959",
+  "entityUrl" : "http://dbpedia.org/resource/Bernardino_Cesari",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Bernardino_Cesari) dbo:birthDate o'<1565-1-1>",
+    "2" : "s(Bernardino_Cesari) dbo:birthPlace o'<Arpino>",
+    "3" : "s(Bernardino_Cesari) dbo:deathDate o'<1622-6-30>",
+    "4" : "s(Bernardino_Cesari) dbo:deathPlace o'<Rome>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11960",
+  "entityUrl" : "http://dbpedia.org/resource/Big_Daddy_Kinsey",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Big_Daddy_Kinsey) dbo:birthDate o'<1927-3-18>",
+    "2" : "s(Big_Daddy_Kinsey) dbo:birthPlace o'<Mississippi>",
+    "3" : "s(Big_Daddy_Kinsey) dbo:deathDate o'<2001-4-3>",
+    "4" : "s(Big_Daddy_Kinsey) dbo:deathPlace o'<Gary,_Indiana>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

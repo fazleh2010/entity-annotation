@@ -1,0 +1,63 @@
+[ {
+  "entityIndex" : "entity10797",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98tef%C4%83ni%C8%9B%C4%83_Lupu",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10798",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81ed_Oirdnide",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10799",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%93scar_M%C3%ADguez",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10800",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%A0tefan_Zn%C3%A1m",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10801",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Branly",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10802",
+  "entityUrl" : "http://dbpedia.org/resource/%60Abd_al-Qadir_Bada'uni",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(%60Abd_al-Qadir_Bada'uni) dbo:birthDate o'<1540-1-1>",
+    "2" : "s(%60Abd_al-Qadir_Bada'uni) dbo:deathDate o'<1615-1-1>",
+    "3" : "s(%60Abd_al-Qadir_Bada'uni) dbp:birthDate o'<1540>",
+    "4" : "s(%60Abd_al-Qadir_Bada'uni) dbp:birthPlace o'<Toda, India>",
+    "5" : "s(%60Abd_al-Qadir_Bada'uni) dbp:deathDate o'<1615>",
+    "6" : "s(%60Abd_al-Qadir_Bada'uni) dbp:deathPlace o'<India>",
+    "7" : "s(%60Abd_al-Qadir_Bada'uni) dbp:era o'<Medieval_India>",
+    "8" : "s(%60Abd_al-Qadir_Bada'uni) dbp:mainInterests o'<Historian>",
+    "9" : "s(%60Abd_al-Qadir_Bada'uni) dbp:mainInterests o'<Islamic_scholar>",
+    "10" : "s(%60Abd_al-Qadir_Bada'uni) dbp:mainInterests o'<Linguist>",
+    "11" : "s(%60Abd_al-Qadir_Bada'uni) dbp:mainInterests o'<Courtier>",
+    "12" : "s(%60Abd_al-Qadir_Bada'uni) dbp:majorWorks o'<Tarikh-i-Bada'uni>",
+    "13" : "s(%60Abd_al-Qadir_Bada'uni) dbp:name o'<Abd-ul-Qadir Bada'uni>",
+    "14" : "s(%60Abd_al-Qadir_Bada'uni) dbp:region o'<Indian_Subcontinent>",
+    "15" : "s(%60Abd_al-Qadir_Bada'uni) dbp:religion o'<Islam>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "9" : "s(%60abd al-qadir bada'uni=%60Abd_al-Qadir_Bada'uni) [translated ] o'<hindu=India>"
+  },
+  "abstract" : {
+    "9" : "%60abd al-qadir bada'uni<%60Abd_al-Qadir_Bada'uni> translated the hindu<India> works, the ramayana and the mahabharata (razmnama)\n"
+  }
+} ]

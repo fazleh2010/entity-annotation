@@ -1,0 +1,161 @@
+[ {
+  "entityIndex" : "entity10755",
+  "entityUrl" : "http://dbpedia.org/resource/Trevor_Peacock",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Trevor_Peacock) dbo:birthDate o'<1931-05-19>",
+    "2" : "s(Trevor_Peacock) dbo:birthDate o'<1931-5-19>",
+    "3" : "s(Trevor_Peacock) dbo:birthName o'<Trevor Peacock>",
+    "4" : "s(Trevor_Peacock) dbo:birthPlace o'<Tottenham>",
+    "5" : "s(Trevor_Peacock) dbo:birthYear o'<1931>",
+    "6" : "s(Trevor_Peacock) dbo:child o'<Daniel_Peacock>",
+    "7" : "s(Trevor_Peacock) dbo:child o'<Harry_Peacock_(actor)>",
+    "8" : "s(Trevor_Peacock) dbo:imdbId o'<0668807>",
+    "9" : "s(Trevor_Peacock) dbo:occupation o'<Songwriter>",
+    "10" : "s(Trevor_Peacock) dbo:occupation o'<Trevor_Peacock__1>",
+    "11" : "s(Trevor_Peacock) dbp:name o'<Trevor Peacock>",
+    "12" : "s(Trevor_Peacock) dbp:parents o'<Alexandria Peacock>",
+    "13" : "s(Trevor_Peacock) dbp:parents o'<Victor Peacock>",
+    "14" : "s(Trevor_Peacock) dbp:spouse o'<Iris Jones>",
+    "15" : "s(Trevor_Peacock) dbp:spouse o'<Tilly Tremayne>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(trevor peacock=Trevor_Peacock) [born 19 may 1931 ] o'<songwriter=Songwriter>",
+    "3" : "s(trevor peacock=Trevor_Peacock) [born in ] o'<tottenham=Tottenham>"
+  },
+  "abstract" : {
+    "1" : "trevor peacock<Trevor_Peacock> (born 19 may 1931) is an english stage and television character actor and former screenwriter and songwriter<Songwriter>",
+    "3" : "trevor peacock<Trevor_Peacock> was born in tottenham<Tottenham>, the son of alexandria and victor edward peacock\n"
+  }
+}, {
+  "entityIndex" : "entity10756",
+  "entityUrl" : "http://dbpedia.org/resource/Tor_Ulven",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Tor_Ulven) dbo:birthDate o'<1953-11-14>",
+    "2" : "s(Tor_Ulven) dbo:birthPlace o'<Oslo>",
+    "3" : "s(Tor_Ulven) dbo:deathDate o'<1995-5-18>",
+    "4" : "s(Tor_Ulven) dbo:deathPlace o'<Oslo>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(tor ulven=Tor_Ulven) [committed suicide in 1995 in ] o'<oslo=Oslo>"
+  },
+  "abstract" : {
+    "6" : "tor ulven<Tor_Ulven> committed suicide in 1995 in oslo<Oslo>, the city<Oslo> where tor ulven<Tor_Ulven> was born\n"
+  }
+}, {
+  "entityIndex" : "entity10757",
+  "entityUrl" : "http://dbpedia.org/resource/Todd_Howard_(video_game_designer)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Todd_Howard_(video_game_designer)) dbo:almaMater o'<College_of_William_&_Mary>",
+    "2" : "s(Todd_Howard_(video_game_designer)) dbo:birthDate o'<1971-04-25>",
+    "3" : "s(Todd_Howard_(video_game_designer)) dbo:birthDate o'<1971-4-24>",
+    "4" : "s(Todd_Howard_(video_game_designer)) dbo:birthPlace o'<Lower_Macungie_Township,_Lehigh_County,_Pennsylvania>",
+    "5" : "s(Todd_Howard_(video_game_designer)) dbo:birthYear o'<1971>",
+    "6" : "s(Todd_Howard_(video_game_designer)) dbo:employer o'<Bethesda_Game_Studios>",
+    "7" : "s(Todd_Howard_(video_game_designer)) dbo:knownFor o'<The_Elder_Scrolls>",
+    "8" : "s(Todd_Howard_(video_game_designer)) dbo:knownFor o'<Fallout_(series)>",
+    "9" : "s(Todd_Howard_(video_game_designer)) dbo:nationality o'<United_States>",
+    "10" : "s(Todd_Howard_(video_game_designer)) dbo:occupation o'<Todd_Howard_(video_game_designer)__1>",
+    "11" : "s(Todd_Howard_(video_game_designer)) dbo:stateOfOrigin o'<United_States>",
+    "12" : "s(Todd_Howard_(video_game_designer)) dbp:id o'<16249>",
+    "13" : "s(Todd_Howard_(video_game_designer)) dbp:name o'<Todd Howard>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10758",
+  "entityUrl" : "http://dbpedia.org/resource/Timothy_M._Dolan",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Timothy_M._Dolan) dbo:activeYearsStartYear o'<2009>",
+    "2" : "s(Timothy_M._Dolan) dbo:birthDate o'<1950-02-06>",
+    "3" : "s(Timothy_M._Dolan) dbo:birthDate o'<1950-2-6>",
+    "4" : "s(Timothy_M._Dolan) dbo:birthPlace o'<St._Louis>",
+    "5" : "s(Timothy_M._Dolan) dbo:religion o'<Roman_Catholic>",
+    "6" : "s(Timothy_M._Dolan) dbp:appointed o'<2009-02-23>",
+    "7" : "s(Timothy_M._Dolan) dbp:archdiocese o'<Roman_Catholic_Archdiocese_of_New_York>",
+    "8" : "s(Timothy_M._Dolan) dbp:birthPlace o'<St._Louis,_Missouri>",
+    "9" : "s(Timothy_M._Dolan) dbp:bishop o'<John_Joseph_Jenik>",
+    "10" : "s(Timothy_M._Dolan) dbp:bishop o'<John_Joseph_Oâ€™Hara>",
+    "11" : "s(Timothy_M._Dolan) dbp:bishop o'<Peter_John_Byrne>",
+    "12" : "s(Timothy_M._Dolan) dbp:bishop o'<Edward_Bernard_Scharfenberger>",
+    "13" : "s(Timothy_M._Dolan) dbp:bishop o'<Terry_R._LaValley>",
+    "14" : "s(Timothy_M._Dolan) dbp:bishop o'<William P. Callahan OFM Conv>",
+    "15" : "s(Timothy_M._Dolan) dbp:cardinal o'<2012-02-18>",
+    "16" : "s(Timothy_M._Dolan) dbp:coConsecrators o'<Joseph_Fred_Naumann>",
+    "17" : "s(Timothy_M._Dolan) dbp:coConsecrators o'<Michael_John_Sheridan>",
+    "18" : "s(Timothy_M._Dolan) dbp:consecratedBy o'<Justin_Francis_Rigali>",
+    "19" : "s(Timothy_M._Dolan) dbp:consecratedBy o'<Justin Francis Rigali, Joseph Fred Naumann, and Michael John Sheridan>",
+    "20" : "s(Timothy_M._Dolan) dbp:consecration o'<2001-08-15>",
+    "21" : "s(Timothy_M._Dolan) dbp:consecrationDate o'<2007-12-21>",
+    "22" : "s(Timothy_M._Dolan) dbp:consecrationDate o'<2010-04-30>",
+    "23" : "s(Timothy_M._Dolan) dbp:consecrationDate o'<2014-04-10>",
+    "24" : "s(Timothy_M._Dolan) dbp:consecrationDate o'<2014-08-04>",
+    "25" : "s(Timothy_M._Dolan) dbp:createdCardinalBy o'<Pope_Benedict_XVI>",
+    "26" : "s(Timothy_M._Dolan) dbp:dateOfConsecration o'<2001-08-15>",
+    "27" : "s(Timothy_M._Dolan) dbp:dateOfElevation o'<2012-02-18>",
+    "28" : "s(Timothy_M._Dolan) dbp:dateOfPriestlyOrdination o'<1976-06-19>",
+    "29" : "s(Timothy_M._Dolan) dbp:dipstyle o'<His_Eminence>",
+    "30" : "s(Timothy_M._Dolan) dbp:elevatedBy o'<Pope_Benedict_XVI>",
+    "31" : "s(Timothy_M._Dolan) dbp:honorificPrefix o'<His_Eminence>",
+    "32" : "s(Timothy_M._Dolan) dbp:imageSize o'<200>",
+    "33" : "s(Timothy_M._Dolan) dbp:motto o'<,>",
+    "34" : "s(Timothy_M._Dolan) dbp:motto o'<Ad Quem Ibimus>",
+    "35" : "s(Timothy_M._Dolan) dbp:name o'<Timothy Michael Dolan>",
+    "36" : "s(Timothy_M._Dolan) dbp:nationality o'<American>",
+    "37" : "s(Timothy_M._Dolan) dbp:offstyle o'<His_Eminence>",
+    "38" : "s(Timothy_M._Dolan) dbp:ordainedBy o'<Edward_Thomas_O'Meara>",
+    "39" : "s(Timothy_M._Dolan) dbp:ordainedPriestBy o'<Edward_Thomas_O'Meara>",
+    "40" : "s(Timothy_M._Dolan) dbp:ordination o'<1976-06-19>",
+    "41" : "s(Timothy_M._Dolan) dbp:otherPost o'<Cardinal-Priest of Nostra Signora di Guadalupe a Monte Mario>",
+    "42" : "s(Timothy_M._Dolan) dbp:parents o'<Robert Dolan, Shirley Radcliffe>",
+    "43" : "s(Timothy_M._Dolan) dbp:placeOfConsecration o'<Cathedral Basilica of Saint Louis, St. Louis, Missouri, USA>",
+    "44" : "s(Timothy_M._Dolan) dbp:predecessor o'<Edward_Egan>",
+    "45" : "s(Timothy_M._Dolan) dbp:previousPost o'<Apostolic_Administrator>",
+    "46" : "s(Timothy_M._Dolan) dbp:previousPost o'<Roman_Catholic_Diocese_of_Green_Bay>",
+    "47" : "s(Timothy_M._Dolan) dbp:previousPost o'<President>",
+    "48" : "s(Timothy_M._Dolan) dbp:previousPost o'<Pontifical_North_American_College>",
+    "49" : "s(Timothy_M._Dolan) dbp:previousPost o'<Roman_Catholic_Archdiocese_of_Milwaukee>",
+    "50" : "s(Timothy_M._Dolan) dbp:previousPost o'<Roman_Catholic_Archdiocese_of_St._Louis>",
+    "51" : "s(Timothy_M._Dolan) dbp:previousPost o'<United_States_Conference_of_Catholic_Bishops>",
+    "52" : "s(Timothy_M._Dolan) dbp:previousPost o'<of>",
+    "53" : "s(Timothy_M._Dolan) dbp:previousPost o'<of the>",
+    "54" : "s(Timothy_M._Dolan) dbp:rank o'<Cardinal_(Catholic_Church)>",
+    "55" : "s(Timothy_M._Dolan) dbp:relstyle o'<Cardinal_(Catholicism)>",
+    "56" : "s(Timothy_M._Dolan) dbp:title o'<Cardinal_(Catholicism)>",
+    "57" : "s(Timothy_M._Dolan) dbp:title o'<Pontifical_North_American_College>",
+    "58" : "s(Timothy_M._Dolan) dbp:title o'<Roman_Catholic_Archdiocese_of_Milwaukee>",
+    "59" : "s(Timothy_M._Dolan) dbp:title o'<Roman_Catholic_Archdiocese_of_New_York>",
+    "60" : "s(Timothy_M._Dolan) dbp:title o'<Cardinal-Priest of Nostra Signora di Guadalupe a Monte Mario>",
+    "61" : "s(Timothy_M._Dolan) dbp:title o'<Bishop of Natchesium>",
+    "62" : "s(Timothy_M._Dolan) dbp:title o'<President of the United States Conference of Catholic Bishops>",
+    "63" : "s(Timothy_M._Dolan) dbp:type o'<cardinal>",
+    "64" : "s(Timothy_M._Dolan) dbp:years o'<1994>",
+    "65" : "s(Timothy_M._Dolan) dbp:years o'<2001>",
+    "66" : "s(Timothy_M._Dolan) dbp:years o'<2002>",
+    "67" : "s(Timothy_M._Dolan) dbp:years o'<2009>",
+    "68" : "s(Timothy_M._Dolan) dbp:years o'<2010>",
+    "69" : "s(Timothy_M._Dolan) dbp:years o'<2012>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10759",
+  "entityUrl" : "http://dbpedia.org/resource/Tessh%C5%8D_Genda",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10760",
+  "entityUrl" : "http://dbpedia.org/resource/Tony_Santos",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Tony_Santos) dbo:birthDate o'<1981-4-15>",
+    "2" : "s(Tony_Santos) dbo:birthPlace o'<Santa_Cruz_de_Tenerife>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

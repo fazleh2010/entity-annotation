@@ -1,0 +1,125 @@
+[ {
+  "entityIndex" : "entity11825",
+  "entityUrl" : "http://dbpedia.org/resource/Herbert_II,_Count_of_Maine",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Herbert_II,_Count_of_Maine) dbo:birthDate o'<1047-0-0>",
+    "2" : "s(Herbert_II,_Count_of_Maine) dbo:deathDate o'<1062-3-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11826",
+  "entityUrl" : "http://dbpedia.org/resource/Hugh_IV,_Count_of_Maine",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Hugh_IV,_Count_of_Maine) dbo:birthDate o'<1020-0-0>",
+    "2" : "s(Hugh_IV,_Count_of_Maine) dbo:deathDate o'<1051-03-25>",
+    "3" : "s(Hugh_IV,_Count_of_Maine) dbo:deathDate o'<1051-3-25>",
+    "4" : "s(Hugh_IV,_Count_of_Maine) dbo:parent o'<Herbert_I_of_Maine>",
+    "5" : "s(Hugh_IV,_Count_of_Maine) dbo:spouse o'<Bertha_of_Blois>",
+    "6" : "s(Hugh_IV,_Count_of_Maine) dbp:nobleFamily o'<Hugonide>",
+    "7" : "s(Hugh_IV,_Count_of_Maine) dbp:nobleFamily o'<Carolingian>",
+    "8" : "s(Hugh_IV,_Count_of_Maine) dbp:title o'<Count_of_Maine>",
+    "9" : "s(Hugh_IV,_Count_of_Maine) dbp:years o'<1036>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11827",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Schaare",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Harry_Schaare) dbo:birthDate o'<1922-05-23>",
+    "2" : "s(Harry_Schaare) dbo:birthDate o'<1922-5-23>",
+    "3" : "s(Harry_Schaare) dbo:birthPlace o'<New_York_City>",
+    "4" : "s(Harry_Schaare) dbo:birthYear o'<1922>",
+    "5" : "s(Harry_Schaare) dbo:country o'<United_States>",
+    "6" : "s(Harry_Schaare) dbo:deathDate o'<2008-04-09>",
+    "7" : "s(Harry_Schaare) dbo:deathDate o'<2008-4-9>",
+    "8" : "s(Harry_Schaare) dbo:deathPlace o'<Phoenix,_Arizona>",
+    "9" : "s(Harry_Schaare) dbo:deathYear o'<2008>",
+    "10" : "s(Harry_Schaare) dbo:nationality o'<United_States>",
+    "11" : "s(Harry_Schaare) dbo:occupation o'<Harry_Schaare__1>",
+    "12" : "s(Harry_Schaare) dbo:occupation o'<Painting>",
+    "13" : "s(Harry_Schaare) dbo:stateOfOrigin o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11828",
+  "entityUrl" : "http://dbpedia.org/resource/Helen_Corbitt",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Helen_Corbitt) dbo:activeYearsEndYear o'<1976>",
+    "2" : "s(Helen_Corbitt) dbo:activeYearsStartYear o'<1925>",
+    "3" : "s(Helen_Corbitt) dbo:almaMater o'<Skidmore_College>",
+    "4" : "s(Helen_Corbitt) dbo:birthDate o'<1906-01-25>",
+    "5" : "s(Helen_Corbitt) dbo:birthDate o'<1906-1-25>",
+    "6" : "s(Helen_Corbitt) dbo:birthPlace o'<Benson,_New_York>",
+    "7" : "s(Helen_Corbitt) dbo:birthYear o'<1906>",
+    "8" : "s(Helen_Corbitt) dbo:deathDate o'<1978-01-16>",
+    "9" : "s(Helen_Corbitt) dbo:deathDate o'<1978-1-17>",
+    "10" : "s(Helen_Corbitt) dbo:deathPlace o'<Dallas>",
+    "11" : "s(Helen_Corbitt) dbo:deathPlace o'<Texas>",
+    "12" : "s(Helen_Corbitt) dbo:deathYear o'<1978>",
+    "13" : "s(Helen_Corbitt) dbo:employer o'<Neiman_Marcus>",
+    "14" : "s(Helen_Corbitt) dbo:occupation o'<Chef>",
+    "15" : "s(Helen_Corbitt) dbo:occupation o'<Helen_Corbitt__1>",
+    "16" : "s(Helen_Corbitt) dbp:deathCause o'<Cancer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11829",
+  "entityUrl" : "http://dbpedia.org/resource/Harvey_Jerome_Brudner",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Harvey_Jerome_Brudner) dbo:birthDate o'<1931-05-29>",
+    "2" : "s(Harvey_Jerome_Brudner) dbo:birthDate o'<1931-5-29>",
+    "3" : "s(Harvey_Jerome_Brudner) dbo:birthPlace o'<Brooklyn>",
+    "4" : "s(Harvey_Jerome_Brudner) dbo:birthPlace o'<Brooklyn,_New_York_City>",
+    "5" : "s(Harvey_Jerome_Brudner) dbo:deathDate o'<2009-09-15>",
+    "6" : "s(Harvey_Jerome_Brudner) dbo:deathDate o'<2009-9-15>",
+    "7" : "s(Harvey_Jerome_Brudner) dbo:deathPlace o'<Robert_Wood_Johnson_University_Hospital>",
+    "8" : "s(Harvey_Jerome_Brudner) dbo:deathPlace o'<New_Brunswick,_New_Jersey>",
+    "9" : "s(Harvey_Jerome_Brudner) dbo:occupation o'<Engineer>",
+    "10" : "s(Harvey_Jerome_Brudner) dbo:office o'<Dean of Science and Technology>",
+    "11" : "s(Harvey_Jerome_Brudner) dbo:office o'<New York Institute of Technology>",
+    "12" : "s(Harvey_Jerome_Brudner) dbo:office o'<Vice President of Research and Development>",
+    "13" : "s(Harvey_Jerome_Brudner) dbo:office o'<Westinghouse Learning>",
+    "14" : "s(Harvey_Jerome_Brudner) dbp:education o'<New York University>",
+    "15" : "s(Harvey_Jerome_Brudner) dbp:employer o'<New_York_Institute_of_Technology>",
+    "16" : "s(Harvey_Jerome_Brudner) dbp:employer o'<Westinghouse_Electric>",
+    "17" : "s(Harvey_Jerome_Brudner) dbp:employer o'<American_Can_Company>",
+    "18" : "s(Harvey_Jerome_Brudner) dbp:employer o'<Medical Development, Inc.>",
+    "19" : "s(Harvey_Jerome_Brudner) dbp:knownFor o'<Information_theory>",
+    "20" : "s(Harvey_Jerome_Brudner) dbp:spouse o'<1964>",
+    "21" : "s(Harvey_Jerome_Brudner) dbp:spouse o'<2009>",
+    "22" : "s(Harvey_Jerome_Brudner) dbp:spouse o'<Helen Gross>",
+    "23" : "s(Harvey_Jerome_Brudner) dbp:termEnd o'<1964>",
+    "24" : "s(Harvey_Jerome_Brudner) dbp:termEnd o'<1971>",
+    "25" : "s(Harvey_Jerome_Brudner) dbp:termStart o'<1962>",
+    "26" : "s(Harvey_Jerome_Brudner) dbp:termStart o'<1967>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(harvey jerome brudner=Harvey_Jerome_Brudner) [dean of science ] o'<new york=New_York_University>"
+  },
+  "abstract" : {
+    "2" : "harvey jerome brudner<Harvey_Jerome_Brudner> was the dean of science and technology of the new york<New_York_University> institute of technology from 1962 to 1964\n"
+  }
+}, {
+  "entityIndex" : "entity11830",
+  "entityUrl" : "http://dbpedia.org/resource/Hoshina_Masatoshi",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Hoshina_Masatoshi) dbo:birthDate o'<1509-0-0>",
+    "2" : "s(Hoshina_Masatoshi) dbo:deathDate o'<1593-1-1>",
+    "3" : "s(Hoshina_Masatoshi) dbp:after o'<Hoshina_Masanao>",
+    "4" : "s(Hoshina_Masatoshi) dbp:before o'<Hoshina Masanori>",
+    "5" : "s(Hoshina_Masatoshi) dbp:title o'<Hoshina_clan>",
+    "6" : "s(Hoshina_Masatoshi) dbp:years o'<????â€“????>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

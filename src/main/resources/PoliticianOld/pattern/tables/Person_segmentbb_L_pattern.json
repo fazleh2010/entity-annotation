@@ -1,0 +1,76 @@
+[ {
+  "entityIndex" : "entity14308",
+  "entityUrl" : "http://dbpedia.org/resource/Lance_Wyman",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Lance_Wyman) dbo:birthDate o'<1937-0-0>",
+    "2" : "s(Lance_Wyman) dbo:birthPlace o'<Newark,_New_Jersey>",
+    "3" : "s(Lance_Wyman) dbo:birthYear o'<1937>",
+    "4" : "s(Lance_Wyman) dbo:occupation o'<Lance_Wyman__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14309",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_Leiby",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Larry_Leiby) dbo:birthDate o'<1947-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14310",
+  "entityUrl" : "http://dbpedia.org/resource/Liam_Mac_Con_Iomaire",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Liam_Mac_Con_Iomaire) dbo:birthDate o'<1937-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14311",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Haxall",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Lee_Haxall) dbo:activeYearsStartYear o'<1984>",
+    "2" : "s(Lee_Haxall) dbo:occupation o'<Lee_Haxall__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14312",
+  "entityUrl" : "http://dbpedia.org/resource/Lila_Azam_Zanganeh",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Lila_Azam_Zanganeh) dbo:activeYearsStartYear o'<2002>",
+    "2" : "s(Lila_Azam_Zanganeh) dbo:almaMater o'<Ecole_Normale_SupÃ©rieure_de_Lyon>",
+    "3" : "s(Lila_Azam_Zanganeh) dbo:almaMater o'<Harvard_University>",
+    "4" : "s(Lila_Azam_Zanganeh) dbo:birthDate o'<1976-0-0>",
+    "5" : "s(Lila_Azam_Zanganeh) dbo:nationality o'<Iranian_peoples>",
+    "6" : "s(Lila_Azam_Zanganeh) dbp:birthDate o'<1976>",
+    "7" : "s(Lila_Azam_Zanganeh) dbp:birthPlace o'<Paris, France>",
+    "8" : "s(Lila_Azam_Zanganeh) dbp:occupation o'<Writer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14313",
+  "entityUrl" : "http://dbpedia.org/resource/Leander_F._Frisby",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Leander_F._Frisby) dbo:birthDate o'<1825-6-19>",
+    "2" : "s(Leander_F._Frisby) dbo:country o'<United_States>",
+    "3" : "s(Leander_F._Frisby) dbo:deathDate o'<1889-4-19>",
+    "4" : "s(Leander_F._Frisby) dbp:after o'<Charles_E._Estabrook>",
+    "5" : "s(Leander_F._Frisby) dbp:before o'<Alexander_Wilson_(Wisconsin_politician)>",
+    "6" : "s(Leander_F._Frisby) dbp:title o'<Attorney_General_of_Wisconsin>",
+    "7" : "s(Leander_F._Frisby) dbp:years o'<1882>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(leander f. frisby=Leander_F._Frisby) [served in wisconsin ] o'<state=United_States>"
+  },
+  "abstract" : {
+    "6" : "in 1861, leander f. frisby<Leander_F._Frisby> served in the wisconsin state<United_States> assembly\n"
+  }
+} ]

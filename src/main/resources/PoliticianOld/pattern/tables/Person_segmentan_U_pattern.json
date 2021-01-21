@@ -1,0 +1,79 @@
+[ {
+  "entityIndex" : "entity12069",
+  "entityUrl" : "http://dbpedia.org/resource/Ulderico_Carpegna",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ulderico_Carpegna) dbo:birthDate o'<1595-6-24>",
+    "2" : "s(Ulderico_Carpegna) dbo:birthPlace o'<Q2315426>",
+    "3" : "s(Ulderico_Carpegna) dbo:deathDate o'<1679-1-24>",
+    "4" : "s(Ulderico_Carpegna) dbo:deathPlace o'<Rome>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12070",
+  "entityUrl" : "http://dbpedia.org/resource/Ur-Zababa",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ur-Zababa) dbo:parent o'<Puzur-Suen>",
+    "2" : "s(Ur-Zababa) dbo:personFunction o'<Ur-Zababa__1>",
+    "3" : "s(Ur-Zababa) dbo:relative o'<Kubaba>",
+    "4" : "s(Ur-Zababa) dbo:title o'<King of Sumer>",
+    "5" : "s(Ur-Zababa) dbp:after o'<Zimudar>",
+    "6" : "s(Ur-Zababa) dbp:before o'<Puzur-Suen>",
+    "7" : "s(Ur-Zababa) dbp:title o'<King of Kish>",
+    "8" : "s(Ur-Zababa) dbp:years o'<ca. 2300 BC>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12071",
+  "entityUrl" : "http://dbpedia.org/resource/Urta_Rozenstruik",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Urta_Rozenstruik) dbo:birthDate o'<1975-5-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12072",
+  "entityUrl" : "http://dbpedia.org/resource/Ursaline_Bryant",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ursaline_Bryant) dbo:birthDate o'<1947-11-4>",
+    "2" : "s(Ursaline_Bryant) dbo:birthPlace o'<Washington,_D.C.>",
+    "3" : "s(Ursaline_Bryant) dbp:date o'<September 2014>",
+    "4" : "s(Ursaline_Bryant) dbp:langcode o'<DE>",
+    "5" : "s(Ursaline_Bryant) dbp:otherarticle o'<Ursaline Bryant>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12073",
+  "entityUrl" : "http://dbpedia.org/resource/Ugolino_II_Trinci",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Ugolino_II_Trinci) dbo:birthPlace o'<Foligno>",
+    "2" : "s(Ugolino_II_Trinci) dbo:deathDate o'<1353-1-1>",
+    "3" : "s(Ugolino_II_Trinci) dbp:title o'<Lord of Foligno>",
+    "4" : "s(Ugolino_II_Trinci) dbp:years o'<1343>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12074",
+  "entityUrl" : "http://dbpedia.org/resource/Uriel_Sebree_Hall",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Uriel_Sebree_Hall) dbo:birthDate o'<1852-4-12>",
+    "2" : "s(Uriel_Sebree_Hall) dbo:deathDate o'<1932-12-30>",
+    "3" : "s(Uriel_Sebree_Hall) dbo:deathPlace o'<Columbia,_Missouri>",
+    "4" : "s(Uriel_Sebree_Hall) dbp:after o'<Robert_N._Bodine>",
+    "5" : "s(Uriel_Sebree_Hall) dbp:before o'<Charles_H._Mansur>",
+    "6" : "s(Uriel_Sebree_Hall) dbp:district o'<2>",
+    "7" : "s(Uriel_Sebree_Hall) dbp:state o'<Missouri>",
+    "8" : "s(Uriel_Sebree_Hall) dbp:years o'<1893>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

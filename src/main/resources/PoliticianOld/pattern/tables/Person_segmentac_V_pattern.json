@@ -1,0 +1,86 @@
+[ {
+  "entityIndex" : "entity11094",
+  "entityUrl" : "http://dbpedia.org/resource/Vatche_Hovsepian",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Vatche_Hovsepian) dbo:birthDate o'<1925-9-17>",
+    "2" : "s(Vatche_Hovsepian) dbo:deathDate o'<1978-12-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11095",
+  "entityUrl" : "http://dbpedia.org/resource/Vitaly_Tseshkovsky",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Vitaly_Tseshkovsky) dbo:birthDate o'<1944-09-25>",
+    "2" : "s(Vitaly_Tseshkovsky) dbo:birthDate o'<1944-9-25>",
+    "3" : "s(Vitaly_Tseshkovsky) dbo:birthName o'<Vitaly Valeryevich Tseshkovsky>",
+    "4" : "s(Vitaly_Tseshkovsky) dbo:birthPlace o'<Omsk>",
+    "5" : "s(Vitaly_Tseshkovsky) dbo:birthPlace o'<USSR>",
+    "6" : "s(Vitaly_Tseshkovsky) dbo:country o'<Russia>",
+    "7" : "s(Vitaly_Tseshkovsky) dbo:deathDate o'<2011-12-24>",
+    "8" : "s(Vitaly_Tseshkovsky) dbo:deathPlace o'<Russia>",
+    "9" : "s(Vitaly_Tseshkovsky) dbo:deathPlace o'<Krasnodar>",
+    "10" : "s(Vitaly_Tseshkovsky) dbo:title o'<Grandmaster>",
+    "11" : "s(Vitaly_Tseshkovsky) dbp:peakrating o'<2600>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(vitaly tseshkovsky=Vitaly_Tseshkovsky) [beat world champions vasily ] o'<moscow=Russia>",
+    "8" : "s(vitaly tseshkovsky=Vitaly_Tseshkovsky) [scored 25 second ] o'<the ussr=USSR>",
+    "21" : "s(vitaly tseshkovsky=Vitaly_Tseshkovsky) [died on 24 december 2011 ] o'<krasnodar=Krasnodar>"
+  },
+  "abstract" : {
+    "6" : "vitaly tseshkovsky<Vitaly_Tseshkovsky> beat some world champions: vasily smyslov at the moscow<Russia> spartakiad 1974, tal at sochi 1970, and a young garry kasparov at the 1978 soviet championship\n",
+    "8" : "at the 27th chess olympiad in 1986, vitaly tseshkovsky<Vitaly_Tseshkovsky> scored 2â½/5 as the second reserve board to help the ussr<USSR> team win the gold medal\n",
+    "21" : "vitaly tseshkovsky<Vitaly_Tseshkovsky> died on 24 december 2011 in krasnodar<Krasnodar>\n"
+  }
+}, {
+  "entityIndex" : "entity11096",
+  "entityUrl" : "http://dbpedia.org/resource/Veronica_Geng",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Veronica_Geng) dbo:birthDate o'<1941-1-1>",
+    "2" : "s(Veronica_Geng) dbo:deathDate o'<1997-12-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11097",
+  "entityUrl" : "http://dbpedia.org/resource/Vladimir_Tikhonov",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Vladimir_Tikhonov) dbo:birthDate o'<1947-2-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11098",
+  "entityUrl" : "http://dbpedia.org/resource/V._S._Pritchett",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(V._S._Pritchett) dbo:birthDate o'<1900-12-16>",
+    "2" : "s(V._S._Pritchett) dbo:birthPlace o'<Ipswich>",
+    "3" : "s(V._S._Pritchett) dbo:deathDate o'<1997-3-20>",
+    "4" : "s(V._S._Pritchett) dbo:deathPlace o'<London>",
+    "5" : "s(V._S._Pritchett) dbp:after o'<Mario_Vargas_Llosa>",
+    "6" : "s(V._S._Pritchett) dbp:before o'<Heinrich_BÃ¶ll>",
+    "7" : "s(V._S._Pritchett) dbp:title o'<International President>",
+    "8" : "s(V._S._Pritchett) dbp:title o'<of PEN International>",
+    "9" : "s(V._S._Pritchett) dbp:years o'<1974>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11099",
+  "entityUrl" : "http://dbpedia.org/resource/Valerian_Zorin",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Valerian_Zorin) dbo:birthDate o'<1902-1-1>",
+    "2" : "s(Valerian_Zorin) dbo:birthPlace o'<Novocherkassk>",
+    "3" : "s(Valerian_Zorin) dbo:deathDate o'<1986-1-14>",
+    "4" : "s(Valerian_Zorin) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

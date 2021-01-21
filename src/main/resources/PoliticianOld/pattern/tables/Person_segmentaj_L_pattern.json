@@ -1,0 +1,65 @@
+[ {
+  "entityIndex" : "entity11361",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Langley",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Lee_Langley) dbo:birthDate o'<1932-1-1>",
+    "2" : "s(Lee_Langley) dbo:birthPlace o'<Kolkata>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11362",
+  "entityUrl" : "http://dbpedia.org/resource/Lauri_Valonen",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Lauri_Valonen) dbo:birthDate o'<1909-11-28>",
+    "2" : "s(Lauri_Valonen) dbo:birthPlace o'<Helsinki>",
+    "3" : "s(Lauri_Valonen) dbo:deathDate o'<1982-10-2>",
+    "4" : "s(Lauri_Valonen) dbo:deathPlace o'<Lahti>",
+    "5" : "s(Lauri_Valonen) dbp:id o'<63465>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11363",
+  "entityUrl" : "http://dbpedia.org/resource/Leonard_Tepper",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Leonard_Tepper) dbo:birthDate o'<1939-7-3>",
+    "2" : "s(Leonard_Tepper) dbo:deathDate o'<2001-6-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11364",
+  "entityUrl" : "http://dbpedia.org/resource/Leo_Najo",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Leo_Najo) dbo:birthDate o'<1899-1-1>",
+    "2" : "s(Leo_Najo) dbo:deathDate o'<1979-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11365",
+  "entityUrl" : "http://dbpedia.org/resource/Leah_Clark",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Leah_Clark) dbo:birthDate o'<1979-12-20>",
+    "2" : "s(Leah_Clark) dbo:birthPlace o'<Albuquerque,_New_Mexico>",
+    "3" : "s(Leah_Clark) dbo:occupation o'<Leah_Clark__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11366",
+  "entityUrl" : "http://dbpedia.org/resource/Lyudmila_Samotyosova",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Lyudmila_Samotyosova) dbo:birthDate o'<1939-10-26>",
+    "2" : "s(Lyudmila_Samotyosova) dbo:birthPlace o'<Bryansk>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

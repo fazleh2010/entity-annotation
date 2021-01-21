@@ -1,0 +1,112 @@
+[ {
+  "entityIndex" : "entity10755",
+  "entityUrl" : "http://dbpedia.org/resource/Triglav",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Triglav) dbo:firstAscentYear o'<1778>",
+    "2" : "s(Triglav) dbo:locatedInArea o'<Slovenia>",
+    "3" : "s(Triglav) dbo:locatedInArea o'<Slovene_Littoral>",
+    "4" : "s(Triglav) dbo:locatedInArea o'<Upper_Carniola>",
+    "5" : "s(Triglav) dbo:mountainRange o'<Julian_Alps>",
+    "6" : "s(Triglav) dbp:easiestRoute o'< via ferrata>",
+    "7" : "s(Triglav) dbp:labelPosition o'<right>",
+    "8" : "s(Triglav) dbp:latD o'<46>",
+    "9" : "s(Triglav) dbp:latM o'<23>",
+    "10" : "s(Triglav) dbp:latNs o'<N>",
+    "11" : "s(Triglav) dbp:latS o'<0>",
+    "12" : "s(Triglav) dbp:listing o'<Ultra_prominent_peak>",
+    "13" : "s(Triglav) dbp:listing o'<List_of_countries_by_highest_point>",
+    "14" : "s(Triglav) dbp:longD o'<13>",
+    "15" : "s(Triglav) dbp:longEw o'<E>",
+    "16" : "s(Triglav) dbp:longM o'<53>",
+    "17" : "s(Triglav) dbp:longS o'<0>",
+    "18" : "s(Triglav) dbp:mapCaption o'<Slovenia>",
+    "19" : "s(Triglav) dbp:photo o'<Triglav.jpg>",
+    "20" : "s(Triglav) dbp:photoCaption o'<Triglav viewed from the east>",
+    "21" : "s(Triglav) dbp:translation o'<three peaks>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10756",
+  "entityUrl" : "http://dbpedia.org/resource/Temple_Mount",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Temple_Mount) dbo:elevation o'<740.0>",
+    "2" : "s(Temple_Mount) dbo:locatedInArea o'<Jerusalem>",
+    "3" : "s(Temple_Mount) dbo:mountainRange o'<Judean_Mountains>",
+    "4" : "s(Temple_Mount) dbo:otherName o'<הַר הַבַּיִת, Har HaBayit>",
+    "5" : "s(Temple_Mount) dbo:otherName o'<الحرم الشريف, al-Ḥaram ash-Šarīf,>",
+    "6" : "s(Temple_Mount) dbo:type o'<Meleke>",
+    "7" : "s(Temple_Mount) dbp:latD o'<31>",
+    "8" : "s(Temple_Mount) dbp:latM o'<46>",
+    "9" : "s(Temple_Mount) dbp:latNs o'<N>",
+    "10" : "s(Temple_Mount) dbp:latS o'<40.7>",
+    "11" : "s(Temple_Mount) dbp:longD o'<35>",
+    "12" : "s(Temple_Mount) dbp:longEw o'<E>",
+    "13" : "s(Temple_Mount) dbp:longM o'<14>",
+    "14" : "s(Temple_Mount) dbp:longS o'<8.9>",
+    "15" : "s(Temple_Mount) dbp:photo o'<Israel-2013-Aerial-Jerusalem-Temple Mount-Temple Mount .jpg>",
+    "16" : "s(Temple_Mount) dbp:photoCaption o'<Aerial southern view of the Temple Mount>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10757",
+  "entityUrl" : "http://dbpedia.org/resource/T%C3%B6di",
+  "dboClass" : "dbo:Mountain",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10758",
+  "entityUrl" : "http://dbpedia.org/resource/Tibidabo",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Tibidabo) dbo:elevation o'<512.0>",
+    "2" : "s(Tibidabo) dbo:locatedInArea o'<Barcelona>",
+    "3" : "s(Tibidabo) dbo:mountainRange o'<Serra_de_Collserola>",
+    "4" : "s(Tibidabo) dbp:easiestRoute o'<Funicular_del_Tibidabo>",
+    "5" : "s(Tibidabo) dbp:latD o'<41>",
+    "6" : "s(Tibidabo) dbp:latM o'<25>",
+    "7" : "s(Tibidabo) dbp:latNs o'<N>",
+    "8" : "s(Tibidabo) dbp:latS o'<21>",
+    "9" : "s(Tibidabo) dbp:longD o'<2>",
+    "10" : "s(Tibidabo) dbp:longEw o'<E>",
+    "11" : "s(Tibidabo) dbp:longM o'<7>",
+    "12" : "s(Tibidabo) dbp:longS o'<7>",
+    "13" : "s(Tibidabo) dbp:mapCaption o'<Location in Barcelona>",
+    "14" : "s(Tibidabo) dbp:photo o'<Temple del Sagrat Cor vist des de la Talaia del Tibidabo.JPG>",
+    "15" : "s(Tibidabo) dbp:photoCaption o'<Sagrat Cor church, atop the mountain>",
+    "16" : "s(Tibidabo) dbp:photoSize o'<285>",
+    "17" : "s(Tibidabo) dbp:regionCode o'<ES>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10759",
+  "entityUrl" : "http://dbpedia.org/resource/Table_Mountain",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Table_Mountain) dbo:elevation o'<1084.6>",
+    "2" : "s(Table_Mountain) dbo:firstAscentPerson o'<António_de_Saldanha>",
+    "3" : "s(Table_Mountain) dbo:firstAscentYear o'<1503>",
+    "4" : "s(Table_Mountain) dbo:locatedInArea o'<Cape_Town>",
+    "5" : "s(Table_Mountain) dbo:prominence o'<1055.0>",
+    "6" : "s(Table_Mountain) dbo:type o'<Sandstone>",
+    "7" : "s(Table_Mountain) dbp:age o'<Ordovician>",
+    "8" : "s(Table_Mountain) dbp:age o'<Silurian>",
+    "9" : "s(Table_Mountain) dbp:easiestRoute o'<Platteklip Gorge>",
+    "10" : "s(Table_Mountain) dbp:listing o'<List_of_mountains_in_South_Africa>",
+    "11" : "s(Table_Mountain) dbp:photo o'<Table_Mountain_DanieVDM.jpg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10760",
+  "entityUrl" : "http://dbpedia.org/resource/Tr%C3%B6lladyngja",
+  "dboClass" : "dbo:Mountain",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

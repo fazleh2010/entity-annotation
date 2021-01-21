@@ -1,0 +1,12 @@
+[ {
+  "entityIndex" : "entity10967",
+  "entityUrl" : "http://dbpedia.org/resource/'Abd_Allah_ibn_Rawahah",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s('Abd_Allah_ibn_Rawahah) dbo:birthPlace o'<Medina>",
+    "2" : "s('Abd_Allah_ibn_Rawahah) dbo:deathDate o'<629-1-1>",
+    "3" : "s('Abd_Allah_ibn_Rawahah) dbo:deathPlace o'<Mu'tah>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

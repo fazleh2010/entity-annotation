@@ -1,0 +1,114 @@
+[ {
+  "entityIndex" : "entity10786",
+  "entityUrl" : "http://dbpedia.org/resource/Young_and_Innocent",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(Young_and_Innocent) dbo:cinematography o'<Bernard_Knowles>",
+    "2" : "s(Young_and_Innocent) dbo:director o'<Alfred_Hitchcock>",
+    "3" : "s(Young_and_Innocent) dbo:distributor o'<General_Film_Distributors>",
+    "4" : "s(Young_and_Innocent) dbo:editing o'<Charles_Frend>",
+    "5" : "s(Young_and_Innocent) dbo:producer o'<Edward_Black_(producer)>",
+    "6" : "s(Young_and_Innocent) dbo:runtime o'<83.0>",
+    "7" : "s(Young_and_Innocent) dbo:runtime o'<4980.0>",
+    "8" : "s(Young_and_Innocent) dbo:starring o'<Nova_Pilbeam>",
+    "9" : "s(Young_and_Innocent) dbo:starring o'<Derrick_De_Marney>",
+    "10" : "s(Young_and_Innocent) dbo:writer o'<Gerald_Savory>",
+    "11" : "s(Young_and_Innocent) dbo:writer o'<Anthony_Armstrong_(writer)>",
+    "12" : "s(Young_and_Innocent) dbo:writer o'<Alma_Reville>",
+    "13" : "s(Young_and_Innocent) dbo:writer o'<Charles_Bennett_(screenwriter)>",
+    "14" : "s(Young_and_Innocent) dbp:border o'<yes>",
+    "15" : "s(Young_and_Innocent) dbp:country o'<United Kingdom>",
+    "16" : "s(Young_and_Innocent) dbp:language o'<English>",
+    "17" : "s(Young_and_Innocent) dbp:music o'<* Jack Beaver>",
+    "18" : "s(Young_and_Innocent) dbp:music o'<* Louis Levy>",
+    "19" : "s(Young_and_Innocent) dbp:studio o'<Gaumont_Film_Company>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10787",
+  "entityUrl" : "http://dbpedia.org/resource/Yuri_Gagarin__gov.archives.arc.2049958__1",
+  "dboClass" : "dbo:Film",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10788",
+  "entityUrl" : "http://dbpedia.org/resource/Yuri_Gagarin__1961-04-19_First_Pictures__1",
+  "dboClass" : "dbo:Film",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10789",
+  "entityUrl" : "http://dbpedia.org/resource/Yankee_Doodle_Dandy",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(Yankee_Doodle_Dandy) dbo:cinematography o'<James_Wong_Howe>",
+    "2" : "s(Yankee_Doodle_Dandy) dbo:director o'<Michael_Curtiz>",
+    "3" : "s(Yankee_Doodle_Dandy) dbo:distributor o'<Warner_Bros.>",
+    "4" : "s(Yankee_Doodle_Dandy) dbo:editing o'<George_Amy>",
+    "5" : "s(Yankee_Doodle_Dandy) dbo:gross o'<1.18E7>",
+    "6" : "s(Yankee_Doodle_Dandy) dbo:musicComposer o'<Ray_Heindorf>",
+    "7" : "s(Yankee_Doodle_Dandy) dbo:musicComposer o'<Heinz_Roemheld>",
+    "8" : "s(Yankee_Doodle_Dandy) dbo:musicComposer o'<George_M._Cohan>",
+    "9" : "s(Yankee_Doodle_Dandy) dbo:producer o'<William_Cagney>",
+    "10" : "s(Yankee_Doodle_Dandy) dbo:producer o'<Hal_B._Wallis>",
+    "11" : "s(Yankee_Doodle_Dandy) dbo:producer o'<Jack_L._Warner>",
+    "12" : "s(Yankee_Doodle_Dandy) dbo:runtime o'<126.0>",
+    "13" : "s(Yankee_Doodle_Dandy) dbo:runtime o'<7560.0>",
+    "14" : "s(Yankee_Doodle_Dandy) dbo:starring o'<Richard_Whorf>",
+    "15" : "s(Yankee_Doodle_Dandy) dbo:starring o'<James_Cagney>",
+    "16" : "s(Yankee_Doodle_Dandy) dbo:starring o'<Walter_Huston>",
+    "17" : "s(Yankee_Doodle_Dandy) dbo:starring o'<Joan_Leslie>",
+    "18" : "s(Yankee_Doodle_Dandy) dbo:writer o'<Robert_Buckner>",
+    "19" : "s(Yankee_Doodle_Dandy) dbo:writer o'<Julius_J._Epstein>",
+    "20" : "s(Yankee_Doodle_Dandy) dbo:writer o'<Philip_G._Epstein>",
+    "21" : "s(Yankee_Doodle_Dandy) dbp:country o'<United States>",
+    "22" : "s(Yankee_Doodle_Dandy) dbp:language o'<English>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10790",
+  "entityUrl" : "http://dbpedia.org/resource/You've_Got_Mail",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(You've_Got_Mail) dbo:budget o'<6.5E7>",
+    "2" : "s(You've_Got_Mail) dbo:cinematography o'<John_Lindley_(cinematographer)>",
+    "3" : "s(You've_Got_Mail) dbo:director o'<Nora_Ephron>",
+    "4" : "s(You've_Got_Mail) dbo:distributor o'<Warner_Bros.>",
+    "5" : "s(You've_Got_Mail) dbo:editing o'<Richard_Marks>",
+    "6" : "s(You've_Got_Mail) dbo:gross o'<2.508E8>",
+    "7" : "s(You've_Got_Mail) dbo:musicComposer o'<George_Fenton>",
+    "8" : "s(You've_Got_Mail) dbo:producer o'<Lauren_Shuler_Donner>",
+    "9" : "s(You've_Got_Mail) dbo:producer o'<Nora_Ephron>",
+    "10" : "s(You've_Got_Mail) dbo:runtime o'<119.0>",
+    "11" : "s(You've_Got_Mail) dbo:runtime o'<7140.0>",
+    "12" : "s(You've_Got_Mail) dbo:starring o'<Meg_Ryan>",
+    "13" : "s(You've_Got_Mail) dbo:starring o'<Tom_Hanks>",
+    "14" : "s(You've_Got_Mail) dbo:starring o'<Greg_Kinnear>",
+    "15" : "s(You've_Got_Mail) dbo:starring o'<Parker_Posey>",
+    "16" : "s(You've_Got_Mail) dbo:starring o'<Jean_Stapleton>",
+    "17" : "s(You've_Got_Mail) dbo:starring o'<Steve_Zahn>",
+    "18" : "s(You've_Got_Mail) dbo:starring o'<Dave_Chappelle>",
+    "19" : "s(You've_Got_Mail) dbo:writer o'<Delia_Ephron>",
+    "20" : "s(You've_Got_Mail) dbp:country o'<United States>",
+    "21" : "s(You've_Got_Mail) dbp:id o'<61640>",
+    "22" : "s(You've_Got_Mail) dbp:language o'<English>",
+    "23" : "s(You've_Got_Mail) dbp:title o'<You've Got Mail>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(you've got mail=You've_Got_Mail) [1998 american romantic ] o'<nora ephron=Nora_Ephron>"
+  },
+  "abstract" : {
+    "1" : "you've got mail<You've_Got_Mail> is a 1998 american romantic comedy-drama film directed by nora ephron<Nora_Ephron>, starring tom hanks<Tom_Hanks> and meg ryan<Meg_Ryan>"
+  }
+}, {
+  "entityIndex" : "entity10791",
+  "entityUrl" : "http://dbpedia.org/resource/Y_Tu_Mam%C3%A1_Tambi%C3%A9n",
+  "dboClass" : "dbo:Film",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,60 @@
+[ {
+  "entityIndex" : "entity14284",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Bowman_(architect)",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Henry_Bowman_(architect)) dbo:birthDate o'<1814-1-1>",
+    "2" : "s(Henry_Bowman_(architect)) dbo:deathDate o'<1883-5-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14285",
+  "entityUrl" : "http://dbpedia.org/resource/Huh_Chang-soo",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Huh_Chang-soo) dbo:almaMater o'<Korea_University>",
+    "2" : "s(Huh_Chang-soo) dbo:birthDate o'<1948-10-06>",
+    "3" : "s(Huh_Chang-soo) dbo:birthDate o'<1948-10-6>",
+    "4" : "s(Huh_Chang-soo) dbo:birthPlace o'<South_Korea>",
+    "5" : "s(Huh_Chang-soo) dbo:birthPlace o'<Jinju>",
+    "6" : "s(Huh_Chang-soo) dbo:birthYear o'<1948>",
+    "7" : "s(Huh_Chang-soo) dbo:occupation o'<Chairman>",
+    "8" : "s(Huh_Chang-soo) dbo:occupation o'<Huh_Chang-soo__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14286",
+  "entityUrl" : "http://dbpedia.org/resource/Haden_Harrison_Edwards",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Haden_Harrison_Edwards) dbo:birthDate o'<1812-1-1>",
+    "2" : "s(Haden_Harrison_Edwards) dbo:deathDate o'<1864-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14287",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Chang",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14288",
+  "entityUrl" : "http://dbpedia.org/resource/Hermann_Wilhelm_Haupt",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Hermann_Wilhelm_Haupt) dbo:birthDate o'<1831-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14289",
+  "entityUrl" : "http://dbpedia.org/resource/Hugh_III_of_Broyes",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

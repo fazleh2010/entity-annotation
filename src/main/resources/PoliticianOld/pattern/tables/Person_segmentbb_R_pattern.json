@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity14344",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Banister",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Richard_Banister) dbo:deathDate o'<1626-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14345",
+  "entityUrl" : "http://dbpedia.org/resource/Rachid_Khimoune",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Rachid_Khimoune) dbo:birthDate o'<1953-4-7>",
+    "2" : "s(Rachid_Khimoune) dbo:birthPlace o'<Decazeville>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14346",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_A._Holekamp",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Robert_A._Holekamp) dbo:birthDate o'<1848-05-04>",
+    "2" : "s(Robert_A._Holekamp) dbo:birthDate o'<1848-5-4>",
+    "3" : "s(Robert_A._Holekamp) dbo:birthPlace o'<Nordstemmen>",
+    "4" : "s(Robert_A._Holekamp) dbo:birthPlace o'<Germany>",
+    "5" : "s(Robert_A._Holekamp) dbo:birthYear o'<1848>",
+    "6" : "s(Robert_A._Holekamp) dbo:deathDate o'<1922-05-01>",
+    "7" : "s(Robert_A._Holekamp) dbo:deathDate o'<1922-5-1>",
+    "8" : "s(Robert_A._Holekamp) dbo:deathPlace o'<Missouri>",
+    "9" : "s(Robert_A._Holekamp) dbo:deathPlace o'<Webster_Groves,_Missouri>",
+    "10" : "s(Robert_A._Holekamp) dbo:deathYear o'<1922>",
+    "11" : "s(Robert_A._Holekamp) dbo:occupation o'<Robert_A._Holekamp__1>",
+    "12" : "s(Robert_A._Holekamp) dbp:children o'<Julius, Carl, Richard, Fred, Amelia, Else>",
+    "13" : "s(Robert_A._Holekamp) dbp:spouse o'<Jennie Henckler>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14347",
+  "entityUrl" : "http://dbpedia.org/resource/Raymond_Ting",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14348",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Dahi",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Roger_Dahi) dbo:birthDate o'<1961-12-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14349",
+  "entityUrl" : "http://dbpedia.org/resource/Rick_Schwartz_(zookeeper)",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

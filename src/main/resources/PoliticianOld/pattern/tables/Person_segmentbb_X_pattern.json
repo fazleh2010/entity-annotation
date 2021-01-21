@@ -1,0 +1,66 @@
+[ {
+  "entityIndex" : "entity14380",
+  "entityUrl" : "http://dbpedia.org/resource/Xiangming_Chen",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14381",
+  "entityUrl" : "http://dbpedia.org/resource/Xenia_(singer)",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Xenia_(singer)) dbo:activeYearsStartYear o'<2011>",
+    "2" : "s(Xenia_(singer)) dbo:background o'<solo_singer>",
+    "3" : "s(Xenia_(singer)) dbo:birthDate o'<1994-12-17>",
+    "4" : "s(Xenia_(singer)) dbo:hometown o'<Temecula,_California>",
+    "5" : "s(Xenia_(singer)) dbo:instrument o'<Lead_singer>",
+    "6" : "s(Xenia_(singer)) dbo:occupation o'<Musician>",
+    "7" : "s(Xenia_(singer)) dbp:genre o'<Pop, soul>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14382",
+  "entityUrl" : "http://dbpedia.org/resource/Xia_Dong",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Xia_Dong) dbo:birthDate o'<1984-6-6>",
+    "2" : "s(Xia_Dong) dbo:country o'<China>",
+    "3" : "s(Xia_Dong) dbp:c o'<å¤�ä¸œ>",
+    "4" : "s(Xia_Dong) dbp:givenname o'<Dong>",
+    "5" : "s(Xia_Dong) dbp:p o'<XiÃ  DÅ�ng>",
+    "6" : "s(Xia_Dong) dbp:surname o'<Xia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14383",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_de_La_Chevalerie",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Xavier_de_La_Chevalerie) dbo:birthDate o'<1920-1-28>",
+    "2" : "s(Xavier_de_La_Chevalerie) dbo:birthPlace o'<Paris>",
+    "3" : "s(Xavier_de_La_Chevalerie) dbo:deathDate o'<2004-8-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14384",
+  "entityUrl" : "http://dbpedia.org/resource/Xihong_Lin",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14385",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_le_Draoullec",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Xavier_le_Draoullec) dbp:bot o'<InternetArchiveBot>",
+    "2" : "s(Xavier_le_Draoullec) dbp:date o'<July 2016>",
+    "3" : "s(Xavier_le_Draoullec) dbp:fixAttempted o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

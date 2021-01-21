@@ -1,0 +1,77 @@
+[ {
+  "entityIndex" : "entity11339",
+  "entityUrl" : "http://dbpedia.org/resource/Horatio_Nelson_Goulty",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Horatio_Nelson_Goulty) dbo:birthDate o'<1832-1-1>",
+    "2" : "s(Horatio_Nelson_Goulty) dbo:birthPlace o'<Brighton>",
+    "3" : "s(Horatio_Nelson_Goulty) dbo:birthYear o'<1832>",
+    "4" : "s(Horatio_Nelson_Goulty) dbo:deathDate o'<1869-07-07>",
+    "5" : "s(Horatio_Nelson_Goulty) dbo:deathDate o'<1869-7-7>",
+    "6" : "s(Horatio_Nelson_Goulty) dbo:deathPlace o'<Shoreham-by-Sea>",
+    "7" : "s(Horatio_Nelson_Goulty) dbo:deathYear o'<1869>",
+    "8" : "s(Horatio_Nelson_Goulty) dbo:occupation o'<Horatio_Nelson_Goulty__1>",
+    "9" : "s(Horatio_Nelson_Goulty) dbo:parent o'<John_Nelson_Goulty>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(horatio nelson goulty=Horatio_Nelson_Goulty) [designed several buildings in ] o'<brighton=Brighton>"
+  },
+  "abstract" : {
+    "2" : "horatio nelson goulty<Horatio_Nelson_Goulty> designed several buildings in brighton<Brighton> and was an important figure in the town's public affairs in the early victorian era\n"
+  }
+}, {
+  "entityIndex" : "entity11340",
+  "entityUrl" : "http://dbpedia.org/resource/Hubert_Hutchinson",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11341",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Calthorpe",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Henry_Calthorpe) dbo:birthDate o'<1586-1-1>",
+    "2" : "s(Henry_Calthorpe) dbo:deathDate o'<1637-1-1>",
+    "3" : "s(Henry_Calthorpe) dbp:first o'<Augustus>",
+    "4" : "s(Henry_Calthorpe) dbp:last o'<Jessopp>",
+    "5" : "s(Henry_Calthorpe) dbp:pages o'<260>",
+    "6" : "s(Henry_Calthorpe) dbp:volume o'<8>",
+    "7" : "s(Henry_Calthorpe) dbp:wstitle o'<Calthorpe, Henry>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11342",
+  "entityUrl" : "http://dbpedia.org/resource/Hugo_Mauricio_P%C3%A9rez_Anzueto",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11343",
+  "entityUrl" : "http://dbpedia.org/resource/Humberto_Prieto_Herrera",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Humberto_Prieto_Herrera) dbo:birthDate o'<1985-08-06>",
+    "2" : "s(Humberto_Prieto_Herrera) dbo:birthDate o'<1985-8-6>",
+    "3" : "s(Humberto_Prieto_Herrera) dbo:birthPlace o'<Sonora>",
+    "4" : "s(Humberto_Prieto_Herrera) dbo:birthPlace o'<Hermosillo>",
+    "5" : "s(Humberto_Prieto_Herrera) dbo:birthPlace o'<Mexico>",
+    "6" : "s(Humberto_Prieto_Herrera) dbo:birthYear o'<1985>",
+    "7" : "s(Humberto_Prieto_Herrera) dbo:ethnicity o'<Mexican_people>",
+    "8" : "s(Humberto_Prieto_Herrera) dbo:occupation o'<Humberto_Prieto_Herrera__1>",
+    "9" : "s(Humberto_Prieto_Herrera) dbp:url o'<humbertoprieto.net>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11344",
+  "entityUrl" : "http://dbpedia.org/resource/Hugo_Manuel_Salaberry_Goyeneche",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Hugo_Manuel_Salaberry_Goyeneche) dbo:birthDate o'<1952-3-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

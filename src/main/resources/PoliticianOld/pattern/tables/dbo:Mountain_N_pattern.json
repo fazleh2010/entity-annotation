@@ -1,0 +1,161 @@
+[ {
+  "entityIndex" : "entity10719",
+  "entityUrl" : "http://dbpedia.org/resource/Novarupta",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Novarupta) dbo:elevation o'<840.943>",
+    "2" : "s(Novarupta) dbo:eruptionYear o'<1912>",
+    "3" : "s(Novarupta) dbo:locatedInArea o'<Alaska>",
+    "4" : "s(Novarupta) dbo:locatedInArea o'<Katmai_National_Park_and_Preserve>",
+    "5" : "s(Novarupta) dbo:mountainRange o'<Aleutian_Range>",
+    "6" : "s(Novarupta) dbo:nationalTopographicSystemMapNumber o'<USGSMount Katmai B-4>",
+    "7" : "s(Novarupta) dbo:type o'<Caldera>",
+    "8" : "s(Novarupta) dbp:belt o'<Aleutian_Arc>",
+    "9" : "s(Novarupta) dbp:date o'<--06-06>",
+    "10" : "s(Novarupta) dbp:location o'<Alaska>",
+    "11" : "s(Novarupta) dbp:location o'<Aleutian_Range>",
+    "12" : "s(Novarupta) dbp:name o'<1912>",
+    "13" : "s(Novarupta) dbp:photo o'<Novarupta.jpg>",
+    "14" : "s(Novarupta) dbp:photoCaption o'<Novarupta's lava dome in July 1987.>",
+    "15" : "s(Novarupta) dbp:type o'<Plinian_eruption>",
+    "16" : "s(Novarupta) dbp:vei o'<6.2>",
+    "17" : "s(Novarupta) dbp:volcano o'<Novarupta>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(novarupta=Novarupta) [meaning newly erupted in latin ] o'<alaska=Alaska>"
+  },
+  "abstract" : {
+    "1" : "novarupta<Novarupta> (meaning \"newly erupted\" in latin) is a volcano that was created in 1912, located on the alaska<Alaska> peninsula in katmai national park<Katmai_National_Park_and_Preserve> and preserve, about 290 miles (470 km) southwest of anchorage"
+  }
+}, {
+  "entityIndex" : "entity10720",
+  "entityUrl" : "http://dbpedia.org/resource/Nanga_Parbat",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Nanga_Parbat) dbo:elevation o'<8126.0>",
+    "2" : "s(Nanga_Parbat) dbo:firstAscentPerson o'<Hermann_Buhl>",
+    "3" : "s(Nanga_Parbat) dbo:firstAscentYear o'<1953>",
+    "4" : "s(Nanga_Parbat) dbo:locatedInArea o'<Pakistan>",
+    "5" : "s(Nanga_Parbat) dbo:locatedInArea o'<Gilgit–Baltistan>",
+    "6" : "s(Nanga_Parbat) dbo:locatedInArea o'<Astore_district>",
+    "7" : "s(Nanga_Parbat) dbo:mountainRange o'<Himalayas>",
+    "8" : "s(Nanga_Parbat) dbo:prominence o'<4608.0>",
+    "9" : "s(Nanga_Parbat) dbp:easiestRoute o'<Diamir district>",
+    "10" : "s(Nanga_Parbat) dbp:elevationRef o'<(Ranked 9th)>",
+    "11" : "s(Nanga_Parbat) dbp:labelPosition o'<right>",
+    "12" : "s(Nanga_Parbat) dbp:latD o'<35>",
+    "13" : "s(Nanga_Parbat) dbp:latM o'<14>",
+    "14" : "s(Nanga_Parbat) dbp:latNs o'<N>",
+    "15" : "s(Nanga_Parbat) dbp:latS o'<15>",
+    "16" : "s(Nanga_Parbat) dbp:listing o'<Ultra_prominent_peak>",
+    "17" : "s(Nanga_Parbat) dbp:listing o'<Eight-thousander>",
+    "18" : "s(Nanga_Parbat) dbp:longD o'<74>",
+    "19" : "s(Nanga_Parbat) dbp:longEw o'<E>",
+    "20" : "s(Nanga_Parbat) dbp:longM o'<35>",
+    "21" : "s(Nanga_Parbat) dbp:longS o'<21>",
+    "22" : "s(Nanga_Parbat) dbp:mapCaption o'<Location of Nanga Parbat in Kashmir>",
+    "23" : "s(Nanga_Parbat) dbp:mapSize o'<250>",
+    "24" : "s(Nanga_Parbat) dbp:photo o'<File:Nanga Parbat The Killer Mountain.jpg>",
+    "25" : "s(Nanga_Parbat) dbp:photoCaption o'<Nanga Parbat, Astore, Gilgit Baltistan Pakistan>",
+    "26" : "s(Nanga_Parbat) dbp:prominenceRef o'<(Ranked 14th)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10721",
+  "entityUrl" : "http://dbpedia.org/resource/Nuptse",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Nuptse) dbo:elevation o'<7861.0>",
+    "2" : "s(Nuptse) dbo:firstAscentYear o'<1961>",
+    "3" : "s(Nuptse) dbo:locatedInArea o'<Nepal>",
+    "4" : "s(Nuptse) dbo:locatedInArea o'<Khumbu>",
+    "5" : "s(Nuptse) dbo:mountainRange o'<Mahalangur_Himal>",
+    "6" : "s(Nuptse) dbo:prominence o'<319.0>",
+    "7" : "s(Nuptse) dbp:easiestRoute o'<ice climb>",
+    "8" : "s(Nuptse) dbp:labelPosition o'<left>",
+    "9" : "s(Nuptse) dbp:language o'<Standard_Tibetan>",
+    "10" : "s(Nuptse) dbp:latD o'<27>",
+    "11" : "s(Nuptse) dbp:latM o'<57>",
+    "12" : "s(Nuptse) dbp:latNs o'<N>",
+    "13" : "s(Nuptse) dbp:latS o'<59>",
+    "14" : "s(Nuptse) dbp:listing o'<List_of_mountains_in_Nepal>",
+    "15" : "s(Nuptse) dbp:longD o'<86>",
+    "16" : "s(Nuptse) dbp:longEw o'<E>",
+    "17" : "s(Nuptse) dbp:longM o'<53>",
+    "18" : "s(Nuptse) dbp:longS o'<24>",
+    "19" : "s(Nuptse) dbp:mapCaption o'<Nepal>",
+    "20" : "s(Nuptse) dbp:nativeName o'<नुप्त्से>",
+    "21" : "s(Nuptse) dbp:nativeNameLang o'<Nepali>",
+    "22" : "s(Nuptse) dbp:photo o'<Nuptse-fromLobuche.jpg>",
+    "23" : "s(Nuptse) dbp:photoCaption o'<Nuptse from Lobuche>",
+    "24" : "s(Nuptse) dbp:translation o'<West Peak>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10722",
+  "entityUrl" : "http://dbpedia.org/resource/Newberry_Volcano",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Newberry_Volcano) dbo:elevation o'<2435.05>",
+    "2" : "s(Newberry_Volcano) dbo:eruptionYear o'<0690>",
+    "3" : "s(Newberry_Volcano) dbo:locatedInArea o'<United_States>",
+    "4" : "s(Newberry_Volcano) dbo:locatedInArea o'<Deschutes_County,_Oregon>",
+    "5" : "s(Newberry_Volcano) dbo:locatedInArea o'<Oregon>",
+    "6" : "s(Newberry_Volcano) dbo:mountainRange o'<Cascade_Range>",
+    "7" : "s(Newberry_Volcano) dbo:nationalTopographicSystemMapNumber o'<USGSPaulina Peak>",
+    "8" : "s(Newberry_Volcano) dbo:prominence o'<979.627>",
+    "9" : "s(Newberry_Volcano) dbo:type o'<Shield_volcano>",
+    "10" : "s(Newberry_Volcano) dbp:age o'<1.893456E13>",
+    "11" : "s(Newberry_Volcano) dbp:easiestRoute o'<Road to Paulina Peak>",
+    "12" : "s(Newberry_Volcano) dbp:latD o'<43.6892>",
+    "13" : "s(Newberry_Volcano) dbp:longD o'<-121.255>",
+    "14" : "s(Newberry_Volcano) dbp:photo o'<Newberry_caldera.jpg>",
+    "15" : "s(Newberry_Volcano) dbp:photoCaption o'<Newberry Caldera, with Paulina Lake, East Lake, and Big Obsidian Flow>",
+    "16" : "s(Newberry_Volcano) dbp:regionCode o'<US-OR>",
+    "17" : "s(Newberry_Volcano) dbp:source o'<NGS>",
+    "18" : "s(Newberry_Volcano) dbp:volcanicArc o'<Cascade_Volcanoes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10723",
+  "entityUrl" : "http://dbpedia.org/resource/Nyamuragira",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Nyamuragira) dbo:elevation o'<3058.0>",
+    "2" : "s(Nyamuragira) dbo:eruptionYear o'<2014>",
+    "3" : "s(Nyamuragira) dbo:locatedInArea o'<Democratic_Republic_of_the_Congo>",
+    "4" : "s(Nyamuragira) dbo:locatedInArea o'<Nord-Kivu>",
+    "5" : "s(Nyamuragira) dbo:mountainRange o'<Virunga_Mountains>",
+    "6" : "s(Nyamuragira) dbo:type o'<Shield_volcano>",
+    "7" : "s(Nyamuragira) dbp:b o'<no>",
+    "8" : "s(Nyamuragira) dbp:display o'<Nyamuragira>",
+    "9" : "s(Nyamuragira) dbp:labelPosition o'<left>",
+    "10" : "s(Nyamuragira) dbp:latD o'<-1.408>",
+    "11" : "s(Nyamuragira) dbp:longD o'<29.2>",
+    "12" : "s(Nyamuragira) dbp:mapCaption o'<Democratic Republic of the Congo>",
+    "13" : "s(Nyamuragira) dbp:mapSize o'<280>",
+    "14" : "s(Nyamuragira) dbp:photo o'<Nyiragongo and Nyamuragira - PIA03337.jpg>",
+    "15" : "s(Nyamuragira) dbp:photoCaption o'<Nyamuragira  and Nyiragongo . Vertical scale exaggerated .>",
+    "16" : "s(Nyamuragira) dbp:regionCode o'<CD>",
+    "17" : "s(Nyamuragira) dbp:species o'<no>",
+    "18" : "s(Nyamuragira) dbp:v o'<no>",
+    "19" : "s(Nyamuragira) dbp:voy o'<no>",
+    "20" : "s(Nyamuragira) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(nyamuragira=Nyamuragira) [derived from kinyarwanda verb ] o'<virunga mountains=Virunga_Mountains>"
+  },
+  "abstract" : {
+    "1" : "nyamuragira<Nyamuragira> (derived from the kinyarwanda verb 'kuragira inka', meaning to herd cows; inka means cow or cows) is an active volcano in the virunga mountains<Virunga_Mountains> of the democratic republic<Democratic_Republic_of_the_Congo> of the congo<Democratic_Republic_of_the_Congo>, situated about 25 km north of lake kivu"
+  }
+}, {
+  "entityIndex" : "entity10724",
+  "entityUrl" : "http://dbpedia.org/resource/Ng%E1%BB%8Dc_Linh",
+  "dboClass" : "dbo:Mountain",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

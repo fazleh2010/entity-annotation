@@ -1,0 +1,88 @@
+[ {
+  "entityIndex" : "entity11909",
+  "entityUrl" : "http://dbpedia.org/resource/Vida_Jane_Butler",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Vida_Jane_Butler) dbo:birthDate o'<1922-1-1>",
+    "2" : "s(Vida_Jane_Butler) dbo:deathDate o'<2007-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11910",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Harding",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Vincent_Harding) dbo:almaMater o'<Columbia_University>",
+    "2" : "s(Vincent_Harding) dbo:almaMater o'<University_of_Chicago>",
+    "3" : "s(Vincent_Harding) dbo:almaMater o'<City_College_of_New_York>",
+    "4" : "s(Vincent_Harding) dbo:birthDate o'<1931-07-25>",
+    "5" : "s(Vincent_Harding) dbo:birthDate o'<1931-7-25>",
+    "6" : "s(Vincent_Harding) dbo:birthName o'<Vincent Gordon Harding>",
+    "7" : "s(Vincent_Harding) dbo:birthPlace o'<Harlem>",
+    "8" : "s(Vincent_Harding) dbo:birthPlace o'<New_York_(state)>",
+    "9" : "s(Vincent_Harding) dbo:birthYear o'<1931>",
+    "10" : "s(Vincent_Harding) dbo:deathDate o'<2014-05-19>",
+    "11" : "s(Vincent_Harding) dbo:deathDate o'<2014-5-19>",
+    "12" : "s(Vincent_Harding) dbo:deathPlace o'<Pennsylvania>",
+    "13" : "s(Vincent_Harding) dbo:deathPlace o'<Philadelphia>",
+    "14" : "s(Vincent_Harding) dbo:deathYear o'<2014>",
+    "15" : "s(Vincent_Harding) dbo:occupation o'<Historian>",
+    "16" : "s(Vincent_Harding) dbo:occupation o'<Vincent_Harding__1>",
+    "17" : "s(Vincent_Harding) dbp:notableWorks o'<\"Beyond Vietnam: A Time to Break Silence\">",
+    "18" : "s(Vincent_Harding) dbp:spouse o'<Aljosie Aldrich Knight>",
+    "19" : "s(Vincent_Harding) dbp:spouse o'<Rosemary Freeney>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11911",
+  "entityUrl" : "http://dbpedia.org/resource/V%C3%A9ra_Nabokov",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11912",
+  "entityUrl" : "http://dbpedia.org/resource/Vladislav_Terzyul",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Vladislav_Terzyul) dbo:birthDate o'<1953-06-16>",
+    "2" : "s(Vladislav_Terzyul) dbo:birthDate o'<1953-6-18>",
+    "3" : "s(Vladislav_Terzyul) dbo:birthPlace o'<Artyom>",
+    "4" : "s(Vladislav_Terzyul) dbo:birthPlace o'<Russian_SFSR>",
+    "5" : "s(Vladislav_Terzyul) dbo:birthPlace o'<Artyom,_Russia>",
+    "6" : "s(Vladislav_Terzyul) dbo:birthPlace o'<USSR>",
+    "7" : "s(Vladislav_Terzyul) dbo:birthYear o'<1953>",
+    "8" : "s(Vladislav_Terzyul) dbo:deathDate o'<2004-05-17>",
+    "9" : "s(Vladislav_Terzyul) dbo:deathDate o'<2004-5-17>",
+    "10" : "s(Vladislav_Terzyul) dbo:deathPlace o'<Makalu>",
+    "11" : "s(Vladislav_Terzyul) dbo:deathYear o'<2004>",
+    "12" : "s(Vladislav_Terzyul) dbo:occupation o'<Mountaineer>",
+    "13" : "s(Vladislav_Terzyul) dbo:occupation o'<Vladislav_Terzyul__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11913",
+  "entityUrl" : "http://dbpedia.org/resource/Vasif_Talibov",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Vasif_Talibov) dbo:birthDate o'<1960-1-14>",
+    "2" : "s(Vasif_Talibov) dbp:after o'<Incumbent>",
+    "3" : "s(Vasif_Talibov) dbp:before o'<Heydar_Aliyev>",
+    "4" : "s(Vasif_Talibov) dbp:title o'<Parliamentary Chairman of Nakhchivan>",
+    "5" : "s(Vasif_Talibov) dbp:years o'<1993>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11914",
+  "entityUrl" : "http://dbpedia.org/resource/Verna_Allee",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Verna_Allee) dbo:birthDate o'<1949-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

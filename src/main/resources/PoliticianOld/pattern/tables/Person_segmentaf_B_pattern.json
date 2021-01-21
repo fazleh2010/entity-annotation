@@ -1,0 +1,77 @@
+[ {
+  "entityIndex" : "entity10647",
+  "entityUrl" : "http://dbpedia.org/resource/Bj%C3%B6rn_Envall",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10648",
+  "entityUrl" : "http://dbpedia.org/resource/Benjam%C3%ADn_Ju%C3%A1rez_Echenique",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10649",
+  "entityUrl" : "http://dbpedia.org/resource/Boti_Bliss",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Boti_Bliss) dbo:birthDate o'<1975-10-23>",
+    "2" : "s(Boti_Bliss) dbo:birthName o'<Boti Ann Bliss>",
+    "3" : "s(Boti_Bliss) dbo:birthPlace o'<United_States>",
+    "4" : "s(Boti_Bliss) dbo:imdbId o'<0088502>",
+    "5" : "s(Boti_Bliss) dbo:occupation o'<Actress>",
+    "6" : "s(Boti_Bliss) dbo:occupation o'<Boti_Bliss__1>",
+    "7" : "s(Boti_Bliss) dbp:birthPlace o'<United States>",
+    "8" : "s(Boti_Bliss) dbp:imageSize o'<220>",
+    "9" : "s(Boti_Bliss) dbp:name o'<Boti Ann Bliss>",
+    "10" : "s(Boti_Bliss) dbp:spouse o'<Blair Hayes>",
+    "11" : "s(Boti_Bliss) dbp:yearsActive o'<1994>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10650",
+  "entityUrl" : "http://dbpedia.org/resource/Bryan_Young_(politician)",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Bryan_Young_(politician)) dbo:birthDate o'<1800-1-14>",
+    "2" : "s(Bryan_Young_(politician)) dbo:deathDate o'<1882-5-14>",
+    "3" : "s(Bryan_Young_(politician)) dbp:after o'<John_Burton_Thompson>",
+    "4" : "s(Bryan_Young_(politician)) dbp:before o'<James_W._Stone>",
+    "5" : "s(Bryan_Young_(politician)) dbp:district o'<5>",
+    "6" : "s(Bryan_Young_(politician)) dbp:state o'<Kentucky>",
+    "7" : "s(Bryan_Young_(politician)) dbp:years o'<--03-04>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10651",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Garde",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Betty_Garde) dbo:activeYearsEndYear o'<1925>",
+    "2" : "s(Betty_Garde) dbo:activeYearsStartYear o'<1925>",
+    "3" : "s(Betty_Garde) dbo:birthDate o'<1905-09-19>",
+    "4" : "s(Betty_Garde) dbo:birthDate o'<1905-9-19>",
+    "5" : "s(Betty_Garde) dbo:birthName o'<Katharine Elizabeth Garde>",
+    "6" : "s(Betty_Garde) dbo:birthPlace o'<Pennsylvania>",
+    "7" : "s(Betty_Garde) dbo:birthPlace o'<Philadelphia>",
+    "8" : "s(Betty_Garde) dbo:birthYear o'<1905>",
+    "9" : "s(Betty_Garde) dbo:deathDate o'<1989-12-25>",
+    "10" : "s(Betty_Garde) dbo:deathPlace o'<Los_Angeles>",
+    "11" : "s(Betty_Garde) dbo:deathPlace o'<Sherman_Oaks,_California>",
+    "12" : "s(Betty_Garde) dbo:deathYear o'<1989>",
+    "13" : "s(Betty_Garde) dbo:occupation o'<Betty_Garde__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10652",
+  "entityUrl" : "http://dbpedia.org/resource/Benedikt_Eppelsheim",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,65 @@
+[ {
+  "entityIndex" : "entity14332",
+  "entityUrl" : "http://dbpedia.org/resource/Pedro_de_las_Cuevas",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Pedro_de_las_Cuevas) dbo:birthDate o'<1568-1-1>",
+    "2" : "s(Pedro_de_las_Cuevas) dbo:birthPlace o'<Madrid>",
+    "3" : "s(Pedro_de_las_Cuevas) dbo:deathDate o'<1644-7-28>",
+    "4" : "s(Pedro_de_las_Cuevas) dbo:deathPlace o'<Madrid>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14333",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Teschner",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Peter_Teschner) dbo:activeYearsStartYear o'<1982>",
+    "2" : "s(Peter_Teschner) dbo:birthDate o'<1980-0-0>",
+    "3" : "s(Peter_Teschner) dbo:occupation o'<Film_editor>",
+    "4" : "s(Peter_Teschner) dbo:occupation o'<Peter_Teschner__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14334",
+  "entityUrl" : "http://dbpedia.org/resource/Poonam_Ahluwalia",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Poonam_Ahluwalia) dbo:birthDate o'<1957-2-14>",
+    "2" : "s(Poonam_Ahluwalia) dbo:birthPlace o'<Jaipur>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14335",
+  "entityUrl" : "http://dbpedia.org/resource/Pamela_Jooste",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Pamela_Jooste) dbo:birthDate o'<1946-1-1>",
+    "2" : "s(Pamela_Jooste) dbo:birthPlace o'<Cape_Town>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14336",
+  "entityUrl" : "http://dbpedia.org/resource/Pavel_Koshetz",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Pavel_Koshetz) dbo:birthDate o'<1863-12-14>",
+    "2" : "s(Pavel_Koshetz) dbo:deathDate o'<1904-3-2>",
+    "3" : "s(Pavel_Koshetz) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14337",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_S._Portoghese",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Philip_S._Portoghese) dbo:birthDate o'<1931-6-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

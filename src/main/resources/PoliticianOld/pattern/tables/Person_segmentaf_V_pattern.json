@@ -1,0 +1,85 @@
+[ {
+  "entityIndex" : "entity10767",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Spencer",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Victor_Spencer) dbo:birthDate o'<1894-1-1>",
+    "2" : "s(Victor_Spencer) dbo:deathDate o'<1918-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10768",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Ginsburgh",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Victor_Ginsburgh) dbo:birthDate o'<1939-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10769",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Hervey,_6th_Marquess_of_Bristol",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbo:birthDate o'<1915-10-6>",
+    "2" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbo:deathDate o'<1985-3-10>",
+    "3" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:after o'<John_Hervey,_7th_Marquess_of_Bristol>",
+    "4" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:before o'<Herbert_Arthur_Robert_Hervey,_5th_Marquess_of_Bristol>",
+    "5" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:birthDate o'<1915-10-06>",
+    "6" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:children o'<John_Hervey,_7th_Marquess_of_Bristol>",
+    "7" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:children o'<Frederick_Hervey,_8th_Marquess_of_Bristol>",
+    "8" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:children o'<Lady_Victoria_Hervey>",
+    "9" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:children o'<Lord_Nicholas_Hervey>",
+    "10" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:children o'<Lady_Isabella_Hervey>",
+    "11" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:deathDate o'<1985-03-10>",
+    "12" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:fullName o'<Victor Frederick Cochrane Hervey>",
+    "13" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:name o'<The Marquess of Bristol>",
+    "14" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:parents o'<Herbert_Hervey,_5th_Marquess_of_Bristol>",
+    "15" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:parents o'<Lady Jean Cochrane>",
+    "16" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:spouse o'<Lady_Yvonne_Hervey>",
+    "17" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:spouse o'<Lady_Juliet_Tadgell>",
+    "18" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:spouse o'<Pauline Bolton>",
+    "19" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:tenure o'<--04-05>",
+    "20" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:title o'<Marquess_of_Bristol>",
+    "21" : "s(Victor_Hervey,_6th_Marquess_of_Bristol) dbp:years o'<1960>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(victor hervey, 6th marquess of bristol=Victor_Hervey,_6th_Marquess_of_Bristol) [married three times ] o'<hervey=Marquess_of_Bristol>"
+  },
+  "abstract" : {
+    "6" : "victor hervey, 6th marquess of bristol<Victor_Hervey,_6th_Marquess_of_Bristol> was married three times and is the father of john lady isabella hervey<Lady_Isabella_Hervey>3, 7th marquess of bristol<Marquess_of_Bristol>, frederick hervey<Frederick_Hervey,_8th_Marquess_of_Bristol>, 8th marquess of bristol<Marquess_of_Bristol>, lord nicholas hervey<Lord_Nicholas_Hervey>, lady victoria hervey<Lady_Victoria_Hervey> and lady isabella hervey<Lady_Isabella_Hervey>\n"
+  }
+}, {
+  "entityIndex" : "entity10770",
+  "entityUrl" : "http://dbpedia.org/resource/Valerian_Ruminski",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Valerian_Ruminski) dbo:birthDate o'<1967-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10771",
+  "entityUrl" : "http://dbpedia.org/resource/Vellapally_Natesan",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Vellapally_Natesan) dbo:birthPlace o'<Alappuzha>",
+    "2" : "s(Vellapally_Natesan) dbo:nationality o'<India>",
+    "3" : "s(Vellapally_Natesan) dbo:occupation o'<Politician>",
+    "4" : "s(Vellapally_Natesan) dbo:party o'<Bharath_Dharma_Jana_Sena>",
+    "5" : "s(Vellapally_Natesan) dbo:profession o'<Businessman>",
+    "6" : "s(Vellapally_Natesan) dbo:religion o'<Hinduism>",
+    "7" : "s(Vellapally_Natesan) dbp:children o'<3>",
+    "8" : "s(Vellapally_Natesan) dbp:spouse o'<Married>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10772",
+  "entityUrl" : "http://dbpedia.org/resource/Vij%C3%B1%C4%81ne%C5%9Bvara",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

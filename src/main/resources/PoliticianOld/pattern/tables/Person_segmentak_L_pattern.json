@@ -1,0 +1,76 @@
+[ {
+  "entityIndex" : "entity11524",
+  "entityUrl" : "http://dbpedia.org/resource/Le_Clerc_Milfort",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Le_Clerc_Milfort) dbo:birthDate o'<1752-2-2>",
+    "2" : "s(Le_Clerc_Milfort) dbo:birthPlace o'<Thin-le-Moutier>",
+    "3" : "s(Le_Clerc_Milfort) dbo:deathDate o'<1820-7-16>",
+    "4" : "s(Le_Clerc_Milfort) dbo:deathPlace o'<Villevallier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11525",
+  "entityUrl" : "http://dbpedia.org/resource/Lloyd_Grove",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Lloyd_Grove) dbo:birthDate o'<1955-02-06>",
+    "2" : "s(Lloyd_Grove) dbo:birthDate o'<1955-2-6>",
+    "3" : "s(Lloyd_Grove) dbo:birthName o'<Lloyd Bennett Grove>",
+    "4" : "s(Lloyd_Grove) dbo:birthPlace o'<United_States>",
+    "5" : "s(Lloyd_Grove) dbo:birthPlace o'<California>",
+    "6" : "s(Lloyd_Grove) dbo:citizenship o'<United_States>",
+    "7" : "s(Lloyd_Grove) dbo:genre o'<Journalism>",
+    "8" : "s(Lloyd_Grove) dbo:genre o'<Politics>",
+    "9" : "s(Lloyd_Grove) dbo:nationality o'<Americans>",
+    "10" : "s(Lloyd_Grove) dbo:notableWork o'<The_Daily_Beast>",
+    "11" : "s(Lloyd_Grove) dbo:occupation o'<Writer>",
+    "12" : "s(Lloyd_Grove) dbp:language o'<English>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(lloyd grove=Lloyd_Grove) [frequent contributor ] o'<new=United_States>",
+    "3" : "s(lloyd grove=Lloyd_Grove) [gossip ] o'<columnist=Journalism>"
+  },
+  "abstract" : {
+    "2" : "lloyd grove<Lloyd_Grove> is also a frequent contributor to new<United_States> york\n",
+    "3" : "lloyd grove<Lloyd_Grove> was a gossip columnist<Journalism> for new<United_States> york daily news<Journalism> before lloyd grove<Lloyd_Grove> left on october 9, 2006, and wrote a fortnightly column for portfolio\n"
+  }
+}, {
+  "entityIndex" : "entity11526",
+  "entityUrl" : "http://dbpedia.org/resource/Lensey_Namioka",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Lensey_Namioka) dbo:birthDate o'<1929-6-14>",
+    "2" : "s(Lensey_Namioka) dbp:p o'<ZhÃ o LÃ¡isÄ«>",
+    "3" : "s(Lensey_Namioka) dbp:t o'<è¶™ä¾†æ€�>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11527",
+  "entityUrl" : "http://dbpedia.org/resource/Luis_T%C3%A9llez",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11528",
+  "entityUrl" : "http://dbpedia.org/resource/Leo_Soriano",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Leo_Soriano) dbo:birthDate o'<1950-12-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11529",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_M._Davis",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Larry_M._Davis) dbo:birthDate o'<1943-2-0>",
+    "2" : "s(Larry_M._Davis) dbo:deathDate o'<2006-11-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

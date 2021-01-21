@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "entity11331",
+  "entityUrl" : "http://dbpedia.org/resource/Gustav_Frederik_Holm",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Gustav_Frederik_Holm) dbo:birthDate o'<1849-8-6>",
+    "2" : "s(Gustav_Frederik_Holm) dbo:birthPlace o'<Copenhagen>",
+    "3" : "s(Gustav_Frederik_Holm) dbo:deathDate o'<1940-3-13>",
+    "4" : "s(Gustav_Frederik_Holm) dbo:deathPlace o'<Copenhagen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11332",
+  "entityUrl" : "http://dbpedia.org/resource/Gwendoline_Porter",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Gwendoline_Porter) dbo:birthDate o'<1902-4-25>",
+    "2" : "s(Gwendoline_Porter) dbo:birthPlace o'<Ilford>",
+    "3" : "s(Gwendoline_Porter) dbp:countryCode o'<GBR2>",
+    "4" : "s(Gwendoline_Porter) dbp:sport o'<Women's athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11333",
+  "entityUrl" : "http://dbpedia.org/resource/Gustl_Berauer",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Gustl_Berauer) dbo:birthDate o'<1912-11-5>",
+    "2" : "s(Gustl_Berauer) dbo:birthPlace o'<KrkonoÅ¡e>",
+    "3" : "s(Gustl_Berauer) dbo:deathDate o'<1986-5-18>",
+    "4" : "s(Gustl_Berauer) dbo:deathPlace o'<Schliersee_(lake)>",
+    "5" : "s(Gustl_Berauer) dbp:id o'<4151>",
+    "6" : "s(Gustl_Berauer) dbp:note o'<CZE nationality>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11334",
+  "entityUrl" : "http://dbpedia.org/resource/Gustaf_Adolf_Sellin",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Gustaf_Adolf_Sellin) dbo:birthDate o'<1917-2-17>",
+    "2" : "s(Gustaf_Adolf_Sellin) dbo:deathDate o'<1978-4-15>",
+    "3" : "s(Gustaf_Adolf_Sellin) dbp:id o'<55583>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11335",
+  "entityUrl" : "http://dbpedia.org/resource/Galina_Bukharina",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Galina_Bukharina) dbo:birthDate o'<1945-2-14>",
+    "2" : "s(Galina_Bukharina) dbo:birthPlace o'<Voronezh>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11336",
+  "entityUrl" : "http://dbpedia.org/resource/Gaby_Bu%C3%9Fmann",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

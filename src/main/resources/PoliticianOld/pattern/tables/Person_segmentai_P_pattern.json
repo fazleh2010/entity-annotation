@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "entity11223",
+  "entityUrl" : "http://dbpedia.org/resource/Padraig_O'Keeffe",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Padraig_O'Keeffe) dbo:activeYearsEndYear o'<1963>",
+    "2" : "s(Padraig_O'Keeffe) dbo:activeYearsStartYear o'<1920>",
+    "3" : "s(Padraig_O'Keeffe) dbo:background o'<non_vocal_instrumentalist>",
+    "4" : "s(Padraig_O'Keeffe) dbo:birthDate o'<1887-10-08>",
+    "5" : "s(Padraig_O'Keeffe) dbo:birthDate o'<1887-1-1>",
+    "6" : "s(Padraig_O'Keeffe) dbo:birthPlace o'<County_Kerry>",
+    "7" : "s(Padraig_O'Keeffe) dbo:birthPlace o'<Castleisland>",
+    "8" : "s(Padraig_O'Keeffe) dbo:birthPlace o'<Ireland>",
+    "9" : "s(Padraig_O'Keeffe) dbo:deathDate o'<1963-02-22>",
+    "10" : "s(Padraig_O'Keeffe) dbo:deathDate o'<1963-1-1>",
+    "11" : "s(Padraig_O'Keeffe) dbo:deathPlace o'<County_Kerry>",
+    "12" : "s(Padraig_O'Keeffe) dbo:deathPlace o'<Ireland>",
+    "13" : "s(Padraig_O'Keeffe) dbo:deathPlace o'<Tralee>",
+    "14" : "s(Padraig_O'Keeffe) dbo:genre o'<Music_of_Ireland>",
+    "15" : "s(Padraig_O'Keeffe) dbo:instrument o'<Fiddle>",
+    "16" : "s(Padraig_O'Keeffe) dbo:instrument o'<Diatonic_button_accordion>",
+    "17" : "s(Padraig_O'Keeffe) dbo:occupation o'<Musician>",
+    "18" : "s(Padraig_O'Keeffe) dbo:occupation o'<Teacher>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11224",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Allen_(US_broadcaster)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Peter_Allen_(US_broadcaster)) dbo:activeYearsEndYear o'<2004>",
+    "2" : "s(Peter_Allen_(US_broadcaster)) dbo:activeYearsStartYear o'<1946>",
+    "3" : "s(Peter_Allen_(US_broadcaster)) dbo:birthDate o'<1920-09-17>",
+    "4" : "s(Peter_Allen_(US_broadcaster)) dbo:birthDate o'<1920-9-17>",
+    "5" : "s(Peter_Allen_(US_broadcaster)) dbo:birthName o'<Harold Levy>",
+    "6" : "s(Peter_Allen_(US_broadcaster)) dbo:birthPlace o'<Ontario>",
+    "7" : "s(Peter_Allen_(US_broadcaster)) dbo:birthPlace o'<Toronto>",
+    "8" : "s(Peter_Allen_(US_broadcaster)) dbo:birthYear o'<1920>",
+    "9" : "s(Peter_Allen_(US_broadcaster)) dbo:deathDate o'<2016-10-08>",
+    "10" : "s(Peter_Allen_(US_broadcaster)) dbo:deathDate o'<2016-10-8>",
+    "11" : "s(Peter_Allen_(US_broadcaster)) dbo:deathPlace o'<New_York_City>",
+    "12" : "s(Peter_Allen_(US_broadcaster)) dbo:deathPlace o'<New_York_(state)>",
+    "13" : "s(Peter_Allen_(US_broadcaster)) dbo:deathYear o'<2016>",
+    "14" : "s(Peter_Allen_(US_broadcaster)) dbo:occupation o'<Peter_Allen_(US_broadcaster)__1>",
+    "15" : "s(Peter_Allen_(US_broadcaster)) dbo:occupation o'<Announcer>",
+    "16" : "s(Peter_Allen_(US_broadcaster)) dbo:occupation o'<Presenter>",
+    "17" : "s(Peter_Allen_(US_broadcaster)) dbp:citizenship o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11225",
+  "entityUrl" : "http://dbpedia.org/resource/Penny_Mallory",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Penny_Mallory) dbo:birthDate o'<1966-1-1>",
+    "2" : "s(Penny_Mallory) dbo:imdbId o'<1118906>",
+    "3" : "s(Penny_Mallory) dbp:name o'<Penny Mallory>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11226",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_F._Patricio",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11227",
+  "entityUrl" : "http://dbpedia.org/resource/Panna_Kaiser",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11228",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Buck_(restaurateur)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Peter_Buck_(restaurateur)) dbo:almaMater o'<Columbia_University>",
+    "2" : "s(Peter_Buck_(restaurateur)) dbo:almaMater o'<Doctor_of_Humane_Letters>",
+    "3" : "s(Peter_Buck_(restaurateur)) dbo:almaMater o'<Bowdoin_College>",
+    "4" : "s(Peter_Buck_(restaurateur)) dbo:birthDate o'<1930-12-19>",
+    "5" : "s(Peter_Buck_(restaurateur)) dbo:birthPlace o'<South_Portland,_Maine>",
+    "6" : "s(Peter_Buck_(restaurateur)) dbo:birthYear o'<1930>",
+    "7" : "s(Peter_Buck_(restaurateur)) dbo:networth o'<2.6E9>",
+    "8" : "s(Peter_Buck_(restaurateur)) dbo:occupation o'<Peter_Buck_(restaurateur)__1>",
+    "9" : "s(Peter_Buck_(restaurateur)) dbo:occupation o'<Businessman>",
+    "10" : "s(Peter_Buck_(restaurateur)) dbo:occupation o'<Entrepreneur>",
+    "11" : "s(Peter_Buck_(restaurateur)) dbo:residence o'<Danbury,_Connecticut>",
+    "12" : "s(Peter_Buck_(restaurateur)) dbp:spouse o'<Carmen LÃºcia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

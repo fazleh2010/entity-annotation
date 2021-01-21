@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity11201",
+  "entityUrl" : "http://dbpedia.org/resource/Kyrillos_II",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Kyrillos_II) dbo:wikiPageRedirects o'<Kyrillos_II_of_Cyprus>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11202",
+  "entityUrl" : "http://dbpedia.org/resource/Kyrillos_III",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Kyrillos_III) dbo:wikiPageRedirects o'<Kyrillos_III_of_Cyprus>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11203",
+  "entityUrl" : "http://dbpedia.org/resource/Klaus_Hasselmann",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Klaus_Hasselmann) dbo:birthDate o'<1931-10-25>",
+    "2" : "s(Klaus_Hasselmann) dbo:birthPlace o'<Hamburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11204",
+  "entityUrl" : "http://dbpedia.org/resource/Kurt_Bollacker",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11205",
+  "entityUrl" : "http://dbpedia.org/resource/Karen_Grassle",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Karen_Grassle) dbo:activeYearsStartYear o'<1968>",
+    "2" : "s(Karen_Grassle) dbo:birthDate o'<1942-02-25>",
+    "3" : "s(Karen_Grassle) dbo:birthDate o'<1942-2-25>",
+    "4" : "s(Karen_Grassle) dbo:birthName o'<Karen Trust Grassle>",
+    "5" : "s(Karen_Grassle) dbo:birthPlace o'<Berkeley,_California>",
+    "6" : "s(Karen_Grassle) dbo:birthYear o'<1942>",
+    "7" : "s(Karen_Grassle) dbo:occupation o'<Actress>",
+    "8" : "s(Karen_Grassle) dbo:occupation o'<Karen_Grassle__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11206",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Marks",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Kevin_Marks) dbo:birthDate o'<1966-09-13>",
+    "2" : "s(Kevin_Marks) dbo:birthDate o'<1966-9-13>",
+    "3" : "s(Kevin_Marks) dbo:birthPlace o'<Harrow,_London>",
+    "4" : "s(Kevin_Marks) dbo:birthYear o'<1966>",
+    "5" : "s(Kevin_Marks) dbo:occupation o'<Programmer>",
+    "6" : "s(Kevin_Marks) dbo:occupation o'<Blog>",
+    "7" : "s(Kevin_Marks) dbo:occupation o'<Kevin_Marks__1>",
+    "8" : "s(Kevin_Marks) dbp:employer o'<None>",
+    "9" : "s(Kevin_Marks) dbp:nationality o'<UK>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

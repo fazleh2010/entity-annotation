@@ -1,0 +1,51 @@
+[ {
+  "entityIndex" : "entity14260",
+  "entityUrl" : "http://dbpedia.org/resource/Dorothy_M._Crosland",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Dorothy_M._Crosland) dbo:birthDate o'<1903-9-13>",
+    "2" : "s(Dorothy_M._Crosland) dbo:deathDate o'<1983-3-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14261",
+  "entityUrl" : "http://dbpedia.org/resource/Deborah_Rubin",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Deborah_Rubin) dbo:birthDate o'<1948-4-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14262",
+  "entityUrl" : "http://dbpedia.org/resource/Darach_Mac_Con_Iomaire",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14263",
+  "entityUrl" : "http://dbpedia.org/resource/Donncha_Mac_Con_Iomaire",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14264",
+  "entityUrl" : "http://dbpedia.org/resource/Daphne_Olivier",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Daphne_Olivier) dbo:birthDate o'<1889-1-1>",
+    "2" : "s(Daphne_Olivier) dbo:deathDate o'<1950-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14265",
+  "entityUrl" : "http://dbpedia.org/resource/D%C3%A1ibh%C3%AD_de_Barra",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

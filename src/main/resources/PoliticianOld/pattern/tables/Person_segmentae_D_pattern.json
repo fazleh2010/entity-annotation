@@ -1,0 +1,94 @@
+[ {
+  "entityIndex" : "entity11323",
+  "entityUrl" : "http://dbpedia.org/resource/Drogo_of_Hauteville",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Drogo_of_Hauteville) dbo:birthDate o'<1010-0-0>",
+    "2" : "s(Drogo_of_Hauteville) dbo:birthPlace o'<Cotentin_Peninsula>",
+    "3" : "s(Drogo_of_Hauteville) dbo:deathDate o'<1051-8-10>",
+    "4" : "s(Drogo_of_Hauteville) dbo:deathPlace o'<Orsara_di_Puglia>",
+    "5" : "s(Drogo_of_Hauteville) dbp:after o'<Humphrey_of_Hauteville>",
+    "6" : "s(Drogo_of_Hauteville) dbp:before o'<William_Iron_Arm>",
+    "7" : "s(Drogo_of_Hauteville) dbp:title o'<List_of_Counts_of_Apulia_and_Calabria>",
+    "8" : "s(Drogo_of_Hauteville) dbp:years o'<1046>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11324",
+  "entityUrl" : "http://dbpedia.org/resource/Dagny_Juel",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Dagny_Juel) dbo:birthDate o'<1867-6-8>",
+    "2" : "s(Dagny_Juel) dbo:birthPlace o'<Kongsvinger>",
+    "3" : "s(Dagny_Juel) dbo:deathDate o'<1901-6-5>",
+    "4" : "s(Dagny_Juel) dbo:deathPlace o'<Tbilisi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11325",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Sarcos",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Daniel_Sarcos) dbo:activeYearsStartYear o'<1994>",
+    "2" : "s(Daniel_Sarcos) dbo:birthDate o'<1967-09-29>",
+    "3" : "s(Daniel_Sarcos) dbo:birthDate o'<1967-9-29>",
+    "4" : "s(Daniel_Sarcos) dbo:birthName o'<Daniel Enrique Sarcos Cabrera>",
+    "5" : "s(Daniel_Sarcos) dbo:birthPlace o'<Venezuela>",
+    "6" : "s(Daniel_Sarcos) dbo:birthPlace o'<Maracaibo>",
+    "7" : "s(Daniel_Sarcos) dbo:birthPlace o'<Zulia>",
+    "8" : "s(Daniel_Sarcos) dbo:birthYear o'<1967>",
+    "9" : "s(Daniel_Sarcos) dbo:occupation o'<Singer>",
+    "10" : "s(Daniel_Sarcos) dbo:occupation o'<Television_personality>",
+    "11" : "s(Daniel_Sarcos) dbo:occupation o'<Daniel_Sarcos__1>",
+    "12" : "s(Daniel_Sarcos) dbo:spouse o'<Chiquinquira_Delgado>",
+    "13" : "s(Daniel_Sarcos) dbp:children o'<2>",
+    "14" : "s(Daniel_Sarcos) dbp:date o'<December 2009>",
+    "15" : "s(Daniel_Sarcos) dbp:only o'<yes>",
+    "16" : "s(Daniel_Sarcos) dbp:partner o'<Alessandra Villegas>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11326",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Kiley",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Dan_Kiley) dbo:birthDate o'<1912-9-2>",
+    "2" : "s(Dan_Kiley) dbo:birthPlace o'<Boston>",
+    "3" : "s(Dan_Kiley) dbo:deathDate o'<2004-2-21>",
+    "4" : "s(Dan_Kiley) dbo:deathPlace o'<Montpelier,_Vermont>",
+    "5" : "s(Dan_Kiley) dbo:viafId o'<91692825>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11327",
+  "entityUrl" : "http://dbpedia.org/resource/Di_Renjie",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Di_Renjie) dbo:birthDate o'<630-1-1>",
+    "2" : "s(Di_Renjie) dbo:birthPlace o'<Taiyuan>",
+    "3" : "s(Di_Renjie) dbo:deathDate o'<700-8-15>",
+    "4" : "s(Di_Renjie) dbp:p o'<DÃ­ RÃ©njiÃ©>",
+    "5" : "s(Di_Renjie) dbp:pic o'<Di Renjie.jpg>",
+    "6" : "s(Di_Renjie) dbp:piccap o'<A 1921 illustration>",
+    "7" : "s(Di_Renjie) dbp:picsize o'<200>",
+    "8" : "s(Di_Renjie) dbp:t o'<ç‹„ä»�å‚‘>",
+    "9" : "s(Di_Renjie) dbp:title o'<Di Renjie>",
+    "10" : "s(Di_Renjie) dbp:w o'<TiÂ² JenÂ²-chiehÂ²>",
+    "11" : "s(Di_Renjie) dbp:y o'<Dikâ�¶ Yanâ�´-gitâ�¶>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11328",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Menche",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Daniel_Menche) dbo:birthDate o'<1969-12-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

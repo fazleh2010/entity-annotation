@@ -1,0 +1,65 @@
+[ {
+  "entityIndex" : "entity10785",
+  "entityUrl" : "http://dbpedia.org/resource/Yuen_Mo",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Yuen_Mo) dbo:birthDate o'<1941-11-0>",
+    "2" : "s(Yuen_Mo) dbp:c o'<è¢�æ­¦>",
+    "3" : "s(Yuen_Mo) dbp:p o'<XiÄ�ng GÇŽng YuÃ¡n shÃ¬ zÅ�ngqÄ«n huÃ¬>",
+    "4" : "s(Yuen_Mo) dbp:p o'<YuÃ¡n WÇ”>",
+    "5" : "s(Yuen_Mo) dbp:t o'<é¦™æ¸¯è¢�æ°�å®—è¦ªæœƒ>",
+    "6" : "s(Yuen_Mo) dbp:title o'<Member of Provisional Legislative Council>",
+    "7" : "s(Yuen_Mo) dbp:years o'<1997>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10786",
+  "entityUrl" : "http://dbpedia.org/resource/Yung_Krall",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10787",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Shansong",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Yuan_Shansong) dbo:deathDate o'<399-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10788",
+  "entityUrl" : "http://dbpedia.org/resource/Yuan_Hong",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Yuan_Hong) dbo:wikiPageDisambiguates o'<Yuan_Hong_(Jin_dynasty)>",
+    "2" : "s(Yuan_Hong) dbo:wikiPageDisambiguates o'<Yuan_Hong_(actor)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10789",
+  "entityUrl" : "http://dbpedia.org/resource/Yoon_Jin-hee",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Yoon_Jin-hee) dbo:birthDate o'<1986-08-04>",
+    "2" : "s(Yoon_Jin-hee) dbo:birthDate o'<1986-8-4>",
+    "3" : "s(Yoon_Jin-hee) dbo:birthPlace o'<Wonju>",
+    "4" : "s(Yoon_Jin-hee) dbo:height o'<158.0>",
+    "5" : "s(Yoon_Jin-hee) dbo:height o'<1.58>",
+    "6" : "s(Yoon_Jin-hee) dbp:event o'<Women's 53 kg>",
+    "7" : "s(Yoon_Jin-hee) dbp:sport o'<Olympic_weightlifting>",
+    "8" : "s(Yoon_Jin-hee) dbp:spouse o'<Won_Jeong-sik>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10790",
+  "entityUrl" : "http://dbpedia.org/resource/Yamaoka_Tessh%C5%AB",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

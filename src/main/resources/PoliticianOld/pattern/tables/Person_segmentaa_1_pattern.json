@@ -1,0 +1,30 @@
+[ {
+  "entityIndex" : "entity10803",
+  "entityUrl" : "http://dbpedia.org/resource/1st_Dalai_Lama",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(1st_Dalai_Lama) dbo:birthDate o'<1391-1-1>",
+    "2" : "s(1st_Dalai_Lama) dbo:birthPlace o'<Sakya>",
+    "3" : "s(1st_Dalai_Lama) dbo:deathDate o'<1474-1-1>",
+    "4" : "s(1st_Dalai_Lama) dbo:deathPlace o'<SamzhubzÃª_District>",
+    "5" : "s(1st_Dalai_Lama) dbp:birthDate o'<1391>",
+    "6" : "s(1st_Dalai_Lama) dbp:birthPlace o'<Shabtod, Ãœ-Tsang, Tibet>",
+    "7" : "s(1st_Dalai_Lama) dbp:deathPlace o'<Tibet>",
+    "8" : "s(1st_Dalai_Lama) dbp:father o'<Gonpo Dorje>",
+    "9" : "s(1st_Dalai_Lama) dbp:mother o'<Jomo Namkha Kyi>",
+    "10" : "s(1st_Dalai_Lama) dbp:reign o'<A>",
+    "11" : "s(1st_Dalai_Lama) dbp:successor o'<2nd_Dalai_Lama>",
+    "12" : "s(1st_Dalai_Lama) dbp:t o'<à½‘à½‚à½ºà¼‹à½ à½‘à½´à½“à¼‹à½‚à¾²à½´à½–à¼‹à½”à¼�>",
+    "13" : "s(1st_Dalai_Lama) dbp:thdl o'<GendÃ¼n Druppa>",
+    "14" : "s(1st_Dalai_Lama) dbp:tibetan o'<à½‘à½‚à½ºà¼‹à½ à½‘à½´à½“à¼‹à½‚à¾²à½´à½–à¼‹à½”à¼�>",
+    "15" : "s(1st_Dalai_Lama) dbp:title o'<1>",
+    "16" : "s(1st_Dalai_Lama) dbp:title o'<Dalai_Lama>",
+    "17" : "s(1st_Dalai_Lama) dbp:transprc o'<GÃªdÃ¼n Chubba>",
+    "18" : "s(1st_Dalai_Lama) dbp:w o'<dge 'dun grub pa>",
+    "19" : "s(1st_Dalai_Lama) dbp:wylie o'<dge â€™dun grub pa>",
+    "20" : "s(1st_Dalai_Lama) dbp:years o'<A>",
+    "21" : "s(1st_Dalai_Lama) dbp:years o'<Posthumously recognized>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

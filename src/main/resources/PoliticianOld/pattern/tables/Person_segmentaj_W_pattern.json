@@ -1,0 +1,93 @@
+[ {
+  "entityIndex" : "entity11427",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Gordon_Wilson",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Walter_Gordon_Wilson) dbo:birthDate o'<1874-4-21>",
+    "2" : "s(Walter_Gordon_Wilson) dbo:deathDate o'<1957-7-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11428",
+  "entityUrl" : "http://dbpedia.org/resource/William_Smith_(judge)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(William_Smith_(judge)) dbo:birthDate o'<1697-1-1>",
+    "2" : "s(William_Smith_(judge)) dbo:birthPlace o'<Newport_Pagnell>",
+    "3" : "s(William_Smith_(judge)) dbo:deathDate o'<1769-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11429",
+  "entityUrl" : "http://dbpedia.org/resource/William_Cronon",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(William_Cronon) dbo:birthDate o'<1954-09-11>",
+    "2" : "s(William_Cronon) dbo:birthDate o'<1954-9-11>",
+    "3" : "s(William_Cronon) dbo:birthPlace o'<New_Haven,_Connecticut>",
+    "4" : "s(William_Cronon) dbo:birthYear o'<1954>",
+    "5" : "s(William_Cronon) dbo:knownFor o'<MacArthur_Fellowship>",
+    "6" : "s(William_Cronon) dbo:knownFor o'<American_Historical_Association>",
+    "7" : "s(William_Cronon) dbo:occupation o'<William_Cronon__1>",
+    "8" : "s(William_Cronon) dbp:almaMater o'<Yale_University>",
+    "9" : "s(William_Cronon) dbp:almaMater o'<University_of_Wisconsinâ€“Madison>",
+    "10" : "s(William_Cronon) dbp:almaMater o'<Jesus_College,_Oxford>",
+    "11" : "s(William_Cronon) dbp:nationality o'<United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11430",
+  "entityUrl" : "http://dbpedia.org/resource/William_Burdett-Coutts",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(William_Burdett-Coutts) dbo:birthDate o'<1851-0-0>",
+    "2" : "s(William_Burdett-Coutts) dbo:deathDate o'<1921-7-28>",
+    "3" : "s(William_Burdett-Coutts) dbp:title o'<Member of Parliament for Westminster>",
+    "4" : "s(William_Burdett-Coutts) dbp:title o'<Member of Parliament for Westminster Abbey>",
+    "5" : "s(William_Burdett-Coutts) dbp:years o'<1885>",
+    "6" : "s(William_Burdett-Coutts) dbp:years o'<1918>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11431",
+  "entityUrl" : "http://dbpedia.org/resource/William_Smith_(Medal_of_Honor)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(William_Smith_(Medal_of_Honor)) dbo:allegiance o'<Union>",
+    "2" : "s(William_Smith_(Medal_of_Honor)) dbo:allegiance o'<United States of America>",
+    "3" : "s(William_Smith_(Medal_of_Honor)) dbo:award o'<Medal_of_Honor>",
+    "4" : "s(William_Smith_(Medal_of_Honor)) dbo:battle o'<American_Civil_War>",
+    "5" : "s(William_Smith_(Medal_of_Honor)) dbo:battle o'<Cherbourg,_France>",
+    "6" : "s(William_Smith_(Medal_of_Honor)) dbo:birthDate o'<1838-1-1>",
+    "7" : "s(William_Smith_(Medal_of_Honor)) dbo:birthPlace o'<Ireland>",
+    "8" : "s(William_Smith_(Medal_of_Honor)) dbo:deathDate o'<1902-1-12>",
+    "9" : "s(William_Smith_(Medal_of_Honor)) dbo:deathPlace o'<Merrimack_County,_New_Hampshire>",
+    "10" : "s(William_Smith_(Medal_of_Honor)) dbo:militaryBranch o'<Union_Navy>",
+    "11" : "s(William_Smith_(Medal_of_Honor)) dbp:birthDate o'<1838>",
+    "12" : "s(William_Smith_(Medal_of_Honor)) dbp:birthPlace o'<Ireland>",
+    "13" : "s(William_Smith_(Medal_of_Honor)) dbp:deathDate o'<January, 12,>",
+    "14" : "s(William_Smith_(Medal_of_Honor)) dbp:deathPlace o'<Merrimack_County,_New_Hampshire>",
+    "15" : "s(William_Smith_(Medal_of_Honor)) dbp:placeofburialLabel o'<Place of burial>",
+    "16" : "s(William_Smith_(Medal_of_Honor)) dbp:rank o'<Quartermaster>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(william smith (medal of honor)=William_Smith_(Medal_of_Honor)) [buried at blossom hill ] o'<merrimack county=Merrimack_County,_New_Hampshire>"
+  },
+  "abstract" : {
+    "2" : "william smith (medal of honor)<William_Smith_(Medal_of_Honor)> was buried at blossom hill cemetery in concord, merrimack county<Merrimack_County,_New_Hampshire>, new hampshire\n"
+  }
+}, {
+  "entityIndex" : "entity11432",
+  "entityUrl" : "http://dbpedia.org/resource/Wallace_L._Lind",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Wallace_L._Lind) dbo:birthDate o'<1887-6-18>",
+    "2" : "s(Wallace_L._Lind) dbo:deathDate o'<1940-4-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

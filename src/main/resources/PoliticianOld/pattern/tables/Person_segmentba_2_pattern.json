@@ -1,0 +1,20 @@
+[ {
+  "entityIndex" : "entity14239",
+  "entityUrl" : "http://dbpedia.org/resource/2nd_Jebtsundamba_Khutughtu",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(2nd_Jebtsundamba_Khutughtu) dbo:birthDate o'<1724-1-1>",
+    "2" : "s(2nd_Jebtsundamba_Khutughtu) dbo:birthPlace o'<Altanbulag,_TÃ¶v>",
+    "3" : "s(2nd_Jebtsundamba_Khutughtu) dbo:birthPlace o'<Mongolia>",
+    "4" : "s(2nd_Jebtsundamba_Khutughtu) dbo:deathDate o'<1757-1-1>",
+    "5" : "s(2nd_Jebtsundamba_Khutughtu) dbo:deathPlace o'<Mongolia>",
+    "6" : "s(2nd_Jebtsundamba_Khutughtu) dbo:deathPlace o'<Ulaanbaatar>",
+    "7" : "s(2nd_Jebtsundamba_Khutughtu) dbo:predecessor o'<Zanabazar>",
+    "8" : "s(2nd_Jebtsundamba_Khutughtu) dbp:birthDate o'<1724>",
+    "9" : "s(2nd_Jebtsundamba_Khutughtu) dbp:deathDate o'<1757>",
+    "10" : "s(2nd_Jebtsundamba_Khutughtu) dbp:occupation o'<Spiritual head of Mongolia>",
+    "11" : "s(2nd_Jebtsundamba_Khutughtu) dbp:title o'<His Holiness the Second Jebtsundamba Khutughtu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

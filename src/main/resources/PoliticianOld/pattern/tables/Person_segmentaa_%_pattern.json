@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity10797",
+  "entityUrl" : "http://dbpedia.org/resource/%60Abdu'l-Bah%C3%A1",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10798",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%87evik_Bir",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10799",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Manet",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10800",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_de_Pomiane",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10801",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%96tzi",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10802",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89lie_Ducommun",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

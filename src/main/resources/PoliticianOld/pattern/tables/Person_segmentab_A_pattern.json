@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity10805",
+  "entityUrl" : "http://dbpedia.org/resource/Adriaan_de_Groot",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Adriaan_de_Groot) dbo:birthDate o'<1914-10-26>",
+    "2" : "s(Adriaan_de_Groot) dbo:birthPlace o'<Velsen>",
+    "3" : "s(Adriaan_de_Groot) dbo:deathDate o'<2006-8-14>",
+    "4" : "s(Adriaan_de_Groot) dbo:deathPlace o'<Schiermonnikoog>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10806",
+  "entityUrl" : "http://dbpedia.org/resource/Albert_von_Le_Coq",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Albert_von_Le_Coq) dbo:birthDate o'<1860-9-8>",
+    "2" : "s(Albert_von_Le_Coq) dbo:birthPlace o'<Berlin>",
+    "3" : "s(Albert_von_Le_Coq) dbo:deathDate o'<1930-1-1>",
+    "4" : "s(Albert_von_Le_Coq) dbo:deathPlace o'<Berlin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10807",
+  "entityUrl" : "http://dbpedia.org/resource/Alice_Lisle",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Alice_Lisle) dbo:birthDate o'<1614-1-1>",
+    "2" : "s(Alice_Lisle) dbo:deathDate o'<1685-9-2>",
+    "3" : "s(Alice_Lisle) dbp:title o'<Lisle, Alice>",
+    "4" : "s(Alice_Lisle) dbp:volume o'<16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10808",
+  "entityUrl" : "http://dbpedia.org/resource/August_Ludwig_von_Schl%C3%B6zer",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10809",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_Davis_(composer)",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Anthony_Davis_(composer)) dbo:birthDate o'<1951-2-20>",
+    "2" : "s(Anthony_Davis_(composer)) dbo:birthPlace o'<Paterson,_New_Jersey>",
+    "3" : "s(Anthony_Davis_(composer)) dbp:class o'<artist>",
+    "4" : "s(Anthony_Davis_(composer)) dbp:id o'<p6371>",
+    "5" : "s(Anthony_Davis_(composer)) dbp:label o'<Anthony Davis>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10810",
+  "entityUrl" : "http://dbpedia.org/resource/Athene_Seyler",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Athene_Seyler) dbo:activeYearsStartYear o'<1909>",
+    "2" : "s(Athene_Seyler) dbo:birthDate o'<1889-05-31>",
+    "3" : "s(Athene_Seyler) dbo:birthDate o'<1889-5-31>",
+    "4" : "s(Athene_Seyler) dbo:birthPlace o'<London>",
+    "5" : "s(Athene_Seyler) dbo:birthPlace o'<Hackney_Central>",
+    "6" : "s(Athene_Seyler) dbo:birthYear o'<1889>",
+    "7" : "s(Athene_Seyler) dbo:deathDate o'<1990-09-12>",
+    "8" : "s(Athene_Seyler) dbo:deathDate o'<1990-9-12>",
+    "9" : "s(Athene_Seyler) dbo:deathPlace o'<London>",
+    "10" : "s(Athene_Seyler) dbo:deathPlace o'<Hammersmith>",
+    "11" : "s(Athene_Seyler) dbo:deathYear o'<1990>",
+    "12" : "s(Athene_Seyler) dbo:imdbId o'<0786780>",
+    "13" : "s(Athene_Seyler) dbo:occupation o'<Athene_Seyler__1>",
+    "14" : "s(Athene_Seyler) dbo:spouse o'<Nicholas_Hannen_(actor)>",
+    "15" : "s(Athene_Seyler) dbo:spouse o'<James_Bury_Sterndale_Bennett>",
+    "16" : "s(Athene_Seyler) dbp:children o'<Joan Anne Bennett>",
+    "17" : "s(Athene_Seyler) dbp:name o'<Athene Seyler>",
+    "18" : "s(Athene_Seyler) dbp:partner o'<Nicholas Hannen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

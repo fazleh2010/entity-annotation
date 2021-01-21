@@ -1,0 +1,32 @@
+[ {
+  "entityIndex" : "entity11109",
+  "entityUrl" : "http://dbpedia.org/resource/Yemeni_rial",
+  "dboClass" : "dbo:Currency",
+  "triples" : {
+    "1" : "s(Yemeni_rial) dbo:usingCountry o'<Yemen>",
+    "2" : "s(Yemeni_rial) dbp:currency o'<South_Yemeni_dinar>",
+    "3" : "s(Yemeni_rial) dbp:currency o'<North_Yemeni_rial>",
+    "4" : "s(Yemeni_rial) dbp:imageTitle o'<1000>",
+    "5" : "s(Yemeni_rial) dbp:inflationRate o'<12.2>",
+    "6" : "s(Yemeni_rial) dbp:inflationSourceDate o'<2010>",
+    "7" : "s(Yemeni_rial) dbp:isoCode o'<YER>",
+    "8" : "s(Yemeni_rial) dbp:issuingAuthority o'<Central_Bank_of_Yemen>",
+    "9" : "s(Yemeni_rial) dbp:issuingAuthorityWebsite o'<www.centralbank.gov.ye>",
+    "10" : "s(Yemeni_rial) dbp:location o'<North_Yemen>",
+    "11" : "s(Yemeni_rial) dbp:location o'<South_Yemen>",
+    "12" : "s(Yemeni_rial) dbp:location o'<Yemen>",
+    "13" : "s(Yemeni_rial) dbp:note o'<dinar was withdrawn 1996>",
+    "14" : "s(Yemeni_rial) dbp:note o'<use of rial started in 1990,>",
+    "15" : "s(Yemeni_rial) dbp:ratio o'<1>",
+    "16" : "s(Yemeni_rial) dbp:ratio o'<at par>",
+    "17" : "s(Yemeni_rial) dbp:rowspan o'<2>",
+    "18" : "s(Yemeni_rial) dbp:start o'<1990>",
+    "19" : "s(Yemeni_rial) dbp:subunitName o'<Fils_(currency)>",
+    "20" : "s(Yemeni_rial) dbp:subunitRatio o'<1>",
+    "21" : "s(Yemeni_rial) dbp:symbol o'<﷼>",
+    "22" : "s(Yemeni_rial) dbp:usedBanknotes o'<501002002505001024>",
+    "23" : "s(Yemeni_rial) dbp:usedCoins o'<151020>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

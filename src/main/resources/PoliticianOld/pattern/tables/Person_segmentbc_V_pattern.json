@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity14531",
+  "entityUrl" : "http://dbpedia.org/resource/Vanessa_Friedman",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Vanessa_Friedman) dbo:birthDate o'<1968-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14532",
+  "entityUrl" : "http://dbpedia.org/resource/Vyacheslav_Boguslayev",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Vyacheslav_Boguslayev) dbo:birthDate o'<1938-10-28>",
+    "2" : "s(Vyacheslav_Boguslayev) dbo:birthPlace o'<Oral,_Kazakhstan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14533",
+  "entityUrl" : "http://dbpedia.org/resource/Vasilis_Kanatas",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Vasilis_Kanatas) dbo:birthDate o'<1967-1-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14534",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Harris_(political_strategist)",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14535",
+  "entityUrl" : "http://dbpedia.org/resource/Va'aelua_Eti_Alesana",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Va'aelua_Eti_Alesana) dbo:deathDate o'<2011-9-30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14536",
+  "entityUrl" : "http://dbpedia.org/resource/Vanessa_Terkes",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Vanessa_Terkes) dbo:activeYearsStartYear o'<1988>",
+    "2" : "s(Vanessa_Terkes) dbo:birthDate o'<1978-03-03>",
+    "3" : "s(Vanessa_Terkes) dbo:birthDate o'<1978-3-3>",
+    "4" : "s(Vanessa_Terkes) dbo:birthPlace o'<Lima>",
+    "5" : "s(Vanessa_Terkes) dbo:birthYear o'<1978>",
+    "6" : "s(Vanessa_Terkes) dbo:occupation o'<Vanessa_Terkes__1>",
+    "7" : "s(Vanessa_Terkes) dbp:children o'<Sujetka Val Terkes>",
+    "8" : "s(Vanessa_Terkes) dbp:imagesize o'<250>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

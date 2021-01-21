@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "entity10823",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Brocklebank",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Daniel_Brocklebank) dbo:birthDate o'<1979-12-21>",
+    "2" : "s(Daniel_Brocklebank) dbo:birthPlace o'<Stratford-upon-Avon>",
+    "3" : "s(Daniel_Brocklebank) dbo:birthPlace o'<Warwickshire>",
+    "4" : "s(Daniel_Brocklebank) dbo:birthYear o'<1979>",
+    "5" : "s(Daniel_Brocklebank) dbo:imdbId o'<0110689>",
+    "6" : "s(Daniel_Brocklebank) dbp:name o'<Daniel Brocklebank>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10824",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Alvarado",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Don_Alvarado) dbo:activeYearsEndYear o'<1958>",
+    "2" : "s(Don_Alvarado) dbo:activeYearsStartYear o'<1924>",
+    "3" : "s(Don_Alvarado) dbo:alias o'<Don Page>",
+    "4" : "s(Don_Alvarado) dbo:birthDate o'<1904-11-04>",
+    "5" : "s(Don_Alvarado) dbo:birthDate o'<1904-11-4>",
+    "6" : "s(Don_Alvarado) dbo:birthName o'<JosÃ© Paige>",
+    "7" : "s(Don_Alvarado) dbo:birthPlace o'<Albuquerque,_New_Mexico>",
+    "8" : "s(Don_Alvarado) dbo:birthYear o'<1904>",
+    "9" : "s(Don_Alvarado) dbo:child o'<Joy_Page>",
+    "10" : "s(Don_Alvarado) dbo:deathDate o'<1967-03-31>",
+    "11" : "s(Don_Alvarado) dbo:deathDate o'<1967-3-31>",
+    "12" : "s(Don_Alvarado) dbo:deathPlace o'<Hollywood,_California>",
+    "13" : "s(Don_Alvarado) dbo:deathPlace o'<Hollywood>",
+    "14" : "s(Don_Alvarado) dbo:deathYear o'<1967>",
+    "15" : "s(Don_Alvarado) dbo:occupation o'<Don_Alvarado__1>",
+    "16" : "s(Don_Alvarado) dbp:spouse o'<Ann Boyar ; 1 child>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10825",
+  "entityUrl" : "http://dbpedia.org/resource/Duncan_Lamont_Clinch",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Duncan_Lamont_Clinch) dbo:birthDate o'<1787-4-6>",
+    "2" : "s(Duncan_Lamont_Clinch) dbo:birthPlace o'<Edgecombe_County,_North_Carolina>",
+    "3" : "s(Duncan_Lamont_Clinch) dbo:deathDate o'<1849-10-28>",
+    "4" : "s(Duncan_Lamont_Clinch) dbo:deathPlace o'<Macon,_Georgia>",
+    "5" : "s(Duncan_Lamont_Clinch) dbp:after o'<District inactive>",
+    "6" : "s(Duncan_Lamont_Clinch) dbp:before o'<John_Millen_(American_politician)>",
+    "7" : "s(Duncan_Lamont_Clinch) dbp:district o'<AL>",
+    "8" : "s(Duncan_Lamont_Clinch) dbp:state o'<Georgia>",
+    "9" : "s(Duncan_Lamont_Clinch) dbp:years o'<--02-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10826",
+  "entityUrl" : "http://dbpedia.org/resource/Dominic_Minghella",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Dominic_Minghella) dbo:birthDate o'<1967-1-1>",
+    "2" : "s(Dominic_Minghella) dbo:birthPlace o'<Isle_of_Wight>",
+    "3" : "s(Dominic_Minghella) dbo:nationality o'<England>",
+    "4" : "s(Dominic_Minghella) dbo:nationality o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10827",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Merzel",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Dennis_Merzel) dbo:birthDate o'<1944-06-03>",
+    "2" : "s(Dennis_Merzel) dbo:birthDate o'<1944-6-3>",
+    "3" : "s(Dennis_Merzel) dbo:birthPlace o'<Brooklyn>",
+    "4" : "s(Dennis_Merzel) dbo:birthYear o'<1944>",
+    "5" : "s(Dennis_Merzel) dbo:education o'<University_of_Southern_California>",
+    "6" : "s(Dennis_Merzel) dbo:occupation o'<Dennis_Merzel__1>",
+    "7" : "s(Dennis_Merzel) dbo:religion o'<Zen>",
+    "8" : "s(Dennis_Merzel) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10828",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Dunphy",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Don_Dunphy) dbo:birthDate o'<1908-7-5>",
+    "2" : "s(Don_Dunphy) dbo:deathDate o'<1998-7-22>",
+    "3" : "s(Don_Dunphy) dbo:imdbId o'<0242988>",
+    "4" : "s(Don_Dunphy) dbp:id o'<196>",
+    "5" : "s(Don_Dunphy) dbp:name o'<Don Dunphy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

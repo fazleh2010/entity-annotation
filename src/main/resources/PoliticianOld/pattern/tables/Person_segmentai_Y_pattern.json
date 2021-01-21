@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity11277",
+  "entityUrl" : "http://dbpedia.org/resource/Yi_Saenggang",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Yi_Saenggang) dbp:hangul o'<ì�´ìƒ�ê°•>",
+    "2" : "s(Yi_Saenggang) dbp:mr o'<I Saenggang>",
+    "3" : "s(Yi_Saenggang) dbp:rr o'<I Saenggang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11278",
+  "entityUrl" : "http://dbpedia.org/resource/Yidele_Horowitz",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Yidele_Horowitz) dbo:birthDate o'<1905-1-1>",
+    "2" : "s(Yidele_Horowitz) dbo:deathDate o'<1989-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11279",
+  "entityUrl" : "http://dbpedia.org/resource/Yevgeny_Belyayev",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Yevgeny_Belyayev) dbo:birthDate o'<1954-3-20>",
+    "2" : "s(Yevgeny_Belyayev) dbo:birthPlace o'<Kirovsk,_Murmansk_Oblast>",
+    "3" : "s(Yevgeny_Belyayev) dbo:deathDate o'<2003-3-15>",
+    "4" : "s(Yevgeny_Belyayev) dbp:id o'<3856>",
+    "5" : "s(Yevgeny_Belyayev) dbp:name o'<Evgenij Beljajev>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11280",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshikichi_Furui",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Yoshikichi_Furui) dbo:birthDate o'<1937-11-19>",
+    "2" : "s(Yoshikichi_Furui) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Yoshikichi_Furui) dbo:country o'<Japan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11281",
+  "entityUrl" : "http://dbpedia.org/resource/Ye_Wanyong",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Ye_Wanyong) dbo:birthDate o'<1858-7-17>",
+    "2" : "s(Ye_Wanyong) dbo:deathDate o'<1926-2-12>",
+    "3" : "s(Ye_Wanyong) dbp:hangulho o'<ì�¼ë‹¹>",
+    "4" : "s(Ye_Wanyong) dbp:hangulja o'<ê²½ë�•>",
+    "5" : "s(Ye_Wanyong) dbp:img o'<Lee Wan-yong Portrait.jpg>",
+    "6" : "s(Ye_Wanyong) dbp:mr o'<Yi Wanyong>",
+    "7" : "s(Ye_Wanyong) dbp:mrho o'<Iltang>",
+    "8" : "s(Ye_Wanyong) dbp:mrja o'<KyÅ�ngdÅ�k>",
+    "9" : "s(Ye_Wanyong) dbp:rr o'<I Wanyong>",
+    "10" : "s(Ye_Wanyong) dbp:rrho o'<Ildang>",
+    "11" : "s(Ye_Wanyong) dbp:rrja o'<Gyeongdeok>",
+    "12" : "s(Ye_Wanyong) dbp:title o'<Ye Wanyong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11282",
+  "entityUrl" : "http://dbpedia.org/resource/Yutaka_Haniya",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Yutaka_Haniya) dbo:birthDate o'<1909-12-19>",
+    "2" : "s(Yutaka_Haniya) dbo:birthPlace o'<Geography_of_Taiwan>",
+    "3" : "s(Yutaka_Haniya) dbo:country o'<Japan>",
+    "4" : "s(Yutaka_Haniya) dbo:deathDate o'<1997-2-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

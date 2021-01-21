@@ -1,0 +1,80 @@
+[ {
+  "entityIndex" : "entity14182",
+  "entityUrl" : "http://dbpedia.org/resource/Sunday_Jack_Akpan",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Sunday_Jack_Akpan) dbo:birthDate o'<1940-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14183",
+  "entityUrl" : "http://dbpedia.org/resource/Steve_Paul",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Steve_Paul) dbo:birthDate o'<1941-04-28>",
+    "2" : "s(Steve_Paul) dbo:birthDate o'<1941-4-28>",
+    "3" : "s(Steve_Paul) dbo:birthName o'<Steve Paul>",
+    "4" : "s(Steve_Paul) dbo:birthPlace o'<The_Bronx>",
+    "5" : "s(Steve_Paul) dbo:birthPlace o'<New_York_(state)>",
+    "6" : "s(Steve_Paul) dbo:birthPlace o'<Bronx>",
+    "7" : "s(Steve_Paul) dbo:birthYear o'<1941>",
+    "8" : "s(Steve_Paul) dbo:deathDate o'<2012-10-21>",
+    "9" : "s(Steve_Paul) dbo:deathPlace o'<New_York_City>",
+    "10" : "s(Steve_Paul) dbo:deathYear o'<2012>",
+    "11" : "s(Steve_Paul) dbo:occupation o'<Steve_Paul__1>",
+    "12" : "s(Steve_Paul) dbp:knownFor o'<1960.0>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(steve paul=Steve_Paul) [born april 28 1941 ] o'<bronx=Bronx>"
+  },
+  "abstract" : {
+    "1" : "steve paul<Steve_Paul> (born april 28, 1941, bronx<Bronx>, new york;<New_York_City> died october 21, 2012, new york city<New_York_city>) was the american one-time manager of johnny winter, among other related performers, as well as being the owner of the scene, a popular new york city<New_York_city> club in the 1960s and 1970, and the founder of blue sky records"
+  }
+}, {
+  "entityIndex" : "entity14184",
+  "entityUrl" : "http://dbpedia.org/resource/Sonia_Bo",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Sonia_Bo) dbo:birthDate o'<1960-3-27>",
+    "2" : "s(Sonia_Bo) dbo:birthPlace o'<Lecco>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14185",
+  "entityUrl" : "http://dbpedia.org/resource/Sergey_Kinyakin",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Sergey_Kinyakin) dbo:birthDate o'<1961-10-6>",
+    "2" : "s(Sergey_Kinyakin) dbo:birthPlace o'<Tomsk_Oblast>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14186",
+  "entityUrl" : "http://dbpedia.org/resource/Sergei_Matosyan",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14187",
+  "entityUrl" : "http://dbpedia.org/resource/Samir_Assaf",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Samir_Assaf) dbo:birthDate o'<1960-06-20>",
+    "2" : "s(Samir_Assaf) dbo:birthDate o'<1960-6-20>",
+    "3" : "s(Samir_Assaf) dbo:birthPlace o'<Achrafieh>",
+    "4" : "s(Samir_Assaf) dbo:birthPlace o'<Lebanon>",
+    "5" : "s(Samir_Assaf) dbo:birthPlace o'<Beirut>",
+    "6" : "s(Samir_Assaf) dbo:birthYear o'<1960>",
+    "7" : "s(Samir_Assaf) dbo:occupation o'<HSBC>",
+    "8" : "s(Samir_Assaf) dbo:occupation o'<Samir_Assaf__1>",
+    "9" : "s(Samir_Assaf) dbo:religion o'<Maronite_Church>",
+    "10" : "s(Samir_Assaf) dbp:schools o'<Sorbonne_University>",
+    "11" : "s(Samir_Assaf) dbp:schools o'<Paris_Institute_of_Political_Studies>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

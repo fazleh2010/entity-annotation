@@ -1,0 +1,27 @@
+[ {
+  "entityIndex" : "entity11136",
+  "entityUrl" : "http://dbpedia.org/resource/4th_Dalai_Lama",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(4th_Dalai_Lama) dbo:birthDate o'<1589-1-1>",
+    "2" : "s(4th_Dalai_Lama) dbo:birthPlace o'<Mongolia>",
+    "3" : "s(4th_Dalai_Lama) dbo:deathDate o'<1616-1-1>",
+    "4" : "s(4th_Dalai_Lama) dbp:birthDate o'<1589>",
+    "5" : "s(4th_Dalai_Lama) dbp:birthPlace o'<Mongolia>",
+    "6" : "s(4th_Dalai_Lama) dbp:chinese o'<é›²ä¸¹å˜‰æŽª>",
+    "7" : "s(4th_Dalai_Lama) dbp:deathDate o'<1617>",
+    "8" : "s(4th_Dalai_Lama) dbp:deathPlace o'<Tibet>",
+    "9" : "s(4th_Dalai_Lama) dbp:name o'<Yonten>",
+    "10" : "s(4th_Dalai_Lama) dbp:predecessor o'<3rd_Dalai_Lama>",
+    "11" : "s(4th_Dalai_Lama) dbp:reign o'<1601>",
+    "12" : "s(4th_Dalai_Lama) dbp:successor o'<5th_Dalai_Lama>",
+    "13" : "s(4th_Dalai_Lama) dbp:tibetan o'<à½¡à½¼à½“à¼‹à½�à½“à¼‹à½¢à¾’à¾±à¼‹à½˜à½šà½¼à¼‹>",
+    "14" : "s(4th_Dalai_Lama) dbp:title o'<4>",
+    "15" : "s(4th_Dalai_Lama) dbp:title o'<Dalai_Lama>",
+    "16" : "s(4th_Dalai_Lama) dbp:transprc o'<Yoindain Gyaco>",
+    "17" : "s(4th_Dalai_Lama) dbp:wylie o'<yon tan rgya mtsho>",
+    "18" : "s(4th_Dalai_Lama) dbp:years o'<1601>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

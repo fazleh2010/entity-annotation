@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity11710",
+  "entityUrl" : "http://dbpedia.org/resource/Philipp,_Prince_of_Hohenlohe-Langenburg",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbo:birthDate o'<1970-01-20>",
+    "2" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbo:birthDate o'<1970-1-20>",
+    "3" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbo:birthPlace o'<Crailsheim>",
+    "4" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbo:birthPlace o'<West_Germany>",
+    "5" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbo:parent o'<Kraft,_Prince_of_Hohenlohe-Langenburg>",
+    "6" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbo:title o'<Prince of Hohenlohe-Langenburg>",
+    "7" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:creation o'<descended from Alfred, son of Victoria>",
+    "8" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:house o'<Hohenlohe-Langenburg>",
+    "9" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:issue o'<Max Leopold, Hereditary Prince of Hohenlohe-Langenburg>",
+    "10" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:issue o'<Prince Gustav>",
+    "11" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:issue o'<Princess Marita>",
+    "12" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:mother o'<Princess Charlotte of CroÃ¿>",
+    "13" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:reason o'<German_Revolution_of_1918â€“19>",
+    "14" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:spouse o'<2003-09-06>",
+    "15" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:spouse o'<Saskia Binder>",
+    "16" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:title o'<Hohenlohe-Langenburg>",
+    "17" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:title o'<Line_of_succession_to_the_British_throne>",
+    "18" : "s(Philipp,_Prince_of_Hohenlohe-Langenburg) dbp:years o'<--03-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11711",
+  "entityUrl" : "http://dbpedia.org/resource/Peggy_Spencer",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Peggy_Spencer) dbo:birthDate o'<1920-07-24>",
+    "2" : "s(Peggy_Spencer) dbo:birthDate o'<1920-9-24>",
+    "3" : "s(Peggy_Spencer) dbo:birthYear o'<1920>",
+    "4" : "s(Peggy_Spencer) dbo:deathDate o'<2016-05-25>",
+    "5" : "s(Peggy_Spencer) dbo:deathDate o'<2016-5-25>",
+    "6" : "s(Peggy_Spencer) dbo:deathYear o'<2016>",
+    "7" : "s(Peggy_Spencer) dbo:occupation o'<Choreographer>",
+    "8" : "s(Peggy_Spencer) dbo:occupation o'<Ballroom_dancer>",
+    "9" : "s(Peggy_Spencer) dbo:occupation o'<Peggy_Spencer__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11712",
+  "entityUrl" : "http://dbpedia.org/resource/Pat_King",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11713",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Relf",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Patricia_Relf) dbo:country o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11714",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_R._Thompson",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Philip_R._Thompson) dbo:birthDate o'<1766-3-26>",
+    "2" : "s(Philip_R._Thompson) dbo:birthPlace o'<Fredericksburg,_Virginia>",
+    "3" : "s(Philip_R._Thompson) dbo:deathDate o'<1837-7-27>",
+    "4" : "s(Philip_R._Thompson) dbo:deathPlace o'<Kanawha_County,_West_Virginia>",
+    "5" : "s(Philip_R._Thompson) dbp:after o'<John_Love_(congressman)>",
+    "6" : "s(Philip_R._Thompson) dbp:after o'<Peterson_Goodwyn>",
+    "7" : "s(Philip_R._Thompson) dbp:before o'<John_Nicholas_(congressman)>",
+    "8" : "s(Philip_R._Thompson) dbp:before o'<William_Branch_Giles>",
+    "9" : "s(Philip_R._Thompson) dbp:district o'<9>",
+    "10" : "s(Philip_R._Thompson) dbp:district o'<18>",
+    "11" : "s(Philip_R._Thompson) dbp:state o'<Virginia>",
+    "12" : "s(Philip_R._Thompson) dbp:years o'<--03-04>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11715",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Malm",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Peter_Malm) dbo:birthDate o'<1800-09-22>",
+    "2" : "s(Peter_Malm) dbo:birthDate o'<1800-9-22>",
+    "3" : "s(Peter_Malm) dbo:birthPlace o'<Finland>",
+    "4" : "s(Peter_Malm) dbo:birthPlace o'<Jakobstad>",
+    "5" : "s(Peter_Malm) dbo:birthYear o'<1800>",
+    "6" : "s(Peter_Malm) dbo:deathDate o'<1868-08-07>",
+    "7" : "s(Peter_Malm) dbo:deathDate o'<1868-8-7>",
+    "8" : "s(Peter_Malm) dbo:deathPlace o'<Stockholm>",
+    "9" : "s(Peter_Malm) dbo:deathYear o'<1868>",
+    "10" : "s(Peter_Malm) dbo:occupation o'<Peter_Malm__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

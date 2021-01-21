@@ -1,0 +1,88 @@
+[ {
+  "entityIndex" : "entity10749",
+  "entityUrl" : "http://dbpedia.org/resource/Safet_Plakalo",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Safet_Plakalo) dbo:birthDate o'<1950-3-4>",
+    "2" : "s(Safet_Plakalo) dbo:deathDate o'<2015-3-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10750",
+  "entityUrl" : "http://dbpedia.org/resource/Simon_Harris",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Simon_Harris) dbo:birthDate o'<1962-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10751",
+  "entityUrl" : "http://dbpedia.org/resource/Semyon_Gudzenko",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Semyon_Gudzenko) dbo:birthDate o'<1922-3-5>",
+    "2" : "s(Semyon_Gudzenko) dbo:birthPlace o'<Kiev>",
+    "3" : "s(Semyon_Gudzenko) dbo:deathDate o'<1953-2-12>",
+    "4" : "s(Semyon_Gudzenko) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10752",
+  "entityUrl" : "http://dbpedia.org/resource/Shmuel_Tamir",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Shmuel_Tamir) dbo:birthDate o'<1923-3-10>",
+    "2" : "s(Shmuel_Tamir) dbo:birthPlace o'<Jerusalem>",
+    "3" : "s(Shmuel_Tamir) dbo:deathDate o'<1987-6-29>",
+    "4" : "s(Shmuel_Tamir) dbo:deathPlace o'<Herzliya>",
+    "5" : "s(Shmuel_Tamir) dbp:birthDate o'<1923-03-10>",
+    "6" : "s(Shmuel_Tamir) dbp:birthPlace o'<Jerusalem>",
+    "7" : "s(Shmuel_Tamir) dbp:birthPlace o'<Mandatory_Palestine>",
+    "8" : "s(Shmuel_Tamir) dbp:deathDate o'<1987-06-29>",
+    "9" : "s(Shmuel_Tamir) dbp:knesset(s)_ o'<6789>",
+    "10" : "s(Shmuel_Tamir) dbp:minister o'<Justice_Minister_of_Israel>",
+    "11" : "s(Shmuel_Tamir) dbp:ministeryears o'<1977>",
+    "12" : "s(Shmuel_Tamir) dbp:party o'<Democratic_Movement_(Israel)>",
+    "13" : "s(Shmuel_Tamir) dbp:party o'<Gahal>",
+    "14" : "s(Shmuel_Tamir) dbp:party o'<Likud>",
+    "15" : "s(Shmuel_Tamir) dbp:party o'<Democratic_Movement_for_Change>",
+    "16" : "s(Shmuel_Tamir) dbp:party o'<Free_Centre>",
+    "17" : "s(Shmuel_Tamir) dbp:party o'<Independent>",
+    "18" : "s(Shmuel_Tamir) dbp:partyyears o'<1965>",
+    "19" : "s(Shmuel_Tamir) dbp:partyyears o'<1967>",
+    "20" : "s(Shmuel_Tamir) dbp:partyyears o'<1974>",
+    "21" : "s(Shmuel_Tamir) dbp:partyyears o'<1976>",
+    "22" : "s(Shmuel_Tamir) dbp:partyyears o'<1977>",
+    "23" : "s(Shmuel_Tamir) dbp:partyyears o'<1978>",
+    "24" : "s(Shmuel_Tamir) dbp:partyyears o'<1981>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10753",
+  "entityUrl" : "http://dbpedia.org/resource/Sergey_Narovchatov",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Sergey_Narovchatov) dbo:birthDate o'<1919-10-3>",
+    "2" : "s(Sergey_Narovchatov) dbo:birthPlace o'<Khvalynsk>",
+    "3" : "s(Sergey_Narovchatov) dbo:deathDate o'<1981-7-22>",
+    "4" : "s(Sergey_Narovchatov) dbo:deathPlace o'<Koktebel>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10754",
+  "entityUrl" : "http://dbpedia.org/resource/Semyon_Kirsanov",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Semyon_Kirsanov) dbo:birthDate o'<1906-9-5>",
+    "2" : "s(Semyon_Kirsanov) dbo:birthPlace o'<Odessa>",
+    "3" : "s(Semyon_Kirsanov) dbo:deathDate o'<1972-12-10>",
+    "4" : "s(Semyon_Kirsanov) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

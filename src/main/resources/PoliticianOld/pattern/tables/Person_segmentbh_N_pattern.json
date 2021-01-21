@@ -1,0 +1,76 @@
+[ {
+  "entityIndex" : "entity11375",
+  "entityUrl" : "http://dbpedia.org/resource/Norma_Ponce_Orozco",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Norma_Ponce_Orozco) dbo:birthDate o'<1964-10-01>",
+    "2" : "s(Norma_Ponce_Orozco) dbo:birthDate o'<1964-10-1>",
+    "3" : "s(Norma_Ponce_Orozco) dbo:birthPlace o'<State_of_Mexico>",
+    "4" : "s(Norma_Ponce_Orozco) dbo:birthPlace o'<Mexico>",
+    "5" : "s(Norma_Ponce_Orozco) dbo:birthPlace o'<Mexico_(state)>",
+    "6" : "s(Norma_Ponce_Orozco) dbo:birthYear o'<1964>",
+    "7" : "s(Norma_Ponce_Orozco) dbo:ethnicity o'<Mexican_people>",
+    "8" : "s(Norma_Ponce_Orozco) dbo:occupation o'<Norma_Ponce_Orozco__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(norma ponce orozco=Norma_Ponce_Orozco) [served deputy of ] o'<state of mexico=State_of_Mexico>"
+  },
+  "abstract" : {
+    "2" : "as of 2013 norma ponce orozco<Norma_Ponce_Orozco> served as deputy of the lxii legislature of the mexican congress representing the state of mexico<State_of_Mexico>\n"
+  }
+}, {
+  "entityIndex" : "entity11376",
+  "entityUrl" : "http://dbpedia.org/resource/Nuno_Filipe_Correia_Sousa",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Nuno_Filipe_Correia_Sousa) dbo:birthDate o'<1993-4-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11377",
+  "entityUrl" : "http://dbpedia.org/resource/Nicol%C3%A1s_Rinaldi",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11378",
+  "entityUrl" : "http://dbpedia.org/resource/Nilkantha_Upreti",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Nilkantha_Upreti) dbp:nativeName o'<à¤¨à¥€à¤²à¤•à¤£à¥�à¤  à¤‰à¤ªà¥�à¤°à¥‡à¤¤à¥€>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11379",
+  "entityUrl" : "http://dbpedia.org/resource/Nathaniel_Clark_Smith",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Nathaniel_Clark_Smith) dbo:birthDate o'<1877-7-31>",
+    "2" : "s(Nathaniel_Clark_Smith) dbo:deathDate o'<1935-10-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11380",
+  "entityUrl" : "http://dbpedia.org/resource/Nicole_Johnson_(monster_truck_driver)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:almaMater o'<Brigham_Young_University>",
+    "2" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:birthDate o'<1974-01-16>",
+    "3" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:birthDate o'<1974-1-16>",
+    "4" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:birthName o'<Nicole Michelle Jardin>",
+    "5" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:birthPlace o'<Ventura_County,_California>",
+    "6" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:birthYear o'<1974>",
+    "7" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:occupation o'<Nicole_Johnson_(monster_truck_driver)__1>",
+    "8" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:occupation o'<Monster_truck>",
+    "9" : "s(Nicole_Johnson_(monster_truck_driver)) dbo:residence o'<Las_Vegas>",
+    "10" : "s(Nicole_Johnson_(monster_truck_driver)) dbp:children o'<2>",
+    "11" : "s(Nicole_Johnson_(monster_truck_driver)) dbp:nationality o'<American>",
+    "12" : "s(Nicole_Johnson_(monster_truck_driver)) dbp:spouse o'<Frank Johnson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

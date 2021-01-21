@@ -1,0 +1,59 @@
+[ {
+  "entityIndex" : "entity11095",
+  "entityUrl" : "http://dbpedia.org/resource/Viktor_Uspaskich",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Viktor_Uspaskich) dbo:birthDate o'<1959-7-24>",
+    "2" : "s(Viktor_Uspaskich) dbo:birthPlace o'<Urdoma,_Lensky_District,_Arkhangelsk_Oblast>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11096",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_J._Pospishil",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Victor_J._Pospishil) dbo:birthDate o'<1915-1-1>",
+    "2" : "s(Victor_J._Pospishil) dbo:deathDate o'<2006-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11097",
+  "entityUrl" : "http://dbpedia.org/resource/Vicente_Mart%C3%ADn_y_Soler",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11098",
+  "entityUrl" : "http://dbpedia.org/resource/Vasco_Ronchi",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Vasco_Ronchi) dbo:birthDate o'<1897-12-19>",
+    "2" : "s(Vasco_Ronchi) dbo:birthPlace o'<Florence>",
+    "3" : "s(Vasco_Ronchi) dbo:deathDate o'<1988-10-31>",
+    "4" : "s(Vasco_Ronchi) dbo:deathPlace o'<Florence>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11099",
+  "entityUrl" : "http://dbpedia.org/resource/Victoriano_Sosa",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Victoriano_Sosa) dbo:birthDate o'<1974-4-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11100",
+  "entityUrl" : "http://dbpedia.org/resource/Vic_Richardson_(Australian_soldier)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Vic_Richardson_(Australian_soldier)) dbo:birthDate o'<1891-1-1>",
+    "2" : "s(Vic_Richardson_(Australian_soldier)) dbo:deathDate o'<1968-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

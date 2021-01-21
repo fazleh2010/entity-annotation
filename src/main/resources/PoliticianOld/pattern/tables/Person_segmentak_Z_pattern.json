@@ -1,0 +1,55 @@
+[ {
+  "entityIndex" : "entity11608",
+  "entityUrl" : "http://dbpedia.org/resource/Zo%C3%AB_Jenny",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11609",
+  "entityUrl" : "http://dbpedia.org/resource/Zoia_Ceau%C8%99escu",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11610",
+  "entityUrl" : "http://dbpedia.org/resource/Zell_Kravinsky",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Zell_Kravinsky) dbo:education o'<University_of_Pennsylvania>",
+    "2" : "s(Zell_Kravinsky) dbo:education o'<Bachelor_of_Arts>",
+    "3" : "s(Zell_Kravinsky) dbo:ethnicity o'<American_Jews>",
+    "4" : "s(Zell_Kravinsky) dbo:occupation o'<Zell_Kravinsky__1>",
+    "5" : "s(Zell_Kravinsky) dbp:nationality o'<United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11611",
+  "entityUrl" : "http://dbpedia.org/resource/Zigmas_Zinkevi%C4%8Dius",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11612",
+  "entityUrl" : "http://dbpedia.org/resource/Zo%C3%AB_Skoulding",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11613",
+  "entityUrl" : "http://dbpedia.org/resource/Zeng_Fanzhi",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Zeng_Fanzhi) dbo:birthDate o'<1964-1-1>",
+    "2" : "s(Zeng_Fanzhi) dbo:birthPlace o'<Wuhan>",
+    "3" : "s(Zeng_Fanzhi) dbp:bot o'<InternetArchiveBot>",
+    "4" : "s(Zeng_Fanzhi) dbp:date o'<July 2016>",
+    "5" : "s(Zeng_Fanzhi) dbp:fixAttempted o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

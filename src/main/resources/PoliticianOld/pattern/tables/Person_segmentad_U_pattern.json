@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity11261",
+  "entityUrl" : "http://dbpedia.org/resource/Uwe_H%C3%BCser",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11262",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrik_Frederik_Gyldenl%C3%B8ve",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11263",
+  "entityUrl" : "http://dbpedia.org/resource/Uuno_Klami",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Uuno_Klami) dbo:birthDate o'<1900-9-20>",
+    "2" : "s(Uuno_Klami) dbo:birthPlace o'<Virolahti>",
+    "3" : "s(Uuno_Klami) dbo:deathDate o'<1961-5-29>",
+    "4" : "s(Uuno_Klami) dbo:deathPlace o'<Virolahti>",
+    "5" : "s(Uuno_Klami) dbp:date o'<20080503021235>",
+    "6" : "s(Uuno_Klami) dbp:title o'<Information on Klami>",
+    "7" : "s(Uuno_Klami) dbp:url o'<klami>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(uuno klami=Uuno_Klami) [born in ] o'<virolahti=Virolahti>"
+  },
+  "abstract" : {
+    "2" : "uuno klami<Uuno_Klami> was born in virolahti<Virolahti>\n"
+  }
+}, {
+  "entityIndex" : "entity11264",
+  "entityUrl" : "http://dbpedia.org/resource/Urbanus",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Urbanus) dbo:alias o'<Urbain, Urbanus van Anus>",
+    "2" : "s(Urbanus) dbo:birthDate o'<1949-06-07>",
+    "3" : "s(Urbanus) dbo:birthDate o'<1949-6-7>",
+    "4" : "s(Urbanus) dbo:birthPlace o'<Belgium>",
+    "5" : "s(Urbanus) dbo:birthPlace o'<Dilbeek>",
+    "6" : "s(Urbanus) dbo:birthYear o'<1949>",
+    "7" : "s(Urbanus) dbo:occupation o'<Singer>",
+    "8" : "s(Urbanus) dbo:occupation o'<Actor>",
+    "9" : "s(Urbanus) dbo:occupation o'<Urbanus__1>",
+    "10" : "s(Urbanus) dbp:imagesize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11265",
+  "entityUrl" : "http://dbpedia.org/resource/Ugo_Bassi",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ugo_Bassi) dbo:birthDate o'<1800-08-12>",
+    "2" : "s(Ugo_Bassi) dbo:birthDate o'<1800-8-12>",
+    "3" : "s(Ugo_Bassi) dbo:birthPlace o'<Cento_(poetry)>",
+    "4" : "s(Ugo_Bassi) dbo:birthPlace o'<Cento>",
+    "5" : "s(Ugo_Bassi) dbo:birthYear o'<1800>",
+    "6" : "s(Ugo_Bassi) dbo:deathDate o'<1849-12-08>",
+    "7" : "s(Ugo_Bassi) dbo:deathDate o'<1849-8-8>",
+    "8" : "s(Ugo_Bassi) dbo:deathPlace o'<Bologna>",
+    "9" : "s(Ugo_Bassi) dbo:deathYear o'<1849>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(ugo bassi=Ugo_Bassi) [lived chiefly in ] o'<bologna=Bologna>"
+  },
+  "abstract" : {
+    "6" : "ugo bassi<Ugo_Bassi> lived chiefly in bologna<Bologna>, but travelled all over italy preaching and tending the poor\n"
+  }
+}, {
+  "entityIndex" : "entity11266",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrich_Libbrecht",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ulrich_Libbrecht) dbo:birthDate o'<1928-1-1>",
+    "2" : "s(Ulrich_Libbrecht) dbo:birthPlace o'<Avelgem>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

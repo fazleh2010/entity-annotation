@@ -1,0 +1,31 @@
+[ {
+  "entityIndex" : "entity11140",
+  "entityUrl" : "http://dbpedia.org/resource/9th_Dalai_Lama",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(9th_Dalai_Lama) dbo:birthDate o'<1805-12-1>",
+    "2" : "s(9th_Dalai_Lama) dbo:deathDate o'<1815-3-6>",
+    "3" : "s(9th_Dalai_Lama) dbo:deathPlace o'<Lhasa_(prefecture-level_city)>",
+    "4" : "s(9th_Dalai_Lama) dbp:birthDate o'<1805-12-01>",
+    "5" : "s(9th_Dalai_Lama) dbp:birthPlace o'<Dan Chokhor, Kham, Tibet>",
+    "6" : "s(9th_Dalai_Lama) dbp:chinese o'<éš†æœµå˜‰æŽª>",
+    "7" : "s(9th_Dalai_Lama) dbp:deathDate o'<1815-03-06>",
+    "8" : "s(9th_Dalai_Lama) dbp:deathPlace o'<Tibet>",
+    "9" : "s(9th_Dalai_Lama) dbp:father o'<Tendzin Chokyong>",
+    "10" : "s(9th_Dalai_Lama) dbp:mother o'<Dondrub Dolma>",
+    "11" : "s(9th_Dalai_Lama) dbp:name o'<Lungtok>",
+    "12" : "s(9th_Dalai_Lama) dbp:predecessor o'<8th_Dalai_Lama>",
+    "13" : "s(9th_Dalai_Lama) dbp:reign o'<1810>",
+    "14" : "s(9th_Dalai_Lama) dbp:successor o'<10th_Dalai_Lama>",
+    "15" : "s(9th_Dalai_Lama) dbp:thdl o'<Lungtok Gyatsho>",
+    "16" : "s(9th_Dalai_Lama) dbp:tibetan o'<à½£à½´à½„à¼‹à½¢à¾Ÿà½¼à½‚à½¦à¼‹à½¢à¾’à¾±à¼‹à½˜à½šà½¼à¼‹>",
+    "17" : "s(9th_Dalai_Lama) dbp:title o'<9>",
+    "18" : "s(9th_Dalai_Lama) dbp:title o'<Dalai_Lama>",
+    "19" : "s(9th_Dalai_Lama) dbp:transprc o'<Lungdog Gyaco>",
+    "20" : "s(9th_Dalai_Lama) dbp:wylie o'<lung rtogs rgya mtsho>",
+    "21" : "s(9th_Dalai_Lama) dbp:years o'<1810>",
+    "22" : "s(9th_Dalai_Lama) dbp:years o'<Recognized in 1807>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

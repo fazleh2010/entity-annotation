@@ -1,0 +1,26 @@
+[ {
+  "entityIndex" : "entity10820",
+  "entityUrl" : "http://dbpedia.org/resource/+1_(film)",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(+1_(film)) dbo:cinematography o'<Mihai_Mălaimare_Jr.>",
+    "2" : "s(+1_(film)) dbo:distributor o'<IFC_Films>",
+    "3" : "s(+1_(film)) dbo:musicComposer o'<Nathan_Larson>",
+    "4" : "s(+1_(film)) dbo:runtime o'<96.0>",
+    "5" : "s(+1_(film)) dbo:runtime o'<5760.0>",
+    "6" : "s(+1_(film)) dbo:starring o'<Ashley_Hinshaw>",
+    "7" : "s(+1_(film)) dbo:starring o'<Natalie_Hall>",
+    "8" : "s(+1_(film)) dbo:starring o'<Rhys_Wakefield>",
+    "9" : "s(+1_(film)) dbp:border o'<Official movie poster>",
+    "10" : "s(+1_(film)) dbp:country o'<United States>",
+    "11" : "s(+1_(film)) dbp:director o'<Dennis Iliadis>",
+    "12" : "s(+1_(film)) dbp:editing o'<Yorgos Mavropsaridis>",
+    "13" : "s(+1_(film)) dbp:language o'<English>",
+    "14" : "s(+1_(film)) dbp:producer o'<Guy Botham>",
+    "15" : "s(+1_(film)) dbp:screenplay o'<Bill Gullo>",
+    "16" : "s(+1_(film)) dbp:story o'<Dennis Iliadis>",
+    "17" : "s(+1_(film)) dbp:studio o'<* Process Films>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

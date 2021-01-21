@@ -1,0 +1,124 @@
+[ {
+  "entityIndex" : "entity11171",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Pace",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Frank_Pace) dbo:almaMater o'<Princeton_University>",
+    "2" : "s(Frank_Pace) dbo:almaMater o'<Harvard_University>",
+    "3" : "s(Frank_Pace) dbo:birthDate o'<1912-07-05>",
+    "4" : "s(Frank_Pace) dbo:birthDate o'<1912-7-5>",
+    "5" : "s(Frank_Pace) dbo:birthPlace o'<Little_Rock,_Arkansas>",
+    "6" : "s(Frank_Pace) dbo:deathDate o'<1988-01-08>",
+    "7" : "s(Frank_Pace) dbo:deathDate o'<1988-1-8>",
+    "8" : "s(Frank_Pace) dbo:deathPlace o'<Greenwich,_Connecticut>",
+    "9" : "s(Frank_Pace) dbo:office o'<United States Secretary of the Army>",
+    "10" : "s(Frank_Pace) dbo:office o'<Director of the Office of Management and Budget>",
+    "11" : "s(Frank_Pace) dbo:orderInOffice o'<3rd>",
+    "12" : "s(Frank_Pace) dbo:orderInOffice o'<8th>",
+    "13" : "s(Frank_Pace) dbo:party o'<Democratic_Party_(United_States)>",
+    "14" : "s(Frank_Pace) dbo:predecessor o'<Gordon_Gray_(politician)>",
+    "15" : "s(Frank_Pace) dbo:predecessor o'<James_E._Webb>",
+    "16" : "s(Frank_Pace) dbo:president o'<Harry_S._Truman>",
+    "17" : "s(Frank_Pace) dbo:successor o'<Earl_D._Johnson>",
+    "18" : "s(Frank_Pace) dbo:successor o'<Frederick_J._Lawton>",
+    "19" : "s(Frank_Pace) dbo:termPeriod o'<Frank_Pace__1>",
+    "20" : "s(Frank_Pace) dbo:termPeriod o'<Frank_Pace__2>",
+    "21" : "s(Frank_Pace) dbp:after o'<Robert_T._Stevens>",
+    "22" : "s(Frank_Pace) dbp:after o'<Frederick_J._Lawton>",
+    "23" : "s(Frank_Pace) dbp:before o'<Gordon_Gray_(politician)>",
+    "24" : "s(Frank_Pace) dbp:before o'<James_E._Webb>",
+    "25" : "s(Frank_Pace) dbp:birthName o'<Frank Pace, Jr.>",
+    "26" : "s(Frank_Pace) dbp:children o'<Paula Pace Smith>",
+    "27" : "s(Frank_Pace) dbp:children o'<Penny Pace-Schott>",
+    "28" : "s(Frank_Pace) dbp:children o'<Priscilla Pace>",
+    "29" : "s(Frank_Pace) dbp:description o'<\"Longines Chronoscope with Frank C. Pace, Jr \">",
+    "30" : "s(Frank_Pace) dbp:id o'<gov.archives.arc.95770>",
+    "31" : "s(Frank_Pace) dbp:imageName o'<Frank_Pace_Sec._Army.jpg>",
+    "32" : "s(Frank_Pace) dbp:office o'<United_States_Office_of_Management_and_Budget>",
+    "33" : "s(Frank_Pace) dbp:president o'<Harry_S._Truman>",
+    "34" : "s(Frank_Pace) dbp:spouse o'<Margaret Morris Janney>",
+    "35" : "s(Frank_Pace) dbp:title o'<United_States_Secretary_of_the_Army>",
+    "36" : "s(Frank_Pace) dbp:years o'<--02-01>",
+    "37" : "s(Frank_Pace) dbp:years o'<April 1950 â€“ January 1953>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11172",
+  "entityUrl" : "http://dbpedia.org/resource/Faustino_Rodr%C3%ADguez-San_Pedro_y_D%C3%ADaz-Arg%C3%BCelles",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11173",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Penhalluriack",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11174",
+  "entityUrl" : "http://dbpedia.org/resource/Flo_Hyman",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Flo_Hyman) dbo:birthDate o'<1954-07-31>",
+    "2" : "s(Flo_Hyman) dbo:birthDate o'<1954-7-31>",
+    "3" : "s(Flo_Hyman) dbo:birthPlace o'<Inglewood,_California>",
+    "4" : "s(Flo_Hyman) dbo:birthPlace o'<Los_Angeles,_California>",
+    "5" : "s(Flo_Hyman) dbo:deathDate o'<1986-01-24>",
+    "6" : "s(Flo_Hyman) dbo:deathDate o'<1986-1-24>",
+    "7" : "s(Flo_Hyman) dbo:deathPlace o'<Japan>",
+    "8" : "s(Flo_Hyman) dbo:height o'<195.57999999999998>",
+    "9" : "s(Flo_Hyman) dbo:height o'<1.9558>",
+    "10" : "s(Flo_Hyman) dbo:nationalTeam o'<United_States_women's_national_volleyball_team>",
+    "11" : "s(Flo_Hyman) dbp:medaltemplatesTitle o'<Medal record>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(flo hyman=Flo_Hyman) [olympic silver medalist ] o'<japan=Japan>"
+  },
+  "abstract" : {
+    "2" : "flo hyman<Flo_Hyman> was an olympic silver medalist and played professional volleyball in japan<Japan>\n"
+  }
+}, {
+  "entityIndex" : "entity11175",
+  "entityUrl" : "http://dbpedia.org/resource/Floyd_Abrams",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Floyd_Abrams) dbo:almaMater o'<Yale_Law_School>",
+    "2" : "s(Floyd_Abrams) dbo:almaMater o'<Cornell_University>",
+    "3" : "s(Floyd_Abrams) dbo:birthDate o'<1936-07-09>",
+    "4" : "s(Floyd_Abrams) dbo:birthDate o'<1936-7-9>",
+    "5" : "s(Floyd_Abrams) dbo:birthPlace o'<New_York_City>",
+    "6" : "s(Floyd_Abrams) dbo:birthYear o'<1936>",
+    "7" : "s(Floyd_Abrams) dbo:employer o'<Cahill_Gordon_&_Reindel>",
+    "8" : "s(Floyd_Abrams) dbo:knownFor o'<List_of_prominent_cases_argued_by_Floyd_Abrams>",
+    "9" : "s(Floyd_Abrams) dbo:nationality o'<United_States>",
+    "10" : "s(Floyd_Abrams) dbo:occupation o'<Lawyer>",
+    "11" : "s(Floyd_Abrams) dbo:occupation o'<Floyd_Abrams__1>",
+    "12" : "s(Floyd_Abrams) dbo:stateOfOrigin o'<United_States>",
+    "13" : "s(Floyd_Abrams) dbp:children o'<2>",
+    "14" : "s(Floyd_Abrams) dbp:description o'<\"The Open Mind - Again, Rights in Conflict \">",
+    "15" : "s(Floyd_Abrams) dbp:description o'<\"The Open Mind - Taking the Fifth \">",
+    "16" : "s(Floyd_Abrams) dbp:id o'<openmind_ep27>",
+    "17" : "s(Floyd_Abrams) dbp:id o'<openmind_ep7>",
+    "18" : "s(Floyd_Abrams) dbp:imageSize o'<200>",
+    "19" : "s(Floyd_Abrams) dbp:spouse o'<Efrat>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(floyd abrams=Floyd_Abrams) [expert on constitutional ] o'<law=Lawyer>"
+  },
+  "abstract" : {
+    "2" : "floyd abrams<Floyd_Abrams> is an expert on constitutional law<Lawyer>, and many arguments in the briefs floyd abrams<Floyd_Abrams> has written before the united states<United_States> supreme court have been adopted as united states<United_States> constitutional interpretative law<Lawyer> as it relates to the first amendment and free speech\n"
+  }
+}, {
+  "entityIndex" : "entity11176",
+  "entityUrl" : "http://dbpedia.org/resource/Fanny_Alger",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Fanny_Alger) dbo:birthDate o'<1816-9-30>",
+    "2" : "s(Fanny_Alger) dbo:deathDate o'<1889-11-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

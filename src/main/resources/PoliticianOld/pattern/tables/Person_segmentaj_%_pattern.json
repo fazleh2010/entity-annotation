@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11451",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Krieps",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11452",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%A0erbo_Rastoder",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11453",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%87ak%C4%B1rcal%C4%B1_Mehmet_Efe",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11454",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89lie_Lellouche",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11455",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89milie_Mondor",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11456",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%87a%C4%9Fan_Irmak",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

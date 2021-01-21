@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11453",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%85sa_Bjerkerot",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11454",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_de_Maul%C3%A9on",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11455",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%96rlygur_Hnefill_%C3%96rlygsson",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11456",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Colling",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11457",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Schaus",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11458",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81ngel_Cedillo_Hern%C3%A1ndez",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

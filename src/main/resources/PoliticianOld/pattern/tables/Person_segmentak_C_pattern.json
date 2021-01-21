@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "entity11470",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_Wilhelm_Braune",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Christian_Wilhelm_Braune) dbo:birthDate o'<1831-7-17>",
+    "2" : "s(Christian_Wilhelm_Braune) dbo:birthPlace o'<Leipzig>",
+    "3" : "s(Christian_Wilhelm_Braune) dbo:deathDate o'<1892-4-29>",
+    "4" : "s(Christian_Wilhelm_Braune) dbo:deathPlace o'<Leipzig>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11471",
+  "entityUrl" : "http://dbpedia.org/resource/Cole_Taylor",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Cole_Taylor) dbo:deathDate o'<1989-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11472",
+  "entityUrl" : "http://dbpedia.org/resource/Corsino_Fortes",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Corsino_Fortes) dbo:birthDate o'<1933-02-14>",
+    "2" : "s(Corsino_Fortes) dbo:birthDate o'<1933-2-14>",
+    "3" : "s(Corsino_Fortes) dbo:birthPlace o'<Mindelo>",
+    "4" : "s(Corsino_Fortes) dbo:birthPlace o'<Cape_Verde>",
+    "5" : "s(Corsino_Fortes) dbo:birthYear o'<1933>",
+    "6" : "s(Corsino_Fortes) dbo:deathDate o'<2015-07-24>",
+    "7" : "s(Corsino_Fortes) dbo:deathDate o'<2015-7-24>",
+    "8" : "s(Corsino_Fortes) dbo:deathPlace o'<Mindelo>",
+    "9" : "s(Corsino_Fortes) dbo:deathPlace o'<Cape_Verde>",
+    "10" : "s(Corsino_Fortes) dbo:deathYear o'<2015>",
+    "11" : "s(Corsino_Fortes) dbo:occupation o'<Writer>",
+    "12" : "s(Corsino_Fortes) dbo:occupation o'<Corsino_Fortes__1>",
+    "13" : "s(Corsino_Fortes) dbo:occupation o'<Diplomat>",
+    "14" : "s(Corsino_Fortes) dbo:occupation o'<Poet>",
+    "15" : "s(Corsino_Fortes) dbp:nationality o'<Cape Verdean>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11473",
+  "entityUrl" : "http://dbpedia.org/resource/Cyril_Hatton",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Cyril_Hatton) dbo:birthDate o'<1918-9-14>",
+    "2" : "s(Cyril_Hatton) dbo:deathDate o'<1987-7-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11474",
+  "entityUrl" : "http://dbpedia.org/resource/Cyril_Nri",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Cyril_Nri) dbo:birthDate o'<1961-04-25>",
+    "2" : "s(Cyril_Nri) dbo:birthDate o'<1961-4-25>",
+    "3" : "s(Cyril_Nri) dbo:birthName o'<Cyril Ikechukwu Nri>",
+    "4" : "s(Cyril_Nri) dbo:birthPlace o'<Nigeria>",
+    "5" : "s(Cyril_Nri) dbo:birthYear o'<1961>",
+    "6" : "s(Cyril_Nri) dbo:imdbId o'<0637666>",
+    "7" : "s(Cyril_Nri) dbo:occupation o'<Writer>",
+    "8" : "s(Cyril_Nri) dbo:occupation o'<Cyril_Nri__1>",
+    "9" : "s(Cyril_Nri) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11475",
+  "entityUrl" : "http://dbpedia.org/resource/Christine_Pelosi",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Christine_Pelosi) dbo:birthDate o'<1966-05-05>",
+    "2" : "s(Christine_Pelosi) dbo:birthDate o'<1966-1-1>",
+    "3" : "s(Christine_Pelosi) dbo:birthName o'<Christine Paule Pelosi>",
+    "4" : "s(Christine_Pelosi) dbo:birthPlace o'<United_States>",
+    "5" : "s(Christine_Pelosi) dbo:birthPlace o'<San_Francisco,_California>",
+    "6" : "s(Christine_Pelosi) dbo:birthYear o'<1966>",
+    "7" : "s(Christine_Pelosi) dbo:education o'<Georgetown_University>",
+    "8" : "s(Christine_Pelosi) dbo:education o'<University_of_California_Hastings_College_of_the_Law>",
+    "9" : "s(Christine_Pelosi) dbo:occupation o'<Christine_Pelosi__1>",
+    "10" : "s(Christine_Pelosi) dbo:parent o'<Nancy_Pelosi>",
+    "11" : "s(Christine_Pelosi) dbo:parent o'<Paul_Pelosi>",
+    "12" : "s(Christine_Pelosi) dbo:party o'<Democratic_Party_(United_States)>",
+    "13" : "s(Christine_Pelosi) dbo:relation o'<Alexandra_Pelosi>",
+    "14" : "s(Christine_Pelosi) dbo:relation o'<Paul_Pelosi,_Jr.>",
+    "15" : "s(Christine_Pelosi) dbo:religion o'<Roman_Catholicism>",
+    "16" : "s(Christine_Pelosi) dbp:children o'<Isabella Kaufman>",
+    "17" : "s(Christine_Pelosi) dbp:spouse o'<Peter Kaufman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

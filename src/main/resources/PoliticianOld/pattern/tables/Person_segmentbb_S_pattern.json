@@ -1,0 +1,94 @@
+[ {
+  "entityIndex" : "entity14350",
+  "entityUrl" : "http://dbpedia.org/resource/Salah_Hamouri",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Salah_Hamouri) dbo:birthDate o'<1985-1-1>",
+    "2" : "s(Salah_Hamouri) dbo:birthPlace o'<Jerusalem>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14351",
+  "entityUrl" : "http://dbpedia.org/resource/Stjepan_Peri%C4%87",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14352",
+  "entityUrl" : "http://dbpedia.org/resource/Stella_Kavendjii",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14353",
+  "entityUrl" : "http://dbpedia.org/resource/Shawn_Dulohery",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Shawn_Dulohery) dbo:birthDate o'<1965-5-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14354",
+  "entityUrl" : "http://dbpedia.org/resource/Su_Ning",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Su_Ning) dbo:birthDate o'<1953-01-31>",
+    "2" : "s(Su_Ning) dbo:birthDate o'<1953-1-1>",
+    "3" : "s(Su_Ning) dbo:birthPlace o'<Shanxi>",
+    "4" : "s(Su_Ning) dbo:birthPlace o'<Xiaoyi>",
+    "5" : "s(Su_Ning) dbo:birthYear o'<1953>",
+    "6" : "s(Su_Ning) dbo:deathDate o'<1991-04-29>",
+    "7" : "s(Su_Ning) dbo:deathDate o'<1991-4-29>",
+    "8" : "s(Su_Ning) dbo:deathPlace o'<Heilongjiang>",
+    "9" : "s(Su_Ning) dbo:deathPlace o'<Harbin>",
+    "10" : "s(Su_Ning) dbo:deathYear o'<1991>",
+    "11" : "s(Su_Ning) dbo:occupation o'<Major>",
+    "12" : "s(Su_Ning) dbo:occupation o'<Su_Ning__1>",
+    "13" : "s(Su_Ning) dbp:c o'<é™•è¥¿>",
+    "14" : "s(Su_Ning) dbp:c o'<å�•æ™“ç¦¾>",
+    "15" : "s(Su_Ning) dbp:c o'<å‘¨é‡Œäº¬>",
+    "16" : "s(Su_Ning) dbp:c o'<å­�ä¹‰>",
+    "17" : "s(Su_Ning) dbp:c o'<æ�œå®ˆæž—>",
+    "18" : "s(Su_Ning) dbp:c o'<è‹�ä»»éŸ§>",
+    "19" : "s(Su_Ning) dbp:c o'<è‹�å®�>",
+    "20" : "s(Su_Ning) dbp:c o'<è‹�å®�å›¢>",
+    "21" : "s(Su_Ning) dbp:c o'<èµµä¸ºæ�’>",
+    "22" : "s(Su_Ning) dbp:c o'<éƒ�ä¸­å¤™>",
+    "23" : "s(Su_Ning) dbp:p o'<DÃ¹ ShÇ’ulÃ­n>",
+    "24" : "s(Su_Ning) dbp:p o'<HÇŽo ZhÅ�ngsÃ¹>",
+    "25" : "s(Su_Ning) dbp:p o'<LÇšã€€XiÇŽohÃ©>",
+    "26" : "s(Su_Ning) dbp:p o'<ShÇŽn XÄ«>",
+    "27" : "s(Su_Ning) dbp:p o'<SÅ« NÃ­ng>",
+    "28" : "s(Su_Ning) dbp:p o'<SÅ« NÃ­ng TÃºan>",
+    "29" : "s(Su_Ning) dbp:p o'<SÅ« RÃ©nrÃ¨n>",
+    "30" : "s(Su_Ning) dbp:p o'<XiÃ o YÃ¬>",
+    "31" : "s(Su_Ning) dbp:p o'<ZhÃ o WÃ©ihÃ©ng>",
+    "32" : "s(Su_Ning) dbp:p o'<ZhÅ�u lÇ�jÄ«ng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14355",
+  "entityUrl" : "http://dbpedia.org/resource/Slava_(singer)",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Slava_(singer)) dbo:activeYearsStartYear o'<2001>",
+    "2" : "s(Slava_(singer)) dbo:birthDate o'<1980-05-15>",
+    "3" : "s(Slava_(singer)) dbo:birthDate o'<1980-5-15>",
+    "4" : "s(Slava_(singer)) dbo:birthName o'<Anastasia Vladimirovna Slanevskaya>",
+    "5" : "s(Slava_(singer)) dbo:birthPlace o'<Russian_SFSR>",
+    "6" : "s(Slava_(singer)) dbo:birthPlace o'<Moscow>",
+    "7" : "s(Slava_(singer)) dbo:birthPlace o'<Soviet_Union>",
+    "8" : "s(Slava_(singer)) dbo:birthYear o'<1980>",
+    "9" : "s(Slava_(singer)) dbo:occupation o'<Slava_(singer)__1>",
+    "10" : "s(Slava_(singer)) dbp:children o'<Two daughters>",
+    "11" : "s(Slava_(singer)) dbp:parents o'<Vladimir Slanevsky>",
+    "12" : "s(Slava_(singer)) dbp:spouse o'<Konstantin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

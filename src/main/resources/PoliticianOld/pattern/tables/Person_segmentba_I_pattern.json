@@ -1,0 +1,66 @@
+[ {
+  "entityIndex" : "entity14122",
+  "entityUrl" : "http://dbpedia.org/resource/Irina_Kalimbet",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Irina_Kalimbet) dbo:birthDate o'<1968-2-29>",
+    "2" : "s(Irina_Kalimbet) dbo:birthPlace o'<Kiev>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14123",
+  "entityUrl" : "http://dbpedia.org/resource/Ilir_Bozhiqi",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Ilir_Bozhiqi) dbo:birthDate o'<1965-5-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14124",
+  "entityUrl" : "http://dbpedia.org/resource/Ivo_%C5%A0krabalo",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14125",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Edmunds",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Ian_Edmunds) dbo:birthDate o'<1961-8-25>",
+    "2" : "s(Ian_Edmunds) dbo:country o'<Australia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14126",
+  "entityUrl" : "http://dbpedia.org/resource/Ioana_Badea",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Ioana_Badea) dbo:birthDate o'<1964-03-22>",
+    "2" : "s(Ioana_Badea) dbo:birthDate o'<1964-3-22>",
+    "3" : "s(Ioana_Badea) dbo:birthPlace o'<OdobeÈ™ti>",
+    "4" : "s(Ioana_Badea) dbo:birthPlace o'<OdobeÅŸti>",
+    "5" : "s(Ioana_Badea) dbo:height o'<180.0>",
+    "6" : "s(Ioana_Badea) dbo:height o'<1.8>",
+    "7" : "s(Ioana_Badea) dbo:weight o'<78.0>",
+    "8" : "s(Ioana_Badea) dbo:weight o'<78000.0>",
+    "9" : "s(Ioana_Badea) dbp:club o'<Steaua Bucuresti>",
+    "10" : "s(Ioana_Badea) dbp:showMedals o'<yes>",
+    "11" : "s(Ioana_Badea) dbp:sport o'<Rowing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14127",
+  "entityUrl" : "http://dbpedia.org/resource/Isabelle_Cendier_Ajaguin",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Isabelle_Cendier_Ajaguin) dbo:birthDate o'<1977-1-1>",
+    "2" : "s(Isabelle_Cendier_Ajaguin) dbo:birthPlace o'<Le_Port,_RÃ©union>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

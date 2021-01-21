@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity11837",
+  "entityUrl" : "http://dbpedia.org/resource/Jonathan_Grossman",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Jonathan_Grossman) dbo:birthDate o'<1967-4-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11838",
+  "entityUrl" : "http://dbpedia.org/resource/Jozef_Miloslav_Hurban",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Jozef_Miloslav_Hurban) dbo:birthDate o'<1817-03-19>",
+    "2" : "s(Jozef_Miloslav_Hurban) dbo:birthDate o'<1817-3-19>",
+    "3" : "s(Jozef_Miloslav_Hurban) dbo:birthPlace o'<Austrian_Empire>",
+    "4" : "s(Jozef_Miloslav_Hurban) dbo:birthPlace o'<Kingdom_of_Hungary>",
+    "5" : "s(Jozef_Miloslav_Hurban) dbo:birthPlace o'<Beckov>",
+    "6" : "s(Jozef_Miloslav_Hurban) dbo:birthYear o'<1817>",
+    "7" : "s(Jozef_Miloslav_Hurban) dbo:deathDate o'<1886-02-21>",
+    "8" : "s(Jozef_Miloslav_Hurban) dbo:deathDate o'<1888-2-21>",
+    "9" : "s(Jozef_Miloslav_Hurban) dbo:deathPlace o'<Austria-Hungary>",
+    "10" : "s(Jozef_Miloslav_Hurban) dbo:deathPlace o'<Kingdom_of_Hungary>",
+    "11" : "s(Jozef_Miloslav_Hurban) dbo:deathPlace o'<HlbokÃ©>",
+    "12" : "s(Jozef_Miloslav_Hurban) dbo:deathYear o'<1886>",
+    "13" : "s(Jozef_Miloslav_Hurban) dbo:ethnicity o'<Slovaks>",
+    "14" : "s(Jozef_Miloslav_Hurban) dbo:residence o'<Slovakia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11839",
+  "entityUrl" : "http://dbpedia.org/resource/Joel_Breton",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Joel_Breton) dbo:birthDate o'<1971-09-26>",
+    "2" : "s(Joel_Breton) dbo:birthDate o'<1971-9-26>",
+    "3" : "s(Joel_Breton) dbo:birthName o'<Joel Maximilian Breton>",
+    "4" : "s(Joel_Breton) dbo:birthYear o'<1971>",
+    "5" : "s(Joel_Breton) dbo:imdbId o'<2315082>",
+    "6" : "s(Joel_Breton) dbo:occupation o'<Disc_jockey>",
+    "7" : "s(Joel_Breton) dbo:occupation o'<Game_designer>",
+    "8" : "s(Joel_Breton) dbo:occupation o'<Joel_Breton__1>",
+    "9" : "s(Joel_Breton) dbo:occupation o'<Entrepreneur>",
+    "10" : "s(Joel_Breton) dbo:occupation o'<Virtual_Reality>",
+    "11" : "s(Joel_Breton) dbo:occupation o'<Game_producer>",
+    "12" : "s(Joel_Breton) dbp:imageSize o'<290>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11840",
+  "entityUrl" : "http://dbpedia.org/resource/Jake_Gibb",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Jake_Gibb) dbo:birthDate o'<1976-02-06>",
+    "2" : "s(Jake_Gibb) dbo:birthDate o'<1976-2-6>",
+    "3" : "s(Jake_Gibb) dbo:birthPlace o'<United_States>",
+    "4" : "s(Jake_Gibb) dbo:birthPlace o'<Bountiful,_Utah>",
+    "5" : "s(Jake_Gibb) dbo:height o'<200.66>",
+    "6" : "s(Jake_Gibb) dbo:height o'<2.0066>",
+    "7" : "s(Jake_Gibb) dbo:hometown o'<United_States>",
+    "8" : "s(Jake_Gibb) dbo:hometown o'<Bountiful,_Utah>",
+    "9" : "s(Jake_Gibb) dbo:nationality o'<United_States>",
+    "10" : "s(Jake_Gibb) dbp:before o'<Inaugural>",
+    "11" : "s(Jake_Gibb) dbp:currentteammate o'<Casey_Patterson_(beach_volleyball)>",
+    "12" : "s(Jake_Gibb) dbp:title o'<FIVB_Beach_Volleyball_World_Tour>",
+    "13" : "s(Jake_Gibb) dbp:title o'<(with )>",
+    "14" : "s(Jake_Gibb) dbp:title o'<(alongside  Sean Rosenthal)>",
+    "15" : "s(Jake_Gibb) dbp:years o'<2005>",
+    "16" : "s(Jake_Gibb) dbp:years o'<2006>",
+    "17" : "s(Jake_Gibb) dbp:years o'<2012>",
+    "18" : "s(Jake_Gibb) dbp:years o'<2013>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11841",
+  "entityUrl" : "http://dbpedia.org/resource/Jerome_Verdier",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11842",
+  "entityUrl" : "http://dbpedia.org/resource/Jutta_Niehaus",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Jutta_Niehaus) dbo:birthDate o'<1964-10-01>",
+    "2" : "s(Jutta_Niehaus) dbo:birthDate o'<1964-10-1>",
+    "3" : "s(Jutta_Niehaus) dbo:birthPlace o'<West_Germany>",
+    "4" : "s(Jutta_Niehaus) dbo:birthPlace o'<Bocholt,_Germany>",
+    "5" : "s(Jutta_Niehaus) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

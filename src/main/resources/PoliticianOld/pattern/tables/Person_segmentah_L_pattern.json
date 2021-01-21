@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity11035",
+  "entityUrl" : "http://dbpedia.org/resource/Lloyd_Leith",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Lloyd_Leith) dbo:birthDate o'<1902-12-07>",
+    "2" : "s(Lloyd_Leith) dbo:birthDate o'<1902-12-7>",
+    "3" : "s(Lloyd_Leith) dbo:birthPlace o'<California>",
+    "4" : "s(Lloyd_Leith) dbo:birthPlace o'<San_Francisco>",
+    "5" : "s(Lloyd_Leith) dbo:birthYear o'<1902>",
+    "6" : "s(Lloyd_Leith) dbo:deathDate o'<1979-09-30>",
+    "7" : "s(Lloyd_Leith) dbo:deathDate o'<1979-9-30>",
+    "8" : "s(Lloyd_Leith) dbo:deathPlace o'<San_Francisco>",
+    "9" : "s(Lloyd_Leith) dbo:deathYear o'<1979>",
+    "10" : "s(Lloyd_Leith) dbo:occupation o'<Lloyd_Leith__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11036",
+  "entityUrl" : "http://dbpedia.org/resource/Leslie_Earl_Simon",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Leslie_Earl_Simon) dbo:birthDate o'<1900-8-11>",
+    "2" : "s(Leslie_Earl_Simon) dbo:deathDate o'<1983-10-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11037",
+  "entityUrl" : "http://dbpedia.org/resource/Lou_Pai",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Lou_Pai) dbo:birthDate o'<1946-0-0>",
+    "2" : "s(Lou_Pai) dbo:birthPlace o'<China>",
+    "3" : "s(Lou_Pai) dbo:birthPlace o'<Nanjing>",
+    "4" : "s(Lou_Pai) dbo:birthYear o'<1947>",
+    "5" : "s(Lou_Pai) dbo:nationality o'<United_States>",
+    "6" : "s(Lou_Pai) dbo:occupation o'<Lou_Pai__1>",
+    "7" : "s(Lou_Pai) dbo:occupation o'<Business_executive>",
+    "8" : "s(Lou_Pai) dbo:stateOfOrigin o'<United_States>",
+    "9" : "s(Lou_Pai) dbp:c o'<ç™½éœ²é¾�>",
+    "10" : "s(Lou_Pai) dbp:children o'<3>",
+    "11" : "s(Lou_Pai) dbp:nativeName o'<ç™½éœ²é¾�>",
+    "12" : "s(Lou_Pai) dbp:nativeNameLang o'<zh>",
+    "13" : "s(Lou_Pai) dbp:p o'<BÃ¡i LÃ²ulÃ³ng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11038",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Held",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Louis_Held) dbo:birthDate o'<1851-12-1>",
+    "2" : "s(Louis_Held) dbo:birthPlace o'<Berlin>",
+    "3" : "s(Louis_Held) dbo:deathDate o'<1927-4-17>",
+    "4" : "s(Louis_Held) dbo:deathPlace o'<Weimar>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11039",
+  "entityUrl" : "http://dbpedia.org/resource/Liz_Fuller",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Liz_Fuller) dbo:birthDate o'<1975-12-30>",
+    "2" : "s(Liz_Fuller) dbo:birthName o'<Elizabeth Angela Fuller>",
+    "3" : "s(Liz_Fuller) dbo:birthPlace o'<Swansea>",
+    "4" : "s(Liz_Fuller) dbo:birthPlace o'<Wales>",
+    "5" : "s(Liz_Fuller) dbo:birthYear o'<1975>",
+    "6" : "s(Liz_Fuller) dbo:imdbId o'<2022849>",
+    "7" : "s(Liz_Fuller) dbo:occupation o'<Liz_Fuller__1>",
+    "8" : "s(Liz_Fuller) dbo:residence o'<California>",
+    "9" : "s(Liz_Fuller) dbo:residence o'<Los_Angeles>",
+    "10" : "s(Liz_Fuller) dbp:name o'<Liz Fuller>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11040",
+  "entityUrl" : "http://dbpedia.org/resource/Loretta_Tofani",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Loretta_Tofani) dbo:birthDate o'<1953-2-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

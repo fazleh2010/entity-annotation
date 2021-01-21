@@ -1,0 +1,110 @@
+[ {
+  "entityIndex" : "entity11353",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_Siegel",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Isaac_Siegel) dbo:birthDate o'<1880-4-12>",
+    "2" : "s(Isaac_Siegel) dbo:deathDate o'<1947-6-29>",
+    "3" : "s(Isaac_Siegel) dbp:after o'<Fiorello_H._LaGuardia>",
+    "4" : "s(Isaac_Siegel) dbp:before o'<Jacob_A._Cantor>",
+    "5" : "s(Isaac_Siegel) dbp:district o'<20>",
+    "6" : "s(Isaac_Siegel) dbp:state o'<New York>",
+    "7" : "s(Isaac_Siegel) dbp:years o'<1915>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11354",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Tsikhan",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Ivan_Tsikhan) dbo:birthDate o'<1976-07-24>",
+    "2" : "s(Ivan_Tsikhan) dbo:birthDate o'<1976-7-24>",
+    "3" : "s(Ivan_Tsikhan) dbo:birthPlace o'<Soviet_Union>",
+    "4" : "s(Ivan_Tsikhan) dbo:birthPlace o'<HloÅ­sieviÄ�y>",
+    "5" : "s(Ivan_Tsikhan) dbo:birthPlace o'<Q13029587>",
+    "6" : "s(Ivan_Tsikhan) dbo:height o'<186.0>",
+    "7" : "s(Ivan_Tsikhan) dbo:height o'<1.86>",
+    "8" : "s(Ivan_Tsikhan) dbo:nationality o'<Belarusians>",
+    "9" : "s(Ivan_Tsikhan) dbo:stateOfOrigin o'<Belarusians>",
+    "10" : "s(Ivan_Tsikhan) dbo:weight o'<110.0>",
+    "11" : "s(Ivan_Tsikhan) dbo:weight o'<110000.0>",
+    "12" : "s(Ivan_Tsikhan) dbp:event o'<Hammer throw>",
+    "13" : "s(Ivan_Tsikhan) dbp:headercolor o'<lightsteelblue>",
+    "14" : "s(Ivan_Tsikhan) dbp:imageSize o'<150>",
+    "15" : "s(Ivan_Tsikhan) dbp:nativeName o'<Ð†Ð²Ð°Ð½ Ð Ñ‹Ð³Ð¾Ñ€Ð°Ð²Ñ–Ñ‡ Ð¦Ñ–Ñ…Ð°Ð½>",
+    "16" : "s(Ivan_Tsikhan) dbp:pb o'<84.53 m>",
+    "17" : "s(Ivan_Tsikhan) dbp:showMedals o'<yes>",
+    "18" : "s(Ivan_Tsikhan) dbp:sport o'<Athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11355",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_the_Armenian",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Isaac_the_Armenian) dbo:birthPlace o'<Armenia>",
+    "2" : "s(Isaac_the_Armenian) dbo:deathDate o'<643-1-1>",
+    "3" : "s(Isaac_the_Armenian) dbo:deathPlace o'<Panaro_(river)>",
+    "4" : "s(Isaac_the_Armenian) dbp:title o'<Exarch_of_Ravenna>",
+    "5" : "s(Isaac_the_Armenian) dbp:years o'<c. 625 â€“ c.643>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11356",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Andreyevich_Tolstoy",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Ivan_Andreyevich_Tolstoy) dbo:birthDate o'<1644-1-1>",
+    "2" : "s(Ivan_Andreyevich_Tolstoy) dbo:deathDate o'<1713-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11357",
+  "entityUrl" : "http://dbpedia.org/resource/Iain_Cuthbertson",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Iain_Cuthbertson) dbo:activeYearsEndYear o'<2003>",
+    "2" : "s(Iain_Cuthbertson) dbo:activeYearsStartYear o'<1955>",
+    "3" : "s(Iain_Cuthbertson) dbo:birthDate o'<1930-01-04>",
+    "4" : "s(Iain_Cuthbertson) dbo:birthDate o'<1930-1-4>",
+    "5" : "s(Iain_Cuthbertson) dbo:birthPlace o'<Scotland>",
+    "6" : "s(Iain_Cuthbertson) dbo:birthPlace o'<Glasgow>",
+    "7" : "s(Iain_Cuthbertson) dbo:birthPlace o'<Lanarkshire>",
+    "8" : "s(Iain_Cuthbertson) dbo:birthYear o'<1930>",
+    "9" : "s(Iain_Cuthbertson) dbo:deathDate o'<2009-09-04>",
+    "10" : "s(Iain_Cuthbertson) dbo:deathDate o'<2009-9-4>",
+    "11" : "s(Iain_Cuthbertson) dbo:deathPlace o'<Scotland>",
+    "12" : "s(Iain_Cuthbertson) dbo:deathPlace o'<Glasgow>",
+    "13" : "s(Iain_Cuthbertson) dbo:deathYear o'<2009>",
+    "14" : "s(Iain_Cuthbertson) dbo:imdbId o'<0193868>",
+    "15" : "s(Iain_Cuthbertson) dbo:occupation o'<Iain_Cuthbertson__1>",
+    "16" : "s(Iain_Cuthbertson) dbo:spouse o'<Anne_Kristen>",
+    "17" : "s(Iain_Cuthbertson) dbp:after o'<Sandy_Gall>",
+    "18" : "s(Iain_Cuthbertson) dbp:before o'<Michael_Barratt_(television_presenter)>",
+    "19" : "s(Iain_Cuthbertson) dbp:name o'<Iain Cuthbertson>",
+    "20" : "s(Iain_Cuthbertson) dbp:title o'<Rector_of_the_University_of_Aberdeen>",
+    "21" : "s(Iain_Cuthbertson) dbp:years o'<1975>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(iain cuthbertson=Iain_Cuthbertson) [4 january 1930  4 ] o'<scottish character=Scotland>"
+  },
+  "abstract" : {
+    "1" : "iain cuthbertson<Iain_Cuthbertson> (4 january 1930 â€“ 4 september 2009) was a scottish character<Scotland> actor"
+  }
+}, {
+  "entityIndex" : "entity11358",
+  "entityUrl" : "http://dbpedia.org/resource/Ignazio_Porro",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Ignazio_Porro) dbo:birthDate o'<1801-11-25>",
+    "2" : "s(Ignazio_Porro) dbo:birthPlace o'<Pinerolo>",
+    "3" : "s(Ignazio_Porro) dbo:deathDate o'<1875-10-8>",
+    "4" : "s(Ignazio_Porro) dbo:deathPlace o'<Milan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

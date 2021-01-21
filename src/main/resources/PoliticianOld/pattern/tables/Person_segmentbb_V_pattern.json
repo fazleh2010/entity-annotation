@@ -1,0 +1,80 @@
+[ {
+  "entityIndex" : "entity14368",
+  "entityUrl" : "http://dbpedia.org/resource/Valeriy_Shomin",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Valeriy_Shomin) dbo:birthDate o'<1971-7-31>",
+    "2" : "s(Valeriy_Shomin) dbo:birthPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14369",
+  "entityUrl" : "http://dbpedia.org/resource/Vittorio_Castellano",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Vittorio_Castellano) dbo:birthDate o'<1909-6-29>",
+    "2" : "s(Vittorio_Castellano) dbo:deathDate o'<1997-12-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14370",
+  "entityUrl" : "http://dbpedia.org/resource/Verner_Thom%C3%A9",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14371",
+  "entityUrl" : "http://dbpedia.org/resource/Verplanck_Van_Antwerp",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Verplanck_Van_Antwerp) dbo:birthDate o'<1807-6-8>",
+    "2" : "s(Verplanck_Van_Antwerp) dbo:deathDate o'<1875-12-2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14372",
+  "entityUrl" : "http://dbpedia.org/resource/Vineet_Nayyar",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Vineet_Nayyar) dbo:birthDate o'<1939-0-0>",
+    "2" : "s(Vineet_Nayyar) dbo:birthYear o'<1939>",
+    "3" : "s(Vineet_Nayyar) dbo:citizenship o'<India>",
+    "4" : "s(Vineet_Nayyar) dbo:knownFor o'<Mahindra_Satyam>",
+    "5" : "s(Vineet_Nayyar) dbo:nationality o'<India>",
+    "6" : "s(Vineet_Nayyar) dbo:stateOfOrigin o'<India>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14373",
+  "entityUrl" : "http://dbpedia.org/resource/Vantuir",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Vantuir) dbo:birthDate o'<1949-11-16>",
+    "2" : "s(Vantuir) dbo:birthPlace o'<Belo_Horizonte>",
+    "3" : "s(Vantuir) dbo:careerStation o'<Vantuir__1>",
+    "4" : "s(Vantuir) dbo:careerStation o'<Vantuir__2>",
+    "5" : "s(Vantuir) dbo:careerStation o'<Vantuir__3>",
+    "6" : "s(Vantuir) dbo:careerStation o'<Vantuir__4>",
+    "7" : "s(Vantuir) dbo:careerStation o'<Vantuir__5>",
+    "8" : "s(Vantuir) dbo:careerStation o'<Vantuir__6>",
+    "9" : "s(Vantuir) dbo:careerStation o'<Vantuir__7>",
+    "10" : "s(Vantuir) dbo:careerStation o'<Vantuir__8>",
+    "11" : "s(Vantuir) dbo:careerStation o'<Vantuir__9>",
+    "12" : "s(Vantuir) dbo:height o'<181.0>",
+    "13" : "s(Vantuir) dbo:height o'<1.81>",
+    "14" : "s(Vantuir) dbo:managerClub o'<Clube_AtlÃ©tico_Mineiro>",
+    "15" : "s(Vantuir) dbo:team o'<GrÃªmio_Foot-Ball_Porto_Alegrense>",
+    "16" : "s(Vantuir) dbo:team o'<Rio_Branco_AtlÃ©tico_Clube>",
+    "17" : "s(Vantuir) dbo:team o'<Clube_de_Regatas_do_Flamengo>",
+    "18" : "s(Vantuir) dbo:team o'<Brazil_national_football_team>",
+    "19" : "s(Vantuir) dbo:team o'<Clube_AtlÃ©tico_Mineiro>",
+    "20" : "s(Vantuir) dbo:team o'<AmÃ©rica_Futebol_Clube_(SP)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

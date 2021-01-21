@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity14453",
+  "entityUrl" : "http://dbpedia.org/resource/Isabella_Binney_Cogswell",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Isabella_Binney_Cogswell) dbo:birthDate o'<1819-07-06>",
+    "2" : "s(Isabella_Binney_Cogswell) dbo:birthDate o'<1819-7-6>",
+    "3" : "s(Isabella_Binney_Cogswell) dbo:birthPlace o'<Nova_Scotia>",
+    "4" : "s(Isabella_Binney_Cogswell) dbo:birthPlace o'<Halifax,_Nova_Scotia>",
+    "5" : "s(Isabella_Binney_Cogswell) dbo:birthYear o'<1819>",
+    "6" : "s(Isabella_Binney_Cogswell) dbo:deathDate o'<1874-12-06>",
+    "7" : "s(Isabella_Binney_Cogswell) dbo:deathDate o'<1874-12-6>",
+    "8" : "s(Isabella_Binney_Cogswell) dbo:deathPlace o'<Nova_Scotia>",
+    "9" : "s(Isabella_Binney_Cogswell) dbo:deathYear o'<1874>",
+    "10" : "s(Isabella_Binney_Cogswell) dbo:nationality o'<Canada>",
+    "11" : "s(Isabella_Binney_Cogswell) dbo:relation o'<Henry_Hezekiah_Cogswell>",
+    "12" : "s(Isabella_Binney_Cogswell) dbp:knownFor o'<philanthropy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14454",
+  "entityUrl" : "http://dbpedia.org/resource/Ildik%C3%B3_Pelczn%C3%A9_G%C3%A1ll",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14455",
+  "entityUrl" : "http://dbpedia.org/resource/Imran_Hasnee",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Imran_Hasnee) dbo:activeYearsStartYear o'<2006>",
+    "2" : "s(Imran_Hasnee) dbo:birthDate o'<1972-12-01>",
+    "3" : "s(Imran_Hasnee) dbo:birthDate o'<1968-12-1>",
+    "4" : "s(Imran_Hasnee) dbo:birthYear o'<1972>",
+    "5" : "s(Imran_Hasnee) dbo:nationality o'<India>",
+    "6" : "s(Imran_Hasnee) dbo:occupation o'<Imran_Hasnee__1>",
+    "7" : "s(Imran_Hasnee) dbo:occupation o'<Actor>",
+    "8" : "s(Imran_Hasnee) dbo:stateOfOrigin o'<India>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14456",
+  "entityUrl" : "http://dbpedia.org/resource/Ingeborg_Skeel",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ingeborg_Skeel) dbo:deathDate o'<1604-10-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14457",
+  "entityUrl" : "http://dbpedia.org/resource/Issa_Laye_Thiaw",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Issa_Laye_Thiaw) dbo:birthDate o'<1943-1-1>",
+    "2" : "s(Issa_Laye_Thiaw) dbo:birthName o'<Issa Laye Thiaw>",
+    "3" : "s(Issa_Laye_Thiaw) dbo:birthPlace o'<Thies_region>",
+    "4" : "s(Issa_Laye_Thiaw) dbo:birthPlace o'<Senegal>",
+    "5" : "s(Issa_Laye_Thiaw) dbo:birthPlace o'<ThiÃ¨s_Region>",
+    "6" : "s(Issa_Laye_Thiaw) dbo:birthYear o'<1943>",
+    "7" : "s(Issa_Laye_Thiaw) dbo:ethnicity o'<Serer_people>",
+    "8" : "s(Issa_Laye_Thiaw) dbo:knownFor o'<Serer_religion>",
+    "9" : "s(Issa_Laye_Thiaw) dbo:occupation o'<Issa_Laye_Thiaw__1>",
+    "10" : "s(Issa_Laye_Thiaw) dbo:occupation o'<Author>",
+    "11" : "s(Issa_Laye_Thiaw) dbo:occupation o'<Historian>",
+    "12" : "s(Issa_Laye_Thiaw) dbo:occupation o'<List_of_essayists>",
+    "13" : "s(Issa_Laye_Thiaw) dbo:occupation o'<Theologian>",
+    "14" : "s(Issa_Laye_Thiaw) dbo:religion o'<Serer_religion>",
+    "15" : "s(Issa_Laye_Thiaw) dbp:imageSize o'<1>",
+    "16" : "s(Issa_Laye_Thiaw) dbp:nationality o'<Senegalese>",
+    "17" : "s(Issa_Laye_Thiaw) dbp:notableWorks o'<\"La femme Seereer\",>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14458",
+  "entityUrl" : "http://dbpedia.org/resource/Ingeborg_Schwenzer",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ingeborg_Schwenzer) dbo:birthDate o'<1951-10-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

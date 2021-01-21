@@ -1,0 +1,162 @@
+[ {
+  "entityIndex" : "entity10949",
+  "entityUrl" : "http://dbpedia.org/resource/Yaphet_Kotto",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Yaphet_Kotto) dbo:activeYearsEndYear o'<2014>",
+    "2" : "s(Yaphet_Kotto) dbo:activeYearsStartYear o'<1963>",
+    "3" : "s(Yaphet_Kotto) dbo:birthDate o'<1937-11-15>",
+    "4" : "s(Yaphet_Kotto) dbo:birthDate o'<1939-11-15>",
+    "5" : "s(Yaphet_Kotto) dbo:birthName o'<Yaphet Frederick Kotto>",
+    "6" : "s(Yaphet_Kotto) dbo:birthPlace o'<United_States>",
+    "7" : "s(Yaphet_Kotto) dbo:birthPlace o'<New_York_City>",
+    "8" : "s(Yaphet_Kotto) dbo:birthPlace o'<New_York_(state)>",
+    "9" : "s(Yaphet_Kotto) dbo:birthYear o'<1939>",
+    "10" : "s(Yaphet_Kotto) dbo:nationality o'<United_States>",
+    "11" : "s(Yaphet_Kotto) dbo:occupation o'<Yaphet_Kotto__1>",
+    "12" : "s(Yaphet_Kotto) dbo:occupation o'<Actor>",
+    "13" : "s(Yaphet_Kotto) dbo:stateOfOrigin o'<United_States>",
+    "14" : "s(Yaphet_Kotto) dbp:spouse o'<1962>",
+    "15" : "s(Yaphet_Kotto) dbp:spouse o'<1975>",
+    "16" : "s(Yaphet_Kotto) dbp:spouse o'<1998>",
+    "17" : "s(Yaphet_Kotto) dbp:spouse o'<Antoinette Pettyjohn>",
+    "18" : "s(Yaphet_Kotto) dbp:spouse o'<Rita Ingrid Dittman>",
+    "19" : "s(Yaphet_Kotto) dbp:spouse o'<Tessie Sinahon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10950",
+  "entityUrl" : "http://dbpedia.org/resource/Y%C5%8Djir%C5%8D_Takita",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10951",
+  "entityUrl" : "http://dbpedia.org/resource/Yegor_Gaidar",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Yegor_Gaidar) dbo:almaMater o'<Lomonosov_Moscow_State_University>",
+    "2" : "s(Yegor_Gaidar) dbo:associate o'<Boris_Fyodorov>",
+    "3" : "s(Yegor_Gaidar) dbo:associate o'<Vladimir_Shumeyko>",
+    "4" : "s(Yegor_Gaidar) dbo:associate o'<Oleg_Soskovets>",
+    "5" : "s(Yegor_Gaidar) dbo:birthDate o'<1956-03-19>",
+    "6" : "s(Yegor_Gaidar) dbo:birthDate o'<1956-3-19>",
+    "7" : "s(Yegor_Gaidar) dbo:birthPlace o'<Moscow>",
+    "8" : "s(Yegor_Gaidar) dbo:birthPlace o'<Soviet_Union>",
+    "9" : "s(Yegor_Gaidar) dbo:birthPlace o'<Russian_Soviet_Federative_Socialist_Republic>",
+    "10" : "s(Yegor_Gaidar) dbo:child o'<Maria_Gaidar>",
+    "11" : "s(Yegor_Gaidar) dbo:deathDate o'<2009-12-16>",
+    "12" : "s(Yegor_Gaidar) dbo:deathPlace o'<Odintsovo>",
+    "13" : "s(Yegor_Gaidar) dbo:deathPlace o'<Moscow_Oblast>",
+    "14" : "s(Yegor_Gaidar) dbo:office o'<Prime Minister of Russia>",
+    "15" : "s(Yegor_Gaidar) dbo:orderInOffice o'<First Deputy Prime Minister of Russia>",
+    "16" : "s(Yegor_Gaidar) dbo:orderInOffice o'<1stMinister of Economy and Finance of the RSFSR>",
+    "17" : "s(Yegor_Gaidar) dbo:orderInOffice o'<1stMinister of Finance of Russia>",
+    "18" : "s(Yegor_Gaidar) dbo:orderInOffice o'<Chairman of Democratic Choice of Russia>",
+    "19" : "s(Yegor_Gaidar) dbo:otherParty o'<Communist_Party_of_the_Soviet_Union>",
+    "20" : "s(Yegor_Gaidar) dbo:otherParty o'<Democratic_Choice_of_Russia>",
+    "21" : "s(Yegor_Gaidar) dbo:party o'<Union_of_Rightist_Forces>",
+    "22" : "s(Yegor_Gaidar) dbo:predecessor o'<Boris_Yeltsin>",
+    "23" : "s(Yegor_Gaidar) dbo:predecessor o'<Gennady_Burbulis>",
+    "24" : "s(Yegor_Gaidar) dbo:predecessor o'<Vladimir_Shumeyko>",
+    "25" : "s(Yegor_Gaidar) dbo:president o'<Boris_Yeltsin>",
+    "26" : "s(Yegor_Gaidar) dbo:primeMinister o'<Prime_minister>",
+    "27" : "s(Yegor_Gaidar) dbo:primeMinister o'<Boris_Yeltsin>",
+    "28" : "s(Yegor_Gaidar) dbo:primeMinister o'<Viktor_Chernomyrdin>",
+    "29" : "s(Yegor_Gaidar) dbo:signature o'<Signature of Yegor Gaidar.png>",
+    "30" : "s(Yegor_Gaidar) dbo:successor o'<Oleg_Lobov>",
+    "31" : "s(Yegor_Gaidar) dbo:successor o'<Vladimir_Shumeyko>",
+    "32" : "s(Yegor_Gaidar) dbo:successor o'<Viktor_Chernomyrdin>",
+    "33" : "s(Yegor_Gaidar) dbo:termPeriod o'<Yegor_Gaidar__1>",
+    "34" : "s(Yegor_Gaidar) dbo:termPeriod o'<Yegor_Gaidar__2>",
+    "35" : "s(Yegor_Gaidar) dbo:termPeriod o'<Yegor_Gaidar__3>",
+    "36" : "s(Yegor_Gaidar) dbo:termPeriod o'<Yegor_Gaidar__4>",
+    "37" : "s(Yegor_Gaidar) dbp:after o'<Viktor_Chernomyrdin>",
+    "38" : "s(Yegor_Gaidar) dbp:before o'<Boris_Yeltsin>",
+    "39" : "s(Yegor_Gaidar) dbp:birthName o'<Yegor Timurovich Gaidar>",
+    "40" : "s(Yegor_Gaidar) dbp:imagesize o'<240>",
+    "41" : "s(Yegor_Gaidar) dbp:nativeName o'<Ð•Ð³Ð¾Ñ€ Ð¢Ð¸Ð¼ÑƒÑ€Ð¾Ð²Ð¸Ñ‡ Ð“Ð°Ð¹Ð´Ð°Ñ€>",
+    "42" : "s(Yegor_Gaidar) dbp:nativeNameLang o'<ru>",
+    "43" : "s(Yegor_Gaidar) dbp:predecessor o'<Position established>",
+    "44" : "s(Yegor_Gaidar) dbp:spouse o'<Irina Smirnova>",
+    "45" : "s(Yegor_Gaidar) dbp:spouse o'<Maria Strugatskaya>",
+    "46" : "s(Yegor_Gaidar) dbp:successor o'<Position abolished>",
+    "47" : "s(Yegor_Gaidar) dbp:successor o'<Vasily Barchuk>",
+    "48" : "s(Yegor_Gaidar) dbp:termEnd o'<2001>",
+    "49" : "s(Yegor_Gaidar) dbp:termEnd o'<1992-12-15>",
+    "50" : "s(Yegor_Gaidar) dbp:termEnd o'<(Acting)>",
+    "51" : "s(Yegor_Gaidar) dbp:termStart o'<1994>",
+    "52" : "s(Yegor_Gaidar) dbp:termStart o'<1992-06-15>",
+    "53" : "s(Yegor_Gaidar) dbp:title o'<Prime_Minister_of_Russia>",
+    "54" : "s(Yegor_Gaidar) dbp:title o'<Acting>",
+    "55" : "s(Yegor_Gaidar) dbp:years o'<--06-15>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(yegor gaidar=Yegor_Gaidar) [architect of ] o'<russia=Russian_Soviet_Federative_Socialist_Republic>"
+  },
+  "abstract" : {
+    "3" : "yegor gaidar<Yegor_Gaidar> was the architect of the controversial shock therapy reforms administered in russia<Russian_Soviet_Federative_Socialist_Republic> after the dissolution of the soviet union<Soviet_Union>, which brought him both praise and harsh criticism\n"
+  }
+}, {
+  "entityIndex" : "entity10952",
+  "entityUrl" : "http://dbpedia.org/resource/Yuri_Vizbor",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Yuri_Vizbor) dbo:birthDate o'<1934-06-20>",
+    "2" : "s(Yuri_Vizbor) dbo:birthDate o'<1934-6-20>",
+    "3" : "s(Yuri_Vizbor) dbo:birthPlace o'<Moscow>",
+    "4" : "s(Yuri_Vizbor) dbo:birthYear o'<1934>",
+    "5" : "s(Yuri_Vizbor) dbo:deathDate o'<1984-09-17>",
+    "6" : "s(Yuri_Vizbor) dbo:deathDate o'<1984-9-17>",
+    "7" : "s(Yuri_Vizbor) dbo:deathPlace o'<Moscow>",
+    "8" : "s(Yuri_Vizbor) dbo:deathYear o'<1984>",
+    "9" : "s(Yuri_Vizbor) dbo:occupation o'<Yuri_Vizbor__1>",
+    "10" : "s(Yuri_Vizbor) dbo:occupation o'<Bard_(Soviet_Union)>",
+    "11" : "s(Yuri_Vizbor) dbp:imagesize o'<230>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10953",
+  "entityUrl" : "http://dbpedia.org/resource/Yamanami_Keisuke",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Yamanami_Keisuke) dbo:birthDate o'<1833-1-1>",
+    "2" : "s(Yamanami_Keisuke) dbo:deathDate o'<1865-3-20>",
+    "3" : "s(Yamanami_Keisuke) dbo:deathPlace o'<Kyoto>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(yamanami keisuke=Yamanami_Keisuke) [general secretary vice ] o'<kyoto=Kyoto>"
+  },
+  "abstract" : {
+    "2" : "yamanami keisuke<Yamanami_Keisuke> was the general secretary (vice commander) of the shinsengumi, a special police force in kyoto<Kyoto> during the late edo period\n"
+  }
+}, {
+  "entityIndex" : "entity10954",
+  "entityUrl" : "http://dbpedia.org/resource/Yunho",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Yunho) dbo:activeYearsEndYear o'<2001>",
+    "2" : "s(Yunho) dbo:activeYearsStartYear o'<2001>",
+    "3" : "s(Yunho) dbo:birthDate o'<1986-02-06>",
+    "4" : "s(Yunho) dbo:birthDate o'<1986-2-6>",
+    "5" : "s(Yunho) dbo:birthName o'<Jung Yun-ho>",
+    "6" : "s(Yunho) dbo:birthPlace o'<South_Korea>",
+    "7" : "s(Yunho) dbo:birthPlace o'<Gwangju>",
+    "8" : "s(Yunho) dbo:birthYear o'<1986>",
+    "9" : "s(Yunho) dbp:color o'<khaki>",
+    "10" : "s(Yunho) dbp:hangul o'<ì •ìœ¤í˜¸>",
+    "11" : "s(Yunho) dbp:hangulstage o'<ìœ ë…¸ìœ¤í˜¸>",
+    "12" : "s(Yunho) dbp:hanja o'<é„­å…�æµ©>",
+    "13" : "s(Yunho) dbp:mr o'<Jung Yunho>",
+    "14" : "s(Yunho) dbp:mrstage o'<Yuno Yunho>",
+    "15" : "s(Yunho) dbp:nativeName o'<ì •ìœ¤í˜¸>",
+    "16" : "s(Yunho) dbp:rr o'<ChÅ�ng Yun-ho>",
+    "17" : "s(Yunho) dbp:rrstage o'<Yu-no Yun-ho>",
+    "18" : "s(Yunho) dbp:title o'<Jung Yun-ho>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

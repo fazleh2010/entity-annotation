@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "entity11345",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_Briggs",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Isaac_Briggs) dbo:birthDate o'<1763-0-0>",
+    "2" : "s(Isaac_Briggs) dbo:deathDate o'<1825-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11346",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Vlasov",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Ivan_Vlasov) dbo:birthDate o'<1903-9-10>",
+    "2" : "s(Ivan_Vlasov) dbo:deathDate o'<1969-1-1>",
+    "3" : "s(Ivan_Vlasov) dbo:deathPlace o'<Moscow>",
+    "4" : "s(Ivan_Vlasov) dbp:after o'<Nikolay_Shvernik>",
+    "5" : "s(Ivan_Vlasov) dbp:after o'<Mikhail_Tarasov_(politician)>",
+    "6" : "s(Ivan_Vlasov) dbp:before o'<Nikolay_Shvernik>",
+    "7" : "s(Ivan_Vlasov) dbp:before o'<Alexi_Badayev>",
+    "8" : "s(Ivan_Vlasov) dbp:title o'<List_of_heads_of_state_of_the_Soviet_Union>",
+    "9" : "s(Ivan_Vlasov) dbp:years o'<1944>",
+    "10" : "s(Ivan_Vlasov) dbp:years o'<1949>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11347",
+  "entityUrl" : "http://dbpedia.org/resource/Isra_al-Modallal",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Isra_al-Modallal) dbo:almaMater o'<Islamic_University_of_Gaza>",
+    "2" : "s(Isra_al-Modallal) dbo:birthDate o'<1990-1-1>",
+    "3" : "s(Isra_al-Modallal) dbo:birthPlace o'<Egypt>",
+    "4" : "s(Isra_al-Modallal) dbo:occupation o'<Isra_al-Modallal__1>",
+    "5" : "s(Isra_al-Modallal) dbp:knownFor o'<First female spokesperson for Hamas>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11348",
+  "entityUrl" : "http://dbpedia.org/resource/In%C3%A9s_del_R%C3%ADo_Prada",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11349",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_Friedlander",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Isaac_Friedlander) dbo:birthDate o'<1823-1-1>",
+    "2" : "s(Isaac_Friedlander) dbo:birthPlace o'<Oldenburg_(Oldenburg)>",
+    "3" : "s(Isaac_Friedlander) dbo:birthPlace o'<Oldenburg>",
+    "4" : "s(Isaac_Friedlander) dbo:birthYear o'<1823>",
+    "5" : "s(Isaac_Friedlander) dbo:deathDate o'<1878-1-1>",
+    "6" : "s(Isaac_Friedlander) dbo:deathPlace o'<San_Francisco,_CA>",
+    "7" : "s(Isaac_Friedlander) dbo:deathYear o'<1878>",
+    "8" : "s(Isaac_Friedlander) dbo:occupation o'<Isaac_Friedlander__1>",
+    "9" : "s(Isaac_Friedlander) dbp:knownFor o'<Pioneering modern information, production and transportation technology in the California wheat business>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11350",
+  "entityUrl" : "http://dbpedia.org/resource/Izwan_Pilus",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Izwan_Pilus) dbo:activeYearsEndYear o'<2012>",
+    "2" : "s(Izwan_Pilus) dbo:activeYearsStartYear o'<2004>",
+    "3" : "s(Izwan_Pilus) dbo:almaMater o'<Universiti_Utara_Malaysia>",
+    "4" : "s(Izwan_Pilus) dbo:birthDate o'<1979-11-24>",
+    "5" : "s(Izwan_Pilus) dbo:birthName o'<Khairil Izwan bin Pilus>",
+    "6" : "s(Izwan_Pilus) dbo:birthPlace o'<Malaysia>",
+    "7" : "s(Izwan_Pilus) dbo:birthPlace o'<Malacca>",
+    "8" : "s(Izwan_Pilus) dbo:birthYear o'<1979>",
+    "9" : "s(Izwan_Pilus) dbo:deathCause o'<Leptospirosis>",
+    "10" : "s(Izwan_Pilus) dbo:deathCause o'<Sepsis>",
+    "11" : "s(Izwan_Pilus) dbo:deathDate o'<2012-01-21>",
+    "12" : "s(Izwan_Pilus) dbo:deathDate o'<2012-1-21>",
+    "13" : "s(Izwan_Pilus) dbo:deathPlace o'<Selangor>",
+    "14" : "s(Izwan_Pilus) dbo:deathPlace o'<Ampang,_Selangor>",
+    "15" : "s(Izwan_Pilus) dbo:deathPlace o'<Ampang_Hospital>",
+    "16" : "s(Izwan_Pilus) dbo:deathYear o'<2012>",
+    "17" : "s(Izwan_Pilus) dbo:height o'<174.0>",
+    "18" : "s(Izwan_Pilus) dbo:height o'<1.74>",
+    "19" : "s(Izwan_Pilus) dbo:occupation o'<Singer>",
+    "20" : "s(Izwan_Pilus) dbo:occupation o'<Izwan_Pilus__1>",
+    "21" : "s(Izwan_Pilus) dbo:relative o'<Aril_AF7>",
+    "22" : "s(Izwan_Pilus) dbo:religion o'<Islam>",
+    "23" : "s(Izwan_Pilus) dbo:restingPlace o'<Jasin,_Malacca>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

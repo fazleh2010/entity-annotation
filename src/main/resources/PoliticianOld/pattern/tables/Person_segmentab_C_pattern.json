@@ -1,0 +1,137 @@
+[ {
+  "entityIndex" : "entity10817",
+  "entityUrl" : "http://dbpedia.org/resource/Carl_Friedrich_Goerdeler",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Carl_Friedrich_Goerdeler) dbo:birthDate o'<1884-07-31>",
+    "2" : "s(Carl_Friedrich_Goerdeler) dbo:birthDate o'<1884-7-31>",
+    "3" : "s(Carl_Friedrich_Goerdeler) dbo:birthPlace o'<Germany>",
+    "4" : "s(Carl_Friedrich_Goerdeler) dbo:birthPlace o'<Poland>",
+    "5" : "s(Carl_Friedrich_Goerdeler) dbo:birthPlace o'<PiÅ‚a>",
+    "6" : "s(Carl_Friedrich_Goerdeler) dbo:birthYear o'<1884>",
+    "7" : "s(Carl_Friedrich_Goerdeler) dbo:child o'<Reinhard_Goerdeler>",
+    "8" : "s(Carl_Friedrich_Goerdeler) dbo:deathDate o'<1945-02-02>",
+    "9" : "s(Carl_Friedrich_Goerdeler) dbo:deathDate o'<1945-2-2>",
+    "10" : "s(Carl_Friedrich_Goerdeler) dbo:deathPlace o'<Berlin>",
+    "11" : "s(Carl_Friedrich_Goerdeler) dbo:deathPlace o'<Germany>",
+    "12" : "s(Carl_Friedrich_Goerdeler) dbo:deathPlace o'<PlÃ¶tzensee_Prison>",
+    "13" : "s(Carl_Friedrich_Goerdeler) dbo:deathYear o'<1945>",
+    "14" : "s(Carl_Friedrich_Goerdeler) dbo:knownFor o'<Nazi_Germany>",
+    "15" : "s(Carl_Friedrich_Goerdeler) dbo:occupation o'<Carl_Friedrich_Goerdeler__1>",
+    "16" : "s(Carl_Friedrich_Goerdeler) dbo:party o'<German_National_People's_Party>",
+    "17" : "s(Carl_Friedrich_Goerdeler) dbo:religion o'<Lutheranism>",
+    "18" : "s(Carl_Friedrich_Goerdeler) dbp:nationality o'<German>",
+    "19" : "s(Carl_Friedrich_Goerdeler) dbp:spouse o'<Anneliese Ulrich>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10818",
+  "entityUrl" : "http://dbpedia.org/resource/Catherine_Wolfe_Bruce",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Catherine_Wolfe_Bruce) dbo:birthDate o'<1816-1-22>",
+    "2" : "s(Catherine_Wolfe_Bruce) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Catherine_Wolfe_Bruce) dbo:deathDate o'<1900-3-13>",
+    "4" : "s(Catherine_Wolfe_Bruce) dbo:deathPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10819",
+  "entityUrl" : "http://dbpedia.org/resource/Carl_Jakob_Sundevall",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Carl_Jakob_Sundevall) dbo:birthDate o'<1801-10-22>",
+    "2" : "s(Carl_Jakob_Sundevall) dbo:birthPlace o'<Ystad_Municipality>",
+    "3" : "s(Carl_Jakob_Sundevall) dbo:deathDate o'<1875-2-2>",
+    "4" : "s(Carl_Jakob_Sundevall) dbo:deathPlace o'<Stockholm>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(carl jakob sundevall=Carl_Jakob_Sundevall) [employed at swedish ] o'<stockholm=Stockholm>"
+  },
+  "abstract" : {
+    "6" : "carl jakob sundevall<Carl_Jakob_Sundevall> was employed at the swedish museum of natural history, stockholm<Stockholm> from 1833, and was professor and keeper of the vertebrate section from 1839 to 1871\n"
+  }
+}, {
+  "entityIndex" : "entity10820",
+  "entityUrl" : "http://dbpedia.org/resource/Chenjerai_Hove",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Chenjerai_Hove) dbo:birthDate o'<1956-02-09>",
+    "2" : "s(Chenjerai_Hove) dbo:birthDate o'<1956-2-9>",
+    "3" : "s(Chenjerai_Hove) dbo:birthPlace o'<Zvishavane>",
+    "4" : "s(Chenjerai_Hove) dbo:birthPlace o'<Federation_of_Rhodesia_and_Nyasaland>",
+    "5" : "s(Chenjerai_Hove) dbo:birthPlace o'<Q20665184>",
+    "6" : "s(Chenjerai_Hove) dbo:deathDate o'<2015-07-12>",
+    "7" : "s(Chenjerai_Hove) dbo:deathDate o'<2015-7-12>",
+    "8" : "s(Chenjerai_Hove) dbo:deathPlace o'<Norway>",
+    "9" : "s(Chenjerai_Hove) dbo:deathPlace o'<Stavanger>",
+    "10" : "s(Chenjerai_Hove) dbo:occupation o'<Poet>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(chenjerai hove=Chenjerai_Hove) [died on 12 july 2015 ] o'<norway=Norway>"
+  },
+  "abstract" : {
+    "3" : "\" chenjerai hove<Chenjerai_Hove> died on 12 july 2015; chenjerai hove<Chenjerai_Hove> was in norway<Norway> at the time and his death has been attributed to liver failure\n"
+  }
+}, {
+  "entityIndex" : "entity10821",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Howard,_1st_Earl_of_Nottingham",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbo:birthDate o'<1536-1-1>",
+    "2" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbo:deathDate o'<1624-12-14>",
+    "3" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbo:deathPlace o'<London>",
+    "4" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbo:parent o'<William_Howard,_1st_Baron_Howard_of_Effingham>",
+    "5" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbo:spouse o'<Margaret_Howard,_Countess_of_Nottingham>",
+    "6" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbo:spouse o'<Catherine_Carey,_Countess_of_Nottingham>",
+    "7" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:after o'<Charles_Howard,_2nd_Earl_of_Nottingham>",
+    "8" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:after o'<George_Villiers,_1st_Duke_of_Buckingham>",
+    "9" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:after o'<Edward_Howard_(died_1620)>",
+    "10" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:after o'<Ludovic_Stewart,_2nd_Duke_of_Lennox>",
+    "11" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:after o'<John_Ramsay,_1st_Earl_of_Holderness>",
+    "12" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:before o'<Henry_Carey,_1st_Baron_Hunsdon>",
+    "13" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:before o'<Edward_Clinton,_1st_Earl_of_Lincoln>",
+    "14" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:before o'<William_Paulet,_4th_Marquess_of_Winchester>",
+    "15" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:before o'<Unknown>",
+    "16" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:birthDate o'<1536>",
+    "17" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:creation o'<6>",
+    "18" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:imageSize o'<240>",
+    "19" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:issue o'<Charles_Howard,_2nd_Earl_of_Nottingham>",
+    "20" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:issue o'<Charles_Howard,_3rd_Earl_of_Nottingham>",
+    "21" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:issue o'<Lady_Anne_Howard>",
+    "22" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:issue o'<Lady_Elizabeth_Howard>",
+    "23" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:issue o'<Lady_Frances_Howard>",
+    "24" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:issue o'<William_Howard,_3rd_Baron_Howard_of_Effingham>",
+    "25" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:issue o'<Lady_Margaret_Howard>",
+    "26" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:mother o'<Margaret Gamage>",
+    "27" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:nobleFamily o'<House_of_Howard>",
+    "28" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:rows o'<2>",
+    "29" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:signature o'<160>",
+    "30" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<Lord_High_Admiral_(United_Kingdom)>",
+    "31" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<Custos_Rotulorum_of_Surrey>",
+    "32" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<Lord_Steward>",
+    "33" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<Lord_Lieutenant_of_Surrey>",
+    "34" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<Justice_in_Eyre>",
+    "35" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<Earl_of_Nottingham>",
+    "36" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<Baron_Howard_of_Effingham>",
+    "37" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<south of the Trent>",
+    "38" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:title o'<(jointly with The Earl of Nottingham 1621â€“1624)>",
+    "39" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:years o'<1573>",
+    "40" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:years o'<1585>",
+    "41" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:years o'<1596>",
+    "42" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:years o'<1597>",
+    "43" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:years o'<1603>",
+    "44" : "s(Charles_Howard,_1st_Earl_of_Nottingham) dbp:years o'<1615>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10822",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Louis_Bernard_de_Cl%C3%A9ron,_comte_d'Haussonville",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

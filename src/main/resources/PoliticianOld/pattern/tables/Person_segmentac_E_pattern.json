@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity10992",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Breuer",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10993",
+  "entityUrl" : "http://dbpedia.org/resource/Ernst_Troeltsch",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Ernst_Troeltsch) dbo:birthDate o'<1865-2-17>",
+    "2" : "s(Ernst_Troeltsch) dbo:birthPlace o'<Augsburg-Haunstetten>",
+    "3" : "s(Ernst_Troeltsch) dbo:deathDate o'<1923-2-1>",
+    "4" : "s(Ernst_Troeltsch) dbo:deathPlace o'<Berlin>",
+    "5" : "s(Ernst_Troeltsch) dbp:author o'<Bill Fraatz>",
+    "6" : "s(Ernst_Troeltsch) dbp:id o'<troeltsch>",
+    "7" : "s(Ernst_Troeltsch) dbp:title o'<Ernst Troeltsch>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10994",
+  "entityUrl" : "http://dbpedia.org/resource/Eleanor_Arnason",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Eleanor_Arnason) dbo:birthDate o'<1942-12-28>",
+    "2" : "s(Eleanor_Arnason) dbo:birthPlace o'<Manhattan>",
+    "3" : "s(Eleanor_Arnason) dbo:birthYear o'<1942>",
+    "4" : "s(Eleanor_Arnason) dbp:birthPlace o'<New York City, United States>",
+    "5" : "s(Eleanor_Arnason) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10995",
+  "entityUrl" : "http://dbpedia.org/resource/Eleanor_Wachtel",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Eleanor_Wachtel) dbo:birthDate o'<1947-1-1>",
+    "2" : "s(Eleanor_Wachtel) dbo:birthPlace o'<Montreal>",
+    "3" : "s(Eleanor_Wachtel) dbo:birthPlace o'<Quebec>",
+    "4" : "s(Eleanor_Wachtel) dbo:occupation o'<Eleanor_Wachtel__1>",
+    "5" : "s(Eleanor_Wachtel) dbp:nationality o'<Canadian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10996",
+  "entityUrl" : "http://dbpedia.org/resource/Emmanuel_Henri_Victurnien_de_Noailles",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Emmanuel_Henri_Victurnien_de_Noailles) dbo:birthDate o'<1830-9-15>",
+    "2" : "s(Emmanuel_Henri_Victurnien_de_Noailles) dbo:deathDate o'<1909-2-16>",
+    "3" : "s(Emmanuel_Henri_Victurnien_de_Noailles) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10997",
+  "entityUrl" : "http://dbpedia.org/resource/Emily_Yoffe",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Emily_Yoffe) dbo:birthDate o'<1955-10-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

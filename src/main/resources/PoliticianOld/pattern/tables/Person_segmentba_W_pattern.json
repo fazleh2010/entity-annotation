@@ -1,0 +1,72 @@
+[ {
+  "entityIndex" : "entity14206",
+  "entityUrl" : "http://dbpedia.org/resource/Wes_Joice",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Wes_Joice) dbo:birthDate o'<1931-10-22>",
+    "2" : "s(Wes_Joice) dbo:birthPlace o'<The_Bronx>",
+    "3" : "s(Wes_Joice) dbo:deathDate o'<1997-6-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14207",
+  "entityUrl" : "http://dbpedia.org/resource/William_Russell_(1798%E2%80%931850)",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14208",
+  "entityUrl" : "http://dbpedia.org/resource/William_Thompson_Russell_Smith",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(William_Thompson_Russell_Smith) dbo:birthDate o'<1812-0-0>",
+    "2" : "s(William_Thompson_Russell_Smith) dbo:birthPlace o'<Glasgow>",
+    "3" : "s(William_Thompson_Russell_Smith) dbo:deathDate o'<1896-0-0>",
+    "4" : "s(William_Thompson_Russell_Smith) dbo:deathPlace o'<Edge_Hill,_Pennsylvania>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14209",
+  "entityUrl" : "http://dbpedia.org/resource/William_Nicholls",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(William_Nicholls) dbo:birthDate o'<1664-1-1>",
+    "2" : "s(William_Nicholls) dbo:deathDate o'<1712-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14210",
+  "entityUrl" : "http://dbpedia.org/resource/Walraven_van_Hall",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Walraven_van_Hall) dbo:alias o'<\"de Olieman\", Van Tuyl, Barends and \"oom Piet\">",
+    "2" : "s(Walraven_van_Hall) dbo:birthDate o'<1906-02-10>",
+    "3" : "s(Walraven_van_Hall) dbo:birthDate o'<1906-2-10>",
+    "4" : "s(Walraven_van_Hall) dbo:birthPlace o'<Amsterdam>",
+    "5" : "s(Walraven_van_Hall) dbo:birthYear o'<1906>",
+    "6" : "s(Walraven_van_Hall) dbo:deathDate o'<1945-02-12>",
+    "7" : "s(Walraven_van_Hall) dbo:deathDate o'<1945-2-12>",
+    "8" : "s(Walraven_van_Hall) dbo:deathPlace o'<Haarlem>",
+    "9" : "s(Walraven_van_Hall) dbo:deathYear o'<1945>",
+    "10" : "s(Walraven_van_Hall) dbo:occupation o'<Walraven_van_Hall__1>",
+    "11" : "s(Walraven_van_Hall) dbp:nationality o'<Dutch>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14211",
+  "entityUrl" : "http://dbpedia.org/resource/Wilfrid_Chapman",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Wilfrid_Chapman) dbo:birthDate o'<1891-0-0>",
+    "2" : "s(Wilfrid_Chapman) dbo:deathDate o'<1955-0-0>",
+    "3" : "s(Wilfrid_Chapman) dbo:nationality o'<England>",
+    "4" : "s(Wilfrid_Chapman) dbo:nationality o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

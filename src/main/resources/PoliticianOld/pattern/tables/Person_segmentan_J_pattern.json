@@ -1,0 +1,59 @@
+[ {
+  "entityIndex" : "entity12003",
+  "entityUrl" : "http://dbpedia.org/resource/Jo%C3%A3o_Neto",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12004",
+  "entityUrl" : "http://dbpedia.org/resource/Jessica_Grace_Wing",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Jessica_Grace_Wing) dbo:birthDate o'<1971-7-24>",
+    "2" : "s(Jessica_Grace_Wing) dbo:deathDate o'<2003-7-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12005",
+  "entityUrl" : "http://dbpedia.org/resource/John_Taverner_(clergyman)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(John_Taverner_(clergyman)) dbo:wikiPageRedirects o'<John_Taverner_(priest)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12006",
+  "entityUrl" : "http://dbpedia.org/resource/J%C3%B8rgen_M%C3%B8ller",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12007",
+  "entityUrl" : "http://dbpedia.org/resource/Jaan_Arder",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Jaan_Arder) dbo:birthDate o'<1952-2-26>",
+    "2" : "s(Jaan_Arder) dbo:deathDate o'<2014-7-24>",
+    "3" : "s(Jaan_Arder) dbo:deathPlace o'<Tallinn>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12008",
+  "entityUrl" : "http://dbpedia.org/resource/James_Stewart_(Glasgow_MP)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(James_Stewart_(Glasgow_MP)) dbo:birthDate o'<1863-0-0>",
+    "2" : "s(James_Stewart_(Glasgow_MP)) dbo:deathDate o'<1931-3-17>",
+    "3" : "s(James_Stewart_(Glasgow_MP)) dbp:after o'<William_Leonard_(MP)>",
+    "4" : "s(James_Stewart_(Glasgow_MP)) dbp:before o'<Gideon_Oliphant-Murray,_2nd_Viscount_Elibank>",
+    "5" : "s(James_Stewart_(Glasgow_MP)) dbp:title o'<Member of Parliament for Glasgow St. Rollox>",
+    "6" : "s(James_Stewart_(Glasgow_MP)) dbp:years o'<1922>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,131 @@
+[ {
+  "entityIndex" : "entity11165",
+  "entityUrl" : "http://dbpedia.org/resource/Edwin_T._Meredith",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Edwin_T._Meredith) dbo:almaMater o'<Des_Moines_College>",
+    "2" : "s(Edwin_T._Meredith) dbo:birthDate o'<1876-12-23>",
+    "3" : "s(Edwin_T._Meredith) dbo:birthPlace o'<United_States>",
+    "4" : "s(Edwin_T._Meredith) dbo:birthPlace o'<Avoca,_Iowa>",
+    "5" : "s(Edwin_T._Meredith) dbo:birthPlace o'<Iowa>",
+    "6" : "s(Edwin_T._Meredith) dbo:deathDate o'<1928-06-17>",
+    "7" : "s(Edwin_T._Meredith) dbo:deathDate o'<1928-6-17>",
+    "8" : "s(Edwin_T._Meredith) dbo:deathPlace o'<United_States>",
+    "9" : "s(Edwin_T._Meredith) dbo:deathPlace o'<Des_Moines,_Iowa>",
+    "10" : "s(Edwin_T._Meredith) dbo:deathPlace o'<Iowa>",
+    "11" : "s(Edwin_T._Meredith) dbo:orderInOffice o'<6th>",
+    "12" : "s(Edwin_T._Meredith) dbo:party o'<Democratic_Party_(United_States)>",
+    "13" : "s(Edwin_T._Meredith) dbo:predecessor o'<David_F._Houston>",
+    "14" : "s(Edwin_T._Meredith) dbo:president o'<Woodrow_Wilson>",
+    "15" : "s(Edwin_T._Meredith) dbo:profession o'<Government>",
+    "16" : "s(Edwin_T._Meredith) dbo:successor o'<Henry_Cantwell_Wallace>",
+    "17" : "s(Edwin_T._Meredith) dbo:termPeriod o'<Edwin_T._Meredith__1>",
+    "18" : "s(Edwin_T._Meredith) dbp:after o'<Henry_Cantwell_Wallace>",
+    "19" : "s(Edwin_T._Meredith) dbp:before o'<David_F._Houston>",
+    "20" : "s(Edwin_T._Meredith) dbp:birthName o'<Edwin Thomas Meredith>",
+    "21" : "s(Edwin_T._Meredith) dbp:children o'<Edwin Thomas Meredith, Jr.>",
+    "22" : "s(Edwin_T._Meredith) dbp:children o'<Mildred Marie Meredith>",
+    "23" : "s(Edwin_T._Meredith) dbp:department o'<Secretary of Agriculture>",
+    "24" : "s(Edwin_T._Meredith) dbp:president o'<Woodrow_Wilson>",
+    "25" : "s(Edwin_T._Meredith) dbp:restingPlace o'<United_States>",
+    "26" : "s(Edwin_T._Meredith) dbp:restingPlace o'<Des_Moines,_Iowa>",
+    "27" : "s(Edwin_T._Meredith) dbp:restingPlace o'<Iowa>",
+    "28" : "s(Edwin_T._Meredith) dbp:restingPlace o'<Glendale's Masonic Cemetery,>",
+    "29" : "s(Edwin_T._Meredith) dbp:spouse o'<Edna Elliott Meredith>",
+    "30" : "s(Edwin_T._Meredith) dbp:title o'<United_States_Secretary_of_Agriculture>",
+    "31" : "s(Edwin_T._Meredith) dbp:years o'<--02-02>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11166",
+  "entityUrl" : "http://dbpedia.org/resource/Emily_Wheaton",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Emily_Wheaton) dbo:birthDate o'<1987-12-5>",
+    "2" : "s(Emily_Wheaton) dbo:birthPlace o'<London>",
+    "3" : "s(Emily_Wheaton) dbp:date o'<September 2013>",
+    "4" : "s(Emily_Wheaton) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11167",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Saward",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Eric_Saward) dbo:birthDate o'<1944-12-09>",
+    "2" : "s(Eric_Saward) dbo:birthDate o'<1944-12-9>",
+    "3" : "s(Eric_Saward) dbo:birthPlace o'<United_Kingdom>",
+    "4" : "s(Eric_Saward) dbo:birthYear o'<1944>",
+    "5" : "s(Eric_Saward) dbo:imdbId o'<0768047>",
+    "6" : "s(Eric_Saward) dbo:occupation o'<Script_editor>",
+    "7" : "s(Eric_Saward) dbo:occupation o'<Eric_Saward__1>",
+    "8" : "s(Eric_Saward) dbo:partner o'<Paula_Woolsey>",
+    "9" : "s(Eric_Saward) dbp:after o'<Andrew_Cartmel>",
+    "10" : "s(Eric_Saward) dbp:before o'<Antony_Root>",
+    "11" : "s(Eric_Saward) dbp:children o'<Natasha>",
+    "12" : "s(Eric_Saward) dbp:children o'<Marielle>",
+    "13" : "s(Eric_Saward) dbp:id o'<Eric_Saward>",
+    "14" : "s(Eric_Saward) dbp:name o'<Eric Saward>",
+    "15" : "s(Eric_Saward) dbp:title o'<Doctor Who Script Editor>",
+    "16" : "s(Eric_Saward) dbp:years o'<1982>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(eric saward=Eric_Saward) [pronounced sayward born on ] o'<script editor=Script_editor>",
+    "4" : "s(eric saward=Eric_Saward) [approached by doctor ] o'<script editor=Script_editor>",
+    "9" : "s(eric saward=Eric_Saward) [claimed in interviews ] o'<script editor=Script_editor>",
+    "23" : "s(eric saward=Eric_Saward) [resigned ] o'<script editor=Script_editor>",
+    "27" : "s(eric saward=Eric_Saward) [relationship with ] o'<paula woolsey=Paula_Woolsey>",
+    "28" : "s(eric saward=Eric_Saward) [two daughters named ] o'<natasha=Natasha>"
+  },
+  "abstract" : {
+    "1" : "eric saward<Eric_Saward> (pronounced say-ward) was born on 9 december 1944 and became a scriptwriter and script editor<Script_editor> for the bbc, resigning from the latter post on the tv programme doctor who in 1986",
+    "4" : "eric saward<Eric_Saward> was approached by then doctor who script editor<Script_editor> christopher h\n",
+    "9" : "eric saward<Eric_Saward> has claimed in interviews that eric saward<Eric_Saward> also performed uncredited writing duties, over and above that normally expected of a script editor<Script_editor>, on the awakening, the twin dilemma, attack of the cybermen and the trial of a time lord, amongst others\n",
+    "23" : "this came to a head during the production of the trial of a time lord in the middle of 1986 and eric saward<Eric_Saward> resigned as script editor<Script_editor> before the completion of production\n",
+    "27" : "eric saward<Eric_Saward> also had a relationship with fellow writer paula woolsey<Paula_Woolsey> for a number of years\n",
+    "28" : "eric saward<Eric_Saward> has two daughters named natasha<Natasha> and marielle\n"
+  }
+}, {
+  "entityIndex" : "entity11168",
+  "entityUrl" : "http://dbpedia.org/resource/Eddie_Cahill",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Eddie_Cahill) dbo:activeYearsStartYear o'<1999>",
+    "2" : "s(Eddie_Cahill) dbo:birthDate o'<1978-01-15>",
+    "3" : "s(Eddie_Cahill) dbo:birthDate o'<1978-1-15>",
+    "4" : "s(Eddie_Cahill) dbo:birthName o'<Edmund Patrick Cahill>",
+    "5" : "s(Eddie_Cahill) dbo:birthPlace o'<New_York_City>",
+    "6" : "s(Eddie_Cahill) dbo:birthPlace o'<New_York_(state)>",
+    "7" : "s(Eddie_Cahill) dbo:birthYear o'<1978>",
+    "8" : "s(Eddie_Cahill) dbo:occupation o'<Eddie_Cahill__1>",
+    "9" : "s(Eddie_Cahill) dbp:children o'<1>",
+    "10" : "s(Eddie_Cahill) dbp:spouse o'<Nikki Uberti>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11169",
+  "entityUrl" : "http://dbpedia.org/resource/Edmund_Sears",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Edmund_Sears) dbo:birthDate o'<1810-4-6>",
+    "2" : "s(Edmund_Sears) dbo:deathDate o'<1876-1-14>",
+    "3" : "s(Edmund_Sears) dbo:soundRecording o'<Edmund_Sears__1>",
+    "4" : "s(Edmund_Sears) dbp:format o'<Ogg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11170",
+  "entityUrl" : "http://dbpedia.org/resource/Ernst_Krause",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ernst_Krause) dbo:birthDate o'<1839-11-22>",
+    "2" : "s(Ernst_Krause) dbo:deathDate o'<1903-8-24>",
+    "3" : "s(Ernst_Krause) dbo:deathPlace o'<Eberswalde>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

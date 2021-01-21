@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity10773",
+  "entityUrl" : "http://dbpedia.org/resource/William_G._Adams",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(William_G._Adams) dbo:birthDate o'<1923-1-1>",
+    "2" : "s(William_G._Adams) dbo:birthPlace o'<St._John's,_Newfoundland_and_Labrador>",
+    "3" : "s(William_G._Adams) dbo:deathDate o'<2005-11-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10774",
+  "entityUrl" : "http://dbpedia.org/resource/William_Obanhein",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(William_Obanhein) dbo:birthDate o'<1924-10-19>",
+    "2" : "s(William_Obanhein) dbo:deathDate o'<1994-9-11>",
+    "3" : "s(William_Obanhein) dbo:imdbId o'<0643152>",
+    "4" : "s(William_Obanhein) dbp:name o'<William Obanhein>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10775",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Arndt",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Walter_Arndt) dbo:birthDate o'<1891-1-8>",
+    "2" : "s(Walter_Arndt) dbo:birthPlace o'<Kamienna_GÃ³ra>",
+    "3" : "s(Walter_Arndt) dbo:deathDate o'<1944-6-26>",
+    "4" : "s(Walter_Arndt) dbo:deathPlace o'<Brandenburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10776",
+  "entityUrl" : "http://dbpedia.org/resource/Wearside_Jack",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Wearside_Jack) dbo:alias o'<Wearside Jack>",
+    "2" : "s(Wearside_Jack) dbo:birthDate o'<1956-1-8>",
+    "3" : "s(Wearside_Jack) dbp:birthDate o'<1956-01-08>",
+    "4" : "s(Wearside_Jack) dbp:conviction o'<Four counts of perverting the course of justice>",
+    "5" : "s(Wearside_Jack) dbp:convictionPenalty o'<Eight years in custody>",
+    "6" : "s(Wearside_Jack) dbp:convictionStatus o'<Released>",
+    "7" : "s(Wearside_Jack) dbp:name o'<John Samuel Humble>",
+    "8" : "s(Wearside_Jack) dbp:nationality o'<English>",
+    "9" : "s(Wearside_Jack) dbp:occupation o'<Labourer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10777",
+  "entityUrl" : "http://dbpedia.org/resource/Wilhelm_Wachtmeister",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Wilhelm_Wachtmeister) dbo:birthDate o'<1923-4-29>",
+    "2" : "s(Wilhelm_Wachtmeister) dbo:deathDate o'<2012-2-3>",
+    "3" : "s(Wilhelm_Wachtmeister) dbp:after o'<Anders_Thunborg>",
+    "4" : "s(Wilhelm_Wachtmeister) dbp:after o'<ClaÃ«s_KÃ¶nig_(1913â€“2012)>",
+    "5" : "s(Wilhelm_Wachtmeister) dbp:before o'<Hubert_de_BÃ¨sche>",
+    "6" : "s(Wilhelm_Wachtmeister) dbp:before o'<Bengt_Rabaeus>",
+    "7" : "s(Wilhelm_Wachtmeister) dbp:title o'<Ambassador of Sweden to the United States>",
+    "8" : "s(Wilhelm_Wachtmeister) dbp:title o'<Ambassador of Sweden to Algeria>",
+    "9" : "s(Wilhelm_Wachtmeister) dbp:years o'<1966>",
+    "10" : "s(Wilhelm_Wachtmeister) dbp:years o'<1974>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10778",
+  "entityUrl" : "http://dbpedia.org/resource/William_Congdon",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(William_Congdon) dbo:birthDate o'<1912-4-14>",
+    "2" : "s(William_Congdon) dbo:birthPlace o'<Providence,_Rhode_Island>",
+    "3" : "s(William_Congdon) dbo:deathDate o'<1998-4-15>",
+    "4" : "s(William_Congdon) dbo:deathPlace o'<Milan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

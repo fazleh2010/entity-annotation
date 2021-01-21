@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity10961",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%8Ctani_K%C5%8Dzui",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10962",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne-Denis_Pasquier",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10963",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Stephan",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10964",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Louis",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10965",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81lvaro_de_Soto",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10966",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81ngel_Seraf%C3%ADn_Seriche_Dougan",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

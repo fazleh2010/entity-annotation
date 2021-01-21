@@ -1,0 +1,70 @@
+[ {
+  "entityIndex" : "entity11967",
+  "entityUrl" : "http://dbpedia.org/resource/Dmitri_Bud%C3%B5lin",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11968",
+  "entityUrl" : "http://dbpedia.org/resource/Derek_Holman",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Derek_Holman) dbo:birthDate o'<1931-5-16>",
+    "2" : "s(Derek_Holman) dbo:country o'<United_Kingdom>",
+    "3" : "s(Derek_Holman) dbo:nationality o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(derek holman=Derek_Holman) [holds degree of doctor ] o'<london=United_Kingdom>",
+    "4" : "s(derek holman=Derek_Holman) [instructor in ] o'<royal=United_Kingdom>",
+    "6" : "s(derek holman=Derek_Holman) [held positions at ] o'<royal=United_Kingdom>"
+  },
+  "abstract" : {
+    "3" : "derek holman<Derek_Holman> holds the degree of doctor of music from the university of london<United_Kingdom> and is a fellow of the royal<United_Kingdom> academy of music, the royal<United_Kingdom> school of church music and the royal<United_Kingdom> college of organists\n",
+    "4" : "derek holman<Derek_Holman> was an instructor in the royal<United_Kingdom> army educational corps with the british army<United_Kingdom> of the rhine from 1952 to 1954, master at westminster abbey choir school from 1954 to 1956, assistant organist at st paul's cathedral from 1956 to 1958, then an organist at croydon parish church from 1958 to 1965\n",
+    "6" : "derek holman<Derek_Holman> also held positions at the royal<United_Kingdom> school of church music from 1956 to 1965\n"
+  }
+}, {
+  "entityIndex" : "entity11969",
+  "entityUrl" : "http://dbpedia.org/resource/Danny_Frolich",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11970",
+  "entityUrl" : "http://dbpedia.org/resource/Diederik_Simon",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Diederik_Simon) dbo:birthDate o'<1970-4-10>",
+    "2" : "s(Diederik_Simon) dbo:birthPlace o'<Bloemendaal>",
+    "3" : "s(Diederik_Simon) dbp:after o'<Guillaume_Elmont>",
+    "4" : "s(Diederik_Simon) dbp:before o'<Johan_Kenkhuis>",
+    "5" : "s(Diederik_Simon) dbp:title o'<Amsterdam_Sportsman_of_the_year>",
+    "6" : "s(Diederik_Simon) dbp:years o'<2004>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11971",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Brata",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Daniel_Brata) dbo:birthDate o'<1984-2-29>",
+    "2" : "s(Daniel_Brata) dbo:birthPlace o'<Baia_Mare>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11972",
+  "entityUrl" : "http://dbpedia.org/resource/Denis_St._George_Daly",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Denis_St._George_Daly) dbo:birthDate o'<1862-9-5>",
+    "2" : "s(Denis_St._George_Daly) dbo:birthPlace o'<Athenry>",
+    "3" : "s(Denis_St._George_Daly) dbo:deathDate o'<1942-4-16>",
+    "4" : "s(Denis_St._George_Daly) dbo:deathPlace o'<Chipping_Norton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

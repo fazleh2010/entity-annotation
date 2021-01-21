@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity14266",
+  "entityUrl" : "http://dbpedia.org/resource/Ernst_Dronke",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Ernst_Dronke) dbo:birthDate o'<1822-11-17>",
+    "2" : "s(Ernst_Dronke) dbo:birthPlace o'<Koblenz>",
+    "3" : "s(Ernst_Dronke) dbo:deathDate o'<1891-11-2>",
+    "4" : "s(Ernst_Dronke) dbo:deathPlace o'<Liverpool>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14267",
+  "entityUrl" : "http://dbpedia.org/resource/Earl_Ubell",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Earl_Ubell) dbo:activeYearsEndYear o'<1947>",
+    "2" : "s(Earl_Ubell) dbo:activeYearsStartYear o'<1947>",
+    "3" : "s(Earl_Ubell) dbo:birthDate o'<1926-06-26>",
+    "4" : "s(Earl_Ubell) dbo:birthDate o'<1926-6-26>",
+    "5" : "s(Earl_Ubell) dbo:birthName o'<Earl Ubell>",
+    "6" : "s(Earl_Ubell) dbo:birthPlace o'<Brooklyn>",
+    "7" : "s(Earl_Ubell) dbo:birthPlace o'<New_York_(state)>",
+    "8" : "s(Earl_Ubell) dbo:birthYear o'<1926>",
+    "9" : "s(Earl_Ubell) dbo:deathDate o'<2007-05-30>",
+    "10" : "s(Earl_Ubell) dbo:deathDate o'<2007-5-30>",
+    "11" : "s(Earl_Ubell) dbo:deathPlace o'<New_Jersey>",
+    "12" : "s(Earl_Ubell) dbo:deathPlace o'<Englewood,_New_Jersey>",
+    "13" : "s(Earl_Ubell) dbo:deathYear o'<2007>",
+    "14" : "s(Earl_Ubell) dbo:education o'<City_College_of_New_York>",
+    "15" : "s(Earl_Ubell) dbo:occupation o'<Earl_Ubell__1>",
+    "16" : "s(Earl_Ubell) dbp:children o'<Lori Ubell>",
+    "17" : "s(Earl_Ubell) dbp:children o'<Michael Ubell>",
+    "18" : "s(Earl_Ubell) dbp:credits o'<WCBS-TV>",
+    "19" : "s(Earl_Ubell) dbp:credits o'<New York Herald Tribune>",
+    "20" : "s(Earl_Ubell) dbp:credits o'<Parade magazine>",
+    "21" : "s(Earl_Ubell) dbp:spouse o'<1949>",
+    "22" : "s(Earl_Ubell) dbp:spouse o'<2007>",
+    "23" : "s(Earl_Ubell) dbp:spouse o'<Shirley Leitman Ubell>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14268",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Mary_Joseph_Molyneux",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Edward_Mary_Joseph_Molyneux) dbo:deathDate o'<1913-1-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14269",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Horrocks",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Elizabeth_Horrocks) dbo:birthDate o'<1946-5-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14270",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Burgoyne_Corbett",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Elizabeth_Burgoyne_Corbett) dbo:birthDate o'<1846-1-1>",
+    "2" : "s(Elizabeth_Burgoyne_Corbett) dbo:country o'<England>",
+    "3" : "s(Elizabeth_Burgoyne_Corbett) dbo:deathDate o'<1930-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14271",
+  "entityUrl" : "http://dbpedia.org/resource/Eynon_Evans",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Eynon_Evans) dbo:activeYearsEndYear o'<1967>",
+    "2" : "s(Eynon_Evans) dbo:activeYearsStartYear o'<1939>",
+    "3" : "s(Eynon_Evans) dbo:birthDate o'<1903-05-18>",
+    "4" : "s(Eynon_Evans) dbo:birthDate o'<1903-5-18>",
+    "5" : "s(Eynon_Evans) dbo:birthName o'<Evan Eynon Evans>",
+    "6" : "s(Eynon_Evans) dbo:birthPlace o'<Nelson,_Caerphilly>",
+    "7" : "s(Eynon_Evans) dbo:birthPlace o'<Wales>",
+    "8" : "s(Eynon_Evans) dbo:birthYear o'<1903>",
+    "9" : "s(Eynon_Evans) dbo:deathDate o'<1989-1-1>",
+    "10" : "s(Eynon_Evans) dbo:deathYear o'<1989>",
+    "11" : "s(Eynon_Evans) dbo:occupation o'<Eynon_Evans__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(eynon evans=Eynon_Evans) [appeared on bbc radio ] o'<welsh=Wales>"
+  },
+  "abstract" : {
+    "3" : "during the 1940s eynon evans<Eynon_Evans> appeared on the bbc radio variety show welsh<Wales> rarebit as the comedic character tommy troubles, reaching an audience of 12 million\n"
+  }
+} ]

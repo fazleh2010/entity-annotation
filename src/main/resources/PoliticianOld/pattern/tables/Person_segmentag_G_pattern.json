@@ -1,0 +1,99 @@
+[ {
+  "entityIndex" : "entity10841",
+  "entityUrl" : "http://dbpedia.org/resource/Grant_O._Gale",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Grant_O._Gale) dbo:birthDate o'<1903-12-29>",
+    "2" : "s(Grant_O._Gale) dbo:deathDate o'<1998-4-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10842",
+  "entityUrl" : "http://dbpedia.org/resource/Glenn_Howells",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Glenn_Howells) dbo:birthPlace o'<Stourbridge>",
+    "2" : "s(Glenn_Howells) dbo:significantBuilding o'<Savill_Building>",
+    "3" : "s(Glenn_Howells) dbo:significantBuilding o'<Westonbirt_Arboretum>",
+    "4" : "s(Glenn_Howells) dbo:significantBuilding o'<Wardian_London>",
+    "5" : "s(Glenn_Howells) dbo:significantBuilding o'<Rotunda,_Birmingham>",
+    "6" : "s(Glenn_Howells) dbo:significantBuilding o'<bramall-music-building>",
+    "7" : "s(Glenn_Howells) dbo:significantBuilding o'<eleven-brindleyplace-birmingham>",
+    "8" : "s(Glenn_Howells) dbo:significantBuilding o'<one-st-peters-square-manchester>",
+    "9" : "s(Glenn_Howells) dbo:significantBuilding o'<triangle-swindon>",
+    "10" : "s(Glenn_Howells) dbo:significantProject o'<Paradise,_Birmingham>",
+    "11" : "s(Glenn_Howells) dbo:significantProject o'<london-city-island>",
+    "12" : "s(Glenn_Howells) dbo:significantProject o'<maple-quays>",
+    "13" : "s(Glenn_Howells) dbo:significantProject o'<royal-wharf-london>",
+    "14" : "s(Glenn_Howells) dbp:almaMater o'<Plymouth School of Architecture>",
+    "15" : "s(Glenn_Howells) dbp:city o'<Birmingham, London>",
+    "16" : "s(Glenn_Howells) dbp:directors o'<Glenn Howells, Dav Bansal, Reinhold Schmaderer, Darren Barbier, Ben Young>",
+    "17" : "s(Glenn_Howells) dbp:name o'<Glenn Howells Architects>",
+    "18" : "s(Glenn_Howells) dbp:nationality o'<British>",
+    "19" : "s(Glenn_Howells) dbp:practice o'<Glenn Howells Architects>",
+    "20" : "s(Glenn_Howells) dbp:website o'<www.glennhowells.co.uk>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10843",
+  "entityUrl" : "http://dbpedia.org/resource/George_Forquer",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(George_Forquer) dbo:birthDate o'<1794-1-1>",
+    "2" : "s(George_Forquer) dbo:deathDate o'<1837-1-1>",
+    "3" : "s(George_Forquer) dbp:title o'<Illinois_Attorney_General>",
+    "4" : "s(George_Forquer) dbp:title o'<Illinois_Secretary_of_State>",
+    "5" : "s(George_Forquer) dbp:years o'<1825>",
+    "6" : "s(George_Forquer) dbp:years o'<1829>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(george forquer=George_Forquer) [influential in creating ] o'<illinois state library=Illinois_Secretary_of_State>",
+    "3" : "s(george forquer=George_Forquer) [laid out founded ] o'<illinois=Illinois_Attorney_General>"
+  },
+  "abstract" : {
+    "2" : "george forquer<George_Forquer> was influential in creating the illinois state library<Illinois_Secretary_of_State>, in part from a donation of his own personal collection\n",
+    "3" : "george forquer<George_Forquer> also laid out and founded the town of waterloo, illinois<Illinois_Attorney_General>\n"
+  }
+}, {
+  "entityIndex" : "entity10844",
+  "entityUrl" : "http://dbpedia.org/resource/George_Arundale",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(George_Arundale) dbo:almaMater o'<St_John's_College,_Cambridge>",
+    "2" : "s(George_Arundale) dbo:birthDate o'<1878-12-01>",
+    "3" : "s(George_Arundale) dbo:birthDate o'<1878-12-1>",
+    "4" : "s(George_Arundale) dbo:deathDate o'<1945-08-12>",
+    "5" : "s(George_Arundale) dbo:deathDate o'<1945-8-12>",
+    "6" : "s(George_Arundale) dbo:deathPlace o'<Adyar,_Chennai>",
+    "7" : "s(George_Arundale) dbo:spouse o'<Rukmini_Devi_Arundale>",
+    "8" : "s(George_Arundale) dbp:birthPlace o'<Surrey, England>",
+    "9" : "s(George_Arundale) dbp:deathPlace o'<Adyar, India>",
+    "10" : "s(George_Arundale) dbp:imageSize o'<thumb>",
+    "11" : "s(George_Arundale) dbp:nationality o'<British>",
+    "12" : "s(George_Arundale) dbp:religion o'<Liberal Catholic>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10845",
+  "entityUrl" : "http://dbpedia.org/resource/Gisela,_Abbess_of_Chelles",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Gisela,_Abbess_of_Chelles) dbo:birthDate o'<757-0-0>",
+    "2" : "s(Gisela,_Abbess_of_Chelles) dbo:deathDate o'<810-0-0>",
+    "3" : "s(Gisela,_Abbess_of_Chelles) dbo:deathPlace o'<Chelles,_Seine-et-Marne>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10846",
+  "entityUrl" : "http://dbpedia.org/resource/Geoffrey_Scott_(Canadian_politician)",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Geoffrey_Scott_(Canadian_politician)) dbo:wikiPageRedirects o'<Geoffrey_Scott_(politician)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

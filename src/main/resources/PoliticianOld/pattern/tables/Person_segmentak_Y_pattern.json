@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity11602",
+  "entityUrl" : "http://dbpedia.org/resource/Yahyo_Azimov",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Yahyo_Azimov) dbo:birthDate o'<1947-12-4>",
+    "2" : "s(Yahyo_Azimov) dbo:birthPlace o'<Khujand>",
+    "3" : "s(Yahyo_Azimov) dbp:title o'<Prime_Minister_of_Tajikistan>",
+    "4" : "s(Yahyo_Azimov) dbp:years o'<1996>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(yahyo azimov=Yahyo_Azimov) [factory manager in ] o'<khujand=Khujand>"
+  },
+  "abstract" : {
+    "2" : "before this, yahyo azimov<Yahyo_Azimov> was a factory manager in khujand<Khujand>\n"
+  }
+}, {
+  "entityIndex" : "entity11603",
+  "entityUrl" : "http://dbpedia.org/resource/Young_Perry_Alsbury",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Young_Perry_Alsbury) dbo:deathDate o'<1877-11-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11604",
+  "entityUrl" : "http://dbpedia.org/resource/Yener_Karahano%C4%9Flu",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11605",
+  "entityUrl" : "http://dbpedia.org/resource/Yoko_Shibui",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Yoko_Shibui) dbo:birthDate o'<1979-3-14>",
+    "2" : "s(Yoko_Shibui) dbp:id o'<132630>",
+    "3" : "s(Yoko_Shibui) dbp:name o'<Yoko Shibui>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11606",
+  "entityUrl" : "http://dbpedia.org/resource/Yitzhak_Kahan",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Yitzhak_Kahan) dbo:birthDate o'<1913-11-15>",
+    "2" : "s(Yitzhak_Kahan) dbo:birthPlace o'<Austria-Hungary>",
+    "3" : "s(Yitzhak_Kahan) dbo:birthPlace o'<Brody>",
+    "4" : "s(Yitzhak_Kahan) dbo:birthPlace o'<Austrian_Galicia>",
+    "5" : "s(Yitzhak_Kahan) dbo:deathDate o'<1985-04-24>",
+    "6" : "s(Yitzhak_Kahan) dbo:deathDate o'<1985-4-24>",
+    "7" : "s(Yitzhak_Kahan) dbo:office o'<6th President of theSupreme Court of Israel>",
+    "8" : "s(Yitzhak_Kahan) dbo:predecessor o'<Moshe_Landau>",
+    "9" : "s(Yitzhak_Kahan) dbo:religion o'<Judaism>",
+    "10" : "s(Yitzhak_Kahan) dbo:successor o'<Meir_Shamgar>",
+    "11" : "s(Yitzhak_Kahan) dbo:termPeriod o'<Yitzhak_Kahan__1>",
+    "12" : "s(Yitzhak_Kahan) dbp:termEnd o'<1983>",
+    "13" : "s(Yitzhak_Kahan) dbp:termStart o'<1982>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11607",
+  "entityUrl" : "http://dbpedia.org/resource/Youssef_Wahbi",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Youssef_Wahbi) dbo:activeYearsEndYear o'<1978>",
+    "2" : "s(Youssef_Wahbi) dbo:activeYearsStartYear o'<1932>",
+    "3" : "s(Youssef_Wahbi) dbo:birthDate o'<1898-07-14>",
+    "4" : "s(Youssef_Wahbi) dbo:birthDate o'<1902-7-17>",
+    "5" : "s(Youssef_Wahbi) dbo:birthName o'<Youssef Wahby>",
+    "6" : "s(Youssef_Wahbi) dbo:birthPlace o'<Egypt>",
+    "7" : "s(Youssef_Wahbi) dbo:birthPlace o'<Sohag>",
+    "8" : "s(Youssef_Wahbi) dbo:birthPlace o'<Fayoum>",
+    "9" : "s(Youssef_Wahbi) dbo:birthYear o'<1898>",
+    "10" : "s(Youssef_Wahbi) dbo:deathDate o'<1982-10-17>",
+    "11" : "s(Youssef_Wahbi) dbo:deathPlace o'<Egypt>",
+    "12" : "s(Youssef_Wahbi) dbo:deathPlace o'<Cairo>",
+    "13" : "s(Youssef_Wahbi) dbo:deathYear o'<1982>",
+    "14" : "s(Youssef_Wahbi) dbo:occupation o'<Youssef_Wahbi__1>",
+    "15" : "s(Youssef_Wahbi) dbo:occupation o'<Film_director>",
+    "16" : "s(Youssef_Wahbi) dbo:occupation o'<Actor>",
+    "17" : "s(Youssef_Wahbi) dbp:imagesize o'<200>",
+    "18" : "s(Youssef_Wahbi) dbp:religion o'<Islam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

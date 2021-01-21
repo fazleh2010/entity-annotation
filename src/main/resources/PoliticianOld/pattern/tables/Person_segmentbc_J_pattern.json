@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity14459",
+  "entityUrl" : "http://dbpedia.org/resource/John_Baptiste_Henri_Joseph_Desmazi%C3%A8res",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14460",
+  "entityUrl" : "http://dbpedia.org/resource/John_Bence",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(John_Bence) dbo:birthDate o'<1622-1-1>",
+    "2" : "s(John_Bence) dbo:deathDate o'<1688-3-4>",
+    "3" : "s(John_Bence) dbp:after o'<Not represented in Restored Rump>",
+    "4" : "s(John_Bence) dbp:before o'<Not represented in Second Protectorate Parliament>",
+    "5" : "s(John_Bence) dbp:title o'<Member of Parliament for Aldeburgh>",
+    "6" : "s(John_Bence) dbp:with o'<Laurence_Oxburgh>",
+    "7" : "s(John_Bence) dbp:years o'<1659>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14461",
+  "entityUrl" : "http://dbpedia.org/resource/Jan_Millsapps",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Jan_Millsapps) dbo:birthDate o'<1950-2-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14462",
+  "entityUrl" : "http://dbpedia.org/resource/John_Melvin_Bryan,_Sr.",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(John_Melvin_Bryan,_Sr.) dbo:birthDate o'<1886-8-4>",
+    "2" : "s(John_Melvin_Bryan,_Sr.) dbo:deathDate o'<1940-5-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14463",
+  "entityUrl" : "http://dbpedia.org/resource/John_F._Carrington",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(John_F._Carrington) dbo:birthDate o'<1914-3-21>",
+    "2" : "s(John_F._Carrington) dbo:deathDate o'<1985-12-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14464",
+  "entityUrl" : "http://dbpedia.org/resource/Jessica_Phoenix",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Jessica_Phoenix) dbo:birthDate o'<1983-10-16>",
+    "2" : "s(Jessica_Phoenix) dbp:birthDate o'<1983-10-16>",
+    "3" : "s(Jessica_Phoenix) dbp:birthPlace o'<Ontario>",
+    "4" : "s(Jessica_Phoenix) dbp:birthPlace o'<Uxbridge,_Ontario>",
+    "5" : "s(Jessica_Phoenix) dbp:birthPlace o'<Canada>",
+    "6" : "s(Jessica_Phoenix) dbp:discipline o'<Eventing>",
+    "7" : "s(Jessica_Phoenix) dbp:fullname o'<Jessica Phoenix>",
+    "8" : "s(Jessica_Phoenix) dbp:imagesize o'<275>",
+    "9" : "s(Jessica_Phoenix) dbp:name o'<Jessica Phoenix>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

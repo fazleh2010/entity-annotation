@@ -1,0 +1,29 @@
+[ {
+  "entityIndex" : "entity10804",
+  "entityUrl" : "http://dbpedia.org/resource/3rd_Dalai_Lama",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(3rd_Dalai_Lama) dbo:birthDate o'<1543-2-28>",
+    "2" : "s(3rd_Dalai_Lama) dbo:deathDate o'<1588-4-20>",
+    "3" : "s(3rd_Dalai_Lama) dbo:deathPlace o'<Mongolia>",
+    "4" : "s(3rd_Dalai_Lama) dbp:birthDate o'<1543>",
+    "5" : "s(3rd_Dalai_Lama) dbp:birthPlace o'<Tolung, Ãœ-Tsang, Tibet>",
+    "6" : "s(3rd_Dalai_Lama) dbp:chinese o'<ç´¢å�—å˜‰æŽª>",
+    "7" : "s(3rd_Dalai_Lama) dbp:deathPlace o'<Mongolia>",
+    "8" : "s(3rd_Dalai_Lama) dbp:name o'<Sonam>",
+    "9" : "s(3rd_Dalai_Lama) dbp:predecessor o'<2nd_Dalai_Lama>",
+    "10" : "s(3rd_Dalai_Lama) dbp:reign o'<1578>",
+    "11" : "s(3rd_Dalai_Lama) dbp:successor o'<4th_Dalai_Lama>",
+    "12" : "s(3rd_Dalai_Lama) dbp:t o'<à½–à½¦à½¼à½‘à¼‹à½“à½˜à½¦à¼‹à½¢à¾’à¾±à¼‹à½˜à½šà½¼à¼‹>",
+    "13" : "s(3rd_Dalai_Lama) dbp:tibetan o'<à½–à½¦à½¼à½‘à¼‹à½“à½˜à½¦à¼‹à½¢à¾’à¾±à¼‹à½˜à½šà½¼à¼‹>",
+    "14" : "s(3rd_Dalai_Lama) dbp:title o'<3>",
+    "15" : "s(3rd_Dalai_Lama) dbp:title o'<Dalai_Lama>",
+    "16" : "s(3rd_Dalai_Lama) dbp:transprc o'<Soinam Gyaco>",
+    "17" : "s(3rd_Dalai_Lama) dbp:w o'<bsod nams rgya mtsho>",
+    "18" : "s(3rd_Dalai_Lama) dbp:wylie o'<bsod nams rgya mtsho>",
+    "19" : "s(3rd_Dalai_Lama) dbp:years o'<1578>",
+    "20" : "s(3rd_Dalai_Lama) dbp:z o'<Soinam Gyaco>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

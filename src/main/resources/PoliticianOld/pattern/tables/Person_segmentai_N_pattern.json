@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity11211",
+  "entityUrl" : "http://dbpedia.org/resource/Nasreen_Jahan",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Nasreen_Jahan) dbo:birthDate o'<1966-1-1>",
+    "2" : "s(Nasreen_Jahan) dbo:birthPlace o'<East_Pakistan>",
+    "3" : "s(Nasreen_Jahan) dbo:birthPlace o'<Mymensingh>",
+    "4" : "s(Nasreen_Jahan) dbo:birthYear o'<1966>",
+    "5" : "s(Nasreen_Jahan) dbo:occupation o'<Nasreen_Jahan__1>",
+    "6" : "s(Nasreen_Jahan) dbp:nationality o'<Bangladeshi>",
+    "7" : "s(Nasreen_Jahan) dbp:nativeName o'<à¦¨à¦¾à¦¸à¦°à§€à¦¨ à¦œà¦¾à¦¹à¦¾à¦¨>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11212",
+  "entityUrl" : "http://dbpedia.org/resource/Nadine_Conner",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Nadine_Conner) dbo:alias o'<Olga Bagdonova>",
+    "2" : "s(Nadine_Conner) dbo:almaMater o'<University_of_California>",
+    "3" : "s(Nadine_Conner) dbo:birthDate o'<1907-02-20>",
+    "4" : "s(Nadine_Conner) dbo:birthDate o'<1907-2-20>",
+    "5" : "s(Nadine_Conner) dbo:birthName o'<Evelyn Nadine Henderson>",
+    "6" : "s(Nadine_Conner) dbo:birthPlace o'<Compton,_California>",
+    "7" : "s(Nadine_Conner) dbo:birthYear o'<1907>",
+    "8" : "s(Nadine_Conner) dbo:deathDate o'<2003-03-01>",
+    "9" : "s(Nadine_Conner) dbo:deathDate o'<2003-3-1>",
+    "10" : "s(Nadine_Conner) dbo:deathPlace o'<Los_Angeles>",
+    "11" : "s(Nadine_Conner) dbo:deathYear o'<2003>",
+    "12" : "s(Nadine_Conner) dbo:occupation o'<Nadine_Conner__1>",
+    "13" : "s(Nadine_Conner) dbp:birthPlace o'<Compton, California>",
+    "14" : "s(Nadine_Conner) dbp:children o'<1>",
+    "15" : "s(Nadine_Conner) dbp:spouse o'<Dr Laurance Heacock>",
+    "16" : "s(Nadine_Conner) dbp:spouse o'<____ Conner>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11213",
+  "entityUrl" : "http://dbpedia.org/resource/Neville_Sandelson",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Neville_Sandelson) dbo:birthDate o'<1923-11-27>",
+    "2" : "s(Neville_Sandelson) dbo:country o'<United_Kingdom>",
+    "3" : "s(Neville_Sandelson) dbo:deathDate o'<2002-1-12>",
+    "4" : "s(Neville_Sandelson) dbo:party o'<Labor_Party_(UK)>",
+    "5" : "s(Neville_Sandelson) dbp:after o'<Terry_Dicks>",
+    "6" : "s(Neville_Sandelson) dbp:before o'<Arthur_Skeffington>",
+    "7" : "s(Neville_Sandelson) dbp:title o'<Member of Parliament for Hayes and Harlington>",
+    "8" : "s(Neville_Sandelson) dbp:years o'<1971>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11214",
+  "entityUrl" : "http://dbpedia.org/resource/Neisha",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Neisha) dbo:birthDate o'<1982-1-5>",
+    "2" : "s(Neisha) dbo:birthPlace o'<Ljubljana>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11215",
+  "entityUrl" : "http://dbpedia.org/resource/Numa_Sadoul",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Numa_Sadoul) dbo:birthDate o'<1947-1-1>",
+    "2" : "s(Numa_Sadoul) dbo:birthPlace o'<Brazzaville>",
+    "3" : "s(Numa_Sadoul) dbo:country o'<France>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11216",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Wickwire",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Nancy_Wickwire) dbo:birthDate o'<1925-11-20>",
+    "2" : "s(Nancy_Wickwire) dbo:birthPlace o'<Harrisburg,_Pennsylvania>",
+    "3" : "s(Nancy_Wickwire) dbo:deathDate o'<1974-7-10>",
+    "4" : "s(Nancy_Wickwire) dbo:deathPlace o'<San_Francisco>",
+    "5" : "s(Nancy_Wickwire) dbo:imdbId o'<0927018>",
+    "6" : "s(Nancy_Wickwire) dbp:name o'<Nancy Wickwire>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(nancy wickwire=Nancy_Wickwire) [died of cancer in ] o'<san francisco=San_Francisco>"
+  },
+  "abstract" : {
+    "5" : "nancy wickwire<Nancy_Wickwire> died of cancer in san francisco<San_Francisco>, california<San_Francisco> on july 10, 1974, aged 48\n"
+  }
+} ]

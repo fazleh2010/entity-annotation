@@ -1,0 +1,74 @@
+[ {
+  "entityIndex" : "entity11367",
+  "entityUrl" : "http://dbpedia.org/resource/Martha_Cope",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Martha_Cope) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11368",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Travers_(journalist)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Mary_Travers_(journalist)) dbo:birthDate o'<1958-7-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11369",
+  "entityUrl" : "http://dbpedia.org/resource/Michel_Bouillon",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Michel_Bouillon) dbo:deathDate o'<1700-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11370",
+  "entityUrl" : "http://dbpedia.org/resource/Mich%C3%A8le_Girardon",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11371",
+  "entityUrl" : "http://dbpedia.org/resource/Marcia_Angell",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Marcia_Angell) dbo:birthDate o'<1939-04-20>",
+    "2" : "s(Marcia_Angell) dbo:birthDate o'<1939-4-20>",
+    "3" : "s(Marcia_Angell) dbo:birthPlace o'<Knoxville,_Tennessee>",
+    "4" : "s(Marcia_Angell) dbo:birthYear o'<1939>",
+    "5" : "s(Marcia_Angell) dbo:occupation o'<Marcia_Angell__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11372",
+  "entityUrl" : "http://dbpedia.org/resource/Marjorie_Graves",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Marjorie_Graves) dbo:activeYearsEndDate o'<1935-11-13>",
+    "2" : "s(Marjorie_Graves) dbo:activeYearsStartDate o'<1931-10-27>",
+    "3" : "s(Marjorie_Graves) dbo:birthDate o'<1884-09-17>",
+    "4" : "s(Marjorie_Graves) dbo:birthDate o'<1884-9-17>",
+    "5" : "s(Marjorie_Graves) dbo:birthPlace o'<Liverpool>",
+    "6" : "s(Marjorie_Graves) dbo:birthPlace o'<Allerton,_Merseyside>",
+    "7" : "s(Marjorie_Graves) dbo:deathDate o'<1961-11-17>",
+    "8" : "s(Marjorie_Graves) dbo:deathPlace o'<Wareham,_Dorset>",
+    "9" : "s(Marjorie_Graves) dbo:nationality o'<United_Kingdom>",
+    "10" : "s(Marjorie_Graves) dbo:orderInOffice o'<Member of ParliamentforHackney South>",
+    "11" : "s(Marjorie_Graves) dbo:party o'<Conservative_Party_(UK)>",
+    "12" : "s(Marjorie_Graves) dbo:successor o'<Herbert_Morrison>",
+    "13" : "s(Marjorie_Graves) dbp:after o'<Herbert_Morrison>",
+    "14" : "s(Marjorie_Graves) dbp:before o'<Herbert_Morrison>",
+    "15" : "s(Marjorie_Graves) dbp:parliament o'<United Kingdom>",
+    "16" : "s(Marjorie_Graves) dbp:predecessor o'<Herbert_Morrison>",
+    "17" : "s(Marjorie_Graves) dbp:title o'<Member of Parliament for Hackney South>",
+    "18" : "s(Marjorie_Graves) dbp:years o'<1931>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

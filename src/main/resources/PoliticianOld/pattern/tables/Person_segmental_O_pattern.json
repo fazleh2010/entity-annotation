@@ -1,0 +1,106 @@
+[ {
+  "entityIndex" : "entity11704",
+  "entityUrl" : "http://dbpedia.org/resource/Osgod_Clapa",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Osgod_Clapa) dbo:deathDate o'<1054-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11705",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Malm",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Otto_Malm) dbo:birthDate o'<1838-07-25>",
+    "2" : "s(Otto_Malm) dbo:birthDate o'<1838-7-25>",
+    "3" : "s(Otto_Malm) dbo:birthPlace o'<Finland>",
+    "4" : "s(Otto_Malm) dbo:birthPlace o'<Jakobstad>",
+    "5" : "s(Otto_Malm) dbo:birthYear o'<1838>",
+    "6" : "s(Otto_Malm) dbo:deathDate o'<1898-11-25>",
+    "7" : "s(Otto_Malm) dbo:deathPlace o'<Finland>",
+    "8" : "s(Otto_Malm) dbo:deathPlace o'<Jakobstad>",
+    "9" : "s(Otto_Malm) dbo:deathYear o'<1898>",
+    "10" : "s(Otto_Malm) dbo:occupation o'<Otto_Malm__1>",
+    "11" : "s(Otto_Malm) dbo:spouse o'<Maria_Lovisa_Malm>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11706",
+  "entityUrl" : "http://dbpedia.org/resource/Oda_Nobutoshi",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Oda_Nobutoshi) dbo:birthDate o'<1853-11-19>",
+    "2" : "s(Oda_Nobutoshi) dbo:birthPlace o'<Edo>",
+    "3" : "s(Oda_Nobutoshi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Oda_Nobutoshi) dbo:deathDate o'<1901-06-06>",
+    "5" : "s(Oda_Nobutoshi) dbo:deathDate o'<1901-6-6>",
+    "6" : "s(Oda_Nobutoshi) dbo:deathPlace o'<Japan>",
+    "7" : "s(Oda_Nobutoshi) dbo:deathPlace o'<Tokyo>",
+    "8" : "s(Oda_Nobutoshi) dbo:orderInOffice o'<3rdLord of TendÅ�>",
+    "9" : "s(Oda_Nobutoshi) dbo:orderInOffice o'<5thLord of TendÅ�>",
+    "10" : "s(Oda_Nobutoshi) dbo:predecessor o'<Oda_Suemaru>",
+    "11" : "s(Oda_Nobutoshi) dbo:predecessor o'<Oda_Nobumichi>",
+    "12" : "s(Oda_Nobutoshi) dbo:successor o'<Oda_Suemaru>",
+    "13" : "s(Oda_Nobutoshi) dbp:after o'<Oda_Suemaru>",
+    "14" : "s(Oda_Nobutoshi) dbp:after o'<Oda_Nobutsune>",
+    "15" : "s(Oda_Nobutoshi) dbp:after o'<none>",
+    "16" : "s(Oda_Nobutoshi) dbp:before o'<Oda_Suemaru>",
+    "17" : "s(Oda_Nobutoshi) dbp:before o'<Oda_Nobumichi>",
+    "18" : "s(Oda_Nobutoshi) dbp:nationality o'<Japanese>",
+    "19" : "s(Oda_Nobutoshi) dbp:successor o'<none>",
+    "20" : "s(Oda_Nobutoshi) dbp:termEnd o'<1868>",
+    "21" : "s(Oda_Nobutoshi) dbp:termEnd o'<1871>",
+    "22" : "s(Oda_Nobutoshi) dbp:termStart o'<1868>",
+    "23" : "s(Oda_Nobutoshi) dbp:termStart o'<1869>",
+    "24" : "s(Oda_Nobutoshi) dbp:title o'<3>",
+    "25" : "s(Oda_Nobutoshi) dbp:title o'<5>",
+    "26" : "s(Oda_Nobutoshi) dbp:title o'<11>",
+    "27" : "s(Oda_Nobutoshi) dbp:title o'<13>",
+    "28" : "s(Oda_Nobutoshi) dbp:years o'<1868>",
+    "29" : "s(Oda_Nobutoshi) dbp:years o'<1869>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11707",
+  "entityUrl" : "http://dbpedia.org/resource/Orlando_Bloom",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Orlando_Bloom) dbo:activeYearsStartYear o'<1994>",
+    "2" : "s(Orlando_Bloom) dbo:birthDate o'<1977-01-13>",
+    "3" : "s(Orlando_Bloom) dbo:birthDate o'<1977-1-13>",
+    "4" : "s(Orlando_Bloom) dbo:birthName o'<Orlando Jonathan Blanchard Bloom>",
+    "5" : "s(Orlando_Bloom) dbo:birthPlace o'<Kent>",
+    "6" : "s(Orlando_Bloom) dbo:birthPlace o'<Canterbury>",
+    "7" : "s(Orlando_Bloom) dbo:birthYear o'<1977>",
+    "8" : "s(Orlando_Bloom) dbo:occupation o'<Orlando_Bloom__1>",
+    "9" : "s(Orlando_Bloom) dbo:religion o'<Buddhism>",
+    "10" : "s(Orlando_Bloom) dbo:spouse o'<Miranda_Kerr>",
+    "11" : "s(Orlando_Bloom) dbp:children o'<1>",
+    "12" : "s(Orlando_Bloom) dbp:imagesize o'<220>",
+    "13" : "s(Orlando_Bloom) dbp:title o'<Awards for Orlando Bloom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11708",
+  "entityUrl" : "http://dbpedia.org/resource/Olive_Pink",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Olive_Pink) dbo:birthDate o'<1884-3-17>",
+    "2" : "s(Olive_Pink) dbo:deathDate o'<1975-7-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11709",
+  "entityUrl" : "http://dbpedia.org/resource/Ole_Thyssen",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ole_Thyssen) dbo:birthDate o'<1944-11-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

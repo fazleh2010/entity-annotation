@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity14537",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_B._Calvert",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Walter_B._Calvert) dbo:birthDate o'<1904-12-23>",
+    "2" : "s(Walter_B._Calvert) dbo:deathDate o'<1987-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14538",
+  "entityUrl" : "http://dbpedia.org/resource/William_Borlase_(died_1630)",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(William_Borlase_(died_1630)) dbp:after o'<Arthur_Goodwin>",
+    "2" : "s(William_Borlase_(died_1630)) dbp:after o'<Richard_Lovelace_(c.1560-1622)>",
+    "3" : "s(William_Borlase_(died_1630)) dbp:after o'<Parliament suspended until 1640>",
+    "4" : "s(William_Borlase_(died_1630)) dbp:before o'<Henry_Coke>",
+    "5" : "s(William_Borlase_(died_1630)) dbp:before o'<Henry_Fleetwood_(Aylesbury_MP)>",
+    "6" : "s(William_Borlase_(died_1630)) dbp:before o'<Edmund_Waller>",
+    "7" : "s(William_Borlase_(died_1630)) dbp:before o'<John_Townsend_(MP_for_Wycombe)>",
+    "8" : "s(William_Borlase_(died_1630)) dbp:title o'<Member of Parliament for Wycombe>",
+    "9" : "s(William_Borlase_(died_1630)) dbp:with o'<Thomas_Lane_(MP)>",
+    "10" : "s(William_Borlase_(died_1630)) dbp:with o'<Henry_Neville_(MP_for_Wycombe)>",
+    "11" : "s(William_Borlase_(died_1630)) dbp:years o'<1614>",
+    "12" : "s(William_Borlase_(died_1630)) dbp:years o'<1628>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14539",
+  "entityUrl" : "http://dbpedia.org/resource/William_Borlase_(died_1629)",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(William_Borlase_(died_1629)) dbp:after o'<Samuel_Backhouse>",
+    "2" : "s(William_Borlase_(died_1629)) dbp:after o'<Francis_Goodwin_(MP)>",
+    "3" : "s(William_Borlase_(died_1629)) dbp:after o'<John_Dormer_(of_Dorton)>",
+    "4" : "s(William_Borlase_(died_1629)) dbp:after o'<William_Fleetwood_(died_1630)>",
+    "5" : "s(William_Borlase_(died_1629)) dbp:before o'<William_Fleetwood_(died_1630)>",
+    "6" : "s(William_Borlase_(died_1629)) dbp:before o'<Anthony_Tyringham>",
+    "7" : "s(William_Borlase_(died_1629)) dbp:before o'<Richard Moore>",
+    "8" : "s(William_Borlase_(died_1629)) dbp:before o'<John Lillye>",
+    "9" : "s(William_Borlase_(died_1629)) dbp:title o'<High_Sheriff_of_Buckinghamshire>",
+    "10" : "s(William_Borlase_(died_1629)) dbp:title o'<Member of Parliament for Aylesbury>",
+    "11" : "s(William_Borlase_(died_1629)) dbp:title o'<Member of Parliament for Buckinghamshire>",
+    "12" : "s(William_Borlase_(died_1629)) dbp:with o'<Francis_Goodwin_(MP)>",
+    "13" : "s(William_Borlase_(died_1629)) dbp:with o'<Sir William Smythe>",
+    "14" : "s(William_Borlase_(died_1629)) dbp:years o'<1601>",
+    "15" : "s(William_Borlase_(died_1629)) dbp:years o'<1604>",
+    "16" : "s(William_Borlase_(died_1629)) dbp:years o'<1614>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(william borlase (died 1629)=William_Borlase_(died_1629)) [high ] o'<sheriff of buckinghamshire=High_Sheriff_of_Buckinghamshire>",
+    "9" : "s(william borlase (died 1629)=William_Borlase_(died_1629)) [elected mp for ] o'<buckinghamshire=High_Sheriff_of_Buckinghamshire>",
+    "10" : "s(william borlase (died 1629)=William_Borlase_(died_1629)) [founded ] o'<sir william=William_Fleetwood_(died_1630)>"
+  },
+  "abstract" : {
+    "6" : "in 1601 william borlase (died 1629)<William_Borlase_(died_1629)> was high sheriff of buckinghamshire<High_Sheriff_of_Buckinghamshire>\n",
+    "9" : "william borlase (died 1629)<William_Borlase_(died_1629)> was elected mp for buckinghamshire<High_Sheriff_of_Buckinghamshire> in 1614\n",
+    "10" : "in 1624 william borlase (died 1629)<William_Borlase_(died_1629)> founded sir william<William_Fleetwood_(died_1630)> borlase's grammar school on its present site in memory of his son henry borlase, mp for marlow, who died in that year\n"
+  }
+}, {
+  "entityIndex" : "entity14540",
+  "entityUrl" : "http://dbpedia.org/resource/William_Bradshaw_Amos",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(William_Bradshaw_Amos) dbo:birthDate o'<1945-1-1>",
+    "2" : "s(William_Bradshaw_Amos) dbp:almaMater o'<University of Cambridge>",
+    "3" : "s(William_Bradshaw_Amos) dbp:almaMater o'<University of Oxford>",
+    "4" : "s(William_Bradshaw_Amos) dbp:birthDate o'<1945-11-21>",
+    "5" : "s(William_Bradshaw_Amos) dbp:dateformat o'<dmy>",
+    "6" : "s(William_Bradshaw_Amos) dbp:honorificSuffix o'<Fellow_of_the_Royal_Society>",
+    "7" : "s(William_Bradshaw_Amos) dbp:name o'<William Bradshaw Amos>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14541",
+  "entityUrl" : "http://dbpedia.org/resource/Willis_C._Silverthorn",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Willis_C._Silverthorn) dbo:deathDate o'<1916-10-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14542",
+  "entityUrl" : "http://dbpedia.org/resource/William_Blankenship",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(William_Blankenship) dbo:birthDate o'<1928-3-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

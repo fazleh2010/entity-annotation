@@ -1,0 +1,107 @@
+[ {
+  "entityIndex" : "entity11979",
+  "entityUrl" : "http://dbpedia.org/resource/Francesco_Bruyere",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Francesco_Bruyere) dbo:birthDate o'<1980-8-27>",
+    "2" : "s(Francesco_Bruyere) dbo:birthPlace o'<Carmagnola>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11980",
+  "entityUrl" : "http://dbpedia.org/resource/Franz_Birkfellner",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Franz_Birkfellner) dbo:birthDate o'<1976-11-20>",
+    "2" : "s(Franz_Birkfellner) dbo:birthPlace o'<Sankt_PÃ¶lten>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11981",
+  "entityUrl" : "http://dbpedia.org/resource/Fidus",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Fidus) dbo:birthDate o'<1868-10-8>",
+    "2" : "s(Fidus) dbo:birthPlace o'<LÃ¼beck>",
+    "3" : "s(Fidus) dbo:deathDate o'<1948-2-23>",
+    "4" : "s(Fidus) dbo:deathPlace o'<Woltersdorf,_Brandenburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11982",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_C._Thompson",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Francis_C._Thompson) dbo:almaMater o'<Delhi_High_School>",
+    "2" : "s(Francis_C._Thompson) dbo:almaMater o'<Louisiana_Tech_University>",
+    "3" : "s(Francis_C._Thompson) dbo:almaMater o'<University_of_Louisiana_at_Monroe>",
+    "4" : "s(Francis_C._Thompson) dbo:birthDate o'<1941-10-29>",
+    "5" : "s(Francis_C._Thompson) dbo:occupation o'<Real_estate>",
+    "6" : "s(Francis_C._Thompson) dbo:party o'<Democratic_Party_(United_States)>",
+    "7" : "s(Francis_C._Thompson) dbo:region o'<Louisiana>",
+    "8" : "s(Francis_C._Thompson) dbo:region o'<Concordia_Parish,_Louisiana>",
+    "9" : "s(Francis_C._Thompson) dbo:region o'<East_Carroll_Parish,_Louisiana>",
+    "10" : "s(Francis_C._Thompson) dbo:region o'<Madison_Parish,_Louisiana>",
+    "11" : "s(Francis_C._Thompson) dbo:region o'<Morehouse_Parish,_Louisiana>",
+    "12" : "s(Francis_C._Thompson) dbo:region o'<Ouachita_Parish,_Louisiana>",
+    "13" : "s(Francis_C._Thompson) dbo:region o'<Richland_Parish,_Louisiana>",
+    "14" : "s(Francis_C._Thompson) dbo:region o'<Tensas_Parish,_Louisiana>",
+    "15" : "s(Francis_C._Thompson) dbo:religion o'<Presbyterian_Church_in_the_United_States>",
+    "16" : "s(Francis_C._Thompson) dbo:residence o'<Louisiana>",
+    "17" : "s(Francis_C._Thompson) dbo:residence o'<Delhi,_Louisiana>",
+    "18" : "s(Francis_C._Thompson) dbp:after o'<Incumbent>",
+    "19" : "s(Francis_C._Thompson) dbp:after o'<Charles_%22Bubba%22_Chaney>",
+    "20" : "s(Francis_C._Thompson) dbp:before o'<Benny_Gay_Christian>",
+    "21" : "s(Francis_C._Thompson) dbp:before o'<Charles_Jones_(Louisiana_politician)>",
+    "22" : "s(Francis_C._Thompson) dbp:birthPlace o'<Place of birth missing>",
+    "23" : "s(Francis_C._Thompson) dbp:children o'<Three children, including Francis Todd Thompson and Brant L. Thompson>",
+    "24" : "s(Francis_C._Thompson) dbp:district o'<19>",
+    "25" : "s(Francis_C._Thompson) dbp:district o'<34>",
+    "26" : "s(Francis_C._Thompson) dbp:parents o'<Clyde Coleman, Sr., and Frances Nolan Thompson>",
+    "27" : "s(Francis_C._Thompson) dbp:preceded o'<Benny_Gay_Christian>",
+    "28" : "s(Francis_C._Thompson) dbp:preceded o'<Charles_Jones_(Louisiana_politician)>",
+    "29" : "s(Francis_C._Thompson) dbp:spouse o'<Marilyn Bryant Thompson>",
+    "30" : "s(Francis_C._Thompson) dbp:stateSenate o'<Louisiana>",
+    "31" : "s(Francis_C._Thompson) dbp:succeeded o'<Charles_%22Bubba%22_Chaney>",
+    "32" : "s(Francis_C._Thompson) dbp:succeeded o'<Incumbent>",
+    "33" : "s(Francis_C._Thompson) dbp:termEnd o'<2008>",
+    "34" : "s(Francis_C._Thompson) dbp:termStart o'<1975>",
+    "35" : "s(Francis_C._Thompson) dbp:termStart o'<2008>",
+    "36" : "s(Francis_C._Thompson) dbp:title o'<Louisiana State Representative for District 19>",
+    "37" : "s(Francis_C._Thompson) dbp:title o'<Louisiana State Senator for District 34>",
+    "38" : "s(Francis_C._Thompson) dbp:years o'<1975>",
+    "39" : "s(Francis_C._Thompson) dbp:years o'<2008>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(francis c. thompson=Francis_C._Thompson) [served senior democratic ] o'<louisiana=Louisiana>",
+    "8" : "s(francis c. thompson=Francis_C._Thompson) [vacated seat to thompson ] o'<charles jones=Charles_Jones_(Louisiana_politician)>"
+  },
+  "abstract" : {
+    "1" : "francis coleman thompson (born october 29, 1941) is a wealthy developer from delhi<Delhi,_Louisiana> in richland parish<Richland_Parish,_Louisiana>, louisiana<Louisiana>, usa, from which francis c. thompson<Francis_C._Thompson> served as a senior democratic member of the louisiana<Louisiana> house of representatives\n",
+    "8" : "ten days after francis c. thompson<Francis_C._Thompson> vacated the seat to thompson, charles jones<Charles_Jones_(Louisiana_politician)> was charged with two counts of making and subscribing a false federal income tax return and one count of tax evasion\n"
+  }
+}, {
+  "entityIndex" : "entity11983",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Biondi",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Frank_Biondi) dbo:birthDate o'<1945-1-9>",
+    "2" : "s(Frank_Biondi) dbo:birthPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(frank biondi=Frank_Biondi) [born in ] o'<new york city=New_York_city>"
+  },
+  "abstract" : {
+    "4" : "frank biondi<Frank_Biondi> was born in new york city<New_York_city> to frank biondi, sr\n"
+  }
+}, {
+  "entityIndex" : "entity11984",
+  "entityUrl" : "http://dbpedia.org/resource/Franz_K%C3%B6nig_(surgeon)",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

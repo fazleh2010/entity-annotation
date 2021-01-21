@@ -1,0 +1,105 @@
+[ {
+  "entityIndex" : "entity11716",
+  "entityUrl" : "http://dbpedia.org/resource/Quaquapitzahuac",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Quaquapitzahuac) dbo:deathDate o'<1407-0-0>",
+    "2" : "s(Quaquapitzahuac) dbp:after o'<Tlacateotl>",
+    "3" : "s(Quaquapitzahuac) dbp:before o'<&mdash;>",
+    "4" : "s(Quaquapitzahuac) dbp:children o'<Queen Matlalatzin>",
+    "5" : "s(Quaquapitzahuac) dbp:children o'<King Tlacateotl>",
+    "6" : "s(Quaquapitzahuac) dbp:children o'<Queen Huacaltzintli>",
+    "7" : "s(Quaquapitzahuac) dbp:deathDate o'<1407>",
+    "8" : "s(Quaquapitzahuac) dbp:father o'<Tezozomoc_(Azcapotzalco)>",
+    "9" : "s(Quaquapitzahuac) dbp:imagesize o'<99>",
+    "10" : "s(Quaquapitzahuac) dbp:name o'<Quaquapitzahuac>",
+    "11" : "s(Quaquapitzahuac) dbp:successor o'<Tlacateotl>",
+    "12" : "s(Quaquapitzahuac) dbp:title o'<King of Tlatelolco>",
+    "13" : "s(Quaquapitzahuac) dbp:title o'<Tlatoani of Tlatelolco>",
+    "14" : "s(Quaquapitzahuac) dbp:wife o'<Acxocueitl>",
+    "15" : "s(Quaquapitzahuac) dbp:years o'<1372>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11717",
+  "entityUrl" : "http://dbpedia.org/resource/Quock_Walker",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Quock_Walker) dbo:birthDate o'<1753-1-1>",
+    "2" : "s(Quock_Walker) dbo:birthPlace o'<Massachusetts>",
+    "3" : "s(Quock_Walker) dbo:birthYear o'<1753>",
+    "4" : "s(Quock_Walker) dbo:nationality o'<United_States>",
+    "5" : "s(Quock_Walker) dbo:occupation o'<Slavery>",
+    "6" : "s(Quock_Walker) dbo:occupation o'<Quock_Walker__1>",
+    "7" : "s(Quock_Walker) dbo:stateOfOrigin o'<United_States>",
+    "8" : "s(Quock_Walker) dbp:birthPlace o'<Massachusetts>",
+    "9" : "s(Quock_Walker) dbp:knownFor o'<Won his freedom based on unconstitutionality of slavery in Massachusetts>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11718",
+  "entityUrl" : "http://dbpedia.org/resource/Quenton_Ashlyn",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Quenton_Ashlyn) dbo:country o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(quenton ashlyn=Quenton_Ashlyn) [employed in clerical duties ] o'<royal=United_Kingdom>",
+    "7" : "s(quenton ashlyn=Quenton_Ashlyn) [attended torreyalexander revival meetings ] o'<royal=United_Kingdom>"
+  },
+  "abstract" : {
+    "4" : "before his entertainment career quenton ashlyn<Quenton_Ashlyn> was employed in clerical duties on a royal<United_Kingdom> commission, but quenton ashlyn<Quenton_Ashlyn> became so successful as a society entertainer that quenton ashlyn<Quenton_Ashlyn> abandoned government service\n",
+    "7" : "quenton ashlyn<Quenton_Ashlyn> attended the torrey-alexander revival meetings at the royal<United_Kingdom> albert hall, london<United_Kingdom> in 1905, after which quenton ashlyn<Quenton_Ashlyn> gave up the theatre life and lived as a devout christian\n"
+  }
+}, {
+  "entityIndex" : "entity11719",
+  "entityUrl" : "http://dbpedia.org/resource/Qiao_Qiao",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Qiao_Qiao) dbo:birthDate o'<1980-1-1>",
+    "2" : "s(Qiao_Qiao) dbo:birthPlace o'<China>",
+    "3" : "s(Qiao_Qiao) dbp:p o'<QiÃ¡o QiÃ¡o>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11720",
+  "entityUrl" : "http://dbpedia.org/resource/Qin_Song",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Qin_Song) dbp:kingdom o'<Sun_Quan>",
+    "2" : "s(Qin_Song) dbp:name o'<Qin Song>",
+    "3" : "s(Qin_Song) dbp:pinyin o'<QÃ­n SÅ�ng>",
+    "4" : "s(Qin_Song) dbp:simp o'<ç§¦æ�¾>",
+    "5" : "s(Qin_Song) dbp:title o'<Advisor>",
+    "6" : "s(Qin_Song) dbp:trad o'<ç§¦æ�¾>",
+    "7" : "s(Qin_Song) dbp:wg o'<Chin Sung>",
+    "8" : "s(Qin_Song) dbp:zi o'<Wenbiao>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11721",
+  "entityUrl" : "http://dbpedia.org/resource/Qasim_Ibrahim",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Qasim_Ibrahim) dbo:activeYearsStartYear o'<1986>",
+    "2" : "s(Qasim_Ibrahim) dbo:almaMater o'<Open_University_Malaysia>",
+    "3" : "s(Qasim_Ibrahim) dbo:birthDate o'<1951-08-30>",
+    "4" : "s(Qasim_Ibrahim) dbo:birthDate o'<1951-8-30>",
+    "5" : "s(Qasim_Ibrahim) dbo:birthName o'<Qasim Ibrahim>",
+    "6" : "s(Qasim_Ibrahim) dbo:birthPlace o'<Didhdhoo,_Alif_Dhaal_Atoll>",
+    "7" : "s(Qasim_Ibrahim) dbo:birthYear o'<1951>",
+    "8" : "s(Qasim_Ibrahim) dbo:child o'<Ibrahim_Qasim>",
+    "9" : "s(Qasim_Ibrahim) dbo:education o'<Honorary_Degree,_Doctor_of_Entrepreneurship>",
+    "10" : "s(Qasim_Ibrahim) dbo:networth o'<6.0E8>",
+    "11" : "s(Qasim_Ibrahim) dbo:occupation o'<Villa_Group>",
+    "12" : "s(Qasim_Ibrahim) dbo:occupation o'<Qasim_Ibrahim__1>",
+    "13" : "s(Qasim_Ibrahim) dbo:religion o'<Islam>",
+    "14" : "s(Qasim_Ibrahim) dbo:spouse o'<Rabia_Hussain>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

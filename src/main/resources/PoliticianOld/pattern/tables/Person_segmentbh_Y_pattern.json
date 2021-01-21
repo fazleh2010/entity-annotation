@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity11441",
+  "entityUrl" : "http://dbpedia.org/resource/Yekaterina_Bakhvalova",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Yekaterina_Bakhvalova) dbo:birthDate o'<1972-3-8>",
+    "2" : "s(Yekaterina_Bakhvalova) dbo:birthPlace o'<Saint_Petersburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11442",
+  "entityUrl" : "http://dbpedia.org/resource/Yuri_Avalishvili",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11443",
+  "entityUrl" : "http://dbpedia.org/resource/Yamna_Oubouhou",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Yamna_Oubouhou) dbo:birthDate o'<1974-2-20>",
+    "2" : "s(Yamna_Oubouhou) dbo:birthPlace o'<Morocco>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11444",
+  "entityUrl" : "http://dbpedia.org/resource/Yasser_Musa",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Yasser_Musa) dbo:birthDate o'<1970-07-17>",
+    "2" : "s(Yasser_Musa) dbo:birthDate o'<1970-7-17>",
+    "3" : "s(Yasser_Musa) dbo:birthPlace o'<Belize_City>",
+    "4" : "s(Yasser_Musa) dbo:birthPlace o'<British_Honduras>",
+    "5" : "s(Yasser_Musa) dbo:birthYear o'<1970>",
+    "6" : "s(Yasser_Musa) dbo:occupation o'<Yasser_Musa__1>",
+    "7" : "s(Yasser_Musa) dbp:knownFor o'<Landings, The Belize City Poem, Zero, New Belizean Art, Container Collection>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11445",
+  "entityUrl" : "http://dbpedia.org/resource/Yon%C3%A1_Magalh%C3%A3es",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11446",
+  "entityUrl" : "http://dbpedia.org/resource/Yvonne_Useldinger",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Yvonne_Useldinger) dbo:birthDate o'<1921-11-6>",
+    "2" : "s(Yvonne_Useldinger) dbo:birthPlace o'<Steinfort>",
+    "3" : "s(Yvonne_Useldinger) dbo:deathDate o'<2009-2-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

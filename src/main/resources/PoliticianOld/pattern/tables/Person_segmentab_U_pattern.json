@@ -1,0 +1,147 @@
+[ {
+  "entityIndex" : "entity10925",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrich,_Duke_of_W%C3%BCrttemberg",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10926",
+  "entityUrl" : "http://dbpedia.org/resource/Ursula_Thielemann",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Ursula_Thielemann) dbo:birthDate o'<1960-1-9>",
+    "2" : "s(Ursula_Thielemann) dbo:birthPlace o'<Hanau>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10927",
+  "entityUrl" : "http://dbpedia.org/resource/Userkare",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Userkare) dbo:birthDate o'<-2500-1-1>",
+    "2" : "s(Userkare) dbo:deathDate o'<-2330-1-1>",
+    "3" : "s(Userkare) dbp:altName o'<Woserkare>",
+    "4" : "s(Userkare) dbp:dynasty o'<Sixth_dynasty_of_Egypt>",
+    "5" : "s(Userkare) dbp:father o'<uncertain, possibly Teti>",
+    "6" : "s(Userkare) dbp:golden o'<Bikwy-nub>",
+    "7" : "s(Userkare) dbp:golden o'<Bjk.wj-nb.w>",
+    "8" : "s(Userkare) dbp:golden o'<G5*G5:S12>",
+    "9" : "s(Userkare) dbp:golden o'<Conjectural:>",
+    "10" : "s(Userkare) dbp:golden o'<The Two Golden Falcons>",
+    "11" : "s(Userkare) dbp:mother o'<uncertain, possibly Khuit>",
+    "12" : "s(Userkare) dbp:name o'<Userkare>",
+    "13" : "s(Userkare) dbp:nomen o'<Powerful is the Ka of Ra>",
+    "14" : "s(Userkare) dbp:nomen o'<Userkare>",
+    "15" : "s(Userkare) dbp:nomen o'<Wsr-k3-RË�>",
+    "16" : "s(Userkare) dbp:nomenhiero o'<N5-wsr-s-kA>",
+    "17" : "s(Userkare) dbp:predecessor o'<Teti>",
+    "18" : "s(Userkare) dbp:reign o'<1.57788E8>",
+    "19" : "s(Userkare) dbp:successor o'<Pepi_I_Meryre>",
+    "20" : "s(Userkare) dbp:title o'<Pharaoh>",
+    "21" : "s(Userkare) dbp:years o'<Sixth_dynasty_of_Egypt>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(userkare=Userkare) [also woserkare meaning powerful ] o'<pharaoh=Pharaoh>",
+    "3" : "s(userkare=Userkare) [attested in historical sources ] o'<userkare=Userkare>",
+    "5" : "s(userkare=Userkare) [may regent ] o'<pepi i=Pepi_I_Meryre>"
+  },
+  "abstract" : {
+    "1" : "userkare<Userkare> (also woserkare, meaning \"powerful is the soul of ra\") was the second pharaoh<Pharaoh> of the sixth dynasty<Sixth_Dynasty_of_Egypt>, reigning briefly, 1 to 5 years, in the late 24th to early 23rd century bc",
+    "3" : "although userkare<Userkare> is attested in historical sources, userkare<Userkare> is completely absent from the tomb of the egyptian officials who lived during his reign\n",
+    "5" : "alternatively, userkare<Userkare> may have been a regent who ruled during teti's son's childhood who later ascended the throne as pepi i<Pepi_I_Meryre>\n"
+  }
+}, {
+  "entityIndex" : "entity10928",
+  "entityUrl" : "http://dbpedia.org/resource/Uffe_Ellemann-Jensen",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Uffe_Ellemann-Jensen) dbo:birthDate o'<1941-11-01>",
+    "2" : "s(Uffe_Ellemann-Jensen) dbo:birthDate o'<1941-11-1>",
+    "3" : "s(Uffe_Ellemann-Jensen) dbo:birthPlace o'<Haarby>",
+    "4" : "s(Uffe_Ellemann-Jensen) dbo:nationality o'<Denmark>",
+    "5" : "s(Uffe_Ellemann-Jensen) dbo:orderInOffice o'<Leader of Venstre>",
+    "6" : "s(Uffe_Ellemann-Jensen) dbo:orderInOffice o'<Foreign Minister>",
+    "7" : "s(Uffe_Ellemann-Jensen) dbo:orderInOffice o'<President of the European Liberals>",
+    "8" : "s(Uffe_Ellemann-Jensen) dbo:party o'<Venstre_(Denmark)>",
+    "9" : "s(Uffe_Ellemann-Jensen) dbo:predecessor o'<Kjeld_Olesen>",
+    "10" : "s(Uffe_Ellemann-Jensen) dbo:predecessor o'<Willy_De_Clercq>",
+    "11" : "s(Uffe_Ellemann-Jensen) dbo:predecessor o'<Henning_Christophersen>",
+    "12" : "s(Uffe_Ellemann-Jensen) dbo:primeMinister o'<Poul_SchlÃ¼ter>",
+    "13" : "s(Uffe_Ellemann-Jensen) dbo:spouse o'<Alice_Vestergaard>",
+    "14" : "s(Uffe_Ellemann-Jensen) dbo:successor o'<Niels_Helveg_Petersen>",
+    "15" : "s(Uffe_Ellemann-Jensen) dbo:successor o'<Anders_Fogh_Rasmussen>",
+    "16" : "s(Uffe_Ellemann-Jensen) dbo:successor o'<Werner_Hoyer>",
+    "17" : "s(Uffe_Ellemann-Jensen) dbo:termPeriod o'<Uffe_Ellemann-Jensen__1>",
+    "18" : "s(Uffe_Ellemann-Jensen) dbo:termPeriod o'<Uffe_Ellemann-Jensen__2>",
+    "19" : "s(Uffe_Ellemann-Jensen) dbp:after o'<Niels_Helveg_Petersen>",
+    "20" : "s(Uffe_Ellemann-Jensen) dbp:after o'<Anders_Fogh_Rasmussen>",
+    "21" : "s(Uffe_Ellemann-Jensen) dbp:before o'<Kjeld_Olesen>",
+    "22" : "s(Uffe_Ellemann-Jensen) dbp:before o'<Henning_Christophersen>",
+    "23" : "s(Uffe_Ellemann-Jensen) dbp:termEnd o'<2000>",
+    "24" : "s(Uffe_Ellemann-Jensen) dbp:termStart o'<1995>",
+    "25" : "s(Uffe_Ellemann-Jensen) dbp:title o'<List_of_Foreign_Ministers_of_Denmark>",
+    "26" : "s(Uffe_Ellemann-Jensen) dbp:title o'<Venstre_(Denmark)>",
+    "27" : "s(Uffe_Ellemann-Jensen) dbp:years o'<1984>",
+    "28" : "s(Uffe_Ellemann-Jensen) dbp:years o'<--09-10>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(uffe ellemann-jensen=Uffe_Ellemann-Jensen) [leader of ] o'<danish liberal party=Venstre_(Denmark)>"
+  },
+  "abstract" : {
+    "2" : "uffe ellemann-jensen<Uffe_Ellemann-Jensen> was leader of the danish liberal party<Venstre_(Denmark)>, venstre<Venstre_(Denmark)> 1984â€“1998 and president of the european liberals<Venstre_(Denmark)> 1995â€“2000\n"
+  }
+}, {
+  "entityIndex" : "entity10929",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrich_von_Brockdorff-Rantzau",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:birthDate o'<1869-05-29>",
+    "2" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:birthDate o'<1869-5-29>",
+    "3" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:birthPlace o'<Schleswig,_Schleswig-Holstein>",
+    "4" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:birthPlace o'<Kingdom_of_Prussia>",
+    "5" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:birthPlace o'<Schleswig>",
+    "6" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:chancellor o'<Philipp_Scheidemann>",
+    "7" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:deathDate o'<1928-09-08>",
+    "8" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:deathDate o'<1928-9-8>",
+    "9" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:deathPlace o'<Berlin>",
+    "10" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:deathPlace o'<Free_State_of_Prussia>",
+    "11" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:orderInOffice o'<Foreign Minister of Germany>",
+    "12" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:predecessor o'<Wilhelm_Solf>",
+    "13" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:predecessor o'<Council_of_the_People's_Deputies>",
+    "14" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:president o'<Friedrich_Ebert>",
+    "15" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:profession o'<Diplomat>",
+    "16" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:successor o'<Hermann_MÃ¼ller_(politician)>",
+    "17" : "s(Ulrich_von_Brockdorff-Rantzau) dbo:termPeriod o'<Ulrich_von_Brockdorff-Rantzau__1>",
+    "18" : "s(Ulrich_von_Brockdorff-Rantzau) dbp:after o'<Hermann_MÃ¼ller_(politician)>",
+    "19" : "s(Ulrich_von_Brockdorff-Rantzau) dbp:before o'<Wilhelm_Solf>",
+    "20" : "s(Ulrich_von_Brockdorff-Rantzau) dbp:party o'<none>",
+    "21" : "s(Ulrich_von_Brockdorff-Rantzau) dbp:title o'<Foreign_Minister_of_Germany>",
+    "22" : "s(Ulrich_von_Brockdorff-Rantzau) dbp:years o'<1918>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10930",
+  "entityUrl" : "http://dbpedia.org/resource/Urvashi_Vaid",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Urvashi_Vaid) dbo:almaMater o'<Vassar_College>",
+    "2" : "s(Urvashi_Vaid) dbo:almaMater o'<Northeastern_University_School_of_Law>",
+    "3" : "s(Urvashi_Vaid) dbo:birthDate o'<1958-10-08>",
+    "4" : "s(Urvashi_Vaid) dbo:birthDate o'<1958-10-8>",
+    "5" : "s(Urvashi_Vaid) dbo:birthPlace o'<India>",
+    "6" : "s(Urvashi_Vaid) dbo:birthPlace o'<New_Delhi>",
+    "7" : "s(Urvashi_Vaid) dbo:birthYear o'<1958>",
+    "8" : "s(Urvashi_Vaid) dbo:partner o'<Kate_Clinton>",
+    "9" : "s(Urvashi_Vaid) dbo:residence o'<Manhattan>",
+    "10" : "s(Urvashi_Vaid) dbo:residence o'<Provincetown,_Massachusetts>",
+    "11" : "s(Urvashi_Vaid) dbo:residence o'<New_York_(state)>",
+    "12" : "s(Urvashi_Vaid) dbp:knownFor o'<Civil rights and anti-war activism>",
+    "13" : "s(Urvashi_Vaid) dbp:nationality o'<American>",
+    "14" : "s(Urvashi_Vaid) dbp:notableWorks o'<Virtual Equality: The Mainstreaming of Gay and Lesbian Liberation>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

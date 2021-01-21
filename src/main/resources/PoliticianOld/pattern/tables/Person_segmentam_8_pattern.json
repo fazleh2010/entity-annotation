@@ -1,0 +1,10 @@
+[ {
+  "entityIndex" : "entity11948",
+  "entityUrl" : "http://dbpedia.org/resource/8th_Arjia_Rinpoche",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(8th_Arjia_Rinpoche) dbo:birthDate o'<1950-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity10859",
+  "entityUrl" : "http://dbpedia.org/resource/John_Houghton_(politician)",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10860",
+  "entityUrl" : "http://dbpedia.org/resource/Jeffrey_Tate",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Jeffrey_Tate) dbo:birthDate o'<1943-4-28>",
+    "2" : "s(Jeffrey_Tate) dbo:birthPlace o'<Salisbury>",
+    "3" : "s(Jeffrey_Tate) dbp:after o'<Valery_Gergiev>",
+    "4" : "s(Jeffrey_Tate) dbp:after o'<Nicola_Luisotti>",
+    "5" : "s(Jeffrey_Tate) dbp:after o'<incumbent>",
+    "6" : "s(Jeffrey_Tate) dbp:after o'<Ralf GothÃ³ni>",
+    "7" : "s(Jeffrey_Tate) dbp:before o'<Gary_Bertini>",
+    "8" : "s(Jeffrey_Tate) dbp:before o'<Andrey_Boreyko>",
+    "9" : "s(Jeffrey_Tate) dbp:before o'<James_Conlon>",
+    "10" : "s(Jeffrey_Tate) dbp:before o'<no predecessor>",
+    "11" : "s(Jeffrey_Tate) dbp:title o'<Hamburger_Symphoniker>",
+    "12" : "s(Jeffrey_Tate) dbp:title o'<English_Chamber_Orchestra>",
+    "13" : "s(Jeffrey_Tate) dbp:title o'<Teatro_di_San_Carlo>",
+    "14" : "s(Jeffrey_Tate) dbp:title o'<Rotterdam_Philharmonic_Orchestra>",
+    "15" : "s(Jeffrey_Tate) dbp:years o'<1985>",
+    "16" : "s(Jeffrey_Tate) dbp:years o'<1991>",
+    "17" : "s(Jeffrey_Tate) dbp:years o'<2005>",
+    "18" : "s(Jeffrey_Tate) dbp:years o'<2009>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10861",
+  "entityUrl" : "http://dbpedia.org/resource/John_Misaubin",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(John_Misaubin) dbo:birthDate o'<1673-1-1>",
+    "2" : "s(John_Misaubin) dbo:deathDate o'<1734-4-20>",
+    "3" : "s(John_Misaubin) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10862",
+  "entityUrl" : "http://dbpedia.org/resource/Jutta_Limbach",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Jutta_Limbach) dbo:almaMater o'<Free_University_of_Berlin>",
+    "2" : "s(Jutta_Limbach) dbo:birthDate o'<1934-03-27>",
+    "3" : "s(Jutta_Limbach) dbo:birthDate o'<1934-3-27>",
+    "4" : "s(Jutta_Limbach) dbo:birthPlace o'<Berlin>",
+    "5" : "s(Jutta_Limbach) dbo:deathDate o'<2016-9-10>",
+    "6" : "s(Jutta_Limbach) dbo:deathPlace o'<Berlin>",
+    "7" : "s(Jutta_Limbach) dbo:office o'<Senator for Justice ofBerlin>",
+    "8" : "s(Jutta_Limbach) dbo:office o'<Vice President of theFederal Constitutional Court of Germany>",
+    "9" : "s(Jutta_Limbach) dbo:office o'<President of the Federal Constitutional Court of Germany>",
+    "10" : "s(Jutta_Limbach) dbo:predecessor o'<Roman_Herzog>",
+    "11" : "s(Jutta_Limbach) dbo:predecessor o'<Rupert_Scholz>",
+    "12" : "s(Jutta_Limbach) dbo:predecessor o'<Ernst_Mahrenholz>",
+    "13" : "s(Jutta_Limbach) dbo:successor o'<Hans-JÃ¼rgen_Papier>",
+    "14" : "s(Jutta_Limbach) dbo:successor o'<Johann_Friedrich_Henschel>",
+    "15" : "s(Jutta_Limbach) dbo:successor o'<Lore_Maria_Peschel-Gutzeit>",
+    "16" : "s(Jutta_Limbach) dbo:termPeriod o'<Jutta_Limbach__1>",
+    "17" : "s(Jutta_Limbach) dbo:termPeriod o'<Jutta_Limbach__2>",
+    "18" : "s(Jutta_Limbach) dbo:termPeriod o'<Jutta_Limbach__3>",
+    "19" : "s(Jutta_Limbach) dbp:after o'<Klaus-Dieter Lehmann>",
+    "20" : "s(Jutta_Limbach) dbp:before o'<Hilmar_Hoffmann>",
+    "21" : "s(Jutta_Limbach) dbp:imagesize o'<150>",
+    "22" : "s(Jutta_Limbach) dbp:nationality o'<German>",
+    "23" : "s(Jutta_Limbach) dbp:termEnd o'<1994>",
+    "24" : "s(Jutta_Limbach) dbp:termStart o'<1989>",
+    "25" : "s(Jutta_Limbach) dbp:title o'<President of the Goethe-Institut>",
+    "26" : "s(Jutta_Limbach) dbp:years o'<2001>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10863",
+  "entityUrl" : "http://dbpedia.org/resource/John_William_Gott",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(John_William_Gott) dbo:birthDate o'<1866-1-1>",
+    "2" : "s(John_William_Gott) dbo:deathDate o'<1922-11-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10864",
+  "entityUrl" : "http://dbpedia.org/resource/Janusz_Wi%C5%9Bniowiecki",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

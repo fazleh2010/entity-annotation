@@ -1,0 +1,72 @@
+[ {
+  "entityIndex" : "entity11321",
+  "entityUrl" : "http://dbpedia.org/resource/Emma_Moretto",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Emma_Moretto) dbo:birthDate o'<1900-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11322",
+  "entityUrl" : "http://dbpedia.org/resource/Ebrahim_Khan_Kalantar",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Ebrahim_Khan_Kalantar) dbo:wikiPageRedirects o'<Ebrahim_Kalantar_Shirazi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11323",
+  "entityUrl" : "http://dbpedia.org/resource/Erna_Viitol",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Erna_Viitol) dbo:birthDate o'<1920-5-10>",
+    "2" : "s(Erna_Viitol) dbo:deathDate o'<2001-11-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11324",
+  "entityUrl" : "http://dbpedia.org/resource/Eduardo_Quian_Alcocer",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Eduardo_Quian_Alcocer) dbo:birthDate o'<1967-12-01>",
+    "2" : "s(Eduardo_Quian_Alcocer) dbo:birthDate o'<1967-12-1>",
+    "3" : "s(Eduardo_Quian_Alcocer) dbo:birthPlace o'<MichoacÃ¡n>",
+    "4" : "s(Eduardo_Quian_Alcocer) dbo:birthPlace o'<Mexico>",
+    "5" : "s(Eduardo_Quian_Alcocer) dbo:birthYear o'<1967>",
+    "6" : "s(Eduardo_Quian_Alcocer) dbo:occupation o'<Eduardo_Quian_Alcocer__1>",
+    "7" : "s(Eduardo_Quian_Alcocer) dbp:ethnicity o'<Mexican politician>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11325",
+  "entityUrl" : "http://dbpedia.org/resource/Esther_Quintana_Salinas",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Esther_Quintana_Salinas) dbo:birthDate o'<1951-07-01>",
+    "2" : "s(Esther_Quintana_Salinas) dbo:birthDate o'<1951-7-1>",
+    "3" : "s(Esther_Quintana_Salinas) dbo:birthPlace o'<Acapulco>",
+    "4" : "s(Esther_Quintana_Salinas) dbo:birthPlace o'<Guerrero>",
+    "5" : "s(Esther_Quintana_Salinas) dbo:birthPlace o'<Mexico>",
+    "6" : "s(Esther_Quintana_Salinas) dbo:birthYear o'<1951>",
+    "7" : "s(Esther_Quintana_Salinas) dbo:ethnicity o'<Mexican_people>",
+    "8" : "s(Esther_Quintana_Salinas) dbo:occupation o'<Esther_Quintana_Salinas__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11326",
+  "entityUrl" : "http://dbpedia.org/resource/Eveline_Adelheid_von_Maydell",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Eveline_Adelheid_von_Maydell) dbo:birthDate o'<1890-5-19>",
+    "2" : "s(Eveline_Adelheid_von_Maydell) dbo:birthPlace o'<Tehran>",
+    "3" : "s(Eveline_Adelheid_von_Maydell) dbo:deathDate o'<1962-12-24>",
+    "4" : "s(Eveline_Adelheid_von_Maydell) dbo:deathPlace o'<Sintra>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity11973",
+  "entityUrl" : "http://dbpedia.org/resource/Edith_Rodriguez",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Edith_Rodriguez) dbo:wikiPageRedirects o'<Death_of_Edith_Rodriguez>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11974",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_Randolph",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Edward_Randolph) dbo:birthDate o'<1690-10-1>",
+    "2" : "s(Edward_Randolph) dbo:deathDate o'<1750-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11975",
+  "entityUrl" : "http://dbpedia.org/resource/Eugeniusz_Czajka",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Eugeniusz_Czajka) dbo:birthDate o'<1927-3-25>",
+    "2" : "s(Eugeniusz_Czajka) dbo:deathDate o'<2011-2-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11976",
+  "entityUrl" : "http://dbpedia.org/resource/Evgeny_Agrest",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Evgeny_Agrest) dbo:birthDate o'<1966-08-15>",
+    "2" : "s(Evgeny_Agrest) dbo:birthDate o'<1966-8-15>",
+    "3" : "s(Evgeny_Agrest) dbo:birthPlace o'<Soviet_Union>",
+    "4" : "s(Evgeny_Agrest) dbo:birthPlace o'<Vitebsk>",
+    "5" : "s(Evgeny_Agrest) dbo:birthPlace o'<Belarusian_SSR>",
+    "6" : "s(Evgeny_Agrest) dbo:country o'<Soviet_Union>",
+    "7" : "s(Evgeny_Agrest) dbo:country o'<Sweden>",
+    "8" : "s(Evgeny_Agrest) dbo:title o'<Grandmaster(1997)>",
+    "9" : "s(Evgeny_Agrest) dbp:fideid o'<1705024>",
+    "10" : "s(Evgeny_Agrest) dbp:id o'<18229>",
+    "11" : "s(Evgeny_Agrest) dbp:name o'<Evgenij Agrest>",
+    "12" : "s(Evgeny_Agrest) dbp:peakrating o'<2616>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11977",
+  "entityUrl" : "http://dbpedia.org/resource/Edwyn_Sherard_Burnaby",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Edwyn_Sherard_Burnaby) dbo:birthDate o'<1830-0-0>",
+    "2" : "s(Edwyn_Sherard_Burnaby) dbo:deathDate o'<1883-5-31>",
+    "3" : "s(Edwyn_Sherard_Burnaby) dbp:after o'<John_Manners,_7th_Duke_of_Rutland>",
+    "4" : "s(Edwyn_Sherard_Burnaby) dbp:after o'<Montagu_Curzon>",
+    "5" : "s(Edwyn_Sherard_Burnaby) dbp:before o'<John_Manners,_7th_Duke_of_Rutland>",
+    "6" : "s(Edwyn_Sherard_Burnaby) dbp:before o'<Samuel_William_Clowes>",
+    "7" : "s(Edwyn_Sherard_Burnaby) dbp:title o'<Member of Parliament for Leicestershire North>",
+    "8" : "s(Edwyn_Sherard_Burnaby) dbp:with o'<John_Manners,_7th_Duke_of_Rutland>",
+    "9" : "s(Edwyn_Sherard_Burnaby) dbp:years o'<1880>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "8" : "s(edwyn sherard burnaby=Edwyn_Sherard_Burnaby) [elected conservative member of ] o'<lord john manners=John_Manners,_7th_Duke_of_Rutland>"
+  },
+  "abstract" : {
+    "8" : "in 1880 edwyn sherard burnaby<Edwyn_Sherard_Burnaby> was elected conservative member of parliament for north leicestershire together with lord john manners<John_Manners,_7th_Duke_of_Rutland>\n"
+  }
+}, {
+  "entityIndex" : "entity11978",
+  "entityUrl" : "http://dbpedia.org/resource/Egbert_(archbishop_of_Trier)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Egbert_(archbishop_of_Trier)) dbo:birthDate o'<950-0-0>",
+    "2" : "s(Egbert_(archbishop_of_Trier)) dbo:deathDate o'<993-12-0>",
+    "3" : "s(Egbert_(archbishop_of_Trier)) dbo:deathPlace o'<Trier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

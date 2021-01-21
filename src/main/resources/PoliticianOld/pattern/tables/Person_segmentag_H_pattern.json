@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity10847",
+  "entityUrl" : "http://dbpedia.org/resource/Hallvard_Eika",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Hallvard_Eika) dbo:birthDate o'<1920-12-5>",
+    "2" : "s(Hallvard_Eika) dbo:deathDate o'<1989-5-17>",
+    "3" : "s(Hallvard_Eika) dbp:after o'<Johan_A._Vikan>",
+    "4" : "s(Hallvard_Eika) dbp:after o'<Thorstein_Treholt>",
+    "5" : "s(Hallvard_Eika) dbp:after o'<Jens_Ingebret_Evensen>",
+    "6" : "s(Hallvard_Eika) dbp:before o'<Per_Andreas_Kleppe>",
+    "7" : "s(Hallvard_Eika) dbp:before o'<Bjarne_Lyngstad>",
+    "8" : "s(Hallvard_Eika) dbp:before o'<Ole_RÃ¸mer_Aagaard_Sandberg>",
+    "9" : "s(Hallvard_Eika) dbp:title o'<Minister_of_Trade_and_Shipping_(Norway)>",
+    "10" : "s(Hallvard_Eika) dbp:title o'<Minister_of_Agriculture_(Norway)>",
+    "11" : "s(Hallvard_Eika) dbp:title o'<Chairman of the Norwegian Agrarian Association>",
+    "12" : "s(Hallvard_Eika) dbp:years o'<1955>",
+    "13" : "s(Hallvard_Eika) dbp:years o'<1970>",
+    "14" : "s(Hallvard_Eika) dbp:years o'<1972>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(hallvard eika=Hallvard_Eika) [appointed ] o'<minister of agriculture=Minister_of_Agriculture_(Norway)>"
+  },
+  "abstract" : {
+    "4" : "on 21 august 1970 hallvard eika<Hallvard_Eika> was appointed minister of agriculture<Minister_of_Agriculture_(Norway)> during the centre-right cabinet borten, replacing bjarne lyngstad<Bjarne_Lyngstad>\n"
+  }
+}, {
+  "entityIndex" : "entity10848",
+  "entityUrl" : "http://dbpedia.org/resource/Haakon_Martin_Evjenth",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Haakon_Martin_Evjenth) dbo:birthDate o'<1865-7-14>",
+    "2" : "s(Haakon_Martin_Evjenth) dbo:deathDate o'<1934-11-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10849",
+  "entityUrl" : "http://dbpedia.org/resource/Hippolyte_Arnoux",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10850",
+  "entityUrl" : "http://dbpedia.org/resource/Hans_Zehrer",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Hans_Zehrer) dbo:birthDate o'<1899-6-22>",
+    "2" : "s(Hans_Zehrer) dbo:birthPlace o'<Berlin>",
+    "3" : "s(Hans_Zehrer) dbo:deathDate o'<1966-8-23>",
+    "4" : "s(Hans_Zehrer) dbo:deathPlace o'<Berlin>",
+    "5" : "s(Hans_Zehrer) dbo:imdbId o'<1191574>",
+    "6" : "s(Hans_Zehrer) dbp:name o'<Hans Zehrer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10851",
+  "entityUrl" : "http://dbpedia.org/resource/Hideaki_Miyamura",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Hideaki_Miyamura) dbo:birthDate o'<1955-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10852",
+  "entityUrl" : "http://dbpedia.org/resource/Herschel_Bernardi",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Herschel_Bernardi) dbo:activeYearsEndYear o'<1986>",
+    "2" : "s(Herschel_Bernardi) dbo:activeYearsStartYear o'<1937>",
+    "3" : "s(Herschel_Bernardi) dbo:birthDate o'<1923-10-30>",
+    "4" : "s(Herschel_Bernardi) dbo:birthName o'<Herschel Bernardi>",
+    "5" : "s(Herschel_Bernardi) dbo:birthPlace o'<New_York_City>",
+    "6" : "s(Herschel_Bernardi) dbo:birthPlace o'<New_York_City,_New_York>",
+    "7" : "s(Herschel_Bernardi) dbo:birthYear o'<1923>",
+    "8" : "s(Herschel_Bernardi) dbo:deathCause o'<Heart_attack>",
+    "9" : "s(Herschel_Bernardi) dbo:deathDate o'<1986-05-09>",
+    "10" : "s(Herschel_Bernardi) dbo:deathDate o'<1986-5-9>",
+    "11" : "s(Herschel_Bernardi) dbo:deathPlace o'<Los_Angeles>",
+    "12" : "s(Herschel_Bernardi) dbo:deathPlace o'<Los_Angeles,_California>",
+    "13" : "s(Herschel_Bernardi) dbo:deathYear o'<1986>",
+    "14" : "s(Herschel_Bernardi) dbo:imdbId o'<0076453>",
+    "15" : "s(Herschel_Bernardi) dbo:occupation o'<Herschel_Bernardi__1>",
+    "16" : "s(Herschel_Bernardi) dbp:children o'<Michael Bernardi>",
+    "17" : "s(Herschel_Bernardi) dbp:imageSize o'<200>",
+    "18" : "s(Herschel_Bernardi) dbp:name o'<Herschel Bernardi>",
+    "19" : "s(Herschel_Bernardi) dbp:spouse o'<Teri Bernardi>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(herschel bernardi=Herschel_Bernardi) [est un acteur et chanteur ] o'<new york=New_York_City>"
+  },
+  "abstract" : {
+    "3" : "herschel bernardi<Herschel_Bernardi> est un acteur et chanteur amã©ricain nã© le 30 octobre 1923 ã  new york<New_York_City> (ã‰tat de new york<New_York_City>) et mort le 9 mai 1986 ã  los angeles<Los_Angeles> (californie)"
+  }
+} ]

@@ -1,0 +1,184 @@
+[ {
+  "entityIndex" : "entity10671",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Ford_Coppola",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Francis_Ford_Coppola) dbo:activeYearsStartYear o'<1962>",
+    "2" : "s(Francis_Ford_Coppola) dbo:almaMater o'<UCLA_School_of_Theater,_Film_and_Television>",
+    "3" : "s(Francis_Ford_Coppola) dbo:almaMater o'<Hofstra_University>",
+    "4" : "s(Francis_Ford_Coppola) dbo:birthDate o'<1939-04-07>",
+    "5" : "s(Francis_Ford_Coppola) dbo:birthDate o'<1939-4-7>",
+    "6" : "s(Francis_Ford_Coppola) dbo:birthPlace o'<Detroit>",
+    "7" : "s(Francis_Ford_Coppola) dbo:birthPlace o'<Michigan>",
+    "8" : "s(Francis_Ford_Coppola) dbo:birthYear o'<1939>",
+    "9" : "s(Francis_Ford_Coppola) dbo:child o'<Gian-Carlo_Coppola>",
+    "10" : "s(Francis_Ford_Coppola) dbo:child o'<Roman_Coppola>",
+    "11" : "s(Francis_Ford_Coppola) dbo:child o'<Sofia_Coppola>",
+    "12" : "s(Francis_Ford_Coppola) dbo:education o'<Great_Neck_North_High_School>",
+    "13" : "s(Francis_Ford_Coppola) dbo:hometown o'<Woodside,_Queens>",
+    "14" : "s(Francis_Ford_Coppola) dbo:hometown o'<New_York_City>",
+    "15" : "s(Francis_Ford_Coppola) dbo:hometown o'<New_York_(state)>",
+    "16" : "s(Francis_Ford_Coppola) dbo:occupation o'<Francis_Ford_Coppola__1>",
+    "17" : "s(Francis_Ford_Coppola) dbo:parent o'<Italia_Coppola>",
+    "18" : "s(Francis_Ford_Coppola) dbo:parent o'<Carmine_Coppola>",
+    "19" : "s(Francis_Ford_Coppola) dbo:party o'<Democratic_Party_(United_States)>",
+    "20" : "s(Francis_Ford_Coppola) dbo:residence o'<California>",
+    "21" : "s(Francis_Ford_Coppola) dbo:residence o'<Napa_Valley>",
+    "22" : "s(Francis_Ford_Coppola) dbo:spouse o'<Eleanor_Coppola>",
+    "23" : "s(Francis_Ford_Coppola) dbp:family o'<Robert_Schwartzman>",
+    "24" : "s(Francis_Ford_Coppola) dbp:family o'<Nicolas_Cage>",
+    "25" : "s(Francis_Ford_Coppola) dbp:family o'<Talia_Shire>",
+    "26" : "s(Francis_Ford_Coppola) dbp:family o'<August_Coppola>",
+    "27" : "s(Francis_Ford_Coppola) dbp:family o'<Gia_Coppola>",
+    "28" : "s(Francis_Ford_Coppola) dbp:family o'<Jason_Schwartzman>",
+    "29" : "s(Francis_Ford_Coppola) dbp:family o'<Marc_Coppola_(actor)>",
+    "30" : "s(Francis_Ford_Coppola) dbp:title o'<Awards for Francis Ford Coppola>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(francis ford coppola=Francis_Ford_Coppola) [considered to ] o'<new=New_York_City>"
+  },
+  "abstract" : {
+    "2" : "francis ford coppola<Francis_Ford_Coppola> is considered to have been a central figure of the new<New_York_City> hollywood wave of filmmaking\n"
+  }
+}, {
+  "entityIndex" : "entity10672",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7ois_Truffaut",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10673",
+  "entityUrl" : "http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Chopin",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10674",
+  "entityUrl" : "http://dbpedia.org/resource/Franz_Kafka",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Franz_Kafka) dbo:almaMater o'<German_Charles-Ferdinand_University>",
+    "2" : "s(Franz_Kafka) dbo:birthDate o'<1883-07-03>",
+    "3" : "s(Franz_Kafka) dbo:birthDate o'<1883-7-3>",
+    "4" : "s(Franz_Kafka) dbo:birthPlace o'<Austria-Hungary>",
+    "5" : "s(Franz_Kafka) dbo:birthPlace o'<Czech_Republic>",
+    "6" : "s(Franz_Kafka) dbo:birthPlace o'<Prague>",
+    "7" : "s(Franz_Kafka) dbo:birthPlace o'<Kingdom_of_Bohemia>",
+    "8" : "s(Franz_Kafka) dbo:birthYear o'<1883>",
+    "9" : "s(Franz_Kafka) dbo:citizenship o'<Austria-Hungary>",
+    "10" : "s(Franz_Kafka) dbo:citizenship o'<Czechoslovakia>",
+    "11" : "s(Franz_Kafka) dbo:deathDate o'<1924-06-03>",
+    "12" : "s(Franz_Kafka) dbo:deathDate o'<1924-6-3>",
+    "13" : "s(Franz_Kafka) dbo:deathPlace o'<Klosterneuburg>",
+    "14" : "s(Franz_Kafka) dbo:deathPlace o'<First_Austrian_Republic>",
+    "15" : "s(Franz_Kafka) dbo:deathPlace o'<Lower_Austria>",
+    "16" : "s(Franz_Kafka) dbo:deathPlace o'<Q875133>",
+    "17" : "s(Franz_Kafka) dbo:deathYear o'<1924>",
+    "18" : "s(Franz_Kafka) dbo:occupation o'<Franz_Kafka__1>",
+    "19" : "s(Franz_Kafka) dbo:occupation o'<Novelist>",
+    "20" : "s(Franz_Kafka) dbo:parent o'<NÃ©e>",
+    "21" : "s(Franz_Kafka) dbp:b o'<no>",
+    "22" : "s(Franz_Kafka) dbp:id o'<15578>",
+    "23" : "s(Franz_Kafka) dbp:mw o'<no>",
+    "24" : "s(Franz_Kafka) dbp:name o'<Franz Kafka>",
+    "25" : "s(Franz_Kafka) dbp:notableWorks o'<\">",
+    "26" : "s(Franz_Kafka) dbp:notableWorks o'<''>",
+    "27" : "s(Franz_Kafka) dbp:notableWorks o'<''>",
+    "28" : "s(Franz_Kafka) dbp:notableWorks o'<*>",
+    "29" : "s(Franz_Kafka) dbp:notableWorks o'<* \">",
+    "30" : "s(Franz_Kafka) dbp:signature o'<Franz Kafka's signature.svg>",
+    "31" : "s(Franz_Kafka) dbp:style o'<Modernist_literature>",
+    "32" : "s(Franz_Kafka) dbp:v o'<no>",
+    "33" : "s(Franz_Kafka) dbp:voy o'<no>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(franz kafka=Franz_Kafka) [3 july 1883  3 ] o'<writer of novels=Novelist>",
+    "5" : "s(franz kafka=Franz_Kafka) [born into middleclass ] o'<prague=Prague>",
+    "9" : "s(franz kafka=Franz_Kafka) [works published during his ] o'<country=Czech_Republic>",
+    "10" : "s(franz kafka=Franz_Kafka) [unfinished works including his ] o'<novels=Novelist>"
+  },
+  "abstract" : {
+    "1" : "franz kafka<Franz_Kafka> (3 july 1883 â€“ 3 june 1924) was a german-language writer of novels<Novelist> and short stories who is widely regarded as one of the major figures of 20th-century literature<Modernist_literature>",
+    "5" : "the austro-hungarian empire<Austria-Hungary>5 was born into a middle-class, german-speaking jewish family in the austro-hungarian empire<Austria-Hungary>2, the the austro-hungarian empire<Austria-Hungary>0 of the kingdom of bohemia<Kingdom_of_Bohemia>, then part of the austro-hungarian empire<Austria-Hungary>",
+    "9" : "few of kafka's<Franz_Kafka> works were published during his lifetime: the story collections betrachtung (contemplation) and ein landarzt (a country<Czech_Republic> doctor), and individual stories (such as \"die verwandlung\") were published in literary magazines but received little public attention",
+    "10" : "kafka's<Franz_Kafka> unfinished works, including his novels<Novelist> der process, das schloss and amerika (also known as der verschollene, the man who disappeared), were ordered by kafka<Franz_Kafka> to be destroyed by his friend max brod, who nonetheless ignored his friend's direction and published them after kafka's<Franz_Kafka> death"
+  }
+}, {
+  "entityIndex" : "entity10675",
+  "entityUrl" : "http://dbpedia.org/resource/FM-2030",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(FM-2030) dbo:birthDate o'<1930-10-15>",
+    "2" : "s(FM-2030) dbo:birthName o'<Fereidoun M. Esfandiary>",
+    "3" : "s(FM-2030) dbo:birthPlace o'<City_of_Brussels>",
+    "4" : "s(FM-2030) dbo:deathDate o'<2000-07-08>",
+    "5" : "s(FM-2030) dbo:deathDate o'<2000-7-8>",
+    "6" : "s(FM-2030) dbo:deathPlace o'<New_York_City>",
+    "7" : "s(FM-2030) dbo:genre o'<Futurology>",
+    "8" : "s(FM-2030) dbo:movement o'<Transhumanism>",
+    "9" : "s(FM-2030) dbo:nationality o'<Iranian-American>",
+    "10" : "s(FM-2030) dbp:deathPlace o'<New York City, New York, U.S.>",
+    "11" : "s(FM-2030) dbp:notableworks o'<Are You a Transhuman?>",
+    "12" : "s(FM-2030) dbp:occupation o'<Writer, philosopher, teacher, consultant>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(fm-2030=FM-2030) [became notable ] o'<transhumanist=Transhumanism>"
+  },
+  "abstract" : {
+    "4" : "fm-2030<FM-2030> became notable as a transhumanist<Transhumanism> with the book are you a transhuman<Transhumanism>\n"
+  }
+}, {
+  "entityIndex" : "entity10676",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Scott_Key",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Francis_Scott_Key) dbo:birthDate o'<1779-08-01>",
+    "2" : "s(Francis_Scott_Key) dbo:birthDate o'<1779-8-1>",
+    "3" : "s(Francis_Scott_Key) dbo:birthPlace o'<United_States>",
+    "4" : "s(Francis_Scott_Key) dbo:birthPlace o'<Maryland>",
+    "5" : "s(Francis_Scott_Key) dbo:birthPlace o'<Carroll_County,_Maryland>",
+    "6" : "s(Francis_Scott_Key) dbo:birthPlace o'<Frederick_County,_Maryland>",
+    "7" : "s(Francis_Scott_Key) dbo:birthYear o'<1779>",
+    "8" : "s(Francis_Scott_Key) dbo:child o'<Philip_Barton_Key_II>",
+    "9" : "s(Francis_Scott_Key) dbo:child o'<John_Ross_Key>",
+    "10" : "s(Francis_Scott_Key) dbo:deathDate o'<1843-01-11>",
+    "11" : "s(Francis_Scott_Key) dbo:deathDate o'<1843-1-11>",
+    "12" : "s(Francis_Scott_Key) dbo:deathPlace o'<United_States>",
+    "13" : "s(Francis_Scott_Key) dbo:deathPlace o'<Maryland>",
+    "14" : "s(Francis_Scott_Key) dbo:deathPlace o'<Baltimore>",
+    "15" : "s(Francis_Scott_Key) dbo:deathYear o'<1843>",
+    "16" : "s(Francis_Scott_Key) dbo:ethnicity o'<English_American>",
+    "17" : "s(Francis_Scott_Key) dbo:nationality o'<United_States_of_America>",
+    "18" : "s(Francis_Scott_Key) dbo:occupation o'<Lawyer>",
+    "19" : "s(Francis_Scott_Key) dbo:occupation o'<Francis_Scott_Key__1>",
+    "20" : "s(Francis_Scott_Key) dbo:occupation o'<District_attorney>",
+    "21" : "s(Francis_Scott_Key) dbo:occupation o'<Poet>",
+    "22" : "s(Francis_Scott_Key) dbo:relative o'<Philip_Barton_Key>",
+    "23" : "s(Francis_Scott_Key) dbo:relative o'<F._Scott_Fitzgerald>",
+    "24" : "s(Francis_Scott_Key) dbo:relative o'<Francis_Key_Howard>",
+    "25" : "s(Francis_Scott_Key) dbo:relative o'<Philip_Barton_Key_(Louisiana)>",
+    "26" : "s(Francis_Scott_Key) dbo:religion o'<Episcopal_Church_(United_States)>",
+    "27" : "s(Francis_Scott_Key) dbo:soundRecording o'<Francis_Scott_Key__1>",
+    "28" : "s(Francis_Scott_Key) dbo:soundRecording o'<Francis_Scott_Key__2>",
+    "29" : "s(Francis_Scott_Key) dbo:stateOfOrigin o'<United_States_of_America>",
+    "30" : "s(Francis_Scott_Key) dbp:authorsource o'<Francis Scott Key>",
+    "31" : "s(Francis_Scott_Key) dbp:c o'<Category:Francis Scott Key>",
+    "32" : "s(Francis_Scott_Key) dbp:collapsible o'<true>",
+    "33" : "s(Francis_Scott_Key) dbp:format o'<Ogg>",
+    "34" : "s(Francis_Scott_Key) dbp:id o'<191>",
+    "35" : "s(Francis_Scott_Key) dbp:id o'<Key,+Francis+Scott>",
+    "36" : "s(Francis_Scott_Key) dbp:name o'<Francis Scott Key>",
+    "37" : "s(Francis_Scott_Key) dbp:species o'<no>",
+    "38" : "s(Francis_Scott_Key) dbp:spouse o'<Mary Tayloe Lloyd>",
+    "39" : "s(Francis_Scott_Key) dbp:voy o'<no>",
+    "40" : "s(Francis_Scott_Key) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(francis scott key=Francis_Scott_Key) [august 1 1779  january ] o'<american lawyer=United_States>"
+  },
+  "abstract" : {
+    "1" : "francis scott key<Francis_Scott_Key> (august 1, 1779 â€“ january 11, 1843) was an american lawyer<United_States>, francis scott key<Francis_Scott_Key>0, and amateur francis scott key<Francis_Scott_Key>4 from georgetown who wrote the lyrics to the united states'<United_States> national anthem, \"the star-spangled banner\""
+  }
+} ]

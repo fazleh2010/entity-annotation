@@ -1,0 +1,81 @@
+[ {
+  "entityIndex" : "entity11407",
+  "entityUrl" : "http://dbpedia.org/resource/Ryan_Nyquist",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Ryan_Nyquist) dbo:birthDate o'<1979-3-6>",
+    "2" : "s(Ryan_Nyquist) dbo:birthPlace o'<Los_Gatos,_California>",
+    "3" : "s(Ryan_Nyquist) dbo:nationality o'<United_States>",
+    "4" : "s(Ryan_Nyquist) dbo:stateOfOrigin o'<United_States>",
+    "5" : "s(Ryan_Nyquist) dbp:birthDate o'<--03-06>",
+    "6" : "s(Ryan_Nyquist) dbp:event o'<X Games, Dew Tour, Red Bull Dreamline, Crankworx>",
+    "7" : "s(Ryan_Nyquist) dbp:height o'<5>",
+    "8" : "s(Ryan_Nyquist) dbp:sport o'<BMX>",
+    "9" : "s(Ryan_Nyquist) dbp:sport o'<Freeride>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ryan nyquist=Ryan_Nyquist) [rides for haro bikes ] o'<los gatos=Los_Gatos,_California>"
+  },
+  "abstract" : {
+    "3" : "ryan nyquist<Ryan_Nyquist> currently rides for haro bikes, osiris shoes, rockstar energy drink, and the jiffy market of los gatos<Los_Gatos,_California>\n"
+  }
+}, {
+  "entityIndex" : "entity11408",
+  "entityUrl" : "http://dbpedia.org/resource/Ray_Steadman-Allen",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Ray_Steadman-Allen) dbo:birthDate o'<1922-09-18>",
+    "2" : "s(Ray_Steadman-Allen) dbo:birthDate o'<1922-9-18>",
+    "3" : "s(Ray_Steadman-Allen) dbo:deathDate o'<2014-12-15>",
+    "4" : "s(Ray_Steadman-Allen) dbp:honorificSuffix o'<Order_of_the_Founder>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11409",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Greifeld",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Robert_Greifeld) dbo:birthDate o'<1957-7-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11410",
+  "entityUrl" : "http://dbpedia.org/resource/Rudolf_Kingslake",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Rudolf_Kingslake) dbo:birthDate o'<1903-8-28>",
+    "2" : "s(Rudolf_Kingslake) dbo:birthPlace o'<London>",
+    "3" : "s(Rudolf_Kingslake) dbo:deathDate o'<2003-2-28>",
+    "4" : "s(Rudolf_Kingslake) dbo:deathPlace o'<Rochester,_New_York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11411",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Ker",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Robert_Ker) dbo:birthDate o'<1824-8-14>",
+    "2" : "s(Robert_Ker) dbo:deathDate o'<1879-2-12>",
+    "3" : "s(Robert_Ker) dbo:nationality o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(robert ker=Robert_Ker) [appointed to position ] o'<dominion=Canada>"
+  },
+  "abstract" : {
+    "4" : "upon canadian confederation<Canada> in 1867, robert ker<Robert_Ker> was appointed to the position of dominion<Canada> paymaster general\n"
+  }
+}, {
+  "entityIndex" : "entity11412",
+  "entityUrl" : "http://dbpedia.org/resource/Renzo_Barbieri",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Renzo_Barbieri) dbo:birthDate o'<1940-3-10>",
+    "2" : "s(Renzo_Barbieri) dbo:birthPlace o'<Milan>",
+    "3" : "s(Renzo_Barbieri) dbo:deathDate o'<2007-9-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

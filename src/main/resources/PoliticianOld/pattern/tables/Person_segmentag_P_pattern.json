@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity10895",
+  "entityUrl" : "http://dbpedia.org/resource/Phil_Harrison",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10896",
+  "entityUrl" : "http://dbpedia.org/resource/Pavel_Dolgorukov",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Pavel_Dolgorukov) dbo:birthDate o'<1866-5-21>",
+    "2" : "s(Pavel_Dolgorukov) dbo:birthPlace o'<Pushkin,_Saint_Petersburg>",
+    "3" : "s(Pavel_Dolgorukov) dbo:birthYear o'<1866>",
+    "4" : "s(Pavel_Dolgorukov) dbo:deathDate o'<1927-06-09>",
+    "5" : "s(Pavel_Dolgorukov) dbo:deathDate o'<1927-6-10>",
+    "6" : "s(Pavel_Dolgorukov) dbo:deathPlace o'<Moscow>",
+    "7" : "s(Pavel_Dolgorukov) dbo:deathYear o'<1927>",
+    "8" : "s(Pavel_Dolgorukov) dbo:occupation o'<Pavel_Dolgorukov__1>",
+    "9" : "s(Pavel_Dolgorukov) dbo:personFunction o'<Pavel_Dolgorukov__1>",
+    "10" : "s(Pavel_Dolgorukov) dbo:title o'<Prince>",
+    "11" : "s(Pavel_Dolgorukov) dbp:birthPlace o'<Pushkin, Saint Petersburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10897",
+  "entityUrl" : "http://dbpedia.org/resource/Princess_Helene_Dolgoruki",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Princess_Helene_Dolgoruki) dbo:birthDate o'<1789-0-0>",
+    "2" : "s(Princess_Helene_Dolgoruki) dbo:deathDate o'<1860-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10898",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_II,_Landgrave_of_Hesse-Rheinfels",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbo:birthDate o'<1541-1-1>",
+    "2" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbo:birthPlace o'<Marburg>",
+    "3" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbo:deathDate o'<1583-1-1>",
+    "4" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbo:deathPlace o'<Rheinfels_Castle>",
+    "5" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbo:parent o'<Philip_I,_Landgrave_of_Hesse>",
+    "6" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbo:parent o'<Christine_of_Saxony>",
+    "7" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbo:title o'<Landgrave of Hesse-Rheinfels>",
+    "8" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbp:birthDate o'<1541>",
+    "9" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbp:deathDate o'<1583>",
+    "10" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbp:imageSize o'<200>",
+    "11" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbp:nobleFamily o'<House_of_Hesse-Rheinfels>",
+    "12" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbp:spouse o'<Anna Elisabeth of Palatinate-Simmern>",
+    "13" : "s(Philip_II,_Landgrave_of_Hesse-Rheinfels) dbp:titles o'<The Landgrave of Hesse-Rheinfels>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10899",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_O'Connell_(poet)",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Patrick_O'Connell_(poet)) dbo:birthDate o'<1944-1-1>",
+    "2" : "s(Patrick_O'Connell_(poet)) dbo:deathDate o'<2005-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10900",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Fourmanoir",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Pierre_Fourmanoir) dbo:birthDate o'<1924-1-1>",
+    "2" : "s(Pierre_Fourmanoir) dbo:deathDate o'<2007-5-2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

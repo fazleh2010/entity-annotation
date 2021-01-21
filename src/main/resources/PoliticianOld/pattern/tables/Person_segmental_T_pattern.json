@@ -1,0 +1,100 @@
+[ {
+  "entityIndex" : "entity11734",
+  "entityUrl" : "http://dbpedia.org/resource/Theodore_Miller_Edison",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Theodore_Miller_Edison) dbo:birthDate o'<1898-07-10>",
+    "2" : "s(Theodore_Miller_Edison) dbo:birthDate o'<1898-7-10>",
+    "3" : "s(Theodore_Miller_Edison) dbo:birthPlace o'<Llewellyn_Park>",
+    "4" : "s(Theodore_Miller_Edison) dbo:birthPlace o'<Llewellyn_Park,_New_Jersey>",
+    "5" : "s(Theodore_Miller_Edison) dbo:birthYear o'<1898>",
+    "6" : "s(Theodore_Miller_Edison) dbo:deathDate o'<1992-11-24>",
+    "7" : "s(Theodore_Miller_Edison) dbo:deathPlace o'<West_Orange,_New_Jersey>",
+    "8" : "s(Theodore_Miller_Edison) dbo:deathYear o'<1992>",
+    "9" : "s(Theodore_Miller_Edison) dbo:education o'<Massachusetts_Institute_of_Technology>",
+    "10" : "s(Theodore_Miller_Edison) dbo:education o'<The_Haverford_School>",
+    "11" : "s(Theodore_Miller_Edison) dbo:education o'<Montclair_Kimberley_Academy>",
+    "12" : "s(Theodore_Miller_Edison) dbo:employer o'<Calibron_Industries,_Inc.>",
+    "13" : "s(Theodore_Miller_Edison) dbo:parent o'<Thomas_Alva_Edison>",
+    "14" : "s(Theodore_Miller_Edison) dbp:spouse o'<1925>",
+    "15" : "s(Theodore_Miller_Edison) dbp:spouse o'<Anna Maria Osterhout>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11735",
+  "entityUrl" : "http://dbpedia.org/resource/Tor_Heiestad",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Tor_Heiestad) dbo:birthDate o'<1962-1-13>",
+    "2" : "s(Tor_Heiestad) dbo:birthPlace o'<Oslo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11736",
+  "entityUrl" : "http://dbpedia.org/resource/Theodore_Pritchett",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Theodore_Pritchett) dbo:birthDate o'<1890-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11737",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Philip_Wallrad_d'Alsace-Boussut_de_Chimay",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Thomas_Philip_Wallrad_d'Alsace-Boussut_de_Chimay) dbo:birthDate o'<1679-11-12>",
+    "2" : "s(Thomas_Philip_Wallrad_d'Alsace-Boussut_de_Chimay) dbo:birthPlace o'<Flanders>",
+    "3" : "s(Thomas_Philip_Wallrad_d'Alsace-Boussut_de_Chimay) dbo:deathDate o'<1759-1-5>",
+    "4" : "s(Thomas_Philip_Wallrad_d'Alsace-Boussut_de_Chimay) dbo:deathPlace o'<Mechelen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11738",
+  "entityUrl" : "http://dbpedia.org/resource/Theodore_Mann",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Theodore_Mann) dbo:birthDate o'<1924-5-13>",
+    "2" : "s(Theodore_Mann) dbo:birthPlace o'<Brooklyn>",
+    "3" : "s(Theodore_Mann) dbo:deathDate o'<2012-2-24>",
+    "4" : "s(Theodore_Mann) dbo:deathPlace o'<Manhattan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11739",
+  "entityUrl" : "http://dbpedia.org/resource/Taj_Burrow",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Taj_Burrow) dbo:birthDate o'<1978-6-2>",
+    "2" : "s(Taj_Burrow) dbo:birthPlace o'<Busselton>",
+    "3" : "s(Taj_Burrow) dbp:bestYear o'<1999>",
+    "4" : "s(Taj_Burrow) dbp:birthDate o'<1978-06-02>",
+    "5" : "s(Taj_Burrow) dbp:birthPlace o'<Busselton,_Western_Australia>",
+    "6" : "s(Taj_Burrow) dbp:birthPlace o'<Australia>",
+    "7" : "s(Taj_Burrow) dbp:careerEarnings o'<1482613.0>",
+    "8" : "s(Taj_Burrow) dbp:majorAchievements o'<ASP Rookie of the Year 1998>",
+    "9" : "s(Taj_Burrow) dbp:majorAchievements o'<ASP World Tour Runner Up 1999, 2007>",
+    "10" : "s(Taj_Burrow) dbp:majorAchievements o'<Australian Male Surfer of the Year 1997>",
+    "11" : "s(Taj_Burrow) dbp:name o'<Taj Burrow>",
+    "12" : "s(Taj_Burrow) dbp:residence o'<Australia>",
+    "13" : "s(Taj_Burrow) dbp:residence o'<Yallingup,_Western_Australia>",
+    "14" : "s(Taj_Burrow) dbp:residence o'<Bali, Indonesia>",
+    "15" : "s(Taj_Burrow) dbp:sponsors o'<Globe_International>",
+    "16" : "s(Taj_Burrow) dbp:sponsors o'<Billabong_(clothing)>",
+    "17" : "s(Taj_Burrow) dbp:sponsors o'<Von_Zipper>",
+    "18" : "s(Taj_Burrow) dbp:sponsors o'<Futures_Fins>",
+    "19" : "s(Taj_Burrow) dbp:sponsors o'<Lost_Surfboards>",
+    "20" : "s(Taj_Burrow) dbp:stance o'<Natural  foot>",
+    "21" : "s(Taj_Burrow) dbp:website o'<tajburrow.com>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(taj burrow=Taj_Burrow) [es un surfista profesional nacido ] o'<busselton=Busselton>"
+  },
+  "abstract" : {
+    "1" : "taj burrow<Taj_Burrow> es un surfista profesional nacido en busselton<Busselton>, australia<Australia> occidental, australia<Australia> el 2 de junio de 1978"
+  }
+} ]

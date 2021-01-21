@@ -1,0 +1,117 @@
+[ {
+  "entityIndex" : "entity10748",
+  "entityUrl" : "http://dbpedia.org/resource/Rovi",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Rovi) dbo:wikiPageRedirects o'<TiVo_Corporation>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10749",
+  "entityUrl" : "http://dbpedia.org/resource/Raven_Software",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Raven_Software) dbo:foundingYear o'<1990>",
+    "2" : "s(Raven_Software) dbo:industry o'<Video_game_industry>",
+    "3" : "s(Raven_Software) dbo:industry o'<Interactive_entertainment>",
+    "4" : "s(Raven_Software) dbo:locationCity o'<Middleton,_Wisconsin>",
+    "5" : "s(Raven_Software) dbo:locationCountry o'<United_States>",
+    "6" : "s(Raven_Software) dbo:numberOfEmployees o'<173>",
+    "7" : "s(Raven_Software) dbo:parentCompany o'<Activision>",
+    "8" : "s(Raven_Software) dbo:product o'<Soldier_of_Fortune_(series)>",
+    "9" : "s(Raven_Software) dbo:type o'<Subsidiary>",
+    "10" : "s(Raven_Software) dbp:founder o'<Brian Raffel>",
+    "11" : "s(Raven_Software) dbp:founder o'<Steve Raffel>",
+    "12" : "s(Raven_Software) dbp:logo o'<Ravensoftware.png>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10750",
+  "entityUrl" : "http://dbpedia.org/resource/Rickenbacker",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Rickenbacker) dbo:foundedBy o'<Adolph_Rickenbacher>",
+    "2" : "s(Rickenbacker) dbo:foundedBy o'<George_Beauchamp>",
+    "3" : "s(Rickenbacker) dbo:foundingYear o'<1931>",
+    "4" : "s(Rickenbacker) dbo:industry o'<Musical_instruments>",
+    "5" : "s(Rickenbacker) dbo:keyPerson o'<Adolph_Rickenbacher>",
+    "6" : "s(Rickenbacker) dbo:keyPerson o'<George_Beauchamp>",
+    "7" : "s(Rickenbacker) dbo:location o'<Santa_Ana,_California>",
+    "8" : "s(Rickenbacker) dbo:product o'<Bass_guitar>",
+    "9" : "s(Rickenbacker) dbo:product o'<Guitar>",
+    "10" : "s(Rickenbacker) dbo:product o'<Console_steel_guitar>",
+    "11" : "s(Rickenbacker) dbo:product o'<Electric_mandolin>",
+    "12" : "s(Rickenbacker) dbo:product o'<Guitar_amplifier>",
+    "13" : "s(Rickenbacker) dbo:product o'<Lap_steel_guitar>",
+    "14" : "s(Rickenbacker) dbo:product o'<Electric_banjo>",
+    "15" : "s(Rickenbacker) dbp:areaServed o'<Global>",
+    "16" : "s(Rickenbacker) dbp:logo o'<250>",
+    "17" : "s(Rickenbacker) dbp:type o'<Private>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10751",
+  "entityUrl" : "http://dbpedia.org/resource/RCA",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(RCA) dbo:division o'<NBC>",
+    "2" : "s(RCA) dbo:division o'<RCA_Records>",
+    "3" : "s(RCA) dbo:extinctionYear o'<1986>",
+    "4" : "s(RCA) dbo:fate o'<Acquired byGEin 1986, various divisions liquidated>",
+    "5" : "s(RCA) dbo:keyPerson o'<David_Sarnoff>",
+    "6" : "s(RCA) dbo:location o'<United_States>",
+    "7" : "s(RCA) dbo:location o'<New_York_City>",
+    "8" : "s(RCA) dbo:location o'<New_York_(state)>",
+    "9" : "s(RCA) dbo:product o'<Radios>",
+    "10" : "s(RCA) dbo:product o'<Phonograph>",
+    "11" : "s(RCA) dbo:product o'<Television>",
+    "12" : "s(RCA) dbo:product o'<RCA_Photophone>",
+    "13" : "s(RCA) dbo:product o'<Videodisc>",
+    "14" : "s(RCA) dbo:product o'<Phonograph_records>",
+    "15" : "s(RCA) dbp:logo o'<220>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(rca=RCA) [corporation founded radio ] o'<america=United_States>"
+  },
+  "abstract" : {
+    "1" : "rca<RCA_Records> corporation, founded as the radio corporation of america<United_States>, was an american<United_States> electronics company in existence from 1919 to 1986"
+  }
+}, {
+  "entityIndex" : "entity10752",
+  "entityUrl" : "http://dbpedia.org/resource/REO_Motor_Car_Company",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(REO_Motor_Car_Company) dbo:extinctionYear o'<1975>",
+    "2" : "s(REO_Motor_Car_Company) dbo:foundedBy o'<Ransom_E._Olds>",
+    "3" : "s(REO_Motor_Car_Company) dbo:foundingYear o'<1905>",
+    "4" : "s(REO_Motor_Car_Company) dbo:industry o'<Automotive_industry>",
+    "5" : "s(REO_Motor_Car_Company) dbo:location o'<Lansing,_Michigan>",
+    "6" : "s(REO_Motor_Car_Company) dbp:logo o'<125>",
+    "7" : "s(REO_Motor_Car_Company) dbp:type o'<Automobile Manufacturing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10753",
+  "entityUrl" : "http://dbpedia.org/resource/Rockwell_International",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Rockwell_International) dbo:extinctionYear o'<2001>",
+    "2" : "s(Rockwell_International) dbo:fate o'<Division sold>",
+    "3" : "s(Rockwell_International) dbo:fate o'<Split to two companies>",
+    "4" : "s(Rockwell_International) dbo:foundingYear o'<1973>",
+    "5" : "s(Rockwell_International) dbo:product o'<Aerospace>",
+    "6" : "s(Rockwell_International) dbo:successor o'<Rockwell_Automation>",
+    "7" : "s(Rockwell_International) dbo:successor o'<Rockwell_Collins>",
+    "8" : "s(Rockwell_International) dbo:successor o'<BTR_plc>",
+    "9" : "s(Rockwell_International) dbo:successor o'<Boeing_Integrated_Defense_Systems>",
+    "10" : "s(Rockwell_International) dbo:successor o'<Conexant>",
+    "11" : "s(Rockwell_International) dbo:type o'<Conglomerate_(company)>",
+    "12" : "s(Rockwell_International) dbp:logo o'<220>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

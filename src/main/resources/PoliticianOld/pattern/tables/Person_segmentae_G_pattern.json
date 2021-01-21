@@ -1,0 +1,102 @@
+[ {
+  "entityIndex" : "entity11341",
+  "entityUrl" : "http://dbpedia.org/resource/Guillaume_Tirel",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Guillaume_Tirel) dbo:birthDate o'<1312-1-1>",
+    "2" : "s(Guillaume_Tirel) dbo:birthPlace o'<Pont-Audemer>",
+    "3" : "s(Guillaume_Tirel) dbo:country o'<France>",
+    "4" : "s(Guillaume_Tirel) dbo:deathDate o'<1395-1-1>",
+    "5" : "s(Guillaume_Tirel) dbo:deathPlace o'<Saint-Germain-en-Laye>",
+    "6" : "s(Guillaume_Tirel) dbp:id o'<Taillevent>",
+    "7" : "s(Guillaume_Tirel) dbp:name o'<Taillevent>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11342",
+  "entityUrl" : "http://dbpedia.org/resource/Georgi_Tringov",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Georgi_Tringov) dbo:birthDate o'<1937-3-7>",
+    "2" : "s(Georgi_Tringov) dbo:birthPlace o'<Plovdiv>",
+    "3" : "s(Georgi_Tringov) dbo:deathDate o'<2000-7-2>",
+    "4" : "s(Georgi_Tringov) dbo:deathPlace o'<Plovdiv>",
+    "5" : "s(Georgi_Tringov) dbp:id o'<47805>",
+    "6" : "s(Georgi_Tringov) dbp:name o'<Georgi P Tringov>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11343",
+  "entityUrl" : "http://dbpedia.org/resource/Guillermo_Owen",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Guillermo_Owen) dbo:birthDate o'<1938-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11344",
+  "entityUrl" : "http://dbpedia.org/resource/Geoffrey_Lane,_Baron_Lane",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Geoffrey_Lane,_Baron_Lane) dbo:almaMater o'<Trinity_College,_Cambridge>",
+    "2" : "s(Geoffrey_Lane,_Baron_Lane) dbo:birthDate o'<1918-07-17>",
+    "3" : "s(Geoffrey_Lane,_Baron_Lane) dbo:birthDate o'<1918-7-17>",
+    "4" : "s(Geoffrey_Lane,_Baron_Lane) dbo:birthPlace o'<Derby>",
+    "5" : "s(Geoffrey_Lane,_Baron_Lane) dbo:deathDate o'<2005-08-22>",
+    "6" : "s(Geoffrey_Lane,_Baron_Lane) dbo:deathDate o'<2005-8-22>",
+    "7" : "s(Geoffrey_Lane,_Baron_Lane) dbp:after o'<Peter_Taylor,_Baron_Taylor_of_Gosforth>",
+    "8" : "s(Geoffrey_Lane,_Baron_Lane) dbp:appointer o'<Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone>",
+    "9" : "s(Geoffrey_Lane,_Baron_Lane) dbp:appointer o'<Queen_Elizabeth_II>",
+    "10" : "s(Geoffrey_Lane,_Baron_Lane) dbp:awards o'<Knight_Bachelor>",
+    "11" : "s(Geoffrey_Lane,_Baron_Lane) dbp:awards o'<Life_Peer>",
+    "12" : "s(Geoffrey_Lane,_Baron_Lane) dbp:battles o'<D-Day>",
+    "13" : "s(Geoffrey_Lane,_Baron_Lane) dbp:battles o'<Operation_Market_Garden>",
+    "14" : "s(Geoffrey_Lane,_Baron_Lane) dbp:before o'<John_Widgery,_Baron_Widgery>",
+    "15" : "s(Geoffrey_Lane,_Baron_Lane) dbp:birthName o'<Geoffrey Dawson Lane>",
+    "16" : "s(Geoffrey_Lane,_Baron_Lane) dbp:education o'<Shrewsbury_School>",
+    "17" : "s(Geoffrey_Lane,_Baron_Lane) dbp:honorificPrefix o'<The_Right_Honourable>",
+    "18" : "s(Geoffrey_Lane,_Baron_Lane) dbp:mawards o'<Air_Force_Cross_(United_Kingdom)>",
+    "19" : "s(Geoffrey_Lane,_Baron_Lane) dbp:nationality o'<British>",
+    "20" : "s(Geoffrey_Lane,_Baron_Lane) dbp:nominator o'<Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone>",
+    "21" : "s(Geoffrey_Lane,_Baron_Lane) dbp:office o'<12>",
+    "22" : "s(Geoffrey_Lane,_Baron_Lane) dbp:office o'<Lords_of_Appeal_in_Ordinary>",
+    "23" : "s(Geoffrey_Lane,_Baron_Lane) dbp:office o'<Lord Justice of the Court of Appeal of England and Wales>",
+    "24" : "s(Geoffrey_Lane,_Baron_Lane) dbp:office o'<Judge of the Queen's Bench Division>",
+    "25" : "s(Geoffrey_Lane,_Baron_Lane) dbp:predecessor o'<John_Widgery,_Baron_Widgery>",
+    "26" : "s(Geoffrey_Lane,_Baron_Lane) dbp:rank o'<Squadron_Leader>",
+    "27" : "s(Geoffrey_Lane,_Baron_Lane) dbp:restingPlace o'<Hertfordshire>",
+    "28" : "s(Geoffrey_Lane,_Baron_Lane) dbp:restingPlace o'<St_Ippolyts>",
+    "29" : "s(Geoffrey_Lane,_Baron_Lane) dbp:successor o'<Peter_Taylor,_Baron_Taylor_of_Gosforth>",
+    "30" : "s(Geoffrey_Lane,_Baron_Lane) dbp:termEnd o'<1974>",
+    "31" : "s(Geoffrey_Lane,_Baron_Lane) dbp:termEnd o'<1977>",
+    "32" : "s(Geoffrey_Lane,_Baron_Lane) dbp:termEnd o'<1980>",
+    "33" : "s(Geoffrey_Lane,_Baron_Lane) dbp:termEnd o'<1992-04-27>",
+    "34" : "s(Geoffrey_Lane,_Baron_Lane) dbp:termStart o'<1969>",
+    "35" : "s(Geoffrey_Lane,_Baron_Lane) dbp:termStart o'<1974>",
+    "36" : "s(Geoffrey_Lane,_Baron_Lane) dbp:termStart o'<1977>",
+    "37" : "s(Geoffrey_Lane,_Baron_Lane) dbp:termStart o'<1980-04-15>",
+    "38" : "s(Geoffrey_Lane,_Baron_Lane) dbp:title o'<Lord_Chief_Justice_of_England_and_Wales>",
+    "39" : "s(Geoffrey_Lane,_Baron_Lane) dbp:years o'<1980>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11345",
+  "entityUrl" : "http://dbpedia.org/resource/George_E._Killian",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(George_E._Killian) dbo:birthDate o'<1924-4-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11346",
+  "entityUrl" : "http://dbpedia.org/resource/Gwyneth_Boodoo",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

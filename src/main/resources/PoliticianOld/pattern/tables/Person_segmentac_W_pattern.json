@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity11100",
+  "entityUrl" : "http://dbpedia.org/resource/William_Cookson",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(William_Cookson) dbo:birthDate o'<1939-1-1>",
+    "2" : "s(William_Cookson) dbo:deathDate o'<2003-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11101",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Berry_(bass-baritone)",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Walter_Berry_(bass-baritone)) dbo:birthDate o'<1929-4-8>",
+    "2" : "s(Walter_Berry_(bass-baritone)) dbo:birthPlace o'<Vienna>",
+    "3" : "s(Walter_Berry_(bass-baritone)) dbo:deathDate o'<2000-10-27>",
+    "4" : "s(Walter_Berry_(bass-baritone)) dbo:deathPlace o'<Vienna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11102",
+  "entityUrl" : "http://dbpedia.org/resource/William_Stevenson_(New_Zealand_politician)",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(William_Stevenson_(New_Zealand_politician)) dbo:birthDate o'<1901-1-1>",
+    "2" : "s(William_Stevenson_(New_Zealand_politician)) dbo:deathDate o'<1983-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11103",
+  "entityUrl" : "http://dbpedia.org/resource/William_Petre",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(William_Petre) dbo:deathDate o'<1572-1-1>",
+    "2" : "s(William_Petre) dbp:after o'<Anthony_Cooke>",
+    "3" : "s(William_Petre) dbp:before o'<?>",
+    "4" : "s(William_Petre) dbp:title o'<Custos_Rotulorum_of_Essex>",
+    "5" : "s(William_Petre) dbp:title o'<Secretary_of_State_(England)>",
+    "6" : "s(William_Petre) dbp:with o'<Nicholas Wotton 1549-1550>",
+    "7" : "s(William_Petre) dbp:with o'<Sir John Bourne 1553-1557>",
+    "8" : "s(William_Petre) dbp:with o'<Sir John Cheke 1553>",
+    "9" : "s(William_Petre) dbp:with o'<Sir Thomas Smith 1548-1549>",
+    "10" : "s(William_Petre) dbp:with o'<Sir William Cecil 1550-1553>",
+    "11" : "s(William_Petre) dbp:with o'<Sir William Paget 1544-1548>",
+    "12" : "s(William_Petre) dbp:years o'<1544>",
+    "13" : "s(William_Petre) dbp:years o'<bef. 1544â€“1572>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(william petre=William_Petre) [appointed ] o'<secretary of state=Secretary_of_State_(England)>"
+  },
+  "abstract" : {
+    "5" : "sir william petre was adept at side-stepping the great religious controversies of the day; in january 1544 william petre<William_Petre> was appointed secretary of state<Secretary_of_State_(England)>\n"
+  }
+}, {
+  "entityIndex" : "entity11104",
+  "entityUrl" : "http://dbpedia.org/resource/Will_Doherty",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11105",
+  "entityUrl" : "http://dbpedia.org/resource/William_of_Durham",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(William_of_Durham) dbo:deathDate o'<1249-1-1>",
+    "2" : "s(William_of_Durham) dbo:nationality o'<England>",
+    "3" : "s(William_of_Durham) dbo:nationality o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(william of durham=William_of_Durham) [probably came from sedgefield county ] o'<durham=England>",
+    "5" : "s(william of durham=William_of_Durham) [held several rich benefices in ] o'<england=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "william of durham<William_of_Durham> probably came from sedgefield, county durham<England> and was educated at wearmouth monastery and in paris, france\n",
+    "5" : "what is more certain is that william of durham<William_of_Durham> held several rich benefices in england<United_Kingdom> and died in rouen, in 1249\n"
+  }
+} ]

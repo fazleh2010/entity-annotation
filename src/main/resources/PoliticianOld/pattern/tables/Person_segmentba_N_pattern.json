@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity14152",
+  "entityUrl" : "http://dbpedia.org/resource/Nedd_Willard",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Nedd_Willard) dbo:birthDate o'<1926-1-1>",
+    "2" : "s(Nedd_Willard) dbo:birthPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14153",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Reid",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Nancy_Reid) dbo:birthDate o'<1952-9-17>",
+    "2" : "s(Nancy_Reid) dbp:id o'<15889>",
+    "3" : "s(Nancy_Reid) dbp:title o'<Nancy Margaret Reid>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14154",
+  "entityUrl" : "http://dbpedia.org/resource/Nelson_Story",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Nelson_Story) dbo:birthDate o'<1838-04-04>",
+    "2" : "s(Nelson_Story) dbo:birthDate o'<1838-4-4>",
+    "3" : "s(Nelson_Story) dbo:birthPlace o'<Burlingham,_Ohio>",
+    "4" : "s(Nelson_Story) dbo:birthYear o'<1838>",
+    "5" : "s(Nelson_Story) dbo:child o'<Nelson_Story,_Jr.>",
+    "6" : "s(Nelson_Story) dbo:deathDate o'<1926-03-10>",
+    "7" : "s(Nelson_Story) dbo:deathDate o'<1926-3-10>",
+    "8" : "s(Nelson_Story) dbo:deathPlace o'<Los_Angeles,_California>",
+    "9" : "s(Nelson_Story) dbo:deathYear o'<1926>",
+    "10" : "s(Nelson_Story) dbo:occupation o'<Nelson_Story__1>",
+    "11" : "s(Nelson_Story) dbo:restingPlace o'<Montana>",
+    "12" : "s(Nelson_Story) dbo:restingPlacePosition o'<Nelson_Story__restingPlacePosition__1>",
+    "13" : "s(Nelson_Story) dbp:imageSize o'<250>",
+    "14" : "s(Nelson_Story) dbp:spouse o'<Ellen Trent Story>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(nelson story=Nelson_Story) [best known for his ] o'<montana=Montana>",
+    "5" : "s(nelson story=Nelson_Story) [played prominent role in ] o'<state of montana=Montana>",
+    "8" : "s(nelson story=Nelson_Story) [became prominent real estate ] o'<los angeles=Los_Angeles,_California>"
+  },
+  "abstract" : {
+    "3" : "nelson story<Nelson_Story> was best known for his 1866 cattle drive from texas with approximately 1000 head of texas longhorns to montana<Montana> along the bozeman trailâ€”the first major cattle drive from texas into montana<Montana>\n",
+    "5" : "in 1893, nelson story<Nelson_Story> played a prominent role in the establishment of the agricultural college of the state of montana<Montana> by donating land and facilities\n",
+    "8" : "in his later years, nelson story<Nelson_Story> became a prominent real estate developer in los angeles<Los_Angeles,_California>, california<Los_Angeles,_California>\n"
+  }
+}, {
+  "entityIndex" : "entity14155",
+  "entityUrl" : "http://dbpedia.org/resource/N%C3%A9stor_Morales",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14156",
+  "entityUrl" : "http://dbpedia.org/resource/Nasip_Na%C3%A7o",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14157",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Caffyn",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Nancy_Caffyn) dbo:almaMater o'<Morse_College>",
+    "2" : "s(Nancy_Caffyn) dbo:birthDate o'<1934-08-21>",
+    "3" : "s(Nancy_Caffyn) dbo:birthDate o'<1934-8-21>",
+    "4" : "s(Nancy_Caffyn) dbo:birthPlace o'<Middletown,_Connecticut>",
+    "5" : "s(Nancy_Caffyn) dbo:deathDate o'<2010-05-26>",
+    "6" : "s(Nancy_Caffyn) dbo:deathDate o'<2010-5-26>",
+    "7" : "s(Nancy_Caffyn) dbo:party o'<Republican_Party_(United_States)>",
+    "8" : "s(Nancy_Caffyn) dbo:predecessor o'<Thomas_Cahir>",
+    "9" : "s(Nancy_Caffyn) dbo:residence o'<Mashpee,_Massachusetts>",
+    "10" : "s(Nancy_Caffyn) dbo:successor o'<Matthew_Patrick_(politician)>",
+    "11" : "s(Nancy_Caffyn) dbp:predecessor o'<Robert J. Smith>",
+    "12" : "s(Nancy_Caffyn) dbp:successor o'<Edward Havens>",
+    "13" : "s(Nancy_Caffyn) dbp:termEnd o'<1979>",
+    "14" : "s(Nancy_Caffyn) dbp:termEnd o'<2001>",
+    "15" : "s(Nancy_Caffyn) dbp:termStart o'<1977>",
+    "16" : "s(Nancy_Caffyn) dbp:termStart o'<1999>",
+    "17" : "s(Nancy_Caffyn) dbp:title o'<Member of the Massachusetts House of Representatives from the 3rd Barnstable district>",
+    "18" : "s(Nancy_Caffyn) dbp:title o'<Mayor of South Windsor, Connecticut>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "9" : "s(nancy caffyn=Nancy_Caffyn) [elected to massachusetts ] o'<thomas cahir=Thomas_Cahir>"
+  },
+  "abstract" : {
+    "9" : "in 1998, nancy caffyn<Nancy_Caffyn> was elected to the massachusetts house of representatives, succeeding five-term incumbent thomas cahir<Thomas_Cahir> who ran for barnstable county sheriff instead\n"
+  }
+} ]

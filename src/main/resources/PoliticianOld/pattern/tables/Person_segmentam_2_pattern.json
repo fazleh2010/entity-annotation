@@ -1,0 +1,22 @@
+[ {
+  "entityIndex" : "entity11945",
+  "entityUrl" : "http://dbpedia.org/resource/2006%E2%80%9307_U.S._Citt%C3%A0_di_Palermo_season",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11946",
+  "entityUrl" : "http://dbpedia.org/resource/2005%E2%80%9306_U.S._Citt%C3%A0_di_Palermo_season",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11947",
+  "entityUrl" : "http://dbpedia.org/resource/2004%E2%80%9305_U.S._Citt%C3%A0_di_Palermo_season",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

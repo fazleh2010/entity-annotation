@@ -1,0 +1,165 @@
+[ {
+  "entityIndex" : "entity10773",
+  "entityUrl" : "http://dbpedia.org/resource/William_Kidd",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(William_Kidd) dbo:birthDate o'<1645-1-1>",
+    "2" : "s(William_Kidd) dbo:birthPlace o'<Dundee>",
+    "3" : "s(William_Kidd) dbo:deathDate o'<1701-5-23>",
+    "4" : "s(William_Kidd) dbo:deathPlace o'<Wapping>",
+    "5" : "s(William_Kidd) dbp:birthDate o'<1645-01-22>",
+    "6" : "s(William_Kidd) dbp:birthPlace o'<Greenock, Scotland>",
+    "7" : "s(William_Kidd) dbp:deathDate o'<1701-05-23>",
+    "8" : "s(William_Kidd) dbp:deathPlace o'<Wapping, England>",
+    "9" : "s(William_Kidd) dbp:id o'<4481>",
+    "10" : "s(William_Kidd) dbp:name o'<William Kidd>",
+    "11" : "s(William_Kidd) dbp:number o'<481>",
+    "12" : "s(William_Kidd) dbp:title o'<Captain Kidd's Treasure>",
+    "13" : "s(William_Kidd) dbp:type o'<Privateer>",
+    "14" : "s(William_Kidd) dbp:type o'<Pirate>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10774",
+  "entityUrl" : "http://dbpedia.org/resource/W._Heath_Robinson",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(W._Heath_Robinson) dbo:birthDate o'<1872-05-31>",
+    "2" : "s(W._Heath_Robinson) dbo:birthDate o'<1872-5-31>",
+    "3" : "s(W._Heath_Robinson) dbo:birthPlace o'<London>",
+    "4" : "s(W._Heath_Robinson) dbo:birthYear o'<1872>",
+    "5" : "s(W._Heath_Robinson) dbo:deathDate o'<1944-9-13>",
+    "6" : "s(W._Heath_Robinson) dbo:deathPlace o'<London>",
+    "7" : "s(W._Heath_Robinson) dbo:deathYear o'<1944>",
+    "8" : "s(W._Heath_Robinson) dbo:occupation o'<Cartoonist>",
+    "9" : "s(W._Heath_Robinson) dbo:occupation o'<W._Heath_Robinson__1>",
+    "10" : "s(W._Heath_Robinson) dbo:occupation o'<Illustrator>",
+    "11" : "s(W._Heath_Robinson) dbp:knownFor o'<Drawings of odd contraptions>",
+    "12" : "s(W._Heath_Robinson) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10775",
+  "entityUrl" : "http://dbpedia.org/resource/William_Jones_(philologist)",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(William_Jones_(philologist)) dbo:birthDate o'<1746-09-28>",
+    "2" : "s(William_Jones_(philologist)) dbo:birthDate o'<1746-9-28>",
+    "3" : "s(William_Jones_(philologist)) dbo:birthPlace o'<London>",
+    "4" : "s(William_Jones_(philologist)) dbo:birthPlace o'<Westminster>",
+    "5" : "s(William_Jones_(philologist)) dbo:deathDate o'<1794-04-27>",
+    "6" : "s(William_Jones_(philologist)) dbo:deathDate o'<1794-4-27>",
+    "7" : "s(William_Jones_(philologist)) dbo:deathPlace o'<Kolkata>",
+    "8" : "s(William_Jones_(philologist)) dbo:deathPlace o'<Calcutta>",
+    "9" : "s(William_Jones_(philologist)) dbo:office o'<Puisne judge of theSupreme Court of Judicature at Fort WilliaminBengal>",
+    "10" : "s(William_Jones_(philologist)) dbo:termPeriod o'<William_Jones_(philologist)__1>",
+    "11" : "s(William_Jones_(philologist)) dbp:birth o'<1746>",
+    "12" : "s(William_Jones_(philologist)) dbp:death o'<1794>",
+    "13" : "s(William_Jones_(philologist)) dbp:sname o'<Sir William Jones>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10776",
+  "entityUrl" : "http://dbpedia.org/resource/William_Kennedy_Dickson",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(William_Kennedy_Dickson) dbo:birthDate o'<1860-08-03>",
+    "2" : "s(William_Kennedy_Dickson) dbo:birthDate o'<1860-8-3>",
+    "3" : "s(William_Kennedy_Dickson) dbo:birthName o'<William Kennedy Laurie Dickson>",
+    "4" : "s(William_Kennedy_Dickson) dbo:birthPlace o'<Le_Minihic-sur-Rance>",
+    "5" : "s(William_Kennedy_Dickson) dbo:birthPlace o'<France>",
+    "6" : "s(William_Kennedy_Dickson) dbo:birthYear o'<1860>",
+    "7" : "s(William_Kennedy_Dickson) dbo:deathDate o'<1935-09-28>",
+    "8" : "s(William_Kennedy_Dickson) dbo:deathDate o'<1935-9-28>",
+    "9" : "s(William_Kennedy_Dickson) dbo:deathPlace o'<England>",
+    "10" : "s(William_Kennedy_Dickson) dbo:deathPlace o'<Twickenham>",
+    "11" : "s(William_Kennedy_Dickson) dbo:deathPlace o'<Middlesex>",
+    "12" : "s(William_Kennedy_Dickson) dbo:deathYear o'<1935>",
+    "13" : "s(William_Kennedy_Dickson) dbo:occupation o'<Cinematographer>",
+    "14" : "s(William_Kennedy_Dickson) dbo:occupation o'<Invention>",
+    "15" : "s(William_Kennedy_Dickson) dbo:occupation o'<William_Kennedy_Dickson__1>",
+    "16" : "s(William_Kennedy_Dickson) dbp:imageSize o'<180>",
+    "17" : "s(William_Kennedy_Dickson) dbp:sname o'<William Kennedy Dickson>",
+    "18" : "s(William_Kennedy_Dickson) dbp:sopt o'<t>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10777",
+  "entityUrl" : "http://dbpedia.org/resource/Wim_Wenders",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Wim_Wenders) dbo:activeYearsStartYear o'<1967>",
+    "2" : "s(Wim_Wenders) dbo:award o'<The_Million_Dollar_Hotel>",
+    "3" : "s(Wim_Wenders) dbo:award o'<Cannes_Film_Festival>",
+    "4" : "s(Wim_Wenders) dbo:award o'<Golden_Palm>",
+    "5" : "s(Wim_Wenders) dbo:award o'<Silver_Bear>",
+    "6" : "s(Wim_Wenders) dbo:award o'<Paris,_Texas_(film)>",
+    "7" : "s(Wim_Wenders) dbo:award o'<The_State_of_Things_(film)>",
+    "8" : "s(Wim_Wenders) dbo:award o'<Faraway,_So_Close!>",
+    "9" : "s(Wim_Wenders) dbo:award o'<Golden_Lion>",
+    "10" : "s(Wim_Wenders) dbo:birthDate o'<1945-08-14>",
+    "11" : "s(Wim_Wenders) dbo:birthDate o'<1945-8-14>",
+    "12" : "s(Wim_Wenders) dbo:birthName o'<Ernst Wilhelm Wenders>",
+    "13" : "s(Wim_Wenders) dbo:birthPlace o'<Allied-occupied_Germany>",
+    "14" : "s(Wim_Wenders) dbo:birthPlace o'<DÃ¼sseldorf>",
+    "15" : "s(Wim_Wenders) dbo:birthPlace o'<Rhine_Province>",
+    "16" : "s(Wim_Wenders) dbo:birthYear o'<1945>",
+    "17" : "s(Wim_Wenders) dbo:imdbId o'<0000694>",
+    "18" : "s(Wim_Wenders) dbo:occupation o'<Wim_Wenders__1>",
+    "19" : "s(Wim_Wenders) dbo:spouse o'<Lisa_Kreuzer>",
+    "20" : "s(Wim_Wenders) dbo:spouse o'<Ronee_Blakley>",
+    "21" : "s(Wim_Wenders) dbp:name o'<Wim Wenders>",
+    "22" : "s(Wim_Wenders) dbp:title o'<Awards for Wim Wenders>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(wim wenders=Wim_Wenders) [won best director award ] o'<cannes film festival=Cannes_Film_Festival>"
+  },
+  "abstract" : {
+    "4" : "many of his subsequent films have also been recognized at cannes<Cannes_Film_Festival>, including wings of desire (1987), for which wenders<Wim_Wenders> won the best director award at the 1987 cannes film festival<Cannes_Film_Festival>"
+  }
+}, {
+  "entityIndex" : "entity10778",
+  "entityUrl" : "http://dbpedia.org/resource/Woody_Allen",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Woody_Allen) dbo:activeYearsStartYear o'<1950>",
+    "2" : "s(Woody_Allen) dbo:alias o'<Heywood Allen>",
+    "3" : "s(Woody_Allen) dbo:award o'<List_of_awards_and_nominations_received_by_Woody_Allen>",
+    "4" : "s(Woody_Allen) dbo:birthDate o'<1935-12-01>",
+    "5" : "s(Woody_Allen) dbo:birthDate o'<1935-12-1>",
+    "6" : "s(Woody_Allen) dbo:birthName o'<Allan Stewart Konigsberg>",
+    "7" : "s(Woody_Allen) dbo:birthPlace o'<The_Bronx>",
+    "8" : "s(Woody_Allen) dbo:birthPlace o'<New_York_City>",
+    "9" : "s(Woody_Allen) dbo:birthPlace o'<New_York_(state)>",
+    "10" : "s(Woody_Allen) dbo:birthYear o'<1935>",
+    "11" : "s(Woody_Allen) dbo:child o'<Ronan_Farrow>",
+    "12" : "s(Woody_Allen) dbo:child o'<Moses_Farrow>",
+    "13" : "s(Woody_Allen) dbo:occupation o'<Woody_Allen__1>",
+    "14" : "s(Woody_Allen) dbo:partner o'<Mia_Farrow>",
+    "15" : "s(Woody_Allen) dbo:partner o'<Diane_Keaton>",
+    "16" : "s(Woody_Allen) dbo:relative o'<Letty_Aronson>",
+    "17" : "s(Woody_Allen) dbo:spouse o'<Soon-Yi_Previn>",
+    "18" : "s(Woody_Allen) dbo:spouse o'<Louise_Lasser>",
+    "19" : "s(Woody_Allen) dbp:align o'<right>",
+    "20" : "s(Woody_Allen) dbp:bgcolor o'<LightCyan>",
+    "21" : "s(Woody_Allen) dbp:bgcolor o'<MistyRose>",
+    "22" : "s(Woody_Allen) dbp:quote o'<I don't like meeting heroes. There's nobody I want to meet and nobody I want to work withâ€”I'd rather work with Diane Keaton than anyoneâ€”she's absolutely great, a natural.>",
+    "23" : "s(Woody_Allen) dbp:quote o'<Mia's a good actress who can play many different roles. She has a very good range, and can play serious to comic roles. She's also very photogenic, very beautiful on screen. She's just a good realistic actress . . . and no matter how strange and daring it is, she does it well.>",
+    "24" : "s(Woody_Allen) dbp:quote o'<Itâ€™s really cool to work with a director whoâ€™s done so much, because he knows exactly what he wants. The fact that he does one shot for an entire sceneâ€”[and] this could be a scene with eight people and one to two takesâ€”it gives you a level of confidence... heâ€™s very empowering.>",
+    "25" : "s(Woody_Allen) dbp:source o'<Blake Lively, on acting in CafÃ© Society>",
+    "26" : "s(Woody_Allen) dbp:source o'<Woody Allen>",
+    "27" : "s(Woody_Allen) dbp:source o'<Woody Allen, Rolling Stone interview>",
+    "28" : "s(Woody_Allen) dbp:title o'<Awards for Woody Allen>",
+    "29" : "s(Woody_Allen) dbp:width o'<25>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "7" : "s(woody allen=Woody_Allen) [often identified part ] o'<new=New_York_City>"
+  },
+  "abstract" : {
+    "7" : "woody allen<Woody_Allen> is often identified as part of the new<New_York_City> hollywood wave of filmmakers of the mid-1960s to late 1970s\n"
+  }
+} ]

@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity11758",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Mohe",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Xiao_Mohe) dbo:birthDate o'<532-1-1>",
+    "2" : "s(Xiao_Mohe) dbo:deathDate o'<604-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11759",
+  "entityUrl" : "http://dbpedia.org/resource/Xuong_Nguyen-Huu",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Xuong_Nguyen-Huu) dbo:birthDate o'<1933-0-0>",
+    "2" : "s(Xuong_Nguyen-Huu) dbo:birthPlace o'<Vietnam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11760",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Montsalvatge",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Xavier_Montsalvatge) dbo:birthDate o'<1912-03-11>",
+    "2" : "s(Xavier_Montsalvatge) dbo:birthDate o'<1912-3-11>",
+    "3" : "s(Xavier_Montsalvatge) dbo:birthName o'<Xavier Montsalvatge i Bassols>",
+    "4" : "s(Xavier_Montsalvatge) dbo:birthPlace o'<Girona>",
+    "5" : "s(Xavier_Montsalvatge) dbo:birthYear o'<1912>",
+    "6" : "s(Xavier_Montsalvatge) dbo:deathCause o'<Emphysema>",
+    "7" : "s(Xavier_Montsalvatge) dbo:deathDate o'<2002-05-07>",
+    "8" : "s(Xavier_Montsalvatge) dbo:deathDate o'<2002-5-7>",
+    "9" : "s(Xavier_Montsalvatge) dbo:deathPlace o'<Barcelona>",
+    "10" : "s(Xavier_Montsalvatge) dbo:deathYear o'<2002>",
+    "11" : "s(Xavier_Montsalvatge) dbo:nationality o'<Spain>",
+    "12" : "s(Xavier_Montsalvatge) dbo:occupation o'<Critic>",
+    "13" : "s(Xavier_Montsalvatge) dbo:occupation o'<Xavier_Montsalvatge__1>",
+    "14" : "s(Xavier_Montsalvatge) dbo:occupation o'<Composer>",
+    "15" : "s(Xavier_Montsalvatge) dbo:personFunction o'<Xavier_Montsalvatge__1>",
+    "16" : "s(Xavier_Montsalvatge) dbo:residence o'<Barcelona>",
+    "17" : "s(Xavier_Montsalvatge) dbo:restingPlace o'<Barcelona>",
+    "18" : "s(Xavier_Montsalvatge) dbo:stateOfOrigin o'<Spain>",
+    "19" : "s(Xavier_Montsalvatge) dbo:title o'<Creu de Sant Jordi(1983), Spanish \"Premio Nacional de MÃºsica\" (1985), Catalan \"Premi Nacional de MÃºsica\" (1997), Medalla d'Or de la Generalitat de Catalunya (1999); Doctor Honoris Causa,Universitat AutÃ²noma de Barcelona; Chevalier de l'Ordre des Arts et Lettres.>",
+    "20" : "s(Xavier_Montsalvatge) dbp:children o'<Xavier, Yvette>",
+    "21" : "s(Xavier_Montsalvatge) dbp:education o'<Conservatori Municipal de MÃºsica de Barcelona>",
+    "22" : "s(Xavier_Montsalvatge) dbp:knownFor o'<Cinco canciones negras>",
+    "23" : "s(Xavier_Montsalvatge) dbp:spouse o'<1947>",
+    "24" : "s(Xavier_Montsalvatge) dbp:spouse o'<Elena PÃ©rez de Olaguer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11761",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Aihui",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Xu_Aihui) dbo:birthDate o'<1978-4-25>",
+    "2" : "s(Xu_Aihui) dbo:country o'<China>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11762",
+  "entityUrl" : "http://dbpedia.org/resource/X%C3%B3chitl_Escobedo",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11763",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Coppolani",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Xavier_Coppolani) dbo:birthDate o'<1866-2-2>",
+    "2" : "s(Xavier_Coppolani) dbo:birthPlace o'<Marignana>",
+    "3" : "s(Xavier_Coppolani) dbo:deathDate o'<1905-5-12>",
+    "4" : "s(Xavier_Coppolani) dbo:deathPlace o'<Tidjikja>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

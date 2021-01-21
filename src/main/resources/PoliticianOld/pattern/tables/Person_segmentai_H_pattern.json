@@ -1,0 +1,88 @@
+[ {
+  "entityIndex" : "entity11175",
+  "entityUrl" : "http://dbpedia.org/resource/Hasnat_Abdul_Hye",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Hasnat_Abdul_Hye) dbo:almaMater o'<University_of_Dhaka>",
+    "2" : "s(Hasnat_Abdul_Hye) dbo:award o'<Ekushey_Padak>",
+    "3" : "s(Hasnat_Abdul_Hye) dbo:award o'<Bangla_Academy_Award>",
+    "4" : "s(Hasnat_Abdul_Hye) dbo:birthDate o'<1939-1-1>",
+    "5" : "s(Hasnat_Abdul_Hye) dbo:birthPlace o'<Kolkata>",
+    "6" : "s(Hasnat_Abdul_Hye) dbo:birthPlace o'<British_India>",
+    "7" : "s(Hasnat_Abdul_Hye) dbo:birthPlace o'<Calcutta>",
+    "8" : "s(Hasnat_Abdul_Hye) dbo:birthYear o'<1939>",
+    "9" : "s(Hasnat_Abdul_Hye) dbo:occupation o'<Hasnat_Abdul_Hye__1>",
+    "10" : "s(Hasnat_Abdul_Hye) dbp:nationality o'<Bangldeshi>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(hasnat abdul hye=Hasnat_Abdul_Hye) [received national award ] o'<ekushey padak=Ekushey_Padak>"
+  },
+  "abstract" : {
+    "2" : "hasnat abdul hye<Hasnat_Abdul_Hye> received the national award ekushey padak<Ekushey_Padak> for his contribution to literature in 1994\n"
+  }
+}, {
+  "entityIndex" : "entity11176",
+  "entityUrl" : "http://dbpedia.org/resource/Hippolyt_Kempf",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11177",
+  "entityUrl" : "http://dbpedia.org/resource/Howard_Bingham",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Howard_Bingham) dbo:birthDate o'<1939-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11178",
+  "entityUrl" : "http://dbpedia.org/resource/Hallie_Rubenhold",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11179",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_L._Haines",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Harry_L._Haines) dbo:birthDate o'<1880-02-01>",
+    "2" : "s(Harry_L._Haines) dbo:birthDate o'<1880-2-1>",
+    "3" : "s(Harry_L._Haines) dbo:birthPlace o'<Red_Lion,_York_County,_Pennsylvania>",
+    "4" : "s(Harry_L._Haines) dbo:deathDate o'<1947-03-29>",
+    "5" : "s(Harry_L._Haines) dbo:deathDate o'<1947-3-29>",
+    "6" : "s(Harry_L._Haines) dbo:deathPlace o'<Pennsylvania>",
+    "7" : "s(Harry_L._Haines) dbo:deathPlace o'<Red_Lion,_York_County,_Pennsylvania>",
+    "8" : "s(Harry_L._Haines) dbo:party o'<Democratic_Party_(United_States)>",
+    "9" : "s(Harry_L._Haines) dbo:region o'<Pennsylvania's_22nd_congressional_district>",
+    "10" : "s(Harry_L._Haines) dbo:termPeriod o'<Harry_L._Haines__1>",
+    "11" : "s(Harry_L._Haines) dbo:termPeriod o'<Harry_L._Haines__2>",
+    "12" : "s(Harry_L._Haines) dbp:after o'<Chester_H._Gross>",
+    "13" : "s(Harry_L._Haines) dbp:before o'<Chester_H._Gross>",
+    "14" : "s(Harry_L._Haines) dbp:before o'<Franklin_Menges>",
+    "15" : "s(Harry_L._Haines) dbp:district o'<22>",
+    "16" : "s(Harry_L._Haines) dbp:imageName o'<P18>",
+    "17" : "s(Harry_L._Haines) dbp:imageSize o'<150>",
+    "18" : "s(Harry_L._Haines) dbp:preceded o'<Chester_H._Gross>",
+    "19" : "s(Harry_L._Haines) dbp:preceded o'<Franklin_Menges>",
+    "20" : "s(Harry_L._Haines) dbp:state o'<Pennsylvania>",
+    "21" : "s(Harry_L._Haines) dbp:state o'<Pennsylvania>",
+    "22" : "s(Harry_L._Haines) dbp:succeeded o'<Chester H. Gross>",
+    "23" : "s(Harry_L._Haines) dbp:years o'<1931>",
+    "24" : "s(Harry_L._Haines) dbp:years o'<1941>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11180",
+  "entityUrl" : "http://dbpedia.org/resource/Hing_Tong",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Hing_Tong) dbo:birthDate o'<1922-2-16>",
+    "2" : "s(Hing_Tong) dbo:deathDate o'<2007-3-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

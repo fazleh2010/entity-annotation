@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity11151",
+  "entityUrl" : "http://dbpedia.org/resource/David_of_Augsburg",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(David_of_Augsburg) dbo:birthDate o'<1200-1-1>",
+    "2" : "s(David_of_Augsburg) dbo:birthPlace o'<Augsburg>",
+    "3" : "s(David_of_Augsburg) dbo:deathDate o'<1272-1-1>",
+    "4" : "s(David_of_Augsburg) dbo:deathPlace o'<Augsburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11152",
+  "entityUrl" : "http://dbpedia.org/resource/David_Groh",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(David_Groh) dbo:activeYearsEndYear o'<2008>",
+    "2" : "s(David_Groh) dbo:activeYearsStartYear o'<1969>",
+    "3" : "s(David_Groh) dbo:birthDate o'<1939-05-21>",
+    "4" : "s(David_Groh) dbo:birthDate o'<1939-5-21>",
+    "5" : "s(David_Groh) dbo:birthName o'<David Lawrence Groh>",
+    "6" : "s(David_Groh) dbo:birthPlace o'<United_States>",
+    "7" : "s(David_Groh) dbo:birthPlace o'<Brooklyn>",
+    "8" : "s(David_Groh) dbo:birthPlace o'<New_York_(state)>",
+    "9" : "s(David_Groh) dbo:birthYear o'<1939>",
+    "10" : "s(David_Groh) dbo:deathDate o'<2008-02-12>",
+    "11" : "s(David_Groh) dbo:deathDate o'<2008-2-12>",
+    "12" : "s(David_Groh) dbo:deathPlace o'<United_States>",
+    "13" : "s(David_Groh) dbo:deathPlace o'<California>",
+    "14" : "s(David_Groh) dbo:deathPlace o'<Los_Angeles>",
+    "15" : "s(David_Groh) dbo:deathYear o'<2008>",
+    "16" : "s(David_Groh) dbo:imdbId o'<0342958>",
+    "17" : "s(David_Groh) dbo:occupation o'<Film>",
+    "18" : "s(David_Groh) dbo:occupation o'<David_Groh__1>",
+    "19" : "s(David_Groh) dbo:occupation o'<Television>",
+    "20" : "s(David_Groh) dbp:name o'<David Groh>",
+    "21" : "s(David_Groh) dbp:spouse o'<Denise Arsenault>",
+    "22" : "s(David_Groh) dbp:spouse o'<Karla Pergande>",
+    "23" : "s(David_Groh) dbp:spouse o'<Kristin Andersen Groh>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11153",
+  "entityUrl" : "http://dbpedia.org/resource/Dagfinn_F%C3%B8llesdal",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11154",
+  "entityUrl" : "http://dbpedia.org/resource/Damjan_Fras",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Damjan_Fras) dbo:birthDate o'<1973-02-21>",
+    "2" : "s(Damjan_Fras) dbo:birthDate o'<1973-2-21>",
+    "3" : "s(Damjan_Fras) dbo:birthPlace o'<Ljubljana>",
+    "4" : "s(Damjan_Fras) dbp:id o'<18137>",
+    "5" : "s(Damjan_Fras) dbp:nationality o'<Slovenia>",
+    "6" : "s(Damjan_Fras) dbp:seasons o'<1990>",
+    "7" : "s(Damjan_Fras) dbp:seasons o'<1994>",
+    "8" : "s(Damjan_Fras) dbp:seasons o'<1998>",
+    "9" : "s(Damjan_Fras) dbp:updated o'<2015-05-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11155",
+  "entityUrl" : "http://dbpedia.org/resource/David_Wright_(artist)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(David_Wright_(artist)) dbo:birthDate o'<1912-12-12>",
+    "2" : "s(David_Wright_(artist)) dbo:deathDate o'<1967-5-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11156",
+  "entityUrl" : "http://dbpedia.org/resource/Doug_Halward",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Doug_Halward) dbo:birthDate o'<1955-11-1>",
+    "2" : "s(Doug_Halward) dbo:birthPlace o'<Toronto>",
+    "3" : "s(Doug_Halward) dbp:after o'<Clayton_Pachal>",
+    "4" : "s(Doug_Halward) dbp:before o'<Don_Larway>",
+    "5" : "s(Doug_Halward) dbp:title o'<List_of_Boston_Bruins_draft_picks>",
+    "6" : "s(Doug_Halward) dbp:years o'<1975>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

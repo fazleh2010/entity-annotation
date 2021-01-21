@@ -1,0 +1,55 @@
+[ {
+  "entityIndex" : "entity12045",
+  "entityUrl" : "http://dbpedia.org/resource/Qin_Yiyuan",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Qin_Yiyuan) dbo:birthDate o'<1973-2-14>",
+    "2" : "s(Qin_Yiyuan) dbo:birthPlace o'<China>",
+    "3" : "s(Qin_Yiyuan) dbp:p o'<QÃ­n YÃ¬yuÃ¡n>",
+    "4" : "s(Qin_Yiyuan) dbp:t o'<ç§¦è—�æº�>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12046",
+  "entityUrl" : "http://dbpedia.org/resource/Qian_Nairong",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Qian_Nairong) dbo:birthDate o'<1945-2-13>",
+    "2" : "s(Qian_Nairong) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Qian_Nairong) dbp:p o'<QiÃ¡n NairÃ³ng>",
+    "4" : "s(Qian_Nairong) dbp:t o'<éŒ¢ä¹ƒæ¦®>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12047",
+  "entityUrl" : "http://dbpedia.org/resource/Quintus_Aelius_Tubero",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12048",
+  "entityUrl" : "http://dbpedia.org/resource/Qari_Shakir_Qasmi",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12049",
+  "entityUrl" : "http://dbpedia.org/resource/Q_Project",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Q_Project) dbo:birthPlace o'<Oxford>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12050",
+  "entityUrl" : "http://dbpedia.org/resource/Qasim_Shah",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

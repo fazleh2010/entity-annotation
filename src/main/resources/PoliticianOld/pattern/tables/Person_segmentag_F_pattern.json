@@ -1,0 +1,62 @@
+[ {
+  "entityIndex" : "entity10835",
+  "entityUrl" : "http://dbpedia.org/resource/F%C3%A9lix_Bonfils",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10836",
+  "entityUrl" : "http://dbpedia.org/resource/Francesca_Arundale",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Francesca_Arundale) dbo:birthDate o'<1847-1-1>",
+    "2" : "s(Francesca_Arundale) dbo:birthPlace o'<Brighton>",
+    "3" : "s(Francesca_Arundale) dbo:deathDate o'<1924-3-23>",
+    "4" : "s(Francesca_Arundale) dbo:deathPlace o'<India>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10837",
+  "entityUrl" : "http://dbpedia.org/resource/Florence_Lassandro",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Florence_Lassandro) dbo:birthDate o'<1900-1-1>",
+    "2" : "s(Florence_Lassandro) dbo:deathDate o'<1923-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10838",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7oise_de_Foix",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10839",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Day",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Francis_Day) dbo:birthDate o'<1829-3-2>",
+    "2" : "s(Francis_Day) dbo:deathDate o'<1889-7-10>",
+    "3" : "s(Francis_Day) dbp:first o'<Bernard Barham>",
+    "4" : "s(Francis_Day) dbp:last o'<Woodward>",
+    "5" : "s(Francis_Day) dbp:wstitle o'<Day, Francis>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10840",
+  "entityUrl" : "http://dbpedia.org/resource/Frederik_Gottschalk_von_Haxthausen",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Frederik_Gottschalk_von_Haxthausen) dbo:birthDate o'<1750-7-14>",
+    "2" : "s(Frederik_Gottschalk_von_Haxthausen) dbo:birthPlace o'<Copenhagen>",
+    "3" : "s(Frederik_Gottschalk_von_Haxthausen) dbo:deathDate o'<1825-7-6>",
+    "4" : "s(Frederik_Gottschalk_von_Haxthausen) dbo:deathPlace o'<Q21711493>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

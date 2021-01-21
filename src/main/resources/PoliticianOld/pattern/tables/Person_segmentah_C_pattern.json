@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity10981",
+  "entityUrl" : "http://dbpedia.org/resource/Chauncey_Northrop_Pond",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Chauncey_Northrop_Pond) dbo:birthDate o'<1841-1-1>",
+    "2" : "s(Chauncey_Northrop_Pond) dbo:deathDate o'<1920-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10982",
+  "entityUrl" : "http://dbpedia.org/resource/Charlie_Paton",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Charlie_Paton) dbo:birthDate o'<1970-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10983",
+  "entityUrl" : "http://dbpedia.org/resource/Claude_Balbastre",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Claude_Balbastre) dbo:birthDate o'<1724-12-08>",
+    "2" : "s(Claude_Balbastre) dbo:birthDate o'<1724-12-8>",
+    "3" : "s(Claude_Balbastre) dbo:birthPlace o'<Dijon>",
+    "4" : "s(Claude_Balbastre) dbo:birthYear o'<1724>",
+    "5" : "s(Claude_Balbastre) dbo:deathDate o'<1799-05-09>",
+    "6" : "s(Claude_Balbastre) dbo:deathDate o'<1799-5-9>",
+    "7" : "s(Claude_Balbastre) dbo:deathPlace o'<Paris>",
+    "8" : "s(Claude_Balbastre) dbo:deathYear o'<1799>",
+    "9" : "s(Claude_Balbastre) dbo:occupation o'<Claude_Balbastre__1>",
+    "10" : "s(Claude_Balbastre) dbo:soundRecording o'<Claude_Balbastre__1>",
+    "11" : "s(Claude_Balbastre) dbp:birthPlace o'<Dijon>",
+    "12" : "s(Claude_Balbastre) dbp:format o'<Ogg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10984",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Colyear,_2nd_Earl_of_Portmore",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbo:birthDate o'<1700-8-27>",
+    "2" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbo:deathDate o'<1785-7-5>",
+    "3" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:after o'<William_Charles_Colyear,_3rd_Earl_of_Portmore>",
+    "4" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:after o'<William_Guidott>",
+    "5" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:after o'<James_Brudenell_(died_1746)>",
+    "6" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:after o'<Henry_Petty,_1st_Earl_of_Shelburne>",
+    "7" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:after o'<Harry_Waller_(MP)>",
+    "8" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:before o'<Charles_Egerton_(MP_for_Wycombe)>",
+    "9" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:before o'<David_Colyear,_1st_Earl_of_Portmore>",
+    "10" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:before o'<William_Guidott>",
+    "11" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:before o'<James_Brudenell_(died_1746)>",
+    "12" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:before o'<Henry_Petty,_1st_Earl_of_Shelburne>",
+    "13" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:coronet o'<A Coronet of an Earl>",
+    "14" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:crest o'<An Unicorn rampant Argent armed and maned Or>",
+    "15" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:escutcheon o'<Gules on a Chevron between three Wolves' Heads erased Or as many Oak Trees eradicated proper fructed Or>",
+    "16" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:motto o'<Avance>",
+    "17" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:supporters o'<On either side a Wolf proper>",
+    "18" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:title o'<Earl_of_Portmore>",
+    "19" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:title o'<Member of Parliament for Wycombe>",
+    "20" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:title o'<Member of Parliament for Andover>",
+    "21" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:with o'<James_Brudenell_(died_1746)>",
+    "22" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:with o'<Henry_Petty,_1st_Earl_of_Shelburne>",
+    "23" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:years o'<1726>",
+    "24" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:years o'<1727>",
+    "25" : "s(Charles_Colyear,_2nd_Earl_of_Portmore) dbp:years o'<1730>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10985",
+  "entityUrl" : "http://dbpedia.org/resource/Craig_Calonica",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10986",
+  "entityUrl" : "http://dbpedia.org/resource/Colin_Wallace_(cricketer)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Colin_Wallace_(cricketer)) dbo:birthDate o'<1953-10-2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

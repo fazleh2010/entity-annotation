@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11698",
+  "entityUrl" : "http://dbpedia.org/resource/Neda_Ulaby",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11699",
+  "entityUrl" : "http://dbpedia.org/resource/Noriaki_Yuasa",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Noriaki_Yuasa) dbo:birthDate o'<1933-9-28>",
+    "2" : "s(Noriaki_Yuasa) dbo:birthPlace o'<Setagaya>",
+    "3" : "s(Noriaki_Yuasa) dbo:deathDate o'<2004-6-14>",
+    "4" : "s(Noriaki_Yuasa) dbo:deathPlace o'<Japan>",
+    "5" : "s(Noriaki_Yuasa) dbo:viafId o'<210276971>",
+    "6" : "s(Noriaki_Yuasa) dbp:bot o'<yes>",
+    "7" : "s(Noriaki_Yuasa) dbp:date o'<August 2009>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11700",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_Claxton",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Norman_Claxton) dbo:alias o'<Norrie>",
+    "2" : "s(Norman_Claxton) dbo:birthDate o'<1877-11-02>",
+    "3" : "s(Norman_Claxton) dbo:birthDate o'<1877-11-2>",
+    "4" : "s(Norman_Claxton) dbo:birthName o'<Norman Claxton>",
+    "5" : "s(Norman_Claxton) dbo:birthPlace o'<South_Australia>",
+    "6" : "s(Norman_Claxton) dbo:birthPlace o'<North_Adelaide>",
+    "7" : "s(Norman_Claxton) dbo:birthYear o'<1877>",
+    "8" : "s(Norman_Claxton) dbo:deathDate o'<1951-12-05>",
+    "9" : "s(Norman_Claxton) dbo:deathDate o'<1951-12-5>",
+    "10" : "s(Norman_Claxton) dbo:deathPlace o'<South_Australia>",
+    "11" : "s(Norman_Claxton) dbo:deathPlace o'<North_Adelaide>",
+    "12" : "s(Norman_Claxton) dbo:deathYear o'<1951>",
+    "13" : "s(Norman_Claxton) dbo:occupation o'<Australian_rules_football>",
+    "14" : "s(Norman_Claxton) dbo:occupation o'<Cricket>",
+    "15" : "s(Norman_Claxton) dbo:occupation o'<Stockbroker>",
+    "16" : "s(Norman_Claxton) dbo:occupation o'<Norman_Claxton__1>",
+    "17" : "s(Norman_Claxton) dbo:religion o'<Anglican>",
+    "18" : "s(Norman_Claxton) dbp:imagesize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(norman claxton=Norman_Claxton) [2 november 1877  5 ] o'<south australia=South_Australia>",
+    "2" : "s(norman claxton=Norman_Claxton) [prominent figure in ] o'<south australian=South_Australia>",
+    "3" : "s(norman claxton=Norman_Claxton) [represented ] o'<south australia=South_Australia>",
+    "5" : "s(norman claxton=Norman_Claxton) [part of ] o'<north adelaide=North_Adelaide>",
+    "6" : "s(norman claxton=Norman_Claxton) [left lasting legacy in ] o'<australia=Australian_rules_football>"
+  },
+  "abstract" : {
+    "1" : "norman claxton<Norman_Claxton> (2 november 1877 â€“ 5 december 1951), was an all-round sportsman from south australia<South_Australia>",
+    "2" : "norman claxton<Norman_Claxton> was a prominent figure in south australian<South_Australia> cricket<Cricket>, australian rules football<Australian_rules_football>, baseball and cycling during the early twentieth century, both as a player and later an administrator\n",
+    "3" : "norman claxton<Norman_Claxton> represented south australia<South_Australia> in first-class cricket<Cricket>, playing 39 matches for his state<South_Australia>, and finishing his career with 2,090 first-class runs at an average of 29\n",
+    "5" : "in australian rules football<Australian_rules_football>, norman claxton<Norman_Claxton> was part of the north adelaide<North_Adelaide> football club<Australian_Rules_football> teams that won the south australian<South_Australia> national australian rules football<Australian_rules_football>1 league in 1900 and 1902\n",
+    "6" : "norman claxton<Norman_Claxton> left a lasting legacy in baseball by donating the claxton shield which bears his name as the trophy for the champion baseball team in australia<Australian_rules_football>\n"
+  }
+}, {
+  "entityIndex" : "entity11701",
+  "entityUrl" : "http://dbpedia.org/resource/Nigel_Gibson",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11702",
+  "entityUrl" : "http://dbpedia.org/resource/Neville_Jodrell",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Neville_Jodrell) dbo:birthDate o'<1858-5-27>",
+    "2" : "s(Neville_Jodrell) dbo:deathDate o'<1932-5-20>",
+    "3" : "s(Neville_Jodrell) dbp:after o'<George_Graham_Woodwark>",
+    "4" : "s(Neville_Jodrell) dbp:before o'<Holcombe_Ingleby>",
+    "5" : "s(Neville_Jodrell) dbp:title o'<Member of Parliament for King's Lynn>",
+    "6" : "s(Neville_Jodrell) dbp:title o'<Member of Parliament for Mid Norfolk>",
+    "7" : "s(Neville_Jodrell) dbp:years o'<1918>",
+    "8" : "s(Neville_Jodrell) dbp:years o'<October 1918 &ndash; December 1918>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(neville jodrell=Neville_Jodrell) [reelected in threeway ] o'<george woodwark=George_Graham_Woodwark>"
+  },
+  "abstract" : {
+    "4" : "neville jodrell<Neville_Jodrell> was re-elected in a three-way contest in 1922 by a larger margin, but at the 1923 general election, neville jodrell<Neville_Jodrell> lost his seat to the liberal candidate, george woodwark<George_Graham_Woodwark>\n"
+  }
+}, {
+  "entityIndex" : "entity11703",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Barr_Wheeler",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Nina_Barr_Wheeler) dbo:birthDate o'<1909-9-3>",
+    "2" : "s(Nina_Barr_Wheeler) dbo:country o'<United_States>",
+    "3" : "s(Nina_Barr_Wheeler) dbo:deathDate o'<1978-5-0>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(nina barr wheeler=Nina_Barr_Wheeler) [designed stained glass windows for ] o'<national=United_States>"
+  },
+  "abstract" : {
+    "3" : "nina barr wheeler<Nina_Barr_Wheeler> designed stained glass windows for the national<United_States> cathedral in washington<United_States>, dc and murals for the interior of the tavern on the green restaurant in new<United_States> york city\n"
+  }
+} ]

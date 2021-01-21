@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity11425",
+  "entityUrl" : "http://dbpedia.org/resource/Ulla_Andersson",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Ulla_Andersson) dbo:wikiPageRedirects o'<Ulla_Jones>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11426",
+  "entityUrl" : "http://dbpedia.org/resource/Ulysses_S._Grant,_Jr.",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11427",
+  "entityUrl" : "http://dbpedia.org/resource/Umberto_Lenzi",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Umberto_Lenzi) dbo:birthDate o'<1931-08-06>",
+    "2" : "s(Umberto_Lenzi) dbo:birthDate o'<1931-8-6>",
+    "3" : "s(Umberto_Lenzi) dbo:birthPlace o'<Italy>",
+    "4" : "s(Umberto_Lenzi) dbo:birthPlace o'<Massa_Marittima>",
+    "5" : "s(Umberto_Lenzi) dbo:birthYear o'<1931>",
+    "6" : "s(Umberto_Lenzi) dbo:occupation o'<Screenwriter>",
+    "7" : "s(Umberto_Lenzi) dbo:occupation o'<Film_director>",
+    "8" : "s(Umberto_Lenzi) dbo:occupation o'<Umberto_Lenzi__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11428",
+  "entityUrl" : "http://dbpedia.org/resource/Uncle_Sam_(singer)",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Uncle_Sam_(singer)) dbo:birthPlace o'<Detroit>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11429",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrich_Zasius",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Ulrich_Zasius) dbo:birthDate o'<1461-1-1>",
+    "2" : "s(Ulrich_Zasius) dbo:birthPlace o'<Konstanz>",
+    "3" : "s(Ulrich_Zasius) dbo:deathDate o'<1535-11-24>",
+    "4" : "s(Ulrich_Zasius) dbo:deathPlace o'<Freiburg_im_Breisgau>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11430",
+  "entityUrl" : "http://dbpedia.org/resource/Urbanus_(Roman_usurper)",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Urbanus_(Roman_usurper)) dbo:birthDate o'<300-1-1>",
+    "2" : "s(Urbanus_(Roman_usurper)) dbo:deathDate o'<271-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

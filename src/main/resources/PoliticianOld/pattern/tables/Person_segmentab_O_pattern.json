@@ -1,0 +1,111 @@
+[ {
+  "entityIndex" : "entity10889",
+  "entityUrl" : "http://dbpedia.org/resource/Osthryth",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Osthryth) dbo:birthDate o'<700-1-1>",
+    "2" : "s(Osthryth) dbo:birthPlace o'<Kingdom_of_Northumbria>",
+    "3" : "s(Osthryth) dbo:deathDate o'<697-1-1>",
+    "4" : "s(Osthryth) dbo:deathPlace o'<Mercia>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(osthryth=Osthryth) [murdered by nobles ] o'<mercia=Mercia>",
+    "18" : "s(osthryth=Osthryth) [kinsman oshere ] o'<mercian=Mercia>"
+  },
+  "abstract" : {
+    "2" : "osthryth<Osthryth> was murdered by the nobles of mercia<Mercia>\n",
+    "18" : "finberg speculates that osthryth<Osthryth> and her kinsman oshere were suspected of trying to detach the kingdom of the hwicce from mercian<Mercia> overlordship\n"
+  }
+}, {
+  "entityIndex" : "entity10890",
+  "entityUrl" : "http://dbpedia.org/resource/Opchanacanough",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Opchanacanough) dbo:birthDate o'<1554-1-1>",
+    "2" : "s(Opchanacanough) dbo:deathDate o'<1646-1-1>",
+    "3" : "s(Opchanacanough) dbp:after o'<Necotowance>",
+    "4" : "s(Opchanacanough) dbp:before o'<Chief_Powhatan>",
+    "5" : "s(Opchanacanough) dbp:by o'<no>",
+    "6" : "s(Opchanacanough) dbp:onlinebooks o'<yes>",
+    "7" : "s(Opchanacanough) dbp:title o'<Weroance>",
+    "8" : "s(Opchanacanough) dbp:viaf o'<60942264>",
+    "9" : "s(Opchanacanough) dbp:years o'<1618>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(opchanacanough=Opchanacanough) [younger brother or ] o'<chief powhatan=Chief_Powhatan>"
+  },
+  "abstract" : {
+    "3" : "opchanacanough<Opchanacanough> was the younger brother (or possibly half-brother) of chief powhatan<Chief_Powhatan>, who had organized and dominated the powhatan<Chief_Powhatan> confederacy\n"
+  }
+}, {
+  "entityIndex" : "entity10891",
+  "entityUrl" : "http://dbpedia.org/resource/Olive_Thomas",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Olive_Thomas) dbo:activeYearsEndYear o'<1920>",
+    "2" : "s(Olive_Thomas) dbo:activeYearsStartYear o'<1916>",
+    "3" : "s(Olive_Thomas) dbo:birthDate o'<1894-10-20>",
+    "4" : "s(Olive_Thomas) dbo:birthName o'<Oliva R. Duffy>",
+    "5" : "s(Olive_Thomas) dbo:birthPlace o'<Charleroi,_Pennsylvania>",
+    "6" : "s(Olive_Thomas) dbo:birthYear o'<1894>",
+    "7" : "s(Olive_Thomas) dbo:deathCause o'<Nephritis>",
+    "8" : "s(Olive_Thomas) dbo:deathDate o'<1920-09-10>",
+    "9" : "s(Olive_Thomas) dbo:deathDate o'<1920-9-10>",
+    "10" : "s(Olive_Thomas) dbo:deathPlace o'<Neuilly-sur-Seine>",
+    "11" : "s(Olive_Thomas) dbo:deathPlace o'<Neuilly-sur-Seine,_France>",
+    "12" : "s(Olive_Thomas) dbo:deathYear o'<1920>",
+    "13" : "s(Olive_Thomas) dbo:occupation o'<Model_(person)>",
+    "14" : "s(Olive_Thomas) dbo:occupation o'<Olive_Thomas__1>",
+    "15" : "s(Olive_Thomas) dbo:relative o'<Mary_Pickford>",
+    "16" : "s(Olive_Thomas) dbo:relative o'<Lottie_Pickford>",
+    "17" : "s(Olive_Thomas) dbo:relative o'<Charlotte_Hennessy>",
+    "18" : "s(Olive_Thomas) dbo:restingPlace o'<Woodlawn_Cemetery_(Bronx)>",
+    "19" : "s(Olive_Thomas) dbo:spouse o'<Jack_Pickford>",
+    "20" : "s(Olive_Thomas) dbp:align o'<right>",
+    "21" : "s(Olive_Thomas) dbp:direction o'<vertical>",
+    "22" : "s(Olive_Thomas) dbp:nationality o'<American>",
+    "23" : "s(Olive_Thomas) dbp:width o'<220>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(olive thomas=Olive_Thomas) [married actor ] o'<jack pickford=Jack_Pickford>"
+  },
+  "abstract" : {
+    "5" : "that year olive thomas<Olive_Thomas> also married actor jack pickford<Jack_Pickford>, the younger brother of silent film star mary pickford<Mary_Pickford>\n"
+  }
+}, {
+  "entityIndex" : "entity10892",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Maria_Carpeaux",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Otto_Maria_Carpeaux) dbo:birthDate o'<1900-03-09>",
+    "2" : "s(Otto_Maria_Carpeaux) dbo:birthDate o'<1900-3-9>",
+    "3" : "s(Otto_Maria_Carpeaux) dbo:birthPlace o'<Vienna>",
+    "4" : "s(Otto_Maria_Carpeaux) dbo:birthPlace o'<Austria>",
+    "5" : "s(Otto_Maria_Carpeaux) dbo:birthPlace o'<Viena>",
+    "6" : "s(Otto_Maria_Carpeaux) dbo:deathDate o'<1978-02-03>",
+    "7" : "s(Otto_Maria_Carpeaux) dbo:deathDate o'<1978-2-3>",
+    "8" : "s(Otto_Maria_Carpeaux) dbo:deathPlace o'<Brazil>",
+    "9" : "s(Otto_Maria_Carpeaux) dbo:deathPlace o'<Rio_de_Janeiro>",
+    "10" : "s(Otto_Maria_Carpeaux) dbo:occupation o'<Literary_critic>",
+    "11" : "s(Otto_Maria_Carpeaux) dbp:notableworks o'<HistÃ³ria da Literatura Ocidental>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10893",
+  "entityUrl" : "http://dbpedia.org/resource/Ogata_K%C5%8Drin",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10894",
+  "entityUrl" : "http://dbpedia.org/resource/Omar_Bakri_Muhammad",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Omar_Bakri_Muhammad) dbo:birthDate o'<1958-1-1>",
+    "2" : "s(Omar_Bakri_Muhammad) dbo:birthPlace o'<Aleppo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

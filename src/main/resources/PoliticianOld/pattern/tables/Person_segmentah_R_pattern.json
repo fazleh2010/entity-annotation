@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity11071",
+  "entityUrl" : "http://dbpedia.org/resource/Ronald_Rauhe",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Ronald_Rauhe) dbo:birthDate o'<1981-10-3>",
+    "2" : "s(Ronald_Rauhe) dbo:birthPlace o'<Berlin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11072",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_A._W._Lowndes",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Robert_A._W._Lowndes) dbo:birthDate o'<1916-9-4>",
+    "2" : "s(Robert_A._W._Lowndes) dbo:deathDate o'<1998-7-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11073",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Stewart,_1st_Earl_of_Orkney",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Robert_Stewart,_1st_Earl_of_Orkney) dbo:birthDate o'<1533-1-1>",
+    "2" : "s(Robert_Stewart,_1st_Earl_of_Orkney) dbo:deathDate o'<1593-2-4>",
+    "3" : "s(Robert_Stewart,_1st_Earl_of_Orkney) dbp:title o'<Earl_of_Orkney>",
+    "4" : "s(Robert_Stewart,_1st_Earl_of_Orkney) dbp:years o'<1581>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(robert stewart, 1st earl of orkney=Robert_Stewart,_1st_Earl_of_Orkney) [testified against hamilton duke ] o'<earl=Earl_of_Orkney>",
+    "8" : "s(robert stewart, 1st earl of orkney=Robert_Stewart,_1st_Earl_of_Orkney) [named by james vi ] o'<earl=Earl_of_Orkney>"
+  },
+  "abstract" : {
+    "4" : "on 9 february 1560 robert stewart, 1st earl of orkney<Robert_Stewart,_1st_Earl_of_Orkney> testified against the hamilton duke of chã¢tellerault and earl<Earl_of_Orkney> of arran, and the protestant lords of the congregation to james macgill and john bellenden of auchnoule\n",
+    "8" : "in 1581 robert stewart, 1st earl of orkney<Robert_Stewart,_1st_Earl_of_Orkney> was named, by james vi, the 1st earl<Earl_of_Orkney> in a second creation of the earldom of orkney<Earl_of_Orkney>\n"
+  }
+}, {
+  "entityIndex" : "entity11074",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Evans_(writer)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Robert_Evans_(writer)) dbo:birthDate o'<1977-4-30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11075",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Tambling",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Richard_Tambling) dbo:birthDate o'<1986-9-12>",
+    "2" : "s(Richard_Tambling) dbo:birthPlace o'<Northern_Territory>",
+    "3" : "s(Richard_Tambling) dbp:align o'<left>",
+    "4" : "s(Richard_Tambling) dbp:birthDate o'<1986-09-12>",
+    "5" : "s(Richard_Tambling) dbp:birthPlace o'<Northern_Territory>",
+    "6" : "s(Richard_Tambling) dbp:draftpick o'<4>",
+    "7" : "s(Richard_Tambling) dbp:games(goals)_ o'<16>",
+    "8" : "s(Richard_Tambling) dbp:games(goals)_ o'<108>",
+    "9" : "s(Richard_Tambling) dbp:games(goals)_ o'<124>",
+    "10" : "s(Richard_Tambling) dbp:heightweight o'<180>",
+    "11" : "s(Richard_Tambling) dbp:imagesize o'<215>",
+    "12" : "s(Richard_Tambling) dbp:link o'<richard-tambling>",
+    "13" : "s(Richard_Tambling) dbp:nickname o'<Bling>",
+    "14" : "s(Richard_Tambling) dbp:originalteam o'<Southern_Districts_Football_Club>",
+    "15" : "s(Richard_Tambling) dbp:statsend o'<2013>",
+    "16" : "s(Richard_Tambling) dbp:width o'<175>",
+    "17" : "s(Richard_Tambling) dbp:years o'<2005>",
+    "18" : "s(Richard_Tambling) dbp:years o'<2011>",
+    "19" : "s(Richard_Tambling) dbp:years o'<Totals>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11076",
+  "entityUrl" : "http://dbpedia.org/resource/Ross_Porter_(sportscaster)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Ross_Porter_(sportscaster)) dbo:birthDate o'<1938-11-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

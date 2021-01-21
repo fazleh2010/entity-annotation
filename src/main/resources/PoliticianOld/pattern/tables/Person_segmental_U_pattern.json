@@ -1,0 +1,121 @@
+[ {
+  "entityIndex" : "entity11740",
+  "entityUrl" : "http://dbpedia.org/resource/Uday_Singh_(Fiji_politician)",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Uday_Singh_(Fiji_politician)) dbo:birthDate o'<1938-09-14>",
+    "2" : "s(Uday_Singh_(Fiji_politician)) dbo:birthDate o'<1938-9-14>",
+    "3" : "s(Uday_Singh_(Fiji_politician)) dbo:birthPlace o'<Ba_District,_Fiji>",
+    "4" : "s(Uday_Singh_(Fiji_politician)) dbo:deathDate o'<2014-06-07>",
+    "5" : "s(Uday_Singh_(Fiji_politician)) dbo:deathDate o'<2014-6-7>",
+    "6" : "s(Uday_Singh_(Fiji_politician)) dbo:deathPlace o'<Ba_District,_Fiji>",
+    "7" : "s(Uday_Singh_(Fiji_politician)) dbo:party o'<Alliance_Party_(Fiji)>",
+    "8" : "s(Uday_Singh_(Fiji_politician)) dbo:residence o'<Ba_District,_Fiji>",
+    "9" : "s(Uday_Singh_(Fiji_politician)) dbp:profession o'<Fijian Politician, Cane Farmer and Social worker>",
+    "10" : "s(Uday_Singh_(Fiji_politician)) dbp:religion o'<Hindu>",
+    "11" : "s(Uday_Singh_(Fiji_politician)) dbp:spouse o'<Vidya Wati Singh>",
+    "12" : "s(Uday_Singh_(Fiji_politician)) dbp:termEnd o'<1987>",
+    "13" : "s(Uday_Singh_(Fiji_politician)) dbp:termEnd o'<1992>",
+    "14" : "s(Uday_Singh_(Fiji_politician)) dbp:termEnd o'<1997>",
+    "15" : "s(Uday_Singh_(Fiji_politician)) dbp:termEnd o'<1999>",
+    "16" : "s(Uday_Singh_(Fiji_politician)) dbp:termEnd o'<2001>",
+    "17" : "s(Uday_Singh_(Fiji_politician)) dbp:termStart o'<1962>",
+    "18" : "s(Uday_Singh_(Fiji_politician)) dbp:termStart o'<1974>",
+    "19" : "s(Uday_Singh_(Fiji_politician)) dbp:termStart o'<1985>",
+    "20" : "s(Uday_Singh_(Fiji_politician)) dbp:termStart o'<1987>",
+    "21" : "s(Uday_Singh_(Fiji_politician)) dbp:termStart o'<1992>",
+    "22" : "s(Uday_Singh_(Fiji_politician)) dbp:termStart o'<1994>",
+    "23" : "s(Uday_Singh_(Fiji_politician)) dbp:title o'<Member of Parliament>",
+    "24" : "s(Uday_Singh_(Fiji_politician)) dbp:title o'<Senator>",
+    "25" : "s(Uday_Singh_(Fiji_politician)) dbp:title o'<Chairman of Indian Alliance, Ba>",
+    "26" : "s(Uday_Singh_(Fiji_politician)) dbp:title o'<Commissioner in the Fiji Public Service Commission>",
+    "27" : "s(Uday_Singh_(Fiji_politician)) dbp:title o'<Director Ba Cane Growers Council>",
+    "28" : "s(Uday_Singh_(Fiji_politician)) dbp:title o'<Member of the Delegation to the United Nation>",
+    "29" : "s(Uday_Singh_(Fiji_politician)) dbp:title o'<Yaqara Pastrol Farm Limited>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(uday singh (fiji politician)=Uday_Singh_(Fiji_politician)) [staunch supporter of ] o'<alliance party=Alliance_Party_(Fiji)>"
+  },
+  "abstract" : {
+    "2" : "like his close associate mahendra motibhai patel, cbe, uday singh (fiji politician)<Uday_Singh_(Fiji_politician)> was a staunch supporter of former prime minister ratu mara and the former alliance party<Alliance_Party_(Fiji)>\n"
+  }
+}, {
+  "entityIndex" : "entity11741",
+  "entityUrl" : "http://dbpedia.org/resource/Ursula_Pearson",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ursula_Pearson) dbo:activeYearsEndYear o'<1956>",
+    "2" : "s(Ursula_Pearson) dbo:activeYearsStartYear o'<1956>",
+    "3" : "s(Ursula_Pearson) dbo:alias o'<Ursula Hansen, Ursula Bellah>",
+    "4" : "s(Ursula_Pearson) dbo:birthDate o'<1929-1-1>",
+    "5" : "s(Ursula_Pearson) dbo:birthName o'<Ursula Gadischke>",
+    "6" : "s(Ursula_Pearson) dbo:birthPlace o'<Berlin>",
+    "7" : "s(Ursula_Pearson) dbo:birthPlace o'<Berlin,_Germany>",
+    "8" : "s(Ursula_Pearson) dbo:birthYear o'<1929>",
+    "9" : "s(Ursula_Pearson) dbo:deathDate o'<2006-1-1>",
+    "10" : "s(Ursula_Pearson) dbo:deathPlace o'<California>",
+    "11" : "s(Ursula_Pearson) dbo:deathPlace o'<Oxnard,_California>",
+    "12" : "s(Ursula_Pearson) dbo:deathPlace o'<Oxnard>",
+    "13" : "s(Ursula_Pearson) dbo:deathYear o'<2006>",
+    "14" : "s(Ursula_Pearson) dbo:spouse o'<James_Bellah>",
+    "15" : "s(Ursula_Pearson) dbp:notableRole o'<Hilda in Teenagers from Outer Space>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11742",
+  "entityUrl" : "http://dbpedia.org/resource/Ursula_Schulz-Dornburg",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ursula_Schulz-Dornburg) dbo:birthDate o'<1938-1-1>",
+    "2" : "s(Ursula_Schulz-Dornburg) dbo:birthPlace o'<Berlin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11743",
+  "entityUrl" : "http://dbpedia.org/resource/Unni_Lindell",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Unni_Lindell) dbo:birthDate o'<1957-04-03>",
+    "2" : "s(Unni_Lindell) dbo:birthDate o'<1957-4-3>",
+    "3" : "s(Unni_Lindell) dbo:birthName o'<Unni Maria Lindell>",
+    "4" : "s(Unni_Lindell) dbo:birthPlace o'<Oslo,_Norway>",
+    "5" : "s(Unni_Lindell) dbo:birthPlace o'<Oslo>",
+    "6" : "s(Unni_Lindell) dbo:birthYear o'<1957>",
+    "7" : "s(Unni_Lindell) dbo:nationality o'<Norwegians>",
+    "8" : "s(Unni_Lindell) dbo:occupation o'<Unni_Lindell__1>",
+    "9" : "s(Unni_Lindell) dbo:stateOfOrigin o'<Norwegians>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11744",
+  "entityUrl" : "http://dbpedia.org/resource/Uways_al-Barawi",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Uways_al-Barawi) dbo:birthDate o'<1847-0-0>",
+    "2" : "s(Uways_al-Barawi) dbo:deathDate o'<1909-0-0>",
+    "3" : "s(Uways_al-Barawi) dbp:birthDate o'<1846>",
+    "4" : "s(Uways_al-Barawi) dbp:deathDate o'<1909>",
+    "5" : "s(Uways_al-Barawi) dbp:era o'<19>",
+    "6" : "s(Uways_al-Barawi) dbp:ethnicity o'<Somali_people>",
+    "7" : "s(Uways_al-Barawi) dbp:maddhab o'<Shafi>",
+    "8" : "s(Uways_al-Barawi) dbp:mainInterests o'<Islamic_philosophy>",
+    "9" : "s(Uways_al-Barawi) dbp:mainInterests o'<Islamic_literature>",
+    "10" : "s(Uways_al-Barawi) dbp:name o'<Uways Al-Barawi>",
+    "11" : "s(Uways_al-Barawi) dbp:notability o'<List_of_Islamic_studies_scholars>",
+    "12" : "s(Uways_al-Barawi) dbp:region o'<East_Africa>",
+    "13" : "s(Uways_al-Barawi) dbp:schoolTradition o'<Uwaysiyya>",
+    "14" : "s(Uways_al-Barawi) dbp:title o'<Al Barawi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11745",
+  "entityUrl" : "http://dbpedia.org/resource/Uwe_Kr%C3%B6ger",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

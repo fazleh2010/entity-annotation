@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity11506",
+  "entityUrl" : "http://dbpedia.org/resource/Ismoil_Talbakov",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Ismoil_Talbakov) dbo:birthDate o'<1955-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11507",
+  "entityUrl" : "http://dbpedia.org/resource/Irene_Clarin",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Irene_Clarin) dbo:birthDate o'<1955-05-16>",
+    "2" : "s(Irene_Clarin) dbo:birthDate o'<1955-5-16>",
+    "3" : "s(Irene_Clarin) dbo:birthName o'<Irene Clarin>",
+    "4" : "s(Irene_Clarin) dbo:birthPlace o'<Germany>",
+    "5" : "s(Irene_Clarin) dbo:birthPlace o'<Munich>",
+    "6" : "s(Irene_Clarin) dbo:birthYear o'<1955>",
+    "7" : "s(Irene_Clarin) dbo:imdbId o'<0163585>",
+    "8" : "s(Irene_Clarin) dbp:name o'<Irene Clarin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11508",
+  "entityUrl" : "http://dbpedia.org/resource/Israhel_van_Meckenem",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Israhel_van_Meckenem) dbo:birthDate o'<1440-1-1>",
+    "2" : "s(Israhel_van_Meckenem) dbo:deathDate o'<1503-1-1>",
+    "3" : "s(Israhel_van_Meckenem) dbo:deathPlace o'<Bocholt,_Germany>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11509",
+  "entityUrl" : "http://dbpedia.org/resource/Ilana_Levine",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Ilana_Levine) dbo:birthDate o'<1963-12-05>",
+    "2" : "s(Ilana_Levine) dbo:birthDate o'<1963-12-5>",
+    "3" : "s(Ilana_Levine) dbo:birthPlace o'<New_Jersey>",
+    "4" : "s(Ilana_Levine) dbo:birthYear o'<1963>",
+    "5" : "s(Ilana_Levine) dbo:occupation o'<Ilana_Levine__1>",
+    "6" : "s(Ilana_Levine) dbo:occupation o'<Actress>",
+    "7" : "s(Ilana_Levine) dbo:spouse o'<Dominic_Fumusa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11510",
+  "entityUrl" : "http://dbpedia.org/resource/Inez_(singer)",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Inez_(singer)) dbo:birthDate o'<1977-10-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11511",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_Newton_Van_Nuys",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Isaac_Newton_Van_Nuys) dbo:birthDate o'<1836-11-20>",
+    "2" : "s(Isaac_Newton_Van_Nuys) dbo:birthPlace o'<West_Sparta,_New_York>",
+    "3" : "s(Isaac_Newton_Van_Nuys) dbo:birthYear o'<1836>",
+    "4" : "s(Isaac_Newton_Van_Nuys) dbo:deathDate o'<1912-02-12>",
+    "5" : "s(Isaac_Newton_Van_Nuys) dbo:deathDate o'<1912-2-12>",
+    "6" : "s(Isaac_Newton_Van_Nuys) dbo:deathPlace o'<California>",
+    "7" : "s(Isaac_Newton_Van_Nuys) dbo:deathPlace o'<Los_Angeles>",
+    "8" : "s(Isaac_Newton_Van_Nuys) dbo:deathYear o'<1912>",
+    "9" : "s(Isaac_Newton_Van_Nuys) dbo:occupation o'<Isaac_Newton_Van_Nuys__1>",
+    "10" : "s(Isaac_Newton_Van_Nuys) dbo:occupation o'<Banker>",
+    "11" : "s(Isaac_Newton_Van_Nuys) dbo:relative o'<Isaac_Lankershim>",
+    "12" : "s(Isaac_Newton_Van_Nuys) dbo:relative o'<James_Boon_Lankershim>",
+    "13" : "s(Isaac_Newton_Van_Nuys) dbp:children o'<Annis H. Van Nuys>",
+    "14" : "s(Isaac_Newton_Van_Nuys) dbp:children o'<James Benton Van Nuys>",
+    "15" : "s(Isaac_Newton_Van_Nuys) dbp:children o'<Kate Van Nuys>",
+    "16" : "s(Isaac_Newton_Van_Nuys) dbp:imageSize o'<200>",
+    "17" : "s(Isaac_Newton_Van_Nuys) dbp:parents o'<Harriet Kerr>",
+    "18" : "s(Isaac_Newton_Van_Nuys) dbp:parents o'<Peter Van Nuys>",
+    "19" : "s(Isaac_Newton_Van_Nuys) dbp:religion o'<Baptist>",
+    "20" : "s(Isaac_Newton_Van_Nuys) dbp:spouse o'<Susanna H. Lankershim>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

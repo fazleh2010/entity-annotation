@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity10719",
+  "entityUrl" : "http://dbpedia.org/resource/Nikolai_Hristozov",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Nikolai_Hristozov) dbo:birthDate o'<1931-0-0>",
+    "2" : "s(Nikolai_Hristozov) dbo:deathDate o'<2015-5-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10720",
+  "entityUrl" : "http://dbpedia.org/resource/Nicol%C3%A1s_L%C3%BAcar",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10721",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_de_Gunzburg",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Nicolas_de_Gunzburg) dbo:alias o'<Julian West>",
+    "2" : "s(Nicolas_de_Gunzburg) dbo:birthDate o'<1904-12-12>",
+    "3" : "s(Nicolas_de_Gunzburg) dbo:birthPlace o'<Paris>",
+    "4" : "s(Nicolas_de_Gunzburg) dbo:birthYear o'<1904>",
+    "5" : "s(Nicolas_de_Gunzburg) dbo:deathDate o'<1981-02-20>",
+    "6" : "s(Nicolas_de_Gunzburg) dbo:deathDate o'<1981-2-20>",
+    "7" : "s(Nicolas_de_Gunzburg) dbo:deathPlace o'<New_York_City>",
+    "8" : "s(Nicolas_de_Gunzburg) dbo:deathYear o'<1981>",
+    "9" : "s(Nicolas_de_Gunzburg) dbo:occupation o'<Nicolas_de_Gunzburg__1>",
+    "10" : "s(Nicolas_de_Gunzburg) dbp:deathPlace o'<New York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10722",
+  "entityUrl" : "http://dbpedia.org/resource/Nikolai_Minsky",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Nikolai_Minsky) dbo:birthDate o'<1855-0-0>",
+    "2" : "s(Nikolai_Minsky) dbo:birthPlace o'<Hlybokaye>",
+    "3" : "s(Nikolai_Minsky) dbo:deathDate o'<1937-7-2>",
+    "4" : "s(Nikolai_Minsky) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10723",
+  "entityUrl" : "http://dbpedia.org/resource/Nicky_Winmar",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Nicky_Winmar) dbo:birthDate o'<1965-9-25>",
+    "2" : "s(Nicky_Winmar) dbo:birthPlace o'<Kellerberrin,_Western_Australia>",
+    "3" : "s(Nicky_Winmar) dbp:birthDate o'<1965-09-25>",
+    "4" : "s(Nicky_Winmar) dbp:birthPlace o'<Kellerberrin,_Western_Australia>",
+    "5" : "s(Nicky_Winmar) dbp:birthPlace o'<Western_Australia>",
+    "6" : "s(Nicky_Winmar) dbp:careerhighlights o'<*  leading goalkicker 1988>",
+    "7" : "s(Nicky_Winmar) dbp:games(goals)_ o'<21>",
+    "8" : "s(Nicky_Winmar) dbp:games(goals)_ o'<90>",
+    "9" : "s(Nicky_Winmar) dbp:games(goals)_ o'<230>",
+    "10" : "s(Nicky_Winmar) dbp:heightweight o'<183>",
+    "11" : "s(Nicky_Winmar) dbp:nickname o'<\"Cuz\">",
+    "12" : "s(Nicky_Winmar) dbp:originalteam o'<Pingelly>",
+    "13" : "s(Nicky_Winmar) dbp:position o'<Half-forward flank, Wing>",
+    "14" : "s(Nicky_Winmar) dbp:soogames(goals)_ o'<8>",
+    "15" : "s(Nicky_Winmar) dbp:sooteams o'<Western_Australia_Australian_rules_football_team>",
+    "16" : "s(Nicky_Winmar) dbp:sooyears o'<1988>",
+    "17" : "s(Nicky_Winmar) dbp:statsend o'<1999>",
+    "18" : "s(Nicky_Winmar) dbp:title o'<Nicky Winmar in Western Australia State of Origin teams>",
+    "19" : "s(Nicky_Winmar) dbp:titlestyle o'<background:gold; color:black; border:solid black 2px>",
+    "20" : "s(Nicky_Winmar) dbp:years o'<1983>",
+    "21" : "s(Nicky_Winmar) dbp:years o'<1987>",
+    "22" : "s(Nicky_Winmar) dbp:years o'<1999>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(nicky winmar=Nicky_Winmar) [left st kilda at ] o'<western=Western_Australia>"
+  },
+  "abstract" : {
+    "4" : "nicky winmar<Nicky_Winmar> left st kilda at the end of the 1998 season and was drafted by the western<Western_Australia> bulldogs, playing one further season in the afl before retiring at the end of the 1999 season\n"
+  }
+}, {
+  "entityIndex" : "entity10724",
+  "entityUrl" : "http://dbpedia.org/resource/Nigel_Rees",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Nigel_Rees) dbo:birthDate o'<1944-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

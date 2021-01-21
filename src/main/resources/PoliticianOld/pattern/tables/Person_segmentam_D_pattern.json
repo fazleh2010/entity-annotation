@@ -1,0 +1,55 @@
+[ {
+  "entityIndex" : "entity11801",
+  "entityUrl" : "http://dbpedia.org/resource/David_Orbeliani",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(David_Orbeliani) dbo:birthDate o'<1739-1-11>",
+    "2" : "s(David_Orbeliani) dbo:deathDate o'<1796-5-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11802",
+  "entityUrl" : "http://dbpedia.org/resource/David_Hilker",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11803",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Brostr%C3%B6m",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11804",
+  "entityUrl" : "http://dbpedia.org/resource/David_E._Davis_(ecologist)",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(David_E._Davis_(ecologist)) dbo:birthDate o'<1913-1-1>",
+    "2" : "s(David_E._Davis_(ecologist)) dbo:deathDate o'<1994-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11805",
+  "entityUrl" : "http://dbpedia.org/resource/David_Samuel_Carasso",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(David_Samuel_Carasso) dbp:article o'<Carasso, David Samuel>",
+    "2" : "s(David_Samuel_Carasso) dbp:author o'<Isidore Singer and M. Franco>",
+    "3" : "s(David_Samuel_Carasso) dbp:url o'<view.jsp?artid=141&letter=C>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11806",
+  "entityUrl" : "http://dbpedia.org/resource/Diane_Anderson-Minshall",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Diane_Anderson-Minshall) dbo:birthDate o'<1968-3-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

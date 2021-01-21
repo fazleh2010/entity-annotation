@@ -1,0 +1,144 @@
+[ {
+  "entityIndex" : "entity14447",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_C._Martin",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Harry_C._Martin) dbo:birthDate o'<1854-12-15>",
+    "2" : "s(Harry_C._Martin) dbo:birthPlace o'<Lafayette_County,_Wisconsin>",
+    "3" : "s(Harry_C._Martin) dbo:deathDate o'<1917-02-25>",
+    "4" : "s(Harry_C._Martin) dbo:deathDate o'<1917-1-1>",
+    "5" : "s(Harry_C._Martin) dbo:deathPlace o'<Darlington,_Wisconsin>",
+    "6" : "s(Harry_C._Martin) dbo:office o'<Wisconsin State Assembly>",
+    "7" : "s(Harry_C._Martin) dbo:party o'<Republican_Party_(United_States)>",
+    "8" : "s(Harry_C._Martin) dbo:termPeriod o'<Harry_C._Martin__2>",
+    "9" : "s(Harry_C._Martin) dbp:preceded o'<Henry_Putnam>",
+    "10" : "s(Harry_C._Martin) dbp:profession o'<Attorney>",
+    "11" : "s(Harry_C._Martin) dbp:spouse o'<Kittie E. Dodge>",
+    "12" : "s(Harry_C._Martin) dbp:state o'<Wisconsin>",
+    "13" : "s(Harry_C._Martin) dbp:stateSenate o'<Wisconsin>",
+    "14" : "s(Harry_C._Martin) dbp:succeeded o'<Platt_Whitman>",
+    "15" : "s(Harry_C._Martin) dbp:termEnd o'<1899>",
+    "16" : "s(Harry_C._Martin) dbp:termEnd o'<1915>",
+    "17" : "s(Harry_C._Martin) dbp:termStart o'<1895>",
+    "18" : "s(Harry_C._Martin) dbp:termStart o'<1899>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(harry c. martin=Harry_C._Martin) [served mayor of ] o'<darlington=Darlington,_Wisconsin>"
+  },
+  "abstract" : {
+    "4" : "harry c. martin<Harry_C._Martin> served as mayor of darlington<Darlington,_Wisconsin>, and later as a member of the wisconsin state assembly<Wisconsin_State_Assembly> and the wisconsin state<Wisconsin> senate\n"
+  }
+}, {
+  "entityIndex" : "entity14448",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Borlase",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Henry_Borlase) dbo:birthDate o'<1590-1-1>",
+    "2" : "s(Henry_Borlase) dbo:deathDate o'<1624-1-1>",
+    "3" : "s(Henry_Borlase) dbp:after o'<Sir_Thomas_Cotton,_2nd_Baronet>",
+    "4" : "s(Henry_Borlase) dbp:after o'<John_Backhouse>",
+    "5" : "s(Henry_Borlase) dbp:after o'<Sir_John_Pakington,_1st_Baronet>",
+    "6" : "s(Henry_Borlase) dbp:after o'<Thomas_Crewe>",
+    "7" : "s(Henry_Borlase) dbp:before o'<Samuel_Backhouse>",
+    "8" : "s(Henry_Borlase) dbp:before o'<John_Dormer_(of_Dorton)>",
+    "9" : "s(Henry_Borlase) dbp:before o'<Constituency created>",
+    "10" : "s(Henry_Borlase) dbp:title o'<Member of Parliament for Aylesbury>",
+    "11" : "s(Henry_Borlase) dbp:title o'<Member of Parliament for Marlow>",
+    "12" : "s(Henry_Borlase) dbp:with o'<Sir_Thomas_Cotton,_2nd_Baronet>",
+    "13" : "s(Henry_Borlase) dbp:with o'<John_Dormer_(of_Dorton)>",
+    "14" : "s(Henry_Borlase) dbp:years o'<1621>",
+    "15" : "s(Henry_Borlase) dbp:years o'<1624>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14449",
+  "entityUrl" : "http://dbpedia.org/resource/Hubert-Charron_Cabana",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Hubert-Charron_Cabana) dbo:birthDate o'<1838-06-14>",
+    "2" : "s(Hubert-Charron_Cabana) dbo:birthDate o'<1838-6-14>",
+    "3" : "s(Hubert-Charron_Cabana) dbo:birthPlace o'<Lower_Canada>",
+    "4" : "s(Hubert-Charron_Cabana) dbo:birthPlace o'<VerchÃ¨res,_Quebec>",
+    "5" : "s(Hubert-Charron_Cabana) dbo:birthYear o'<1838>",
+    "6" : "s(Hubert-Charron_Cabana) dbo:deathDate o'<1901-06-09>",
+    "7" : "s(Hubert-Charron_Cabana) dbo:deathDate o'<1901-6-9>",
+    "8" : "s(Hubert-Charron_Cabana) dbo:deathYear o'<1901>",
+    "9" : "s(Hubert-Charron_Cabana) dbo:occupation o'<Hubert-Charron_Cabana__1>",
+    "10" : "s(Hubert-Charron_Cabana) dbp:deathPlace o'<Sherbrooke, Quebec>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(hubert-charron cabana=Hubert-Charron_Cabana) [significant legal career ] o'<sherbrooke=Sherbrooke,_Quebec>"
+  },
+  "abstract" : {
+    "3" : "hubert-charron cabana<Hubert-Charron_Cabana> had a significant legal career in sherbrooke<Sherbrooke,_Quebec> as one of its first french canadian lawyers\n"
+  }
+}, {
+  "entityIndex" : "entity14450",
+  "entityUrl" : "http://dbpedia.org/resource/Hilary_Burn",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14451",
+  "entityUrl" : "http://dbpedia.org/resource/Herbert_Gelernter",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Herbert_Gelernter) dbo:birthDate o'<1929-12-17>",
+    "2" : "s(Herbert_Gelernter) dbo:birthPlace o'<Brooklyn>",
+    "3" : "s(Herbert_Gelernter) dbo:deathDate o'<2015-5-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14452",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Poole_(died_1632)",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Henry_Poole_(died_1632)) dbo:birthDate o'<1564-1-1>",
+    "2" : "s(Henry_Poole_(died_1632)) dbo:deathDate o'<1632-11-3>",
+    "3" : "s(Henry_Poole_(died_1632)) dbp:after o'<Sir_Thomas_Hatton,_1st_Baronet>",
+    "4" : "s(Henry_Poole_(died_1632)) dbp:after o'<Sir_William_Button,_1st_Baronet>",
+    "5" : "s(Henry_Poole_(died_1632)) dbp:after o'<Francis_Seymour,_1st_Baron_Seymour_of_Trowbridge>",
+    "6" : "s(Henry_Poole_(died_1632)) dbp:after o'<Sir_Thomas_Monson,_1st_Baronet>",
+    "7" : "s(Henry_Poole_(died_1632)) dbp:after o'<Richard_Wenman,_1st_Viscount_Wenman>",
+    "8" : "s(Henry_Poole_(died_1632)) dbp:after o'<Edward_Bayntun_(died_1657)>",
+    "9" : "s(Henry_Poole_(died_1632)) dbp:after o'<Richard George>",
+    "10" : "s(Henry_Poole_(died_1632)) dbp:after o'<Richard Browne>",
+    "11" : "s(Henry_Poole_(died_1632)) dbp:after o'<Edward Wray>",
+    "12" : "s(Henry_Poole_(died_1632)) dbp:after o'<Sir Edward Wardour>",
+    "13" : "s(Henry_Poole_(died_1632)) dbp:after o'<Sir John Eyre>",
+    "14" : "s(Henry_Poole_(died_1632)) dbp:before o'<Henry_Ley,_2nd_Earl_of_Marlborough>",
+    "15" : "s(Henry_Poole_(died_1632)) dbp:before o'<Francis_Seymour,_1st_Baron_Seymour_of_Trowbridge>",
+    "16" : "s(Henry_Poole_(died_1632)) dbp:before o'<John_Thynne_(died_1604)>",
+    "17" : "s(Henry_Poole_(died_1632)) dbp:before o'<Francis_Popham_(1573â€“1644)>",
+    "18" : "s(Henry_Poole_(died_1632)) dbp:before o'<Neville_Poole>",
+    "19" : "s(Henry_Poole_(died_1632)) dbp:before o'<Sir_William_Cope,_2nd_Baronet>",
+    "20" : "s(Henry_Poole_(died_1632)) dbp:before o'<Richard_Wenman,_1st_Viscount_Wenman>",
+    "21" : "s(Henry_Poole_(died_1632)) dbp:before o'<Oliver St John>",
+    "22" : "s(Henry_Poole_(died_1632)) dbp:before o'<Sir Roger Dalyson>",
+    "23" : "s(Henry_Poole_(died_1632)) dbp:before o'<Henry Ferrys>",
+    "24" : "s(Henry_Poole_(died_1632)) dbp:before o'<Robert Master>",
+    "25" : "s(Henry_Poole_(died_1632)) dbp:before o'<Sir George Gifford>",
+    "26" : "s(Henry_Poole_(died_1632)) dbp:title o'<Member of Parliament for Malmesbury>",
+    "27" : "s(Henry_Poole_(died_1632)) dbp:title o'<Member of Parliament for Cirencester>",
+    "28" : "s(Henry_Poole_(died_1632)) dbp:title o'<Member of Parliament for Wiltshire>",
+    "29" : "s(Henry_Poole_(died_1632)) dbp:title o'<Member of Parliament for Oxfordshire>",
+    "30" : "s(Henry_Poole_(died_1632)) dbp:title o'<Member of Parliament for Cricklade>",
+    "31" : "s(Henry_Poole_(died_1632)) dbp:with o'<John_Hungerford_(died_1635)>",
+    "32" : "s(Henry_Poole_(died_1632)) dbp:with o'<Sir_Walter_Long,_1st_Baronet>",
+    "33" : "s(Henry_Poole_(died_1632)) dbp:with o'<Sir_William_Cope,_2nd_Baronet>",
+    "34" : "s(Henry_Poole_(died_1632)) dbp:with o'<Sir Thomas Howard>",
+    "35" : "s(Henry_Poole_(died_1632)) dbp:with o'<Sir Edward Wardour>",
+    "36" : "s(Henry_Poole_(died_1632)) dbp:with o'<James Wroughton>",
+    "37" : "s(Henry_Poole_(died_1632)) dbp:years o'<1597>",
+    "38" : "s(Henry_Poole_(died_1632)) dbp:years o'<1604>",
+    "39" : "s(Henry_Poole_(died_1632)) dbp:years o'<1614>",
+    "40" : "s(Henry_Poole_(died_1632)) dbp:years o'<1621>",
+    "41" : "s(Henry_Poole_(died_1632)) dbp:years o'<1624>",
+    "42" : "s(Henry_Poole_(died_1632)) dbp:years o'<1626>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

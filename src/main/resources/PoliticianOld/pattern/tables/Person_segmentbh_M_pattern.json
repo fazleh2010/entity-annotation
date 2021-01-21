@@ -1,0 +1,50 @@
+[ {
+  "entityIndex" : "entity11369",
+  "entityUrl" : "http://dbpedia.org/resource/Mimis_Traiforos",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Mimis_Traiforos) dbo:birthDate o'<1913-1-1>",
+    "2" : "s(Mimis_Traiforos) dbo:birthPlace o'<Piraeus>",
+    "3" : "s(Mimis_Traiforos) dbo:deathDate o'<1998-3-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11370",
+  "entityUrl" : "http://dbpedia.org/resource/Marie_Th%C3%A9r%C3%A8se_P%C3%A9roux_d%E2%80%99Abany",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11371",
+  "entityUrl" : "http://dbpedia.org/resource/Mar%C3%ADa_Pariente_Gavito",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11372",
+  "entityUrl" : "http://dbpedia.org/resource/Mason_Hambly",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11373",
+  "entityUrl" : "http://dbpedia.org/resource/Mikael_S%C3%B6derberg",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11374",
+  "entityUrl" : "http://dbpedia.org/resource/Myne_Whitman",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Myne_Whitman) dbo:birthDate o'<1977-10-26>",
+    "2" : "s(Myne_Whitman) dbo:birthPlace o'<Enugu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

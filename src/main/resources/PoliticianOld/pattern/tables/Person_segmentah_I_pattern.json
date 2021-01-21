@@ -1,0 +1,86 @@
+[ {
+  "entityIndex" : "entity11017",
+  "entityUrl" : "http://dbpedia.org/resource/Inga_Clendinnen",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Inga_Clendinnen) dbo:birthDate o'<1934-8-17>",
+    "2" : "s(Inga_Clendinnen) dbo:birthPlace o'<Geelong>",
+    "3" : "s(Inga_Clendinnen) dbo:deathDate o'<2016-8-8>",
+    "4" : "s(Inga_Clendinnen) dbp:almaMater o'<University_of_Melbourne>",
+    "5" : "s(Inga_Clendinnen) dbp:almaMater o'<La_Trobe_University>",
+    "6" : "s(Inga_Clendinnen) dbp:awards o'<Queensland_Premier's_Literary_Awards>",
+    "7" : "s(Inga_Clendinnen) dbp:awards o'<Officer_of_the_Order_of_Australia>",
+    "8" : "s(Inga_Clendinnen) dbp:awards o'<Fellow_of_the_Australian_Academy_of_the_Humanities>",
+    "9" : "s(Inga_Clendinnen) dbp:awards o'<New_South_Wales_Premier's_Literary_Awards>",
+    "10" : "s(Inga_Clendinnen) dbp:awards o'<Australian_Society_of_Authors>",
+    "11" : "s(Inga_Clendinnen) dbp:awards o'<Dan_David_Prize>",
+    "12" : "s(Inga_Clendinnen) dbp:awards o'<Centenary_Medal>",
+    "13" : "s(Inga_Clendinnen) dbp:awards o'<New_South_Wales_Premier's_History_Awards>",
+    "14" : "s(Inga_Clendinnen) dbp:awards o'<Kiriyama_Prize>",
+    "15" : "s(Inga_Clendinnen) dbp:awards o'<Adelaide_Festival_Awards_for_Literature>",
+    "16" : "s(Inga_Clendinnen) dbp:awards o'<Herbert Eugene Bolton Memorial Prize>",
+    "17" : "s(Inga_Clendinnen) dbp:awards o'<Philip Hodgins Memorial Medal>",
+    "18" : "s(Inga_Clendinnen) dbp:birthDate o'<1934-08-17>",
+    "19" : "s(Inga_Clendinnen) dbp:birthName o'<Inga Vivienne Jewell>",
+    "20" : "s(Inga_Clendinnen) dbp:birthPlace o'<Geelong, Australia>",
+    "21" : "s(Inga_Clendinnen) dbp:deathDate o'<2016-09-08>",
+    "22" : "s(Inga_Clendinnen) dbp:mainInterests o'<Mesoamerica>",
+    "23" : "s(Inga_Clendinnen) dbp:mainInterests o'<European contact with indigenous populations>",
+    "24" : "s(Inga_Clendinnen) dbp:name o'<Inga Clendinnen>",
+    "25" : "s(Inga_Clendinnen) dbp:workplaces o'<University of Melbourne>",
+    "26" : "s(Inga_Clendinnen) dbp:workplaces o'<La Trobe University>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11018",
+  "entityUrl" : "http://dbpedia.org/resource/Irving_Taylor_(songwriter)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Irving_Taylor_(songwriter)) dbo:birthDate o'<1914-4-8>",
+    "2" : "s(Irving_Taylor_(songwriter)) dbo:deathDate o'<1983-12-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11019",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Robertson,_Lord_Robertson",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Ian_Robertson,_Lord_Robertson) dbo:birthDate o'<1912-10-30>",
+    "2" : "s(Ian_Robertson,_Lord_Robertson) dbo:deathDate o'<2005-7-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11020",
+  "entityUrl" : "http://dbpedia.org/resource/Itta",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Itta) dbo:wikiPageRedirects o'<Itta_of_Metz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11021",
+  "entityUrl" : "http://dbpedia.org/resource/Ilse-Margret_Vogel",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Ilse-Margret_Vogel) dbo:birthDate o'<1914-6-5>",
+    "2" : "s(Ilse-Margret_Vogel) dbo:birthPlace o'<Szczodre>",
+    "3" : "s(Ilse-Margret_Vogel) dbo:country o'<Germany>",
+    "4" : "s(Ilse-Margret_Vogel) dbo:deathDate o'<2001-10-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11022",
+  "entityUrl" : "http://dbpedia.org/resource/Irene_Gut_Opdyke",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Irene_Gut_Opdyke) dbo:birthDate o'<1922-5-5>",
+    "2" : "s(Irene_Gut_Opdyke) dbo:deathDate o'<2003-5-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

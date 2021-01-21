@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity11644",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Cable,_1st_Baron_Cable",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ernest_Cable,_1st_Baron_Cable) dbo:birthDate o'<1859-12-1>",
+    "2" : "s(Ernest_Cable,_1st_Baron_Cable) dbo:deathDate o'<1927-3-28>",
+    "3" : "s(Ernest_Cable,_1st_Baron_Cable) dbp:title o'<Baron_Cable>",
+    "4" : "s(Ernest_Cable,_1st_Baron_Cable) dbp:years o'<1921>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11645",
+  "entityUrl" : "http://dbpedia.org/resource/Esm%C3%A9_Bianco",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11646",
+  "entityUrl" : "http://dbpedia.org/resource/Elwood_Haynes",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Elwood_Haynes) dbo:almaMater o'<Johns_Hopkins_University>",
+    "2" : "s(Elwood_Haynes) dbo:almaMater o'<Worcester_Polytechnic_Institute>",
+    "3" : "s(Elwood_Haynes) dbo:birthDate o'<1857-10-14>",
+    "4" : "s(Elwood_Haynes) dbo:birthPlace o'<Portland,_Indiana>",
+    "5" : "s(Elwood_Haynes) dbo:birthPlace o'<Indiana>",
+    "6" : "s(Elwood_Haynes) dbo:birthYear o'<1857>",
+    "7" : "s(Elwood_Haynes) dbo:board o'<YMCA>",
+    "8" : "s(Elwood_Haynes) dbo:deathDate o'<1925-04-13>",
+    "9" : "s(Elwood_Haynes) dbo:deathDate o'<1925-4-13>",
+    "10" : "s(Elwood_Haynes) dbo:deathPlace o'<Kokomo,_Indiana>",
+    "11" : "s(Elwood_Haynes) dbo:deathYear o'<1925>",
+    "12" : "s(Elwood_Haynes) dbo:education o'<Chemistry>",
+    "13" : "s(Elwood_Haynes) dbo:education o'<Metallurgy>",
+    "14" : "s(Elwood_Haynes) dbo:education o'<Biology>",
+    "15" : "s(Elwood_Haynes) dbo:hometown o'<Kokomo,_Indiana>",
+    "16" : "s(Elwood_Haynes) dbo:knownFor o'<Stainless_steel>",
+    "17" : "s(Elwood_Haynes) dbo:knownFor o'<Stellite>",
+    "18" : "s(Elwood_Haynes) dbo:networth o'<2850000.0>",
+    "19" : "s(Elwood_Haynes) dbo:occupation o'<Automotive_industry>",
+    "20" : "s(Elwood_Haynes) dbo:occupation o'<Natural_Gas>",
+    "21" : "s(Elwood_Haynes) dbo:occupation o'<Foundry>",
+    "22" : "s(Elwood_Haynes) dbo:occupation o'<Industrialist>",
+    "23" : "s(Elwood_Haynes) dbo:occupation o'<Casting>",
+    "24" : "s(Elwood_Haynes) dbo:occupation o'<Elwood_Haynes__1>",
+    "25" : "s(Elwood_Haynes) dbo:party o'<USRepublican>",
+    "26" : "s(Elwood_Haynes) dbo:party o'<Prohibition_Party>",
+    "27" : "s(Elwood_Haynes) dbo:religion o'<Presbyterian>",
+    "28" : "s(Elwood_Haynes) dbp:children o'<Bernice and March>",
+    "29" : "s(Elwood_Haynes) dbp:institutions o'<Haynes_Automobile_Company>",
+    "30" : "s(Elwood_Haynes) dbp:institutions o'<Haynes-Apperson>",
+    "31" : "s(Elwood_Haynes) dbp:institutions o'<Haynes_Stellite_Company>",
+    "32" : "s(Elwood_Haynes) dbp:institutions o'<*>",
+    "33" : "s(Elwood_Haynes) dbp:parents o'<Jacob and Hilinda Haynes>",
+    "34" : "s(Elwood_Haynes) dbp:signature o'<signature of Elwood Haynes.JPG>",
+    "35" : "s(Elwood_Haynes) dbp:spouse o'<Bertha Beatrice Lanterman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11647",
+  "entityUrl" : "http://dbpedia.org/resource/Erling_Vidkunsson",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Erling_Vidkunsson) dbo:deathDate o'<1355-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11648",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_van_den_Haag",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ernest_van_den_Haag) dbo:birthDate o'<1914-9-15>",
+    "2" : "s(Ernest_van_den_Haag) dbo:birthPlace o'<The_Hague>",
+    "3" : "s(Ernest_van_den_Haag) dbo:deathDate o'<2002-3-21>",
+    "4" : "s(Ernest_van_den_Haag) dbo:deathPlace o'<Mendham_Borough,_New_Jersey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11649",
+  "entityUrl" : "http://dbpedia.org/resource/Edith_Ogden_Harrison",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Edith_Ogden_Harrison) dbo:birthDate o'<1862-11-16>",
+    "2" : "s(Edith_Ogden_Harrison) dbo:birthPlace o'<New_Orleans>",
+    "3" : "s(Edith_Ogden_Harrison) dbo:deathDate o'<1955-5-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

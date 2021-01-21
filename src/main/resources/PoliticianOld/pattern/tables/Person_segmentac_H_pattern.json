@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity11010",
+  "entityUrl" : "http://dbpedia.org/resource/Heinrich_Gustav_Reichenbach",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Heinrich_Gustav_Reichenbach) dbo:birthDate o'<1823-01-03>",
+    "2" : "s(Heinrich_Gustav_Reichenbach) dbo:birthDate o'<1823-1-3>",
+    "3" : "s(Heinrich_Gustav_Reichenbach) dbo:birthPlace o'<Dresden>",
+    "4" : "s(Heinrich_Gustav_Reichenbach) dbo:birthPlace o'<Kingdom_of_Saxony>",
+    "5" : "s(Heinrich_Gustav_Reichenbach) dbo:birthYear o'<1823>",
+    "6" : "s(Heinrich_Gustav_Reichenbach) dbo:deathDate o'<1889-05-06>",
+    "7" : "s(Heinrich_Gustav_Reichenbach) dbo:deathDate o'<1889-5-6>",
+    "8" : "s(Heinrich_Gustav_Reichenbach) dbo:deathPlace o'<German_Empire>",
+    "9" : "s(Heinrich_Gustav_Reichenbach) dbo:deathPlace o'<Hamburg>",
+    "10" : "s(Heinrich_Gustav_Reichenbach) dbo:deathYear o'<1889>",
+    "11" : "s(Heinrich_Gustav_Reichenbach) dbo:occupation o'<Botanist>",
+    "12" : "s(Heinrich_Gustav_Reichenbach) dbo:occupation o'<Heinrich_Gustav_Reichenbach__1>",
+    "13" : "s(Heinrich_Gustav_Reichenbach) dbp:father o'<Ludwig_Reichenbach>",
+    "14" : "s(Heinrich_Gustav_Reichenbach) dbp:imageSize o'<frameless>",
+    "15" : "s(Heinrich_Gustav_Reichenbach) dbp:spouse o'<Kathelijne de Bruyn>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11011",
+  "entityUrl" : "http://dbpedia.org/resource/Helen_Donath",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Helen_Donath) dbo:birthDate o'<1940-07-10>",
+    "2" : "s(Helen_Donath) dbo:birthDate o'<1940-7-10>",
+    "3" : "s(Helen_Donath) dbo:birthName o'<Helen Jeanette Erwin>",
+    "4" : "s(Helen_Donath) dbo:birthPlace o'<Corpus_Christi,_Texas>",
+    "5" : "s(Helen_Donath) dbo:birthPlace o'<Texas>",
+    "6" : "s(Helen_Donath) dbo:birthYear o'<1940>",
+    "7" : "s(Helen_Donath) dbo:occupation o'<Helen_Donath__1>",
+    "8" : "s(Helen_Donath) dbp:colwidth o'<25>",
+    "9" : "s(Helen_Donath) dbp:rules o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11012",
+  "entityUrl" : "http://dbpedia.org/resource/Herman_Chernoff",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Herman_Chernoff) dbo:birthDate o'<1923-7-1>",
+    "2" : "s(Herman_Chernoff) dbo:birthPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11013",
+  "entityUrl" : "http://dbpedia.org/resource/Heinrich_L%C3%BCbbe",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11014",
+  "entityUrl" : "http://dbpedia.org/resource/Hank_Magnuski",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Hank_Magnuski) dbo:almaMater o'<Massachusetts_Institute_of_Technology>",
+    "2" : "s(Hank_Magnuski) dbo:almaMater o'<University_of_Illinois_at_Urbana-Champaign>",
+    "3" : "s(Hank_Magnuski) dbo:birthDate o'<1944-8-4>",
+    "4" : "s(Hank_Magnuski) dbo:birthName o'<Henry Stanley Magnuski>",
+    "5" : "s(Hank_Magnuski) dbo:birthPlace o'<Chicago>",
+    "6" : "s(Hank_Magnuski) dbo:parent o'<Henryk_Magnuski>",
+    "7" : "s(Hank_Magnuski) dbp:birthPlace o'<Chicago, Illinois, USA>",
+    "8" : "s(Hank_Magnuski) dbp:nationality o'<USA>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11015",
+  "entityUrl" : "http://dbpedia.org/resource/Hiroshi_Abe_(actor)",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Hiroshi_Abe_(actor)) dbo:activeYearsStartYear o'<1983>",
+    "2" : "s(Hiroshi_Abe_(actor)) dbo:birthDate o'<1964-06-22>",
+    "3" : "s(Hiroshi_Abe_(actor)) dbo:birthDate o'<1964-6-22>",
+    "4" : "s(Hiroshi_Abe_(actor)) dbo:birthPlace o'<Japan>",
+    "5" : "s(Hiroshi_Abe_(actor)) dbo:birthPlace o'<Kanagawa_Prefecture>",
+    "6" : "s(Hiroshi_Abe_(actor)) dbo:birthPlace o'<Yokohama>",
+    "7" : "s(Hiroshi_Abe_(actor)) dbo:birthYear o'<1964>",
+    "8" : "s(Hiroshi_Abe_(actor)) dbo:height o'<189.0>",
+    "9" : "s(Hiroshi_Abe_(actor)) dbo:height o'<1.89>",
+    "10" : "s(Hiroshi_Abe_(actor)) dbo:nationality o'<Japan>",
+    "11" : "s(Hiroshi_Abe_(actor)) dbo:occupation o'<Model_(profession)>",
+    "12" : "s(Hiroshi_Abe_(actor)) dbo:occupation o'<Actor>",
+    "13" : "s(Hiroshi_Abe_(actor)) dbo:occupation o'<Hiroshi_Abe_(actor)__1>",
+    "14" : "s(Hiroshi_Abe_(actor)) dbo:stateOfOrigin o'<Japan>",
+    "15" : "s(Hiroshi_Abe_(actor)) dbp:children o'<2>",
+    "16" : "s(Hiroshi_Abe_(actor)) dbp:nativeName o'<é˜¿éƒ¨ å¯›>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

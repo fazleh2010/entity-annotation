@@ -1,0 +1,143 @@
+[ {
+  "entityIndex" : "entity10761",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrich_Leman",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Ulrich_Leman) dbo:birthDate o'<1885-10-15>",
+    "2" : "s(Ulrich_Leman) dbo:birthPlace o'<DÃ¼sseldorf>",
+    "3" : "s(Ulrich_Leman) dbo:deathDate o'<1988-4-22>",
+    "4" : "s(Ulrich_Leman) dbo:deathPlace o'<DeiÃ >"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10762",
+  "entityUrl" : "http://dbpedia.org/resource/Ulugh_Beg",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Ulugh_Beg) dbo:birthDate o'<1394-03-22>",
+    "2" : "s(Ulugh_Beg) dbo:birthDate o'<1394-0-0>",
+    "3" : "s(Ulugh_Beg) dbo:birthPlace o'<Iran>",
+    "4" : "s(Ulugh_Beg) dbo:birthPlace o'<Timurid_Empire>",
+    "5" : "s(Ulugh_Beg) dbo:birthPlace o'<Zanjan_Province>",
+    "6" : "s(Ulugh_Beg) dbo:birthPlace o'<Soltaniyeh>",
+    "7" : "s(Ulugh_Beg) dbo:birthPlace o'<Sultaniyeh>",
+    "8" : "s(Ulugh_Beg) dbo:birthPlace o'<Persia>",
+    "9" : "s(Ulugh_Beg) dbo:birthYear o'<1394>",
+    "10" : "s(Ulugh_Beg) dbo:deathDate o'<1449-10-27>",
+    "11" : "s(Ulugh_Beg) dbo:deathPlace o'<Timurid_Empire>",
+    "12" : "s(Ulugh_Beg) dbo:deathPlace o'<Samarkand>",
+    "13" : "s(Ulugh_Beg) dbo:deathPlace o'<Uzbekistan>",
+    "14" : "s(Ulugh_Beg) dbo:deathPlace o'<Samarqand_Region>",
+    "15" : "s(Ulugh_Beg) dbo:deathYear o'<1449>",
+    "16" : "s(Ulugh_Beg) dbo:ethnicity o'<Turkic_peoples>",
+    "17" : "s(Ulugh_Beg) dbo:knownFor o'<Spherical_geometry>",
+    "18" : "s(Ulugh_Beg) dbo:knownFor o'<Trigonometry>",
+    "19" : "s(Ulugh_Beg) dbo:occupation o'<Astronomer>",
+    "20" : "s(Ulugh_Beg) dbo:occupation o'<Mathematician>",
+    "21" : "s(Ulugh_Beg) dbo:occupation o'<Ulugh_Beg__1>",
+    "22" : "s(Ulugh_Beg) dbo:occupation o'<Sultan>",
+    "23" : "s(Ulugh_Beg) dbo:personFunction o'<Ulugh_Beg__1>",
+    "24" : "s(Ulugh_Beg) dbo:relative o'<Timur>",
+    "25" : "s(Ulugh_Beg) dbo:relative o'<Shah_Rukh_(Timurid_dynasty)>",
+    "26" : "s(Ulugh_Beg) dbo:title o'<Mirza (royal rank)>",
+    "27" : "s(Ulugh_Beg) dbp:id o'<Ulugh_Beg>",
+    "28" : "s(Ulugh_Beg) dbp:spouse o'<Aka Biki Begum>",
+    "29" : "s(Ulugh_Beg) dbp:spouse o'<Aqi Sultan Khanika>",
+    "30" : "s(Ulugh_Beg) dbp:spouse o'<Bakhti Agha>",
+    "31" : "s(Ulugh_Beg) dbp:spouse o'<Daulat Bakht Agha>",
+    "32" : "s(Ulugh_Beg) dbp:spouse o'<Daulat Bakht Sa'adat Agha>",
+    "33" : "s(Ulugh_Beg) dbp:spouse o'<Daulat Sultan Agha>",
+    "34" : "s(Ulugh_Beg) dbp:spouse o'<Husn Nigar Khanika>",
+    "35" : "s(Ulugh_Beg) dbp:spouse o'<Mihr Sultan Agha>",
+    "36" : "s(Ulugh_Beg) dbp:spouse o'<Rukaiya Sultan Khatun>",
+    "37" : "s(Ulugh_Beg) dbp:spouse o'<Shukur Bi Khanika>",
+    "38" : "s(Ulugh_Beg) dbp:spouse o'<Sultan Badi al-mulk Begum>",
+    "39" : "s(Ulugh_Beg) dbp:title o'<Timurid_Empire>",
+    "40" : "s(Ulugh_Beg) dbp:title o'<Ulugh Beg>",
+    "41" : "s(Ulugh_Beg) dbp:years o'<1447>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(ulugh beg=Ulugh_Beg) [   march 22 ] o'<sultaniyeh=Sultaniyeh>",
+    "4" : "s(ulugh beg=Ulugh_Beg) [notable for his ] o'<mathematics=Mathematician>",
+    "5" : "s(ulugh beg=Ulugh_Beg) [built great ] o'<ulugh beg=Ulugh_Beg>",
+    "7" : "s(ulugh beg=Ulugh_Beg) [built ] o'<ulugh beg=Ulugh_Beg>",
+    "10" : "s(ulugh beg=Ulugh_Beg) [ruled ] o'<uzbekistan=Uzbekistan>"
+  },
+  "abstract" : {
+    "1" : "mä«rzä� muhammad tä�raghay bin shä�hrukh (chagatai: ù…ûœø±ø²ø§ ù…ø­ù…ø¯ ø·ø§ø±ù‚ ø¨ù† ø´ø§û� ø±ø®, mathematician<Mathematician>0n: ù…ûœø±ø²ø§ ù…ø­ù…ø¯ øªø±ø§øºø§ûœ ø¨ù† ø´ø§û� ø±ø®â€žâ€ž) better known as ulugh beg<Ulugh_Beg> (ø§ù„øºâ€œ ø¨ûœú¯) ( march 22, 1394 in sultaniyeh<Sultaniyeh>, mathematician<Mathematician>0 â€“ october 27, 1449, samarkand) was a timurid ruler as well as an astronomer<Astronomer>, mathematician<Mathematician> and mathematician<Mathematician>2",
+    "4" : "ulugh beg<Ulugh_Beg> was also notable for his work in astronomy-related mathematics<Mathematician>, such as trigonometry<Trigonometry> and spherical geometry<Spherical_geometry>",
+    "5" : "ulugh beg<Ulugh_Beg> built the great ulugh beg<Ulugh_Beg> observatory in samarkand<Samarkand> between 1424 and 1429\n",
+    "7" : "ulugh beg<Ulugh_Beg> built the ulugh beg<Ulugh_Beg> madrasah (1417â€“1420) in samarkand<Samarkand> and bukhara, transforming the cities into cultural centers of learning in central asia\n",
+    "10" : "ulugh beg<Ulugh_Beg> ruled uzbekistan<Uzbekistan>, tajikistan, turkmenistan, kyrgyzstan, southern kazakhstan and most of afghanistan for almost half a century from 1411 to 1449\n"
+  }
+}, {
+  "entityIndex" : "entity10763",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrike_Meinhof",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Ulrike_Meinhof) dbo:birthDate o'<1934-10-07>",
+    "2" : "s(Ulrike_Meinhof) dbo:birthDate o'<1934-10-7>",
+    "3" : "s(Ulrike_Meinhof) dbo:birthPlace o'<Oldenburg_(Oldenburg)>",
+    "4" : "s(Ulrike_Meinhof) dbo:birthPlace o'<Oldenburg>",
+    "5" : "s(Ulrike_Meinhof) dbo:birthYear o'<1934>",
+    "6" : "s(Ulrike_Meinhof) dbo:deathDate o'<1976-05-09>",
+    "7" : "s(Ulrike_Meinhof) dbo:deathDate o'<1976-5-9>",
+    "8" : "s(Ulrike_Meinhof) dbo:deathPlace o'<Stuttgart>",
+    "9" : "s(Ulrike_Meinhof) dbo:deathYear o'<1976>",
+    "10" : "s(Ulrike_Meinhof) dbp:organization o'<Red_Army_Faction>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ulrike meinhof=Ulrike_Meinhof) [cofounded ] o'<red army faction=Red_Army_Faction>"
+  },
+  "abstract" : {
+    "2" : "ulrike meinhof<Ulrike_Meinhof> co-founded the red army faction<Red_Army_Faction> (rote armee fraktion) in 1970 after having previously worked as a journalist for the monthly left-wing magazine konkret\n"
+  }
+}, {
+  "entityIndex" : "entity10764",
+  "entityUrl" : "http://dbpedia.org/resource/Ub_Iwerks",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Ub_Iwerks) dbo:activeYearsEndYear o'<1965>",
+    "2" : "s(Ub_Iwerks) dbo:activeYearsStartYear o'<1920>",
+    "3" : "s(Ub_Iwerks) dbo:birthDate o'<1901-03-24>",
+    "4" : "s(Ub_Iwerks) dbo:birthDate o'<1901-3-24>",
+    "5" : "s(Ub_Iwerks) dbo:birthName o'<Ubbe Eert Iwerks>",
+    "6" : "s(Ub_Iwerks) dbo:birthPlace o'<Kansas_City,_Missouri>",
+    "7" : "s(Ub_Iwerks) dbo:birthYear o'<1901>",
+    "8" : "s(Ub_Iwerks) dbo:child o'<Don_Iwerks>",
+    "9" : "s(Ub_Iwerks) dbo:deathCause o'<Heart_attack>",
+    "10" : "s(Ub_Iwerks) dbo:deathDate o'<1971-07-07>",
+    "11" : "s(Ub_Iwerks) dbo:deathDate o'<1971-7-7>",
+    "12" : "s(Ub_Iwerks) dbo:deathPlace o'<Burbank,_California>",
+    "13" : "s(Ub_Iwerks) dbo:deathYear o'<1971>",
+    "14" : "s(Ub_Iwerks) dbo:imdbId o'<0412650>",
+    "15" : "s(Ub_Iwerks) dbo:occupation o'<Animator>",
+    "16" : "s(Ub_Iwerks) dbo:occupation o'<Cartoonist>",
+    "17" : "s(Ub_Iwerks) dbo:occupation o'<Ub_Iwerks__1>",
+    "18" : "s(Ub_Iwerks) dbo:relative o'<Leslie_Iwerks>",
+    "19" : "s(Ub_Iwerks) dbo:restingPlace o'<Forest_Lawn_-_Hollywood_Hills_Cemetery>",
+    "20" : "s(Ub_Iwerks) dbp:name o'<Ub Iwerks>",
+    "21" : "s(Ub_Iwerks) dbp:spouse o'<Mildred Sarah Henderson>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "14" : "s(ub iwerks=Ub_Iwerks) [father of disney ] o'<don iwerks=Don_Iwerks>"
+  },
+  "abstract" : {
+    "14" : "ub iwerks<Ub_Iwerks> is the father of disney legend don iwerks<Don_Iwerks> and grandfather to documentary film producer leslie iwerks<Leslie_Iwerks>\n"
+  }
+}, {
+  "entityIndex" : "entity10765",
+  "entityUrl" : "http://dbpedia.org/resource/Uriel_da_Costa",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10766",
+  "entityUrl" : "http://dbpedia.org/resource/Uma_Thurman",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

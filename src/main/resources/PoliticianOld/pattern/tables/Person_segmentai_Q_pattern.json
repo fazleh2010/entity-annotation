@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity11229",
+  "entityUrl" : "http://dbpedia.org/resource/Queenie_Watts",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Queenie_Watts) dbo:birthDate o'<1923-07-21>",
+    "2" : "s(Queenie_Watts) dbo:birthDate o'<1926-7-21>",
+    "3" : "s(Queenie_Watts) dbo:birthName o'<Mary Spenton>",
+    "4" : "s(Queenie_Watts) dbo:birthPlace o'<England>",
+    "5" : "s(Queenie_Watts) dbo:birthPlace o'<London>",
+    "6" : "s(Queenie_Watts) dbo:birthYear o'<1923>",
+    "7" : "s(Queenie_Watts) dbo:deathDate o'<1980-01-25>",
+    "8" : "s(Queenie_Watts) dbo:deathDate o'<1980-1-25>",
+    "9" : "s(Queenie_Watts) dbo:deathPlace o'<England>",
+    "10" : "s(Queenie_Watts) dbo:deathPlace o'<London>",
+    "11" : "s(Queenie_Watts) dbo:deathYear o'<1980>",
+    "12" : "s(Queenie_Watts) dbo:imdbId o'<0915218>",
+    "13" : "s(Queenie_Watts) dbo:occupation o'<Queenie_Watts__1>",
+    "14" : "s(Queenie_Watts) dbp:imagesize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11230",
+  "entityUrl" : "http://dbpedia.org/resource/Qazi_Imdadul_Haq",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Qazi_Imdadul_Haq) dbo:award o'<Khan_Sahib>",
+    "2" : "s(Qazi_Imdadul_Haq) dbo:award o'<Khan_Bahadur_(title)>",
+    "3" : "s(Qazi_Imdadul_Haq) dbo:birthDate o'<1882-1-1>",
+    "4" : "s(Qazi_Imdadul_Haq) dbo:birthPlace o'<Bengal_Presidency>",
+    "5" : "s(Qazi_Imdadul_Haq) dbo:birthPlace o'<Khulna_District>",
+    "6" : "s(Qazi_Imdadul_Haq) dbo:birthPlace o'<British_India>",
+    "7" : "s(Qazi_Imdadul_Haq) dbo:deathDate o'<1926-1-1>",
+    "8" : "s(Qazi_Imdadul_Haq) dbo:deathPlace o'<British_India>",
+    "9" : "s(Qazi_Imdadul_Haq) dbo:deathPlace o'<Calcutta>",
+    "10" : "s(Qazi_Imdadul_Haq) dbo:education o'<Presidency_University,_Kolkata>",
+    "11" : "s(Qazi_Imdadul_Haq) dbo:ethnicity o'<Bengali_people>",
+    "12" : "s(Qazi_Imdadul_Haq) dbo:language o'<Bengali_language>",
+    "13" : "s(Qazi_Imdadul_Haq) dbp:birthDate o'<1882>",
+    "14" : "s(Qazi_Imdadul_Haq) dbp:children o'<Qazi Anwarul Haq>",
+    "15" : "s(Qazi_Imdadul_Haq) dbp:citizenship o'<British Indian>",
+    "16" : "s(Qazi_Imdadul_Haq) dbp:notableworks o'<Abdullah>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11231",
+  "entityUrl" : "http://dbpedia.org/resource/Qu_Yi",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Qu_Yi) dbp:t o'<éº´ç¾©>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11232",
+  "entityUrl" : "http://dbpedia.org/resource/Qian_Hong_(Three_Kingdoms)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Qian_Hong_(Three_Kingdoms)) dbo:deathDate o'<271-1-1>",
+    "2" : "s(Qian_Hong_(Three_Kingdoms)) dbp:t o'<ç‰½å¼˜>",
+    "3" : "s(Qian_Hong_(Three_Kingdoms)) dbp:title o'<Qian Hong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11233",
+  "entityUrl" : "http://dbpedia.org/resource/Qadoura_Mousa",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Qadoura_Mousa) dbo:deathDate o'<2012-0-0>",
+    "2" : "s(Qadoura_Mousa) dbp:bot o'<InternetArchiveBot>",
+    "3" : "s(Qadoura_Mousa) dbp:date o'<July 2016>",
+    "4" : "s(Qadoura_Mousa) dbp:fixAttempted o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11234",
+  "entityUrl" : "http://dbpedia.org/resource/Quintus_Servilius_Caepio_the_Younger",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Quintus_Servilius_Caepio_the_Younger) dbo:birthDate o'<-200-1-1>",
+    "2" : "s(Quintus_Servilius_Caepio_the_Younger) dbo:deathDate o'<-90-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

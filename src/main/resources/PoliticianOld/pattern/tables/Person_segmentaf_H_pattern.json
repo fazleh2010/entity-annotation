@@ -1,0 +1,102 @@
+[ {
+  "entityIndex" : "entity10683",
+  "entityUrl" : "http://dbpedia.org/resource/Henri_Pousseur",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Henri_Pousseur) dbo:birthDate o'<1929-6-23>",
+    "2" : "s(Henri_Pousseur) dbo:birthPlace o'<Malmedy>",
+    "3" : "s(Henri_Pousseur) dbo:deathDate o'<2009-3-6>",
+    "4" : "s(Henri_Pousseur) dbo:deathPlace o'<Q9005>",
+    "5" : "s(Henri_Pousseur) dbp:author o'<Pousseur>",
+    "6" : "s(Henri_Pousseur) dbp:reference o'<--11-15>",
+    "7" : "s(Henri_Pousseur) dbp:reference o'<Sabbe, Herman. 1977. Het muzikale serialisme als techniek en als denkmethode: Een onderzoek naar de logische en historische samenhang van de onderscheiden toepassingen van het seriÃ«rend beginsel in de muziek van de periode 1950â€“1975. Ghent: Rijksuniversiteit te Gent.>",
+    "8" : "s(Henri_Pousseur) dbp:reference o'<Whiting, John. 2009. \"Henri Pousseur: Avant-garde Composer Seeking a Synthesis of Sound and Image\". The Guardian .>",
+    "9" : "s(Henri_Pousseur) dbp:reference o'<Pousseur, Henri. 2004b. SÃ©rie et harmonie gÃ©nÃ©ralisÃ©es: une thÃ©orie de la composition musicale: Ecrits, 1968â€“1998, edited by Pascal Decroupet. Collection Musique, musicologie. Wavre: Editions Mardaga, 2004. ISBN 978-2-8047- 0013-3.>",
+    "10" : "s(Henri_Pousseur) dbp:reference o'<Vantroyen, Jean-Claude. 2009. \"Le compositeur belge Henri Pousseur est dÃ©cÃ©dÃ©\". Le Soir .>",
+    "11" : "s(Henri_Pousseur) dbp:reference o'<Machart, Renaud. 2009. \"Henri Pousseur, compositeur\". Le Monde .>",
+    "12" : "s(Henri_Pousseur) dbp:reference o'<Decroupet, Pascal. 2009. \"Pousseur, Henri \". Grove Music Online .>",
+    "13" : "s(Henri_Pousseur) dbp:reference o'<Pousseur, Henri. 2004a. Ecrits thÃ©oriques, 1954â€“1967, edited by Pascal Decroupet, 147â€“59. Collection musique, musicologie. Sprimont: Editions Pierre Mardaga. ISBN 978-2-87009-865-3.>",
+    "14" : "s(Henri_Pousseur) dbp:year o'<2004>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10684",
+  "entityUrl" : "http://dbpedia.org/resource/Heinrich_Kley",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Heinrich_Kley) dbo:birthDate o'<1863-4-15>",
+    "2" : "s(Heinrich_Kley) dbo:birthPlace o'<Karlsruhe>",
+    "3" : "s(Heinrich_Kley) dbo:deathDate o'<1945-2-8>",
+    "4" : "s(Heinrich_Kley) dbo:deathPlace o'<Munich>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10685",
+  "entityUrl" : "http://dbpedia.org/resource/H%C3%A9ctor_Aguer",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10686",
+  "entityUrl" : "http://dbpedia.org/resource/Heinrich_Laufenberg",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Heinrich_Laufenberg) dbo:birthDate o'<1872-02-19>",
+    "2" : "s(Heinrich_Laufenberg) dbo:birthDate o'<1872-1-19>",
+    "3" : "s(Heinrich_Laufenberg) dbo:birthName o'<Heinrich Laufenberg>",
+    "4" : "s(Heinrich_Laufenberg) dbo:birthPlace o'<Cologne>",
+    "5" : "s(Heinrich_Laufenberg) dbo:birthPlace o'<Kingdom_of_Prussia>",
+    "6" : "s(Heinrich_Laufenberg) dbo:birthYear o'<1872>",
+    "7" : "s(Heinrich_Laufenberg) dbo:citizenship o'<Germany>",
+    "8" : "s(Heinrich_Laufenberg) dbo:deathDate o'<1932-02-03>",
+    "9" : "s(Heinrich_Laufenberg) dbo:deathDate o'<1932-2-3>",
+    "10" : "s(Heinrich_Laufenberg) dbo:deathPlace o'<Hamburg>",
+    "11" : "s(Heinrich_Laufenberg) dbo:deathPlace o'<Weimar_Republic>",
+    "12" : "s(Heinrich_Laufenberg) dbo:deathYear o'<1932>",
+    "13" : "s(Heinrich_Laufenberg) dbo:nationality o'<Prussia>",
+    "14" : "s(Heinrich_Laufenberg) dbo:occupation o'<Heinrich_Laufenberg__1>",
+    "15" : "s(Heinrich_Laufenberg) dbo:party o'<Communist_Party_of_Germany>",
+    "16" : "s(Heinrich_Laufenberg) dbo:party o'<Centre_Party_(Germany)>",
+    "17" : "s(Heinrich_Laufenberg) dbo:party o'<Independent_Social_Democratic_Party_of_Germany>",
+    "18" : "s(Heinrich_Laufenberg) dbo:party o'<Social_Democratic_Party_of_Germany>",
+    "19" : "s(Heinrich_Laufenberg) dbo:party o'<Communist_Workers_Party_of_Germany>",
+    "20" : "s(Heinrich_Laufenberg) dbo:stateOfOrigin o'<Prussia>",
+    "21" : "s(Heinrich_Laufenberg) dbp:knownFor o'<Politician>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10687",
+  "entityUrl" : "http://dbpedia.org/resource/Hugh_Felkin",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Hugh_Felkin) dbo:birthDate o'<1922-1-18>",
+    "2" : "s(Hugh_Felkin) dbo:deathDate o'<2001-11-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10688",
+  "entityUrl" : "http://dbpedia.org/resource/Hilly_Hicks",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Hilly_Hicks) dbo:activeYearsEndYear o'<1969>",
+    "2" : "s(Hilly_Hicks) dbo:activeYearsStartYear o'<1969>",
+    "3" : "s(Hilly_Hicks) dbo:birthDate o'<1950-05-04>",
+    "4" : "s(Hilly_Hicks) dbo:birthDate o'<1950-5-4>",
+    "5" : "s(Hilly_Hicks) dbo:birthName o'<Hilly Gene Hicks>",
+    "6" : "s(Hilly_Hicks) dbo:birthPlace o'<Los_Angeles>",
+    "7" : "s(Hilly_Hicks) dbo:birthPlace o'<Los_Angeles,_California>",
+    "8" : "s(Hilly_Hicks) dbo:birthYear o'<1950>",
+    "9" : "s(Hilly_Hicks) dbo:imdbId o'<382859>",
+    "10" : "s(Hilly_Hicks) dbo:occupation o'<Hilly_Hicks__1>",
+    "11" : "s(Hilly_Hicks) dbo:occupation o'<Actor>",
+    "12" : "s(Hilly_Hicks) dbp:imagesize o'<220>",
+    "13" : "s(Hilly_Hicks) dbp:name o'<Hilly Hicks>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

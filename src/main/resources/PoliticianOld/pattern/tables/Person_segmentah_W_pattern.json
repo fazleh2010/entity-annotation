@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity11101",
+  "entityUrl" : "http://dbpedia.org/resource/Witold_Rowicki",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Witold_Rowicki) dbo:birthDate o'<1914-2-26>",
+    "2" : "s(Witold_Rowicki) dbo:birthPlace o'<Taganrog>",
+    "3" : "s(Witold_Rowicki) dbo:deathDate o'<1989-10-1>",
+    "4" : "s(Witold_Rowicki) dbo:deathPlace o'<Warsaw>",
+    "5" : "s(Witold_Rowicki) dbp:after o'<Bohdan_Wodiczko>",
+    "6" : "s(Witold_Rowicki) dbp:after o'<Horst_Stein>",
+    "7" : "s(Witold_Rowicki) dbp:after o'<Kazimierz_Kord>",
+    "8" : "s(Witold_Rowicki) dbp:before o'<James_Loughran>",
+    "9" : "s(Witold_Rowicki) dbp:before o'<Bohdan_Wodiczko>",
+    "10" : "s(Witold_Rowicki) dbp:before o'<WÅ‚adysÅ‚aw_Raczkowski>",
+    "11" : "s(Witold_Rowicki) dbp:title o'<Warsaw_Philharmonic_Orchestra>",
+    "12" : "s(Witold_Rowicki) dbp:title o'<Bamberg_Symphony_Orchestra>",
+    "13" : "s(Witold_Rowicki) dbp:years o'<1950>",
+    "14" : "s(Witold_Rowicki) dbp:years o'<1958>",
+    "15" : "s(Witold_Rowicki) dbp:years o'<1983>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11102",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Kaufmann_(composer)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Walter_Kaufmann_(composer)) dbo:birthDate o'<1907-4-1>",
+    "2" : "s(Walter_Kaufmann_(composer)) dbo:birthPlace o'<Karlovy_Vary>",
+    "3" : "s(Walter_Kaufmann_(composer)) dbo:country o'<United_States>",
+    "4" : "s(Walter_Kaufmann_(composer)) dbo:deathDate o'<1984-9-9>",
+    "5" : "s(Walter_Kaufmann_(composer)) dbo:deathPlace o'<Bloomington,_Indiana>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11103",
+  "entityUrl" : "http://dbpedia.org/resource/W%C5%82adys%C5%82aw_Malecki",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11104",
+  "entityUrl" : "http://dbpedia.org/resource/William_Henry_Harvey",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(William_Henry_Harvey) dbo:alias o'<W.H Harvey>",
+    "2" : "s(William_Henry_Harvey) dbo:birthDate o'<1811-02-05>",
+    "3" : "s(William_Henry_Harvey) dbo:birthDate o'<1811-2-5>",
+    "4" : "s(William_Henry_Harvey) dbo:birthPlace o'<Limerick>",
+    "5" : "s(William_Henry_Harvey) dbo:birthPlace o'<Ireland>",
+    "6" : "s(William_Henry_Harvey) dbo:birthPlace o'<County_Limerick>",
+    "7" : "s(William_Henry_Harvey) dbo:birthYear o'<1811>",
+    "8" : "s(William_Henry_Harvey) dbo:deathCause o'<Tuberculosis>",
+    "9" : "s(William_Henry_Harvey) dbo:deathDate o'<1866-5-15>",
+    "10" : "s(William_Henry_Harvey) dbo:deathPlace o'<Devon>",
+    "11" : "s(William_Henry_Harvey) dbo:deathPlace o'<England>",
+    "12" : "s(William_Henry_Harvey) dbo:deathPlace o'<Torquay>",
+    "13" : "s(William_Henry_Harvey) dbo:deathYear o'<1866>",
+    "14" : "s(William_Henry_Harvey) dbo:occupation o'<William_Henry_Harvey__1>",
+    "15" : "s(William_Henry_Harvey) dbo:occupation o'<Botanist>",
+    "16" : "s(William_Henry_Harvey) dbp:education o'<Baltimore School>",
+    "17" : "s(William_Henry_Harvey) dbp:knownFor o'<A Manuel of the British Algae>",
+    "18" : "s(William_Henry_Harvey) dbp:nationality o'<Irish>",
+    "19" : "s(William_Henry_Harvey) dbp:parents o'<Joseph Massey Harvey , Rebecca Mark>",
+    "20" : "s(William_Henry_Harvey) dbp:spouse o'<Miss Phelps>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11105",
+  "entityUrl" : "http://dbpedia.org/resource/William_Weir_(author)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(William_Weir_(author)) dbo:birthDate o'<1928-9-15>",
+    "2" : "s(William_Weir_(author)) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11106",
+  "entityUrl" : "http://dbpedia.org/resource/William_R._Miller_(psychologist)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(William_R._Miller_(psychologist)) dbo:birthDate o'<1947-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

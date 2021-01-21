@@ -1,0 +1,86 @@
+[ {
+  "entityIndex" : "entity11219",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Colasanto",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Nicholas_Colasanto) dbo:birthDate o'<1924-01-19>",
+    "2" : "s(Nicholas_Colasanto) dbo:birthDate o'<1924-1-19>",
+    "3" : "s(Nicholas_Colasanto) dbo:birthPlace o'<Providence,_Rhode_Island>",
+    "4" : "s(Nicholas_Colasanto) dbo:birthYear o'<1924>",
+    "5" : "s(Nicholas_Colasanto) dbo:deathCause o'<Heart_attack>",
+    "6" : "s(Nicholas_Colasanto) dbo:deathDate o'<1985-02-12>",
+    "7" : "s(Nicholas_Colasanto) dbo:deathDate o'<1985-2-12>",
+    "8" : "s(Nicholas_Colasanto) dbo:deathPlace o'<Studio_City,_California>",
+    "9" : "s(Nicholas_Colasanto) dbo:deathPlace o'<Studio_City,_Los_Angeles>",
+    "10" : "s(Nicholas_Colasanto) dbo:deathYear o'<1985>",
+    "11" : "s(Nicholas_Colasanto) dbo:imdbId o'<0170225>",
+    "12" : "s(Nicholas_Colasanto) dbo:occupation o'<Nicholas_Colasanto__1>",
+    "13" : "s(Nicholas_Colasanto) dbp:name o'<Nicholas Colasanto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11220",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Lawson",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Nicolas_Lawson) dbo:birthDate o'<1953-3-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11221",
+  "entityUrl" : "http://dbpedia.org/resource/Nikolay_Danilevsky",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Nikolay_Danilevsky) dbo:birthDate o'<1822-11-28>",
+    "2" : "s(Nikolay_Danilevsky) dbo:birthPlace o'<Saint_Petersburg>",
+    "3" : "s(Nikolay_Danilevsky) dbo:deathDate o'<1885-11-19>",
+    "4" : "s(Nikolay_Danilevsky) dbo:deathPlace o'<Tbilisi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11222",
+  "entityUrl" : "http://dbpedia.org/resource/Nguy%E1%BB%85n_Th%E1%BB%8B_B%C3%ACnh",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11223",
+  "entityUrl" : "http://dbpedia.org/resource/Nicole_Parker",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Nicole_Parker) dbo:activeYearsStartYear o'<2003>",
+    "2" : "s(Nicole_Parker) dbo:birthDate o'<1978-02-21>",
+    "3" : "s(Nicole_Parker) dbo:birthDate o'<1978-2-21>",
+    "4" : "s(Nicole_Parker) dbo:birthName o'<Nicole Frances Parker>",
+    "5" : "s(Nicole_Parker) dbo:birthPlace o'<California>",
+    "6" : "s(Nicole_Parker) dbo:birthPlace o'<Irvine,_California>",
+    "7" : "s(Nicole_Parker) dbo:birthYear o'<1978>",
+    "8" : "s(Nicole_Parker) dbo:occupation o'<Actress>",
+    "9" : "s(Nicole_Parker) dbo:occupation o'<Nicole_Parker__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11224",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Steen",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Nancy_Steen) dbo:activeYearsStartYear o'<1972>",
+    "2" : "s(Nancy_Steen) dbo:birthDate o'<1950-01-31>",
+    "3" : "s(Nancy_Steen) dbo:birthDate o'<1950-1-31>",
+    "4" : "s(Nancy_Steen) dbo:birthName o'<Nancy Jane Steen>",
+    "5" : "s(Nancy_Steen) dbo:birthPlace o'<United_States>",
+    "6" : "s(Nancy_Steen) dbo:birthPlace o'<Minnesota>",
+    "7" : "s(Nancy_Steen) dbo:birthPlace o'<Shoreview,_Minnesota>",
+    "8" : "s(Nancy_Steen) dbo:birthYear o'<1950>",
+    "9" : "s(Nancy_Steen) dbo:education o'<University_of_Minnesota>",
+    "10" : "s(Nancy_Steen) dbo:occupation o'<Actress>",
+    "11" : "s(Nancy_Steen) dbo:occupation o'<Nancy_Steen__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

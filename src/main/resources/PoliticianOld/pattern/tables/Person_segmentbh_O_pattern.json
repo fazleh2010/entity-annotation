@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity11381",
+  "entityUrl" : "http://dbpedia.org/resource/Otton_Steinborn",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Otton_Steinborn) dbo:birthDate o'<1868-5-26>",
+    "2" : "s(Otton_Steinborn) dbo:deathDate o'<1936-7-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11382",
+  "entityUrl" : "http://dbpedia.org/resource/Olav_Roots",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Olav_Roots) dbo:birthDate o'<1910-10-28>",
+    "2" : "s(Olav_Roots) dbo:deathDate o'<1974-1-30>",
+    "3" : "s(Olav_Roots) dbo:deathPlace o'<BogotÃ¡>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11383",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Griebel",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Otto_Griebel) dbo:birthDate o'<1895-3-31>",
+    "2" : "s(Otto_Griebel) dbo:birthPlace o'<Meerane>",
+    "3" : "s(Otto_Griebel) dbo:deathDate o'<1972-3-7>",
+    "4" : "s(Otto_Griebel) dbo:deathPlace o'<Dresden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11384",
+  "entityUrl" : "http://dbpedia.org/resource/Ole_Jonny_Eikefjord",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Ole_Jonny_Eikefjord) dbo:birthDate o'<1970-1-1>",
+    "2" : "s(Ole_Jonny_Eikefjord) dbo:birthPlace o'<FÃ¸rde>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11385",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_G%C3%BCnther",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11386",
+  "entityUrl" : "http://dbpedia.org/resource/OUBEY",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(OUBEY) dbo:birthDate o'<1958-1-1>",
+    "2" : "s(OUBEY) dbo:deathDate o'<2004-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,140 @@
+[ {
+  "entityIndex" : "entity11329",
+  "entityUrl" : "http://dbpedia.org/resource/Elliot_Woolfolk_Major",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Elliot_Woolfolk_Major) dbo:birthDate o'<1864-10-20>",
+    "2" : "s(Elliot_Woolfolk_Major) dbo:birthPlace o'<Lincoln_County,_Missouri>",
+    "3" : "s(Elliot_Woolfolk_Major) dbo:deathDate o'<1949-07-09>",
+    "4" : "s(Elliot_Woolfolk_Major) dbo:deathDate o'<1949-7-9>",
+    "5" : "s(Elliot_Woolfolk_Major) dbo:deathPlace o'<Eureka,_Missouri>",
+    "6" : "s(Elliot_Woolfolk_Major) dbo:lieutenant o'<William_Rock_Painter>",
+    "7" : "s(Elliot_Woolfolk_Major) dbo:office o'<Attorney General of Missouri>",
+    "8" : "s(Elliot_Woolfolk_Major) dbo:office o'<Governor of Missouri>",
+    "9" : "s(Elliot_Woolfolk_Major) dbo:orderInOffice o'<33rd>",
+    "10" : "s(Elliot_Woolfolk_Major) dbo:predecessor o'<Herbert_S._Hadley>",
+    "11" : "s(Elliot_Woolfolk_Major) dbo:successor o'<Frederick_D._Gardner>",
+    "12" : "s(Elliot_Woolfolk_Major) dbo:successor o'<John_T._Barker>",
+    "13" : "s(Elliot_Woolfolk_Major) dbo:termPeriod o'<Elliot_Woolfolk_Major__1>",
+    "14" : "s(Elliot_Woolfolk_Major) dbo:termPeriod o'<Elliot_Woolfolk_Major__2>",
+    "15" : "s(Elliot_Woolfolk_Major) dbp:after o'<John_Tull_Barker>",
+    "16" : "s(Elliot_Woolfolk_Major) dbp:after o'<Frederick_D._Gardner>",
+    "17" : "s(Elliot_Woolfolk_Major) dbp:before o'<Herbert_S._Hadley>",
+    "18" : "s(Elliot_Woolfolk_Major) dbp:termEnd o'<1913>",
+    "19" : "s(Elliot_Woolfolk_Major) dbp:termStart o'<1909>",
+    "20" : "s(Elliot_Woolfolk_Major) dbp:title o'<List_of_Governors_of_Missouri>",
+    "21" : "s(Elliot_Woolfolk_Major) dbp:title o'<List_of_Attorneys_General_of_Missouri>",
+    "22" : "s(Elliot_Woolfolk_Major) dbp:years o'<1909>",
+    "23" : "s(Elliot_Woolfolk_Major) dbp:years o'<1913>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11330",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Laneuville",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Eric_Laneuville) dbo:activeYearsStartYear o'<1968>",
+    "2" : "s(Eric_Laneuville) dbo:birthDate o'<1952-07-14>",
+    "3" : "s(Eric_Laneuville) dbo:birthDate o'<1952-7-14>",
+    "4" : "s(Eric_Laneuville) dbo:birthPlace o'<New_Orleans>",
+    "5" : "s(Eric_Laneuville) dbo:birthYear o'<1952>",
+    "6" : "s(Eric_Laneuville) dbo:occupation o'<Eric_Laneuville__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11331",
+  "entityUrl" : "http://dbpedia.org/resource/Eddie_McGee",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Eddie_McGee) dbo:birthDate o'<1979-02-24>",
+    "2" : "s(Eddie_McGee) dbo:birthDate o'<1979-2-24>",
+    "3" : "s(Eddie_McGee) dbo:birthPlace o'<Long_Island>",
+    "4" : "s(Eddie_McGee) dbo:birthYear o'<1979>",
+    "5" : "s(Eddie_McGee) dbo:residence o'<Long_Island>",
+    "6" : "s(Eddie_McGee) dbo:residence o'<New_York_(state)>",
+    "7" : "s(Eddie_McGee) dbp:television o'<Big_Brother_1_(U.S.)>",
+    "8" : "s(Eddie_McGee) dbp:title o'<Big Brother U.S. winner>",
+    "9" : "s(Eddie_McGee) dbp:years o'<Big_Brother_1_(U.S.)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11332",
+  "entityUrl" : "http://dbpedia.org/resource/Elaine_Youngs",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Elaine_Youngs) dbo:birthDate o'<1970-02-14>",
+    "2" : "s(Elaine_Youngs) dbo:birthDate o'<1970-2-14>",
+    "3" : "s(Elaine_Youngs) dbo:birthPlace o'<Orange,_California>",
+    "4" : "s(Elaine_Youngs) dbo:height o'<182.88>",
+    "5" : "s(Elaine_Youngs) dbo:height o'<1.8288>",
+    "6" : "s(Elaine_Youngs) dbo:hometown o'<Lake_Forest,_California>",
+    "7" : "s(Elaine_Youngs) dbo:nationality o'<United_States>",
+    "8" : "s(Elaine_Youngs) dbp:currentteammate o'<Rachel Scott>",
+    "9" : "s(Elaine_Youngs) dbp:currentyears o'<2011>",
+    "10" : "s(Elaine_Youngs) dbp:medaltemplatesTitle o'<Medal record>",
+    "11" : "s(Elaine_Youngs) dbp:nickname o'<E.Y.>",
+    "12" : "s(Elaine_Youngs) dbp:teammates o'<Holly_McPeak>",
+    "13" : "s(Elaine_Youngs) dbp:teammates o'<Nancy_Reno>",
+    "14" : "s(Elaine_Youngs) dbp:teammates o'<Rachel_Wacholder>",
+    "15" : "s(Elaine_Youngs) dbp:teammates o'<Nicole_Branagh>",
+    "16" : "s(Elaine_Youngs) dbp:teammates o'<Barbra_Fontana>",
+    "17" : "s(Elaine_Youngs) dbp:teammates o'<Liz_Masakayan>",
+    "18" : "s(Elaine_Youngs) dbp:teammates o'<Misty_May-Treanor>",
+    "19" : "s(Elaine_Youngs) dbp:teammates o'<Liz Masakayan>",
+    "20" : "s(Elaine_Youngs) dbp:years o'<1997>",
+    "21" : "s(Elaine_Youngs) dbp:years o'<1998>",
+    "22" : "s(Elaine_Youngs) dbp:years o'<1999>",
+    "23" : "s(Elaine_Youngs) dbp:years o'<2001>",
+    "24" : "s(Elaine_Youngs) dbp:years o'<2002>",
+    "25" : "s(Elaine_Youngs) dbp:years o'<2005>",
+    "26" : "s(Elaine_Youngs) dbp:years o'<2006>",
+    "27" : "s(Elaine_Youngs) dbp:years o'<2010>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(elaine youngs=Elaine_Youngs) [won bronze medal at ] o'<holly mcpeak=Holly_McPeak>",
+    "6" : "s(elaine youngs=Elaine_Youngs) [fouryear starter for ] o'<all-american=United_States>",
+    "16" : "s(elaine youngs=Elaine_Youngs) [teamed with ] o'<rachel wacholder=Rachel_Wacholder>"
+  },
+  "abstract" : {
+    "3" : "in addition, elaine youngs<Elaine_Youngs> won a bronze medal at the 2004 summer olympics with teammate holly mcpeak<Holly_McPeak>\n",
+    "6" : "elaine youngs<Elaine_Youngs> was a four-year starter for the volleyball team and led the bruins to the final four all four years, as well as earning all-american<United_States> honors those four years\n",
+    "16" : "elaine youngs<Elaine_Youngs> teamed with rachel wacholder<Rachel_Wacholder> for the 2005 and much of the 2006 season\n"
+  }
+}, {
+  "entityIndex" : "entity11333",
+  "entityUrl" : "http://dbpedia.org/resource/Eva_Le_Gallienne",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Eva_Le_Gallienne) dbo:activeYearsEndYear o'<1984>",
+    "2" : "s(Eva_Le_Gallienne) dbo:activeYearsStartYear o'<1914>",
+    "3" : "s(Eva_Le_Gallienne) dbo:birthDate o'<1899-01-11>",
+    "4" : "s(Eva_Le_Gallienne) dbo:birthDate o'<1899-1-11>",
+    "5" : "s(Eva_Le_Gallienne) dbo:birthPlace o'<London>",
+    "6" : "s(Eva_Le_Gallienne) dbo:birthYear o'<1899>",
+    "7" : "s(Eva_Le_Gallienne) dbo:deathDate o'<1991-06-03>",
+    "8" : "s(Eva_Le_Gallienne) dbo:deathDate o'<1991-6-3>",
+    "9" : "s(Eva_Le_Gallienne) dbo:deathPlace o'<Connecticut>",
+    "10" : "s(Eva_Le_Gallienne) dbo:deathPlace o'<Weston,_Connecticut>",
+    "11" : "s(Eva_Le_Gallienne) dbo:deathYear o'<1991>",
+    "12" : "s(Eva_Le_Gallienne) dbo:occupation o'<Theatrical_producer>",
+    "13" : "s(Eva_Le_Gallienne) dbo:occupation o'<Eva_Le_Gallienne__1>",
+    "14" : "s(Eva_Le_Gallienne) dbp:imageSize o'<225>",
+    "15" : "s(Eva_Le_Gallienne) dbp:title o'<Awards for Eva Le Gallienne>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11334",
+  "entityUrl" : "http://dbpedia.org/resource/Elijah_Mizrachi",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Elijah_Mizrachi) dbo:birthDate o'<1455-1-1>",
+    "2" : "s(Elijah_Mizrachi) dbo:birthPlace o'<Constantinople>",
+    "3" : "s(Elijah_Mizrachi) dbo:deathDate o'<1526-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

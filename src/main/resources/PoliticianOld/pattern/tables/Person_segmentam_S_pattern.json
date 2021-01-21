@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity11891",
+  "entityUrl" : "http://dbpedia.org/resource/Silvija_Nedeljkovi%C4%87",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11892",
+  "entityUrl" : "http://dbpedia.org/resource/Steve_Marsh_(comedian)",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Steve_Marsh_(comedian)) dbo:birthDate o'<1978-1-1>",
+    "2" : "s(Steve_Marsh_(comedian)) dbo:birthPlace o'<Newton-le-Willows>",
+    "3" : "s(Steve_Marsh_(comedian)) dbo:imdbId o'<1783398>",
+    "4" : "s(Steve_Marsh_(comedian)) dbp:date o'<May 2012>",
+    "5" : "s(Steve_Marsh_(comedian)) dbp:name o'<Steve Marsh>",
+    "6" : "s(Steve_Marsh_(comedian)) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11893",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_I,_Count_of_Burgundy",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Stephen_I,_Count_of_Burgundy) dbo:birthDate o'<1065-1-1>",
+    "2" : "s(Stephen_I,_Count_of_Burgundy) dbo:deathDate o'<1102-05-17>",
+    "3" : "s(Stephen_I,_Count_of_Burgundy) dbo:deathDate o'<1102-5-27>",
+    "4" : "s(Stephen_I,_Count_of_Burgundy) dbo:deathPlace o'<Ramla>",
+    "5" : "s(Stephen_I,_Count_of_Burgundy) dbo:parent o'<William_I,_Count_of_Burgundy>",
+    "6" : "s(Stephen_I,_Count_of_Burgundy) dbp:after o'<Renaud_III,_Count_of_Burgundy>",
+    "7" : "s(Stephen_I,_Count_of_Burgundy) dbp:before o'<Reginald_II,_Count_of_Burgundy>",
+    "8" : "s(Stephen_I,_Count_of_Burgundy) dbp:birthDate o'<1065>",
+    "9" : "s(Stephen_I,_Count_of_Burgundy) dbp:mother o'<Stephanie>",
+    "10" : "s(Stephen_I,_Count_of_Burgundy) dbp:nobleFamily o'<House_of_Ivrea>",
+    "11" : "s(Stephen_I,_Count_of_Burgundy) dbp:spouse o'<Beatrix of Lorraine>",
+    "12" : "s(Stephen_I,_Count_of_Burgundy) dbp:title o'<Count_Palatine_of_Burgundy>",
+    "13" : "s(Stephen_I,_Count_of_Burgundy) dbp:years o'<1097>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11894",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Lumley_Skeffington,_2nd_Baronet",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Sir_Lumley_Skeffington,_2nd_Baronet) dbo:wikiPageRedirects o'<Lumley_Skeffington>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11895",
+  "entityUrl" : "http://dbpedia.org/resource/Slaine_Kelly",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Slaine_Kelly) dbo:birthDate o'<1982-07-09>",
+    "2" : "s(Slaine_Kelly) dbo:birthDate o'<1982-7-9>",
+    "3" : "s(Slaine_Kelly) dbo:birthPlace o'<Dublin>",
+    "4" : "s(Slaine_Kelly) dbo:birthPlace o'<Republic_of_Ireland>",
+    "5" : "s(Slaine_Kelly) dbo:birthYear o'<1982>",
+    "6" : "s(Slaine_Kelly) dbp:date o'<February 2011>",
+    "7" : "s(Slaine_Kelly) dbp:imagesize o'<150>",
+    "8" : "s(Slaine_Kelly) dbp:notableRole o'<Jane Howard in The Tudors.>",
+    "9" : "s(Slaine_Kelly) dbp:reason o'<why might her character, Jane Howard, have been Jane Popincourt - makes no sense without an explanation>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11896",
+  "entityUrl" : "http://dbpedia.org/resource/Stainton_Moses",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Stainton_Moses) dbo:wikiPageRedirects o'<William_Stainton_Moses>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,62 @@
+[ {
+  "entityIndex" : "entity14362",
+  "entityUrl" : "http://dbpedia.org/resource/Uladzimir_Konan",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Uladzimir_Konan) dbo:birthDate o'<1934-1-1>",
+    "2" : "s(Uladzimir_Konan) dbo:deathDate o'<2011-6-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14363",
+  "entityUrl" : "http://dbpedia.org/resource/Ulrich_Johannes_Schneider",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Ulrich_Johannes_Schneider) dbo:birthDate o'<1956-5-4>",
+    "2" : "s(Ulrich_Johannes_Schneider) dbo:birthPlace o'<Frankfurt>",
+    "3" : "s(Ulrich_Johannes_Schneider) dbo:country o'<Germany>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14364",
+  "entityUrl" : "http://dbpedia.org/resource/Udo_Samel",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Udo_Samel) dbo:activeYearsStartYear o'<1977>",
+    "2" : "s(Udo_Samel) dbo:birthDate o'<1953-06-25>",
+    "3" : "s(Udo_Samel) dbo:birthDate o'<1953-6-25>",
+    "4" : "s(Udo_Samel) dbo:birthPlace o'<Germany>",
+    "5" : "s(Udo_Samel) dbo:birthPlace o'<Trier>",
+    "6" : "s(Udo_Samel) dbo:birthYear o'<1953>",
+    "7" : "s(Udo_Samel) dbo:occupation o'<Udo_Samel__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14365",
+  "entityUrl" : "http://dbpedia.org/resource/Umberto_Pineschi",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Umberto_Pineschi) dbo:birthPlace o'<Trieste>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14366",
+  "entityUrl" : "http://dbpedia.org/resource/Uzair_Paracha",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Uzair_Paracha) dbo:birthDate o'<1980-1-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14367",
+  "entityUrl" : "http://dbpedia.org/resource/Ursula_of_Brandenburg,_Duchess_of_M%C3%BCnsterberg-Oels",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

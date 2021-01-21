@@ -1,0 +1,125 @@
+[ {
+  "entityIndex" : "entity11034",
+  "entityUrl" : "http://dbpedia.org/resource/Liu_Yizheng",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Liu_Yizheng) dbo:birthDate o'<1880-0-0>",
+    "2" : "s(Liu_Yizheng) dbo:deathDate o'<1956-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11035",
+  "entityUrl" : "http://dbpedia.org/resource/Lionel_Rees",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Lionel_Rees) dbo:award o'<Air_Force_Cross_(United_Kingdom)>",
+    "2" : "s(Lionel_Rees) dbo:award o'<Military_Cross>",
+    "3" : "s(Lionel_Rees) dbo:award o'<Victoria_Cross>",
+    "4" : "s(Lionel_Rees) dbo:award o'<Officer_of_the_Order_of_the_British_Empire>",
+    "5" : "s(Lionel_Rees) dbo:battle o'<Western_Front_(World_War_I)>",
+    "6" : "s(Lionel_Rees) dbo:battle o'<Battle_of_the_Somme>",
+    "7" : "s(Lionel_Rees) dbo:battle o'<First_World_War>",
+    "8" : "s(Lionel_Rees) dbo:battle o'<Second_World_War>",
+    "9" : "s(Lionel_Rees) dbo:birthDate o'<1884-7-31>",
+    "10" : "s(Lionel_Rees) dbo:birthPlace o'<Caernarfon>",
+    "11" : "s(Lionel_Rees) dbo:deathDate o'<1955-9-28>",
+    "12" : "s(Lionel_Rees) dbo:deathPlace o'<Nassau,_Bahamas>",
+    "13" : "s(Lionel_Rees) dbo:militaryBranch o'<British_Army>",
+    "14" : "s(Lionel_Rees) dbo:militaryBranch o'<Royal_Air_Force>",
+    "15" : "s(Lionel_Rees) dbo:militaryCommand o'<No. 11 Squadron RFC>",
+    "16" : "s(Lionel_Rees) dbo:militaryCommand o'<No. 32 Squadron RFC>",
+    "17" : "s(Lionel_Rees) dbo:militaryUnit o'<Royal_Garrison_Artillery>",
+    "18" : "s(Lionel_Rees) dbo:militaryUnit o'<Royal_Flying_Corps>",
+    "19" : "s(Lionel_Rees) dbo:serviceEndYear o'<1931>",
+    "20" : "s(Lionel_Rees) dbo:serviceStartYear o'<1903>",
+    "21" : "s(Lionel_Rees) dbp:birthDate o'<1884-07-31>",
+    "22" : "s(Lionel_Rees) dbp:birthPlace o'<Caernarfon, Carnarvonshire, Wales>",
+    "23" : "s(Lionel_Rees) dbp:deathDate o'<1955-09-28>",
+    "24" : "s(Lionel_Rees) dbp:deathPlace o'<Nassau,_Bahamas>",
+    "25" : "s(Lionel_Rees) dbp:placeofburial o'<Nassau War Cemetery, Bahamas>",
+    "26" : "s(Lionel_Rees) dbp:rank o'<Group_Captain>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(lionel rees=Lionel_Rees) [credited with eight confirmed ] o'<enemy=British_Army>"
+  },
+  "abstract" : {
+    "3" : "lionel rees<Lionel_Rees> was credited with eight confirmed aerial victories, comprising one enemy<British_Army> aircraft captured, one destroyed, one \"forced to land\" and five \"driven down\"\n"
+  }
+}, {
+  "entityIndex" : "entity11036",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Applebaum",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Louis_Applebaum) dbo:award o'<Order_of_Canada>",
+    "2" : "s(Louis_Applebaum) dbo:award o'<Order_of_Ontario>",
+    "3" : "s(Louis_Applebaum) dbo:birthDate o'<1918-04-03>",
+    "4" : "s(Louis_Applebaum) dbo:birthDate o'<1918-4-3>",
+    "5" : "s(Louis_Applebaum) dbo:birthPlace o'<Ontario>",
+    "6" : "s(Louis_Applebaum) dbo:birthPlace o'<Toronto>",
+    "7" : "s(Louis_Applebaum) dbo:birthPlace o'<Canada>",
+    "8" : "s(Louis_Applebaum) dbo:birthYear o'<1918>",
+    "9" : "s(Louis_Applebaum) dbo:deathDate o'<2000-04-19>",
+    "10" : "s(Louis_Applebaum) dbo:deathDate o'<2000-4-19>",
+    "11" : "s(Louis_Applebaum) dbo:deathPlace o'<Ontario>",
+    "12" : "s(Louis_Applebaum) dbo:deathPlace o'<Toronto>",
+    "13" : "s(Louis_Applebaum) dbo:deathPlace o'<Canada>",
+    "14" : "s(Louis_Applebaum) dbo:deathYear o'<2000>",
+    "15" : "s(Louis_Applebaum) dbo:imdbId o'<0032335>",
+    "16" : "s(Louis_Applebaum) dbo:knownFor o'<Conducting>",
+    "17" : "s(Louis_Applebaum) dbp:name o'<Louis Applebaum>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11037",
+  "entityUrl" : "http://dbpedia.org/resource/Leif_Erland_Andersson",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Leif_Erland_Andersson) dbo:almaMater o'<Lund_University>",
+    "2" : "s(Leif_Erland_Andersson) dbo:almaMater o'<Indiana_University_Bloomington>",
+    "3" : "s(Leif_Erland_Andersson) dbo:birthDate o'<1944-1-1>",
+    "4" : "s(Leif_Erland_Andersson) dbo:birthYear o'<1944>",
+    "5" : "s(Leif_Erland_Andersson) dbo:deathDate o'<1979-1-1>",
+    "6" : "s(Leif_Erland_Andersson) dbo:deathYear o'<1979>",
+    "7" : "s(Leif_Erland_Andersson) dbo:education o'<Ph.D.>",
+    "8" : "s(Leif_Erland_Andersson) dbo:nationality o'<Sweden>",
+    "9" : "s(Leif_Erland_Andersson) dbo:occupation o'<Astronomer>",
+    "10" : "s(Leif_Erland_Andersson) dbo:occupation o'<Leif_Erland_Andersson__1>",
+    "11" : "s(Leif_Erland_Andersson) dbo:stateOfOrigin o'<Sweden>",
+    "12" : "s(Leif_Erland_Andersson) dbp:imageSize o'<220>",
+    "13" : "s(Leif_Erland_Andersson) dbp:spouse o'<Gloria Ptacek>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(leif erland andersson=Leif_Erland_Andersson) [wellknown science ] o'<sweden=Sweden>",
+    "6" : "s(leif erland andersson=Leif_Erland_Andersson) [studied work of professor ] o'<university=Lund_University>",
+    "10" : "s(leif erland andersson=Leif_Erland_Andersson) [married gloria ptacek in 1973 ] o'<indiana university=Indiana_University_Bloomington>"
+  },
+  "abstract" : {
+    "4" : "from his late teen years, leif erland andersson<Leif_Erland_Andersson> was also a well-known science fiction fan in sweden<Sweden>, who chaired the malcon in 1966 in malmã¶,sweden<Sweden> and took over editing the pioneering swedish science fiction amateur journal, the scandinavian amateur press alliance (sapa) after john-henry holmberg left the position some time after 1964\n",
+    "6" : "leif erland andersson<Leif_Erland_Andersson> studied the work of professor ã…ke wallenquist, at uppsala university<Lund_University>\n",
+    "10" : "while there, leif erland andersson<Leif_Erland_Andersson> married gloria ptacek in 1973 at the beck chapel of indiana university<Indiana_University_Bloomington>\n"
+  }
+}, {
+  "entityIndex" : "entity11038",
+  "entityUrl" : "http://dbpedia.org/resource/Leontios_Machairas",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Leontios_Machairas) dbo:birthDate o'<1380-1-1>",
+    "2" : "s(Leontios_Machairas) dbo:deathDate o'<1450-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11039",
+  "entityUrl" : "http://dbpedia.org/resource/Leroy_Robertson",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Leroy_Robertson) dbo:birthDate o'<1896-12-21>",
+    "2" : "s(Leroy_Robertson) dbo:birthPlace o'<Fountain_Green,_Utah>",
+    "3" : "s(Leroy_Robertson) dbo:deathDate o'<1971-7-25>",
+    "4" : "s(Leroy_Robertson) dbo:deathPlace o'<Salt_Lake_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

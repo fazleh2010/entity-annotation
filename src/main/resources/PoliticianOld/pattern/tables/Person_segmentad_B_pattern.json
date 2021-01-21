@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity11147",
+  "entityUrl" : "http://dbpedia.org/resource/Ben_Jones_(Grenada)",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ben_Jones_(Grenada)) dbo:birthDate o'<1924-8-5>",
+    "2" : "s(Ben_Jones_(Grenada)) dbo:deathDate o'<2005-2-10>",
+    "3" : "s(Ben_Jones_(Grenada)) dbp:after o'<Nicholas_Brathwaite>",
+    "4" : "s(Ben_Jones_(Grenada)) dbp:before o'<Herbert_Blaize>",
+    "5" : "s(Ben_Jones_(Grenada)) dbp:title o'<Prime_Minister_of_Grenada>",
+    "6" : "s(Ben_Jones_(Grenada)) dbp:years o'<--12-09>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11148",
+  "entityUrl" : "http://dbpedia.org/resource/Baselios_Mar_Thoma_Mathews_II",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Baselios_Mar_Thoma_Mathews_II) dbo:activeYearsEndYear o'<2005>",
+    "2" : "s(Baselios_Mar_Thoma_Mathews_II) dbo:activeYearsStartYear o'<1991>",
+    "3" : "s(Baselios_Mar_Thoma_Mathews_II) dbo:birthDate o'<1915-01-30>",
+    "4" : "s(Baselios_Mar_Thoma_Mathews_II) dbo:birthDate o'<1915-1-30>",
+    "5" : "s(Baselios_Mar_Thoma_Mathews_II) dbo:deathDate o'<2006-01-26>",
+    "6" : "s(Baselios_Mar_Thoma_Mathews_II) dbo:deathDate o'<2006-1-26>",
+    "7" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:after o'<Mathews Mar Epiphanios>",
+    "8" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:after o'<Moran Mar Baselios MarThoma Didymos I>",
+    "9" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:before o'<Alexios Mar Theodosius>",
+    "10" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:before o'<Moran Mar Baselios Mar Thoma Mathews I>",
+    "11" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:birthPlace o'<Perinad, Kollam>",
+    "12" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:bishopOf o'<Malankara_Orthodox_Syrian_Church>",
+    "13" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:buried o'<Mount Horeb Chapel, Sasthamkotta, Kollam>",
+    "14" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:consecration o'<1953-05-15>",
+    "15" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:deathPlace o'<Catholicate Palace, Devalokam, Kottayam>",
+    "16" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:honorificPrefix o'<His Holiness>",
+    "17" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:honorificSuffix o'<Catholicos_of_the_East>",
+    "18" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:honorificSuffix o'<Malankara_Metropolitan>",
+    "19" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:ordination o'<1941>",
+    "20" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:predecessor o'<Baselios_Mar_Thoma_Mathews_I>",
+    "21" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:see o'<Catholicos_of_the_East>",
+    "22" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:successor o'<Baselios_Thoma_Didymos_I>",
+    "23" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:title o'<List_of_Catholicoi_of_the_East_and_Malankara_Metropolitans>",
+    "24" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:title o'<Metropolitan of Kollam Diocese>",
+    "25" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:years o'<1953>",
+    "26" : "s(Baselios_Mar_Thoma_Mathews_II) dbp:years o'<1991>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11149",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Fantoni",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Barry_Fantoni) dbo:birthDate o'<1940-2-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11150",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Donohue",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Bill_Donohue) dbo:birthDate o'<1947-07-18>",
+    "2" : "s(Bill_Donohue) dbo:birthDate o'<1947-7-18>",
+    "3" : "s(Bill_Donohue) dbo:birthName o'<William Anthony Donohue>",
+    "4" : "s(Bill_Donohue) dbo:birthPlace o'<Manhattan>",
+    "5" : "s(Bill_Donohue) dbo:birthPlace o'<New_York_City>",
+    "6" : "s(Bill_Donohue) dbo:birthPlace o'<New_York_(state)>",
+    "7" : "s(Bill_Donohue) dbo:birthYear o'<1947>",
+    "8" : "s(Bill_Donohue) dbo:occupation o'<Catholic_League_(U.S.)>",
+    "9" : "s(Bill_Donohue) dbo:occupation o'<Bill_Donohue__1>",
+    "10" : "s(Bill_Donohue) dbp:almaMater o'<New_York_University>",
+    "11" : "s(Bill_Donohue) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11151",
+  "entityUrl" : "http://dbpedia.org/resource/Basil_Henriques",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Basil_Henriques) dbo:birthDate o'<1890-1-1>",
+    "2" : "s(Basil_Henriques) dbo:deathDate o'<1961-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11152",
+  "entityUrl" : "http://dbpedia.org/resource/Bodhiruci",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Bodhiruci) dbo:deathDate o'<535-0-0>",
+    "2" : "s(Bodhiruci) dbp:c o'<åœ°è«–å®—>",
+    "3" : "s(Bodhiruci) dbp:p o'<DÃ¬lÃ¹n zÅ�ng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,30 @@
+[ {
+  "entityIndex" : "entity11138",
+  "entityUrl" : "http://dbpedia.org/resource/7th_Dalai_Lama",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(7th_Dalai_Lama) dbo:birthDate o'<1708-1-1>",
+    "2" : "s(7th_Dalai_Lama) dbo:birthPlace o'<Litang_County>",
+    "3" : "s(7th_Dalai_Lama) dbo:deathDate o'<1757-1-1>",
+    "4" : "s(7th_Dalai_Lama) dbo:deathPlace o'<Lhasa_(prefecture-level_city)>",
+    "5" : "s(7th_Dalai_Lama) dbp:birthDate o'<1708>",
+    "6" : "s(7th_Dalai_Lama) dbp:birthPlace o'<Litang_County>",
+    "7" : "s(7th_Dalai_Lama) dbp:birthPlace o'<Tibet>",
+    "8" : "s(7th_Dalai_Lama) dbp:birthPlace o'<Kham>",
+    "9" : "s(7th_Dalai_Lama) dbp:chinese o'<æ ¼æ¡‘å˜‰æŽª>",
+    "10" : "s(7th_Dalai_Lama) dbp:deathDate o'<1757>",
+    "11" : "s(7th_Dalai_Lama) dbp:deathPlace o'<Tibet>",
+    "12" : "s(7th_Dalai_Lama) dbp:name o'<Kelzang>",
+    "13" : "s(7th_Dalai_Lama) dbp:predecessor o'<6th_Dalai_Lama>",
+    "14" : "s(7th_Dalai_Lama) dbp:reign o'<1720>",
+    "15" : "s(7th_Dalai_Lama) dbp:successor o'<8th_Dalai_Lama>",
+    "16" : "s(7th_Dalai_Lama) dbp:tibetan o'<à½–à½¦à¾�à½£à¼‹à½–à½Ÿà½„à¼‹à½¢à¾’à¾±à¼‹à½˜à½šà½¼à¼‹>",
+    "17" : "s(7th_Dalai_Lama) dbp:title o'<7>",
+    "18" : "s(7th_Dalai_Lama) dbp:title o'<Dalai_Lama>",
+    "19" : "s(7th_Dalai_Lama) dbp:transprc o'<Gaisang Gyaco>",
+    "20" : "s(7th_Dalai_Lama) dbp:wylie o'<bskal bzang rgya mtsho>",
+    "21" : "s(7th_Dalai_Lama) dbp:years o'<1720>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

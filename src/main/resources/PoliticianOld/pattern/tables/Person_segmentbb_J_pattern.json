@@ -1,0 +1,58 @@
+[ {
+  "entityIndex" : "entity14296",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Idlout",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Joseph_Idlout) dbo:deathDate o'<1968-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14297",
+  "entityUrl" : "http://dbpedia.org/resource/Jill_Dawson",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14298",
+  "entityUrl" : "http://dbpedia.org/resource/Juan_Jos%C3%A9_G%C3%BCemes",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14299",
+  "entityUrl" : "http://dbpedia.org/resource/Johann_Joseph_Jansen",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Johann_Joseph_Jansen) dbo:birthDate o'<1825-1-1>",
+    "2" : "s(Johann_Joseph_Jansen) dbo:deathDate o'<1849-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14300",
+  "entityUrl" : "http://dbpedia.org/resource/James_Thynne",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(James_Thynne) dbo:birthDate o'<1605-0-0>",
+    "2" : "s(James_Thynne) dbo:deathDate o'<1670-10-12>",
+    "3" : "s(James_Thynne) dbp:after o'<James_Herbert_(died_1677)>",
+    "4" : "s(James_Thynne) dbp:after o'<Edmund Ludlow>",
+    "5" : "s(James_Thynne) dbp:before o'<Philip_Herbert,_5th_Earl_of_Pembroke>",
+    "6" : "s(James_Thynne) dbp:before o'<Sir Francis Seymour>",
+    "7" : "s(James_Thynne) dbp:title o'<Member of Parliament for Wiltshire>",
+    "8" : "s(James_Thynne) dbp:with o'<Henry_Ludlow_(of_Maiden_Bradley)>",
+    "9" : "s(James_Thynne) dbp:years o'<1640>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14301",
+  "entityUrl" : "http://dbpedia.org/resource/John_H._McClendon",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

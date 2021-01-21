@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11052",
+  "entityUrl" : "http://dbpedia.org/resource/Orgetorix",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Orgetorix) dbo:birthPlace o'<Gaul>",
+    "2" : "s(Orgetorix) dbo:deathDate o'<-61-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11053",
+  "entityUrl" : "http://dbpedia.org/resource/Ousmane_Semb%C3%A8ne",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11054",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_von_Gierke",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Otto_von_Gierke) dbo:birthDate o'<1841-1-11>",
+    "2" : "s(Otto_von_Gierke) dbo:birthPlace o'<Szczecin>",
+    "3" : "s(Otto_von_Gierke) dbo:deathDate o'<1921-10-10>",
+    "4" : "s(Otto_von_Gierke) dbo:deathPlace o'<Berlin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11055",
+  "entityUrl" : "http://dbpedia.org/resource/O._James_Lighthizer",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(O._James_Lighthizer) dbo:birthDate o'<1946-3-20>",
+    "2" : "s(O._James_Lighthizer) dbp:after o'<Robert_R._Neall>",
+    "3" : "s(O._James_Lighthizer) dbp:before o'<Robert_A._Pascal>",
+    "4" : "s(O._James_Lighthizer) dbp:title o'<Anne_Arundel_County,_Maryland>",
+    "5" : "s(O._James_Lighthizer) dbp:years o'<1982>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(o. james lighthizer=O._James_Lighthizer) [served from 1982 to 1990 ] o'<anne arundel county=Anne_Arundel_County,_Maryland>"
+  },
+  "abstract" : {
+    "3" : "as a democrat, o. james lighthizer<O._James_Lighthizer> served from 1982 to 1990 as county executive of anne arundel county<Anne_Arundel_County,_Maryland>, maryland\n"
+  }
+}, {
+  "entityIndex" : "entity11056",
+  "entityUrl" : "http://dbpedia.org/resource/Orlando_Hubbs",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Orlando_Hubbs) dbo:birthDate o'<1840-2-18>",
+    "2" : "s(Orlando_Hubbs) dbo:deathDate o'<1930-12-5>",
+    "3" : "s(Orlando_Hubbs) dbo:deathPlace o'<Smithtown,_New_York>",
+    "4" : "s(Orlando_Hubbs) dbp:after o'<James_E._O'Hara>",
+    "5" : "s(Orlando_Hubbs) dbp:after o'<George_L._Thompson>",
+    "6" : "s(Orlando_Hubbs) dbp:after o'<James_L._Long>",
+    "7" : "s(Orlando_Hubbs) dbp:before o'<William_H._Kitchin>",
+    "8" : "s(Orlando_Hubbs) dbp:before o'<Carll_S._Burr,_Jr.>",
+    "9" : "s(Orlando_Hubbs) dbp:before o'<George_A._Robinson>",
+    "10" : "s(Orlando_Hubbs) dbp:district o'<2>",
+    "11" : "s(Orlando_Hubbs) dbp:state o'<North Carolina>",
+    "12" : "s(Orlando_Hubbs) dbp:title o'<1>",
+    "13" : "s(Orlando_Hubbs) dbp:title o'<New_York_State_Assembly>",
+    "14" : "s(Orlando_Hubbs) dbp:title o'<New_York_State_Senate>",
+    "15" : "s(Orlando_Hubbs) dbp:title o'<Suffolk County, 1st District>",
+    "16" : "s(Orlando_Hubbs) dbp:years o'<1881>",
+    "17" : "s(Orlando_Hubbs) dbp:years o'<1903>",
+    "18" : "s(Orlando_Hubbs) dbp:years o'<1909>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(orlando hubbs=Orlando_Hubbs) [moved from ] o'<new york=New_York_State_Senate>"
+  },
+  "abstract" : {
+    "2" : "orlando hubbs<Orlando_Hubbs> moved from new york<New_York_State_Senate> to north carolina<North_Carolina> in 1865, where orlando hubbs<Orlando_Hubbs> helped organize the republican party in the state<North_Carolina>\n"
+  }
+}, {
+  "entityIndex" : "entity11057",
+  "entityUrl" : "http://dbpedia.org/resource/Ole_Singstad",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Ole_Singstad) dbo:birthDate o'<1882-06-29>",
+    "2" : "s(Ole_Singstad) dbo:birthDate o'<1882-6-29>",
+    "3" : "s(Ole_Singstad) dbo:birthName o'<Ole Knutsen Singstad>",
+    "4" : "s(Ole_Singstad) dbo:birthPlace o'<Agdenes>",
+    "5" : "s(Ole_Singstad) dbo:birthPlace o'<Lensvik>",
+    "6" : "s(Ole_Singstad) dbo:birthYear o'<1882>",
+    "7" : "s(Ole_Singstad) dbo:deathDate o'<1969-12-08>",
+    "8" : "s(Ole_Singstad) dbo:deathDate o'<1969-12-8>",
+    "9" : "s(Ole_Singstad) dbo:deathPlace o'<New_York_State>",
+    "10" : "s(Ole_Singstad) dbo:deathPlace o'<New_York_City>",
+    "11" : "s(Ole_Singstad) dbo:deathYear o'<1969>",
+    "12" : "s(Ole_Singstad) dbo:occupation o'<Civil_engineer>",
+    "13" : "s(Ole_Singstad) dbo:occupation o'<Ole_Singstad__1>",
+    "14" : "s(Ole_Singstad) dbo:restingPlace o'<Green-Wood_Cemetery>",
+    "15" : "s(Ole_Singstad) dbo:restingPlace o'<Brooklyn,_New_York>",
+    "16" : "s(Ole_Singstad) dbp:imageSize o'<60>",
+    "17" : "s(Ole_Singstad) dbp:knownFor o'<Tunnel Designer>",
+    "18" : "s(Ole_Singstad) dbp:spouse o'<Else Johansen Singstad>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

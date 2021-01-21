@@ -1,0 +1,122 @@
+[ {
+  "entityIndex" : "entity10877",
+  "entityUrl" : "http://dbpedia.org/resource/Mikhail_Ippolitov-Ivanov",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Mikhail_Ippolitov-Ivanov) dbo:birthDate o'<1859-11-19>",
+    "2" : "s(Mikhail_Ippolitov-Ivanov) dbo:birthPlace o'<Gatchina>",
+    "3" : "s(Mikhail_Ippolitov-Ivanov) dbo:deathDate o'<1935-1-28>",
+    "4" : "s(Mikhail_Ippolitov-Ivanov) dbo:deathPlace o'<Moscow>",
+    "5" : "s(Mikhail_Ippolitov-Ivanov) dbo:imdbId o'<0409736>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10878",
+  "entityUrl" : "http://dbpedia.org/resource/Millicent_Martin",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Millicent_Martin) dbo:activeYearsEndYear o'<1954>",
+    "2" : "s(Millicent_Martin) dbo:activeYearsStartYear o'<1954>",
+    "3" : "s(Millicent_Martin) dbo:birthDate o'<1934-06-08>",
+    "4" : "s(Millicent_Martin) dbo:birthDate o'<1934-6-8>",
+    "5" : "s(Millicent_Martin) dbo:birthName o'<Millicent Mary Lillian Martin>",
+    "6" : "s(Millicent_Martin) dbo:birthPlace o'<Essex>",
+    "7" : "s(Millicent_Martin) dbo:birthPlace o'<UK>",
+    "8" : "s(Millicent_Martin) dbo:birthPlace o'<England>",
+    "9" : "s(Millicent_Martin) dbo:birthPlace o'<Romford>",
+    "10" : "s(Millicent_Martin) dbo:birthYear o'<1934>",
+    "11" : "s(Millicent_Martin) dbo:occupation o'<Comedian>",
+    "12" : "s(Millicent_Martin) dbo:occupation o'<Actress>",
+    "13" : "s(Millicent_Martin) dbo:occupation o'<Singing>",
+    "14" : "s(Millicent_Martin) dbo:occupation o'<Millicent_Martin__1>",
+    "15" : "s(Millicent_Martin) dbo:spouse o'<Ronnie_Carroll>",
+    "16" : "s(Millicent_Martin) dbo:spouse o'<Norman_Eshley>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(millicent martin=Millicent_Martin) [received tony award nominations for ] o'<actress=Actress>"
+  },
+  "abstract" : {
+    "2" : "for her work on broadway, millicent martin<Millicent_Martin> received tony award nominations for side by side by sondheim (1977) and king of hearts (1978), both for best featured actress<Actress> in a musical\n"
+  }
+}, {
+  "entityIndex" : "entity10879",
+  "entityUrl" : "http://dbpedia.org/resource/Moon_Zappa",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Moon_Zappa) dbo:activeYearsStartYear o'<1982>",
+    "2" : "s(Moon_Zappa) dbo:birthDate o'<1967-09-28>",
+    "3" : "s(Moon_Zappa) dbo:birthDate o'<1967-9-28>",
+    "4" : "s(Moon_Zappa) dbo:birthName o'<Moon Unit Zappa>",
+    "5" : "s(Moon_Zappa) dbo:birthPlace o'<New_York_City>",
+    "6" : "s(Moon_Zappa) dbo:birthPlace o'<New_York_City,_New_York>",
+    "7" : "s(Moon_Zappa) dbo:birthYear o'<1967>",
+    "8" : "s(Moon_Zappa) dbo:occupation o'<Moon_Zappa__1>",
+    "9" : "s(Moon_Zappa) dbo:parent o'<Frank_Zappa>",
+    "10" : "s(Moon_Zappa) dbo:parent o'<Gail_Zappa>",
+    "11" : "s(Moon_Zappa) dbo:relative o'<Ahmet_Zappa>",
+    "12" : "s(Moon_Zappa) dbo:relative o'<Diva_Zappa>",
+    "13" : "s(Moon_Zappa) dbo:relative o'<Dweezil_Zappa>",
+    "14" : "s(Moon_Zappa) dbo:spouse o'<Paul_Doucette>",
+    "15" : "s(Moon_Zappa) dbp:children o'<1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10880",
+  "entityUrl" : "http://dbpedia.org/resource/Maurice_Kendall",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Maurice_Kendall) dbo:birthDate o'<1907-9-6>",
+    "2" : "s(Maurice_Kendall) dbo:birthPlace o'<Kettering>",
+    "3" : "s(Maurice_Kendall) dbo:deathDate o'<1983-3-29>",
+    "4" : "s(Maurice_Kendall) dbo:deathPlace o'<Redhill,_Surrey>",
+    "5" : "s(Maurice_Kendall) dbp:id o'<Kendall_Maurice>",
+    "6" : "s(Maurice_Kendall) dbp:title o'<Maurice George Kendall>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10881",
+  "entityUrl" : "http://dbpedia.org/resource/Martin_Lichtenstein",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Martin_Lichtenstein) dbo:wikiPageRedirects o'<Hinrich_Lichtenstein>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10882",
+  "entityUrl" : "http://dbpedia.org/resource/Margaret_Hamilton_(actress)",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Margaret_Hamilton_(actress)) dbo:activeYearsEndYear o'<1982>",
+    "2" : "s(Margaret_Hamilton_(actress)) dbo:activeYearsStartYear o'<1933>",
+    "3" : "s(Margaret_Hamilton_(actress)) dbo:almaMater o'<Wheelock_College>",
+    "4" : "s(Margaret_Hamilton_(actress)) dbo:birthDate o'<1902-12-09>",
+    "5" : "s(Margaret_Hamilton_(actress)) dbo:birthDate o'<1902-12-9>",
+    "6" : "s(Margaret_Hamilton_(actress)) dbo:birthName o'<Margaret Brainard Hamilton>",
+    "7" : "s(Margaret_Hamilton_(actress)) dbo:birthPlace o'<Cleveland>",
+    "8" : "s(Margaret_Hamilton_(actress)) dbo:birthPlace o'<Cleveland,_Ohio>",
+    "9" : "s(Margaret_Hamilton_(actress)) dbo:birthYear o'<1902>",
+    "10" : "s(Margaret_Hamilton_(actress)) dbo:deathCause o'<Myocardial_infarction>",
+    "11" : "s(Margaret_Hamilton_(actress)) dbo:deathDate o'<1985-05-16>",
+    "12" : "s(Margaret_Hamilton_(actress)) dbo:deathDate o'<1985-5-16>",
+    "13" : "s(Margaret_Hamilton_(actress)) dbo:deathPlace o'<Salisbury,_Connecticut>",
+    "14" : "s(Margaret_Hamilton_(actress)) dbo:deathYear o'<1985>",
+    "15" : "s(Margaret_Hamilton_(actress)) dbo:education o'<Hathaway_Brown_School>",
+    "16" : "s(Margaret_Hamilton_(actress)) dbo:occupation o'<Margaret_Hamilton_(actress)__1>",
+    "17" : "s(Margaret_Hamilton_(actress)) dbo:relative o'<Neil_Hamilton_(actor)>",
+    "18" : "s(Margaret_Hamilton_(actress)) dbo:relative o'<Dorothy_Hamilton_Brush>",
+    "19" : "s(Margaret_Hamilton_(actress)) dbo:restingPlace o'<Amenia_(town),_New_York>",
+    "20" : "s(Margaret_Hamilton_(actress)) dbp:children o'<Hamilton Wadsworth Meserve>",
+    "21" : "s(Margaret_Hamilton_(actress)) dbp:imageSize o'<225>",
+    "22" : "s(Margaret_Hamilton_(actress)) dbp:nationality o'<American>",
+    "23" : "s(Margaret_Hamilton_(actress)) dbp:notableWorks o'<The Wicked Witch of the West in MGM's The Wizard of Oz>",
+    "24" : "s(Margaret_Hamilton_(actress)) dbp:parents o'<Jennie Adams>",
+    "25" : "s(Margaret_Hamilton_(actress)) dbp:parents o'<Walter J. Hamilton>",
+    "26" : "s(Margaret_Hamilton_(actress)) dbp:spouse o'<Paul Meserve>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

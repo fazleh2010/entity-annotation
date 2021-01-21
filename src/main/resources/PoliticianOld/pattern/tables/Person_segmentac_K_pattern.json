@@ -1,0 +1,121 @@
+[ {
+  "entityIndex" : "entity11028",
+  "entityUrl" : "http://dbpedia.org/resource/Kyle_(singer)",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Kyle_(singer)) dbo:wikiPageRedirects o'<Kyle_Linahan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11029",
+  "entityUrl" : "http://dbpedia.org/resource/Kikkawa_Hiroie",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Kikkawa_Hiroie) dbo:birthDate o'<1561-12-7>",
+    "2" : "s(Kikkawa_Hiroie) dbo:deathDate o'<1625-10-22>",
+    "3" : "s(Kikkawa_Hiroie) dbp:after o'<Kikkawa_Hiromasa>",
+    "4" : "s(Kikkawa_Hiroie) dbp:before o'<Kikkawa_Motonaga>",
+    "5" : "s(Kikkawa_Hiroie) dbp:before o'<none>",
+    "6" : "s(Kikkawa_Hiroie) dbp:title o'<Iwakuni_Domain>",
+    "7" : "s(Kikkawa_Hiroie) dbp:title o'<Kikkawa_family>",
+    "8" : "s(Kikkawa_Hiroie) dbp:years o'<158>",
+    "9" : "s(Kikkawa_Hiroie) dbp:years o'<1587>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "28" : "s(kikkawa hiroie=Kikkawa_Hiroie) [therefore often mistakenly considered ] o'<iwakuni=Iwakuni_Domain>"
+  },
+  "abstract" : {
+    "28" : "kikkawa hiroie<Kikkawa_Hiroie> is therefore often mistakenly considered the first ruler of an iwakuni<Iwakuni_Domain> han; however, unlike the må�ri shihans that were established for branches of the må�ri clan in the same period, hiroie and his descendants was not made daimyos in their own right until the meiji revolution\n"
+  }
+}, {
+  "entityIndex" : "entity11030",
+  "entityUrl" : "http://dbpedia.org/resource/Kathleen_Cavendish,_Marchioness_of_Hartington",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:almaMater o'<Queen's_College,_London>",
+    "2" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:almaMater o'<Finch_College>",
+    "3" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:birthDate o'<1920-02-20>",
+    "4" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:birthDate o'<1920-2-20>",
+    "5" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:birthName o'<Kathleen Agnes Kennedy>",
+    "6" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:birthPlace o'<Brookline,_Massachusetts>",
+    "7" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:birthYear o'<1920>",
+    "8" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:deathDate o'<1948-05-13>",
+    "9" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:deathDate o'<1948-5-13>",
+    "10" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:deathPlace o'<Saint-Bauzile,_ArdÃ¨che>",
+    "11" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:deathYear o'<1948>",
+    "12" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:education o'<Riverdale_Country_School>",
+    "13" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:parent o'<Joseph_P._Kennedy,_Sr.>",
+    "14" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:parent o'<Rose_Kennedy>",
+    "15" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:partner o'<Peter_Wentworth-Fitzwilliam,_8th_Earl_Fitzwilliam>",
+    "16" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:relative o'<Kennedy_family>",
+    "17" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:religion o'<Catholic_Church>",
+    "18" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:restingPlace o'<Edensor>",
+    "19" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:restingPlace o'<St_Peter's_Church,_Edensor>",
+    "20" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbo:spouse o'<William_Cavendish,_Marquess_of_Hartington>",
+    "21" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbp:deathCause o'<Airplane crash>",
+    "22" : "s(Kathleen_Cavendish,_Marchioness_of_Hartington) dbp:residence o'<London, England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11031",
+  "entityUrl" : "http://dbpedia.org/resource/Kermit_Schaefer",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Kermit_Schaefer) dbo:birthDate o'<1914-3-24>",
+    "2" : "s(Kermit_Schaefer) dbo:deathDate o'<1979-3-8>",
+    "3" : "s(Kermit_Schaefer) dbo:imdbId o'<0769786>",
+    "4" : "s(Kermit_Schaefer) dbp:name o'<Kermit Schafer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11032",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Eikenberry",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Ken_Eikenberry) dbo:almaMater o'<Washington_State_University>",
+    "2" : "s(Ken_Eikenberry) dbo:almaMater o'<Wenatchee_Valley_College>",
+    "3" : "s(Ken_Eikenberry) dbo:almaMater o'<University_of_Washington_School_of_Law>",
+    "4" : "s(Ken_Eikenberry) dbo:birthDate o'<1932-06-29>",
+    "5" : "s(Ken_Eikenberry) dbo:birthDate o'<1932-6-29>",
+    "6" : "s(Ken_Eikenberry) dbo:birthPlace o'<United_States>",
+    "7" : "s(Ken_Eikenberry) dbo:birthPlace o'<Wenatchee,_Washington>",
+    "8" : "s(Ken_Eikenberry) dbo:birthPlace o'<Washington_(state)>",
+    "9" : "s(Ken_Eikenberry) dbo:governor o'<Booth_Gardner>",
+    "10" : "s(Ken_Eikenberry) dbo:governor o'<John_Spellman>",
+    "11" : "s(Ken_Eikenberry) dbo:office o'<Attorney General of Washington>",
+    "12" : "s(Ken_Eikenberry) dbo:party o'<Republican_Party_(United_States)>",
+    "13" : "s(Ken_Eikenberry) dbo:predecessor o'<Slade_Gorton>",
+    "14" : "s(Ken_Eikenberry) dbo:successor o'<Christine_Gregoire>",
+    "15" : "s(Ken_Eikenberry) dbo:termPeriod o'<Ken_Eikenberry__1>",
+    "16" : "s(Ken_Eikenberry) dbp:spouse o'<Beverly>",
+    "17" : "s(Ken_Eikenberry) dbp:title o'<List_of_Attorneys_General_of_Washington>",
+    "18" : "s(Ken_Eikenberry) dbp:title o'<Republican nominee for Governor of Washington>",
+    "19" : "s(Ken_Eikenberry) dbp:years o'<1981>",
+    "20" : "s(Ken_Eikenberry) dbp:years o'<1992>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ken eikenberry=Ken_Eikenberry) [succeeded ] o'<slade gorton=Slade_Gorton>",
+    "7" : "s(ken eikenberry=Ken_Eikenberry) [served elected ] o'<washington state=Washington_(state)>",
+    "8" : "s(ken eikenberry=Ken_Eikenberry) [endorsed clint didier for ] o'<senate=United_States>",
+    "9" : "s(ken eikenberry=Ken_Eikenberry) [seen on tv ] o'<washington=Washington_(state)>"
+  },
+  "abstract" : {
+    "3" : "a republican<Republican_Party_(United_States)>, ken eikenberry<Ken_Eikenberry> succeeded slade gorton<Slade_Gorton>, who went on to represent washington<Washington_(state)> in the united states<United_States> the united states<United_States>3\n",
+    "7" : "ken eikenberry<Ken_Eikenberry> also served as the elected chairman of the washington state<Washington_(state)> republican party<Republican_Party_(United_States)> 1977 to june, 1980, and again from 1993 through 1996\n",
+    "8" : "ken eikenberry<Ken_Eikenberry> endorsed clint didier for the senate<United_States> in the 2010 midterm elections\n",
+    "9" : "recently ken eikenberry<Ken_Eikenberry> has been seen on tv in washington<Washington_(state)> urging a \"no\" vote on the washington<Washington_(state)> initiative 522, 2012 on labeling of genetically-engineered foods\n"
+  }
+}, {
+  "entityIndex" : "entity11033",
+  "entityUrl" : "http://dbpedia.org/resource/Kuo_Ping-Wen",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Kuo_Ping-Wen) dbo:birthDate o'<1880-1-1>",
+    "2" : "s(Kuo_Ping-Wen) dbo:deathDate o'<1969-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

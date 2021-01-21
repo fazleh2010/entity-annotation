@@ -1,0 +1,57 @@
+[ {
+  "entityIndex" : "entity10816",
+  "entityUrl" : "http://dbpedia.org/resource/(_)_(film)",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s((_)_(film)) dbo:cinematography o'<Morgan_Fisher_(artist)>",
+    "2" : "s((_)_(film)) dbo:director o'<Morgan_Fisher_(artist)>",
+    "3" : "s((_)_(film)) dbo:imdbId o'<0403827>",
+    "4" : "s((_)_(film)) dbo:producer o'<Morgan_Fisher_(artist)>",
+    "5" : "s((_)_(film)) dbo:runtime o'<21.0>",
+    "6" : "s((_)_(film)) dbo:runtime o'<1260.0>",
+    "7" : "s((_)_(film)) dbo:writer o'<Morgan_Fisher_(artist)>",
+    "8" : "s((_)_(film)) dbp:country o'<United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10817",
+  "entityUrl" : "http://dbpedia.org/resource/(Untitled)_(film)",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s((Untitled)_(film)) dbo:wikiPageRedirects o'<(Untitled)_(2009_film)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10818",
+  "entityUrl" : "http://dbpedia.org/resource/(Sex)_Appeal",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s((Sex)_Appeal) dbo:cinematography o'<Mark_Lee_Ping_Bin>",
+    "2" : "s((Sex)_Appeal) dbo:runtime o'<109.0>",
+    "3" : "s((Sex)_Appeal) dbo:runtime o'<6540.0>",
+    "4" : "s((Sex)_Appeal) dbo:starring o'<Alyssa_Chia>",
+    "5" : "s((Sex)_Appeal) dbo:starring o'<Leon_Dai>",
+    "6" : "s((Sex)_Appeal) dbo:starring o'<Amber_Kuo>",
+    "7" : "s((Sex)_Appeal) dbo:starring o'<Vivian_Hsu>",
+    "8" : "s((Sex)_Appeal) dbp:adaptedTo o'<Megan_Zheng>",
+    "9" : "s((Sex)_Appeal) dbp:country o'<China>",
+    "10" : "s((Sex)_Appeal) dbp:country o'<Taiwan>",
+    "11" : "s((Sex)_Appeal) dbp:director o'<Wang Wei-ming>",
+    "12" : "s((Sex)_Appeal) dbp:editing o'<Man Chi-ming>",
+    "13" : "s((Sex)_Appeal) dbp:language o'<Mandarin>",
+    "14" : "s((Sex)_Appeal) dbp:music o'<Annie Lo>",
+    "15" : "s((Sex)_Appeal) dbp:producer o'<Hsu Hsiao-ming>",
+    "16" : "s((Sex)_Appeal) dbp:screenplay o'<Hsu Kun-hua>",
+    "17" : "s((Sex)_Appeal) dbp:story o'<Wang Wei-ming>",
+    "18" : "s((Sex)_Appeal) dbp:studio o'<Arong Co.,Ltd>",
+    "19" : "s((Sex)_Appeal) dbp:studio o'<Guangdong 21St Century Media Co.,Ltd>",
+    "20" : "s((Sex)_Appeal) dbp:studio o'<Kuli Film Co.,Ltd>",
+    "21" : "s((Sex)_Appeal) dbp:studio o'<Le Vision Pictures  Co.,Ltd>",
+    "22" : "s((Sex)_Appeal) dbp:studio o'<Stellar Mega Films Limited>",
+    "23" : "s((Sex)_Appeal) dbp:studio o'<Taiwan Pictures Co.,Ltd>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

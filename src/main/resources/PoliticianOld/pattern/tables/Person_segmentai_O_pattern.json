@@ -1,0 +1,108 @@
+[ {
+  "entityIndex" : "entity11217",
+  "entityUrl" : "http://dbpedia.org/resource/Orinda_Dale_Evans",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Orinda_Dale_Evans) dbo:birthDate o'<1943-1-1>",
+    "2" : "s(Orinda_Dale_Evans) dbp:title o'<Judge of the United States District Court for the Northern District of Georgia>",
+    "3" : "s(Orinda_Dale_Evans) dbp:years o'<1979>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11218",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_I,_Count_of_Burgundy",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Otto_I,_Count_of_Burgundy) dbo:birthDate o'<1171-1-1>",
+    "2" : "s(Otto_I,_Count_of_Burgundy) dbo:deathDate o'<1200-01-13>",
+    "3" : "s(Otto_I,_Count_of_Burgundy) dbo:deathDate o'<1200-1-13>",
+    "4" : "s(Otto_I,_Count_of_Burgundy) dbo:deathPlace o'<BesanÃ§on>",
+    "5" : "s(Otto_I,_Count_of_Burgundy) dbo:parent o'<Beatrice_I,_Countess_of_Burgundy>",
+    "6" : "s(Otto_I,_Count_of_Burgundy) dbo:parent o'<Frederick_I,_Holy_Roman_Emperor>",
+    "7" : "s(Otto_I,_Count_of_Burgundy) dbo:placeOfBurial o'<Citadel_of_BesanÃ§on>",
+    "8" : "s(Otto_I,_Count_of_Burgundy) dbo:spouse o'<Margaret,_Countess_of_Blois>",
+    "9" : "s(Otto_I,_Count_of_Burgundy) dbo:title o'<Count of Burgundy>",
+    "10" : "s(Otto_I,_Count_of_Burgundy) dbp:birthDate o'<Between 1167 and 1171>",
+    "11" : "s(Otto_I,_Count_of_Burgundy) dbp:issue o'<Joanna_I,_Countess_of_Burgundy>",
+    "12" : "s(Otto_I,_Count_of_Burgundy) dbp:issue o'<Beatrice_II,_Countess_of_Burgundy>",
+    "13" : "s(Otto_I,_Count_of_Burgundy) dbp:nobleFamily o'<Hohenstaufen_Dynasty>",
+    "14" : "s(Otto_I,_Count_of_Burgundy) dbp:title o'<Count_of_Luxemburg>",
+    "15" : "s(Otto_I,_Count_of_Burgundy) dbp:title o'<List_of_counts_of_Burgundy>",
+    "16" : "s(Otto_I,_Count_of_Burgundy) dbp:years o'<1190>",
+    "17" : "s(Otto_I,_Count_of_Burgundy) dbp:years o'<1196>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11219",
+  "entityUrl" : "http://dbpedia.org/resource/Odon_Marie_Ars%C3%A8ne_Razanakolona",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11220",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_W._Frey",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Oliver_W._Frey) dbo:almaMater o'<College_of_William_&_Mary>",
+    "2" : "s(Oliver_W._Frey) dbo:almaMater o'<University_of_Pennsylvania_Law_School>",
+    "3" : "s(Oliver_W._Frey) dbo:battle o'<World_War_I>",
+    "4" : "s(Oliver_W._Frey) dbo:birthDate o'<1887-09-07>",
+    "5" : "s(Oliver_W._Frey) dbo:birthDate o'<1887-9-7>",
+    "6" : "s(Oliver_W._Frey) dbo:birthPlace o'<Pennsylvania>",
+    "7" : "s(Oliver_W._Frey) dbo:birthPlace o'<Quakertown,_Pennsylvania>",
+    "8" : "s(Oliver_W._Frey) dbo:country o'<United_States>",
+    "9" : "s(Oliver_W._Frey) dbo:deathDate o'<1939-08-26>",
+    "10" : "s(Oliver_W._Frey) dbo:deathDate o'<1939-8-26>",
+    "11" : "s(Oliver_W._Frey) dbo:deathPlace o'<Allentown,_Pennsylvania>",
+    "12" : "s(Oliver_W._Frey) dbo:militaryBranch o'<United_States_Army>",
+    "13" : "s(Oliver_W._Frey) dbo:party o'<Democratic_Party_(United_States)>",
+    "14" : "s(Oliver_W._Frey) dbo:region o'<Pennsylvania's_9th_congressional_district>",
+    "15" : "s(Oliver_W._Frey) dbo:termPeriod o'<Oliver_W._Frey__1>",
+    "16" : "s(Oliver_W._Frey) dbp:after o'<Charles_L._Gerlach>",
+    "17" : "s(Oliver_W._Frey) dbp:before o'<Henry_Winfield_Watson>",
+    "18" : "s(Oliver_W._Frey) dbp:district o'<9>",
+    "19" : "s(Oliver_W._Frey) dbp:preceded o'<Henry_Winfield_Watson>",
+    "20" : "s(Oliver_W._Frey) dbp:rank o'<First Lieutenant>",
+    "21" : "s(Oliver_W._Frey) dbp:state o'<Pennsylvania>",
+    "22" : "s(Oliver_W._Frey) dbp:state o'<Pennsylvania>",
+    "23" : "s(Oliver_W._Frey) dbp:succeeded o'<Charles_L._Gerlach>",
+    "24" : "s(Oliver_W._Frey) dbp:years o'<--11-07>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11221",
+  "entityUrl" : "http://dbpedia.org/resource/Orange_Judd",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Orange_Judd) dbo:birthDate o'<1822-07-26>",
+    "2" : "s(Orange_Judd) dbo:birthDate o'<1822-7-26>",
+    "3" : "s(Orange_Judd) dbo:birthYear o'<1822>",
+    "4" : "s(Orange_Judd) dbo:deathDate o'<1892-12-27>",
+    "5" : "s(Orange_Judd) dbo:deathPlace o'<Evanston,_Illinois>",
+    "6" : "s(Orange_Judd) dbo:deathYear o'<1892>",
+    "7" : "s(Orange_Judd) dbo:education o'<Wesleyan_University>",
+    "8" : "s(Orange_Judd) dbo:occupation o'<Orange_Judd__1>",
+    "9" : "s(Orange_Judd) dbp:children o'<4>",
+    "10" : "s(Orange_Judd) dbp:children o'<& 4 by Harriet>",
+    "11" : "s(Orange_Judd) dbp:imageSize o'<250>",
+    "12" : "s(Orange_Judd) dbp:knownFor o'<Agricultural Publishing>",
+    "13" : "s(Orange_Judd) dbp:nationality o'<American>",
+    "14" : "s(Orange_Judd) dbp:spouse o'<Sarah L. Ford>",
+    "15" : "s(Orange_Judd) dbp:spouse o'<Harriet Stewart>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11222",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Torre",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Oscar_Torre) dbo:birthPlace o'<Miami>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

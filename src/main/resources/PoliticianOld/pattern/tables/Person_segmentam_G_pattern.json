@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity11819",
+  "entityUrl" : "http://dbpedia.org/resource/Gheorghe_Falc%C4%83",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11820",
+  "entityUrl" : "http://dbpedia.org/resource/Guo_Yingqiu",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Guo_Yingqiu) dbo:birthDate o'<1909-1-1>",
+    "2" : "s(Guo_Yingqiu) dbo:deathDate o'<1985-1-1>",
+    "3" : "s(Guo_Yingqiu) dbp:after o'<Yuan_Baohua>",
+    "4" : "s(Guo_Yingqiu) dbp:after o'<Yu_Yichuan>",
+    "5" : "s(Guo_Yingqiu) dbp:after o'<Kuang_Yaming>",
+    "6" : "s(Guo_Yingqiu) dbp:before o'<Cheng_Fangwu>",
+    "7" : "s(Guo_Yingqiu) dbp:before o'<Chen_Geng>",
+    "8" : "s(Guo_Yingqiu) dbp:before o'<Pan_Shu>",
+    "9" : "s(Guo_Yingqiu) dbp:title o'<Governor of Yunnan, China>",
+    "10" : "s(Guo_Yingqiu) dbp:title o'<President  of Renmin University of China>",
+    "11" : "s(Guo_Yingqiu) dbp:title o'<President of Nanjing University>",
+    "12" : "s(Guo_Yingqiu) dbp:years o'<1953>",
+    "13" : "s(Guo_Yingqiu) dbp:years o'<1957>",
+    "14" : "s(Guo_Yingqiu) dbp:years o'<1983>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11821",
+  "entityUrl" : "http://dbpedia.org/resource/Gladys_Ambrose",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Gladys_Ambrose) dbo:birthDate o'<1930-12-28>",
+    "2" : "s(Gladys_Ambrose) dbo:birthPlace o'<Everton,_Liverpool>",
+    "3" : "s(Gladys_Ambrose) dbo:birthPlace o'<Lancashire>",
+    "4" : "s(Gladys_Ambrose) dbo:birthYear o'<1930>",
+    "5" : "s(Gladys_Ambrose) dbo:deathDate o'<1998-07-04>",
+    "6" : "s(Gladys_Ambrose) dbo:deathDate o'<1998-7-4>",
+    "7" : "s(Gladys_Ambrose) dbo:deathPlace o'<Knowsley,_Merseyside>",
+    "8" : "s(Gladys_Ambrose) dbo:deathPlace o'<Merseyside>",
+    "9" : "s(Gladys_Ambrose) dbo:deathYear o'<1998>",
+    "10" : "s(Gladys_Ambrose) dbo:imdbId o'<0024395>",
+    "11" : "s(Gladys_Ambrose) dbo:occupation o'<Gladys_Ambrose__1>",
+    "12" : "s(Gladys_Ambrose) dbp:name o'<Gladys Ambrose>",
+    "13" : "s(Gladys_Ambrose) dbp:spouse o'<Johannes Duiveman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11822",
+  "entityUrl" : "http://dbpedia.org/resource/George_Kleinsinger",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(George_Kleinsinger) dbo:birthDate o'<1914-2-13>",
+    "2" : "s(George_Kleinsinger) dbo:birthPlace o'<San_Bernardino,_California>",
+    "3" : "s(George_Kleinsinger) dbo:country o'<United_States>",
+    "4" : "s(George_Kleinsinger) dbo:deathDate o'<1982-7-28>",
+    "5" : "s(George_Kleinsinger) dbo:deathPlace o'<New_York_City>",
+    "6" : "s(George_Kleinsinger) dbo:imdbId o'<0459151>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11823",
+  "entityUrl" : "http://dbpedia.org/resource/Genevi%C3%A8ve_Cadieux",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11824",
+  "entityUrl" : "http://dbpedia.org/resource/George_Payne_(Freemason)",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(George_Payne_(Freemason)) dbo:birthDate o'<1685-1-1>",
+    "2" : "s(George_Payne_(Freemason)) dbo:birthPlace o'<London>",
+    "3" : "s(George_Payne_(Freemason)) dbo:deathDate o'<1757-1-25>",
+    "4" : "s(George_Payne_(Freemason)) dbo:deathPlace o'<London>",
+    "5" : "s(George_Payne_(Freemason)) dbp:after o'<John_Montagu,_2nd_Duke_of_Montagu>",
+    "6" : "s(George_Payne_(Freemason)) dbp:after o'<John_Theophilus_Desaguliers>",
+    "7" : "s(George_Payne_(Freemason)) dbp:before o'<Anthony_Sayer>",
+    "8" : "s(George_Payne_(Freemason)) dbp:before o'<John Desaguliers>",
+    "9" : "s(George_Payne_(Freemason)) dbp:title o'<Premier_Grand_Lodge_of_England>",
+    "10" : "s(George_Payne_(Freemason)) dbp:years o'<1718>",
+    "11" : "s(George_Payne_(Freemason)) dbp:years o'<1720>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11082",
+  "entityUrl" : "http://dbpedia.org/resource/Tsunehisa_Kimura",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Tsunehisa_Kimura) dbo:birthDate o'<1928-1-1>",
+    "2" : "s(Tsunehisa_Kimura) dbo:birthPlace o'<Osaka>",
+    "3" : "s(Tsunehisa_Kimura) dbo:deathDate o'<2008-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11083",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Ellis_Owen",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Thomas_Ellis_Owen) dbo:birthDate o'<1805-1-1>",
+    "2" : "s(Thomas_Ellis_Owen) dbo:deathDate o'<1862-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11084",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Carvel",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Tom_Carvel) dbo:birthDate o'<1906-07-14>",
+    "2" : "s(Tom_Carvel) dbo:birthDate o'<1906-7-14>",
+    "3" : "s(Tom_Carvel) dbo:birthName o'<Athanasios Thomas Karvelas>",
+    "4" : "s(Tom_Carvel) dbo:birthYear o'<1906>",
+    "5" : "s(Tom_Carvel) dbo:citizenship o'<United_States>",
+    "6" : "s(Tom_Carvel) dbo:deathDate o'<1990-10-21>",
+    "7" : "s(Tom_Carvel) dbo:deathYear o'<1990>",
+    "8" : "s(Tom_Carvel) dbo:ethnicity o'<Greek_people>",
+    "9" : "s(Tom_Carvel) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11085",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Shackelford",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Ted_Shackelford) dbo:activeYearsStartYear o'<1975>",
+    "2" : "s(Ted_Shackelford) dbo:birthDate o'<1946-06-23>",
+    "3" : "s(Ted_Shackelford) dbo:birthDate o'<1946-6-23>",
+    "4" : "s(Ted_Shackelford) dbo:birthName o'<Theodore Tillman Shackelford III>",
+    "5" : "s(Ted_Shackelford) dbo:birthPlace o'<Oklahoma_City,_Oklahoma>",
+    "6" : "s(Ted_Shackelford) dbo:birthPlace o'<Oklahoma_City>",
+    "7" : "s(Ted_Shackelford) dbo:birthYear o'<1946>",
+    "8" : "s(Ted_Shackelford) dbo:imdbId o'<0787114>",
+    "9" : "s(Ted_Shackelford) dbo:occupation o'<Actor>",
+    "10" : "s(Ted_Shackelford) dbo:occupation o'<Ted_Shackelford__1>",
+    "11" : "s(Ted_Shackelford) dbp:id o'<64691>",
+    "12" : "s(Ted_Shackelford) dbp:name o'<Ted Shackelford>",
+    "13" : "s(Ted_Shackelford) dbp:spouse o'<Annett Wolf>",
+    "14" : "s(Ted_Shackelford) dbp:spouse o'<Janis Leverenz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11086",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Willoughby_Newton",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Thomas_Willoughby_Newton) dbo:birthDate o'<1804-1-18>",
+    "2" : "s(Thomas_Willoughby_Newton) dbo:birthPlace o'<Alexandria,_Virginia>",
+    "3" : "s(Thomas_Willoughby_Newton) dbo:deathDate o'<1853-9-22>",
+    "4" : "s(Thomas_Willoughby_Newton) dbo:deathPlace o'<New_York_City>",
+    "5" : "s(Thomas_Willoughby_Newton) dbp:after o'<Robert_Ward_Johnson>",
+    "6" : "s(Thomas_Willoughby_Newton) dbp:before o'<Archibald_Yell>",
+    "7" : "s(Thomas_Willoughby_Newton) dbp:district o'<AL>",
+    "8" : "s(Thomas_Willoughby_Newton) dbp:state o'<Arkansas>",
+    "9" : "s(Thomas_Willoughby_Newton) dbp:years o'<--02-06>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(thomas willoughby newton=Thomas_Willoughby_Newton) [moved to little rock ] o'<arkansas=Arkansas>",
+    "5" : "s(thomas willoughby newton=Thomas_Willoughby_Newton) [became clerk of court ] o'<arkansas=Arkansas>",
+    "8" : "s(thomas willoughby newton=Thomas_Willoughby_Newton) [ran for seat in ] o'<arkansas=Arkansas>"
+  },
+  "abstract" : {
+    "4" : "thomas willoughby newton<Thomas_Willoughby_Newton> moved to little rock, arkansas<Arkansas> in 1820\n",
+    "5" : "in 1825 thomas willoughby newton<Thomas_Willoughby_Newton> became clerk of the court of pulaski county, arkansas<Arkansas> and served for four years\n",
+    "8" : "in 1844 thomas willoughby newton<Thomas_Willoughby_Newton> ran for a seat in the arkansas<Arkansas> state senate and was elected as a whig\n"
+  }
+}, {
+  "entityIndex" : "entity11087",
+  "entityUrl" : "http://dbpedia.org/resource/Tite_Kubo",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Tite_Kubo) dbo:birthDate o'<1977-6-26>",
+    "2" : "s(Tite_Kubo) dbo:birthPlace o'<Hiroshima_Prefecture>",
+    "3" : "s(Tite_Kubo) dbp:area o'<Mangaka>",
+    "4" : "s(Tite_Kubo) dbp:birthDate o'<1977-06-26>",
+    "5" : "s(Tite_Kubo) dbp:birthPlace o'<Hiroshima, Japan>",
+    "6" : "s(Tite_Kubo) dbp:nameNonen o'<ä¹…ä¿� å¸¯äºº>",
+    "7" : "s(Tite_Kubo) dbp:notableWorks o'<Bleach>",
+    "8" : "s(Tite_Kubo) dbp:notableWorks o'<Zombiepowder.>",
+    "9" : "s(Tite_Kubo) dbp:spouse o'<unknown>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

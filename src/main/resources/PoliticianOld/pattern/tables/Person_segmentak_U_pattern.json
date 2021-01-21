@@ -1,0 +1,62 @@
+[ {
+  "entityIndex" : "entity11578",
+  "entityUrl" : "http://dbpedia.org/resource/Urunboi_Ushturov",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Urunboi_Ushturov) dbo:birthDate o'<1903-1-1>",
+    "2" : "s(Urunboi_Ushturov) dbo:deathDate o'<1938-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11579",
+  "entityUrl" : "http://dbpedia.org/resource/Ume_Kenjir%C5%8D",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11580",
+  "entityUrl" : "http://dbpedia.org/resource/Ursula_Lingen",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Ursula_Lingen) dbo:birthDate o'<1928-2-9>",
+    "2" : "s(Ursula_Lingen) dbo:birthPlace o'<Berlin>",
+    "3" : "s(Ursula_Lingen) dbo:deathDate o'<2014-10-20>",
+    "4" : "s(Ursula_Lingen) dbo:deathPlace o'<Vienna>",
+    "5" : "s(Ursula_Lingen) dbo:imdbId o'<0512779>",
+    "6" : "s(Ursula_Lingen) dbp:name o'<Ursula Lingen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11581",
+  "entityUrl" : "http://dbpedia.org/resource/Uco_van_Wijk",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Uco_van_Wijk) dbo:birthDate o'<1924-5-20>",
+    "2" : "s(Uco_van_Wijk) dbo:deathDate o'<1966-8-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11582",
+  "entityUrl" : "http://dbpedia.org/resource/Uriah_Duffy",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Uriah_Duffy) dbo:birthDate o'<1975-7-31>",
+    "2" : "s(Uriah_Duffy) dbo:birthPlace o'<Wakefield>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11583",
+  "entityUrl" : "http://dbpedia.org/resource/Uche_Okeke",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Uche_Okeke) dbo:birthDate o'<1933-4-30>",
+    "2" : "s(Uche_Okeke) dbo:deathDate o'<2016-1-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

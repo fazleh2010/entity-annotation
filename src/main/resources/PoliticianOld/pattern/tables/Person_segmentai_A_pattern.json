@@ -1,0 +1,77 @@
+[ {
+  "entityIndex" : "entity11133",
+  "entityUrl" : "http://dbpedia.org/resource/Ali_Rahimi",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11134",
+  "entityUrl" : "http://dbpedia.org/resource/Angela_Bloomfield",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Angela_Bloomfield) dbo:birthDate o'<1972-12-11>",
+    "2" : "s(Angela_Bloomfield) dbo:birthName o'<Angela Bloomfield>",
+    "3" : "s(Angela_Bloomfield) dbo:birthPlace o'<New_Zealand>",
+    "4" : "s(Angela_Bloomfield) dbo:birthYear o'<1972>",
+    "5" : "s(Angela_Bloomfield) dbo:occupation o'<Actress>",
+    "6" : "s(Angela_Bloomfield) dbo:occupation o'<Angela_Bloomfield__1>",
+    "7" : "s(Angela_Bloomfield) dbo:occupation o'<Television_director>",
+    "8" : "s(Angela_Bloomfield) dbp:spouse o'<Chris Houston>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11135",
+  "entityUrl" : "http://dbpedia.org/resource/Ali_Hariri",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Ali_Hariri) dbo:birthDate o'<1009-1-1>",
+    "2" : "s(Ali_Hariri) dbo:birthPlace o'<Åžemdinli>",
+    "3" : "s(Ali_Hariri) dbo:deathDate o'<1079-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11136",
+  "entityUrl" : "http://dbpedia.org/resource/Ahimaaz_ben_Paltiel",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Ahimaaz_ben_Paltiel) dbo:birthDate o'<1017-1-1>",
+    "2" : "s(Ahimaaz_ben_Paltiel) dbo:birthPlace o'<Capua>",
+    "3" : "s(Ahimaaz_ben_Paltiel) dbo:deathDate o'<1060-1-1>",
+    "4" : "s(Ahimaaz_ben_Paltiel) dbo:deathPlace o'<Oria,_Apulia>",
+    "5" : "s(Ahimaaz_ben_Paltiel) dbp:article o'<Ahimaaz ben Paltiel>",
+    "6" : "s(Ahimaaz_ben_Paltiel) dbp:author o'<Richard Gottheil>",
+    "7" : "s(Ahimaaz_ben_Paltiel) dbp:url o'<view.jsp?artid=986&letter=A>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11137",
+  "entityUrl" : "http://dbpedia.org/resource/Augustus_Abbott",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Augustus_Abbott) dbo:birthDate o'<1804-1-7>",
+    "2" : "s(Augustus_Abbott) dbo:deathDate o'<1867-2-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11138",
+  "entityUrl" : "http://dbpedia.org/resource/Andrew_Adams_(congressman)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Andrew_Adams_(congressman)) dbo:birthDate o'<1736-01-07>",
+    "2" : "s(Andrew_Adams_(congressman)) dbo:birthDate o'<1736-1-7>",
+    "3" : "s(Andrew_Adams_(congressman)) dbo:birthPlace o'<Stratford,_Connecticut>",
+    "4" : "s(Andrew_Adams_(congressman)) dbo:birthYear o'<1736>",
+    "5" : "s(Andrew_Adams_(congressman)) dbo:deathDate o'<1797-11-26>",
+    "6" : "s(Andrew_Adams_(congressman)) dbo:deathPlace o'<Litchfield,_Connecticut>",
+    "7" : "s(Andrew_Adams_(congressman)) dbo:deathYear o'<1797>",
+    "8" : "s(Andrew_Adams_(congressman)) dbo:knownFor o'<Articles_of_Confederation>",
+    "9" : "s(Andrew_Adams_(congressman)) dbo:restingPlace o'<Litchfield,_Connecticut>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

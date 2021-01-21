@@ -1,0 +1,133 @@
+[ {
+  "entityIndex" : "entity10700",
+  "entityUrl" : "http://dbpedia.org/resource/Jeep",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Jeep) dbo:foundingYear o'<1941>",
+    "2" : "s(Jeep) dbo:keyPerson o'<Sergio_Marchionne>",
+    "3" : "s(Jeep) dbo:owner o'<Fiat_Chrysler_Automobiles>",
+    "4" : "s(Jeep) dbo:owningCompany o'<Fiat_Chrysler_Automobiles>",
+    "5" : "s(Jeep) dbo:parentCompany o'<Chrysler>",
+    "6" : "s(Jeep) dbo:type o'<Division_(business)>",
+    "7" : "s(Jeep) dbp:areaServed o'<Worldwide>",
+    "8" : "s(Jeep) dbp:industry o'<Automotive>",
+    "9" : "s(Jeep) dbp:locationCountry o'<Toledo, Ohio, US>",
+    "10" : "s(Jeep) dbp:logo o'<150>",
+    "11" : "s(Jeep) dbp:products o'<Sport utility vehicles>",
+    "12" : "s(Jeep) dbp:slogan o'<I bought a Jeep>",
+    "13" : "s(Jeep) dbp:slogan o'<I live. I ride. I am Jeep.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10701",
+  "entityUrl" : "http://dbpedia.org/resource/Juventus_F.C.__Juventus_Football_Club_S.p.A.__1",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:assets o'<4.74268339E8>",
+    "2" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:assets o'<5.77558246E8>",
+    "3" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:equity o'<4.4645444E7>",
+    "4" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:equity o'<5.3383558E7>",
+    "5" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:foundationPlace o'<Turin>",
+    "6" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:foundingDate o'<1967-07-27>",
+    "7" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:foundingYear o'<1967>",
+    "8" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:keyPerson o'<Chairman>",
+    "9" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:keyPerson o'<Chief_executive_officer>",
+    "10" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:keyPerson o'<Chief_financial_officer>",
+    "11" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:keyPerson o'<Giuseppe_Marotta>",
+    "12" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:keyPerson o'<Director_of_football>",
+    "13" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:keyPerson o'<Andrea_Agnelli>",
+    "14" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:netIncome o'<4062312.0>",
+    "15" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:numberOfEmployees o'<698>",
+    "16" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:numberOfEmployees o'<785>",
+    "17" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:numberOfEmployees o'<2014>",
+    "18" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:numberOfEmployees o'<2015>",
+    "19" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:operatingIncome o'<2.0214377E7>",
+    "20" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:revenue o'<3.48193885E8>",
+    "21" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:revenue o'<3.87900773E8>",
+    "22" : "s(Juventus_F.C.__Juventus_Football_Club_S.p.A.__1) dbo:type o'<Joint-stock_company>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10702",
+  "entityUrl" : "http://dbpedia.org/resource/Jewel_(supermarket)",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Jewel_(supermarket)) dbo:foundationPlace o'<United_States>",
+    "2" : "s(Jewel_(supermarket)) dbo:foundationPlace o'<Chicago>",
+    "3" : "s(Jewel_(supermarket)) dbo:foundationPlace o'<Illinois>",
+    "4" : "s(Jewel_(supermarket)) dbo:foundingYear o'<1899>",
+    "5" : "s(Jewel_(supermarket)) dbo:industry o'<Retailing>",
+    "6" : "s(Jewel_(supermarket)) dbo:location o'<United_States>",
+    "7" : "s(Jewel_(supermarket)) dbo:location o'<Illinois>",
+    "8" : "s(Jewel_(supermarket)) dbo:location o'<Itasca,_Illinois>",
+    "9" : "s(Jewel_(supermarket)) dbo:numberOfLocations o'<185>",
+    "10" : "s(Jewel_(supermarket)) dbo:parentCompany o'<Albertsons>",
+    "11" : "s(Jewel_(supermarket)) dbo:product o'<Supermarket>",
+    "12" : "s(Jewel_(supermarket)) dbo:type o'<Subsidiary>",
+    "13" : "s(Jewel_(supermarket)) dbp:date o'<February 2014>",
+    "14" : "s(Jewel_(supermarket)) dbp:keyPeople o'<Mike Withers, President>",
+    "15" : "s(Jewel_(supermarket)) dbp:logo o'<225>",
+    "16" : "s(Jewel_(supermarket)) dbp:reason o'<cited article doesn't really address this>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10703",
+  "entityUrl" : "http://dbpedia.org/resource/Jockey_Club",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Jockey_Club) dbo:foundingYear o'<1750>",
+    "2" : "s(Jockey_Club) dbo:industry o'<Leisure>",
+    "3" : "s(Jockey_Club) dbo:industry o'<Horse_racing>",
+    "4" : "s(Jockey_Club) dbo:numberOfEmployees o'<500>",
+    "5" : "s(Jockey_Club) dbo:regionServed o'<United_Kingdom>",
+    "6" : "s(Jockey_Club) dbo:revenue o'<150.3>",
+    "7" : "s(Jockey_Club) dbo:type o'<Private_company>",
+    "8" : "s(Jockey_Club) dbp:divisions o'<Jockey Club Racecourses, Jockey Club Estates, The National Stud, Racing Welfare>",
+    "9" : "s(Jockey_Club) dbp:imageCaption o'<The Jockey Club Rooms in Newmarket, UK>",
+    "10" : "s(Jockey_Club) dbp:locationCountry o'<75>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10704",
+  "entityUrl" : "http://dbpedia.org/resource/Jowett",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Jowett) dbo:wikiPageRedirects o'<Jowett_Cars>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10705",
+  "entityUrl" : "http://dbpedia.org/resource/Jaguar_Cars",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Jaguar_Cars) dbo:fate o'<1966: Merged withBritish Motor Corporation>",
+    "2" : "s(Jaguar_Cars) dbo:fate o'<1968: Merged withBritish Leyland>",
+    "3" : "s(Jaguar_Cars) dbo:fate o'<1984: Demerged>",
+    "4" : "s(Jaguar_Cars) dbo:fate o'<1989: Taken over byFord>",
+    "5" : "s(Jaguar_Cars) dbo:fate o'<2008: Sold toTata Motors>",
+    "6" : "s(Jaguar_Cars) dbo:fate o'<1945:SS Cars Limitedchanged its name to Jaguar Cars Limited>",
+    "7" : "s(Jaguar_Cars) dbo:foundedBy o'<William_Walmsley>",
+    "8" : "s(Jaguar_Cars) dbo:foundedBy o'<William_Lyons>",
+    "9" : "s(Jaguar_Cars) dbo:foundingYear o'<1922>",
+    "10" : "s(Jaguar_Cars) dbo:industry o'<Automobile>",
+    "11" : "s(Jaguar_Cars) dbo:keyPerson o'<Ralf_Speth>",
+    "12" : "s(Jaguar_Cars) dbo:keyPerson o'<Cyrus_P._Mistry>",
+    "13" : "s(Jaguar_Cars) dbo:locationCity o'<Whitley,_Coventry>",
+    "14" : "s(Jaguar_Cars) dbo:numberOfEmployees o'<10000>",
+    "15" : "s(Jaguar_Cars) dbo:owner o'<Tata_Motors>",
+    "16" : "s(Jaguar_Cars) dbo:owningCompany o'<Tata_Motors>",
+    "17" : "s(Jaguar_Cars) dbo:parentCompany o'<Jaguar_Land_Rover>",
+    "18" : "s(Jaguar_Cars) dbo:product o'<Luxury_vehicles>",
+    "19" : "s(Jaguar_Cars) dbo:type o'<Jaguar_Land_Rover>",
+    "20" : "s(Jaguar_Cars) dbp:locationCountry o'<United Kingdom>",
+    "21" : "s(Jaguar_Cars) dbp:logo o'<250>",
+    "22" : "s(Jaguar_Cars) dbp:slogan o'<How Alive Are You?>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

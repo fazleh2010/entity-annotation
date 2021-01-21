@@ -1,0 +1,53 @@
+[ {
+  "entityIndex" : "entity11363",
+  "entityUrl" : "http://dbpedia.org/resource/Lovell_Phillips",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11364",
+  "entityUrl" : "http://dbpedia.org/resource/Linn_Stalsberg",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Linn_Stalsberg) dbo:birthDate o'<1971-9-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11365",
+  "entityUrl" : "http://dbpedia.org/resource/Lance_Ringnald",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11366",
+  "entityUrl" : "http://dbpedia.org/resource/Leonard_Sarason",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Leonard_Sarason) dbo:birthDate o'<1925-1-1>",
+    "2" : "s(Leonard_Sarason) dbo:deathDate o'<1998-1-1>",
+    "3" : "s(Leonard_Sarason) dbo:soundRecording o'<Leonard_Sarason__1>",
+    "4" : "s(Leonard_Sarason) dbp:format o'<Ogg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11367",
+  "entityUrl" : "http://dbpedia.org/resource/Lakshmi_Rebecca",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Lakshmi_Rebecca) dbp:almaMater o'<Sheffield_Hallam_University>",
+    "2" : "s(Lakshmi_Rebecca) dbp:organization o'<Red Bangle>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11368",
+  "entityUrl" : "http://dbpedia.org/resource/Ladduram_Kori",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

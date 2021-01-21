@@ -1,0 +1,140 @@
+[ {
+  "entityIndex" : "entity10672",
+  "entityUrl" : "http://dbpedia.org/resource/Fearless_(1993_film)",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(Fearless_(1993_film)) dbo:cinematography o'<Allen_Daviau>",
+    "2" : "s(Fearless_(1993_film)) dbo:director o'<Peter_Weir>",
+    "3" : "s(Fearless_(1993_film)) dbo:distributor o'<Warner_Bros.>",
+    "4" : "s(Fearless_(1993_film)) dbo:editing o'<William_M._Anderson>",
+    "5" : "s(Fearless_(1993_film)) dbo:editing o'<Lee_Smith_(editor)>",
+    "6" : "s(Fearless_(1993_film)) dbo:editing o'<Armen_Minasian>",
+    "7" : "s(Fearless_(1993_film)) dbo:gross o'<6995302.0>",
+    "8" : "s(Fearless_(1993_film)) dbo:musicComposer o'<Maurice_Jarre>",
+    "9" : "s(Fearless_(1993_film)) dbo:producer o'<Paula_Weinstein>",
+    "10" : "s(Fearless_(1993_film)) dbo:producer o'<Mark_Rosenberg>",
+    "11" : "s(Fearless_(1993_film)) dbo:runtime o'<122.0>",
+    "12" : "s(Fearless_(1993_film)) dbo:runtime o'<7320.0>",
+    "13" : "s(Fearless_(1993_film)) dbo:writer o'<Rafael_Yglesias>",
+    "14" : "s(Fearless_(1993_film)) dbp:country o'<United States>",
+    "15" : "s(Fearless_(1993_film)) dbp:language o'<English>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10673",
+  "entityUrl" : "http://dbpedia.org/resource/Four_Weddings_and_a_Funeral",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(Four_Weddings_and_a_Funeral) dbo:budget o'<2800000.0>",
+    "2" : "s(Four_Weddings_and_a_Funeral) dbo:cinematography o'<Michael_Coulter>",
+    "3" : "s(Four_Weddings_and_a_Funeral) dbo:director o'<Mike_Newell_(director)>",
+    "4" : "s(Four_Weddings_and_a_Funeral) dbo:distributor o'<Rank_Film_Distributors>",
+    "5" : "s(Four_Weddings_and_a_Funeral) dbo:gross o'<2.457E8>",
+    "6" : "s(Four_Weddings_and_a_Funeral) dbo:language o'<British_Sign_Language>",
+    "7" : "s(Four_Weddings_and_a_Funeral) dbo:musicComposer o'<Richard_Rodney_Bennett>",
+    "8" : "s(Four_Weddings_and_a_Funeral) dbo:producer o'<Duncan_Kenworthy>",
+    "9" : "s(Four_Weddings_and_a_Funeral) dbo:runtime o'<117.0>",
+    "10" : "s(Four_Weddings_and_a_Funeral) dbo:runtime o'<7020.0>",
+    "11" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<Andie_MacDowell>",
+    "12" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<Hugh_Grant>",
+    "13" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<Simon_Callow>",
+    "14" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<Corin_Redgrave>",
+    "15" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<Rowan_Atkinson>",
+    "16" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<Charlotte_Coleman>",
+    "17" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<David_Bower>",
+    "18" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<John_Hannah_(actor)>",
+    "19" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<James_Fleet>",
+    "20" : "s(Four_Weddings_and_a_Funeral) dbo:starring o'<Kristin_Scott_Thomas>",
+    "21" : "s(Four_Weddings_and_a_Funeral) dbo:writer o'<Richard_Curtis>",
+    "22" : "s(Four_Weddings_and_a_Funeral) dbp:country o'<United Kingdom>",
+    "23" : "s(Four_Weddings_and_a_Funeral) dbp:editing o'<Jon Gregory>",
+    "24" : "s(Four_Weddings_and_a_Funeral) dbp:id o'<4>",
+    "25" : "s(Four_Weddings_and_a_Funeral) dbp:studio o'<Working_Title_Films>",
+    "26" : "s(Four_Weddings_and_a_Funeral) dbp:studio o'<Film4_Productions>",
+    "27" : "s(Four_Weddings_and_a_Funeral) dbp:studio o'<Polygram_Filmed_Entertainment>",
+    "28" : "s(Four_Weddings_and_a_Funeral) dbp:title o'<Four Weddings and a Funeral>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(four weddings and a funeral=Four_Weddings_and_a_Funeral) [funeral ] o'<british=United_Kingdom>"
+  },
+  "abstract" : {
+    "1" : "four weddings<Four_Weddings_and_a_Funeral> and a funeral is a 1994 british<United_Kingdom> romantic comedy film directed by mike newell<Mike_Newell_(director)>"
+  }
+}, {
+  "entityIndex" : "entity10674",
+  "entityUrl" : "http://dbpedia.org/resource/Final_Fantasy",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(Final_Fantasy) dbp:creator o'<Hironobu_Sakaguchi>",
+    "2" : "s(Final_Fantasy) dbp:developer o'<Square_Enix>",
+    "3" : "s(Final_Fantasy) dbp:firstReleaseDate o'<1987-12-18>",
+    "4" : "s(Final_Fantasy) dbp:firstReleaseVersion o'<Final Fantasy>",
+    "5" : "s(Final_Fantasy) dbp:genre o'<Role-playing_video_game>",
+    "6" : "s(Final_Fantasy) dbp:latestReleaseDate o'<2015-06-23>",
+    "7" : "s(Final_Fantasy) dbp:latestReleaseVersion o'<Final Fantasy XIV: Heavensward>",
+    "8" : "s(Final_Fantasy) dbp:platformOfOrigin o'<Nintendo_Entertainment_System>",
+    "9" : "s(Final_Fantasy) dbp:platforms o'<Arcade_game>",
+    "10" : "s(Final_Fantasy) dbp:platforms o'<GameCube>",
+    "11" : "s(Final_Fantasy) dbp:platforms o'<Nintendo_DS>",
+    "12" : "s(Final_Fantasy) dbp:platforms o'<WonderSwan>",
+    "13" : "s(Final_Fantasy) dbp:platforms o'<Xbox_One>",
+    "14" : "s(Final_Fantasy) dbp:platforms o'<Game_Boy_Advance>",
+    "15" : "s(Final_Fantasy) dbp:platforms o'<Microsoft_Windows>",
+    "16" : "s(Final_Fantasy) dbp:platforms o'<PlayStation_(console)>",
+    "17" : "s(Final_Fantasy) dbp:platforms o'<PlayStation_3>",
+    "18" : "s(Final_Fantasy) dbp:platforms o'<Super_Nintendo_Entertainment_System>",
+    "19" : "s(Final_Fantasy) dbp:platforms o'<IOS>",
+    "20" : "s(Final_Fantasy) dbp:platforms o'<PlayStation_2>",
+    "21" : "s(Final_Fantasy) dbp:platforms o'<PlayStation_4>",
+    "22" : "s(Final_Fantasy) dbp:platforms o'<Android_(operating_system)>",
+    "23" : "s(Final_Fantasy) dbp:platforms o'<Nintendo_3DS>",
+    "24" : "s(Final_Fantasy) dbp:platforms o'<Ouya>",
+    "25" : "s(Final_Fantasy) dbp:platforms o'<Nintendo_Entertainment_System>",
+    "26" : "s(Final_Fantasy) dbp:platforms o'<Wii>",
+    "27" : "s(Final_Fantasy) dbp:platforms o'<Windows_Phone>",
+    "28" : "s(Final_Fantasy) dbp:platforms o'<BlackBerry_OS>",
+    "29" : "s(Final_Fantasy) dbp:platforms o'<Mobile_phone>",
+    "30" : "s(Final_Fantasy) dbp:platforms o'<PlayStation_Vita>",
+    "31" : "s(Final_Fantasy) dbp:platforms o'<PlayStation_Portable>",
+    "32" : "s(Final_Fantasy) dbp:platforms o'<MSX>",
+    "33" : "s(Final_Fantasy) dbp:platforms o'<Xbox_360>",
+    "34" : "s(Final_Fantasy) dbp:publisher o'<Square Enix>",
+    "35" : "s(Final_Fantasy) dbp:spinoffs o'<Kingdom_Hearts>",
+    "36" : "s(Final_Fantasy) dbp:spinoffs o'<Mana series>",
+    "37" : "s(Final_Fantasy) dbp:spinoffs o'<SaGa series>",
+    "38" : "s(Final_Fantasy) dbp:title o'<Final Fantasy>",
+    "39" : "s(Final_Fantasy) dbp:yearOfInception o'<1987>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(final fantasy=Final_Fantasy) [ fainaru fantaj ] o'<hironobu sakaguchi=Hironobu_Sakaguchi>",
+    "4" : "s(final fantasy=Final_Fantasy) [since branched into ] o'<role-playing=Role-playing_video_game>",
+    "12" : "s(final fantasy=Final_Fantasy) [driving force ] o'<square enix's=Square_Enix>"
+  },
+  "abstract" : {
+    "1" : "final fantasy<Final_Fantasy> (ファイナルファンタジー fainaru fantajī) is a science fiction and fantasy media franchise created by hironobu sakaguchi<Hironobu_Sakaguchi>, and developed and owned by square enix<Square_Enix> (formerly square<Square_Enix>)",
+    "4" : "the video game series<Final_Fantasy> has since branched into other genres such as tactical role-playing<Role-playing_video_game>, action role-playing<Role-playing_video_game>, massively multiplayer online role-playing<Role-playing_video_game>, racing, third-person shooter, fighting, and rhythm",
+    "12" : "final fantasy<Final_Fantasy> has been a driving force in the video game industry, and the series has affected square enix's<Square_Enix> business practices and its relationships with other video game developers"
+  }
+}, {
+  "entityIndex" : "entity10675",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Capra__%22Attack_in_the_Pacific_1944_%22__1",
+  "dboClass" : "dbo:Film",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10676",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Capra__%22Here_is_Germany_1945_%22__1",
+  "dboClass" : "dbo:Film",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10677",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Capra__%22Know_Your_Ally_%E2%80%93_Britain_1944_%22__1",
+  "dboClass" : "dbo:Film",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

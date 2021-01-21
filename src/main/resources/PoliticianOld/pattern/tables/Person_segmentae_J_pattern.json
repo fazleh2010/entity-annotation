@@ -1,0 +1,118 @@
+[ {
+  "entityIndex" : "entity11359",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hays_Hammond,_Jr.",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(John_Hays_Hammond,_Jr.) dbo:wikiPageRedirects o'<John_Hays_Hammond_Jr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11360",
+  "entityUrl" : "http://dbpedia.org/resource/John_M._Brockenbrough",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(John_M._Brockenbrough) dbo:birthDate o'<1830-8-1>",
+    "2" : "s(John_M._Brockenbrough) dbo:birthPlace o'<Richmond,_Virginia>",
+    "3" : "s(John_M._Brockenbrough) dbo:deathDate o'<1892-8-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11361",
+  "entityUrl" : "http://dbpedia.org/resource/Jason_Collier",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Jason_Collier) dbo:activeYearsEndYear o'<2005>",
+    "2" : "s(Jason_Collier) dbo:activeYearsStartYear o'<2000>",
+    "3" : "s(Jason_Collier) dbo:birthDate o'<1977-09-08>",
+    "4" : "s(Jason_Collier) dbo:birthDate o'<1977-9-8>",
+    "5" : "s(Jason_Collier) dbo:birthPlace o'<Springfield,_Ohio>",
+    "6" : "s(Jason_Collier) dbo:college o'<Georgia_Tech_Yellow_Jackets_men's_basketball>",
+    "7" : "s(Jason_Collier) dbo:college o'<Indiana_Hoosiers_men's_basketball>",
+    "8" : "s(Jason_Collier) dbo:deathDate o'<2005-10-15>",
+    "9" : "s(Jason_Collier) dbo:deathPlace o'<Cumming,_Georgia>",
+    "10" : "s(Jason_Collier) dbo:draftTeam o'<Milwaukee_Bucks>",
+    "11" : "s(Jason_Collier) dbo:draftYear o'<2000>",
+    "12" : "s(Jason_Collier) dbo:height o'<2.1336>",
+    "13" : "s(Jason_Collier) dbo:termPeriod o'<Jason_Collier__1>",
+    "14" : "s(Jason_Collier) dbo:termPeriod o'<Jason_Collier__2>",
+    "15" : "s(Jason_Collier) dbo:termPeriod o'<Jason_Collier__3>",
+    "16" : "s(Jason_Collier) dbo:weight o'<117.936>",
+    "17" : "s(Jason_Collier) dbo:weight o'<117936.0>",
+    "18" : "s(Jason_Collier) dbp:careerNumber o'<5240>",
+    "19" : "s(Jason_Collier) dbp:careerPosition o'<Center_(basketball)>",
+    "20" : "s(Jason_Collier) dbp:deathDate o'<2005-10-15>",
+    "21" : "s(Jason_Collier) dbp:deathPlace o'<Cumming,_Georgia>",
+    "22" : "s(Jason_Collier) dbp:draftPick o'<15>",
+    "23" : "s(Jason_Collier) dbp:draftRound o'<1>",
+    "24" : "s(Jason_Collier) dbp:heightFt o'<7>",
+    "25" : "s(Jason_Collier) dbp:heightIn o'<0>",
+    "26" : "s(Jason_Collier) dbp:highSchool o'<Catholic_Central_High_School_(Springfield,_Ohio)>",
+    "27" : "s(Jason_Collier) dbp:highlights o'<* McDonald's All-American>",
+    "28" : "s(Jason_Collier) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11362",
+  "entityUrl" : "http://dbpedia.org/resource/John_Bozman_Kerr",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(John_Bozman_Kerr) dbo:birthDate o'<1809-3-5>",
+    "2" : "s(John_Bozman_Kerr) dbo:deathDate o'<1878-1-27>",
+    "3" : "s(John_Bozman_Kerr) dbp:after o'<Joseph_S._Cottman>",
+    "4" : "s(John_Bozman_Kerr) dbp:before o'<John_W._Crisfield>",
+    "5" : "s(John_Bozman_Kerr) dbp:district o'<6>",
+    "6" : "s(John_Bozman_Kerr) dbp:state o'<Maryland>",
+    "7" : "s(John_Bozman_Kerr) dbp:title o'<United_States_Ambassador_to_Nicaragua>",
+    "8" : "s(John_Bozman_Kerr) dbp:years o'<--02-18>",
+    "9" : "s(John_Bozman_Kerr) dbp:years o'<--03-04>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(john bozman kerr=John_Bozman_Kerr) [served member of ] o'<the state=Maryland>",
+    "8" : "s(john bozman kerr=John_Bozman_Kerr) [appointed by president millard ] o'<nicaragua=United_States_Ambassador_to_Nicaragua>"
+  },
+  "abstract" : {
+    "6" : "john bozman kerr<John_Bozman_Kerr> served as a member of the state<Maryland> house of delegates from 1836 until 1838, and later as deputy attorney general for talbot county from 1845 until 1848\n",
+    "8" : "john bozman kerr<John_Bozman_Kerr> was appointed by president millard fillmore chargã© d'affaires to nicaragua<United_States_Ambassador_to_Nicaragua> on march 7, 1851, and served until july 27, 1853\n"
+  }
+}, {
+  "entityIndex" : "entity11363",
+  "entityUrl" : "http://dbpedia.org/resource/John_Smoke_Johnson",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(John_Smoke_Johnson) dbo:birthDate o'<1792-12-1>",
+    "2" : "s(John_Smoke_Johnson) dbo:deathDate o'<1886-8-26>",
+    "3" : "s(John_Smoke_Johnson) dbp:birthDate o'<--12-02>",
+    "4" : "s(John_Smoke_Johnson) dbp:children o'<Mary, Aaron, Joseph, William, Margret, Susannah and George Henry Martin , granddaughter Emily Pauline Johnson>",
+    "5" : "s(John_Smoke_Johnson) dbp:deathDate o'<1886-08-26>",
+    "6" : "s(John_Smoke_Johnson) dbp:name o'<John Smoke Johnson>",
+    "7" : "s(John_Smoke_Johnson) dbp:nativeName o'<Sakayengwaraton>",
+    "8" : "s(John_Smoke_Johnson) dbp:nicknames o'<Smoke Johnson>",
+    "9" : "s(John_Smoke_Johnson) dbp:parents o'<Tekahionwake>",
+    "10" : "s(John_Smoke_Johnson) dbp:spouse o'<Helen Martin>",
+    "11" : "s(John_Smoke_Johnson) dbp:tribe o'<Mohawk_nation>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(john smoke johnson=John_Smoke_Johnson) [december 2 14 1792 ] o'<mohawk=Mohawk_nation>",
+    "3" : "s(john smoke johnson=John_Smoke_Johnson) [influential in ] o'<mohawk=Mohawk_nation>"
+  },
+  "abstract" : {
+    "1" : "john smoke johnson<John_Smoke_Johnson> (december 2 or 14, 1792 â€“ august 26, 1886) or sakayengwaraton (also known as smoke johnson), was a mohawk<Mohawk_nation> leader in canada",
+    "3" : "john smoke johnson<John_Smoke_Johnson> was influential in the mohawk<Mohawk_nation> and british communities of ontario, canada\n"
+  }
+}, {
+  "entityIndex" : "entity11364",
+  "entityUrl" : "http://dbpedia.org/resource/Jagannatha_Dasa_Babaji",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Jagannatha_Dasa_Babaji) dbo:birthDate o'<1776-0-0>",
+    "2" : "s(Jagannatha_Dasa_Babaji) dbo:birthYear o'<1776>",
+    "3" : "s(Jagannatha_Dasa_Babaji) dbo:deathDate o'<1894-0-0>",
+    "4" : "s(Jagannatha_Dasa_Babaji) dbo:religion o'<Gaudiya_Vaishnavism>",
+    "5" : "s(Jagannatha_Dasa_Babaji) dbp:deathDate o'<1894>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

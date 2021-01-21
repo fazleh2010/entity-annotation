@@ -1,0 +1,108 @@
+[ {
+  "entityIndex" : "entity11091",
+  "entityUrl" : "http://dbpedia.org/resource/48_Hours_(TV_series)",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(48_Hours_(TV_series)) dbo:company o'<CBS_News>",
+    "2" : "s(48_Hours_(TV_series)) dbo:format o'<1080i>",
+    "3" : "s(48_Hours_(TV_series)) dbo:format o'<480i>",
+    "4" : "s(48_Hours_(TV_series)) dbo:format o'<720p>",
+    "5" : "s(48_Hours_(TV_series)) dbo:genre o'<News_magazine>",
+    "6" : "s(48_Hours_(TV_series)) dbo:network o'<CBS>",
+    "7" : "s(48_Hours_(TV_series)) dbo:numberOfEpisodes o'<991>",
+    "8" : "s(48_Hours_(TV_series)) dbo:numberOfSeasons o'<29>",
+    "9" : "s(48_Hours_(TV_series)) dbo:presenter o'<Troy_Roberts_(journalist)>",
+    "10" : "s(48_Hours_(TV_series)) dbo:presenter o'<Peter_Van_Sant>",
+    "11" : "s(48_Hours_(TV_series)) dbo:presenter o'<Susan_Spencer>",
+    "12" : "s(48_Hours_(TV_series)) dbo:presenter o'<Maureen_Maher>",
+    "13" : "s(48_Hours_(TV_series)) dbo:presenter o'<Erin_Moriarty>",
+    "14" : "s(48_Hours_(TV_series)) dbo:presenter o'<Richard_Schlesinger_(journalist)>",
+    "15" : "s(48_Hours_(TV_series)) dbo:related o'<60_Minutes>",
+    "16" : "s(48_Hours_(TV_series)) dbo:releaseDate o'<1988-01-19>",
+    "17" : "s(48_Hours_(TV_series)) dbo:runtime o'<42.0>",
+    "18" : "s(48_Hours_(TV_series)) dbo:runtime o'<2520.0>",
+    "19" : "s(48_Hours_(TV_series)) dbp:camera o'<Multi-camera_setup>",
+    "20" : "s(48_Hours_(TV_series)) dbp:country o'<United States>",
+    "21" : "s(48_Hours_(TV_series)) dbp:creator o'<Howard Stringer>",
+    "22" : "s(48_Hours_(TV_series)) dbp:director o'<Rob Klug>",
+    "23" : "s(48_Hours_(TV_series)) dbp:editor o'<Al Briganti>",
+    "24" : "s(48_Hours_(TV_series)) dbp:executiveProducer o'<Susan Zirinsky>",
+    "25" : "s(48_Hours_(TV_series)) dbp:language o'<English>",
+    "26" : "s(48_Hours_(TV_series)) dbp:lastAired o'<present>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11092",
+  "entityUrl" : "http://dbpedia.org/resource/49th_&_Main",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(49th_&_Main) dbo:imdbId o'<0807772>",
+    "2" : "s(49th_&_Main) dbp:title o'<49>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11093",
+  "entityUrl" : "http://dbpedia.org/resource/450,_Chemin_du_Golf",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11094",
+  "entityUrl" : "http://dbpedia.org/resource/4_Square_(TV_series)",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(4_Square_(TV_series)) dbo:completionDate o'<2015-09-06>",
+    "2" : "s(4_Square_(TV_series)) dbo:country o'<Canada>",
+    "3" : "s(4_Square_(TV_series)) dbo:creator o'<Dominique_Jolin>",
+    "4" : "s(4_Square_(TV_series)) dbo:network o'<Treehouse_TV>",
+    "5" : "s(4_Square_(TV_series)) dbo:releaseDate o'<1996-09-16>",
+    "6" : "s(4_Square_(TV_series)) dbo:runtime o'<5.0>",
+    "7" : "s(4_Square_(TV_series)) dbo:runtime o'<30.0>",
+    "8" : "s(4_Square_(TV_series)) dbo:runtime o'<300.0>",
+    "9" : "s(4_Square_(TV_series)) dbo:runtime o'<1800.0>",
+    "10" : "s(4_Square_(TV_series)) dbp:pictureFormat o'<4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11095",
+  "entityUrl" : "http://dbpedia.org/resource/413_Hope_St.",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : {
+    "1" : "s(413_Hope_St.) dbo:company o'<20th_Century_Fox_Television>",
+    "2" : "s(413_Hope_St.) dbo:completionDate o'<1998-01-01>",
+    "3" : "s(413_Hope_St.) dbo:creator o'<Damon_Wayans>",
+    "4" : "s(413_Hope_St.) dbo:creator o'<Dean_Lorey>",
+    "5" : "s(413_Hope_St.) dbo:creator o'<Janine_Sherman>",
+    "6" : "s(413_Hope_St.) dbo:distributor o'<20th_Television>",
+    "7" : "s(413_Hope_St.) dbo:network o'<Fox_Network>",
+    "8" : "s(413_Hope_St.) dbo:numberOfEpisodes o'<10>",
+    "9" : "s(413_Hope_St.) dbo:numberOfSeasons o'<1>",
+    "10" : "s(413_Hope_St.) dbo:releaseDate o'<1997-09-11>",
+    "11" : "s(413_Hope_St.) dbo:runtime o'<60.0>",
+    "12" : "s(413_Hope_St.) dbo:runtime o'<3600.0>",
+    "13" : "s(413_Hope_St.) dbo:starring o'<Dawn_Stern>",
+    "14" : "s(413_Hope_St.) dbo:starring o'<Kelly_Coffield>",
+    "15" : "s(413_Hope_St.) dbo:starring o'<Karim_Prince>",
+    "16" : "s(413_Hope_St.) dbo:starring o'<Shari_Headley>",
+    "17" : "s(413_Hope_St.) dbo:starring o'<Vincent_Laresca>",
+    "18" : "s(413_Hope_St.) dbo:starring o'<Michael_Easton>",
+    "19" : "s(413_Hope_St.) dbo:starring o'<Jesse_L._Martin>",
+    "20" : "s(413_Hope_St.) dbo:starring o'<Richard_Roundtree>",
+    "21" : "s(413_Hope_St.) dbo:starring o'<Stephen_Berra>",
+    "22" : "s(413_Hope_St.) dbp:country o'<United States>",
+    "23" : "s(413_Hope_St.) dbp:language o'<English>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11096",
+  "entityUrl" : "http://dbpedia.org/resource/4Real",
+  "dboClass" : "dbo:TelevisionShow",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

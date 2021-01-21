@@ -1,0 +1,68 @@
+[ {
+  "entityIndex" : "entity11512",
+  "entityUrl" : "http://dbpedia.org/resource/Julia_Weldon",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11513",
+  "entityUrl" : "http://dbpedia.org/resource/Jubal_Brown",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Jubal_Brown) dbo:birthDate o'<1974-0-0>",
+    "2" : "s(Jubal_Brown) dbp:colwidth o'<33>",
+    "3" : "s(Jubal_Brown) dbp:refs o'<*>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11514",
+  "entityUrl" : "http://dbpedia.org/resource/Juan_de_Iriarte",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Juan_de_Iriarte) dbo:birthDate o'<1701-12-15>",
+    "2" : "s(Juan_de_Iriarte) dbo:birthPlace o'<Puerto_de_la_Cruz>",
+    "3" : "s(Juan_de_Iriarte) dbo:deathDate o'<1771-8-23>",
+    "4" : "s(Juan_de_Iriarte) dbo:deathPlace o'<Madrid>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11515",
+  "entityUrl" : "http://dbpedia.org/resource/James_Hurtle_Fisher",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(James_Hurtle_Fisher) dbo:birthDate o'<1790-1-1>",
+    "2" : "s(James_Hurtle_Fisher) dbo:birthPlace o'<Sunbury-on-Thames>",
+    "3" : "s(James_Hurtle_Fisher) dbo:deathDate o'<1875-1-28>",
+    "4" : "s(James_Hurtle_Fisher) dbp:title o'<List_of_mayors_and_lord_mayors_of_Adelaide>",
+    "5" : "s(James_Hurtle_Fisher) dbp:years o'<1840>",
+    "6" : "s(James_Hurtle_Fisher) dbp:years o'<1852>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11516",
+  "entityUrl" : "http://dbpedia.org/resource/John_McKinlay",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(John_McKinlay) dbo:birthDate o'<1819-8-26>",
+    "2" : "s(John_McKinlay) dbo:birthPlace o'<Scotland>",
+    "3" : "s(John_McKinlay) dbo:deathDate o'<1872-12-31>",
+    "4" : "s(John_McKinlay) dbo:deathPlace o'<Gawler,_South_Australia>",
+    "5" : "s(John_McKinlay) dbp:id o'<McKinlay,+John>",
+    "6" : "s(John_McKinlay) dbp:name o'<John McKinlay>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11517",
+  "entityUrl" : "http://dbpedia.org/resource/Jimmy_Edwards_(American_football)",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Jimmy_Edwards_(American_football)) dbo:wikiPageRedirects o'<Jimmy_Edwards_(gridiron_football)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

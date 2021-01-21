@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity10779",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Ortiz",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Xavier_Ortiz) dbo:imdbId o'<0651152>",
+    "2" : "s(Xavier_Ortiz) dbp:name o'<Javier Ortiz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10780",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Hailiang",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Xiao_Hailiang) dbo:birthDate o'<1977-1-24>",
+    "2" : "s(Xiao_Hailiang) dbo:birthPlace o'<Wuhan>",
+    "3" : "s(Xiao_Hailiang) dbp:c o'<è‚–æµ·äº®>",
+    "4" : "s(Xiao_Hailiang) dbp:p o'<XiÃ o HÇŽiliÃ ng>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10781",
+  "entityUrl" : "http://dbpedia.org/resource/Ximena_Restrepo",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ximena_Restrepo) dbo:birthDate o'<1969-03-10>",
+    "2" : "s(Ximena_Restrepo) dbo:birthDate o'<1969-3-10>",
+    "3" : "s(Ximena_Restrepo) dbo:birthPlace o'<MedellÃ­n>",
+    "4" : "s(Ximena_Restrepo) dbp:olympics o'<1992>",
+    "5" : "s(Ximena_Restrepo) dbp:sport o'<Women's athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10782",
+  "entityUrl" : "http://dbpedia.org/resource/Xie_Bingying",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Xie_Bingying) dbo:birthDate o'<1906-1-1>",
+    "2" : "s(Xie_Bingying) dbo:birthPlace o'<Hunan>",
+    "3" : "s(Xie_Bingying) dbo:deathDate o'<2000-1-1>",
+    "4" : "s(Xie_Bingying) dbp:p o'<XiÃ¨ BÄ«ngyÃ­ng>",
+    "5" : "s(Xie_Bingying) dbp:t o'<è¬�å†°ç‘©>",
+    "6" : "s(Xie_Bingying) dbp:w o'<Hsieh Ping-ying>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10783",
+  "entityUrl" : "http://dbpedia.org/resource/Xos%C3%A9_Lu%C3%ADs_M%C3%A9ndez_Ferr%C3%ADn",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10784",
+  "entityUrl" : "http://dbpedia.org/resource/Xiomara_Laugart",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

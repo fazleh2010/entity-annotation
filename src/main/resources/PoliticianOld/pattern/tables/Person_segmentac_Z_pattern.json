@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity11118",
+  "entityUrl" : "http://dbpedia.org/resource/Zhao_Guangyin",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11119",
+  "entityUrl" : "http://dbpedia.org/resource/Zeki_Sezer",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Zeki_Sezer) dbo:almaMater o'<Gazi_University>",
+    "2" : "s(Zeki_Sezer) dbo:birthDate o'<1957-04-12>",
+    "3" : "s(Zeki_Sezer) dbo:birthDate o'<1957-4-12>",
+    "4" : "s(Zeki_Sezer) dbo:birthPlace o'<EskiÅŸehir>",
+    "5" : "s(Zeki_Sezer) dbo:birthPlace o'<Turkey>",
+    "6" : "s(Zeki_Sezer) dbo:party o'<Democratic_Left_Party_(Turkey)>",
+    "7" : "s(Zeki_Sezer) dbo:predecessor o'<BÃ¼lent_Ecevit>",
+    "8" : "s(Zeki_Sezer) dbo:profession o'<Politician>",
+    "9" : "s(Zeki_Sezer) dbo:profession o'<Chemical_engineer>",
+    "10" : "s(Zeki_Sezer) dbo:religion o'<Islam>",
+    "11" : "s(Zeki_Sezer) dbo:successor o'<Masum_TÃ¼rker>",
+    "12" : "s(Zeki_Sezer) dbo:termPeriod o'<Zeki_Sezer__1>",
+    "13" : "s(Zeki_Sezer) dbp:after o'<Masum_TÃ¼rker>",
+    "14" : "s(Zeki_Sezer) dbp:before o'<BÃ¼lent_Ecevit>",
+    "15" : "s(Zeki_Sezer) dbp:spouse o'<Ãœlkenur Sezer>",
+    "16" : "s(Zeki_Sezer) dbp:title o'<Demokratik_Sol_Parti>",
+    "17" : "s(Zeki_Sezer) dbp:title o'<Chairman of the Democratic Left Party>",
+    "18" : "s(Zeki_Sezer) dbp:years o'<2004>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "13" : "s(zeki sezer=Zeki_Sezer) [deputy chairman of ] o'<dsp=Democratic_Left_Party_(Turkey)>"
+  },
+  "abstract" : {
+    "13" : "between 2001 and 2004 zeki sezer<Zeki_Sezer> was the deputy chairman of dsp<Democratic_Left_Party_(Turkey)>\n"
+  }
+}, {
+  "entityIndex" : "entity11120",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Xiu_(warlord)",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Zhang_Xiu_(warlord)) dbo:birthDate o'<200-1-1>",
+    "2" : "s(Zhang_Xiu_(warlord)) dbo:deathDate o'<207-1-1>",
+    "3" : "s(Zhang_Xiu_(warlord)) dbp:deathDate o'<207>",
+    "4" : "s(Zhang_Xiu_(warlord)) dbp:imageSize o'<200>",
+    "5" : "s(Zhang_Xiu_(warlord)) dbp:kingdom o'<Han_Dynasty>",
+    "6" : "s(Zhang_Xiu_(warlord)) dbp:name o'<Zhang Xiu>",
+    "7" : "s(Zhang_Xiu_(warlord)) dbp:pinyin o'<ZhÄ�ng XiÃ¹>",
+    "8" : "s(Zhang_Xiu_(warlord)) dbp:post o'<Marquis Ding>",
+    "9" : "s(Zhang_Xiu_(warlord)) dbp:simp o'<å¼ ç»£>",
+    "10" : "s(Zhang_Xiu_(warlord)) dbp:title o'<Warlord>",
+    "11" : "s(Zhang_Xiu_(warlord)) dbp:trad o'<å¼µç¹¡>",
+    "12" : "s(Zhang_Xiu_(warlord)) dbp:wg o'<Chang Hsiu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11121",
+  "entityUrl" : "http://dbpedia.org/resource/Zaki_Badawi",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Zaki_Badawi) dbo:birthDate o'<1922-1-14>",
+    "2" : "s(Zaki_Badawi) dbo:birthPlace o'<Egypt>",
+    "3" : "s(Zaki_Badawi) dbo:deathDate o'<2006-1-24>",
+    "4" : "s(Zaki_Badawi) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11122",
+  "entityUrl" : "http://dbpedia.org/resource/Zdzis%C5%82aw_Kaczmarczyk",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11123",
+  "entityUrl" : "http://dbpedia.org/resource/Zwelinzima_Vavi",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Zwelinzima_Vavi) dbo:birthDate o'<1962-12-20>",
+    "2" : "s(Zwelinzima_Vavi) dbo:birthPlace o'<Hanover,_South_Africa>",
+    "3" : "s(Zwelinzima_Vavi) dbo:birthPlace o'<Hanover,_Northern_Cape>",
+    "4" : "s(Zwelinzima_Vavi) dbo:birthPlace o'<Northern_Cape>",
+    "5" : "s(Zwelinzima_Vavi) dbo:birthYear o'<1962>",
+    "6" : "s(Zwelinzima_Vavi) dbo:occupation o'<Zwelinzima_Vavi__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

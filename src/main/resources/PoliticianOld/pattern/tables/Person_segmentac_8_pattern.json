@@ -1,0 +1,29 @@
+[ {
+  "entityIndex" : "entity11139",
+  "entityUrl" : "http://dbpedia.org/resource/8th_Dalai_Lama",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(8th_Dalai_Lama) dbo:birthDate o'<1758-1-1>",
+    "2" : "s(8th_Dalai_Lama) dbo:birthPlace o'<Ngamring_County>",
+    "3" : "s(8th_Dalai_Lama) dbo:deathDate o'<1804-1-1>",
+    "4" : "s(8th_Dalai_Lama) dbo:deathPlace o'<Lhasa_(prefecture-level_city)>",
+    "5" : "s(8th_Dalai_Lama) dbp:birthDate o'<1758>",
+    "6" : "s(8th_Dalai_Lama) dbp:birthPlace o'<Thobgyal, Ãœ-Tsang, Tibet>",
+    "7" : "s(8th_Dalai_Lama) dbp:chinese o'<å¼·ç™½å˜‰æŽª>",
+    "8" : "s(8th_Dalai_Lama) dbp:deathDate o'<1804>",
+    "9" : "s(8th_Dalai_Lama) dbp:deathPlace o'<Tibet>",
+    "10" : "s(8th_Dalai_Lama) dbp:name o'<Jamphel>",
+    "11" : "s(8th_Dalai_Lama) dbp:predecessor o'<7th_Dalai_Lama>",
+    "12" : "s(8th_Dalai_Lama) dbp:reign o'<1762>",
+    "13" : "s(8th_Dalai_Lama) dbp:successor o'<9th_Dalai_Lama>",
+    "14" : "s(8th_Dalai_Lama) dbp:tibetan o'<à½–à¾±à½˜à½¦à¼‹à½¦à¾¤à½ºà½£à¼‹à½¢à¾’à¾±à¼‹à½˜à½šà½¼à¼‹>",
+    "15" : "s(8th_Dalai_Lama) dbp:title o'<8>",
+    "16" : "s(8th_Dalai_Lama) dbp:title o'<Dalai_Lama>",
+    "17" : "s(8th_Dalai_Lama) dbp:transprc o'<QambÃª Gyaco>",
+    "18" : "s(8th_Dalai_Lama) dbp:wylie o'<'jam dpal rgya mtsho>",
+    "19" : "s(8th_Dalai_Lama) dbp:years o'<1762>",
+    "20" : "s(8th_Dalai_Lama) dbp:years o'<Recognized in 1760>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

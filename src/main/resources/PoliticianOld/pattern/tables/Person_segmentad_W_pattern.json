@@ -1,0 +1,146 @@
+[ {
+  "entityIndex" : "entity11273",
+  "entityUrl" : "http://dbpedia.org/resource/William_Phelps_Eno",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(William_Phelps_Eno) dbo:birthDate o'<1858-6-3>",
+    "2" : "s(William_Phelps_Eno) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(William_Phelps_Eno) dbo:deathDate o'<1945-12-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11274",
+  "entityUrl" : "http://dbpedia.org/resource/Wilton_Daniel_Gregory",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Wilton_Daniel_Gregory) dbo:activeYearsStartYear o'<2005>",
+    "2" : "s(Wilton_Daniel_Gregory) dbo:birthDate o'<1947-12-07>",
+    "3" : "s(Wilton_Daniel_Gregory) dbo:birthDate o'<1947-12-7>",
+    "4" : "s(Wilton_Daniel_Gregory) dbo:birthPlace o'<Chicago>",
+    "5" : "s(Wilton_Daniel_Gregory) dbo:nationality o'<United_States>",
+    "6" : "s(Wilton_Daniel_Gregory) dbo:occupation o'<Archbishop>",
+    "7" : "s(Wilton_Daniel_Gregory) dbp:after o'<William_S._Skylstad>",
+    "8" : "s(Wilton_Daniel_Gregory) dbp:after o'<Edward_Kenneth_Braxton>",
+    "9" : "s(Wilton_Daniel_Gregory) dbp:after o'<Incumbent>",
+    "10" : "s(Wilton_Daniel_Gregory) dbp:after o'<&ndash;>",
+    "11" : "s(Wilton_Daniel_Gregory) dbp:appointed o'<2004-12-09>",
+    "12" : "s(Wilton_Daniel_Gregory) dbp:archbishopOf o'<Roman_Catholic_Archdiocese_of_Atlanta>",
+    "13" : "s(Wilton_Daniel_Gregory) dbp:archdiocese o'<Roman_Catholic_Archdiocese_of_Atlanta>",
+    "14" : "s(Wilton_Daniel_Gregory) dbp:before o'<John_Francis_Donoghue>",
+    "15" : "s(Wilton_Daniel_Gregory) dbp:before o'<Joseph_Fiorenza>",
+    "16" : "s(Wilton_Daniel_Gregory) dbp:before o'<James_Patrick_Keleher>",
+    "17" : "s(Wilton_Daniel_Gregory) dbp:before o'<&ndash;>",
+    "18" : "s(Wilton_Daniel_Gregory) dbp:birthPlace o'<Chicago,_Illinois>",
+    "19" : "s(Wilton_Daniel_Gregory) dbp:consecratedBy o'<Joseph Bernardin, Alfred Leo Abramowicz, and Nevin William Hayes>",
+    "20" : "s(Wilton_Daniel_Gregory) dbp:consecration o'<1983-12-13>",
+    "21" : "s(Wilton_Daniel_Gregory) dbp:dipstyle o'<*His Excellency>",
+    "22" : "s(Wilton_Daniel_Gregory) dbp:honorificPrefix o'<The_Most_Reverend>",
+    "23" : "s(Wilton_Daniel_Gregory) dbp:honorificPrefix o'<Excellency>",
+    "24" : "s(Wilton_Daniel_Gregory) dbp:imageSize o'<200>",
+    "25" : "s(Wilton_Daniel_Gregory) dbp:motto o'<WE ARE THE LORD'S>",
+    "26" : "s(Wilton_Daniel_Gregory) dbp:name o'<Wilton Daniel Gregory>",
+    "27" : "s(Wilton_Daniel_Gregory) dbp:offstyle o'<Your_Excellency>",
+    "28" : "s(Wilton_Daniel_Gregory) dbp:ordainedBy o'<John_Cody>",
+    "29" : "s(Wilton_Daniel_Gregory) dbp:ordination o'<1973-05-09>",
+    "30" : "s(Wilton_Daniel_Gregory) dbp:parents o'<Wilton, Sr.; Ethel>",
+    "31" : "s(Wilton_Daniel_Gregory) dbp:predecessor o'<John_Francis_Donoghue>",
+    "32" : "s(Wilton_Daniel_Gregory) dbp:previousPost o'<Roman_Catholic_Diocese_of_Belleville>",
+    "33" : "s(Wilton_Daniel_Gregory) dbp:previousPost o'<Roman_Catholic_Archdiocese_of_Chicago>",
+    "34" : "s(Wilton_Daniel_Gregory) dbp:profession o'<Religious>",
+    "35" : "s(Wilton_Daniel_Gregory) dbp:religion o'<Roman Catholic>",
+    "36" : "s(Wilton_Daniel_Gregory) dbp:relstyle o'<Archbishop>",
+    "37" : "s(Wilton_Daniel_Gregory) dbp:residence o'<Georgia>",
+    "38" : "s(Wilton_Daniel_Gregory) dbp:title o'<Roman_Catholic_Archdiocese_of_Atlanta>",
+    "39" : "s(Wilton_Daniel_Gregory) dbp:title o'<Roman_Catholic_Diocese_of_Belleville>",
+    "40" : "s(Wilton_Daniel_Gregory) dbp:title o'<Roman_Catholic_Archdiocese_of_Chicago>",
+    "41" : "s(Wilton_Daniel_Gregory) dbp:title o'<United_States_Conference_of_Catholic_Bishops>",
+    "42" : "s(Wilton_Daniel_Gregory) dbp:years o'<1983>",
+    "43" : "s(Wilton_Daniel_Gregory) dbp:years o'<1994>",
+    "44" : "s(Wilton_Daniel_Gregory) dbp:years o'<2001>",
+    "45" : "s(Wilton_Daniel_Gregory) dbp:years o'<2005>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(wilton daniel gregory=Wilton_Daniel_Gregory) [born december 7 1947 ] o'<roman catholic church=Roman_Catholic>"
+  },
+  "abstract" : {
+    "1" : "wilton daniel gregory<Wilton_Daniel_Gregory> (born december 7, 1947) is an american prelate of the roman catholic church<Roman_Catholic> who is the archbishop of atlanta<Roman_Catholic_Archdiocese_of_Atlanta>"
+  }
+}, {
+  "entityIndex" : "entity11275",
+  "entityUrl" : "http://dbpedia.org/resource/William_Nelson_Cromwell",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(William_Nelson_Cromwell) dbo:almaMater o'<Columbia_Law_School>",
+    "2" : "s(William_Nelson_Cromwell) dbo:birthDate o'<1854-01-17>",
+    "3" : "s(William_Nelson_Cromwell) dbo:birthDate o'<1854-1-17>",
+    "4" : "s(William_Nelson_Cromwell) dbo:birthPlace o'<Brooklyn>",
+    "5" : "s(William_Nelson_Cromwell) dbo:birthYear o'<1854>",
+    "6" : "s(William_Nelson_Cromwell) dbo:deathDate o'<1948-07-19>",
+    "7" : "s(William_Nelson_Cromwell) dbo:deathDate o'<1948-7-19>",
+    "8" : "s(William_Nelson_Cromwell) dbo:deathYear o'<1948>",
+    "9" : "s(William_Nelson_Cromwell) dbo:employer o'<Sullivan_&_Cromwell>",
+    "10" : "s(William_Nelson_Cromwell) dbo:networth o'<1.5E7>",
+    "11" : "s(William_Nelson_Cromwell) dbo:occupation o'<Lawyer>",
+    "12" : "s(William_Nelson_Cromwell) dbo:occupation o'<William_Nelson_Cromwell__1>",
+    "13" : "s(William_Nelson_Cromwell) dbo:party o'<Republican_Party_(United_States)>",
+    "14" : "s(William_Nelson_Cromwell) dbo:religion o'<Episcopal_Church_in_the_United_States_of_America>",
+    "15" : "s(William_Nelson_Cromwell) dbp:imageSize o'<200>",
+    "16" : "s(William_Nelson_Cromwell) dbp:nationality o'<American>",
+    "17" : "s(William_Nelson_Cromwell) dbp:parents o'<Sarah M. Brokaw and John Nelson Cromwell>",
+    "18" : "s(William_Nelson_Cromwell) dbp:spouse o'<Jennie Osgood Nichols>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11276",
+  "entityUrl" : "http://dbpedia.org/resource/William_Price_Williamson",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(William_Price_Williamson) dbo:birthDate o'<1884-8-0>",
+    "2" : "s(William_Price_Williamson) dbo:deathDate o'<1918-8-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11277",
+  "entityUrl" : "http://dbpedia.org/resource/William_Vaughan_(writer)",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(William_Vaughan_(writer)) dbo:birthDate o'<1575-1-1>",
+    "2" : "s(William_Vaughan_(writer)) dbo:deathDate o'<1641-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11278",
+  "entityUrl" : "http://dbpedia.org/resource/William_Bell_Riley",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(William_Bell_Riley) dbo:birthDate o'<1861-03-22>",
+    "2" : "s(William_Bell_Riley) dbo:birthDate o'<1861-3-22>",
+    "3" : "s(William_Bell_Riley) dbo:birthPlace o'<Greene_County,_Indiana>",
+    "4" : "s(William_Bell_Riley) dbo:birthPlace o'<Indiana>",
+    "5" : "s(William_Bell_Riley) dbo:birthYear o'<1861>",
+    "6" : "s(William_Bell_Riley) dbo:deathDate o'<1947-12-05>",
+    "7" : "s(William_Bell_Riley) dbo:deathDate o'<1947-12-5>",
+    "8" : "s(William_Bell_Riley) dbo:deathPlace o'<Minnesota>",
+    "9" : "s(William_Bell_Riley) dbo:deathPlace o'<Golden_Valley,_Minnesota>",
+    "10" : "s(William_Bell_Riley) dbo:deathYear o'<1947>",
+    "11" : "s(William_Bell_Riley) dbo:philosophicalSchool o'<Baptist>",
+    "12" : "s(William_Bell_Riley) dbo:philosophicalSchool o'<Antievolutionism>",
+    "13" : "s(William_Bell_Riley) dbp:almaMater o'<Southern_Baptist_Theological_Seminary>",
+    "14" : "s(William_Bell_Riley) dbp:sname o'<William Bell Riley>",
+    "15" : "s(William_Bell_Riley) dbp:sopt o'<t>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(william bell riley=William_Bell_Riley) [march 22 1861 in ] o'<greene county=Greene_County,_Indiana>",
+    "3" : "s(william bell riley=William_Bell_Riley) [attended college in hanover ] o'<indiana=Indiana>",
+    "6" : "s(william bell riley=William_Bell_Riley) [graduated from southern ] o'<baptist=Baptist>"
+  },
+  "abstract" : {
+    "1" : "william bell riley<William_Bell_Riley> (march 22, 1861 in greene county<Greene_County,_Indiana>, indiana<Indiana>, usa â€“ december 5, 1947 in golden valley<Golden_Valley,_Minnesota>, minnesota) was known as \"the grand old man of fundamentalism",
+    "3" : "after teaching in county schools, william bell riley<William_Bell_Riley> attended college in hanover, indiana<Indiana>, where william bell riley<William_Bell_Riley> received an a\n",
+    "6" : "in 1888 william bell riley<William_Bell_Riley> graduated from the southern baptist<Baptist> theological seminary in louisville, kentucky\n"
+  }
+} ]

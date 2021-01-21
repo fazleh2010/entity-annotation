@@ -1,0 +1,86 @@
+[ {
+  "entityIndex" : "entity11271",
+  "entityUrl" : "http://dbpedia.org/resource/X_Brands",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(X_Brands) dbo:activeYearsEndYear o'<1957>",
+    "2" : "s(X_Brands) dbo:activeYearsStartYear o'<1957>",
+    "3" : "s(X_Brands) dbo:birthDate o'<1927-07-24>",
+    "4" : "s(X_Brands) dbo:birthDate o'<1927-7-24>",
+    "5" : "s(X_Brands) dbo:birthName o'<Jay X. Brands>",
+    "6" : "s(X_Brands) dbo:birthPlace o'<Kansas_City,_Missouri>",
+    "7" : "s(X_Brands) dbo:birthYear o'<1927>",
+    "8" : "s(X_Brands) dbo:deathDate o'<2000-05-08>",
+    "9" : "s(X_Brands) dbo:deathDate o'<2000-5-8>",
+    "10" : "s(X_Brands) dbo:deathPlace o'<Northridge,_Los_Angeles>",
+    "11" : "s(X_Brands) dbo:deathPlace o'<Northridge,_California>",
+    "12" : "s(X_Brands) dbo:deathYear o'<2000>",
+    "13" : "s(X_Brands) dbo:occupation o'<X_Brands__1>",
+    "14" : "s(X_Brands) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11272",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Beitia",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Xavier_Beitia) dbo:birthDate o'<1982-11-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11273",
+  "entityUrl" : "http://dbpedia.org/resource/Xenarchos",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Xenarchos) dbp:after o'<Archon,_Achaean_League_strategos>",
+    "2" : "s(Xenarchos) dbp:before o'<Calicrates>",
+    "3" : "s(Xenarchos) dbp:title o'<Achaean_League>",
+    "4" : "s(Xenarchos) dbp:years o'<175>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11274",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Fu",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Xu_Fu) dbo:birthPlace o'<Qi_(state)>",
+    "2" : "s(Xu_Fu) dbp:c o'<å¾�ç¦� or å¾�å·¿>",
+    "3" : "s(Xu_Fu) dbp:j o'<å¾�ç¦� Jofuku or å¾�å·¿ Jofutsu>",
+    "4" : "s(Xu_Fu) dbp:k o'<ì„œë³µ Seo Bok>",
+    "5" : "s(Xu_Fu) dbp:p o'<XÃº FÃº>",
+    "6" : "s(Xu_Fu) dbp:w o'<Hsu2 Fu2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11275",
+  "entityUrl" : "http://dbpedia.org/resource/Xiomara_Castro",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Xiomara_Castro) dbo:birthDate o'<1959-09-30>",
+    "2" : "s(Xiomara_Castro) dbo:birthDate o'<1959-9-30>",
+    "3" : "s(Xiomara_Castro) dbo:birthName o'<Iris Xiomara Castro Sarmiento>",
+    "4" : "s(Xiomara_Castro) dbo:birthPlace o'<Honduras>",
+    "5" : "s(Xiomara_Castro) dbo:birthPlace o'<Santa_BÃ¡rbara_Department,_Honduras>",
+    "6" : "s(Xiomara_Castro) dbo:birthPlace o'<Tegucigalpa>",
+    "7" : "s(Xiomara_Castro) dbo:office o'<First Lady of Honduras>",
+    "8" : "s(Xiomara_Castro) dbo:party o'<Libertad_y_RefundaciÃ³n>",
+    "9" : "s(Xiomara_Castro) dbo:predecessor o'<Aguas_Santas_OcaÃ±a_Navarro>",
+    "10" : "s(Xiomara_Castro) dbo:spouse o'<Manuel_Zelaya>",
+    "11" : "s(Xiomara_Castro) dbo:successor o'<Siomara_GirÃ³n>",
+    "12" : "s(Xiomara_Castro) dbo:termPeriod o'<Xiomara_Castro__1>",
+    "13" : "s(Xiomara_Castro) dbp:imageName o'<File:Xiomara_Castro.jpg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11276",
+  "entityUrl" : "http://dbpedia.org/resource/Xaqu%C3%ADn_Lorenzo_Fern%C3%A1ndez",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

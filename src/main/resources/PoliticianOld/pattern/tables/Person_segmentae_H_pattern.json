@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity11347",
+  "entityUrl" : "http://dbpedia.org/resource/H%C3%A9l%C3%A8ne_Carr%C3%A8re_d'Encausse",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11348",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_B._Hawes",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Harry_B._Hawes) dbo:birthDate o'<1869-11-15>",
+    "2" : "s(Harry_B._Hawes) dbo:birthPlace o'<Kentucky>",
+    "3" : "s(Harry_B._Hawes) dbo:birthPlace o'<Covington,_Kentucky>",
+    "4" : "s(Harry_B._Hawes) dbo:deathDate o'<1947-07-31>",
+    "5" : "s(Harry_B._Hawes) dbo:deathDate o'<1947-7-31>",
+    "6" : "s(Harry_B._Hawes) dbo:deathPlace o'<Washington,_D.C.>",
+    "7" : "s(Harry_B._Hawes) dbo:office o'<Member of theMissouri House of Representatives>",
+    "8" : "s(Harry_B._Hawes) dbo:party o'<Democratic_Party_(United_States)>",
+    "9" : "s(Harry_B._Hawes) dbo:predecessor o'<George_Howard_Williams>",
+    "10" : "s(Harry_B._Hawes) dbo:region o'<Missouri's_11th_congressional_district>",
+    "11" : "s(Harry_B._Hawes) dbo:region o'<Missouri>",
+    "12" : "s(Harry_B._Hawes) dbo:seniority o'<United States Senator>",
+    "13" : "s(Harry_B._Hawes) dbo:successor o'<Bennett_Champ_Clark>",
+    "14" : "s(Harry_B._Hawes) dbo:termPeriod o'<Harry_B._Hawes__1>",
+    "15" : "s(Harry_B._Hawes) dbp:after o'<Bennett_Champ_Clark>",
+    "16" : "s(Harry_B._Hawes) dbp:after o'<John_J._Cochran>",
+    "17" : "s(Harry_B._Hawes) dbp:alongside o'<Roscoe_C._Patterson>",
+    "18" : "s(Harry_B._Hawes) dbp:alongside o'<James_A._Reed>",
+    "19" : "s(Harry_B._Hawes) dbp:before o'<William_Leo_Igoe>",
+    "20" : "s(Harry_B._Hawes) dbp:before o'<George_Howard_Williams>",
+    "21" : "s(Harry_B._Hawes) dbp:class o'<3>",
+    "22" : "s(Harry_B._Hawes) dbp:district o'<11>",
+    "23" : "s(Harry_B._Hawes) dbp:imageSize o'<200>",
+    "24" : "s(Harry_B._Hawes) dbp:preceded o'<William_L._Igoe>",
+    "25" : "s(Harry_B._Hawes) dbp:state o'<Missouri>",
+    "26" : "s(Harry_B._Hawes) dbp:succeeded o'<John_J._Cochran>",
+    "27" : "s(Harry_B._Hawes) dbp:term o'<1916>",
+    "28" : "s(Harry_B._Hawes) dbp:term o'<--03-04>",
+    "29" : "s(Harry_B._Hawes) dbp:years o'<1921>",
+    "30" : "s(Harry_B._Hawes) dbp:years o'<1926>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11349",
+  "entityUrl" : "http://dbpedia.org/resource/Harvey_Golub",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Harvey_Golub) dbo:nationality o'<United_States>",
+    "2" : "s(Harvey_Golub) dbp:after o'<Steve_Miller_(business)>",
+    "3" : "s(Harvey_Golub) dbp:after o'<Kenneth_Chenault>",
+    "4" : "s(Harvey_Golub) dbp:before o'<Edward_M._Liddy>",
+    "5" : "s(Harvey_Golub) dbp:before o'<James_D._Robinson_III>",
+    "6" : "s(Harvey_Golub) dbp:title o'<American_Express>",
+    "7" : "s(Harvey_Golub) dbp:title o'<Non-executive chairman of AIG>",
+    "8" : "s(Harvey_Golub) dbp:years o'<1993>",
+    "9" : "s(Harvey_Golub) dbp:years o'<2009>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11350",
+  "entityUrl" : "http://dbpedia.org/resource/Humphrey_of_Hauteville",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Humphrey_of_Hauteville) dbo:birthDate o'<1010-1-1>",
+    "2" : "s(Humphrey_of_Hauteville) dbo:birthPlace o'<Cotentin_Peninsula>",
+    "3" : "s(Humphrey_of_Hauteville) dbo:deathDate o'<1057-1-1>",
+    "4" : "s(Humphrey_of_Hauteville) dbo:deathPlace o'<Venosa>",
+    "5" : "s(Humphrey_of_Hauteville) dbp:after o'<Robert_Guiscard>",
+    "6" : "s(Humphrey_of_Hauteville) dbp:before o'<Drogo_of_Hauteville>",
+    "7" : "s(Humphrey_of_Hauteville) dbp:title o'<List_of_Counts_of_Apulia_and_Calabria>",
+    "8" : "s(Humphrey_of_Hauteville) dbp:years o'<1051>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11351",
+  "entityUrl" : "http://dbpedia.org/resource/Harivamsa_Gosvami",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11352",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Winokur",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Harry_Winokur) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

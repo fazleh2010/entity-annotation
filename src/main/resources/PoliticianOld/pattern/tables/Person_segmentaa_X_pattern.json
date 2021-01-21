@@ -1,0 +1,122 @@
+[ {
+  "entityIndex" : "entity10779",
+  "entityUrl" : "http://dbpedia.org/resource/Xena",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Xena) dbo:creator o'<Robert_Tapert>",
+    "2" : "s(Xena) dbo:firstAppearance o'<\"The Warrior Princess\" (Hercules Season 1 Episode 9)>",
+    "3" : "s(Xena) dbo:occupation o'<Warrior>",
+    "4" : "s(Xena) dbo:occupation o'<Warlord>",
+    "5" : "s(Xena) dbo:portrayer o'<Lucy_Lawless>",
+    "6" : "s(Xena) dbp:affiliation o'<Ares, Hercules, Borias, Caesar, Alti, Lao Ma, Ephiny, Joxer, Eve, the Amazons, Solan>",
+    "7" : "s(Xena) dbp:color o'<#87CEFA>",
+    "8" : "s(Xena) dbp:last o'<2.0>",
+    "9" : "s(Xena) dbp:significantother o'<Gabrielle_(Xena:_Warrior_Princess)>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(xena=Xena) [first appeared in 19951999 ] o'<warrior=Warrior>",
+    "10" : "s(xena=Xena) [joined by ] o'<gabrielle=Gabrielle_(Xena:_Warrior_Princess)>"
+  },
+  "abstract" : {
+    "2" : "co-created by tapert and john schulian, xena<Xena> first appeared in the 1995â€“1999 television series hercules: the legendary journeys, before going on to appear in xena: warrior<Warrior> princess tv show and subsequent comic book of the same name\n",
+    "10" : "later in xena: warrior<Warrior> princess xena<Xena> is joined by gabrielle<Gabrielle_(Xena:_Warrior_Princess)>, a small town bard\n"
+  }
+}, {
+  "entityIndex" : "entity10780",
+  "entityUrl" : "http://dbpedia.org/resource/Xaviera_Hollander",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Xaviera_Hollander) dbo:birthDate o'<1943-06-15>",
+    "2" : "s(Xaviera_Hollander) dbo:birthDate o'<1943-6-15>",
+    "3" : "s(Xaviera_Hollander) dbo:birthName o'<Vera de Vries>",
+    "4" : "s(Xaviera_Hollander) dbo:birthPlace o'<Surabaya>",
+    "5" : "s(Xaviera_Hollander) dbo:birthYear o'<1943>",
+    "6" : "s(Xaviera_Hollander) dbo:citizenship o'<Netherlands>",
+    "7" : "s(Xaviera_Hollander) dbp:knownFor o'<The Happy Hooker: My Own Story>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10781",
+  "entityUrl" : "http://dbpedia.org/resource/Xanthius",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Xanthius) dbo:mythology o'<Greek_mythology>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10782",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Serbi%C3%A1",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10783",
+  "entityUrl" : "http://dbpedia.org/resource/Xanthippe",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Xanthippe) dbo:birthDate o'<-500-1-1>",
+    "2" : "s(Xanthippe) dbo:deathDate o'<-400-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10784",
+  "entityUrl" : "http://dbpedia.org/resource/Xuanzang",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Xuanzang) dbo:birthDate o'<602-1-1>",
+    "2" : "s(Xuanzang) dbo:birthPlace o'<Luoyang>",
+    "3" : "s(Xuanzang) dbo:birthPlace o'<Henan>",
+    "4" : "s(Xuanzang) dbo:birthPlace o'<Chinese_Buddhism>",
+    "5" : "s(Xuanzang) dbo:deathDate o'<664-1-1>",
+    "6" : "s(Xuanzang) dbo:deathPlace o'<Shaanxi>",
+    "7" : "s(Xuanzang) dbo:deathPlace o'<Tongchuan>",
+    "8" : "s(Xuanzang) dbo:deathPlace o'<Chinese_Buddhism>",
+    "9" : "s(Xuanzang) dbo:religion o'<Buddhism>",
+    "10" : "s(Xuanzang) dbp:altname o'<Chen Hui>",
+    "11" : "s(Xuanzang) dbp:altname o'<Chen Yi>",
+    "12" : "s(Xuanzang) dbp:birthDate o'<c. 602>",
+    "13" : "s(Xuanzang) dbp:c o'<çŽ„å¥˜>",
+    "14" : "s(Xuanzang) dbp:deathDate o'<664>",
+    "15" : "s(Xuanzang) dbp:h o'<Hian2-tsong4>",
+    "16" : "s(Xuanzang) dbp:imageSize o'<200>",
+    "17" : "s(Xuanzang) dbp:l o'<Sanzang Dharma  Teacher>",
+    "18" : "s(Xuanzang) dbp:labels o'<no>",
+    "19" : "s(Xuanzang) dbp:mc o'<É£wen-dzÃ¡ng>",
+    "20" : "s(Xuanzang) dbp:p o'<ChÃ©n HuÄ«>",
+    "21" : "s(Xuanzang) dbp:p o'<ChÃ©n YÄ«>",
+    "22" : "s(Xuanzang) dbp:p o'<SÄ�nzÃ ngfÇŽshÄ«>",
+    "23" : "s(Xuanzang) dbp:p o'<XuÃ¡nzÃ ng>",
+    "24" : "s(Xuanzang) dbp:san o'<à¤¹à¥�à¤µà¥‡à¤¨à¤¸à¤¾à¤‚à¤—>",
+    "25" : "s(Xuanzang) dbp:school o'<East_Asian_YogÄ�cÄ�ra>",
+    "26" : "s(Xuanzang) dbp:students o'<Kuiji>",
+    "27" : "s(Xuanzang) dbp:t o'<åƒ§ä¼½è€¶èˆ�>",
+    "28" : "s(Xuanzang) dbp:t o'<æ—ƒé�”ç¾…ä¼�æ‘©>",
+    "29" : "s(Xuanzang) dbp:t o'<æœˆèƒƒ>",
+    "30" : "s(Xuanzang) dbp:t o'<æ¯˜è†©å¤šç¼½è‡˜å©†>",
+    "31" : "s(Xuanzang) dbp:t o'<çŽ„å¥˜æ³•å¸«>",
+    "32" : "s(Xuanzang) dbp:t o'<ç§£åº•è£œç¾…>",
+    "33" : "s(Xuanzang) dbp:t o'<èª¿ä¼�å…‰>",
+    "34" : "s(Xuanzang) dbp:t o'<é—�è€¶æ¯±å¤š>",
+    "35" : "s(Xuanzang) dbp:t o'<é™³ç¦•>",
+    "36" : "s(Xuanzang) dbp:t o'<é™³è¤˜>",
+    "37" : "s(Xuanzang) dbp:tl o'<HiÃ¢n-tsÃ²ng>",
+    "38" : "s(Xuanzang) dbp:w o'<Ch'en2 Hui1>",
+    "39" : "s(Xuanzang) dbp:w o'<Ch'en2 I1>",
+    "40" : "s(Xuanzang) dbp:w o'<HsÃ¼an-tsang>",
+    "41" : "s(Xuanzang) dbp:w o'<HsÃ¼an2-tsang4>",
+    "42" : "s(Xuanzang) dbp:wuu o'<Yeu-tsaÃµ>",
+    "43" : "s(Xuanzang) dbp:y o'<YÃ¹hn-chohng>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(xuanzang=Xuanzang) [later travelled throughout ] o'<china=Chinese_Buddhism>",
+    "8" : "s(xuanzang=Xuanzang) [knew about faxians visit to ] o'<buddhist=Buddhism>"
+  },
+  "abstract" : {
+    "6" : "xuanzang<Xuanzang> later travelled throughout china<Chinese_Buddhism> in search of sacred books of buddhism<Buddhism>\n",
+    "8" : "xuanzang<Xuanzang> knew about faxian's visit to india and, like him, was concerned about the incomplete and misinterpreted nature of the buddhist<Buddhism> texts that had reached china<Chinese_Buddhism>\n"
+  }
+} ]

@@ -1,0 +1,80 @@
+[ {
+  "entityIndex" : "entity11961",
+  "entityUrl" : "http://dbpedia.org/resource/Charlotte_Howe,_Viscountess_Howe",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Charlotte_Howe,_Viscountess_Howe) dbo:birthDate o'<1703-9-23>",
+    "2" : "s(Charlotte_Howe,_Viscountess_Howe) dbo:deathDate o'<1782-6-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11962",
+  "entityUrl" : "http://dbpedia.org/resource/Catherine_P._Saxton",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Catherine_P._Saxton) dbo:birthDate o'<1941-7-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11963",
+  "entityUrl" : "http://dbpedia.org/resource/Chris_Thorpe",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Chris_Thorpe) dbo:birthDate o'<1970-10-29>",
+    "2" : "s(Chris_Thorpe) dbo:birthPlace o'<Waukegan,_Illinois>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11964",
+  "entityUrl" : "http://dbpedia.org/resource/Casey_Anderson",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Casey_Anderson) dbo:activeYearsEndYear o'<1976>",
+    "2" : "s(Casey_Anderson) dbo:activeYearsStartYear o'<1950>",
+    "3" : "s(Casey_Anderson) dbo:background o'<solo_singer>",
+    "4" : "s(Casey_Anderson) dbo:birthDate o'<1934-10-05>",
+    "5" : "s(Casey_Anderson) dbo:birthDate o'<1934-10-5>",
+    "6" : "s(Casey_Anderson) dbo:birthPlace o'<Chicago>",
+    "7" : "s(Casey_Anderson) dbo:birthPlace o'<Chicago,_Illinois>",
+    "8" : "s(Casey_Anderson) dbo:deathDate o'<1976-0-0>",
+    "9" : "s(Casey_Anderson) dbo:deathPlace o'<Altadena,_California>",
+    "10" : "s(Casey_Anderson) dbo:genre o'<Blues>",
+    "11" : "s(Casey_Anderson) dbo:genre o'<Country_music>",
+    "12" : "s(Casey_Anderson) dbo:genre o'<Folk_music>",
+    "13" : "s(Casey_Anderson) dbo:genre o'<Jazz>",
+    "14" : "s(Casey_Anderson) dbo:genre o'<Pop_music>",
+    "15" : "s(Casey_Anderson) dbo:occupation o'<Singer>",
+    "16" : "s(Casey_Anderson) dbo:recordLabel o'<Atco_Records>",
+    "17" : "s(Casey_Anderson) dbo:recordLabel o'<Chelsea_Records>",
+    "18" : "s(Casey_Anderson) dbo:recordLabel o'<Elektra_Records>",
+    "19" : "s(Casey_Anderson) dbo:recordLabel o'<Reprise_Records>",
+    "20" : "s(Casey_Anderson) dbo:recordLabel o'<Amos_Records>",
+    "21" : "s(Casey_Anderson) dbo:recordLabel o'<Urania_Records>",
+    "22" : "s(Casey_Anderson) dbp:deathDate o'<c. 1976>",
+    "23" : "s(Casey_Anderson) dbp:instrument o'<Guitar>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11965",
+  "entityUrl" : "http://dbpedia.org/resource/Clay_Ives",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Clay_Ives) dbo:birthDate o'<1972-9-5>",
+    "2" : "s(Clay_Ives) dbo:birthPlace o'<Bancroft,_Ontario>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11966",
+  "entityUrl" : "http://dbpedia.org/resource/Christophe_Humbert",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Christophe_Humbert) dbo:birthDate o'<1979-6-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

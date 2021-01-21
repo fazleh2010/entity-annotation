@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11259",
+  "entityUrl" : "http://dbpedia.org/resource/Vladimir_Kagan",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Vladimir_Kagan) dbo:birthDate o'<1927-1-1>",
+    "2" : "s(Vladimir_Kagan) dbo:birthPlace o'<Worms,_Germany>",
+    "3" : "s(Vladimir_Kagan) dbo:deathDate o'<2016-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11260",
+  "entityUrl" : "http://dbpedia.org/resource/Van_Earl_Wright",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11261",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Aspey",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Vincent_Aspey) dbo:deathDate o'<1987-4-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11262",
+  "entityUrl" : "http://dbpedia.org/resource/Van_Taylor",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Van_Taylor) dbo:almaMater o'<Harvard_College>",
+    "2" : "s(Van_Taylor) dbo:battle o'<Iraq_War>",
+    "3" : "s(Van_Taylor) dbo:birthDate o'<1972-08-01>",
+    "4" : "s(Van_Taylor) dbo:birthDate o'<1972-8-1>",
+    "5" : "s(Van_Taylor) dbo:birthPlace o'<Dallas>",
+    "6" : "s(Van_Taylor) dbo:birthPlace o'<Texas>",
+    "7" : "s(Van_Taylor) dbo:birthPlace o'<Dallas,_Texas>",
+    "8" : "s(Van_Taylor) dbo:country o'<United_States>",
+    "9" : "s(Van_Taylor) dbo:militaryBranch o'<United_States_Marine_Corps>",
+    "10" : "s(Van_Taylor) dbo:militaryRank o'<Major_(United_States)>",
+    "11" : "s(Van_Taylor) dbo:occupation o'<Business>",
+    "12" : "s(Van_Taylor) dbo:office o'<Texas State SenatorforDistrict 8 (Collin and Dallas counties)>",
+    "13" : "s(Van_Taylor) dbo:office o'<Texas State Representative from District 66 (Collin County)>",
+    "14" : "s(Van_Taylor) dbo:party o'<Republican_Party_(United_States)>",
+    "15" : "s(Van_Taylor) dbo:religion o'<Episcopal_Church_in_the_United_States>",
+    "16" : "s(Van_Taylor) dbo:residence o'<Plano,_Texas>",
+    "17" : "s(Van_Taylor) dbo:residence o'<Texas>",
+    "18" : "s(Van_Taylor) dbo:termPeriod o'<Van_Taylor__1>",
+    "19" : "s(Van_Taylor) dbo:termPeriod o'<Van_Taylor__2>",
+    "20" : "s(Van_Taylor) dbp:after o'<Matt_Shaheen>",
+    "21" : "s(Van_Taylor) dbp:after o'<Incumbent>",
+    "22" : "s(Van_Taylor) dbp:before o'<Ken_Paxton>",
+    "23" : "s(Van_Taylor) dbp:before o'<Brian McCall>",
+    "24" : "s(Van_Taylor) dbp:nationality o'<American>",
+    "25" : "s(Van_Taylor) dbp:preceded o'<Ken_Paxton>",
+    "26" : "s(Van_Taylor) dbp:preceded o'<Brian McCall>",
+    "27" : "s(Van_Taylor) dbp:succeeded o'<Matt_Shaheen>",
+    "28" : "s(Van_Taylor) dbp:title o'<Texas State Representative from District 66 (Collin County)>",
+    "29" : "s(Van_Taylor) dbp:title o'<Texas State Senator for District 8 (Collin and Dallas counties)>",
+    "30" : "s(Van_Taylor) dbp:years o'<2010>",
+    "31" : "s(Van_Taylor) dbp:years o'<2015>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(van taylor=Van_Taylor) [left ] o'<state=United_States>"
+  },
+  "abstract" : {
+    "2" : "on january 13, 2015, van taylor<Van_Taylor> left the state<United_States> house to become the district 8 member of the texas<Texas> state<United_States> senate<United_States>\n"
+  }
+}, {
+  "entityIndex" : "entity11263",
+  "entityUrl" : "http://dbpedia.org/resource/Vlad_Kolarov",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11264",
+  "entityUrl" : "http://dbpedia.org/resource/Virginia_Heinlein",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Virginia_Heinlein) dbo:almaMater o'<New_York_University>",
+    "2" : "s(Virginia_Heinlein) dbo:birthDate o'<1916-04-22>",
+    "3" : "s(Virginia_Heinlein) dbo:birthDate o'<1916-4-22>",
+    "4" : "s(Virginia_Heinlein) dbo:birthName o'<Virginia Doris Gerstenfeld>",
+    "5" : "s(Virginia_Heinlein) dbo:birthPlace o'<Brooklyn>",
+    "6" : "s(Virginia_Heinlein) dbo:birthPlace o'<New_York_(state)>",
+    "7" : "s(Virginia_Heinlein) dbo:birthYear o'<1916>",
+    "8" : "s(Virginia_Heinlein) dbo:deathDate o'<2003-01-18>",
+    "9" : "s(Virginia_Heinlein) dbo:deathDate o'<2003-1-18>",
+    "10" : "s(Virginia_Heinlein) dbo:deathPlace o'<Florida>",
+    "11" : "s(Virginia_Heinlein) dbo:deathYear o'<2003>",
+    "12" : "s(Virginia_Heinlein) dbo:occupation o'<Chemist>",
+    "13" : "s(Virginia_Heinlein) dbo:occupation o'<Virginia_Heinlein__1>",
+    "14" : "s(Virginia_Heinlein) dbo:occupation o'<Biochemist>",
+    "15" : "s(Virginia_Heinlein) dbo:spouse o'<Robert_A._Heinlein>",
+    "16" : "s(Virginia_Heinlein) dbp:knownFor o'<Founder of The Heinlein Society>",
+    "17" : "s(Virginia_Heinlein) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

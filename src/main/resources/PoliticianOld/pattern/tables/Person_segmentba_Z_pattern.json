@@ -1,0 +1,71 @@
+[ {
+  "entityIndex" : "entity14224",
+  "entityUrl" : "http://dbpedia.org/resource/Zayd_Abu_Zayd",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Zayd_Abu_Zayd) dbo:birthDate o'<1195-0-0>",
+    "2" : "s(Zayd_Abu_Zayd) dbo:deathDate o'<1269-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14225",
+  "entityUrl" : "http://dbpedia.org/resource/Zoran_Pan%C4%8Di%C4%87",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14226",
+  "entityUrl" : "http://dbpedia.org/resource/Zhao_Chou",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Zhao_Chou) dbo:birthDate o'<824-1-1>",
+    "2" : "s(Zhao_Chou) dbo:deathDate o'<889-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14227",
+  "entityUrl" : "http://dbpedia.org/resource/Zygmunt_Kiszkurno",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Zygmunt_Kiszkurno) dbo:birthDate o'<1921-01-06>",
+    "2" : "s(Zygmunt_Kiszkurno) dbo:birthDate o'<1921-1-6>",
+    "3" : "s(Zygmunt_Kiszkurno) dbo:birthPlace o'<Brudzew,_Turek_County>",
+    "4" : "s(Zygmunt_Kiszkurno) dbo:birthPlace o'<Poland>",
+    "5" : "s(Zygmunt_Kiszkurno) dbo:deathDate o'<2012-08-24>",
+    "6" : "s(Zygmunt_Kiszkurno) dbo:deathDate o'<2012-8-24>",
+    "7" : "s(Zygmunt_Kiszkurno) dbp:showMedals o'<yes>",
+    "8" : "s(Zygmunt_Kiszkurno) dbp:sport o'<Shooting_sport>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14228",
+  "entityUrl" : "http://dbpedia.org/resource/Zamonth",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Zamonth) dbp:children o'<Senebtifi, maybe Ankhu>",
+    "2" : "s(Zamonth) dbp:dynasty o'<12>",
+    "3" : "s(Zamonth) dbp:mother o'<Zatip>",
+    "4" : "s(Zamonth) dbp:name o'<Zamonth>",
+    "5" : "s(Zamonth) dbp:pharaoh o'<Amenemhat_III>",
+    "6" : "s(Zamonth) dbp:style o'<Vizier>",
+    "7" : "s(Zamonth) dbp:wife o'<Henutpu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14229",
+  "entityUrl" : "http://dbpedia.org/resource/Zahra_Bahrami",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Zahra_Bahrami) dbo:birthDate o'<1965-1-25>",
+    "2" : "s(Zahra_Bahrami) dbo:birthPlace o'<Tehran>",
+    "3" : "s(Zahra_Bahrami) dbo:deathDate o'<2011-1-29>",
+    "4" : "s(Zahra_Bahrami) dbo:deathPlace o'<Evin_Prison>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

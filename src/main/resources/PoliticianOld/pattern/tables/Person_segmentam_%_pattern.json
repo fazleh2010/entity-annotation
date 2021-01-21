@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11939",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Gardaz",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11940",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%8Dvar_Stef%C3%A1nsson",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11941",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Signol",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11942",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%BDeljka_Antunovi%C4%87",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11943",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%BDelimir_%C5%BDilnik",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11944",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Man%C3%A8s",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

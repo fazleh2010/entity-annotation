@@ -1,0 +1,90 @@
+[ {
+  "entityIndex" : "entity14164",
+  "entityUrl" : "http://dbpedia.org/resource/Pavlo_Hurkovskiy",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Pavlo_Hurkovskiy) dbo:birthDate o'<1960-9-12>",
+    "2" : "s(Pavlo_Hurkovskiy) dbo:birthPlace o'<Kherson_Oblast>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14165",
+  "entityUrl" : "http://dbpedia.org/resource/P._C._Shastri",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(P._C._Shastri) dbo:activeYearsStartYear o'<1970>",
+    "2" : "s(P._C._Shastri) dbo:almaMater o'<Topiwala_National_Medical_College_and_Nair_Hospital>",
+    "3" : "s(P._C._Shastri) dbo:education o'<University_of_Bombay>",
+    "4" : "s(P._C._Shastri) dbo:occupation o'<Psychiatrist>",
+    "5" : "s(P._C._Shastri) dbo:occupation o'<P._C._Shastri__1>",
+    "6" : "s(P._C._Shastri) dbo:religion o'<Hindu>",
+    "7" : "s(P._C._Shastri) dbo:residence o'<Maharashtra>",
+    "8" : "s(P._C._Shastri) dbo:residence o'<Mumbai>",
+    "9" : "s(P._C._Shastri) dbo:residence o'<Andheri>",
+    "10" : "s(P._C._Shastri) dbp:imageSize o'<200>",
+    "11" : "s(P._C._Shastri) dbp:nationality o'<Indian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14166",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Nordell",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Peter_Nordell) dbo:birthDate o'<1966-08-30>",
+    "2" : "s(Peter_Nordell) dbo:birthDate o'<1966-8-30>",
+    "3" : "s(Peter_Nordell) dbo:birthPlace o'<DuPage_County,_Illinois>",
+    "4" : "s(Peter_Nordell) dbp:headercolor o'<lightsteelblue>",
+    "5" : "s(Peter_Nordell) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14167",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre-Marie_Deloof",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Pierre-Marie_Deloof) dbo:birthDate o'<1964-9-29>",
+    "2" : "s(Pierre-Marie_Deloof) dbo:birthPlace o'<Bruges>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14168",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Cazal",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Patrick_Cazal) dbo:birthDate o'<1971-4-6>",
+    "2" : "s(Patrick_Cazal) dbo:birthPlace o'<Saint-Joseph,_RÃ©union>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14169",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_R._Donahoe",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Patrick_R._Donahoe) dbo:almaMater o'<MIT_Sloan_School_of_Management>",
+    "2" : "s(Patrick_R._Donahoe) dbo:almaMater o'<University_of_Pittsburgh>",
+    "3" : "s(Patrick_R._Donahoe) dbo:birthPlace o'<United_States>",
+    "4" : "s(Patrick_R._Donahoe) dbo:birthPlace o'<Pennsylvania>",
+    "5" : "s(Patrick_R._Donahoe) dbo:birthPlace o'<Pittsburgh>",
+    "6" : "s(Patrick_R._Donahoe) dbo:office o'<73rdUnited States Postmaster General>",
+    "7" : "s(Patrick_R._Donahoe) dbo:predecessor o'<John_E._Potter>",
+    "8" : "s(Patrick_R._Donahoe) dbo:president o'<Barack_Obama>",
+    "9" : "s(Patrick_R._Donahoe) dbo:successor o'<Megan_Brennan>",
+    "10" : "s(Patrick_R._Donahoe) dbo:termPeriod o'<Patrick_R._Donahoe__1>",
+    "11" : "s(Patrick_R._Donahoe) dbp:deputy o'<Ronald Stroman>",
+    "12" : "s(Patrick_R._Donahoe) dbp:title o'<United_States_Postmaster_General>",
+    "13" : "s(Patrick_R._Donahoe) dbp:years o'<2011>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(patrick r. donahoe=Patrick_R._Donahoe) [entered postal service ] o'<pittsburgh=Pittsburgh>",
+    "7" : "s(patrick r. donahoe=Patrick_R._Donahoe) [graduated from ] o'<mit=MIT_Sloan_School_of_Management>"
+  },
+  "abstract" : {
+    "5" : "patrick r. donahoe<Patrick_R._Donahoe> entered the postal service as a clerk in pittsburgh<Pittsburgh>, pennsylvania<Pennsylvania>\n",
+    "7" : "patrick r. donahoe<Patrick_R._Donahoe> also graduated from the mit<MIT_Sloan_School_of_Management> sloan school<MIT_Sloan_School_of_Management> of management<MIT_Sloan_School_of_Management>, where patrick r. donahoe<Patrick_R._Donahoe> was a sloan<MIT_Sloan_School_of_Management> fellow\n"
+  }
+} ]

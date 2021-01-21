@@ -1,0 +1,159 @@
+[ {
+  "entityIndex" : "entity10791",
+  "entityUrl" : "http://dbpedia.org/resource/Zosimus",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Zosimus) dbo:birthDate o'<500-1-1>",
+    "2" : "s(Zosimus) dbo:deathDate o'<600-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10792",
+  "entityUrl" : "http://dbpedia.org/resource/Ziad_Jarrah",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Ziad_Jarrah) dbo:almaMater o'<Hamburg_University_of_Applied_Sciences>",
+    "2" : "s(Ziad_Jarrah) dbo:almaMater o'<University_of_Greifswald>",
+    "3" : "s(Ziad_Jarrah) dbo:birthDate o'<1975-05-11>",
+    "4" : "s(Ziad_Jarrah) dbo:birthDate o'<1975-5-11>",
+    "5" : "s(Ziad_Jarrah) dbo:birthName o'<Ziad Samir Jarrah>",
+    "6" : "s(Ziad_Jarrah) dbo:birthPlace o'<Lebanon>",
+    "7" : "s(Ziad_Jarrah) dbo:birthPlace o'<Beirut>",
+    "8" : "s(Ziad_Jarrah) dbo:birthYear o'<1975>",
+    "9" : "s(Ziad_Jarrah) dbo:deathDate o'<2001-09-11>",
+    "10" : "s(Ziad_Jarrah) dbo:deathDate o'<2001-9-11>",
+    "11" : "s(Ziad_Jarrah) dbo:deathPlace o'<Pennsylvania>",
+    "12" : "s(Ziad_Jarrah) dbo:deathPlace o'<Shanksville,_Pennsylvania>",
+    "13" : "s(Ziad_Jarrah) dbo:deathYear o'<2001>",
+    "14" : "s(Ziad_Jarrah) dbo:relative o'<Ali_al-Jarrah>",
+    "15" : "s(Ziad_Jarrah) dbo:soundRecording o'<Ziad_Jarrah__1>",
+    "16" : "s(Ziad_Jarrah) dbo:soundRecording o'<Ziad_Jarrah__2>",
+    "17" : "s(Ziad_Jarrah) dbp:b o'<no>",
+    "18" : "s(Ziad_Jarrah) dbp:format o'<Ogg>",
+    "19" : "s(Ziad_Jarrah) dbp:help o'<no>",
+    "20" : "s(Ziad_Jarrah) dbp:imagesize o'<150>",
+    "21" : "s(Ziad_Jarrah) dbp:nationality o'<Lebanese>",
+    "22" : "s(Ziad_Jarrah) dbp:nativeName o'<Ø²ÙŠØ§Ø¯ Ø¬Ø±Ø§Ø­>",
+    "23" : "s(Ziad_Jarrah) dbp:partner o'<Aysel ÅžengÃ¼n>",
+    "24" : "s(Ziad_Jarrah) dbp:religion o'<Islam>",
+    "25" : "s(Ziad_Jarrah) dbp:v o'<no>",
+    "26" : "s(Ziad_Jarrah) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ziad jarrah=Ziad_Jarrah) [became involved in planning ] o'<university=University_of_Greifswald>"
+  },
+  "abstract" : {
+    "3" : "ziad jarrah<Ziad_Jarrah> became involved in the planning of the september 11 attacks while attending technical university<University_of_Greifswald> of hamburg (tuhh) in the late 1990s, meeting mohamed atta, marwan al-shehhi and ramzi bin al-shibh, forming in 1998 what is now known as the hamburg cell\n"
+  }
+}, {
+  "entityIndex" : "entity10793",
+  "entityUrl" : "http://dbpedia.org/resource/Zephaniah",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10794",
+  "entityUrl" : "http://dbpedia.org/resource/Zhu_Shijie",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Zhu_Shijie) dbo:birthDate o'<1249-1-1>",
+    "2" : "s(Zhu_Shijie) dbo:birthPlace o'<Q29520>",
+    "3" : "s(Zhu_Shijie) dbo:deathDate o'<1314-1-1>",
+    "4" : "s(Zhu_Shijie) dbp:c o'<æœ±ä¸–æ�°>",
+    "5" : "s(Zhu_Shijie) dbp:p o'<ZhÅ« ShÃ¬jiÃ©>",
+    "6" : "s(Zhu_Shijie) dbp:w o'<Chu Shih-chieh>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10795",
+  "entityUrl" : "http://dbpedia.org/resource/Zheng_He",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Zheng_He) dbo:alias o'<Ma He>",
+    "2" : "s(Zheng_He) dbo:alias o'<Sanbao>",
+    "3" : "s(Zheng_He) dbo:birthDate o'<1371-1-1>",
+    "4" : "s(Zheng_He) dbo:birthPlace o'<Kunyang_Subdistrict>",
+    "5" : "s(Zheng_He) dbo:birthPlace o'<China>",
+    "6" : "s(Zheng_He) dbo:birthPlace o'<Yunnan>",
+    "7" : "s(Zheng_He) dbo:birthYear o'<1371>",
+    "8" : "s(Zheng_He) dbo:deathDate o'<1433-1-1>",
+    "9" : "s(Zheng_He) dbo:deathPlace o'<Burial_at_sea>",
+    "10" : "s(Zheng_He) dbo:occupation o'<Zheng_He__1>",
+    "11" : "s(Zheng_He) dbo:occupation o'<List_of_explorers>",
+    "12" : "s(Zheng_He) dbo:occupation o'<Foreign_relations_of_imperial_China>",
+    "13" : "s(Zheng_He) dbp:bot o'<InternetArchiveBot>",
+    "14" : "s(Zheng_He) dbp:by o'<no>",
+    "15" : "s(Zheng_He) dbp:date o'<February 2012>",
+    "16" : "s(Zheng_He) dbp:date o'<July 2016>",
+    "17" : "s(Zheng_He) dbp:deathDate o'<or>",
+    "18" : "s(Zheng_He) dbp:era o'<Ming_dynasty>",
+    "19" : "s(Zheng_He) dbp:expiry o'<--01-12>",
+    "20" : "s(Zheng_He) dbp:fixAttempted o'<yes>",
+    "21" : "s(Zheng_He) dbp:j o'<Zeng6 Wo4>",
+    "22" : "s(Zheng_He) dbp:myr o'<JÃ¨ng HÃ©>",
+    "23" : "s(Zheng_He) dbp:onlinebooks o'<yes>",
+    "24" : "s(Zheng_He) dbp:p o'<ZhÃ¨ng HÃ©>",
+    "25" : "s(Zheng_He) dbp:pic o'<Zheng He .svg>",
+    "26" : "s(Zheng_He) dbp:piccap o'<\"Zheng He\" in Traditional  and Simplified  Chinese characters>",
+    "27" : "s(Zheng_He) dbp:picupright o'<0.45>",
+    "28" : "s(Zheng_He) dbp:poj o'<TÄ“â�¿ HÃ´>",
+    "29" : "s(Zheng_He) dbp:reason o'<at what stage of his life?>",
+    "30" : "s(Zheng_He) dbp:restingPlace o'<Unknown>",
+    "31" : "s(Zheng_He) dbp:small o'<yes>",
+    "32" : "s(Zheng_He) dbp:suz o'<ZÃªn GhÃ³u>",
+    "33" : "s(Zheng_He) dbp:t o'<é„­å’Œ>",
+    "34" : "s(Zheng_He) dbp:tl o'<TÄ“nn HÃ´>",
+    "35" : "s(Zheng_He) dbp:viaf o'<72199054>",
+    "36" : "s(Zheng_He) dbp:w o'<Cheng4 Ho2>",
+    "37" : "s(Zheng_He) dbp:y o'<Jehng WÃ²h>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10796",
+  "entityUrl" : "http://dbpedia.org/resource/Zeno_of_Citium",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Zeno_of_Citium) dbo:birthDate o'<-333-1-1>",
+    "2" : "s(Zeno_of_Citium) dbo:birthPlace o'<Cyprus>",
+    "3" : "s(Zeno_of_Citium) dbo:birthPlace o'<Kition>",
+    "4" : "s(Zeno_of_Citium) dbo:birthYear o'<-334>",
+    "5" : "s(Zeno_of_Citium) dbo:deathDate o'<-263-1-1>",
+    "6" : "s(Zeno_of_Citium) dbo:deathPlace o'<Athens>",
+    "7" : "s(Zeno_of_Citium) dbo:deathYear o'<-262>",
+    "8" : "s(Zeno_of_Citium) dbo:era o'<Ancient_philosophy>",
+    "9" : "s(Zeno_of_Citium) dbo:influenced o'<Chrysippus>",
+    "10" : "s(Zeno_of_Citium) dbo:influenced o'<Cleanthes>",
+    "11" : "s(Zeno_of_Citium) dbo:influenced o'<Epictetus>",
+    "12" : "s(Zeno_of_Citium) dbo:influenced o'<Marcus_Aurelius>",
+    "13" : "s(Zeno_of_Citium) dbo:influenced o'<Panaetius>",
+    "14" : "s(Zeno_of_Citium) dbo:influenced o'<Posidonius>",
+    "15" : "s(Zeno_of_Citium) dbo:influenced o'<Seneca_the_Younger>",
+    "16" : "s(Zeno_of_Citium) dbo:influencedBy o'<Hipparchia_of_Maroneia>",
+    "17" : "s(Zeno_of_Citium) dbo:influencedBy o'<Heraclitus>",
+    "18" : "s(Zeno_of_Citium) dbo:influencedBy o'<Diodorus_Cronus>",
+    "19" : "s(Zeno_of_Citium) dbo:influencedBy o'<Polemon_(scholarch)>",
+    "20" : "s(Zeno_of_Citium) dbo:influencedBy o'<Crates_of_Thebes>",
+    "21" : "s(Zeno_of_Citium) dbo:influencedBy o'<Cynicism_(philosophy)>",
+    "22" : "s(Zeno_of_Citium) dbo:influencedBy o'<Philo_the_Dialectician>",
+    "23" : "s(Zeno_of_Citium) dbo:influencedBy o'<Stilpo>",
+    "24" : "s(Zeno_of_Citium) dbo:mainInterest o'<Ethics>",
+    "25" : "s(Zeno_of_Citium) dbo:mainInterest o'<Physics>",
+    "26" : "s(Zeno_of_Citium) dbo:mainInterest o'<Logic>",
+    "27" : "s(Zeno_of_Citium) dbo:notableIdea o'<Stoicism>",
+    "28" : "s(Zeno_of_Citium) dbo:philosophicalSchool o'<Stoicism>",
+    "29" : "s(Zeno_of_Citium) dbp:imageSize o'<200>",
+    "30" : "s(Zeno_of_Citium) dbp:region o'<Western philosophy>",
+    "31" : "s(Zeno_of_Citium) dbp:title o'<Leader of the Stoic school>",
+    "32" : "s(Zeno_of_Citium) dbp:years o'<300>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(zeno of citium=Zeno_of_Citium) [taught ] o'<in athens=Athens>"
+  },
+  "abstract" : {
+    "4" : "zeno was the founder of the stoic school<Stoicism> of philosophy<Western_philosophy>, which zeno of citium<Zeno_of_Citium> taught in athens<Athens> from about 300 bc\n"
+  }
+} ]

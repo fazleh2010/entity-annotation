@@ -1,0 +1,122 @@
+[ {
+  "entityIndex" : "entity11357",
+  "entityUrl" : "http://dbpedia.org/resource/Kazimierz_Lejman",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Kazimierz_Lejman) dbo:birthDate o'<1907-1-1>",
+    "2" : "s(Kazimierz_Lejman) dbo:birthYear o'<1907>",
+    "3" : "s(Kazimierz_Lejman) dbo:deathDate o'<1985-1-1>",
+    "4" : "s(Kazimierz_Lejman) dbo:deathYear o'<1985>",
+    "5" : "s(Kazimierz_Lejman) dbo:education o'<Jagiellonian_University>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11358",
+  "entityUrl" : "http://dbpedia.org/resource/Koli_Sewabu",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Koli_Sewabu) dbo:birthDate o'<1975-1-15>",
+    "2" : "s(Koli_Sewabu) dbo:birthName o'<Kolinio Sewabu>",
+    "3" : "s(Koli_Sewabu) dbo:height o'<193.04>",
+    "4" : "s(Koli_Sewabu) dbo:height o'<1.9304>",
+    "5" : "s(Koli_Sewabu) dbo:weight o'<106.0>",
+    "6" : "s(Koli_Sewabu) dbo:weight o'<106000.0>",
+    "7" : "s(Koli_Sewabu) dbp:birthDate o'<1975-01-15>",
+    "8" : "s(Koli_Sewabu) dbp:ruAmateurclubs o'<North_Shore_Rugby_Football_Club>",
+    "9" : "s(Koli_Sewabu) dbp:ruAmateuryears o'<1998>",
+    "10" : "s(Koli_Sewabu) dbp:ruClubyears o'<2001>",
+    "11" : "s(Koli_Sewabu) dbp:ruClubyears o'<2003>",
+    "12" : "s(Koli_Sewabu) dbp:ruClubyears o'<2005>",
+    "13" : "s(Koli_Sewabu) dbp:ruClubyears o'<2006>",
+    "14" : "s(Koli_Sewabu) dbp:ruNationalcaps o'<27>",
+    "15" : "s(Koli_Sewabu) dbp:ruNationalpoints o'<3.0>",
+    "16" : "s(Koli_Sewabu) dbp:ruNationalyears o'<1999>",
+    "17" : "s(Koli_Sewabu) dbp:ruPosition o'<Centre_(rugby_union)>",
+    "18" : "s(Koli_Sewabu) dbp:ruPosition o'<Flanker_(rugby_union)>",
+    "19" : "s(Koli_Sewabu) dbp:ruPosition o'<Number_eight_(rugby_union)>",
+    "20" : "s(Koli_Sewabu) dbp:ruProclubs o'<Manawatu_Turbos>",
+    "21" : "s(Koli_Sewabu) dbp:ruProclubs o'<Union_Bordeaux_BÃ¨gles>",
+    "22" : "s(Koli_Sewabu) dbp:ruProclubs o'<Gloucester_Rugby>",
+    "23" : "s(Koli_Sewabu) dbp:ruProclubs o'<Yamaha_Jubilo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11359",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Briggs",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11360",
+  "entityUrl" : "http://dbpedia.org/resource/Karen_Quiroga_Anguiano",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Karen_Quiroga_Anguiano) dbo:birthDate o'<1980-01-19>",
+    "2" : "s(Karen_Quiroga_Anguiano) dbo:birthDate o'<1980-1-19>",
+    "3" : "s(Karen_Quiroga_Anguiano) dbo:birthPlace o'<Federal_District_(Mexico)>",
+    "4" : "s(Karen_Quiroga_Anguiano) dbo:birthPlace o'<Mexico>",
+    "5" : "s(Karen_Quiroga_Anguiano) dbo:birthPlace o'<Iztapalapa>",
+    "6" : "s(Karen_Quiroga_Anguiano) dbo:birthYear o'<1980>",
+    "7" : "s(Karen_Quiroga_Anguiano) dbo:ethnicity o'<Mexican_people>",
+    "8" : "s(Karen_Quiroga_Anguiano) dbo:occupation o'<Karen_Quiroga_Anguiano__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(karen quiroga anguiano=Karen_Quiroga_Anguiano) [served deputy of ] o'<federal district=Federal_District_(Mexico)>"
+  },
+  "abstract" : {
+    "2" : "as of 2013 karen quiroga anguiano<Karen_Quiroga_Anguiano> served as deputy of the lxii legislature of the mexican congress representing the federal district<Federal_District_(Mexico)>\n"
+  }
+}, {
+  "entityIndex" : "entity11361",
+  "entityUrl" : "http://dbpedia.org/resource/Krit_Sripoomseth",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Krit_Sripoomseth) dbo:activeYearsStartYear o'<2002>",
+    "2" : "s(Krit_Sripoomseth) dbo:birthDate o'<1979-08-20>",
+    "3" : "s(Krit_Sripoomseth) dbo:birthDate o'<1979-8-20>",
+    "4" : "s(Krit_Sripoomseth) dbo:birthName o'<Krit Sripoomseth>",
+    "5" : "s(Krit_Sripoomseth) dbo:birthPlace o'<Thailand>",
+    "6" : "s(Krit_Sripoomseth) dbo:birthPlace o'<Prachuap_Khiri_Khan_Province>",
+    "7" : "s(Krit_Sripoomseth) dbo:birthYear o'<1979>",
+    "8" : "s(Krit_Sripoomseth) dbo:imdbId o'<1717295>",
+    "9" : "s(Krit_Sripoomseth) dbo:occupation o'<Model_(person)>",
+    "10" : "s(Krit_Sripoomseth) dbo:occupation o'<Krit_Sripoomseth__1>",
+    "11" : "s(Krit_Sripoomseth) dbo:occupation o'<Actor>",
+    "12" : "s(Krit_Sripoomseth) dbo:religion o'<Buddhism>",
+    "13" : "s(Krit_Sripoomseth) dbp:name o'<Krit Sripoomseth>",
+    "14" : "s(Krit_Sripoomseth) dbp:otherNames o'<Krit>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(krit sripoomseth=Krit_Sripoomseth) [later became best known for ] o'<television=Actor>"
+  },
+  "abstract" : {
+    "3" : "starting off a career as a dj at age 23, krit sripoomseth<Krit_Sripoomseth> later became best known for his moderator role in fan pan tae 2012 and khon uad phee, the television<Actor> programmes of workpoint entertainment\n"
+  }
+}, {
+  "entityIndex" : "entity11362",
+  "entityUrl" : "http://dbpedia.org/resource/Kenny_Ardouin",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Kenny_Ardouin) dbo:activeYearsEndYear o'<2015>",
+    "2" : "s(Kenny_Ardouin) dbo:activeYearsStartYear o'<2005>",
+    "3" : "s(Kenny_Ardouin) dbo:birthDate o'<1991-05-07>",
+    "4" : "s(Kenny_Ardouin) dbo:birthDate o'<1991-5-7>",
+    "5" : "s(Kenny_Ardouin) dbo:birthName o'<Kenneth Michael Ardouin>",
+    "6" : "s(Kenny_Ardouin) dbo:birthPlace o'<Hastings>",
+    "7" : "s(Kenny_Ardouin) dbo:birthYear o'<1991>",
+    "8" : "s(Kenny_Ardouin) dbo:board o'<Linwood_College>",
+    "9" : "s(Kenny_Ardouin) dbo:board o'<Cleft_New_Zealand>",
+    "10" : "s(Kenny_Ardouin) dbo:hometown o'<New_Zealand>",
+    "11" : "s(Kenny_Ardouin) dbo:hometown o'<Christchurch>",
+    "12" : "s(Kenny_Ardouin) dbo:knownFor o'<Cleft_lip_and_palate>",
+    "13" : "s(Kenny_Ardouin) dbo:occupation o'<Plains_FM>",
+    "14" : "s(Kenny_Ardouin) dbo:occupation o'<Kenny_Ardouin__1>",
+    "15" : "s(Kenny_Ardouin) dbo:occupation o'<Cleft_New_Zealand>",
+    "16" : "s(Kenny_Ardouin) dbp:organisation o'<Cleft_New_Zealand>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

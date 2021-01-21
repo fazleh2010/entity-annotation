@@ -1,0 +1,56 @@
+[ {
+  "entityIndex" : "entity14495",
+  "entityUrl" : "http://dbpedia.org/resource/Pamela_Greenwood",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14496",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Metge",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Peter_Metge) dbo:deathDate o'<1809-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14497",
+  "entityUrl" : "http://dbpedia.org/resource/Paolo_Berlusconi",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Paolo_Berlusconi) dbo:birthDate o'<1949-12-6>",
+    "2" : "s(Paolo_Berlusconi) dbo:birthPlace o'<Milan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14498",
+  "entityUrl" : "http://dbpedia.org/resource/Philip_Ferns",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Philip_Ferns) dbo:birthDate o'<1937-11-14>",
+    "2" : "s(Philip_Ferns) dbo:birthPlace o'<Liverpool>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14499",
+  "entityUrl" : "http://dbpedia.org/resource/Pieter_Arnout_Dijxhoorn",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Pieter_Arnout_Dijxhoorn) dbo:birthDate o'<1810-1-1>",
+    "2" : "s(Pieter_Arnout_Dijxhoorn) dbo:birthPlace o'<Rotterdam>",
+    "3" : "s(Pieter_Arnout_Dijxhoorn) dbo:deathDate o'<1839-1-1>",
+    "4" : "s(Pieter_Arnout_Dijxhoorn) dbo:deathPlace o'<Groningen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14500",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Kevenh%C3%B6rster",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

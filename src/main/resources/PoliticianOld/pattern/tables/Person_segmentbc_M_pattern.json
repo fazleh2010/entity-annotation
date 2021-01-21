@@ -1,0 +1,72 @@
+[ {
+  "entityIndex" : "entity14477",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Block",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Mark_Block) dbo:birthDate o'<1954-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14478",
+  "entityUrl" : "http://dbpedia.org/resource/Muhammed_Al-Jasser",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Muhammed_Al-Jasser) dbo:almaMater o'<San_Diego_State_University>",
+    "2" : "s(Muhammed_Al-Jasser) dbo:almaMater o'<University_of_California>",
+    "3" : "s(Muhammed_Al-Jasser) dbo:birthDate o'<1955-1-1>",
+    "4" : "s(Muhammed_Al-Jasser) dbo:birthPlace o'<Buraidah>",
+    "5" : "s(Muhammed_Al-Jasser) dbo:office o'<Minister of Economy and Planning>",
+    "6" : "s(Muhammed_Al-Jasser) dbo:office o'<Governor ofthe Saudi Arabian Monetary Agency (SAMA)>",
+    "7" : "s(Muhammed_Al-Jasser) dbo:primeMinister o'<Abdullah_of_Saudi_Arabia>",
+    "8" : "s(Muhammed_Al-Jasser) dbo:successor o'<Adel_Fakeih>",
+    "9" : "s(Muhammed_Al-Jasser) dbo:successor o'<Fahad_Al_Mubarak>",
+    "10" : "s(Muhammed_Al-Jasser) dbo:termPeriod o'<Muhammed_Al-Jasser__1>",
+    "11" : "s(Muhammed_Al-Jasser) dbo:termPeriod o'<Muhammed_Al-Jasser__2>",
+    "12" : "s(Muhammed_Al-Jasser) dbp:after o'<Adel_Fakeih>",
+    "13" : "s(Muhammed_Al-Jasser) dbp:before o'<Khalid bin Mohammed Al Gosaibi>",
+    "14" : "s(Muhammed_Al-Jasser) dbp:nationality o'<Saudi Arabian>",
+    "15" : "s(Muhammed_Al-Jasser) dbp:predecessor o'<Hamad Al Sayari>",
+    "16" : "s(Muhammed_Al-Jasser) dbp:predecessor o'<Khalid bin Mohammed Al Gosaibi>",
+    "17" : "s(Muhammed_Al-Jasser) dbp:religion o'<Islam>",
+    "18" : "s(Muhammed_Al-Jasser) dbp:termEnd o'<December 2011>",
+    "19" : "s(Muhammed_Al-Jasser) dbp:termStart o'<February 2009>",
+    "20" : "s(Muhammed_Al-Jasser) dbp:title o'<Minister of Economy and Planning>",
+    "21" : "s(Muhammed_Al-Jasser) dbp:years o'<2011>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14479",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Balderrama",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Michael_Balderrama) dbo:birthDate o'<1973-5-29>",
+    "2" : "s(Michael_Balderrama) dbo:birthPlace o'<Rockford,_Illinois>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14480",
+  "entityUrl" : "http://dbpedia.org/resource/Marcos_Dos_Santos_Paran%C3%A1",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14481",
+  "entityUrl" : "http://dbpedia.org/resource/Maria_Rita_Epik",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Maria_Rita_Epik) dbo:birthDate o'<1958-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14482",
+  "entityUrl" : "http://dbpedia.org/resource/Marcel_Merk%C3%A8s",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

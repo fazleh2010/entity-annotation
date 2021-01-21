@@ -1,0 +1,60 @@
+[ {
+  "entityIndex" : "entity11243",
+  "entityUrl" : "http://dbpedia.org/resource/Ram%C3%B3n_Rato",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11244",
+  "entityUrl" : "http://dbpedia.org/resource/Roberto_M%C3%A1rquez",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11245",
+  "entityUrl" : "http://dbpedia.org/resource/Roland_Vogt",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Roland_Vogt) dbo:birthDate o'<1941-2-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11246",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Grieco",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Richard_Grieco) dbo:activeYearsStartYear o'<1986>",
+    "2" : "s(Richard_Grieco) dbo:birthDate o'<1965-03-23>",
+    "3" : "s(Richard_Grieco) dbo:birthDate o'<1965-3-23>",
+    "4" : "s(Richard_Grieco) dbo:birthName o'<Richard John Grieco, Jr.>",
+    "5" : "s(Richard_Grieco) dbo:birthPlace o'<New_York_City>",
+    "6" : "s(Richard_Grieco) dbo:birthPlace o'<New_York_(state)>",
+    "7" : "s(Richard_Grieco) dbo:birthPlace o'<Watertown,_New_York>",
+    "8" : "s(Richard_Grieco) dbo:birthYear o'<1965>",
+    "9" : "s(Richard_Grieco) dbp:imagesize o'<200>",
+    "10" : "s(Richard_Grieco) dbp:website o'<www.griecoart.com>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11247",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Anastas",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Robert_Anastas) dbo:birthDate o'<1934-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11248",
+  "entityUrl" : "http://dbpedia.org/resource/Rosalie_Gicanda",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Rosalie_Gicanda) dbo:deathDate o'<1994-4-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

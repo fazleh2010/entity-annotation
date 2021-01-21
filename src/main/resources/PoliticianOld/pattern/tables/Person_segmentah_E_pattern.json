@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "entity10993",
+  "entityUrl" : "http://dbpedia.org/resource/Ethan_Leib",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Ethan_Leib) dbo:birthDate o'<1975-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10994",
+  "entityUrl" : "http://dbpedia.org/resource/Ellen_Kuzwayo",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Ellen_Kuzwayo) dbo:birthDate o'<1914-6-29>",
+    "2" : "s(Ellen_Kuzwayo) dbo:birthPlace o'<Thaba_'Nchu>",
+    "3" : "s(Ellen_Kuzwayo) dbo:deathDate o'<2006-4-19>",
+    "4" : "s(Ellen_Kuzwayo) dbo:deathPlace o'<Soweto>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10995",
+  "entityUrl" : "http://dbpedia.org/resource/Emma_Cunniffe",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Emma_Cunniffe) dbo:birthDate o'<1973-7-3>",
+    "2" : "s(Emma_Cunniffe) dbo:imdbId o'<0192209>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10996",
+  "entityUrl" : "http://dbpedia.org/resource/Electra_Havemeyer_Webb",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Electra_Havemeyer_Webb) dbo:birthDate o'<1888-8-16>",
+    "2" : "s(Electra_Havemeyer_Webb) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Electra_Havemeyer_Webb) dbo:deathDate o'<1960-11-19>",
+    "4" : "s(Electra_Havemeyer_Webb) dbo:deathPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10997",
+  "entityUrl" : "http://dbpedia.org/resource/Edna_Wallace_Hopper",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Edna_Wallace_Hopper) dbo:birthDate o'<1872-01-17>",
+    "2" : "s(Edna_Wallace_Hopper) dbo:birthDate o'<1872-1-17>",
+    "3" : "s(Edna_Wallace_Hopper) dbo:birthName o'<Edna Wallace>",
+    "4" : "s(Edna_Wallace_Hopper) dbo:birthPlace o'<San_Francisco,_California>",
+    "5" : "s(Edna_Wallace_Hopper) dbo:birthPlace o'<San_Francisco>",
+    "6" : "s(Edna_Wallace_Hopper) dbo:birthYear o'<1872>",
+    "7" : "s(Edna_Wallace_Hopper) dbo:deathCause o'<Pneumonia>",
+    "8" : "s(Edna_Wallace_Hopper) dbo:deathDate o'<1959-12-14>",
+    "9" : "s(Edna_Wallace_Hopper) dbo:deathPlace o'<New_York_City>",
+    "10" : "s(Edna_Wallace_Hopper) dbo:deathPlace o'<Manhattan,_New_York_City>",
+    "11" : "s(Edna_Wallace_Hopper) dbo:deathYear o'<1959>",
+    "12" : "s(Edna_Wallace_Hopper) dbo:occupation o'<Edna_Wallace_Hopper__1>",
+    "13" : "s(Edna_Wallace_Hopper) dbp:spouse o'<DeWolf Hopper>",
+    "14" : "s(Edna_Wallace_Hopper) dbp:spouse o'<Albert Oldfield Brown>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10998",
+  "entityUrl" : "http://dbpedia.org/resource/Elvira_Vinogradova",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

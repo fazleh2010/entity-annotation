@@ -1,0 +1,154 @@
+[ {
+  "entityIndex" : "entity10712",
+  "entityUrl" : "http://dbpedia.org/resource/Labatt_Brewing_Company",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Labatt_Brewing_Company) dbo:foundationPlace o'<List_of_Oldest_Breweries_of_Canada>",
+    "2" : "s(Labatt_Brewing_Company) dbo:foundedBy o'<John_Kinder_Labatt>",
+    "3" : "s(Labatt_Brewing_Company) dbo:foundingYear o'<1847>",
+    "4" : "s(Labatt_Brewing_Company) dbo:industry o'<Alcoholic_beverage>",
+    "5" : "s(Labatt_Brewing_Company) dbo:internationally o'<true>",
+    "6" : "s(Labatt_Brewing_Company) dbo:locationCity o'<Toronto>",
+    "7" : "s(Labatt_Brewing_Company) dbo:locationCountry o'<Canada>",
+    "8" : "s(Labatt_Brewing_Company) dbo:owner o'<Anheuser-Busch_InBev>",
+    "9" : "s(Labatt_Brewing_Company) dbo:owningCompany o'<Anheuser-Busch_InBev>",
+    "10" : "s(Labatt_Brewing_Company) dbo:product o'<Beer>",
+    "11" : "s(Labatt_Brewing_Company) dbo:subsidiary o'<The_Beer_Store>",
+    "12" : "s(Labatt_Brewing_Company) dbp:logo o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10713",
+  "entityUrl" : "http://dbpedia.org/resource/Lionhead_Studios",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Lionhead_Studios) dbo:extinctionDate o'<2016-04-29>",
+    "2" : "s(Lionhead_Studios) dbo:extinctionYear o'<2016>",
+    "3" : "s(Lionhead_Studios) dbo:industry o'<Video_game_industry>",
+    "4" : "s(Lionhead_Studios) dbo:locationCity o'<London>",
+    "5" : "s(Lionhead_Studios) dbo:locationCountry o'<England>",
+    "6" : "s(Lionhead_Studios) dbo:numberOfEmployees o'<100>",
+    "7" : "s(Lionhead_Studios) dbo:owner o'<Microsoft>",
+    "8" : "s(Lionhead_Studios) dbo:owningCompany o'<Microsoft>",
+    "9" : "s(Lionhead_Studios) dbo:parentCompany o'<Microsoft_Studios>",
+    "10" : "s(Lionhead_Studios) dbo:product o'<Black_&_White_(video_game)>",
+    "11" : "s(Lionhead_Studios) dbo:product o'<Fable_(video_game_series)>",
+    "12" : "s(Lionhead_Studios) dbo:product o'<The_Movies>",
+    "13" : "s(Lionhead_Studios) dbo:type o'<Subsidiary>",
+    "14" : "s(Lionhead_Studios) dbp:founders o'<Peter_Molyneux>",
+    "15" : "s(Lionhead_Studios) dbp:founders o'<Steve_Jackson_(UK_game_designer)>",
+    "16" : "s(Lionhead_Studios) dbp:founders o'<Mark Webley>",
+    "17" : "s(Lionhead_Studios) dbp:founders o'<Tim Rance>",
+    "18" : "s(Lionhead_Studios) dbp:keyPeople o'<Benjamin Owen Orndorff>",
+    "19" : "s(Lionhead_Studios) dbp:keyPeople o'<Keith Ranger Dolliver>",
+    "20" : "s(Lionhead_Studios) dbp:logo o'<Lionhead Studios Logo.png>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10714",
+  "entityUrl" : "http://dbpedia.org/resource/LucasArts",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(LucasArts) dbo:foundedBy o'<George_Lucas>",
+    "2" : "s(LucasArts) dbo:industry o'<Interactive_entertainment>",
+    "3" : "s(LucasArts) dbo:location o'<United_States>",
+    "4" : "s(LucasArts) dbo:location o'<Letterman_Digital_Arts_Center>",
+    "5" : "s(LucasArts) dbo:location o'<California>",
+    "6" : "s(LucasArts) dbo:location o'<San_Francisco>",
+    "7" : "s(LucasArts) dbo:parentCompany o'<The_Walt_Disney_Company>",
+    "8" : "s(LucasArts) dbo:parentCompany o'<Lucasfilm>",
+    "9" : "s(LucasArts) dbo:product o'<List_of_LucasArts_games>",
+    "10" : "s(LucasArts) dbo:type o'<Limited_liability_company>",
+    "11" : "s(LucasArts) dbp:areaServed o'<Worldwide>",
+    "12" : "s(LucasArts) dbp:date o'<19961220185621>",
+    "13" : "s(LucasArts) dbp:keyPeople o'<Ada Duan>",
+    "14" : "s(LucasArts) dbp:logo o'<200>",
+    "15" : "s(LucasArts) dbp:numEmployees o'<Fewer than 10>",
+    "16" : "s(LucasArts) dbp:title o'<Official website>",
+    "17" : "s(LucasArts) dbp:url o'<www.lucasarts.com>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10715",
+  "entityUrl" : "http://dbpedia.org/resource/Lucent",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Lucent) dbo:extinctionYear o'<2006>",
+    "2" : "s(Lucent) dbo:fate o'<Merged with Alcatel SA>",
+    "3" : "s(Lucent) dbo:foundingDate o'<1996-09-30>",
+    "4" : "s(Lucent) dbo:foundingYear o'<1996>",
+    "5" : "s(Lucent) dbo:industry o'<Telecommunications_equipment>",
+    "6" : "s(Lucent) dbo:locationCity o'<New_Jersey>",
+    "7" : "s(Lucent) dbo:locationCity o'<Murray_Hill,_New_Jersey>",
+    "8" : "s(Lucent) dbo:locationCountry o'<United_States>",
+    "9" : "s(Lucent) dbo:numberOfEmployees o'<30500>",
+    "10" : "s(Lucent) dbo:predecessor o'<Bell_Labs>",
+    "11" : "s(Lucent) dbo:predecessor o'<AT&T_Technologies>",
+    "12" : "s(Lucent) dbo:predecessor o'<Western_Electric>",
+    "13" : "s(Lucent) dbo:revenue o'<9.44E9>",
+    "14" : "s(Lucent) dbo:successor o'<Alcatel-Lucent>",
+    "15" : "s(Lucent) dbp:logo o'<230>",
+    "16" : "s(Lucent) dbp:type o'<Public>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(lucent=Lucent) [merged with ] o'<alcatel=Alcatel-Lucent>"
+  },
+  "abstract" : {
+    "4" : "lucent<Alcatel-Lucent> was merged with alcatel<Alcatel-Lucent> sa of france in a merger of equals on december 1, 2006, forming alcatel-lucent<Alcatel-Lucent>"
+  }
+}, {
+  "entityIndex" : "entity10716",
+  "entityUrl" : "http://dbpedia.org/resource/Lamborghini",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Lamborghini) dbo:equity o'<1.832E9>",
+    "2" : "s(Lamborghini) dbo:foundedBy o'<Ferruccio_Lamborghini>",
+    "3" : "s(Lamborghini) dbo:foundingYear o'<1963>",
+    "4" : "s(Lamborghini) dbo:internationally o'<true>",
+    "5" : "s(Lamborghini) dbo:keyPerson o'<Stefano_Domenicali>",
+    "6" : "s(Lamborghini) dbo:locationCity o'<Sant'Agata_Bolognese>",
+    "7" : "s(Lamborghini) dbo:netIncome o'<1.01E7>",
+    "8" : "s(Lamborghini) dbo:numberOfEmployees o'<1146>",
+    "9" : "s(Lamborghini) dbo:parentCompany o'<Audi>",
+    "10" : "s(Lamborghini) dbo:production o'<3245>",
+    "11" : "s(Lamborghini) dbo:revenue o'<5.86E8>",
+    "12" : "s(Lamborghini) dbo:type o'<Privately_held_company>",
+    "13" : "s(Lamborghini) dbp:industry o'<Automotive>",
+    "14" : "s(Lamborghini) dbp:locationCountry o'<Italy>",
+    "15" : "s(Lamborghini) dbp:logo o'<180>",
+    "16" : "s(Lamborghini) dbp:logo o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10717",
+  "entityUrl" : "http://dbpedia.org/resource/Lexus",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Lexus) dbo:division o'<Lexus_F>",
+    "2" : "s(Lexus) dbo:foundedBy o'<Eiji_Toyoda>",
+    "3" : "s(Lexus) dbo:foundingYear o'<1989>",
+    "4" : "s(Lexus) dbo:industry o'<Automotive>",
+    "5" : "s(Lexus) dbo:keyPerson o'<General_manager>",
+    "6" : "s(Lexus) dbo:keyPerson o'<Managing_director>",
+    "7" : "s(Lexus) dbo:keyPerson o'<Vice_President>",
+    "8" : "s(Lexus) dbo:location o'<Japan>",
+    "9" : "s(Lexus) dbo:location o'<Nagoya>",
+    "10" : "s(Lexus) dbo:owner o'<Toyota>",
+    "11" : "s(Lexus) dbo:owningCompany o'<Toyota>",
+    "12" : "s(Lexus) dbo:product o'<Luxury_vehicles>",
+    "13" : "s(Lexus) dbo:service o'<Financial_services>",
+    "14" : "s(Lexus) dbo:type o'<Division_(business)>",
+    "15" : "s(Lexus) dbp:areaServed o'<Worldwide>",
+    "16" : "s(Lexus) dbp:logo o'<225>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "11" : "s(lexus=Lexus) [performance ] o'<division=Division_(business)>"
+  },
+  "abstract" : {
+    "11" : "in 2007, lexus launched its own f marque<Lexus_F> performance division<Division_(business)> with the debut of the is f sport<Lexus_F> sedan, followed by the lfa supercar in 2009"
+  }
+} ]

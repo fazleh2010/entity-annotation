@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity11421",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_Haddelsey",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Vincent_Haddelsey) dbo:birthDate o'<1934-1-1>",
+    "2" : "s(Vincent_Haddelsey) dbo:deathDate o'<2010-8-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11422",
+  "entityUrl" : "http://dbpedia.org/resource/Vera_Anisimova",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Vera_Anisimova) dbo:birthDate o'<1952-5-25>",
+    "2" : "s(Vera_Anisimova) dbo:birthPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11423",
+  "entityUrl" : "http://dbpedia.org/resource/Viola_Myers",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Viola_Myers) dbo:birthDate o'<1927-1-1>",
+    "2" : "s(Viola_Myers) dbo:birthPlace o'<Toronto>",
+    "3" : "s(Viola_Myers) dbo:country o'<Canada>",
+    "4" : "s(Viola_Myers) dbp:birthDate o'<1927>",
+    "5" : "s(Viola_Myers) dbp:club o'<Malvernette Athletic Club, Toronto>",
+    "6" : "s(Viola_Myers) dbp:event o'<100 m>",
+    "7" : "s(Viola_Myers) dbp:imageSize o'<300>",
+    "8" : "s(Viola_Myers) dbp:pb o'<6000.0>",
+    "9" : "s(Viola_Myers) dbp:pb o'<12000.0>",
+    "10" : "s(Viola_Myers) dbp:showMedals o'<yes>",
+    "11" : "s(Viola_Myers) dbp:sport o'<Athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11424",
+  "entityUrl" : "http://dbpedia.org/resource/Vera_Popkova",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Vera_Popkova) dbo:birthDate o'<1943-4-2>",
+    "2" : "s(Vera_Popkova) dbo:birthPlace o'<Chelyabinsk>",
+    "3" : "s(Vera_Popkova) dbo:deathDate o'<2011-9-29>",
+    "4" : "s(Vera_Popkova) dbo:deathPlace o'<Lviv>",
+    "5" : "s(Vera_Popkova) dbp:countryCode o'<URS>",
+    "6" : "s(Vera_Popkova) dbp:sport o'<Women's athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11425",
+  "entityUrl" : "http://dbpedia.org/resource/Verlyn_Klinkenborg",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Verlyn_Klinkenborg) dbo:birthDate o'<1952-1-1>",
+    "2" : "s(Verlyn_Klinkenborg) dbo:birthPlace o'<Meeker,_Colorado>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11426",
+  "entityUrl" : "http://dbpedia.org/resource/Vladimirs_Buzajevs",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Vladimirs_Buzajevs) dbo:birthDate o'<1951-10-08>",
+    "2" : "s(Vladimirs_Buzajevs) dbo:birthDate o'<1951-10-8>",
+    "3" : "s(Vladimirs_Buzajevs) dbo:birthPlace o'<Russian_SFSR>",
+    "4" : "s(Vladimirs_Buzajevs) dbo:birthPlace o'<Zhukovka,_Bryansk_Oblast>",
+    "5" : "s(Vladimirs_Buzajevs) dbo:birthYear o'<1951>",
+    "6" : "s(Vladimirs_Buzajevs) dbo:occupation o'<Vladimirs_Buzajevs__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

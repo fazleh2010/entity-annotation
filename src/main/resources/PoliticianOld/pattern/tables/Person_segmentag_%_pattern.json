@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity10961",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Br%C3%A9zin",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10962",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%96sten_Bergstrand",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10963",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%98ystein_Josefsen",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10964",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_van_Marcke",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10965",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98erban_Ciochin%C4%83",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10966",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%96zdemir_Sabanc%C4%B1",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity10980",
+  "entityUrl" : "http://dbpedia.org/resource/Chiaki_Kuriyama",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Chiaki_Kuriyama) dbo:activeYearsStartYear o'<1995>",
+    "2" : "s(Chiaki_Kuriyama) dbo:birthDate o'<1984-10-10>",
+    "3" : "s(Chiaki_Kuriyama) dbo:birthPlace o'<Tsuchiura>",
+    "4" : "s(Chiaki_Kuriyama) dbo:birthPlace o'<Tsuchiura,_Ibaraki>",
+    "5" : "s(Chiaki_Kuriyama) dbo:birthYear o'<1984>",
+    "6" : "s(Chiaki_Kuriyama) dbo:height o'<162.0>",
+    "7" : "s(Chiaki_Kuriyama) dbo:height o'<1.62>",
+    "8" : "s(Chiaki_Kuriyama) dbo:imdbId o'<0475752>",
+    "9" : "s(Chiaki_Kuriyama) dbo:occupation o'<Chiaki_Kuriyama__1>",
+    "10" : "s(Chiaki_Kuriyama) dbp:name o'<Chiaki Kuriyama>",
+    "11" : "s(Chiaki_Kuriyama) dbp:nationality o'<Japanese>",
+    "12" : "s(Chiaki_Kuriyama) dbp:nativeName o'<æ —å±± å�ƒæ˜Ž>",
+    "13" : "s(Chiaki_Kuriyama) dbp:nativeNameLang o'<ja>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10981",
+  "entityUrl" : "http://dbpedia.org/resource/Chu_Song-woong",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Chu_Song-woong) dbo:birthDate o'<1941-9-4>",
+    "2" : "s(Chu_Song-woong) dbo:birthPlace o'<Goseong_County,_South_Gyeongsang>",
+    "3" : "s(Chu_Song-woong) dbo:deathDate o'<1985-12-29>",
+    "4" : "s(Chu_Song-woong) dbp:hangul o'<ì¶”ì†¡ì›…>",
+    "5" : "s(Chu_Song-woong) dbp:hanja o'<ç§‹æ�¾é›„>",
+    "6" : "s(Chu_Song-woong) dbp:mr o'<Chu Song-WÅ�ng>",
+    "7" : "s(Chu_Song-woong) dbp:rr o'<Chu Song-ung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10982",
+  "entityUrl" : "http://dbpedia.org/resource/Copley_Fielding",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Copley_Fielding) dbo:birthDate o'<1787-11-22>",
+    "2" : "s(Copley_Fielding) dbo:deathDate o'<1855-3-3>",
+    "3" : "s(Copley_Fielding) dbo:deathPlace o'<Worthing>",
+    "4" : "s(Copley_Fielding) dbp:noicon o'<1>",
+    "5" : "s(Copley_Fielding) dbp:wstitle o'<Fielding, Anthony Vandyke Copley>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10983",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Bressler",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Charles_Bressler) dbo:birthDate o'<1926-4-1>",
+    "2" : "s(Charles_Bressler) dbo:deathDate o'<1996-11-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10984",
+  "entityUrl" : "http://dbpedia.org/resource/Christoph_von_Dohn%C3%A1nyi",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10985",
+  "entityUrl" : "http://dbpedia.org/resource/Clive_Revill",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Clive_Revill) dbo:activeYearsStartYear o'<1950>",
+    "2" : "s(Clive_Revill) dbo:birthDate o'<1930-04-18>",
+    "3" : "s(Clive_Revill) dbo:birthDate o'<1930-4-18>",
+    "4" : "s(Clive_Revill) dbo:birthName o'<Clive Selsby Revill>",
+    "5" : "s(Clive_Revill) dbo:birthPlace o'<Wellington>",
+    "6" : "s(Clive_Revill) dbo:birthYear o'<1930>",
+    "7" : "s(Clive_Revill) dbo:occupation o'<Clive_Revill__1>",
+    "8" : "s(Clive_Revill) dbp:spouse o'<Suzi Schor>",
+    "9" : "s(Clive_Revill) dbp:spouse o'<Valerie Nelson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

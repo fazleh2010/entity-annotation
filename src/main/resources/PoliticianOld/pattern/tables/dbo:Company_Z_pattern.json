@@ -1,0 +1,127 @@
+[ {
+  "entityIndex" : "entity10796",
+  "entityUrl" : "http://dbpedia.org/resource/Zilog",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Zilog) dbo:foundedBy o'<Federico_Faggin>",
+    "2" : "s(Zilog) dbo:foundingYear o'<1974>",
+    "3" : "s(Zilog) dbo:industry o'<Semiconductors>",
+    "4" : "s(Zilog) dbo:keyPerson o'<President_of_the_United_States>",
+    "5" : "s(Zilog) dbo:keyPerson o'<Chairman>",
+    "6" : "s(Zilog) dbo:location o'<United_States>",
+    "7" : "s(Zilog) dbo:location o'<California>",
+    "8" : "s(Zilog) dbo:location o'<San_Jose,_California>",
+    "9" : "s(Zilog) dbo:netIncome o'<3180000.0>",
+    "10" : "s(Zilog) dbo:numberOfEmployees o'<174>",
+    "11" : "s(Zilog) dbo:operatingIncome o'<1.839E7>",
+    "12" : "s(Zilog) dbo:parentCompany o'<IXYS_Corporation>",
+    "13" : "s(Zilog) dbo:revenue o'<8.2E7>",
+    "14" : "s(Zilog) dbo:revenue o'<3.62E7>",
+    "15" : "s(Zilog) dbo:revenue o'<6.72E7>",
+    "16" : "s(Zilog) dbo:type o'<Subsidiary>",
+    "17" : "s(Zilog) dbp:logo o'<145>",
+    "18" : "s(Zilog) dbp:products o'<Microcontrollers>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10797",
+  "entityUrl" : "http://dbpedia.org/resource/ZAZ",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(ZAZ) dbo:foundingYear o'<1923>",
+    "2" : "s(ZAZ) dbo:industry o'<Automotive>",
+    "3" : "s(ZAZ) dbo:locationCity o'<Zaporizhia>",
+    "4" : "s(ZAZ) dbo:locationCountry o'<Ukraine>",
+    "5" : "s(ZAZ) dbo:netIncome o'<5.64E8>",
+    "6" : "s(ZAZ) dbo:parentCompany o'<Ukrainian_Automobile_Corporation>",
+    "7" : "s(ZAZ) dbo:revenue o'<1.295E10>",
+    "8" : "s(ZAZ) dbo:type o'<Subsidiary>",
+    "9" : "s(ZAZ) dbp:areaServed o'<International>",
+    "10" : "s(ZAZ) dbp:founder o'<Soviet Union>",
+    "11" : "s(ZAZ) dbp:imageCaption o'<ZAZ factory in Zaporizhia>",
+    "12" : "s(ZAZ) dbp:imageSize o'<250>",
+    "13" : "s(ZAZ) dbp:logo o'<ZAZ Logo.png>",
+    "14" : "s(ZAZ) dbp:products o'<Cars, vans, buses>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10798",
+  "entityUrl" : "http://dbpedia.org/resource/Zenobi",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Zenobi) dbo:foundingYear o'<1982>",
+    "2" : "s(Zenobi) dbo:genre o'<Software>",
+    "3" : "s(Zenobi) dbo:locationCountry o'<United_Kingdom>",
+    "4" : "s(Zenobi) dbp:founder o'<John Wilson>",
+    "5" : "s(Zenobi) dbp:locationCity o'<Cutgate, Rochdale, Greater Manchester>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10799",
+  "entityUrl" : "http://dbpedia.org/resource/Zonophone",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Zonophone) dbo:extinctionYear o'<1903>",
+    "2" : "s(Zonophone) dbo:fate o'<Acquired>",
+    "3" : "s(Zonophone) dbo:foundingYear o'<1899>",
+    "4" : "s(Zonophone) dbo:industry o'<Recording_industry>",
+    "5" : "s(Zonophone) dbo:locationCity o'<Camden,_New_Jersey>",
+    "6" : "s(Zonophone) dbo:locationCountry o'<United_States>",
+    "7" : "s(Zonophone) dbo:owner o'<Warner_Music_Group>",
+    "8" : "s(Zonophone) dbo:owner o'<EMI>",
+    "9" : "s(Zonophone) dbo:owner o'<Eldridge_R._Johnson>",
+    "10" : "s(Zonophone) dbo:owningCompany o'<Warner_Music_Group>",
+    "11" : "s(Zonophone) dbo:owningCompany o'<EMI>",
+    "12" : "s(Zonophone) dbo:owningCompany o'<Eldridge_R._Johnson>",
+    "13" : "s(Zonophone) dbo:product o'<Phonograph>",
+    "14" : "s(Zonophone) dbo:product o'<Phonograph_records>",
+    "15" : "s(Zonophone) dbo:successor o'<Victor_Talking_Machine_Company>",
+    "16" : "s(Zonophone) dbo:successor o'<Warner_Music_Group>",
+    "17" : "s(Zonophone) dbo:successor o'<EMI>",
+    "18" : "s(Zonophone) dbo:type o'<Corporation>",
+    "19" : "s(Zonophone) dbp:founder o'<Frank Seaman>",
+    "20" : "s(Zonophone) dbp:imageSize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10800",
+  "entityUrl" : "http://dbpedia.org/resource/Zellers",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Zellers) dbo:extinctionDate o'<2013-03-31>",
+    "2" : "s(Zellers) dbo:extinctionYear o'<2013>",
+    "3" : "s(Zellers) dbo:fate o'<Most store leases acquired byTarget Canada,Walmart Canadaor closed outright. Two locations are retained to serve as liquidation centres for other HBC retail chains.>",
+    "4" : "s(Zellers) dbo:foundationPlace o'<Ontario>",
+    "5" : "s(Zellers) dbo:foundationPlace o'<Toronto>",
+    "6" : "s(Zellers) dbo:foundationPlace o'<Canada>",
+    "7" : "s(Zellers) dbo:foundedBy o'<Walter_P._Zeller>",
+    "8" : "s(Zellers) dbo:foundingYear o'<1931>",
+    "9" : "s(Zellers) dbo:industry o'<Discount_retail_store>",
+    "10" : "s(Zellers) dbo:location o'<Ontario>",
+    "11" : "s(Zellers) dbo:location o'<Brampton>",
+    "12" : "s(Zellers) dbo:location o'<Canada>",
+    "13" : "s(Zellers) dbo:numberOfLocations o'<350>",
+    "14" : "s(Zellers) dbo:owner o'<NRDC_Equity_Partners>",
+    "15" : "s(Zellers) dbo:owningCompany o'<NRDC_Equity_Partners>",
+    "16" : "s(Zellers) dbo:parentCompany o'<Hudson's_Bay_Company>",
+    "17" : "s(Zellers) dbo:type o'<Division_(business)>",
+    "18" : "s(Zellers) dbp:companySlogan o'<Everything from A to Z>",
+    "19" : "s(Zellers) dbp:logo o'<175>",
+    "20" : "s(Zellers) dbp:products o'<Clothing, grocery, footwear, bedding, furniture, jewelery, beauty products, electronics, toys, sports equipment, appliances, housewares>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10801",
+  "entityUrl" : "http://dbpedia.org/resource/Zions_Cooperative_Mercantile_Institution",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Zions_Cooperative_Mercantile_Institution) dbo:wikiPageRedirects o'<ZCMI>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

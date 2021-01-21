@@ -1,0 +1,74 @@
+[ {
+  "entityIndex" : "entity10999",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Corcoran",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Fred_Corcoran) dbo:birthDate o'<1905-4-4>",
+    "2" : "s(Fred_Corcoran) dbo:deathDate o'<1977-6-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11000",
+  "entityUrl" : "http://dbpedia.org/resource/Faubion_Bowers",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Faubion_Bowers) dbo:birthDate o'<1917-1-29>",
+    "2" : "s(Faubion_Bowers) dbo:deathDate o'<1999-11-17>",
+    "3" : "s(Faubion_Bowers) dbo:deathPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11001",
+  "entityUrl" : "http://dbpedia.org/resource/Felicity_Barr",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Felicity_Barr) dbo:birthDate o'<1970-9-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11002",
+  "entityUrl" : "http://dbpedia.org/resource/Ferdinand_Joachimsthal",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Ferdinand_Joachimsthal) dbo:birthDate o'<1818-3-9>",
+    "2" : "s(Ferdinand_Joachimsthal) dbo:birthPlace o'<ZÅ‚otoryja>",
+    "3" : "s(Ferdinand_Joachimsthal) dbo:deathDate o'<1861-4-5>",
+    "4" : "s(Ferdinand_Joachimsthal) dbo:deathPlace o'<WrocÅ‚aw>",
+    "5" : "s(Ferdinand_Joachimsthal) dbp:article o'<Joachimsthal, Ferdinand J.>",
+    "6" : "s(Ferdinand_Joachimsthal) dbp:url o'<view.jsp?letter=J&artid=327>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11003",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Talbot,_11th_Earl_of_Shrewsbury",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Francis_Talbot,_11th_Earl_of_Shrewsbury) dbp:after o'<Charles_Talbot,_1st_Duke_of_Shrewsbury>",
+    "2" : "s(Francis_Talbot,_11th_Earl_of_Shrewsbury) dbp:before o'<John_Talbot,_10th_Earl_of_Shrewsbury>",
+    "3" : "s(Francis_Talbot,_11th_Earl_of_Shrewsbury) dbp:title o'<Lord_High_Steward_of_Ireland>",
+    "4" : "s(Francis_Talbot,_11th_Earl_of_Shrewsbury) dbp:title o'<Earl_of_Shrewsbury>",
+    "5" : "s(Francis_Talbot,_11th_Earl_of_Shrewsbury) dbp:years o'<1654>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(francis talbot, 11th earl of shrewsbury=Francis_Talbot,_11th_Earl_of_Shrewsbury) [fled abroad to europe ] o'<earldom=Earl_of_Shrewsbury>",
+    "4" : "s(francis talbot, 11th earl of shrewsbury=Francis_Talbot,_11th_Earl_of_Shrewsbury) [suspected of complicity in ] o'<charles=Charles_Talbot,_1st_Duke_of_Shrewsbury>"
+  },
+  "abstract" : {
+    "3" : "following the royalist defeat there francis talbot, 11th earl of shrewsbury<Francis_Talbot,_11th_Earl_of_Shrewsbury> fled abroad to europe but returned to england before february 1653/54, the month francis talbot, 11th earl of shrewsbury<Francis_Talbot,_11th_Earl_of_Shrewsbury> succeeded to his father's earldom<Earl_of_Shrewsbury>, when francis talbot, 11th earl of shrewsbury<Francis_Talbot,_11th_Earl_of_Shrewsbury> petitioned the lord protector, oliver cromwell, to pardon him for all offences against parliament\n",
+    "4" : "francis talbot, 11th earl of shrewsbury<Francis_Talbot,_11th_Earl_of_Shrewsbury> was suspected of complicity in the unsuccessful royalist rising by sir george booth in august 1659 in the period between cromwell's death and the restoration of king charles<Charles_Talbot,_1st_Duke_of_Shrewsbury> ii in 1660\n"
+  }
+}, {
+  "entityIndex" : "entity11004",
+  "entityUrl" : "http://dbpedia.org/resource/Florence_Mars",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Florence_Mars) dbo:birthDate o'<1923-1-1>",
+    "2" : "s(Florence_Mars) dbo:deathDate o'<2006-4-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

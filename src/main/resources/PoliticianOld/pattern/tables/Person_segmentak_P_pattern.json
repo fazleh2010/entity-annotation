@@ -1,0 +1,90 @@
+[ {
+  "entityIndex" : "entity11548",
+  "entityUrl" : "http://dbpedia.org/resource/Peseshet",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11549",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Tauer",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11550",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Van_Cortlandt,_Jr.",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Pierre_Van_Cortlandt,_Jr.) dbo:wikiPageRedirects o'<Pierre_Van_Cortlandt_Jr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11551",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Amine_Gemayel",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Pierre_Amine_Gemayel) dbo:alias o'<Peter Al Gemayel>",
+    "2" : "s(Pierre_Amine_Gemayel) dbo:birthDate o'<1972-09-23>",
+    "3" : "s(Pierre_Amine_Gemayel) dbo:birthDate o'<1972-9-23>",
+    "4" : "s(Pierre_Amine_Gemayel) dbo:birthPlace o'<Beirut>",
+    "5" : "s(Pierre_Amine_Gemayel) dbo:birthYear o'<1972>",
+    "6" : "s(Pierre_Amine_Gemayel) dbo:deathDate o'<2006-11-21>",
+    "7" : "s(Pierre_Amine_Gemayel) dbo:deathPlace o'<Beirut>",
+    "8" : "s(Pierre_Amine_Gemayel) dbo:deathYear o'<2006>",
+    "9" : "s(Pierre_Amine_Gemayel) dbo:nationality o'<Lebanese_nationality_law>",
+    "10" : "s(Pierre_Amine_Gemayel) dbo:occupation o'<Pierre_Amine_Gemayel__1>",
+    "11" : "s(Pierre_Amine_Gemayel) dbo:parent o'<Amine_Gemayel>",
+    "12" : "s(Pierre_Amine_Gemayel) dbo:parent o'<Joyce_Gemayel>",
+    "13" : "s(Pierre_Amine_Gemayel) dbo:relation o'<Samy_Gemayel>",
+    "14" : "s(Pierre_Amine_Gemayel) dbo:relation o'<Pierre_Gemayel>",
+    "15" : "s(Pierre_Amine_Gemayel) dbo:stateOfOrigin o'<Lebanese_nationality_law>",
+    "16" : "s(Pierre_Amine_Gemayel) dbp:children o'<Amine>",
+    "17" : "s(Pierre_Amine_Gemayel) dbp:children o'<Iskander>",
+    "18" : "s(Pierre_Amine_Gemayel) dbp:knownFor o'<Cheikh Pierre>",
+    "19" : "s(Pierre_Amine_Gemayel) dbp:restingPlace o'<Family Grave, Bikfaya>",
+    "20" : "s(Pierre_Amine_Gemayel) dbp:spouse o'<Patricia Daif>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11552",
+  "entityUrl" : "http://dbpedia.org/resource/Patrice_Munsel",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Patrice_Munsel) dbo:birthDate o'<1925-05-14>",
+    "2" : "s(Patrice_Munsel) dbo:birthDate o'<1925-5-14>",
+    "3" : "s(Patrice_Munsel) dbo:birthName o'<Patrice Beverly Munsil>",
+    "4" : "s(Patrice_Munsel) dbo:birthPlace o'<Spokane,_Washington>",
+    "5" : "s(Patrice_Munsel) dbo:birthYear o'<1925>",
+    "6" : "s(Patrice_Munsel) dbo:deathDate o'<2016-08-04>",
+    "7" : "s(Patrice_Munsel) dbo:deathDate o'<2016-8-4>",
+    "8" : "s(Patrice_Munsel) dbo:deathPlace o'<Schroon_Lake,_New_York>",
+    "9" : "s(Patrice_Munsel) dbo:deathPlace o'<Q6122452>",
+    "10" : "s(Patrice_Munsel) dbo:deathYear o'<2016>",
+    "11" : "s(Patrice_Munsel) dbo:knownFor o'<Coloratura>",
+    "12" : "s(Patrice_Munsel) dbo:knownFor o'<Opera>",
+    "13" : "s(Patrice_Munsel) dbo:occupation o'<Patrice_Munsel__1>",
+    "14" : "s(Patrice_Munsel) dbo:spouse o'<Robert_C._Schuler>",
+    "15" : "s(Patrice_Munsel) dbp:children o'<2>",
+    "16" : "s(Patrice_Munsel) dbp:imageSize o'<210>",
+    "17" : "s(Patrice_Munsel) dbp:nationality o'<American>",
+    "18" : "s(Patrice_Munsel) dbp:parents o'<Audley J. Munsil>",
+    "19" : "s(Patrice_Munsel) dbp:parents o'<Eunice A. Munsil>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11553",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Ackerman",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Paul_Ackerman) dbo:birthDate o'<1908-2-18>",
+    "2" : "s(Paul_Ackerman) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Paul_Ackerman) dbo:deathDate o'<1977-12-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

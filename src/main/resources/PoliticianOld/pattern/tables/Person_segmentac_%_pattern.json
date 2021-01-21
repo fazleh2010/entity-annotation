@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11124",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Tappy",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11125",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89lie-Abel_Carri%C3%A8re",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11126",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%8Cuchi_Yoshitaka",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11127",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Pac%C3%B4me_N'Dri",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11128",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89douard_Boubat",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11129",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89ric_Rohmer",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

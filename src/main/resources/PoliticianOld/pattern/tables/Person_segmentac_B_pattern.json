@@ -1,0 +1,135 @@
+[ {
+  "entityIndex" : "entity10974",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Inglis",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Bob_Inglis) dbo:almaMater o'<Duke_University>",
+    "2" : "s(Bob_Inglis) dbo:almaMater o'<University_of_Virginia_School_of_Law>",
+    "3" : "s(Bob_Inglis) dbo:birthDate o'<1959-10-11>",
+    "4" : "s(Bob_Inglis) dbo:birthName o'<Robert Durden Inglis>",
+    "5" : "s(Bob_Inglis) dbo:birthPlace o'<Savannah,_Georgia>",
+    "6" : "s(Bob_Inglis) dbo:occupation o'<Lawyer>",
+    "7" : "s(Bob_Inglis) dbo:party o'<Republican_Party_(United_States)>",
+    "8" : "s(Bob_Inglis) dbo:region o'<South_Carolina's_4th_congressional_district>",
+    "9" : "s(Bob_Inglis) dbo:religion o'<Presbyterian_Church_in_America>",
+    "10" : "s(Bob_Inglis) dbo:residence o'<Travelers_Rest,_South_Carolina>",
+    "11" : "s(Bob_Inglis) dbo:termPeriod o'<Bob_Inglis__1>",
+    "12" : "s(Bob_Inglis) dbo:termPeriod o'<Bob_Inglis__2>",
+    "13" : "s(Bob_Inglis) dbp:after o'<Jim_DeMint>",
+    "14" : "s(Bob_Inglis) dbp:after o'<Trey_Gowdy>",
+    "15" : "s(Bob_Inglis) dbp:before o'<Jim_DeMint>",
+    "16" : "s(Bob_Inglis) dbp:before o'<Liz_Patterson>",
+    "17" : "s(Bob_Inglis) dbp:congbio o'<i000023>",
+    "18" : "s(Bob_Inglis) dbp:congresses o'<103>",
+    "19" : "s(Bob_Inglis) dbp:cspan o'<26441>",
+    "20" : "s(Bob_Inglis) dbp:date o'<20100203030916>",
+    "21" : "s(Bob_Inglis) dbp:district o'<4>",
+    "22" : "s(Bob_Inglis) dbp:fec o'<H2SC04022>",
+    "23" : "s(Bob_Inglis) dbp:govtrack o'<400649>",
+    "24" : "s(Bob_Inglis) dbp:legistorm o'<292>",
+    "25" : "s(Bob_Inglis) dbp:ontheissuespath o'<Bob_Inglis.htm>",
+    "26" : "s(Bob_Inglis) dbp:opencong o'<400649>",
+    "27" : "s(Bob_Inglis) dbp:opensecrets o'<N00002460>",
+    "28" : "s(Bob_Inglis) dbp:preceded o'<Jim_DeMint>",
+    "29" : "s(Bob_Inglis) dbp:preceded o'<Liz_Patterson>",
+    "30" : "s(Bob_Inglis) dbp:spouse o'<Mary Anne Inglis>",
+    "31" : "s(Bob_Inglis) dbp:state o'<South_Carolina>",
+    "32" : "s(Bob_Inglis) dbp:state o'<South Carolina>",
+    "33" : "s(Bob_Inglis) dbp:succeeded o'<Jim_DeMint>",
+    "34" : "s(Bob_Inglis) dbp:succeeded o'<Trey_Gowdy>",
+    "35" : "s(Bob_Inglis) dbp:title o'<Bob Inglis for U.S. Congress>",
+    "36" : "s(Bob_Inglis) dbp:title o'<Republican Party nominee for United States Senator from South Carolina (Class 3)>",
+    "37" : "s(Bob_Inglis) dbp:url o'<www.inglisforcongress.com>",
+    "38" : "s(Bob_Inglis) dbp:votesmart o'<27064>",
+    "39" : "s(Bob_Inglis) dbp:years o'<1993>",
+    "40" : "s(Bob_Inglis) dbp:years o'<1998>",
+    "41" : "s(Bob_Inglis) dbp:years o'<2005>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(bob inglis=Bob_Inglis) [member of ] o'<republican party=Republican_Party_(United_States)>"
+  },
+  "abstract" : {
+    "5" : "bob inglis<Bob_Inglis> is a member of the republican party<Republican_Party_(United_States)>\n"
+  }
+}, {
+  "entityIndex" : "entity10975",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Clark",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Bob_Clark) dbo:birthDate o'<1939-08-05>",
+    "2" : "s(Bob_Clark) dbo:birthDate o'<1939-8-5>",
+    "3" : "s(Bob_Clark) dbo:birthName o'<Benjamin Clark>",
+    "4" : "s(Bob_Clark) dbo:birthPlace o'<Louisiana>",
+    "5" : "s(Bob_Clark) dbo:birthPlace o'<New_Orleans>",
+    "6" : "s(Bob_Clark) dbo:birthYear o'<1939>",
+    "7" : "s(Bob_Clark) dbo:deathCause o'<Traffic_collision>",
+    "8" : "s(Bob_Clark) dbo:deathDate o'<2007-04-04>",
+    "9" : "s(Bob_Clark) dbo:deathDate o'<2007-4-4>",
+    "10" : "s(Bob_Clark) dbo:deathPlace o'<California>",
+    "11" : "s(Bob_Clark) dbo:deathPlace o'<Pacific_Palisades,_Los_Angeles>",
+    "12" : "s(Bob_Clark) dbo:deathYear o'<2007>",
+    "13" : "s(Bob_Clark) dbo:occupation o'<Bob_Clark__1>",
+    "14" : "s(Bob_Clark) dbp:notableWorks o'<A Christmas Story>",
+    "15" : "s(Bob_Clark) dbp:notableWorks o'<Black Christmas>",
+    "16" : "s(Bob_Clark) dbp:notableWorks o'<Porky's>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(bob clark=Bob_Clark) [worked primarily in united ] o'<porky's=Porky's>"
+  },
+  "abstract" : {
+    "2" : "although bob clark<Bob_Clark> worked primarily in the united states, from 1973 to 1983 bob clark<Bob_Clark> worked in canada and was responsible for some of the most successful films in canadian film history such as black christmas (1974), murder by decree (1979), tribute (1980), and porky's<Porky's> (1982)\n"
+  }
+}, {
+  "entityIndex" : "entity10976",
+  "entityUrl" : "http://dbpedia.org/resource/Baron_Isidore_Justin_S%C3%A9verin_Taylor",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10977",
+  "entityUrl" : "http://dbpedia.org/resource/Bonifacius",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Bonifacius) dbo:deathDate o'<432-1-1>",
+    "2" : "s(Bonifacius) dbp:title o'<Supreme Commander of the Western Roman Army>",
+    "3" : "s(Bonifacius) dbp:years o'<432>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10978",
+  "entityUrl" : "http://dbpedia.org/resource/Barbara_Jackson",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Barbara_Jackson) dbo:almaMater o'<University_of_North_Carolina_at_Chapel_Hill>",
+    "2" : "s(Barbara_Jackson) dbo:birthDate o'<1961-12-25>",
+    "3" : "s(Barbara_Jackson) dbo:birthDate o'<1961-1-1>",
+    "4" : "s(Barbara_Jackson) dbo:office o'<Associate Justice of theNorth Carolina Supreme Court>",
+    "5" : "s(Barbara_Jackson) dbo:termPeriod o'<Barbara_Jackson__1>",
+    "6" : "s(Barbara_Jackson) dbp:termStart o'<2010>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10979",
+  "entityUrl" : "http://dbpedia.org/resource/Brice_Beckham",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Brice_Beckham) dbo:activeYearsEndYear o'<1993>",
+    "2" : "s(Brice_Beckham) dbo:activeYearsStartYear o'<1984>",
+    "3" : "s(Brice_Beckham) dbo:birthDate o'<1976-02-11>",
+    "4" : "s(Brice_Beckham) dbo:birthDate o'<1976-2-11>",
+    "5" : "s(Brice_Beckham) dbo:birthName o'<James Brice Beckham>",
+    "6" : "s(Brice_Beckham) dbo:birthPlace o'<Long_Beach,_California>",
+    "7" : "s(Brice_Beckham) dbo:birthYear o'<1976>",
+    "8" : "s(Brice_Beckham) dbo:occupation o'<Brice_Beckham__1>",
+    "9" : "s(Brice_Beckham) dbo:residence o'<Los_Angeles,_California>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(brice beckham=Brice_Beckham) [lives in ] o'<los angeles=Los_Angeles,_California>"
+  },
+  "abstract" : {
+    "4" : "brice beckham<Brice_Beckham> currently lives in los angeles<Los_Angeles,_California> and is a member of la's<Los_Angeles,_California> namaste theater group\n"
+  }
+} ]

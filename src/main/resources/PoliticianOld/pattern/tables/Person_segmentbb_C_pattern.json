@@ -1,0 +1,77 @@
+[ {
+  "entityIndex" : "entity14254",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_van_den_Queborn",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Christian_van_den_Queborn) dbo:birthDate o'<1515-1-1>",
+    "2" : "s(Christian_van_den_Queborn) dbo:birthPlace o'<Antwerp>",
+    "3" : "s(Christian_van_den_Queborn) dbo:deathDate o'<1578-1-1>",
+    "4" : "s(Christian_van_den_Queborn) dbo:deathPlace o'<Antwerp>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14255",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Corri",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Charles_Corri) dbo:birthDate o'<1862-0-0>",
+    "2" : "s(Charles_Corri) dbo:deathDate o'<1941-1-1>",
+    "3" : "s(Charles_Corri) dbp:after o'<Lawrance_Collingwood>",
+    "4" : "s(Charles_Corri) dbp:before o'<none>",
+    "5" : "s(Charles_Corri) dbp:title o'<English_National_Opera>",
+    "6" : "s(Charles_Corri) dbp:years o'<1898>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(charles corri=Charles_Corri) [spent of his career ] o'<sadler's wells opera=English_National_Opera>"
+  },
+  "abstract" : {
+    "3" : "charles corri<Charles_Corri> spent most of his career working for lilian baylis, as her musical director at the old vic theatre, and then at sadler's wells opera<English_National_Opera>\n"
+  }
+}, {
+  "entityIndex" : "entity14256",
+  "entityUrl" : "http://dbpedia.org/resource/Chase_Finlay",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Chase_Finlay) dbo:birthDate o'<1990-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14257",
+  "entityUrl" : "http://dbpedia.org/resource/Chalermkiat_Watanangura",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Chalermkiat_Watanangura) dbo:deathDate o'<1960-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14258",
+  "entityUrl" : "http://dbpedia.org/resource/Costantino_Bresciani_Turroni",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Costantino_Bresciani_Turroni) dbo:birthDate o'<1882-2-26>",
+    "2" : "s(Costantino_Bresciani_Turroni) dbo:birthPlace o'<Verona>",
+    "3" : "s(Costantino_Bresciani_Turroni) dbo:deathDate o'<1963-1-1>",
+    "4" : "s(Costantino_Bresciani_Turroni) dbo:deathPlace o'<Milan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14259",
+  "entityUrl" : "http://dbpedia.org/resource/Claude_W._Hibbard",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Claude_W._Hibbard) dbo:birthDate o'<1905-3-21>",
+    "2" : "s(Claude_W._Hibbard) dbo:birthPlace o'<Toronto>",
+    "3" : "s(Claude_W._Hibbard) dbo:deathDate o'<1973-10-9>",
+    "4" : "s(Claude_W._Hibbard) dbo:deathPlace o'<Ann_Arbor,_Michigan>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "16" : "s(claude w. hibbard=Claude_W._Hibbard) [moved to ] o'<ann arbor=Ann_Arbor,_Michigan>"
+  },
+  "abstract" : {
+    "16" : "claude w. hibbard<Claude_W._Hibbard> moved to ann arbor<Ann_Arbor,_Michigan> definitively in 1946 and became professor of geology in 1953, a position claude w. hibbard<Claude_W._Hibbard> held until his death in 1973\n"
+  }
+} ]

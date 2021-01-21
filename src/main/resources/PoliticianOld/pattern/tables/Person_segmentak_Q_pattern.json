@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity11554",
+  "entityUrl" : "http://dbpedia.org/resource/Qutb_ud-Daula",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Qutb_ud-Daula) dbp:after o'<Nawab_Muhammad_Ali_Khan_Bahadur>",
+    "2" : "s(Qutb_ud-Daula) dbp:before o'<Subhan_Bakhsh>",
+    "3" : "s(Qutb_ud-Daula) dbp:deathDate o'<1821>",
+    "4" : "s(Qutb_ud-Daula) dbp:religion o'<Islam>",
+    "5" : "s(Qutb_ud-Daula) dbp:title o'<Nawab_of_Masulipatam>",
+    "6" : "s(Qutb_ud-Daula) dbp:years o'<1799>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11555",
+  "entityUrl" : "http://dbpedia.org/resource/Que_McMaster",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Que_McMaster) dbo:birthDate o'<1942-4-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11556",
+  "entityUrl" : "http://dbpedia.org/resource/Quincy_Coleman",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Quincy_Coleman) dbo:birthDate o'<1975-5-23>",
+    "2" : "s(Quincy_Coleman) dbp:bot o'<InternetArchiveBot>",
+    "3" : "s(Quincy_Coleman) dbp:date o'<July 2016>",
+    "4" : "s(Quincy_Coleman) dbp:fixAttempted o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11557",
+  "entityUrl" : "http://dbpedia.org/resource/Qar_(doctor)",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11558",
+  "entityUrl" : "http://dbpedia.org/resource/Qusta_ibn_Luqa",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Qusta_ibn_Luqa) dbo:birthDate o'<820-1-1>",
+    "2" : "s(Qusta_ibn_Luqa) dbo:birthPlace o'<Baalbek>",
+    "3" : "s(Qusta_ibn_Luqa) dbo:deathDate o'<912-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11559",
+  "entityUrl" : "http://dbpedia.org/resource/Qin_Hui_(historian)",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

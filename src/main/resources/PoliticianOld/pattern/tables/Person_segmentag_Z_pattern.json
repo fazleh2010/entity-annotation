@@ -1,0 +1,129 @@
+[ {
+  "entityIndex" : "entity10955",
+  "entityUrl" : "http://dbpedia.org/resource/Zac_Taylor",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Zac_Taylor) dbo:birthDate o'<1983-5-10>",
+    "2" : "s(Zac_Taylor) dbo:formerTeam o'<Winnipeg_Blue_Bombers>",
+    "3" : "s(Zac_Taylor) dbo:formerTeam o'<Tampa_Bay_Buccaneers>",
+    "4" : "s(Zac_Taylor) dbo:position o'<Offensive_coordinator>",
+    "5" : "s(Zac_Taylor) dbo:undraftedYear o'<2007>",
+    "6" : "s(Zac_Taylor) dbp:birthDate o'<1983-05-10>",
+    "7" : "s(Zac_Taylor) dbp:birthPlace o'<Norman,_Oklahoma>",
+    "8" : "s(Zac_Taylor) dbp:college o'<Nebraska_Cornhuskers_football>",
+    "9" : "s(Zac_Taylor) dbp:currentTeam o'<Cincinnati Bearcats>",
+    "10" : "s(Zac_Taylor) dbp:heightFt o'<6>",
+    "11" : "s(Zac_Taylor) dbp:heightIn o'<2>",
+    "12" : "s(Zac_Taylor) dbp:highschool o'<Norman_High_School>",
+    "13" : "s(Zac_Taylor) dbp:name o'<Zac Taylor>",
+    "14" : "s(Zac_Taylor) dbp:pastcoaching o'<* Texas A&M>",
+    "15" : "s(Zac_Taylor) dbp:pastcoaching o'<Offensive coordinator & quarterbacks coach>",
+    "16" : "s(Zac_Taylor) dbp:pastcoaching o'<Offensive coordinator & quarterbacks coach>",
+    "17" : "s(Zac_Taylor) dbp:pastcoaching o'<Assistant quarterbacks coach>",
+    "18" : "s(Zac_Taylor) dbp:pastcoaching o'<Graduate assistant>",
+    "19" : "s(Zac_Taylor) dbp:pastcoaching o'<Quarterbacks coach>",
+    "20" : "s(Zac_Taylor) dbp:weightLbs o'<210>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(zac taylor=Zac_Taylor) [born may 10 1983 ] o'<football=Nebraska_Cornhuskers_football>",
+    "3" : "s(zac taylor=Zac_Taylor) [starting quarterback for ] o'<cornhuskers football team=Nebraska_Cornhuskers_football>",
+    "4" : "s(zac taylor=Zac_Taylor) [recruited late in ] o'<huskers=Nebraska_Cornhuskers_football>",
+    "5" : "s(zac taylor=Zac_Taylor) [led ] o'<nebraska=Nebraska_Cornhuskers_football>",
+    "7" : "s(zac taylor=Zac_Taylor) [signed with national ] o'<football=Nebraska_Cornhuskers_football>"
+  },
+  "abstract" : {
+    "1" : "zac taylor<Zac_Taylor> (born may 10, 1983) is an american football<Nebraska_Cornhuskers_football> coach and former quarterback",
+    "3" : "from 2005 to 2006, zac taylor<Zac_Taylor> was the starting quarterback for cornhuskers football team<Nebraska_Cornhuskers_football> at the university of nebraska<Nebraska_Cornhuskers_football>\n",
+    "4" : "zac taylor<Zac_Taylor> was recruited late in the 2004-05 off-season by the huskers<Nebraska_Cornhuskers_football>, being a described \"lucky break\" due to the huskers<Nebraska_Cornhuskers_football> lack of quarterbacks<Quarterbacks_coach> at the time\n",
+    "5" : "zac taylor<Zac_Taylor> led nebraska<Nebraska_Cornhuskers_football> to an 8-4 record during his inaugural year, 2005, as a starter at quarterback\n",
+    "7" : "zac taylor<Zac_Taylor> signed with the national football<Nebraska_Cornhuskers_football> league's tampa bay buccaneers<Tampa_Bay_Buccaneers> as an undrafted free agent in 2007\n"
+  }
+}, {
+  "entityIndex" : "entity10956",
+  "entityUrl" : "http://dbpedia.org/resource/Zulima_Farber",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Zulima_Farber) dbo:almaMater o'<Montclair_State_University>",
+    "2" : "s(Zulima_Farber) dbo:almaMater o'<Rutgers_School_of_Lawâ€“Newark>",
+    "3" : "s(Zulima_Farber) dbo:birthDate o'<1944-0-0>",
+    "4" : "s(Zulima_Farber) dbo:birthPlace o'<Cuba>",
+    "5" : "s(Zulima_Farber) dbo:governor o'<Jon_Corzine>",
+    "6" : "s(Zulima_Farber) dbo:office o'<New Jersey Attorney General>",
+    "7" : "s(Zulima_Farber) dbo:orderInOffice o'<55th>",
+    "8" : "s(Zulima_Farber) dbo:party o'<Democratic_Party_(United_States)>",
+    "9" : "s(Zulima_Farber) dbo:predecessor o'<Peter_C._Harvey>",
+    "10" : "s(Zulima_Farber) dbo:profession o'<Lawyer>",
+    "11" : "s(Zulima_Farber) dbo:successor o'<Stuart_Rabner>",
+    "12" : "s(Zulima_Farber) dbo:termPeriod o'<Zulima_Farber__1>",
+    "13" : "s(Zulima_Farber) dbp:after o'<Anne_Milgram>",
+    "14" : "s(Zulima_Farber) dbp:before o'<Peter_C._Harvey>",
+    "15" : "s(Zulima_Farber) dbp:birthDate o'<1944>",
+    "16" : "s(Zulima_Farber) dbp:bot o'<InternetArchiveBot>",
+    "17" : "s(Zulima_Farber) dbp:date o'<July 2016>",
+    "18" : "s(Zulima_Farber) dbp:fixAttempted o'<yes>",
+    "19" : "s(Zulima_Farber) dbp:imagesize o'<250>",
+    "20" : "s(Zulima_Farber) dbp:spouse o'<Eugene Farber>",
+    "21" : "s(Zulima_Farber) dbp:title o'<New_Jersey_Attorney_General>",
+    "22" : "s(Zulima_Farber) dbp:years o'<January 2006 &ndash; August 2006>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(zulima farber=Zulima_Farber) [appointed ] o'<attorney general=New_Jersey_Attorney_General>",
+    "3" : "s(zulima farber=Zulima_Farber) [succeeded by first assistant ] o'<attorney general=New_Jersey_Attorney_General>"
+  },
+  "abstract" : {
+    "2" : "zulima farber<Zulima_Farber> was appointed attorney general<New_Jersey_Attorney_General> in 2006 by governor jon corzine<Jon_Corzine> and resigned on august 31, 2006\n",
+    "3" : "zulima farber<Zulima_Farber> was succeeded by first assistant attorney general<New_Jersey_Attorney_General> anne milgram<Anne_Milgram> on an interim basis until stuart rabner<Stuart_Rabner> took office on september 26, 2006\n"
+  }
+}, {
+  "entityIndex" : "entity10957",
+  "entityUrl" : "http://dbpedia.org/resource/Zishe_Breitbart",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Zishe_Breitbart) dbo:birthDate o'<1893-02-22>",
+    "2" : "s(Zishe_Breitbart) dbo:birthDate o'<1893-2-22>",
+    "3" : "s(Zishe_Breitbart) dbo:birthPlace o'<StrykÃ³w>",
+    "4" : "s(Zishe_Breitbart) dbo:birthPlace o'<Congress_Poland>",
+    "5" : "s(Zishe_Breitbart) dbo:birthYear o'<1893>",
+    "6" : "s(Zishe_Breitbart) dbo:deathDate o'<1925-10-12>",
+    "7" : "s(Zishe_Breitbart) dbo:deathPlace o'<Berlin>",
+    "8" : "s(Zishe_Breitbart) dbo:deathPlace o'<Weimar_Republic>",
+    "9" : "s(Zishe_Breitbart) dbo:deathYear o'<1925>",
+    "10" : "s(Zishe_Breitbart) dbo:knownFor o'<Strongman_(strength_athlete)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10958",
+  "entityUrl" : "http://dbpedia.org/resource/Zhou_Daguan",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Zhou_Daguan) dbo:birthDate o'<1266-1-1>",
+    "2" : "s(Zhou_Daguan) dbo:deathDate o'<1346-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10959",
+  "entityUrl" : "http://dbpedia.org/resource/Zygmunt_Wiehler",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Zygmunt_Wiehler) dbo:birthDate o'<1890-1-1>",
+    "2" : "s(Zygmunt_Wiehler) dbo:birthPlace o'<KrakÃ³w>",
+    "3" : "s(Zygmunt_Wiehler) dbo:deathDate o'<1977-1-1>",
+    "4" : "s(Zygmunt_Wiehler) dbp:bot o'<InternetArchiveBot>",
+    "5" : "s(Zygmunt_Wiehler) dbp:date o'<July 2016>",
+    "6" : "s(Zygmunt_Wiehler) dbp:fixAttempted o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10960",
+  "entityUrl" : "http://dbpedia.org/resource/Zina_Kocher",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Zina_Kocher) dbo:birthDate o'<1982-12-5>",
+    "2" : "s(Zina_Kocher) dbo:birthPlace o'<Red_Deer,_Alberta>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

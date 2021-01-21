@@ -1,0 +1,122 @@
+[ {
+  "entityIndex" : "entity11141",
+  "entityUrl" : "http://dbpedia.org/resource/Anne_Lister",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Anne_Lister) dbo:birthDate o'<1791-04-03>",
+    "2" : "s(Anne_Lister) dbo:birthDate o'<1791-4-3>",
+    "3" : "s(Anne_Lister) dbo:birthPlace o'<Halifax,_West_Yorkshire>",
+    "4" : "s(Anne_Lister) dbo:birthYear o'<1791>",
+    "5" : "s(Anne_Lister) dbo:deathDate o'<1840-09-22>",
+    "6" : "s(Anne_Lister) dbo:deathDate o'<1840-9-22>",
+    "7" : "s(Anne_Lister) dbo:deathPlace o'<Kutaisi>",
+    "8" : "s(Anne_Lister) dbo:deathYear o'<1840>",
+    "9" : "s(Anne_Lister) dbo:occupation o'<Anne_Lister__1>",
+    "10" : "s(Anne_Lister) dbp:by o'<yes>",
+    "11" : "s(Anne_Lister) dbp:knownFor o'<Diaries>",
+    "12" : "s(Anne_Lister) dbp:nationality o'<British>",
+    "13" : "s(Anne_Lister) dbp:viaf o'<69113357>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "7" : "s(anne lister=Anne_Lister) [rural gentlewoman ] o'<halifax=Halifax,_West_Yorkshire>"
+  },
+  "abstract" : {
+    "7" : "anne lister<Anne_Lister> was a rural gentlewoman who directed the renovation and landscaping of shibden hall, near halifax<Halifax,_West_Yorkshire> in the west riding of yorkshire, which anne lister<Anne_Lister> had inherited from her uncle, james lister\n"
+  }
+}, {
+  "entityIndex" : "entity11142",
+  "entityUrl" : "http://dbpedia.org/resource/Andrei_Mironov_(actor)",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Andrei_Mironov_(actor)) dbo:activeYearsEndYear o'<1987>",
+    "2" : "s(Andrei_Mironov_(actor)) dbo:activeYearsStartYear o'<1960>",
+    "3" : "s(Andrei_Mironov_(actor)) dbo:birthDate o'<1941-03-07>",
+    "4" : "s(Andrei_Mironov_(actor)) dbo:birthDate o'<1941-3-7>",
+    "5" : "s(Andrei_Mironov_(actor)) dbo:birthName o'<Andrei Alexandrovich Menaker>",
+    "6" : "s(Andrei_Mironov_(actor)) dbo:birthPlace o'<Russian_SFSR>",
+    "7" : "s(Andrei_Mironov_(actor)) dbo:birthPlace o'<Moscow>",
+    "8" : "s(Andrei_Mironov_(actor)) dbo:birthPlace o'<Soviet_Union>",
+    "9" : "s(Andrei_Mironov_(actor)) dbo:birthYear o'<1941>",
+    "10" : "s(Andrei_Mironov_(actor)) dbo:deathDate o'<1987-08-16>",
+    "11" : "s(Andrei_Mironov_(actor)) dbo:deathDate o'<1987-8-16>",
+    "12" : "s(Andrei_Mironov_(actor)) dbo:deathPlace o'<Riga>",
+    "13" : "s(Andrei_Mironov_(actor)) dbo:deathPlace o'<Soviet_Union>",
+    "14" : "s(Andrei_Mironov_(actor)) dbo:deathPlace o'<Latvian_Soviet_Socialist_Republic>",
+    "15" : "s(Andrei_Mironov_(actor)) dbo:deathYear o'<1987>",
+    "16" : "s(Andrei_Mironov_(actor)) dbo:occupation o'<Actor>",
+    "17" : "s(Andrei_Mironov_(actor)) dbo:occupation o'<Andrei_Mironov_(actor)__1>",
+    "18" : "s(Andrei_Mironov_(actor)) dbo:spouse o'<Larisa_Golubkina>",
+    "19" : "s(Andrei_Mironov_(actor)) dbo:spouse o'<Yekaterina_Gradova>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11143",
+  "entityUrl" : "http://dbpedia.org/resource/Ali_Bey_al-Abbasi",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ali_Bey_al-Abbasi) dbo:wikiPageRedirects o'<Ali_Bey_el_Abbassi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11144",
+  "entityUrl" : "http://dbpedia.org/resource/Ahmad_al-Badawi",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ahmad_al-Badawi) dbo:birthDate o'<1199-1-1>",
+    "2" : "s(Ahmad_al-Badawi) dbo:birthPlace o'<Fez,_Morocco>",
+    "3" : "s(Ahmad_al-Badawi) dbo:deathDate o'<1276-1-1>",
+    "4" : "s(Ahmad_al-Badawi) dbo:deathPlace o'<Tanta>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11145",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Stemple",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Adam_Stemple) dbo:activeYearsStartYear o'<1988>",
+    "2" : "s(Adam_Stemple) dbo:associatedBand o'<Cats_Laughing>",
+    "3" : "s(Adam_Stemple) dbo:associatedBand o'<Boiled_in_Lead>",
+    "4" : "s(Adam_Stemple) dbo:associatedMusicalArtist o'<Cats_Laughing>",
+    "5" : "s(Adam_Stemple) dbo:associatedMusicalArtist o'<Boiled_in_Lead>",
+    "6" : "s(Adam_Stemple) dbo:background o'<solo_singer>",
+    "7" : "s(Adam_Stemple) dbo:genre o'<Folk_rock>",
+    "8" : "s(Adam_Stemple) dbo:genre o'<Celtic_music>",
+    "9" : "s(Adam_Stemple) dbp:citizenship o'<American>",
+    "10" : "s(Adam_Stemple) dbp:id o'<Adam_Stemple>",
+    "11" : "s(Adam_Stemple) dbp:instrument o'<guitar, vocals>",
+    "12" : "s(Adam_Stemple) dbp:name o'<Adam Stemple>",
+    "13" : "s(Adam_Stemple) dbp:occupation o'<Musician, writer>",
+    "14" : "s(Adam_Stemple) dbp:relatives o'<Jane_Yolen>",
+    "15" : "s(Adam_Stemple) dbp:residence o'<Minneapolis, Minnesota, U.S.>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(adam stemple=Adam_Stemple) [celticinfluenced american ] o'<folk rock=Folk_rock>",
+    "2" : "s(adam stemple=Adam_Stemple) [author of ] o'<jane yolen=Jane_Yolen>"
+  },
+  "abstract" : {
+    "1" : "adam stemple<Adam_Stemple> is a celtic-influenced american folk rock<Folk_rock> musician, based in minneapolis, minnesota",
+    "2" : "adam stemple<Adam_Stemple> is also the author of several fantasy short stories and novels, including two series of novels co-written with his mother, writer jane yolen<Jane_Yolen>\n"
+  }
+}, {
+  "entityIndex" : "entity11146",
+  "entityUrl" : "http://dbpedia.org/resource/Asadollah_Lajevardi",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Asadollah_Lajevardi) dbo:birthDate o'<1935-1-1>",
+    "2" : "s(Asadollah_Lajevardi) dbo:birthYear o'<1935>",
+    "3" : "s(Asadollah_Lajevardi) dbo:deathDate o'<1998-08-22>",
+    "4" : "s(Asadollah_Lajevardi) dbo:deathDate o'<1998-8-22>",
+    "5" : "s(Asadollah_Lajevardi) dbo:deathPlace o'<Tehran_Bazaar>",
+    "6" : "s(Asadollah_Lajevardi) dbo:deathYear o'<1998>",
+    "7" : "s(Asadollah_Lajevardi) dbo:nationality o'<Iran>",
+    "8" : "s(Asadollah_Lajevardi) dbo:occupation o'<Asadollah_Lajevardi__1>",
+    "9" : "s(Asadollah_Lajevardi) dbo:party o'<Islamic_Coalition_Party>",
+    "10" : "s(Asadollah_Lajevardi) dbo:stateOfOrigin o'<Iran>",
+    "11" : "s(Asadollah_Lajevardi) dbp:deathCause o'<Assassination>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,85 @@
+[ {
+  "entityIndex" : "entity11041",
+  "entityUrl" : "http://dbpedia.org/resource/Manuel_Isa%C3%ADas_L%C3%B3pez",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11042",
+  "entityUrl" : "http://dbpedia.org/resource/Mohamad_Noah_Omar",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Mohamad_Noah_Omar) dbo:birthDate o'<1898-8-13>",
+    "2" : "s(Mohamad_Noah_Omar) dbo:deathDate o'<1991-9-6>",
+    "3" : "s(Mohamad_Noah_Omar) dbp:title o'<President_of_the_Dewan_Negara>",
+    "4" : "s(Mohamad_Noah_Omar) dbp:title o'<Speaker_of_the_Dewan_Rakyat>",
+    "5" : "s(Mohamad_Noah_Omar) dbp:years o'<--02-24>",
+    "6" : "s(Mohamad_Noah_Omar) dbp:years o'<--09-01>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(mohamad noah omar=Mohamad_Noah_Omar) [one of leading ] o'<speaker=Speaker_of_the_Dewan_Rakyat>"
+  },
+  "abstract" : {
+    "3" : "mohamad noah omar<Mohamad_Noah_Omar> was one of the leading figures during the founding of the united malays national organisation (umno) and became the first speaker<Speaker_of_the_Dewan_Rakyat> of the dewan rakyat\n"
+  }
+}, {
+  "entityIndex" : "entity11043",
+  "entityUrl" : "http://dbpedia.org/resource/Max_Lowenthal",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Max_Lowenthal) dbo:birthDate o'<1888-1-1>",
+    "2" : "s(Max_Lowenthal) dbo:deathDate o'<1971-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11044",
+  "entityUrl" : "http://dbpedia.org/resource/MuMs_da_Schemer",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(MuMs_da_Schemer) dbo:activeYearsStartYear o'<1997>",
+    "2" : "s(MuMs_da_Schemer) dbo:alias o'<Craig muMs Grant>",
+    "3" : "s(MuMs_da_Schemer) dbo:alias o'<muMs da Schemer,>",
+    "4" : "s(MuMs_da_Schemer) dbo:birthDate o'<1963-1-1>",
+    "5" : "s(MuMs_da_Schemer) dbo:birthName o'<Craig Grant>",
+    "6" : "s(MuMs_da_Schemer) dbo:birthPlace o'<New_York_City>",
+    "7" : "s(MuMs_da_Schemer) dbo:birthPlace o'<New_York_City,_New_York>",
+    "8" : "s(MuMs_da_Schemer) dbo:birthYear o'<1968>",
+    "9" : "s(MuMs_da_Schemer) dbo:occupation o'<MuMs_da_Schemer__1>",
+    "10" : "s(MuMs_da_Schemer) dbo:occupation o'<Poet>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11045",
+  "entityUrl" : "http://dbpedia.org/resource/Mustache_Pete",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11046",
+  "entityUrl" : "http://dbpedia.org/resource/Mark_Ermler",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Mark_Ermler) dbo:birthDate o'<1932-5-5>",
+    "2" : "s(Mark_Ermler) dbo:birthPlace o'<Saint_Petersburg>",
+    "3" : "s(Mark_Ermler) dbo:deathDate o'<2002-4-14>",
+    "4" : "s(Mark_Ermler) dbo:deathPlace o'<Seoul>",
+    "5" : "s(Mark_Ermler) dbp:after o'<Yuri_Simonov>",
+    "6" : "s(Mark_Ermler) dbp:after o'<Alexander_Vedernikov>",
+    "7" : "s(Mark_Ermler) dbp:after o'<Seung_Gwak>",
+    "8" : "s(Mark_Ermler) dbp:before o'<Alexander_Lazarev>",
+    "9" : "s(Mark_Ermler) dbp:before o'<Vassily_Sinaisky>",
+    "10" : "s(Mark_Ermler) dbp:before o'<Gyeong-Su_Won>",
+    "11" : "s(Mark_Ermler) dbp:title o'<Bolshoi_Theatre>",
+    "12" : "s(Mark_Ermler) dbp:title o'<Moscow_Philharmonic_Orchestra>",
+    "13" : "s(Mark_Ermler) dbp:title o'<Seoul_Philharmonic_Orchestra>",
+    "14" : "s(Mark_Ermler) dbp:years o'<1996>",
+    "15" : "s(Mark_Ermler) dbp:years o'<1998>",
+    "16" : "s(Mark_Ermler) dbp:years o'<2000>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

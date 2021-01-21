@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity11391",
+  "entityUrl" : "http://dbpedia.org/resource/Qutb_ad-Din_Mawdud",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Qutb_ad-Din_Mawdud) dbo:deathDate o'<1170-9-6>",
+    "2" : "s(Qutb_ad-Din_Mawdud) dbp:after o'<Ghazi_II_Saif_ud-Din>",
+    "3" : "s(Qutb_ad-Din_Mawdud) dbp:before o'<Saif_ad-Din_Ghazi_I>",
+    "4" : "s(Qutb_ad-Din_Mawdud) dbp:title o'<List_of_Emirs_of_Mosul>",
+    "5" : "s(Qutb_ad-Din_Mawdud) dbp:years o'<1149>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11392",
+  "entityUrl" : "http://dbpedia.org/resource/Quince_Duncan",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Quince_Duncan) dbo:birthDate o'<1940-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11393",
+  "entityUrl" : "http://dbpedia.org/resource/Qiu_Hongmei",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Qiu_Hongmei) dbo:birthDate o'<1983-3-2>",
+    "2" : "s(Qiu_Hongmei) dbo:birthPlace o'<Xinyu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11394",
+  "entityUrl" : "http://dbpedia.org/resource/Qian_Hong_(swimmer)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Qian_Hong_(swimmer)) dbo:birthDate o'<1971-1-30>",
+    "2" : "s(Qian_Hong_(swimmer)) dbo:birthPlace o'<Baoding>",
+    "3" : "s(Qian_Hong_(swimmer)) dbp:p o'<QiÃ¡n HÃ³ng>",
+    "4" : "s(Qian_Hong_(swimmer)) dbp:t o'<éŒ¢ç´…>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11395",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Dastugue",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Quentin_Dastugue) dbo:almaMater o'<Georgia_Institute_of_Technology>",
+    "2" : "s(Quentin_Dastugue) dbo:birthDate o'<1955-12-31>",
+    "3" : "s(Quentin_Dastugue) dbo:birthDate o'<1955-12-1>",
+    "4" : "s(Quentin_Dastugue) dbo:occupation o'<Business>",
+    "5" : "s(Quentin_Dastugue) dbo:office o'<Louisiana House of Representatives District 82 (Jefferson and Orleans parishes)>",
+    "6" : "s(Quentin_Dastugue) dbo:party o'<Democratic_Party_(United_States)>",
+    "7" : "s(Quentin_Dastugue) dbo:residence o'<United_States>",
+    "8" : "s(Quentin_Dastugue) dbo:residence o'<Louisiana>",
+    "9" : "s(Quentin_Dastugue) dbo:residence o'<Jefferson_Parish,_Louisiana>",
+    "10" : "s(Quentin_Dastugue) dbo:residence o'<Mandeville,_Louisiana>",
+    "11" : "s(Quentin_Dastugue) dbo:termPeriod o'<Quentin_Dastugue__1>",
+    "12" : "s(Quentin_Dastugue) dbp:after o'<Steve_Scalise>",
+    "13" : "s(Quentin_Dastugue) dbp:before o'<Harold Toca>",
+    "14" : "s(Quentin_Dastugue) dbp:children o'<Three daughters>",
+    "15" : "s(Quentin_Dastugue) dbp:preceded o'<Harold Toca>",
+    "16" : "s(Quentin_Dastugue) dbp:spouse o'<Penny Matherne Dastugue>",
+    "17" : "s(Quentin_Dastugue) dbp:succeeded o'<Steve_Scalise>",
+    "18" : "s(Quentin_Dastugue) dbp:termEnd o'<1996>",
+    "19" : "s(Quentin_Dastugue) dbp:termStart o'<1980>",
+    "20" : "s(Quentin_Dastugue) dbp:title o'<Louisiana State Representative from District 82 (Jefferson and Orleans parishes)>",
+    "21" : "s(Quentin_Dastugue) dbp:years o'<1980>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11396",
+  "entityUrl" : "http://dbpedia.org/resource/Quintus_Fabius_Maximus_Allobrogicus",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Quintus_Fabius_Maximus_Allobrogicus) dbo:birthDate o'<-200-1-1>",
+    "2" : "s(Quintus_Fabius_Maximus_Allobrogicus) dbo:deathDate o'<-200-1-1>",
+    "3" : "s(Quintus_Fabius_Maximus_Allobrogicus) dbp:after o'<Gaius Papirius Carbo and Publius Manilius>",
+    "4" : "s(Quintus_Fabius_Maximus_Allobrogicus) dbp:before o'<Gnaeus Domitius Ahenobarbus and Gaius Fannius>",
+    "5" : "s(Quintus_Fabius_Maximus_Allobrogicus) dbp:title o'<Consul of the Roman Republic>",
+    "6" : "s(Quintus_Fabius_Maximus_Allobrogicus) dbp:years o'<121>",
+    "7" : "s(Quintus_Fabius_Maximus_Allobrogicus) dbp:years o'<with Lucius Opimius>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,128 @@
+[ {
+  "entityIndex" : "entity10725",
+  "entityUrl" : "http://dbpedia.org/resource/One_Tree_Hill_(New_Zealand)",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(One_Tree_Hill_(New_Zealand)) dbo:elevation o'<182.0>",
+    "2" : "s(One_Tree_Hill_(New_Zealand)) dbo:locatedInArea o'<New_Zealand>",
+    "3" : "s(One_Tree_Hill_(New_Zealand)) dbo:locatedInArea o'<North_Island>",
+    "4" : "s(One_Tree_Hill_(New_Zealand)) dbo:otherName o'<One Tree Hill>",
+    "5" : "s(One_Tree_Hill_(New_Zealand)) dbp:belt o'<Auckland_volcanic_field>",
+    "6" : "s(One_Tree_Hill_(New_Zealand)) dbp:photo o'<One Tree Hill, Auckland, March 2015.jpg>",
+    "7" : "s(One_Tree_Hill_(New_Zealand)) dbp:photoCaption o'< One Tree Hill after the removal of the \"one tree\".>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10726",
+  "entityUrl" : "http://dbpedia.org/resource/Old_Man_of_Coniston",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Old_Man_of_Coniston) dbo:elevation o'<802.843>",
+    "2" : "s(Old_Man_of_Coniston) dbo:locatedInArea o'<England>",
+    "3" : "s(Old_Man_of_Coniston) dbo:locatedInArea o'<Cumbria>",
+    "4" : "s(Old_Man_of_Coniston) dbo:mountainRange o'<Lake_District>",
+    "5" : "s(Old_Man_of_Coniston) dbo:mountainRange o'<Southern_Fells>",
+    "6" : "s(Old_Man_of_Coniston) dbo:nationalTopographicSystemMapNumber o'<OSLandranger 90, Explorer OL6>",
+    "7" : "s(Old_Man_of_Coniston) dbo:prominence o'<416.0>",
+    "8" : "s(Old_Man_of_Coniston) dbp:gridRefUk o'<SD272978>",
+    "9" : "s(Old_Man_of_Coniston) dbp:latD o'<54.37>",
+    "10" : "s(Old_Man_of_Coniston) dbp:listing o'<Nuttall_(hill)>",
+    "11" : "s(Old_Man_of_Coniston) dbp:listing o'<Hewitt_(hill)>",
+    "12" : "s(Old_Man_of_Coniston) dbp:listing o'<List_of_Wainwrights>",
+    "13" : "s(Old_Man_of_Coniston) dbp:listing o'<Marilyn_(hill)>",
+    "14" : "s(Old_Man_of_Coniston) dbp:longD o'<-3.119>",
+    "15" : "s(Old_Man_of_Coniston) dbp:mapCaption o'<Location in Lake District, United Kingdom>",
+    "16" : "s(Old_Man_of_Coniston) dbp:photoCaption o'<The Old Man of Coniston and Levers Water from the Lad Stones ridge>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10727",
+  "entityUrl" : "http://dbpedia.org/resource/Ojos_del_Salado",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Ojos_del_Salado) dbo:elevation o'<6893.0>",
+    "2" : "s(Ojos_del_Salado) dbo:eruptionYear o'<0700>",
+    "3" : "s(Ojos_del_Salado) dbo:firstAscentYear o'<1937>",
+    "4" : "s(Ojos_del_Salado) dbo:locatedInArea o'<Argentina>",
+    "5" : "s(Ojos_del_Salado) dbo:mountainRange o'<Andes>",
+    "6" : "s(Ojos_del_Salado) dbo:prominence o'<3688.0>",
+    "7" : "s(Ojos_del_Salado) dbo:type o'<Stratovolcano>",
+    "8" : "s(Ojos_del_Salado) dbp:easiestRoute o'<Scrambling>",
+    "9" : "s(Ojos_del_Salado) dbp:labelPosition o'<left>",
+    "10" : "s(Ojos_del_Salado) dbp:latD o'<27>",
+    "11" : "s(Ojos_del_Salado) dbp:latM o'<6>",
+    "12" : "s(Ojos_del_Salado) dbp:latNs o'<S>",
+    "13" : "s(Ojos_del_Salado) dbp:latS o'<35>",
+    "14" : "s(Ojos_del_Salado) dbp:listing o'<Ultra_prominent_peak>",
+    "15" : "s(Ojos_del_Salado) dbp:listing o'<Volcanic_Seven_Summits>",
+    "16" : "s(Ojos_del_Salado) dbp:listing o'<List_of_countries_by_highest_point>",
+    "17" : "s(Ojos_del_Salado) dbp:listing o'<Seven_Second_Summits>",
+    "18" : "s(Ojos_del_Salado) dbp:longD o'<68>",
+    "19" : "s(Ojos_del_Salado) dbp:longEw o'<W>",
+    "20" : "s(Ojos_del_Salado) dbp:longM o'<32>",
+    "21" : "s(Ojos_del_Salado) dbp:longS o'<29>",
+    "22" : "s(Ojos_del_Salado) dbp:mapCaption o'<Location on the Argentina–Chile border>",
+    "23" : "s(Ojos_del_Salado) dbp:photo o'<Ojos del Salado looming big on the horizon.jpg>",
+    "24" : "s(Ojos_del_Salado) dbp:photoCaption o'<The volcano looming on the horizon.>",
+    "25" : "s(Ojos_del_Salado) dbp:prominenceRef o'<(Ranked 44th)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10728",
+  "entityUrl" : "http://dbpedia.org/resource/Ofu-Olosega",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Ofu-Olosega) dbo:elevation o'<639.0>",
+    "2" : "s(Ofu-Olosega) dbo:eruptionYear o'<1866>",
+    "3" : "s(Ofu-Olosega) dbo:locatedInArea o'<American_Samoa>",
+    "4" : "s(Ofu-Olosega) dbo:nationalTopographicSystemMapNumber o'<USGS>",
+    "5" : "s(Ofu-Olosega) dbo:prominence o'<639.0>",
+    "6" : "s(Ofu-Olosega) dbo:type o'<Shield_volcano>",
+    "7" : "s(Ofu-Olosega) dbp:photo o'<Ofu-OlosegaFromSpace.jpg>",
+    "8" : "s(Ofu-Olosega) dbp:photoCaption o'<Ofu-Olosega from Space Shuttle.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10729",
+  "entityUrl" : "http://dbpedia.org/resource/Omplos",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Omplos) dbo:elevation o'<926.0>",
+    "2" : "s(Omplos) dbo:locatedInArea o'<Greece>",
+    "3" : "s(Omplos) dbo:locatedInArea o'<Achaea>",
+    "4" : "s(Omplos) dbp:latD o'<38.166>",
+    "5" : "s(Omplos) dbp:longD o'<21.781>",
+    "6" : "s(Omplos) dbp:photo o'<Omplos moudain.jpg>",
+    "7" : "s(Omplos) dbp:photoCaption o'<Omplos from Patras>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10730",
+  "entityUrl" : "http://dbpedia.org/resource/Old_Rag_Mountain",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Old_Rag_Mountain) dbo:elevation o'<1000.96>",
+    "2" : "s(Old_Rag_Mountain) dbo:locatedInArea o'<Virginia>",
+    "3" : "s(Old_Rag_Mountain) dbo:locatedInArea o'<United_States>",
+    "4" : "s(Old_Rag_Mountain) dbo:locatedInArea o'<Madison_County,_Virginia>",
+    "5" : "s(Old_Rag_Mountain) dbo:mountainRange o'<Blue_Ridge_Mountains>",
+    "6" : "s(Old_Rag_Mountain) dbo:nationalTopographicSystemMapNumber o'<USGSOld Rag Mountain>",
+    "7" : "s(Old_Rag_Mountain) dbo:prominence o'<413.004>",
+    "8" : "s(Old_Rag_Mountain) dbo:type o'<Granite>",
+    "9" : "s(Old_Rag_Mountain) dbp:age o'<Precambrian>",
+    "10" : "s(Old_Rag_Mountain) dbp:easiestRoute o'<Hiking>",
+    "11" : "s(Old_Rag_Mountain) dbp:photo o'<Old Rag Mountain.jpg>",
+    "12" : "s(Old_Rag_Mountain) dbp:photoCaption o'<Old Rag Mountain>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(old rag mountain=Old_Rag_Mountain) [popular hiking destination ] o'<blue ridge mountains=Blue_Ridge_Mountains>"
+  },
+  "abstract" : {
+    "1" : "old rag mountain<Old_Rag_Mountain> is a popular hiking destination with a summit elevation of 3,291 feet (1,003 m), located in the blue ridge mountains<Blue_Ridge_Mountains> of the shenandoah blue ridge mountains<Blue_Ridge_Mountains>1 park in virginia's<Virginia> madison county<Madison_County,_Virginia>, near sperryville"
+  }
+} ]

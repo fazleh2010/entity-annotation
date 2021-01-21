@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity11309",
+  "entityUrl" : "http://dbpedia.org/resource/Claudia_Tagbo",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Claudia_Tagbo) dbo:birthDate o'<1973-06-14>",
+    "2" : "s(Claudia_Tagbo) dbo:birthDate o'<1973-6-14>",
+    "3" : "s(Claudia_Tagbo) dbo:birthPlace o'<Abidjan>",
+    "4" : "s(Claudia_Tagbo) dbo:birthPlace o'<Ivory_Coast>",
+    "5" : "s(Claudia_Tagbo) dbo:birthYear o'<1973>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11310",
+  "entityUrl" : "http://dbpedia.org/resource/Cesario_Padilla_Navarro",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Cesario_Padilla_Navarro) dbo:birthDate o'<1951-04-25>",
+    "2" : "s(Cesario_Padilla_Navarro) dbo:birthDate o'<1951-4-25>",
+    "3" : "s(Cesario_Padilla_Navarro) dbo:birthPlace o'<Jalisco>",
+    "4" : "s(Cesario_Padilla_Navarro) dbo:birthPlace o'<Mexico>",
+    "5" : "s(Cesario_Padilla_Navarro) dbo:birthYear o'<1951>",
+    "6" : "s(Cesario_Padilla_Navarro) dbo:ethnicity o'<Mexican_people>",
+    "7" : "s(Cesario_Padilla_Navarro) dbo:occupation o'<Cesario_Padilla_Navarro__1>",
+    "8" : "s(Cesario_Padilla_Navarro) dbp:url o'<www.cesariopadilla.com>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(cesario padilla navarro=Cesario_Padilla_Navarro) [served deputy of ] o'<jalisco=Jalisco>"
+  },
+  "abstract" : {
+    "2" : "as of 2013 cesario padilla navarro<Cesario_Padilla_Navarro> served as deputy of the lxii legislature of the mexican congress representing jalisco<Jalisco>\n"
+  }
+}, {
+  "entityIndex" : "entity11311",
+  "entityUrl" : "http://dbpedia.org/resource/Chrysoula_Argyros",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Chrysoula_Argyros) dbo:birthDate o'<1954-3-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11312",
+  "entityUrl" : "http://dbpedia.org/resource/Claes_M%C3%A5nsson",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11313",
+  "entityUrl" : "http://dbpedia.org/resource/Clara_Green_Carl",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11314",
+  "entityUrl" : "http://dbpedia.org/resource/Christopher_W._Jones",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

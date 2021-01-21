@@ -1,0 +1,62 @@
+[ {
+  "entityIndex" : "entity14080",
+  "entityUrl" : "http://dbpedia.org/resource/Berta_Bock",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Berta_Bock) dbo:birthDate o'<1854-3-15>",
+    "2" : "s(Berta_Bock) dbo:birthPlace o'<Sibiu>",
+    "3" : "s(Berta_Bock) dbo:deathDate o'<1945-4-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14081",
+  "entityUrl" : "http://dbpedia.org/resource/Brit_Marling",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Brit_Marling) dbo:activeYearsStartYear o'<2007>",
+    "2" : "s(Brit_Marling) dbo:almaMater o'<Georgetown_University>",
+    "3" : "s(Brit_Marling) dbo:birthDate o'<1983-08-07>",
+    "4" : "s(Brit_Marling) dbo:birthDate o'<1983-8-7>",
+    "5" : "s(Brit_Marling) dbo:birthName o'<Brit Heyworth Marling>",
+    "6" : "s(Brit_Marling) dbo:birthPlace o'<Chicago>",
+    "7" : "s(Brit_Marling) dbo:birthPlace o'<Illinois>",
+    "8" : "s(Brit_Marling) dbo:birthYear o'<1983>",
+    "9" : "s(Brit_Marling) dbo:knownFor o'<The_East_(film)>",
+    "10" : "s(Brit_Marling) dbo:knownFor o'<Another_Earth>",
+    "11" : "s(Brit_Marling) dbo:knownFor o'<I_Origins>",
+    "12" : "s(Brit_Marling) dbo:occupation o'<Brit_Marling__1>",
+    "13" : "s(Brit_Marling) dbo:residence o'<California>",
+    "14" : "s(Brit_Marling) dbo:residence o'<Los_Angeles>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14082",
+  "entityUrl" : "http://dbpedia.org/resource/Bruce_Guthrie_(editor)",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14083",
+  "entityUrl" : "http://dbpedia.org/resource/Bal%C3%A1zs_Berke",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14084",
+  "entityUrl" : "http://dbpedia.org/resource/Beverly_Whipple",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14085",
+  "entityUrl" : "http://dbpedia.org/resource/Berge_S%C3%A6berg",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

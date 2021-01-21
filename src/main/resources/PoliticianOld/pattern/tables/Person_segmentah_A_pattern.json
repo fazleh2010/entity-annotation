@@ -1,0 +1,52 @@
+[ {
+  "entityIndex" : "entity10969",
+  "entityUrl" : "http://dbpedia.org/resource/Andr%C3%A9_Gagnon",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10970",
+  "entityUrl" : "http://dbpedia.org/resource/Allen_Schick",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10971",
+  "entityUrl" : "http://dbpedia.org/resource/Ahmed_Ibrahim_Al-Mughassil",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Ahmed_Ibrahim_Al-Mughassil) dbo:birthDate o'<1967-6-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10972",
+  "entityUrl" : "http://dbpedia.org/resource/Aleksander_Kotsis",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Aleksander_Kotsis) dbo:birthDate o'<1836-5-30>",
+    "2" : "s(Aleksander_Kotsis) dbo:birthPlace o'<KrakÃ³w>",
+    "3" : "s(Aleksander_Kotsis) dbo:deathDate o'<1877-8-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10973",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_of_Telese",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Alexander_of_Telese) dbo:birthDate o'<1100-1-1>",
+    "2" : "s(Alexander_of_Telese) dbo:deathDate o'<1143-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10974",
+  "entityUrl" : "http://dbpedia.org/resource/Arnaud_de_L%C3%A9vezou",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

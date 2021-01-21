@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity11297",
+  "entityUrl" : "http://dbpedia.org/resource/Agn%C3%A8s_Soral",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11298",
+  "entityUrl" : "http://dbpedia.org/resource/Anton_Hofreiter",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Anton_Hofreiter) dbo:almaMater o'<Ludwig_Maximilian_University_of_Munich>",
+    "2" : "s(Anton_Hofreiter) dbo:birthDate o'<1970-02-02>",
+    "3" : "s(Anton_Hofreiter) dbo:birthDate o'<1970-2-2>",
+    "4" : "s(Anton_Hofreiter) dbo:birthPlace o'<Bavaria>",
+    "5" : "s(Anton_Hofreiter) dbo:birthPlace o'<Munich>",
+    "6" : "s(Anton_Hofreiter) dbo:chancellor o'<Angela_Merkel>",
+    "7" : "s(Anton_Hofreiter) dbo:nationality o'<Germany>",
+    "8" : "s(Anton_Hofreiter) dbo:office o'<Member of theBundestag>",
+    "9" : "s(Anton_Hofreiter) dbo:office o'<(withKatrin GÃ¶ring-Eckardt(2013-present)>",
+    "10" : "s(Anton_Hofreiter) dbo:office o'<The Greens>",
+    "11" : "s(Anton_Hofreiter) dbo:party o'<The_Greens>",
+    "12" : "s(Anton_Hofreiter) dbo:predecessor o'<JÃ¼rgen_Trittin>",
+    "13" : "s(Anton_Hofreiter) dbo:president o'<Joachim_Gauck>",
+    "14" : "s(Anton_Hofreiter) dbo:profession o'<Politician>",
+    "15" : "s(Anton_Hofreiter) dbo:profession o'<Biologist>",
+    "16" : "s(Anton_Hofreiter) dbo:termPeriod o'<Anton_Hofreiter__1>",
+    "17" : "s(Anton_Hofreiter) dbp:termStart o'<2005>",
+    "18" : "s(Anton_Hofreiter) dbp:termStart o'<2013>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11299",
+  "entityUrl" : "http://dbpedia.org/resource/Anthony_Rushton",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Anthony_Rushton) dbo:activeYearsStartYear o'<2001>",
+    "2" : "s(Anthony_Rushton) dbo:almaMater o'<University_of_York>",
+    "3" : "s(Anthony_Rushton) dbo:birthDate o'<1971-11-03>",
+    "4" : "s(Anthony_Rushton) dbo:birthDate o'<1971-11-3>",
+    "5" : "s(Anthony_Rushton) dbo:birthPlace o'<Accrington>",
+    "6" : "s(Anthony_Rushton) dbo:birthYear o'<1971>",
+    "7" : "s(Anthony_Rushton) dbo:occupation o'<Anthony_Rushton__1>",
+    "8" : "s(Anthony_Rushton) dbo:occupation o'<Telemetry_(company)>",
+    "9" : "s(Anthony_Rushton) dbo:residence o'<London,_England>",
+    "10" : "s(Anthony_Rushton) dbp:nationality o'<British>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11300",
+  "entityUrl" : "http://dbpedia.org/resource/Andr%C3%A9s_Stanovnik",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11301",
+  "entityUrl" : "http://dbpedia.org/resource/Augusta_Emma_d'Este",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Augusta_Emma_d'Este) dbo:birthDate o'<1801-08-11>",
+    "2" : "s(Augusta_Emma_d'Este) dbo:birthDate o'<1801-8-11>",
+    "3" : "s(Augusta_Emma_d'Este) dbo:birthPlace o'<London>",
+    "4" : "s(Augusta_Emma_d'Este) dbo:deathDate o'<1866-05-21>",
+    "5" : "s(Augusta_Emma_d'Este) dbo:deathDate o'<1866-5-21>",
+    "6" : "s(Augusta_Emma_d'Este) dbo:deathPlace o'<London>",
+    "7" : "s(Augusta_Emma_d'Este) dbo:spouse o'<Thomas_Wilde,_1st_Baron_Truro>",
+    "8" : "s(Augusta_Emma_d'Este) dbp:father o'<Prince_Augustus_Frederick,_Duke_of_Sussex>",
+    "9" : "s(Augusta_Emma_d'Este) dbp:honorificPrefix o'<The_Right_Honourable>",
+    "10" : "s(Augusta_Emma_d'Este) dbp:mother o'<Lady_Augusta_Murray>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11302",
+  "entityUrl" : "http://dbpedia.org/resource/Arnaud_Cordier",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Arnaud_Cordier) dbo:birthDate o'<1974-11-26>",
+    "2" : "s(Arnaud_Cordier) dbo:birthPlace o'<Dijon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

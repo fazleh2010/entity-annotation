@@ -1,0 +1,63 @@
+[ {
+  "entityIndex" : "entity11335",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_A._Cipriani",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Frank_A._Cipriani) dbo:country o'<United_States>",
+    "2" : "s(Frank_A._Cipriani) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(frank a. cipriani=Frank_A._Cipriani) [served ] o'<president=United_States>"
+  },
+  "abstract" : {
+    "3" : "frank a. cipriani<Frank_A._Cipriani> served as president<United_States> from 1978 to 2000 during the school's shift in focus to higher education in biotechnology\n"
+  }
+}, {
+  "entityIndex" : "entity11336",
+  "entityUrl" : "http://dbpedia.org/resource/Freddie_Gershon",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11337",
+  "entityUrl" : "http://dbpedia.org/resource/Frances_Talbot,_Countess_of_Tyrconnel",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:birthDate o'<1648-1-1>",
+    "2" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:birthPlace o'<Hertfordshire>",
+    "3" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:birthPlace o'<Sandridge>",
+    "4" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:birthYear o'<1647>",
+    "5" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:deathDate o'<1730-03-09>",
+    "6" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:deathDate o'<1730-3-9>",
+    "7" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:deathPlace o'<Dublin>",
+    "8" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:deathYear o'<1730>",
+    "9" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbo:knownFor o'<English_Restoration>",
+    "10" : "s(Frances_Talbot,_Countess_of_Tyrconnel) dbp:deathPlace o'<Dublin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11338",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_Luis_H%C3%A9ctor_de_Carondelet",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11339",
+  "entityUrl" : "http://dbpedia.org/resource/Frith_van_der_Merwe",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Frith_van_der_Merwe) dbo:birthDate o'<1964-5-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11340",
+  "entityUrl" : "http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Ngenzebuhoro",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

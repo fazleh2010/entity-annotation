@@ -1,0 +1,102 @@
+[ {
+  "entityIndex" : "entity11383",
+  "entityUrl" : "http://dbpedia.org/resource/Noeline_Brown",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Noeline_Brown) dbo:birthDate o'<1938-10-03>",
+    "2" : "s(Noeline_Brown) dbo:birthDate o'<1938-10-3>",
+    "3" : "s(Noeline_Brown) dbo:birthYear o'<1938>",
+    "4" : "s(Noeline_Brown) dbo:occupation o'<Comedian>",
+    "5" : "s(Noeline_Brown) dbo:occupation o'<Actress>",
+    "6" : "s(Noeline_Brown) dbo:occupation o'<Noeline_Brown__1>",
+    "7" : "s(Noeline_Brown) dbp:spouse o'<Tony Sattler>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11384",
+  "entityUrl" : "http://dbpedia.org/resource/Noriaki_Sugiyama",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Noriaki_Sugiyama) dbo:activeYearsStartYear o'<1999>",
+    "2" : "s(Noriaki_Sugiyama) dbo:birthDate o'<1976-03-09>",
+    "3" : "s(Noriaki_Sugiyama) dbo:birthDate o'<1976-3-9>",
+    "4" : "s(Noriaki_Sugiyama) dbo:birthPlace o'<Japan>",
+    "5" : "s(Noriaki_Sugiyama) dbo:birthPlace o'<Tokyo>",
+    "6" : "s(Noriaki_Sugiyama) dbo:birthYear o'<1976>",
+    "7" : "s(Noriaki_Sugiyama) dbo:occupation o'<Voice_actor>",
+    "8" : "s(Noriaki_Sugiyama) dbo:occupation o'<Noriaki_Sugiyama__1>",
+    "9" : "s(Noriaki_Sugiyama) dbp:credits o'<ShirÅ�_Emiya>",
+    "10" : "s(Noriaki_Sugiyama) dbp:credits o'<Hetalia:_Axis_Powers>",
+    "11" : "s(Noriaki_Sugiyama) dbp:credits o'<Bleach_(manga)>",
+    "12" : "s(Noriaki_Sugiyama) dbp:credits o'<stay_night>",
+    "13" : "s(Noriaki_Sugiyama) dbp:credits o'<Sasuke_Uchiha>",
+    "14" : "s(Noriaki_Sugiyama) dbp:credits o'<UryÅ«_Ishida>",
+    "15" : "s(Noriaki_Sugiyama) dbp:credits o'<Naruto_(anime)>",
+    "16" : "s(Noriaki_Sugiyama) dbp:credits o'<*''>",
+    "17" : "s(Noriaki_Sugiyama) dbp:credits o'<'' as>",
+    "18" : "s(Noriaki_Sugiyama) dbp:credits o'<'' as England>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11385",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Stafford",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Nancy_Stafford) dbo:activeYearsStartYear o'<1977>",
+    "2" : "s(Nancy_Stafford) dbo:birthDate o'<1954-06-05>",
+    "3" : "s(Nancy_Stafford) dbo:birthDate o'<1954-6-5>",
+    "4" : "s(Nancy_Stafford) dbo:birthName o'<Nancy Elizabeth Stafford>",
+    "5" : "s(Nancy_Stafford) dbo:birthPlace o'<Wilton_Manors,_Florida>",
+    "6" : "s(Nancy_Stafford) dbo:birthYear o'<1954>",
+    "7" : "s(Nancy_Stafford) dbo:imdbId o'<0821328>",
+    "8" : "s(Nancy_Stafford) dbo:occupation o'<Nancy_Stafford__1>",
+    "9" : "s(Nancy_Stafford) dbp:after o'<Catherine_Parks>",
+    "10" : "s(Nancy_Stafford) dbp:before o'<Ann_K._Schmalzried>",
+    "11" : "s(Nancy_Stafford) dbp:children o'<1>",
+    "12" : "s(Nancy_Stafford) dbp:imagesize o'<150>",
+    "13" : "s(Nancy_Stafford) dbp:name o'<Nancy Stafford>",
+    "14" : "s(Nancy_Stafford) dbp:spouse o'<Larry Myers>",
+    "15" : "s(Nancy_Stafford) dbp:title o'<Miss_Florida>",
+    "16" : "s(Nancy_Stafford) dbp:years o'<1976>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11386",
+  "entityUrl" : "http://dbpedia.org/resource/Nagabhata_II",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Nagabhata_II) dbo:birthDate o'<805-0-0>",
+    "2" : "s(Nagabhata_II) dbo:deathDate o'<833-0-0>",
+    "3" : "s(Nagabhata_II) dbo:predecessor o'<Vatsaraja>",
+    "4" : "s(Nagabhata_II) dbo:successor o'<Ramabhadra>",
+    "5" : "s(Nagabhata_II) dbp:after o'<Ramabhadra>",
+    "6" : "s(Nagabhata_II) dbp:before o'<Vatsraj>",
+    "7" : "s(Nagabhata_II) dbp:succession o'<4>",
+    "8" : "s(Nagabhata_II) dbp:title o'<Pratihara>",
+    "9" : "s(Nagabhata_II) dbp:years o'<750>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11387",
+  "entityUrl" : "http://dbpedia.org/resource/Nikolaus_Friedrich_von_Thouret",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Nikolaus_Friedrich_von_Thouret) dbo:birthDate o'<1767-6-2>",
+    "2" : "s(Nikolaus_Friedrich_von_Thouret) dbo:birthPlace o'<Ludwigsburg>",
+    "3" : "s(Nikolaus_Friedrich_von_Thouret) dbo:deathDate o'<1845-1-17>",
+    "4" : "s(Nikolaus_Friedrich_von_Thouret) dbo:deathPlace o'<Stuttgart>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11388",
+  "entityUrl" : "http://dbpedia.org/resource/Nathan_Brody",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

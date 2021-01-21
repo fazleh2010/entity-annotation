@@ -1,0 +1,102 @@
+[ {
+  "entityIndex" : "entity11722",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_L._Hedlund",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Robert_L._Hedlund) dbo:activeYearsStartDate o'<2016-01-04>",
+    "2" : "s(Robert_L._Hedlund) dbo:almaMater o'<Quincy_College>",
+    "3" : "s(Robert_L._Hedlund) dbo:almaMater o'<University_of_Massachusetts_Boston>",
+    "4" : "s(Robert_L._Hedlund) dbo:almaMater o'<Wentworth_Institute_of_Technology>",
+    "5" : "s(Robert_L._Hedlund) dbo:birthDate o'<1961-07-12>",
+    "6" : "s(Robert_L._Hedlund) dbo:birthDate o'<1961-7-12>",
+    "7" : "s(Robert_L._Hedlund) dbo:birthPlace o'<Quincy,_Massachusetts>",
+    "8" : "s(Robert_L._Hedlund) dbo:orderInOffice o'<3rd Mayor ofWeymouth>",
+    "9" : "s(Robert_L._Hedlund) dbo:orderInOffice o'<Assistant Minority Leader of the Massachusetts Senate>",
+    "10" : "s(Robert_L._Hedlund) dbo:party o'<Republican_Party_(United_States)>",
+    "11" : "s(Robert_L._Hedlund) dbo:region o'<Plymouth_County,_Massachusetts>",
+    "12" : "s(Robert_L._Hedlund) dbo:successor o'<Patrick_O'Connor_(Massachusetts_politician)>",
+    "13" : "s(Robert_L._Hedlund) dbp:imagesize o'<110>",
+    "14" : "s(Robert_L._Hedlund) dbp:predecessor o'<William_B._Golden>",
+    "15" : "s(Robert_L._Hedlund) dbp:predecessor o'<Brian McDonald>",
+    "16" : "s(Robert_L._Hedlund) dbp:predecessor o'<Susan M. Kay>",
+    "17" : "s(Robert_L._Hedlund) dbp:profession o'<Politician, Businessman>",
+    "18" : "s(Robert_L._Hedlund) dbp:stateSenate o'<Massachusetts>",
+    "19" : "s(Robert_L._Hedlund) dbp:successor o'<Brian McDonald>",
+    "20" : "s(Robert_L._Hedlund) dbp:termEnd o'<1993>",
+    "21" : "s(Robert_L._Hedlund) dbp:termEnd o'<2016>",
+    "22" : "s(Robert_L._Hedlund) dbp:termStart o'<1991>",
+    "23" : "s(Robert_L._Hedlund) dbp:termStart o'<1995>",
+    "24" : "s(Robert_L._Hedlund) dbp:termStart o'<2011>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(robert l. hedlund=Robert_L._Hedlund) [formerly member of ] o'<massachusetts=Massachusetts>",
+    "4" : "s(robert l. hedlund=Robert_L._Hedlund) [member of ] o'<republican party=Republican_Party_(United_States)>"
+  },
+  "abstract" : {
+    "3" : "robert l. hedlund<Robert_L._Hedlund> was formerly a member of the massachusetts<Massachusetts> senate representing the plymouth<Plymouth_County,_Massachusetts> and norfolk district\n",
+    "4" : "robert l. hedlund<Robert_L._Hedlund> is a member of the united states republican party<Republican_Party_(United_States)>\n"
+  }
+}, {
+  "entityIndex" : "entity11723",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Porritt",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Richard_Porritt) dbo:birthDate o'<1901-2-14>",
+    "2" : "s(Richard_Porritt) dbo:deathDate o'<1985-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11724",
+  "entityUrl" : "http://dbpedia.org/resource/Ryan_Sampson",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ryan_Sampson) dbo:activeYearsStartYear o'<2003>",
+    "2" : "s(Ryan_Sampson) dbo:birthDate o'<1985-11-28>",
+    "3" : "s(Ryan_Sampson) dbo:birthName o'<Ryan Oliver Sampson>",
+    "4" : "s(Ryan_Sampson) dbo:birthPlace o'<UK>",
+    "5" : "s(Ryan_Sampson) dbo:birthPlace o'<England>",
+    "6" : "s(Ryan_Sampson) dbo:birthPlace o'<Yorkshire>",
+    "7" : "s(Ryan_Sampson) dbo:birthPlace o'<Rotherham>",
+    "8" : "s(Ryan_Sampson) dbo:birthYear o'<1985>",
+    "9" : "s(Ryan_Sampson) dbo:imdbId o'<1528442>",
+    "10" : "s(Ryan_Sampson) dbo:occupation o'<Actor>",
+    "11" : "s(Ryan_Sampson) dbo:occupation o'<Ryan_Sampson__1>",
+    "12" : "s(Ryan_Sampson) dbp:name o'<Ryan Sampson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11725",
+  "entityUrl" : "http://dbpedia.org/resource/Romeo_Niram",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Romeo_Niram) dbo:birthDate o'<1974-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11726",
+  "entityUrl" : "http://dbpedia.org/resource/Reuben_Joshua_Poupko",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11727",
+  "entityUrl" : "http://dbpedia.org/resource/Ritche_Lago_Bautista",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ritche_Lago_Bautista) dbo:birthDate o'<1977-06-14>",
+    "2" : "s(Ritche_Lago_Bautista) dbo:birthDate o'<1977-6-14>",
+    "3" : "s(Ritche_Lago_Bautista) dbo:birthPlace o'<Philippines>",
+    "4" : "s(Ritche_Lago_Bautista) dbo:birthPlace o'<Metro_Manila>",
+    "5" : "s(Ritche_Lago_Bautista) dbo:birthYear o'<1977>",
+    "6" : "s(Ritche_Lago_Bautista) dbo:imdbId o'<2493770>",
+    "7" : "s(Ritche_Lago_Bautista) dbo:occupation o'<Actor>",
+    "8" : "s(Ritche_Lago_Bautista) dbo:occupation o'<TV_presenter>",
+    "9" : "s(Ritche_Lago_Bautista) dbo:occupation o'<Ritche_Lago_Bautista__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

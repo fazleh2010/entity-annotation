@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity14230",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Deville",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14231",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%93scar_Qui%C3%B1ones_(artist)",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14232",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%90uro_Jak%C4%8Din",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14233",
+  "entityUrl" : "http://dbpedia.org/resource/%C4%8Cestm%C3%ADr_%C5%98anda",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14234",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%81lvaro_Pires_de_Castro",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14235",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%85ke_Udd%C3%A9n",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

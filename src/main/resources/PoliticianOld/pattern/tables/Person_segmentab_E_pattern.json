@@ -1,0 +1,116 @@
+[ {
+  "entityIndex" : "entity10829",
+  "entityUrl" : "http://dbpedia.org/resource/Eihi_Shiina",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Eihi_Shiina) dbo:birthDate o'<1976-02-03>",
+    "2" : "s(Eihi_Shiina) dbo:birthDate o'<1976-2-3>",
+    "3" : "s(Eihi_Shiina) dbo:birthPlace o'<Japan>",
+    "4" : "s(Eihi_Shiina) dbo:birthPlace o'<Fukuoka>",
+    "5" : "s(Eihi_Shiina) dbo:birthPlace o'<Fukuoka,_Fukuoka>",
+    "6" : "s(Eihi_Shiina) dbo:birthYear o'<1976>",
+    "7" : "s(Eihi_Shiina) dbo:imdbId o'<0793402>",
+    "8" : "s(Eihi_Shiina) dbp:name o'<Eihi Shiina>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(eihi shiina=Eihi_Shiina) [shiina eihi  born february ] o'<fukuoka=Fukuoka>",
+    "2" : "s(eihi shiina=Eihi_Shiina) [got first big break ] o'<japan=Japan>"
+  },
+  "abstract" : {
+    "1" : "eihi shiina<Eihi_Shiina> (shiina eihi, æ¤žå��è‹±å§«, born february 3, 1976) is a fashion model and actress from fukuoka<Fukuoka>, japan<Japan>",
+    "2" : "eihi shiina<Eihi_Shiina> got her first big break in 1995, working for benetton, after which eihi shiina<Eihi_Shiina> represented japan<Japan> at the global elite model look '95\n"
+  }
+}, {
+  "entityIndex" : "entity10830",
+  "entityUrl" : "http://dbpedia.org/resource/Edith_McGuire",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Edith_McGuire) dbo:birthDate o'<1944-06-03>",
+    "2" : "s(Edith_McGuire) dbo:birthDate o'<1944-6-3>",
+    "3" : "s(Edith_McGuire) dbo:birthPlace o'<Atlanta>",
+    "4" : "s(Edith_McGuire) dbo:birthPlace o'<Atlanta,_Georgia>",
+    "5" : "s(Edith_McGuire) dbo:height o'<173.0>",
+    "6" : "s(Edith_McGuire) dbo:height o'<1.73>",
+    "7" : "s(Edith_McGuire) dbo:weight o'<59.0>",
+    "8" : "s(Edith_McGuire) dbo:weight o'<59000.0>",
+    "9" : "s(Edith_McGuire) dbp:club o'<TSU Tigers, Nashville>",
+    "10" : "s(Edith_McGuire) dbp:event o'<Sprint, long jump>",
+    "11" : "s(Edith_McGuire) dbp:headercolor o'<lightsteelblue>",
+    "12" : "s(Edith_McGuire) dbp:pb o'<6000.0>",
+    "13" : "s(Edith_McGuire) dbp:pb o'<12000.0>",
+    "14" : "s(Edith_McGuire) dbp:pb o'<354.6>",
+    "15" : "s(Edith_McGuire) dbp:showMedals o'<yes>",
+    "16" : "s(Edith_McGuire) dbp:sport o'<Athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10831",
+  "entityUrl" : "http://dbpedia.org/resource/Eduard_Winkelmann",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Eduard_Winkelmann) dbo:birthDate o'<1838-6-25>",
+    "2" : "s(Eduard_Winkelmann) dbo:birthPlace o'<GdaÅ„sk>",
+    "3" : "s(Eduard_Winkelmann) dbo:deathDate o'<1896-2-10>",
+    "4" : "s(Eduard_Winkelmann) dbo:deathPlace o'<Heidelberg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10832",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Bloch",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Ernest_Bloch) dbo:birthDate o'<1880-07-24>",
+    "2" : "s(Ernest_Bloch) dbo:birthDate o'<1880-7-24>",
+    "3" : "s(Ernest_Bloch) dbo:birthPlace o'<Geneva>",
+    "4" : "s(Ernest_Bloch) dbo:birthPlace o'<Geneva,_Switzerland>",
+    "5" : "s(Ernest_Bloch) dbo:birthYear o'<1880>",
+    "6" : "s(Ernest_Bloch) dbo:deathDate o'<1959-07-15>",
+    "7" : "s(Ernest_Bloch) dbo:deathDate o'<1959-7-15>",
+    "8" : "s(Ernest_Bloch) dbo:deathPlace o'<Portland,_Oregon>",
+    "9" : "s(Ernest_Bloch) dbo:deathYear o'<1959>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10833",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Blount",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Elizabeth_Blount) dbo:birthDate o'<1500-1-1>",
+    "2" : "s(Elizabeth_Blount) dbo:birthPlace o'<Kinlet>",
+    "3" : "s(Elizabeth_Blount) dbo:birthPlace o'<Shropshire>",
+    "4" : "s(Elizabeth_Blount) dbo:deathDate o'<1539-1-1>",
+    "5" : "s(Elizabeth_Blount) dbo:spouse o'<Gilbert_Tailboys,_1st_Baron_Tailboys_of_Kyme>",
+    "6" : "s(Elizabeth_Blount) dbo:spouse o'<Edward_Clinton,_1st_Earl_of_Lincoln>",
+    "7" : "s(Elizabeth_Blount) dbo:title o'<Baroness Clinton>",
+    "8" : "s(Elizabeth_Blount) dbo:title o'<Baroness Tailboys of Kyme>",
+    "9" : "s(Elizabeth_Blount) dbp:deathPlace o'<Unknown>",
+    "10" : "s(Elizabeth_Blount) dbp:father o'<Sir John Blount of Kinlet>",
+    "11" : "s(Elizabeth_Blount) dbp:issue o'<George_Tailboys,_2nd_Baron_Tailboys_of_Kyme>",
+    "12" : "s(Elizabeth_Blount) dbp:issue o'<Robert_Tailboys,_3rd_Baron_Tailboys_of_Kyme>",
+    "13" : "s(Elizabeth_Blount) dbp:issue o'<Henry_FitzRoy,_1st_Duke_of_Richmond_and_Somerset>",
+    "14" : "s(Elizabeth_Blount) dbp:issue o'<Elizabeth_Tailboys,_4th_Baroness_Tailboys_of_Kyme>",
+    "15" : "s(Elizabeth_Blount) dbp:issue o'<Catherine Clinton, Baroness Burgh>",
+    "16" : "s(Elizabeth_Blount) dbp:issue o'<Lady Bridget Dymoke>",
+    "17" : "s(Elizabeth_Blount) dbp:issue o'<Margaret Clinton, Baroness Willoughby of Parham>",
+    "18" : "s(Elizabeth_Blount) dbp:mother o'<Catherine Pershall>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10834",
+  "entityUrl" : "http://dbpedia.org/resource/Ernest_Fenollosa",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Ernest_Fenollosa) dbo:birthDate o'<1853-2-18>",
+    "2" : "s(Ernest_Fenollosa) dbo:birthPlace o'<Salem,_Oregon>",
+    "3" : "s(Ernest_Fenollosa) dbo:deathDate o'<1908-9-21>",
+    "4" : "s(Ernest_Fenollosa) dbo:deathPlace o'<London>",
+    "5" : "s(Ernest_Fenollosa) dbp:id o'<Fenollosa,+Ernest>",
+    "6" : "s(Ernest_Fenollosa) dbp:name o'<Ernest Fenollosa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,74 @@
+[ {
+  "entityIndex" : "entity11349",
+  "entityUrl" : "http://dbpedia.org/resource/John_W._A._%22Doc%22_Buyers",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(John_W._A._%22Doc%22_Buyers) dbo:birthDate o'<1928-7-17>",
+    "2" : "s(John_W._A._%22Doc%22_Buyers) dbo:deathDate o'<2006-5-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11350",
+  "entityUrl" : "http://dbpedia.org/resource/Johann_von_Dalberg",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Johann_von_Dalberg) dbo:birthDate o'<1455-5-14>",
+    "2" : "s(Johann_von_Dalberg) dbo:birthPlace o'<Oppenheim>",
+    "3" : "s(Johann_von_Dalberg) dbo:deathDate o'<1503-7-27>",
+    "4" : "s(Johann_von_Dalberg) dbo:deathPlace o'<Heidelberg>",
+    "5" : "s(Johann_von_Dalberg) dbp:after o'<Reinhard_von_RÃ¼ppurr>",
+    "6" : "s(Johann_von_Dalberg) dbp:before o'<Reinhard_von_Sackingen>",
+    "7" : "s(Johann_von_Dalberg) dbp:title o'<Bishopric_of_Worms>",
+    "8" : "s(Johann_von_Dalberg) dbp:years o'<1482>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11351",
+  "entityUrl" : "http://dbpedia.org/resource/James_O'Halloran",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(James_O'Halloran) dbo:birthDate o'<1820-1-1>",
+    "2" : "s(James_O'Halloran) dbo:deathDate o'<1913-6-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11352",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_P._Day",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Joseph_P._Day) dbo:birthDate o'<1874-1-1>",
+    "2" : "s(Joseph_P._Day) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Joseph_P._Day) dbo:birthYear o'<1874>",
+    "4" : "s(Joseph_P._Day) dbo:deathDate o'<1924-1-1>",
+    "5" : "s(Joseph_P._Day) dbo:deathYear o'<1944>",
+    "6" : "s(Joseph_P._Day) dbo:occupation o'<Joseph_P._Day__1>",
+    "7" : "s(Joseph_P._Day) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11353",
+  "entityUrl" : "http://dbpedia.org/resource/Jacopo_da_Empoli",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Jacopo_da_Empoli) dbo:birthDate o'<1551-4-30>",
+    "2" : "s(Jacopo_da_Empoli) dbo:birthPlace o'<Florence>",
+    "3" : "s(Jacopo_da_Empoli) dbo:deathDate o'<1640-9-30>",
+    "4" : "s(Jacopo_da_Empoli) dbo:deathPlace o'<Florence>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11354",
+  "entityUrl" : "http://dbpedia.org/resource/Joshua_Hobson",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Joshua_Hobson) dbo:birthDate o'<1810-1-1>",
+    "2" : "s(Joshua_Hobson) dbo:deathDate o'<1876-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity14386",
+  "entityUrl" : "http://dbpedia.org/resource/Yaron_Hasson",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14387",
+  "entityUrl" : "http://dbpedia.org/resource/Yelena_Masyuk",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Yelena_Masyuk) dbo:almaMater o'<Moscow_State_University>",
+    "2" : "s(Yelena_Masyuk) dbo:award o'<CPJ_International_Press_Freedom_Awards>",
+    "3" : "s(Yelena_Masyuk) dbo:birthDate o'<1966-01-24>",
+    "4" : "s(Yelena_Masyuk) dbo:birthDate o'<1966-1-24>",
+    "5" : "s(Yelena_Masyuk) dbo:birthPlace o'<Almaty>",
+    "6" : "s(Yelena_Masyuk) dbo:birthYear o'<1966>",
+    "7" : "s(Yelena_Masyuk) dbo:knownFor o'<First_Chechen_War>",
+    "8" : "s(Yelena_Masyuk) dbo:knownFor o'<Second_Chechen_War>",
+    "9" : "s(Yelena_Masyuk) dbo:nationality o'<Russia>",
+    "10" : "s(Yelena_Masyuk) dbo:occupation o'<Yelena_Masyuk__1>",
+    "11" : "s(Yelena_Masyuk) dbo:stateOfOrigin o'<Russia>",
+    "12" : "s(Yelena_Masyuk) dbp:organization o'<NTV_(Russia)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14388",
+  "entityUrl" : "http://dbpedia.org/resource/Yu_Luojin",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Yu_Luojin) dbo:birthDate o'<1946-0-0>",
+    "2" : "s(Yu_Luojin) dbp:by o'<yes>",
+    "3" : "s(Yu_Luojin) dbp:lcheading o'<Yu, Luojin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14389",
+  "entityUrl" : "http://dbpedia.org/resource/Yang_Dingxin",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Yang_Dingxin) dbo:birthDate o'<1998-10-19>",
+    "2" : "s(Yang_Dingxin) dbo:birthPlace o'<Zhengzhou>",
+    "3" : "s(Yang_Dingxin) dbp:affiliation o'<Zhongguo_Qiyuan>",
+    "4" : "s(Yang_Dingxin) dbp:birthDate o'<1998-10-19>",
+    "5" : "s(Yang_Dingxin) dbp:birthPlace o'<China>",
+    "6" : "s(Yang_Dingxin) dbp:chinese o'<æ�¨é¼Žæ–°>",
+    "7" : "s(Yang_Dingxin) dbp:fullname o'<Yang Dingxin>",
+    "8" : "s(Yang_Dingxin) dbp:name o'<Yang Dingxin>",
+    "9" : "s(Yang_Dingxin) dbp:rank o'<3>",
+    "10" : "s(Yang_Dingxin) dbp:residence o'<China>",
+    "11" : "s(Yang_Dingxin) dbp:turnedpro o'<2008>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14390",
+  "entityUrl" : "http://dbpedia.org/resource/Yair_Censor",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Yair_Censor) dbo:birthDate o'<1943-11-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14391",
+  "entityUrl" : "http://dbpedia.org/resource/Yves_Lafontaine",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Yves_Lafontaine) dbo:activeYearsStartYear o'<1979>",
+    "2" : "s(Yves_Lafontaine) dbo:birthDate o'<1959-07-16>",
+    "3" : "s(Yves_Lafontaine) dbo:birthDate o'<1959-7-16>",
+    "4" : "s(Yves_Lafontaine) dbo:birthName o'<Yves Joseph Lafontaine>",
+    "5" : "s(Yves_Lafontaine) dbo:birthPlace o'<Grand-MÃ¨re,_Quebec>",
+    "6" : "s(Yves_Lafontaine) dbo:birthPlace o'<Grand-MÃ¨re,_QuÃ©bec>",
+    "7" : "s(Yves_Lafontaine) dbo:birthPlace o'<Canada>",
+    "8" : "s(Yves_Lafontaine) dbo:birthPlace o'<QuÃ©bec>",
+    "9" : "s(Yves_Lafontaine) dbo:birthYear o'<1959>",
+    "10" : "s(Yves_Lafontaine) dbo:occupation o'<Luthier>",
+    "11" : "s(Yves_Lafontaine) dbo:occupation o'<Yves_Lafontaine__1>",
+    "12" : "s(Yves_Lafontaine) dbp:colwidth o'<30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

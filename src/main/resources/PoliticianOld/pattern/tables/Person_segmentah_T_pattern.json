@@ -1,0 +1,55 @@
+[ {
+  "entityIndex" : "entity11083",
+  "entityUrl" : "http://dbpedia.org/resource/Tyler_Drumheller",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Tyler_Drumheller) dbo:birthDate o'<1952-4-12>",
+    "2" : "s(Tyler_Drumheller) dbo:deathDate o'<2015-8-2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11084",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Reh",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11085",
+  "entityUrl" : "http://dbpedia.org/resource/Toshi_Yano",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11086",
+  "entityUrl" : "http://dbpedia.org/resource/Tora_Magnusdatter",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Tora_Magnusdatter) dbo:birthDate o'<1100-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11087",
+  "entityUrl" : "http://dbpedia.org/resource/Tabish_Khair",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11088",
+  "entityUrl" : "http://dbpedia.org/resource/Tiina_Rosenberg",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Tiina_Rosenberg) dbo:birthDate o'<1958-7-7>",
+    "2" : "s(Tiina_Rosenberg) dbo:birthPlace o'<Helsinki>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(tiina rosenberg=Tiina_Rosenberg) [former rector of ] o'<helsinki=Helsinki>"
+  },
+  "abstract" : {
+    "2" : "rosenberg has previously been a professor of gender studies at stockholm university and at lund university, and tiina rosenberg<Tiina_Rosenberg> is the former rector of the university of the arts helsinki<Helsinki>\n"
+  }
+} ]

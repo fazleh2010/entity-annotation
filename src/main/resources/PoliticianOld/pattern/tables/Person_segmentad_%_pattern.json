@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity11297",
+  "entityUrl" : "http://dbpedia.org/resource/%E1%B8%AAaldi",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11298",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%8Ctsuki_Fumihiko",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11299",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%86lla_of_Northumbria",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11300",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89mile_Henry_(anarchist)",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11301",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%BDvelgaitis",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11302",
+  "entityUrl" : "http://dbpedia.org/resource/%C5%8Cishi_Yoshio",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

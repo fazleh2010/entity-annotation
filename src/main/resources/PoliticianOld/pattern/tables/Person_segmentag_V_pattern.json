@@ -1,0 +1,68 @@
+[ {
+  "entityIndex" : "entity10931",
+  "entityUrl" : "http://dbpedia.org/resource/Viktor_Gerashchenko",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Viktor_Gerashchenko) dbo:birthDate o'<1937-12-21>",
+    "2" : "s(Viktor_Gerashchenko) dbo:birthPlace o'<Saint_Petersburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10932",
+  "entityUrl" : "http://dbpedia.org/resource/Vasily_Yefanov",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Vasily_Yefanov) dbo:birthDate o'<1900-11-23>",
+    "2" : "s(Vasily_Yefanov) dbo:birthPlace o'<Samara,_Russia>",
+    "3" : "s(Vasily_Yefanov) dbo:deathDate o'<1978-3-3>",
+    "4" : "s(Vasily_Yefanov) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10933",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_I._Breen",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Vincent_I._Breen) dbo:birthDate o'<1911-1-12>",
+    "2" : "s(Vincent_I._Breen) dbo:deathDate o'<1986-12-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10934",
+  "entityUrl" : "http://dbpedia.org/resource/Vidkunn_Hveding",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Vidkunn_Hveding) dbo:birthDate o'<1921-3-27>",
+    "2" : "s(Vidkunn_Hveding) dbo:deathDate o'<2001-5-19>",
+    "3" : "s(Vidkunn_Hveding) dbp:after o'<KÃ¥re_Kristiansen>",
+    "4" : "s(Vidkunn_Hveding) dbp:before o'<Arvid_Helmer_Johanson>",
+    "5" : "s(Vidkunn_Hveding) dbp:title o'<Minister_of_Petroleum_and_Energy_(Norway)>",
+    "6" : "s(Vidkunn_Hveding) dbp:years o'<1981>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10935",
+  "entityUrl" : "http://dbpedia.org/resource/Vicky_Hadjivassiliou",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Vicky_Hadjivassiliou) dbo:birthDate o'<1964-2-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10936",
+  "entityUrl" : "http://dbpedia.org/resource/Vladimir_Toporov",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Vladimir_Toporov) dbo:birthDate o'<1928-7-5>",
+    "2" : "s(Vladimir_Toporov) dbo:birthPlace o'<Moscow>",
+    "3" : "s(Vladimir_Toporov) dbo:deathDate o'<2005-12-5>",
+    "4" : "s(Vladimir_Toporov) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

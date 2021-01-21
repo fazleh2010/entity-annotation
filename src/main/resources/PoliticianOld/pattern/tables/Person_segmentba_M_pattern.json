@@ -1,0 +1,62 @@
+[ {
+  "entityIndex" : "entity14146",
+  "entityUrl" : "http://dbpedia.org/resource/MJ_Perkins",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(MJ_Perkins) dbo:birthDate o'<1983-11-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14147",
+  "entityUrl" : "http://dbpedia.org/resource/Mykola_Chupryna",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Mykola_Chupryna) dbo:birthDate o'<1962-6-4>",
+    "2" : "s(Mykola_Chupryna) dbo:birthPlace o'<Kiev>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14148",
+  "entityUrl" : "http://dbpedia.org/resource/Marion_Gunstveit_Bojanowski",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Marion_Gunstveit_Bojanowski) dbo:birthDate o'<1966-5-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14149",
+  "entityUrl" : "http://dbpedia.org/resource/Martin_Ski",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Martin_Ski) dbo:birthDate o'<1912-11-24>",
+    "2" : "s(Martin_Ski) dbo:deathDate o'<1983-10-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14150",
+  "entityUrl" : "http://dbpedia.org/resource/Mike_Teti",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Mike_Teti) dbo:birthDate o'<1956-09-20>",
+    "2" : "s(Mike_Teti) dbo:birthDate o'<1956-9-20>",
+    "3" : "s(Mike_Teti) dbo:birthPlace o'<Upper_Darby_Township,_Delaware_County,_Pennsylvania>",
+    "4" : "s(Mike_Teti) dbo:birthPlace o'<Upper_Darby,_Pennsylvania>",
+    "5" : "s(Mike_Teti) dbp:headercolor o'<lightsteelblue>",
+    "6" : "s(Mike_Teti) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14151",
+  "entityUrl" : "http://dbpedia.org/resource/Mohammed_Amin_Naik",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Mohammed_Amin_Naik) dbo:birthDate o'<1953-9-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

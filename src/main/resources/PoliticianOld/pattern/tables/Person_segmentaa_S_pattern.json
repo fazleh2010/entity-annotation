@@ -1,0 +1,130 @@
+[ {
+  "entityIndex" : "entity10749",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_Donaldson_(activist)",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Stephen_Donaldson_(activist)) dbo:alias o'<Donny the Punk>",
+    "2" : "s(Stephen_Donaldson_(activist)) dbo:birthDate o'<1946-07-27>",
+    "3" : "s(Stephen_Donaldson_(activist)) dbo:birthDate o'<1946-7-27>",
+    "4" : "s(Stephen_Donaldson_(activist)) dbo:birthName o'<Robert Anthony Martin, Jr>",
+    "5" : "s(Stephen_Donaldson_(activist)) dbo:birthPlace o'<Utica,_New_York>",
+    "6" : "s(Stephen_Donaldson_(activist)) dbo:birthYear o'<1946>",
+    "7" : "s(Stephen_Donaldson_(activist)) dbo:deathDate o'<1996-07-18>",
+    "8" : "s(Stephen_Donaldson_(activist)) dbo:deathDate o'<1996-7-18>",
+    "9" : "s(Stephen_Donaldson_(activist)) dbo:deathYear o'<1996>",
+    "10" : "s(Stephen_Donaldson_(activist)) dbo:occupation o'<Stephen_Donaldson_(activist)__1>",
+    "11" : "s(Stephen_Donaldson_(activist)) dbo:occupation o'<Activism>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(stephen donaldson (activist)=Stephen_Donaldson_(activist)) [best known for his ] o'<activism=Activism>"
+  },
+  "abstract" : {
+    "2" : "stephen donaldson (activist)<Stephen_Donaldson_(activist)> is best known for his pioneering activism<Activism> in lgbt rights and prison reform, and for his writing about punk rock and subculture\n"
+  }
+}, {
+  "entityIndex" : "entity10750",
+  "entityUrl" : "http://dbpedia.org/resource/Sara_Jane_Olson",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Sara_Jane_Olson) dbo:birthDate o'<1947-01-16>",
+    "2" : "s(Sara_Jane_Olson) dbo:birthDate o'<1947-1-16>",
+    "3" : "s(Sara_Jane_Olson) dbo:birthName o'<Kathleen Ann Soliah>",
+    "4" : "s(Sara_Jane_Olson) dbo:birthPlace o'<Fargo,_North_Dakota>",
+    "5" : "s(Sara_Jane_Olson) dbo:birthYear o'<1947>",
+    "6" : "s(Sara_Jane_Olson) dbp:date o'<20070817072859>",
+    "7" : "s(Sara_Jane_Olson) dbp:movement o'<Symbionese_Liberation_Army>",
+    "8" : "s(Sara_Jane_Olson) dbp:title o'<Myrna Opsahl, woman murdered by SLA at Crocker Bank>",
+    "9" : "s(Sara_Jane_Olson) dbp:url o'<www.myrnaopsahl.com>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(sara jane olson=Sara_Jane_Olson) [pleaded guilty in 2001 to ] o'<sla=Symbionese_Liberation_Army>"
+  },
+  "abstract" : {
+    "5" : "arrested in 1999, sara jane olson<Sara_Jane_Olson> pleaded guilty in 2001 to two counts of possessing explosives with intent to murder, and in 2003 to second-degree murder, both stemming from her sla<Symbionese_Liberation_Army> activities in the 1970s\n"
+  }
+}, {
+  "entityIndex" : "entity10751",
+  "entityUrl" : "http://dbpedia.org/resource/Shoma_Morita",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Shoma_Morita) dbo:birthDate o'<1874-1-18>",
+    "2" : "s(Shoma_Morita) dbo:deathDate o'<1938-4-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10752",
+  "entityUrl" : "http://dbpedia.org/resource/Shannon_Elizabeth",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Shannon_Elizabeth) dbo:activeYearsStartYear o'<1996>",
+    "2" : "s(Shannon_Elizabeth) dbo:birthDate o'<1973-09-07>",
+    "3" : "s(Shannon_Elizabeth) dbo:birthDate o'<1973-9-7>",
+    "4" : "s(Shannon_Elizabeth) dbo:birthName o'<Shannon Elizabeth Fadal>",
+    "5" : "s(Shannon_Elizabeth) dbo:birthPlace o'<United_States>",
+    "6" : "s(Shannon_Elizabeth) dbo:birthPlace o'<Houston>",
+    "7" : "s(Shannon_Elizabeth) dbo:birthPlace o'<Texas>",
+    "8" : "s(Shannon_Elizabeth) dbo:birthYear o'<1973>",
+    "9" : "s(Shannon_Elizabeth) dbo:occupation o'<Shannon_Elizabeth__1>",
+    "10" : "s(Shannon_Elizabeth) dbo:relative o'<Tamsen_Fadal>",
+    "11" : "s(Shannon_Elizabeth) dbo:spouse o'<Joseph_Reitman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10753",
+  "entityUrl" : "http://dbpedia.org/resource/Stanley_Kubrick",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Stanley_Kubrick) dbo:birthDate o'<1928-7-26>",
+    "2" : "s(Stanley_Kubrick) dbo:birthPlace o'<The_Bronx>",
+    "3" : "s(Stanley_Kubrick) dbo:deathDate o'<1999-3-7>",
+    "4" : "s(Stanley_Kubrick) dbo:deathPlace o'<Childwickbury_Manor>",
+    "5" : "s(Stanley_Kubrick) dbo:imdbId o'<40>",
+    "6" : "s(Stanley_Kubrick) dbp:align o'<right>",
+    "7" : "s(Stanley_Kubrick) dbp:author o'<Stanley Kubrick>",
+    "8" : "s(Stanley_Kubrick) dbp:quote o'<\"They work with Stanley and go through hells that nothing in their careers could have prepared them for, they think they must have been mad to get involved, they think that they'd die before they would ever work with him again, that fixated maniac; and when it's all behind them and the profound fatigue of so much intensity has worn off, they'd do anything in the world to work for him again. For the rest of their professional lives they long to work with someone who cared the way Stanley did, someone they could learn from. They look for someone to respect the way they'd come to respect him, but they can never find anybody ... I've heard this story so many times.\">",
+    "9" : "s(Stanley_Kubrick) dbp:source o'<â€”>",
+    "10" : "s(Stanley_Kubrick) dbp:source o'<accepting the Lifetime Achievement Award>",
+    "11" : "s(Stanley_Kubrick) dbp:text o'<Anyone who has ever been privileged to direct a film knows that, although it can be like trying to write War and Peace in a bumper car at an amusement park, when you finally get it right, there are not many joys in life that can equal the feeling.>",
+    "12" : "s(Stanley_Kubrick) dbp:width o'<30>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(stanley kubrick=Stanley_Kubrick) [grew up in ] o'<the bronx=The_Bronx>",
+    "5" : "s(stanley kubrick=Stanley_Kubrick) [received average grades ] o'<kubrick=Stanley_Kubrick>",
+    "22" : "s(stanley kubrick=Stanley_Kubrick) [films controversial initially ] o'<kubrick=Stanley_Kubrick>"
+  },
+  "abstract" : {
+    "4" : "kubrick<Stanley_Kubrick> grew up in the bronx<The_Bronx> in new york<The_Bronx> city, and attended william howard taft high school from 1941 to 1945",
+    "5" : "although stanley kubrick<Stanley_Kubrick> only received average grades, kubrick<Stanley_Kubrick> displayed a keen interest in literature, photography, and film from a young age, and taught himself all aspects of film production and directing after graduating from high school\n",
+    "22" : "while many of kubrick's<Stanley_Kubrick> films were controversial and initially received mixed reviews upon releaseâ€”particularly a clockwork orange (1971), which kubrick<Stanley_Kubrick> pulled from circulation in the uk following a mass media frenzyâ€”most of his films were nominated for oscars, golden globes, or bafta awards"
+  }
+}, {
+  "entityIndex" : "entity10754",
+  "entityUrl" : "http://dbpedia.org/resource/Sean_Connery",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Sean_Connery) dbo:activeYearsEndYear o'<2012>",
+    "2" : "s(Sean_Connery) dbo:activeYearsStartYear o'<1954>",
+    "3" : "s(Sean_Connery) dbo:birthDate o'<1930-08-25>",
+    "4" : "s(Sean_Connery) dbo:birthDate o'<1930-8-25>",
+    "5" : "s(Sean_Connery) dbo:birthName o'<Thomas Sean Connery>",
+    "6" : "s(Sean_Connery) dbo:birthPlace o'<Edinburgh>",
+    "7" : "s(Sean_Connery) dbo:birthPlace o'<Fountainbridge>",
+    "8" : "s(Sean_Connery) dbo:birthYear o'<1930>",
+    "9" : "s(Sean_Connery) dbo:child o'<Jason_Connery>",
+    "10" : "s(Sean_Connery) dbo:occupation o'<Sean_Connery__1>",
+    "11" : "s(Sean_Connery) dbo:party o'<Scottish_National_Party>",
+    "12" : "s(Sean_Connery) dbo:spouse o'<Diane_Cilento>",
+    "13" : "s(Sean_Connery) dbp:family o'<Neil_Connery>",
+    "14" : "s(Sean_Connery) dbp:signature o'<Signature of Sean Connery.jpg>",
+    "15" : "s(Sean_Connery) dbp:title o'<Awards for Sean Connery>",
+    "16" : "s(Sean_Connery) dbp:title o'<Eon Productions James Bond actor>",
+    "17" : "s(Sean_Connery) dbp:title o'<Non-Eon Productions James Bond actor>",
+    "18" : "s(Sean_Connery) dbp:years o'<1962>",
+    "19" : "s(Sean_Connery) dbp:years o'<1971>",
+    "20" : "s(Sean_Connery) dbp:years o'<1983>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity11638",
+  "entityUrl" : "http://dbpedia.org/resource/David_S._Alberts",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(David_S._Alberts) dbo:birthDate o'<1942-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11639",
+  "entityUrl" : "http://dbpedia.org/resource/Donnie_Burns",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Donnie_Burns) dbo:birthDate o'<1959-1-1>",
+    "2" : "s(Donnie_Burns) dbo:birthPlace o'<Hamilton,_South_Lanarkshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11640",
+  "entityUrl" : "http://dbpedia.org/resource/Dezs%C5%91_F%C3%B6ldes",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11641",
+  "entityUrl" : "http://dbpedia.org/resource/David_McClarty",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(David_McClarty) dbo:almaMater o'<University_of_Ulster>",
+    "2" : "s(David_McClarty) dbo:birthDate o'<1951-02-23>",
+    "3" : "s(David_McClarty) dbo:birthDate o'<1951-2-23>",
+    "4" : "s(David_McClarty) dbo:birthPlace o'<Northern_Ireland>",
+    "5" : "s(David_McClarty) dbo:birthPlace o'<Coleraine>",
+    "6" : "s(David_McClarty) dbo:deathDate o'<2014-04-18>",
+    "7" : "s(David_McClarty) dbo:deathDate o'<2014-4-18>",
+    "8" : "s(David_McClarty) dbo:deathPlace o'<Northern_Ireland>",
+    "9" : "s(David_McClarty) dbo:deathPlace o'<Coleraine>",
+    "10" : "s(David_McClarty) dbo:nationality o'<United_Kingdom>",
+    "11" : "s(David_McClarty) dbo:office o'<Northern Ireland>",
+    "12" : "s(David_McClarty) dbo:otherParty o'<Ulster_Unionist_Party>",
+    "13" : "s(David_McClarty) dbo:party o'<Independent_Unionist>",
+    "14" : "s(David_McClarty) dbo:predecessor o'<Belfast_Agreement>",
+    "15" : "s(David_McClarty) dbo:region o'<East_Londonderry_(Assembly_constituency)>",
+    "16" : "s(David_McClarty) dbo:religion o'<Church_of_Ireland>",
+    "17" : "s(David_McClarty) dbo:successor o'<Claire_Sugden>",
+    "18" : "s(David_McClarty) dbo:termPeriod o'<David_McClarty__1>",
+    "19" : "s(David_McClarty) dbp:after o'<Pauline_Armitage>",
+    "20" : "s(David_McClarty) dbp:after o'<Claire_Sugden>",
+    "21" : "s(David_McClarty) dbp:after o'<Roy_Beggs_Jr>",
+    "22" : "s(David_McClarty) dbp:before o'<Jim_Wilson_(UK_politician)>",
+    "23" : "s(David_McClarty) dbp:before o'<New creation>",
+    "24" : "s(David_McClarty) dbp:before o'<William King>",
+    "25" : "s(David_McClarty) dbp:children o'<2>",
+    "26" : "s(David_McClarty) dbp:spouse o'<Norma>",
+    "27" : "s(David_McClarty) dbp:title o'<Mayor_of_Coleraine>",
+    "28" : "s(David_McClarty) dbp:title o'<Deputy_Speaker_of_the_Northern_Ireland_Assembly>",
+    "29" : "s(David_McClarty) dbp:title o'<MLA for East Londonderry>",
+    "30" : "s(David_McClarty) dbp:years o'<1993>",
+    "31" : "s(David_McClarty) dbp:years o'<1998>",
+    "32" : "s(David_McClarty) dbp:years o'<2007>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11642",
+  "entityUrl" : "http://dbpedia.org/resource/David_Jenkins_(composer)",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(David_Jenkins_(composer)) dbo:birthDate o'<1848-1-1>",
+    "2" : "s(David_Jenkins_(composer)) dbo:deathDate o'<1915-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11643",
+  "entityUrl" : "http://dbpedia.org/resource/Dale_Noyd",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Dale_Noyd) dbo:birthDate o'<1933-5-1>",
+    "2" : "s(Dale_Noyd) dbo:deathDate o'<2007-1-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

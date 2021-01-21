@@ -1,0 +1,43 @@
+[ {
+  "entityIndex" : "entity14398",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Delaune",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14399",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%93rfhlaith_Foyle",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14400",
+  "entityUrl" : "http://dbpedia.org/resource/%C8%98tefan_Achim",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14401",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89tienne_Mentor",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14402",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89lodie_Yung",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14403",
+  "entityUrl" : "http://dbpedia.org/resource/%C3%89va_T%C3%A9t%C3%A9nyi",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

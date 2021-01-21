@@ -1,0 +1,187 @@
+[ {
+  "entityIndex" : "entity10664",
+  "entityUrl" : "http://dbpedia.org/resource/Digital_Equipment_Corporation",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Digital_Equipment_Corporation) dbo:extinctionYear o'<1998>",
+    "2" : "s(Digital_Equipment_Corporation) dbo:fate o'<Acquired byCompaq, after divestiture of major assets.>",
+    "3" : "s(Digital_Equipment_Corporation) dbo:foundingYear o'<1957>",
+    "4" : "s(Digital_Equipment_Corporation) dbo:keyPerson o'<Harlan_Anderson>",
+    "5" : "s(Digital_Equipment_Corporation) dbo:keyPerson o'<Ken_Olsen>",
+    "6" : "s(Digital_Equipment_Corporation) dbo:keyPerson o'<C._Gordon_Bell>",
+    "7" : "s(Digital_Equipment_Corporation) dbo:location o'<Maynard,_Massachusetts>",
+    "8" : "s(Digital_Equipment_Corporation) dbo:numberOfEmployees o'<140000>",
+    "9" : "s(Digital_Equipment_Corporation) dbo:product o'<StrongARM>",
+    "10" : "s(Digital_Equipment_Corporation) dbo:product o'<VAX>",
+    "11" : "s(Digital_Equipment_Corporation) dbo:product o'<VT100>",
+    "12" : "s(Digital_Equipment_Corporation) dbo:product o'<DEC_Alpha>",
+    "13" : "s(Digital_Equipment_Corporation) dbo:product o'<Programmed_Data_Processor>",
+    "14" : "s(Digital_Equipment_Corporation) dbo:product o'<Digital_Linear_Tape>",
+    "15" : "s(Digital_Equipment_Corporation) dbo:product o'<DECnet>",
+    "16" : "s(Digital_Equipment_Corporation) dbo:product o'<Terminal_server>",
+    "17" : "s(Digital_Equipment_Corporation) dbo:product o'<Workstations>",
+    "18" : "s(Digital_Equipment_Corporation) dbo:product o'<Local_Area_Transport>",
+    "19" : "s(Digital_Equipment_Corporation) dbo:successor o'<Compaq>",
+    "20" : "s(Digital_Equipment_Corporation) dbo:successor o'<Hewlett-Packard>",
+    "21" : "s(Digital_Equipment_Corporation) dbp:id o'<Digital+Equipment+Corporation>",
+    "22" : "s(Digital_Equipment_Corporation) dbp:industry o'<Computer manufacturing>",
+    "23" : "s(Digital_Equipment_Corporation) dbp:logo o'<File:Digital_556-flattened4.svg>",
+    "24" : "s(Digital_Equipment_Corporation) dbp:name o'<Digital Equipment Corporation>",
+    "25" : "s(Digital_Equipment_Corporation) dbp:sname o'<Digital Equipment Corporation>",
+    "26" : "s(Digital_Equipment_Corporation) dbp:sopt o'<t>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(digital equipment corporation=Digital_Equipment_Corporation) [using trademark ] o'<digital=Digital_Equipment_Corporation>",
+    "4" : "s(digital equipment corporation=Digital_Equipment_Corporation) [acquired in june 1998 ] o'<compaq=Compaq>",
+    "6" : "s(digital equipment corporation=Digital_Equipment_Corporation) [major player overseas ] o'<compaq=Compaq>",
+    "9" : "s(digital equipment corporation=Digital_Equipment_Corporation) [product lines still produced ] o'<hp=Hewlett-Packard>"
+  },
+  "abstract" : {
+    "1" : "digital equipment corporation<Digital_Equipment_Corporation>, also known as dec<Digital_Equipment_Corporation> and using the trademark digital<Digital_Equipment_Corporation>, was a major american company in the computer industry from the 1950s to the 1990s",
+    "4" : "dec<Digital_Equipment_Corporation> was acquired in june 1998 by compaq<Compaq>, in what was at that time the largest merger in the history of the computer industry",
+    "6" : "dec<Digital_Equipment_Corporation> was a major player overseas where compaq<Compaq> had less presence",
+    "9" : "as of 2007 some of dec's<Digital_Equipment_Corporation> product lines were still produced under the hp<Hewlett-Packard> name"
+  }
+}, {
+  "entityIndex" : "entity10665",
+  "entityUrl" : "http://dbpedia.org/resource/Datsun",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Datsun) dbo:fate o'<Discontinued (1986)>",
+    "2" : "s(Datsun) dbo:fate o'<Re-launched (2013)>",
+    "3" : "s(Datsun) dbo:foundingYear o'<1931>",
+    "4" : "s(Datsun) dbo:foundingYear o'<2013>",
+    "5" : "s(Datsun) dbo:industry o'<Automotive_industry>",
+    "6" : "s(Datsun) dbo:keyPerson o'<Yutaka_Katayama>",
+    "7" : "s(Datsun) dbo:keyPerson o'<Yoshisuke_Aikawa>",
+    "8" : "s(Datsun) dbo:location o'<Japan>",
+    "9" : "s(Datsun) dbo:parentCompany o'<Nissan>",
+    "10" : "s(Datsun) dbo:product o'<Light_trucks>",
+    "11" : "s(Datsun) dbo:product o'<Automobiles>",
+    "12" : "s(Datsun) dbp:align o'<right>",
+    "13" : "s(Datsun) dbp:logo o'<200>",
+    "14" : "s(Datsun) dbp:slogan o'<Break Through>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10666",
+  "entityUrl" : "http://dbpedia.org/resource/Ducati",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Ducati) dbo:foundingYear o'<1926>",
+    "2" : "s(Ducati) dbo:internationally o'<true>",
+    "3" : "s(Ducati) dbo:keyPerson o'<Rupert_Stadler>",
+    "4" : "s(Ducati) dbo:keyPerson o'<Claudio_Domenicali>",
+    "5" : "s(Ducati) dbo:locationCity o'<Bologna>",
+    "6" : "s(Ducati) dbo:locationCity o'<Borgo_Panigale>",
+    "7" : "s(Ducati) dbo:owner o'<Audi>",
+    "8" : "s(Ducati) dbo:owningCompany o'<Audi>",
+    "9" : "s(Ducati) dbo:parentCompany o'<Lamborghini>",
+    "10" : "s(Ducati) dbo:product o'<Ducati_750_Imola_Desmo>",
+    "11" : "s(Ducati) dbo:product o'<Ducati_Monster>",
+    "12" : "s(Ducati) dbo:product o'<Ducati_Cucciolo>",
+    "13" : "s(Ducati) dbo:product o'<Ducati_916>",
+    "14" : "s(Ducati) dbo:revenue o'<7.02E8>",
+    "15" : "s(Ducati) dbo:subsidiary o'<Ducati_Corse>",
+    "16" : "s(Ducati) dbo:type o'<Private_company>",
+    "17" : "s(Ducati) dbp:areaServed o'<Worldwide>",
+    "18" : "s(Ducati) dbp:divisions o'<Ducati>",
+    "19" : "s(Ducati) dbp:founder o'<Adriano Cavalieri Ducati>",
+    "20" : "s(Ducati) dbp:founder o'<Antonio Cavalieri Ducati>",
+    "21" : "s(Ducati) dbp:founder o'<Bruno Cavalieri Ducati>",
+    "22" : "s(Ducati) dbp:founder o'<Marcello Cavalieri Ducati>",
+    "23" : "s(Ducati) dbp:industry o'<Motorcycle manufacturer>",
+    "24" : "s(Ducati) dbp:locationCountry o'<Italy>",
+    "25" : "s(Ducati) dbp:logo o'<Dukati non obsolete Logo.png>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(ducati=Ducati) [owned by german automotive ] o'<audi=Audi>"
+  },
+  "abstract" : {
+    "5" : "headquartered in borgo panigale<Borgo_Panigale>, bologna<Bologna>, borgo panigale<Borgo_Panigale>1, ducati<Ducati> is owned by german automotive manufacturer borgo panigale<Borgo_Panigale>3 through its italian subsidiary lamborghini<Lamborghini>, which is all owned by the volkswagen group"
+  }
+}, {
+  "entityIndex" : "entity10667",
+  "entityUrl" : "http://dbpedia.org/resource/Dutch_West_India_Company",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Dutch_West_India_Company) dbo:extinctionYear o'<1792>",
+    "2" : "s(Dutch_West_India_Company) dbo:foundedBy o'<Willem_Usselincx>",
+    "3" : "s(Dutch_West_India_Company) dbo:foundingDate o'<1621-06-03>",
+    "4" : "s(Dutch_West_India_Company) dbo:foundingYear o'<1621>",
+    "5" : "s(Dutch_West_India_Company) dbo:individualisedGnd o'<963530712>",
+    "6" : "s(Dutch_West_India_Company) dbp:b o'<no>",
+    "7" : "s(Dutch_West_India_Company) dbp:imageCaption o'<The West India House on the Herenmarkt in Amsterdam, headquarters of the WIC from 1623 to 1647>",
+    "8" : "s(Dutch_West_India_Company) dbp:keyPeople o'<Heeren XIX>",
+    "9" : "s(Dutch_West_India_Company) dbp:locations o'<Amsterdam, Hoorn, Rotterdam, Groningen and Middelburg>",
+    "10" : "s(Dutch_West_India_Company) dbp:v o'<no>",
+    "11" : "s(Dutch_West_India_Company) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10668",
+  "entityUrl" : "http://dbpedia.org/resource/Dutch_East_India_Company",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Dutch_East_India_Company) dbo:extinctionDate o'<1799-12-31>",
+    "2" : "s(Dutch_East_India_Company) dbo:extinctionYear o'<1799>",
+    "3" : "s(Dutch_East_India_Company) dbo:fate o'<Dissolved>",
+    "4" : "s(Dutch_East_India_Company) dbo:foundingDate o'<1602-03-20>",
+    "5" : "s(Dutch_East_India_Company) dbo:foundingYear o'<1602>",
+    "6" : "s(Dutch_East_India_Company) dbo:industry o'<Trade>",
+    "7" : "s(Dutch_East_India_Company) dbo:locationCity o'<Amsterdam>",
+    "8" : "s(Dutch_East_India_Company) dbo:locationCity o'<Middelburg>",
+    "9" : "s(Dutch_East_India_Company) dbo:locationCity o'<Oost-Indisch_Huis>",
+    "10" : "s(Dutch_East_India_Company) dbo:locationCountry o'<Dutch_Republic>",
+    "11" : "s(Dutch_East_India_Company) dbo:type o'<Public_company>",
+    "12" : "s(Dutch_East_India_Company) dbp:group o'<Dutch East India Trading Companies>",
+    "13" : "s(Dutch_East_India_Company) dbp:logo o'<150>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10669",
+  "entityUrl" : "http://dbpedia.org/resource/Dodge",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Dodge) dbo:division o'<Ram_Trucks>",
+    "2" : "s(Dodge) dbo:foundingYear o'<1900>",
+    "3" : "s(Dodge) dbo:keyPerson o'<Sergio_Marchionne>",
+    "4" : "s(Dodge) dbo:locationCity o'<Auburn_Hills,_Michigan>",
+    "5" : "s(Dodge) dbo:owner o'<Fiat_Chrysler_Automobiles>",
+    "6" : "s(Dodge) dbo:owningCompany o'<Fiat_Chrysler_Automobiles>",
+    "7" : "s(Dodge) dbo:parentCompany o'<Chrysler>",
+    "8" : "s(Dodge) dbo:type o'<Division_(business)>",
+    "9" : "s(Dodge) dbp:areaServed o'<Global>",
+    "10" : "s(Dodge) dbp:founders o'<Horace_Elgin_Dodge>",
+    "11" : "s(Dodge) dbp:founders o'<John_Francis_Dodge>",
+    "12" : "s(Dodge) dbp:group o'<Founded>",
+    "13" : "s(Dodge) dbp:group o'<Current owner>",
+    "14" : "s(Dodge) dbp:group o'<Previous owners>",
+    "15" : "s(Dodge) dbp:industry o'<Automobile>",
+    "16" : "s(Dodge) dbp:list o'<1914>",
+    "17" : "s(Dodge) dbp:list o'<Chrysler_Group_LLC>",
+    "18" : "s(Dodge) dbp:list o'<The Dodge Brothers   Chrysler Corporation   Daimler Chrysler   Cerberus Capital Management>",
+    "19" : "s(Dodge) dbp:locationCountry o'<U.S.>",
+    "20" : "s(Dodge) dbp:logo o'<File:Dodge logo 2010.png>",
+    "21" : "s(Dodge) dbp:name o'<Dodge>",
+    "22" : "s(Dodge) dbp:products o'<minivans>",
+    "23" : "s(Dodge) dbp:slogan o'<Domestic. Not Domesticated>",
+    "24" : "s(Dodge) dbp:title o'<Dodge>",
+    "25" : "s(Dodge) dbp:titlestyle o'<background:red; color:silver; border:2px solid grey;>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(dodge=Dodge) [american brand of ] o'<cars=Automobile>",
+    "3" : "s(dodge=Dodge) [PRONOUN4 shop by brothers ] o'<horace elgin dodge=Horace_Elgin_Dodge>",
+    "10" : "s(dodge=Dodge) [brand withstood multiple ] o'<chrysler=Chrysler>",
+    "12" : "s(dodge=Dodge) [said PRONOUN viper ] o'<ram=Ram_Trucks>"
+  },
+  "abstract" : {
+    "1" : "chrysler group<Chrysler>5 is an american brand of cars<Automobile>, chrysler group<Chrysler>1, and sport utility vehicles<Automobile> manufactured by fca us llc<Chrysler> (formerly known as chrysler group<Chrysler> llc), based in auburn hills<Auburn_Hills,_Michigan>, michigan",
+    "3" : "founded as the dodge brothers company<Dodge> dodge brothers company<Dodge>4 shop by brothers horace elgin dodge<Horace_Elgin_Dodge> and john francis dodge<John_Francis_Dodge> in late 1900, dodge<Dodge> was originally a supplier of parts and assemblies for detroit-based automakers and began building complete dodge brothers company<Dodge>1 under the \"dodge brothers<Dodge>\" brand in 1914, predating the founding of chrysler corporation<Chrysler>",
+    "10" : "the dodge<Dodge> brand has withstood the multiple ownership changes at chrysler<Chrysler> from 1998 to 2009, including its short-lived merger with daimler-benz ag from 1998 to 2007, its subsequent sale to cerberus capital management, its 2009 bailout by the united states<U.S.> government, and its subsequent chapter 11 bankruptcy and acquisition by fiat<Fiat_Chrysler_Automobiles>",
+    "12" : "dodge<Dodge> said that the dodge<Dodge> viper will now be an srt product and ram<Ram_Trucks> will be a manufacturer"
+  }
+} ]

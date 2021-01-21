@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity11163",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Buck_(animal_collector)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Frank_Buck_(animal_collector)) dbo:activeYearsStartYear o'<1911>",
+    "2" : "s(Frank_Buck_(animal_collector)) dbo:birthDate o'<1884-03-17>",
+    "3" : "s(Frank_Buck_(animal_collector)) dbo:birthDate o'<1884-3-17>",
+    "4" : "s(Frank_Buck_(animal_collector)) dbo:birthName o'<Frank Howard Buck>",
+    "5" : "s(Frank_Buck_(animal_collector)) dbo:birthPlace o'<Gainesville,_Texas>",
+    "6" : "s(Frank_Buck_(animal_collector)) dbo:birthYear o'<1884>",
+    "7" : "s(Frank_Buck_(animal_collector)) dbo:deathCause o'<Lung_cancer>",
+    "8" : "s(Frank_Buck_(animal_collector)) dbo:deathDate o'<1950-03-25>",
+    "9" : "s(Frank_Buck_(animal_collector)) dbo:deathDate o'<1950-3-25>",
+    "10" : "s(Frank_Buck_(animal_collector)) dbo:deathPlace o'<Houston,_Texas>",
+    "11" : "s(Frank_Buck_(animal_collector)) dbo:deathPlace o'<Houston>",
+    "12" : "s(Frank_Buck_(animal_collector)) dbo:deathYear o'<1950>",
+    "13" : "s(Frank_Buck_(animal_collector)) dbo:occupation o'<Hunting>",
+    "14" : "s(Frank_Buck_(animal_collector)) dbo:occupation o'<Author>",
+    "15" : "s(Frank_Buck_(animal_collector)) dbo:occupation o'<Frank_Buck_(animal_collector)__1>",
+    "16" : "s(Frank_Buck_(animal_collector)) dbo:occupation o'<Actor>",
+    "17" : "s(Frank_Buck_(animal_collector)) dbo:spouse o'<Amy_Leslie>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11164",
+  "entityUrl" : "http://dbpedia.org/resource/Felix_Prohaska",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Felix_Prohaska) dbo:birthDate o'<1912-5-16>",
+    "2" : "s(Felix_Prohaska) dbo:birthPlace o'<Vienna>",
+    "3" : "s(Felix_Prohaska) dbo:deathDate o'<1987-3-29>",
+    "4" : "s(Felix_Prohaska) dbo:deathPlace o'<Vienna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11165",
+  "entityUrl" : "http://dbpedia.org/resource/Friedrich_Goltz",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Friedrich_Goltz) dbo:birthDate o'<1834-8-14>",
+    "2" : "s(Friedrich_Goltz) dbo:birthPlace o'<PoznaÅ„>",
+    "3" : "s(Friedrich_Goltz) dbo:deathDate o'<1902-5-4>",
+    "4" : "s(Friedrich_Goltz) dbo:deathPlace o'<Strasbourg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11166",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Messer",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Frank_Messer) dbo:birthDate o'<1925-08-08>",
+    "2" : "s(Frank_Messer) dbo:birthDate o'<1925-8-8>",
+    "3" : "s(Frank_Messer) dbo:birthPlace o'<Asheville,_North_Carolina>",
+    "4" : "s(Frank_Messer) dbo:birthYear o'<1925>",
+    "5" : "s(Frank_Messer) dbo:deathDate o'<2001-11-13>",
+    "6" : "s(Frank_Messer) dbo:deathPlace o'<Deerfield_Beach,_Florida>",
+    "7" : "s(Frank_Messer) dbo:deathYear o'<2001>",
+    "8" : "s(Frank_Messer) dbo:nationality o'<United_States>",
+    "9" : "s(Frank_Messer) dbo:occupation o'<Frank_Messer__1>",
+    "10" : "s(Frank_Messer) dbo:stateOfOrigin o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11167",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7ois_Budan_de_Boislaurent",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11168",
+  "entityUrl" : "http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Dard",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

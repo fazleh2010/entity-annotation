@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "entity10707",
+  "entityUrl" : "http://dbpedia.org/resource/Leonard_Pitts",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Leonard_Pitts) dbo:birthDate o'<1957-10-11>",
+    "2" : "s(Leonard_Pitts) dbo:birthName o'<Leonard Garvey Pitts, Jr.>",
+    "3" : "s(Leonard_Pitts) dbo:birthPlace o'<United_States>",
+    "4" : "s(Leonard_Pitts) dbo:birthPlace o'<California>",
+    "5" : "s(Leonard_Pitts) dbo:birthPlace o'<Orange,_California>",
+    "6" : "s(Leonard_Pitts) dbo:birthYear o'<1957>",
+    "7" : "s(Leonard_Pitts) dbo:occupation o'<Journalist>",
+    "8" : "s(Leonard_Pitts) dbo:occupation o'<Advocacy_journalism>",
+    "9" : "s(Leonard_Pitts) dbo:occupation o'<Leonard_Pitts__1>",
+    "10" : "s(Leonard_Pitts) dbo:occupation o'<Novelist>",
+    "11" : "s(Leonard_Pitts) dbo:occupation o'<Columnist>",
+    "12" : "s(Leonard_Pitts) dbo:residence o'<Bowie,_Maryland>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(leonard pitts=Leonard_Pitts) [nationally ] o'<syndicated columnist=Columnist>",
+    "4" : "s(leonard pitts=Leonard_Pitts) [originally hired by ] o'<column=Columnist>",
+    "6" : "s(leonard pitts=Leonard_Pitts) [won awards for his ] o'<professional journalists=Journalist>"
+  },
+  "abstract" : {
+    "3" : "leonard pitts<Leonard_Pitts> is a nationally syndicated columnist<Columnist> and winner of the 2004 pulitzer prize for commentary\n",
+    "4" : "leonard pitts<Leonard_Pitts> was originally hired by the miami herald to critique music, but within a few years leonard pitts<Leonard_Pitts> received his own column<Columnist> in which leonard pitts<Leonard_Pitts> dealt extensively with race, politics, and culture\n",
+    "6" : "leonard pitts<Leonard_Pitts> has won awards for his writing from the society of professional journalists<Journalist>, the american<United_States> society of newspaper editors, and the national<United_States> association of black journalists<Journalist>, and leonard pitts<Leonard_Pitts> was first nominated for the pulitzer prize in 1993, eventually claiming the honor in 2004\n"
+  }
+}, {
+  "entityIndex" : "entity10708",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Marcoussis",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Louis_Marcoussis) dbo:birthDate o'<1878-11-14>",
+    "2" : "s(Louis_Marcoussis) dbo:birthPlace o'<Warsaw>",
+    "3" : "s(Louis_Marcoussis) dbo:deathDate o'<1941-10-22>",
+    "4" : "s(Louis_Marcoussis) dbo:deathPlace o'<Cusset>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10709",
+  "entityUrl" : "http://dbpedia.org/resource/Lillo_Brancato,_Jr.",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Lillo_Brancato,_Jr.) dbo:activeYearsEndYear o'<2007>",
+    "2" : "s(Lillo_Brancato,_Jr.) dbo:activeYearsStartYear o'<1993>",
+    "3" : "s(Lillo_Brancato,_Jr.) dbo:alias o'<Lillo Brancato>",
+    "4" : "s(Lillo_Brancato,_Jr.) dbo:birthDate o'<1976-03-30>",
+    "5" : "s(Lillo_Brancato,_Jr.) dbo:birthDate o'<1976-3-30>",
+    "6" : "s(Lillo_Brancato,_Jr.) dbo:birthPlace o'<Colombia>",
+    "7" : "s(Lillo_Brancato,_Jr.) dbo:birthPlace o'<BogotÃ¡>",
+    "8" : "s(Lillo_Brancato,_Jr.) dbo:birthYear o'<1976>",
+    "9" : "s(Lillo_Brancato,_Jr.) dbo:nationality o'<United_States>",
+    "10" : "s(Lillo_Brancato,_Jr.) dbo:occupation o'<Lillo_Brancato,_Jr.__1>",
+    "11" : "s(Lillo_Brancato,_Jr.) dbo:occupation o'<Actor>",
+    "12" : "s(Lillo_Brancato,_Jr.) dbo:stateOfOrigin o'<United_States>",
+    "13" : "s(Lillo_Brancato,_Jr.) dbp:criminalCharge o'<first-degree attempted burglary>",
+    "14" : "s(Lillo_Brancato,_Jr.) dbp:criminalPenalty o'<3.15576E8>",
+    "15" : "s(Lillo_Brancato,_Jr.) dbp:criminalStatus o'<--12-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10710",
+  "entityUrl" : "http://dbpedia.org/resource/Luigi_Capuana",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Luigi_Capuana) dbo:birthDate o'<1839-5-28>",
+    "2" : "s(Luigi_Capuana) dbo:birthPlace o'<Mineo>",
+    "3" : "s(Luigi_Capuana) dbo:deathDate o'<1915-11-29>",
+    "4" : "s(Luigi_Capuana) dbo:deathPlace o'<Catania>",
+    "5" : "s(Luigi_Capuana) dbp:id o'<Capuana,+Luigi>",
+    "6" : "s(Luigi_Capuana) dbp:name o'<Luigi Capuana>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10711",
+  "entityUrl" : "http://dbpedia.org/resource/Louis-Hector_de_Calli%C3%A8res",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10712",
+  "entityUrl" : "http://dbpedia.org/resource/Lorenzo_Sabbatini",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Lorenzo_Sabbatini) dbo:birthDate o'<1530-1-1>",
+    "2" : "s(Lorenzo_Sabbatini) dbo:birthPlace o'<Bologna>",
+    "3" : "s(Lorenzo_Sabbatini) dbo:deathDate o'<1576-1-1>",
+    "4" : "s(Lorenzo_Sabbatini) dbo:deathPlace o'<Rome>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

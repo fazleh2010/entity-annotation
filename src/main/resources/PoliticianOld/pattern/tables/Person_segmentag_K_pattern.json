@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity10865",
+  "entityUrl" : "http://dbpedia.org/resource/Kj%C3%B8lv_Egeland",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10866",
+  "entityUrl" : "http://dbpedia.org/resource/Katia_and_Marielle_Lab%C3%A8que",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10867",
+  "entityUrl" : "http://dbpedia.org/resource/Karel_Baxa",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Karel_Baxa) dbo:birthDate o'<1862-6-24>",
+    "2" : "s(Karel_Baxa) dbo:birthPlace o'<SedlÄ�any>",
+    "3" : "s(Karel_Baxa) dbo:deathDate o'<1938-1-5>",
+    "4" : "s(Karel_Baxa) dbo:deathPlace o'<Prague>",
+    "5" : "s(Karel_Baxa) dbp:title o'<Mayor of Prague>",
+    "6" : "s(Karel_Baxa) dbp:years o'<1919>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10868",
+  "entityUrl" : "http://dbpedia.org/resource/Kurt_von_Trojan",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Kurt_von_Trojan) dbo:birthDate o'<1937-1-1>",
+    "2" : "s(Kurt_von_Trojan) dbo:deathDate o'<2006-1-1>",
+    "3" : "s(Kurt_von_Trojan) dbp:id o'<Kurt_von_Trojan>",
+    "4" : "s(Kurt_von_Trojan) dbp:name o'<Kurt von Trojan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10869",
+  "entityUrl" : "http://dbpedia.org/resource/Kinache",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Kinache) dbo:birthDate o'<1750-1-1>",
+    "2" : "s(Kinache) dbo:deathDate o'<1819-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10870",
+  "entityUrl" : "http://dbpedia.org/resource/Kristian_Fjeld",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Kristian_Fjeld) dbo:birthDate o'<1887-2-16>",
+    "2" : "s(Kristian_Fjeld) dbo:deathDate o'<1976-12-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

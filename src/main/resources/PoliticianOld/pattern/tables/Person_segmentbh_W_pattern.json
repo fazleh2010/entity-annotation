@@ -1,0 +1,104 @@
+[ {
+  "entityIndex" : "entity11429",
+  "entityUrl" : "http://dbpedia.org/resource/William_T._O'Higgins",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(William_T._O'Higgins) dbo:birthDate o'<1829-1-1>",
+    "2" : "s(William_T._O'Higgins) dbo:deathDate o'<1874-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11430",
+  "entityUrl" : "http://dbpedia.org/resource/William_Elgin_Swinton",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(William_Elgin_Swinton) dbo:birthDate o'<1900-9-30>",
+    "2" : "s(William_Elgin_Swinton) dbo:birthPlace o'<Kirkcaldy>",
+    "3" : "s(William_Elgin_Swinton) dbo:deathDate o'<1994-6-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11431",
+  "entityUrl" : "http://dbpedia.org/resource/William_Dixon_(priest)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(William_Dixon_(priest)) dbo:birthDate o'<1939-10-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11432",
+  "entityUrl" : "http://dbpedia.org/resource/Wiley_Lee_Housewright",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Wiley_Lee_Housewright) dbo:birthDate o'<1913-10-17>",
+    "2" : "s(Wiley_Lee_Housewright) dbo:deathDate o'<2003-12-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11433",
+  "entityUrl" : "http://dbpedia.org/resource/W._U._Hensel",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(W._U._Hensel) dbo:almaMater o'<Franklin_&_Marshall_College>",
+    "2" : "s(W._U._Hensel) dbo:birthDate o'<1851-12-04>",
+    "3" : "s(W._U._Hensel) dbo:birthDate o'<1851-12-4>",
+    "4" : "s(W._U._Hensel) dbo:birthPlace o'<Lancaster_County,_Pennsylvania>",
+    "5" : "s(W._U._Hensel) dbo:birthPlace o'<Quarryville,_Pennsylvania>",
+    "6" : "s(W._U._Hensel) dbo:deathDate o'<1915-02-27>",
+    "7" : "s(W._U._Hensel) dbo:deathDate o'<1915-2-27>",
+    "8" : "s(W._U._Hensel) dbo:deathPlace o'<Savannah,_Georgia>",
+    "9" : "s(W._U._Hensel) dbo:office o'<40thAttorney General of Pennsylvania>",
+    "10" : "s(W._U._Hensel) dbo:predecessor o'<William_Sebring_Kirkpatrick>",
+    "11" : "s(W._U._Hensel) dbo:successor o'<Henry_Clay_McCormick>",
+    "12" : "s(W._U._Hensel) dbo:termPeriod o'<W._U._Hensel__1>",
+    "13" : "s(W._U._Hensel) dbp:after o'<Henry_Clay_McCormick>",
+    "14" : "s(W._U._Hensel) dbp:before o'<William_Sebring_Kirkpatrick>",
+    "15" : "s(W._U._Hensel) dbp:children o'<1>",
+    "16" : "s(W._U._Hensel) dbp:spouse o'<Emily Flinn>",
+    "17" : "s(W._U._Hensel) dbp:title o'<Pennsylvania_Attorney_General>",
+    "18" : "s(W._U._Hensel) dbp:years o'<1891>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(w. u. hensel=W._U._Hensel) [active in politics ] o'<attorney general=Pennsylvania_Attorney_General>"
+  },
+  "abstract" : {
+    "2" : "w. u. hensel<W._U._Hensel> was very active in politics, and a noted political speaker, but steadfastly declined any official post beyond his term as attorney general<Pennsylvania_Attorney_General>\n"
+  }
+}, {
+  "entityIndex" : "entity11434",
+  "entityUrl" : "http://dbpedia.org/resource/William_A._Ryan",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(William_A._Ryan) dbo:birthDate o'<1919-05-02>",
+    "2" : "s(William_A._Ryan) dbo:birthDate o'<1919-1-1>",
+    "3" : "s(William_A._Ryan) dbo:birthName o'<William Aloysius Ryan>",
+    "4" : "s(William_A._Ryan) dbo:birthPlace o'<Morgantown,_West_Virginia>",
+    "5" : "s(William_A._Ryan) dbo:country o'<United_States_of_America>",
+    "6" : "s(William_A._Ryan) dbo:deathDate o'<2001-10-09>",
+    "7" : "s(William_A._Ryan) dbo:deathDate o'<2001-10-9>",
+    "8" : "s(William_A._Ryan) dbo:deathPlace o'<Holt,_Michigan>",
+    "9" : "s(William_A._Ryan) dbo:militaryBranch o'<United_States_Marine_Corps>",
+    "10" : "s(William_A._Ryan) dbo:party o'<Democratic_Party_(United_States)>",
+    "11" : "s(William_A._Ryan) dbo:predecessor o'<Robert_E._Waldron>",
+    "12" : "s(William_A._Ryan) dbo:religion o'<Roman_Catholic>",
+    "13" : "s(William_A._Ryan) dbo:residence o'<Detroit,_Michigan>",
+    "14" : "s(William_A._Ryan) dbo:speaker o'<60>",
+    "15" : "s(William_A._Ryan) dbo:successor o'<Bobby_Crim>",
+    "16" : "s(William_A._Ryan) dbo:successor o'<Joe_Young,_Sr.>",
+    "17" : "s(William_A._Ryan) dbo:termPeriod o'<William_A._Ryan__1>",
+    "18" : "s(William_A._Ryan) dbo:termPeriod o'<William_A._Ryan__2>",
+    "19" : "s(William_A._Ryan) dbp:district o'<14>",
+    "20" : "s(William_A._Ryan) dbp:predecessor o'<Ed Carey>",
+    "21" : "s(William_A._Ryan) dbp:priorTerm o'<3>",
+    "22" : "s(William_A._Ryan) dbp:priorTerm o'<Wayne 3rd District>",
+    "23" : "s(William_A._Ryan) dbp:restingplace o'<St. Joseph Cemetery, Lansing, Michigan>",
+    "24" : "s(William_A._Ryan) dbp:spouse o'<Virginia>",
+    "25" : "s(William_A._Ryan) dbp:stateHouse o'<Michigan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

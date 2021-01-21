@@ -1,0 +1,20 @@
+[ {
+  "entityIndex" : "entity10819",
+  "entityUrl" : "http://dbpedia.org/resource/*Corpus_Callosum",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(*Corpus_Callosum) dbo:director o'<Michael_Snow>",
+    "2" : "s(*Corpus_Callosum) dbo:imdbId o'<0275275>",
+    "3" : "s(*Corpus_Callosum) dbo:runtime o'<92.0>",
+    "4" : "s(*Corpus_Callosum) dbo:runtime o'<5520.0>",
+    "5" : "s(*Corpus_Callosum) dbo:starring o'<Jacqueline_Anderson>",
+    "6" : "s(*Corpus_Callosum) dbo:writer o'<Michael_Snow>",
+    "7" : "s(*Corpus_Callosum) dbp:cinematography o'<Harald Bachmann>",
+    "8" : "s(*Corpus_Callosum) dbp:cinematography o'<Robbi Hinds>",
+    "9" : "s(*Corpus_Callosum) dbp:country o'<Canada>",
+    "10" : "s(*Corpus_Callosum) dbp:language o'<English>",
+    "11" : "s(*Corpus_Callosum) dbp:title o'<*Corpus Callosum>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

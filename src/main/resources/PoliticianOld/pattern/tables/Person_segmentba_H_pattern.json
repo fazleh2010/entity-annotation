@@ -1,0 +1,55 @@
+[ {
+  "entityIndex" : "entity14116",
+  "entityUrl" : "http://dbpedia.org/resource/Hans_Edvard_Kj%C3%B8lseth",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14117",
+  "entityUrl" : "http://dbpedia.org/resource/Harald_Saue",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Harald_Saue) dbo:birthDate o'<1876-2-20>",
+    "2" : "s(Harald_Saue) dbo:deathDate o'<1958-12-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14118",
+  "entityUrl" : "http://dbpedia.org/resource/Hasan_H%C3%BCseyin_Korkmazgil",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14119",
+  "entityUrl" : "http://dbpedia.org/resource/Hans_Hanssen",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Hans_Hanssen) dbo:birthDate o'<1853-1-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14120",
+  "entityUrl" : "http://dbpedia.org/resource/Hans_Martin_Hanssen",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Hans_Martin_Hanssen) dbo:birthDate o'<1911-10-14>",
+    "2" : "s(Hans_Martin_Hanssen) dbo:deathDate o'<1971-5-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14121",
+  "entityUrl" : "http://dbpedia.org/resource/Hanne_Eriksen",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Hanne_Eriksen) dbo:birthDate o'<1960-9-20>",
+    "2" : "s(Hanne_Eriksen) dbo:birthPlace o'<Copenhagen>",
+    "3" : "s(Hanne_Eriksen) dbo:country o'<Denmark>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

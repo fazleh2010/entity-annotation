@@ -1,0 +1,66 @@
+[ {
+  "entityIndex" : "entity11355",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Walby",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11356",
+  "entityUrl" : "http://dbpedia.org/resource/Kaoru_Maruyama",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Kaoru_Maruyama) dbo:birthDate o'<1899-6-8>",
+    "2" : "s(Kaoru_Maruyama) dbo:country o'<Japan>",
+    "3" : "s(Kaoru_Maruyama) dbo:deathDate o'<1974-10-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11357",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Hewlett",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Kate_Hewlett) dbo:activeYearsStartYear o'<1999>",
+    "2" : "s(Kate_Hewlett) dbo:birthDate o'<1976-12-17>",
+    "3" : "s(Kate_Hewlett) dbo:birthName o'<Katherine Emily Hewlett>",
+    "4" : "s(Kate_Hewlett) dbo:birthPlace o'<Ontario>",
+    "5" : "s(Kate_Hewlett) dbo:birthPlace o'<Toronto>",
+    "6" : "s(Kate_Hewlett) dbo:birthPlace o'<Canada>",
+    "7" : "s(Kate_Hewlett) dbo:birthYear o'<1976>",
+    "8" : "s(Kate_Hewlett) dbo:imdbId o'<1968664>",
+    "9" : "s(Kate_Hewlett) dbp:name o'<Kate Hewlett>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11358",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuhito_Kikuchi",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Kazuhito_Kikuchi) dbo:birthDate o'<1977-10-15>",
+    "2" : "s(Kazuhito_Kikuchi) dbo:birthPlace o'<Tokyo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11359",
+  "entityUrl" : "http://dbpedia.org/resource/Kjetil_M%C3%A5rdalen",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11360",
+  "entityUrl" : "http://dbpedia.org/resource/Kevyn_Major_Howard",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Kevyn_Major_Howard) dbo:activeYearsEndYear o'<1999>",
+    "2" : "s(Kevyn_Major_Howard) dbo:activeYearsStartYear o'<1980>",
+    "3" : "s(Kevyn_Major_Howard) dbo:occupation o'<Kevyn_Major_Howard__1>",
+    "4" : "s(Kevyn_Major_Howard) dbo:occupation o'<Film_producer>",
+    "5" : "s(Kevyn_Major_Howard) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

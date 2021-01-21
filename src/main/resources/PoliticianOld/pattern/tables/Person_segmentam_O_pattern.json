@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity11867",
+  "entityUrl" : "http://dbpedia.org/resource/Otmaro_Ru%C3%ADz",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11868",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Ortmann",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Oliver_Ortmann) dbo:birthDate o'<1967-6-11>",
+    "2" : "s(Oliver_Ortmann) dbo:birthPlace o'<Gelsenkirchen>",
+    "3" : "s(Oliver_Ortmann) dbp:after o'<Ralf_Souquet>",
+    "4" : "s(Oliver_Ortmann) dbp:after o'<Niels_Feijen>",
+    "5" : "s(Oliver_Ortmann) dbp:before o'<Takeshi_Okumura>",
+    "6" : "s(Oliver_Ortmann) dbp:before o'<Thorsten_Hohmann>",
+    "7" : "s(Oliver_Ortmann) dbp:title o'<List_of_WPA_World_Nine-ball_Champions>",
+    "8" : "s(Oliver_Ortmann) dbp:title o'<World_Straight_Pool_Championship>",
+    "9" : "s(Oliver_Ortmann) dbp:title o'<Oliver Ortmann at Mosconi Cup>",
+    "10" : "s(Oliver_Ortmann) dbp:years o'<1995>",
+    "11" : "s(Oliver_Ortmann) dbp:years o'<2007>",
+    "12" : "s(Oliver_Ortmann) dbp:years o'<2010>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11869",
+  "entityUrl" : "http://dbpedia.org/resource/Onjolee_Nair",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Onjolee_Nair) dbo:imdbId o'<2143210>",
+    "2" : "s(Onjolee_Nair) dbp:name o'<Onjolee Nair>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11870",
+  "entityUrl" : "http://dbpedia.org/resource/Olivier_Ker_Ourio",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Olivier_Ker_Ourio) dbo:birthDate o'<1964-1-1>",
+    "2" : "s(Olivier_Ker_Ourio) dbo:birthPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11871",
+  "entityUrl" : "http://dbpedia.org/resource/Olga_Fedori",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Olga_Fedori) dbo:birthDate o'<1984-03-17>",
+    "2" : "s(Olga_Fedori) dbo:birthDate o'<1984-3-17>",
+    "3" : "s(Olga_Fedori) dbo:birthPlace o'<Europe>",
+    "4" : "s(Olga_Fedori) dbo:birthPlace o'<Ukraine>",
+    "5" : "s(Olga_Fedori) dbo:birthYear o'<1984>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11872",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_I,_Duke_of_Merania",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Otto_I,_Duke_of_Merania) dbo:birthDate o'<1180-1-1>",
+    "2" : "s(Otto_I,_Duke_of_Merania) dbo:deathDate o'<1234-05-07>",
+    "3" : "s(Otto_I,_Duke_of_Merania) dbo:deathDate o'<1234-5-7>",
+    "4" : "s(Otto_I,_Duke_of_Merania) dbo:deathPlace o'<BesanÃ§on>",
+    "5" : "s(Otto_I,_Duke_of_Merania) dbo:deathPlace o'<County_of_Burgundy>",
+    "6" : "s(Otto_I,_Duke_of_Merania) dbo:parent o'<Agnes_of_Rochlitz>",
+    "7" : "s(Otto_I,_Duke_of_Merania) dbo:parent o'<Berthold,_Duke_of_Merania>",
+    "8" : "s(Otto_I,_Duke_of_Merania) dbo:placeOfBurial o'<Langheim_Abbey>",
+    "9" : "s(Otto_I,_Duke_of_Merania) dbo:spouse o'<Beatrice_II,_Countess_of_Burgundy>",
+    "10" : "s(Otto_I,_Duke_of_Merania) dbo:title o'<Duke of Merania>",
+    "11" : "s(Otto_I,_Duke_of_Merania) dbp:after o'<Otto_III,_Count_of_Burgundy>",
+    "12" : "s(Otto_I,_Duke_of_Merania) dbp:before o'<Henry_II,_Margrave_of_Istria>",
+    "13" : "s(Otto_I,_Duke_of_Merania) dbp:before o'<Beatrice_II,_Countess_of_Burgundy>",
+    "14" : "s(Otto_I,_Duke_of_Merania) dbp:before o'<Berthold,_Duke_of_Merania>",
+    "15" : "s(Otto_I,_Duke_of_Merania) dbp:birthDate o'<c. 1180>",
+    "16" : "s(Otto_I,_Duke_of_Merania) dbp:nobleFamily o'<House_of_Andechs>",
+    "17" : "s(Otto_I,_Duke_of_Merania) dbp:rows o'<3>",
+    "18" : "s(Otto_I,_Duke_of_Merania) dbp:title o'<List_of_counts_of_Burgundy>",
+    "19" : "s(Otto_I,_Duke_of_Merania) dbp:title o'<Duke_of_Merania>",
+    "20" : "s(Otto_I,_Duke_of_Merania) dbp:title o'<Margrave of Istria and Carniola>",
+    "21" : "s(Otto_I,_Duke_of_Merania) dbp:years o'<1204>",
+    "22" : "s(Otto_I,_Duke_of_Merania) dbp:years o'<1208>",
+    "23" : "s(Otto_I,_Duke_of_Merania) dbp:years o'<1228>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

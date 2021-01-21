@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity11371",
+  "entityUrl" : "http://dbpedia.org/resource/Loren_Kohnfelder",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11372",
+  "entityUrl" : "http://dbpedia.org/resource/Lisa_Barbuscia",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Lisa_Barbuscia) dbo:activeYearsEndYear o'<1995>",
+    "2" : "s(Lisa_Barbuscia) dbo:activeYearsStartYear o'<1995>",
+    "3" : "s(Lisa_Barbuscia) dbo:alias o'<Lisa B>",
+    "4" : "s(Lisa_Barbuscia) dbo:birthDate o'<1971-06-18>",
+    "5" : "s(Lisa_Barbuscia) dbo:birthDate o'<1971-6-18>",
+    "6" : "s(Lisa_Barbuscia) dbo:birthName o'<Lisa Barbuscia>",
+    "7" : "s(Lisa_Barbuscia) dbo:birthPlace o'<United_States>",
+    "8" : "s(Lisa_Barbuscia) dbo:birthPlace o'<Brooklyn>",
+    "9" : "s(Lisa_Barbuscia) dbo:birthPlace o'<New_York_(state)>",
+    "10" : "s(Lisa_Barbuscia) dbo:birthYear o'<1971>",
+    "11" : "s(Lisa_Barbuscia) dbo:imdbId o'<0053887>",
+    "12" : "s(Lisa_Barbuscia) dbo:occupation o'<Model_(person)>",
+    "13" : "s(Lisa_Barbuscia) dbo:occupation o'<Singer>",
+    "14" : "s(Lisa_Barbuscia) dbo:occupation o'<Film_actor>",
+    "15" : "s(Lisa_Barbuscia) dbo:occupation o'<Lisa_Barbuscia__1>",
+    "16" : "s(Lisa_Barbuscia) dbp:name o'<Lisa Barbuscia>",
+    "17" : "s(Lisa_Barbuscia) dbp:spouse o'<Anton Bilton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11373",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Figuier",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Louis_Figuier) dbo:birthDate o'<1819-2-15>",
+    "2" : "s(Louis_Figuier) dbo:birthPlace o'<Montpellier>",
+    "3" : "s(Louis_Figuier) dbo:country o'<France>",
+    "4" : "s(Louis_Figuier) dbo:deathDate o'<1894-11-8>",
+    "5" : "s(Louis_Figuier) dbo:deathPlace o'<Paris>",
+    "6" : "s(Louis_Figuier) dbp:id o'<Figuier,+Louis>",
+    "7" : "s(Louis_Figuier) dbp:name o'<Louis Figuier>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11374",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Zangwill",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Louis_Zangwill) dbo:birthDate o'<1869-7-25>",
+    "2" : "s(Louis_Zangwill) dbo:deathDate o'<1938-0-0>",
+    "3" : "s(Louis_Zangwill) dbp:id o'<Zangwill,+Louis>",
+    "4" : "s(Louis_Zangwill) dbp:name o'<Louis Zangwill>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11375",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_de_Deyster",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Louis_de_Deyster) dbo:birthDate o'<1656-1-1>",
+    "2" : "s(Louis_de_Deyster) dbo:birthPlace o'<Bruges>",
+    "3" : "s(Louis_de_Deyster) dbo:deathDate o'<1711-12-18>",
+    "4" : "s(Louis_de_Deyster) dbo:deathPlace o'<Bruges>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11376",
+  "entityUrl" : "http://dbpedia.org/resource/Lorenz_Diefenbach",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Lorenz_Diefenbach) dbo:birthDate o'<1806-07-19>",
+    "2" : "s(Lorenz_Diefenbach) dbo:birthDate o'<1806-7-29>",
+    "3" : "s(Lorenz_Diefenbach) dbo:birthName o'<Georg Anton Lorenz Diefenbach>",
+    "4" : "s(Lorenz_Diefenbach) dbo:birthPlace o'<Butzbach>",
+    "5" : "s(Lorenz_Diefenbach) dbo:birthPlace o'<Landgraviate_of_Hesse-Darmstadt>",
+    "6" : "s(Lorenz_Diefenbach) dbo:birthYear o'<1806>",
+    "7" : "s(Lorenz_Diefenbach) dbo:country o'<Germany>",
+    "8" : "s(Lorenz_Diefenbach) dbo:deathDate o'<1883-03-28>",
+    "9" : "s(Lorenz_Diefenbach) dbo:deathDate o'<1883-3-28>",
+    "10" : "s(Lorenz_Diefenbach) dbo:deathPlace o'<Darmstadt>",
+    "11" : "s(Lorenz_Diefenbach) dbo:deathYear o'<1883>",
+    "12" : "s(Lorenz_Diefenbach) dbo:occupation o'<Philologist>",
+    "13" : "s(Lorenz_Diefenbach) dbo:occupation o'<Lexicographer>",
+    "14" : "s(Lorenz_Diefenbach) dbo:occupation o'<Lorenz_Diefenbach__1>",
+    "15" : "s(Lorenz_Diefenbach) dbp:nationality o'<German>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

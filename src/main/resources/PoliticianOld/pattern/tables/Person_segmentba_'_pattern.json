@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "entity14236",
+  "entityUrl" : "http://dbpedia.org/resource/'Amr_III_ibn_al-Mundhir",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s('Amr_III_ibn_al-Mundhir) dbo:deathDate o'<569-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14237",
+  "entityUrl" : "http://dbpedia.org/resource/'Amr_ibn_al-'As",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s('Amr_ibn_al-'As) dbo:birthDate o'<0585-02-14>",
+    "2" : "s('Amr_ibn_al-'As) dbo:birthDate o'<573-1-1>",
+    "3" : "s('Amr_ibn_al-'As) dbo:birthPlace o'<Mecca>",
+    "4" : "s('Amr_ibn_al-'As) dbo:birthPlace o'<Arabian_Peninsula>",
+    "5" : "s('Amr_ibn_al-'As) dbo:country o'<Ummayad_Caliphate>",
+    "6" : "s('Amr_ibn_al-'As) dbo:country o'<Rashidun_Caliphate>",
+    "7" : "s('Amr_ibn_al-'As) dbo:deathDate o'<664-1-1>",
+    "8" : "s('Amr_ibn_al-'As) dbo:deathPlace o'<Egypt>",
+    "9" : "s('Amr_ibn_al-'As) dbo:deathPlace o'<Fustat>",
+    "10" : "s('Amr_ibn_al-'As) dbo:militaryBranch o'<Ummayad_Caliphate>",
+    "11" : "s('Amr_ibn_al-'As) dbo:militaryBranch o'<Rashidun_army>",
+    "12" : "s('Amr_ibn_al-'As) dbo:militaryCommand o'<Conquest of Egypt,First Muslim Civil War>",
+    "13" : "s('Amr_ibn_al-'As) dbo:militaryCommand o'<Conquest of Palestine>",
+    "14" : "s('Amr_ibn_al-'As) dbo:militaryRank o'<Commander>",
+    "15" : "s('Amr_ibn_al-'As) dbo:militaryRank o'<List_of_governors_of_Islamic_Egypt>",
+    "16" : "s('Amr_ibn_al-'As) dbo:monarch o'<Muawiyah_I>",
+    "17" : "s('Amr_ibn_al-'As) dbo:monarch o'<Umar_Ibn_al-Khattab>",
+    "18" : "s('Amr_ibn_al-'As) dbo:office o'<EmirofPalestine>",
+    "19" : "s('Amr_ibn_al-'As) dbo:office o'<Governor of Egypt>",
+    "20" : "s('Amr_ibn_al-'As) dbo:predecessor o'<Muslim_conquest_of_the_Levant>",
+    "21" : "s('Amr_ibn_al-'As) dbo:predecessor o'<Muslim_conquest_of_Egypt>",
+    "22" : "s('Amr_ibn_al-'As) dbo:predecessor o'<Muhammad_ibn_Abu_Bakr>",
+    "23" : "s('Amr_ibn_al-'As) dbo:serviceEndYear o'<0636>",
+    "24" : "s('Amr_ibn_al-'As) dbo:serviceStartYear o'<0634>",
+    "25" : "s('Amr_ibn_al-'As) dbo:successor o'<Muawiyah_I>",
+    "26" : "s('Amr_ibn_al-'As) dbo:successor o'<Abdallah_ibn_Sa'ad>",
+    "27" : "s('Amr_ibn_al-'As) dbo:successor o'<Utba_ibn_Abi_Sufyan>",
+    "28" : "s('Amr_ibn_al-'As) dbo:termPeriod o'<'Amr_ibn_al-'As__1>",
+    "29" : "s('Amr_ibn_al-'As) dbo:termPeriod o'<'Amr_ibn_al-'As__2>",
+    "30" : "s('Amr_ibn_al-'As) dbp:deathDate o'<664>",
+    "31" : "s('Amr_ibn_al-'As) dbp:monarchLabel o'<Caliph>",
+    "32" : "s('Amr_ibn_al-'As) dbp:termEnd o'<640>",
+    "33" : "s('Amr_ibn_al-'As) dbp:termEnd o'<644>",
+    "34" : "s('Amr_ibn_al-'As) dbp:termEnd o'<664>",
+    "35" : "s('Amr_ibn_al-'As) dbp:termStart o'<637>",
+    "36" : "s('Amr_ibn_al-'As) dbp:termStart o'<640>",
+    "37" : "s('Amr_ibn_al-'As) dbp:termStart o'<658>",
+    "38" : "s('Amr_ibn_al-'As) dbp:title o'<List_of_governors_of_Islamic_Egypt>",
+    "39" : "s('Amr_ibn_al-'As) dbp:years o'<640>",
+    "40" : "s('Amr_ibn_al-'As) dbp:years o'<658>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14238",
+  "entityUrl" : "http://dbpedia.org/resource/'Punnagai_Poo'_Gheetha",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s('Punnagai_Poo'_Gheetha) dbo:wikiPageRedirects o'<Punnagai_Poo_Gheetha>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

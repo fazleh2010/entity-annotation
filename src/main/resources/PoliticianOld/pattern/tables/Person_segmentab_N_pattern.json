@@ -1,0 +1,110 @@
+[ {
+  "entityIndex" : "entity10883",
+  "entityUrl" : "http://dbpedia.org/resource/Nestor_the_Chronicler",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Nestor_the_Chronicler) dbo:birthDate o'<1056-1-1>",
+    "2" : "s(Nestor_the_Chronicler) dbo:birthPlace o'<Kiev>",
+    "3" : "s(Nestor_the_Chronicler) dbo:birthYear o'<0011>",
+    "4" : "s(Nestor_the_Chronicler) dbo:deathDate o'<1114-1-1>",
+    "5" : "s(Nestor_the_Chronicler) dbo:deathPlace o'<Kiev>",
+    "6" : "s(Nestor_the_Chronicler) dbo:deathYear o'<0012>",
+    "7" : "s(Nestor_the_Chronicler) dbo:knownFor o'<Primary_Chronicle>",
+    "8" : "s(Nestor_the_Chronicler) dbo:occupation o'<Nestor_the_Chronicler__1>",
+    "9" : "s(Nestor_the_Chronicler) dbo:occupation o'<Monk>",
+    "10" : "s(Nestor_the_Chronicler) dbp:page o'<406407>",
+    "11" : "s(Nestor_the_Chronicler) dbp:volume o'<19>",
+    "12" : "s(Nestor_the_Chronicler) dbp:wstitle o'<Nestor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(nestor the chronicler=Nestor_the_Chronicler) [commissioned with two ] o'<monks=Monk>",
+    "7" : "s(nestor the chronicler=Nestor_the_Chronicler) [supported reigning prince svyatopolk ] o'<kiev=Kiev>",
+    "24" : "s(nestor the chronicler=Nestor_the_Chronicler) [commemorated in common ] o'<kiev=Kiev>"
+  },
+  "abstract" : {
+    "5" : "the only other detail of his life that is reliably known is that nestor the chronicler<Nestor_the_Chronicler> was commissioned with two other monks<Monk> to find the relics of st\n",
+    "7" : "it is also speculated that nestor the chronicler<Nestor_the_Chronicler> supported the reigning prince svyatopolk ii and his pro-scandinavian party and disliked greek influence in kiev<Kiev>\n",
+    "24" : "nestor the chronicler<Nestor_the_Chronicler> is also commemorated in common with other saints of the kiev<Kiev> caves laura on september 28 (synaxis of the venerable fathers<Monk> of the kiev<Kiev> caves) and on the second sunday of great lent\n"
+  }
+}, {
+  "entityIndex" : "entity10884",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_H._McElroy",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Neil_H._McElroy) dbo:almaMater o'<Harvard_University>",
+    "2" : "s(Neil_H._McElroy) dbo:birthDate o'<1904-10-30>",
+    "3" : "s(Neil_H._McElroy) dbo:birthPlace o'<United_States>",
+    "4" : "s(Neil_H._McElroy) dbo:birthPlace o'<Ohio>",
+    "5" : "s(Neil_H._McElroy) dbo:birthPlace o'<Berea,_Ohio>",
+    "6" : "s(Neil_H._McElroy) dbo:deathDate o'<1972-11-30>",
+    "7" : "s(Neil_H._McElroy) dbo:deathPlace o'<United_States>",
+    "8" : "s(Neil_H._McElroy) dbo:deathPlace o'<Ohio>",
+    "9" : "s(Neil_H._McElroy) dbo:deathPlace o'<Cincinnati>",
+    "10" : "s(Neil_H._McElroy) dbo:orderInOffice o'<6th>",
+    "11" : "s(Neil_H._McElroy) dbo:predecessor o'<Charles_Erwin_Wilson>",
+    "12" : "s(Neil_H._McElroy) dbo:president o'<Dwight_D._Eisenhower>",
+    "13" : "s(Neil_H._McElroy) dbo:profession o'<Businessman>",
+    "14" : "s(Neil_H._McElroy) dbo:successor o'<Thomas_S._Gates,_Jr.>",
+    "15" : "s(Neil_H._McElroy) dbo:termPeriod o'<Neil_H._McElroy__1>",
+    "16" : "s(Neil_H._McElroy) dbp:after o'<Thomas_S._Gates>",
+    "17" : "s(Neil_H._McElroy) dbp:before o'<Charles_Erwin_Wilson>",
+    "18" : "s(Neil_H._McElroy) dbp:birthName o'<Neil Hosler McElroy>",
+    "19" : "s(Neil_H._McElroy) dbp:department o'<Secretary of Defense>",
+    "20" : "s(Neil_H._McElroy) dbp:president o'<Dwight_D._Eisenhower>",
+    "21" : "s(Neil_H._McElroy) dbp:smallimage o'<Neil McElroy official DoD photo.jpg>",
+    "22" : "s(Neil_H._McElroy) dbp:title o'<United_States_Secretary_of_Defense>",
+    "23" : "s(Neil_H._McElroy) dbp:years o'<1957>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10885",
+  "entityUrl" : "http://dbpedia.org/resource/Nathan_Fillion",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Nathan_Fillion) dbo:activeYearsStartYear o'<1993>",
+    "2" : "s(Nathan_Fillion) dbo:birthDate o'<1971-03-27>",
+    "3" : "s(Nathan_Fillion) dbo:birthDate o'<1971-3-27>",
+    "4" : "s(Nathan_Fillion) dbo:birthPlace o'<Alberta>",
+    "5" : "s(Nathan_Fillion) dbo:birthPlace o'<Edmonton>",
+    "6" : "s(Nathan_Fillion) dbo:birthPlace o'<Canada>",
+    "7" : "s(Nathan_Fillion) dbo:birthYear o'<1971>",
+    "8" : "s(Nathan_Fillion) dbo:occupation o'<Nathan_Fillion__1>",
+    "9" : "s(Nathan_Fillion) dbp:colwidth o'<30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10886",
+  "entityUrl" : "http://dbpedia.org/resource/Nadine_Strossen",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Nadine_Strossen) dbo:birthDate o'<1950-8-18>",
+    "2" : "s(Nadine_Strossen) dbp:description o'<\"The Open Mind â€“ American's Civil Liberties, Part I \">",
+    "3" : "s(Nadine_Strossen) dbp:description o'<\"The Open Mind â€“ American's Civil Liberties, Part II \">",
+    "4" : "s(Nadine_Strossen) dbp:id o'<openmind_ep1362>",
+    "5" : "s(Nadine_Strossen) dbp:id o'<openmind_ep1363>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10887",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolaus_Rohlfs",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Nicolaus_Rohlfs) dbo:birthDate o'<1695-1-1>",
+    "2" : "s(Nicolaus_Rohlfs) dbo:birthPlace o'<Hamburg>",
+    "3" : "s(Nicolaus_Rohlfs) dbo:country o'<Germany>",
+    "4" : "s(Nicolaus_Rohlfs) dbo:deathDate o'<1750-1-1>",
+    "5" : "s(Nicolaus_Rohlfs) dbo:deathPlace o'<Buxtehude>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10888",
+  "entityUrl" : "http://dbpedia.org/resource/Nagasena",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

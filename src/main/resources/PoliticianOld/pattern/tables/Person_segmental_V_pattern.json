@@ -1,0 +1,109 @@
+[ {
+  "entityIndex" : "entity11746",
+  "entityUrl" : "http://dbpedia.org/resource/Veda_Ann_Borg",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Veda_Ann_Borg) dbo:activeYearsEndYear o'<1963>",
+    "2" : "s(Veda_Ann_Borg) dbo:activeYearsStartYear o'<1936>",
+    "3" : "s(Veda_Ann_Borg) dbo:birthDate o'<1915-01-11>",
+    "4" : "s(Veda_Ann_Borg) dbo:birthDate o'<1915-1-11>",
+    "5" : "s(Veda_Ann_Borg) dbo:birthPlace o'<Boston,_Massachusetts>",
+    "6" : "s(Veda_Ann_Borg) dbo:birthPlace o'<Boston>",
+    "7" : "s(Veda_Ann_Borg) dbo:birthYear o'<1915>",
+    "8" : "s(Veda_Ann_Borg) dbo:deathDate o'<1973-08-16>",
+    "9" : "s(Veda_Ann_Borg) dbo:deathDate o'<1973-8-16>",
+    "10" : "s(Veda_Ann_Borg) dbo:deathPlace o'<Hollywood,_California>",
+    "11" : "s(Veda_Ann_Borg) dbo:deathPlace o'<Hollywood>",
+    "12" : "s(Veda_Ann_Borg) dbo:deathYear o'<1973>",
+    "13" : "s(Veda_Ann_Borg) dbo:spouse o'<Andrew_McLaglen>",
+    "14" : "s(Veda_Ann_Borg) dbp:children o'<Andrew Victor McLaglen II>",
+    "15" : "s(Veda_Ann_Borg) dbp:deathCause o'<cancer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11747",
+  "entityUrl" : "http://dbpedia.org/resource/Vicki_Dunne",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Vicki_Dunne) dbo:birthDate o'<1956-12-25>",
+    "2" : "s(Vicki_Dunne) dbo:birthPlace o'<Lismore,_New_South_Wales>",
+    "3" : "s(Vicki_Dunne) dbo:deputy o'<Mary_Porter_(politician)>",
+    "4" : "s(Vicki_Dunne) dbo:office o'<Australian Capital Territory Legislative>",
+    "5" : "s(Vicki_Dunne) dbo:office o'<Speaker of the Australian Capital Territory Legislative Assembly>",
+    "6" : "s(Vicki_Dunne) dbo:orderInOffice o'<6th>",
+    "7" : "s(Vicki_Dunne) dbo:party o'<Liberal_Party_of_Australia>",
+    "8" : "s(Vicki_Dunne) dbo:predecessor o'<Shane_Rattenbury>",
+    "9" : "s(Vicki_Dunne) dbo:region o'<Ginninderra_electorate>",
+    "10" : "s(Vicki_Dunne) dbo:termPeriod o'<Vicki_Dunne__1>",
+    "11" : "s(Vicki_Dunne) dbo:termPeriod o'<Vicki_Dunne__2>",
+    "12" : "s(Vicki_Dunne) dbp:honorificSuffix o'<Australian_Capital_Territory_Legislative_Assembly>",
+    "13" : "s(Vicki_Dunne) dbp:nationality o'<Australian>",
+    "14" : "s(Vicki_Dunne) dbp:title o'<Speaker_of_the_Australian_Capital_Territory_Legislative_Assembly>",
+    "15" : "s(Vicki_Dunne) dbp:years o'<2012>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11748",
+  "entityUrl" : "http://dbpedia.org/resource/Volker_Roth",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Volker_Roth) dbo:birthDate o'<1942-2-1>",
+    "2" : "s(Volker_Roth) dbo:birthPlace o'<Chemnitz>",
+    "3" : "s(Volker_Roth) dbp:birthDate o'<1942-02-01>",
+    "4" : "s(Volker_Roth) dbp:birthPlace o'<Germany>",
+    "5" : "s(Volker_Roth) dbp:birthPlace o'<Salzgitter>",
+    "6" : "s(Volker_Roth) dbp:confederation o'<FIFA-listed>",
+    "7" : "s(Volker_Roth) dbp:internationalrole o'<Referee>",
+    "8" : "s(Volker_Roth) dbp:internationalyears o'<1978>",
+    "9" : "s(Volker_Roth) dbp:league o'<FuÃŸball-Bundesliga>",
+    "10" : "s(Volker_Roth) dbp:name o'<Volker Roth>",
+    "11" : "s(Volker_Roth) dbp:role o'<Referee>",
+    "12" : "s(Volker_Roth) dbp:years o'<1972>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11749",
+  "entityUrl" : "http://dbpedia.org/resource/Vasujyeshtha",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Vasujyeshtha) dbo:activeYearsStartYear o'<0141>",
+    "2" : "s(Vasujyeshtha) dbo:deathDate o'<-131-1-1>",
+    "3" : "s(Vasujyeshtha) dbo:parent o'<Agnimitra>",
+    "4" : "s(Vasujyeshtha) dbo:predecessor o'<Agnimitra>",
+    "5" : "s(Vasujyeshtha) dbo:successor o'<Vasumitra>",
+    "6" : "s(Vasujyeshtha) dbo:title o'<Shunga Emperor>",
+    "7" : "s(Vasujyeshtha) dbp:after o'<Vasumitra>",
+    "8" : "s(Vasujyeshtha) dbp:before o'<Agnimitra>",
+    "9" : "s(Vasujyeshtha) dbp:dynasty o'<Shunga>",
+    "10" : "s(Vasujyeshtha) dbp:title o'<Shunga_Empire>",
+    "11" : "s(Vasujyeshtha) dbp:years o'<141>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11750",
+  "entityUrl" : "http://dbpedia.org/resource/Vartan_Pasha",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Vartan_Pasha) dbo:birthDate o'<1813-1-1>",
+    "2" : "s(Vartan_Pasha) dbo:birthPlace o'<Istanbul>",
+    "3" : "s(Vartan_Pasha) dbo:deathDate o'<1879-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11751",
+  "entityUrl" : "http://dbpedia.org/resource/Vasile_Suciu",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Vasile_Suciu) dbo:birthDate o'<1873-1-13>",
+    "2" : "s(Vasile_Suciu) dbo:birthPlace o'<Q725610>",
+    "3" : "s(Vasile_Suciu) dbo:deathDate o'<1935-1-25>",
+    "4" : "s(Vasile_Suciu) dbo:deathPlace o'<Blaj>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

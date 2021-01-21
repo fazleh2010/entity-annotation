@@ -1,0 +1,68 @@
+[ {
+  "entityIndex" : "entity11411",
+  "entityUrl" : "http://dbpedia.org/resource/Tadeusz_Chorzelski",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Tadeusz_Chorzelski) dbo:birthDate o'<1928-5-21>",
+    "2" : "s(Tadeusz_Chorzelski) dbo:birthPlace o'<Korycin>",
+    "3" : "s(Tadeusz_Chorzelski) dbo:deathDate o'<1999-1-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11412",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Clarke_(Dean_of_Barbados)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Thomas_Clarke_(Dean_of_Barbados)) dbo:deathDate o'<1900-1-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11413",
+  "entityUrl" : "http://dbpedia.org/resource/Tommaso_Nardini",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Tommaso_Nardini) dbo:birthDate o'<1658-1-1>",
+    "2" : "s(Tommaso_Nardini) dbo:birthPlace o'<Ascoli_Piceno>",
+    "3" : "s(Tommaso_Nardini) dbo:deathDate o'<1718-1-1>",
+    "4" : "s(Tommaso_Nardini) dbo:deathPlace o'<Ascoli_Piceno>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11414",
+  "entityUrl" : "http://dbpedia.org/resource/Troilus_(philosopher)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11415",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Wood_(mayor)__Wood,_Thomas__1",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11416",
+  "entityUrl" : "http://dbpedia.org/resource/Teejay_Marquez",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Teejay_Marquez) dbo:activeYearsStartYear o'<2011>",
+    "2" : "s(Teejay_Marquez) dbo:birthDate o'<1993-09-29>",
+    "3" : "s(Teejay_Marquez) dbo:birthDate o'<1993-9-29>",
+    "4" : "s(Teejay_Marquez) dbo:birthName o'<Teejay Marquez>",
+    "5" : "s(Teejay_Marquez) dbo:birthPlace o'<Philippines>",
+    "6" : "s(Teejay_Marquez) dbo:birthPlace o'<Quezon_City>",
+    "7" : "s(Teejay_Marquez) dbo:birthYear o'<1993>",
+    "8" : "s(Teejay_Marquez) dbo:occupation o'<Teejay_Marquez__1>",
+    "9" : "s(Teejay_Marquez) dbo:religion o'<Roman_Catholic>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(teejay marquez=Teejay_Marquez) [born september 29 1993 ] o'<filipino=Philippines>"
+  },
+  "abstract" : {
+    "1" : "teejay marquez<Teejay_Marquez> (born september 29, 1993) is a filipino<Philippines> actor, dancer, television personality and commercial model who was recently seen in gma network's shows"
+  }
+} ]

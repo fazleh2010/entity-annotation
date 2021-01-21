@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity11325",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_Javier_Ill%C3%A1n_Vivas",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11326",
+  "entityUrl" : "http://dbpedia.org/resource/Ferdinand_Hueppe",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Ferdinand_Hueppe) dbo:birthDate o'<1852-8-24>",
+    "2" : "s(Ferdinand_Hueppe) dbo:birthPlace o'<Neuwied>",
+    "3" : "s(Ferdinand_Hueppe) dbo:deathDate o'<1938-11-14>",
+    "4" : "s(Ferdinand_Hueppe) dbo:deathPlace o'<Dresden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11327",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7ois_Scheffer",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11328",
+  "entityUrl" : "http://dbpedia.org/resource/Floris_van_Dyck",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Floris_van_Dyck) dbo:birthDate o'<1575-1-1>",
+    "2" : "s(Floris_van_Dyck) dbo:birthPlace o'<Delft>",
+    "3" : "s(Floris_van_Dyck) dbo:deathDate o'<1651-4-26>",
+    "4" : "s(Floris_van_Dyck) dbo:deathPlace o'<Haarlem>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11329",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_Ruiz_Lozano",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Francisco_Ruiz_Lozano) dbo:birthDate o'<1607-1-1>",
+    "2" : "s(Francisco_Ruiz_Lozano) dbo:deathDate o'<1677-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11330",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Daniel",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Frank_Daniel) dbo:birthDate o'<1926-4-14>",
+    "2" : "s(Frank_Daniel) dbo:birthPlace o'<KolÃ­n>",
+    "3" : "s(Frank_Daniel) dbo:deathDate o'<1996-3-29>",
+    "4" : "s(Frank_Daniel) dbo:deathPlace o'<California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,60 @@
+[ {
+  "entityIndex" : "entity14194",
+  "entityUrl" : "http://dbpedia.org/resource/Ugron_de_%C3%81br%C3%A1nfalva",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14195",
+  "entityUrl" : "http://dbpedia.org/resource/Umair_Haque",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14196",
+  "entityUrl" : "http://dbpedia.org/resource/Ursina_Haller",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Ursina_Haller) dbo:birthDate o'<1985-12-29>",
+    "2" : "s(Ursina_Haller) dbo:birthPlace o'<Zernez>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14197",
+  "entityUrl" : "http://dbpedia.org/resource/Um_Cheon-ho",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Um_Cheon-ho) dbo:birthDate o'<1992-2-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14198",
+  "entityUrl" : "http://dbpedia.org/resource/Umayya_Toukan",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Umayya_Toukan) dbo:almaMater o'<Columbia_Business_School>",
+    "2" : "s(Umayya_Toukan) dbo:almaMater o'<University_of_Oxford>",
+    "3" : "s(Umayya_Toukan) dbo:almaMater o'<American_University_of_Beirut>",
+    "4" : "s(Umayya_Toukan) dbo:birthDate o'<1946-0-0>",
+    "5" : "s(Umayya_Toukan) dbo:birthPlace o'<Amman>",
+    "6" : "s(Umayya_Toukan) dbo:birthYear o'<1946>",
+    "7" : "s(Umayya_Toukan) dbo:nationality o'<Jordan>",
+    "8" : "s(Umayya_Toukan) dbo:occupation o'<Umayya_Toukan__1>",
+    "9" : "s(Umayya_Toukan) dbo:stateOfOrigin o'<Jordan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14199",
+  "entityUrl" : "http://dbpedia.org/resource/Udo_Schnelle",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Udo_Schnelle) dbo:birthDate o'<1952-9-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,60 @@
+[ {
+  "entityIndex" : "entity11397",
+  "entityUrl" : "http://dbpedia.org/resource/Rachel_Johnson",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Rachel_Johnson) dbo:birthDate o'<1965-9-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11398",
+  "entityUrl" : "http://dbpedia.org/resource/Reuel_Denney",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Reuel_Denney) dbo:birthDate o'<1913-4-13>",
+    "2" : "s(Reuel_Denney) dbo:deathDate o'<1995-5-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11399",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Epp",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Robert_Epp) dbo:birthDate o'<1926-12-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11400",
+  "entityUrl" : "http://dbpedia.org/resource/Renee_Lynn_Vicary",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Renee_Lynn_Vicary) dbo:birthDate o'<1957-6-12>",
+    "2" : "s(Renee_Lynn_Vicary) dbo:deathDate o'<2002-2-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11401",
+  "entityUrl" : "http://dbpedia.org/resource/Rachel_Elkind-Tourre",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Rachel_Elkind-Tourre) dbp:class o'<artist>",
+    "2" : "s(Rachel_Elkind-Tourre) dbp:id o'<p151473>",
+    "3" : "s(Rachel_Elkind-Tourre) dbp:label o'<Rachel Elkind>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11402",
+  "entityUrl" : "http://dbpedia.org/resource/Ron_Fassler",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Ron_Fassler) dbo:birthDate o'<1957-3-4>",
+    "2" : "s(Ron_Fassler) dbo:birthPlace o'<New_York_City>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

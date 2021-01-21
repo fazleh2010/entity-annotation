@@ -1,0 +1,60 @@
+[ {
+  "entityIndex" : "entity11464",
+  "entityUrl" : "http://dbpedia.org/resource/Beth_Wilkinson",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11465",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Addie",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Bob_Addie) dbo:birthDate o'<1910-2-6>",
+    "2" : "s(Bob_Addie) dbo:deathDate o'<1982-1-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11466",
+  "entityUrl" : "http://dbpedia.org/resource/Baruch_Arnon",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Baruch_Arnon) dbo:birthDate o'<1940-7-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11467",
+  "entityUrl" : "http://dbpedia.org/resource/Bernard_Sauer",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Bernard_Sauer) dbo:birthDate o'<1924-1-1>",
+    "2" : "s(Bernard_Sauer) dbo:deathDate o'<1991-2-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11468",
+  "entityUrl" : "http://dbpedia.org/resource/Blake_Gibbons",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Blake_Gibbons) dbo:activeYearsStartYear o'<1964>",
+    "2" : "s(Blake_Gibbons) dbo:birthDate o'<1961-06-21>",
+    "3" : "s(Blake_Gibbons) dbo:birthDate o'<1961-6-21>",
+    "4" : "s(Blake_Gibbons) dbo:birthName o'<Blake James Gibbons>",
+    "5" : "s(Blake_Gibbons) dbo:birthPlace o'<Kern_County,_California>",
+    "6" : "s(Blake_Gibbons) dbo:birthYear o'<1961>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11469",
+  "entityUrl" : "http://dbpedia.org/resource/Brooke_Ramel",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Brooke_Ramel) dbo:birthDate o'<2000-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

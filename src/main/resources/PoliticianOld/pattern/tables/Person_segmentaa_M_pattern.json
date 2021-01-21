@@ -1,0 +1,169 @@
+[ {
+  "entityIndex" : "entity10713",
+  "entityUrl" : "http://dbpedia.org/resource/Mack_Sennett",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Mack_Sennett) dbo:activeYearsEndYear o'<1949>",
+    "2" : "s(Mack_Sennett) dbo:activeYearsStartYear o'<1908>",
+    "3" : "s(Mack_Sennett) dbo:birthDate o'<1880-01-17>",
+    "4" : "s(Mack_Sennett) dbo:birthDate o'<1880-1-17>",
+    "5" : "s(Mack_Sennett) dbo:birthPlace o'<Canada>",
+    "6" : "s(Mack_Sennett) dbo:birthPlace o'<Danville,_Quebec>",
+    "7" : "s(Mack_Sennett) dbo:birthPlace o'<Richmond,_Quebec>",
+    "8" : "s(Mack_Sennett) dbo:birthYear o'<1880>",
+    "9" : "s(Mack_Sennett) dbo:deathDate o'<1960-11-05>",
+    "10" : "s(Mack_Sennett) dbo:deathDate o'<1960-11-5>",
+    "11" : "s(Mack_Sennett) dbo:deathPlace o'<Woodland_Hills,_Los_Angeles>",
+    "12" : "s(Mack_Sennett) dbo:deathPlace o'<Woodland_Hills,_California>",
+    "13" : "s(Mack_Sennett) dbo:deathYear o'<1960>",
+    "14" : "s(Mack_Sennett) dbo:occupation o'<Mack_Sennett__1>",
+    "15" : "s(Mack_Sennett) dbo:occupation o'<Film_director>",
+    "16" : "s(Mack_Sennett) dbo:occupation o'<Actor>",
+    "17" : "s(Mack_Sennett) dbp:sname o'<Mack Sennett>",
+    "18" : "s(Mack_Sennett) dbp:sopt o'<t>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(mack sennett=Mack_Sennett) [born michael sinnott january 17 ] o'<director=Film_director>"
+  },
+  "abstract" : {
+    "1" : "mack sennett<Mack_Sennett> (born michael sinnott; january 17, 1880 â€“ november 5, 1960) was a canadian-born american director<Film_director> and actor<Actor> and was known as an innovator of slapstick comedy in film<Film_director>"
+  }
+}, {
+  "entityIndex" : "entity10714",
+  "entityUrl" : "http://dbpedia.org/resource/Mary_Pickford",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Mary_Pickford) dbo:activeYearsEndYear o'<1949>",
+    "2" : "s(Mary_Pickford) dbo:activeYearsStartYear o'<1905>",
+    "3" : "s(Mary_Pickford) dbo:birthDate o'<1892-04-08>",
+    "4" : "s(Mary_Pickford) dbo:birthDate o'<1892-4-8>",
+    "5" : "s(Mary_Pickford) dbo:birthName o'<Gladys Louise Smith>",
+    "6" : "s(Mary_Pickford) dbo:birthPlace o'<Toronto>",
+    "7" : "s(Mary_Pickford) dbo:birthYear o'<1892>",
+    "8" : "s(Mary_Pickford) dbo:deathCause o'<Cerebral_hemorrhage>",
+    "9" : "s(Mary_Pickford) dbo:deathDate o'<1979-05-29>",
+    "10" : "s(Mary_Pickford) dbo:deathDate o'<1979-5-29>",
+    "11" : "s(Mary_Pickford) dbo:deathPlace o'<Santa_Monica,_California>",
+    "12" : "s(Mary_Pickford) dbo:deathYear o'<1979>",
+    "13" : "s(Mary_Pickford) dbo:occupation o'<Mary_Pickford__1>",
+    "14" : "s(Mary_Pickford) dbo:parent o'<Charlotte_Hennessey>",
+    "15" : "s(Mary_Pickford) dbo:relative o'<Jack_Pickford>",
+    "16" : "s(Mary_Pickford) dbo:relative o'<Lottie_Pickford>",
+    "17" : "s(Mary_Pickford) dbo:residence o'<Beverly_Hills,_California>",
+    "18" : "s(Mary_Pickford) dbo:residence o'<Pickfair>",
+    "19" : "s(Mary_Pickford) dbo:restingPlace o'<Forest_Lawn_Memorial_Park,_Glendale>",
+    "20" : "s(Mary_Pickford) dbo:spouse o'<Owen_Moore>",
+    "21" : "s(Mary_Pickford) dbo:spouse o'<Charles_%22Buddy%22_Rogers>",
+    "22" : "s(Mary_Pickford) dbo:spouse o'<Douglas_Fairbanks>",
+    "23" : "s(Mary_Pickford) dbp:children o'<2>",
+    "24" : "s(Mary_Pickford) dbp:citizenship o'<American>",
+    "25" : "s(Mary_Pickford) dbp:citizenship o'<Canadian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10715",
+  "entityUrl" : "http://dbpedia.org/resource/Morton_Downey,_Jr.",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Morton_Downey,_Jr.) dbo:wikiPageRedirects o'<Morton_Downey_Jr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10716",
+  "entityUrl" : "http://dbpedia.org/resource/Matt_Groening",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Matt_Groening) dbo:almaMater o'<The_Evergreen_State_College>",
+    "2" : "s(Matt_Groening) dbo:birthDate o'<1954-02-15>",
+    "3" : "s(Matt_Groening) dbo:birthDate o'<1954-2-15>",
+    "4" : "s(Matt_Groening) dbo:birthName o'<Matthew Abram Groening>",
+    "5" : "s(Matt_Groening) dbo:birthPlace o'<Portland,_Oregon>",
+    "6" : "s(Matt_Groening) dbo:birthYear o'<1954>",
+    "7" : "s(Matt_Groening) dbo:education o'<Lincoln_High_School_(Portland,_Oregon)>",
+    "8" : "s(Matt_Groening) dbo:knownFor o'<The_Simpsons>",
+    "9" : "s(Matt_Groening) dbo:knownFor o'<Life_in_Hell>",
+    "10" : "s(Matt_Groening) dbo:knownFor o'<The_Simpsons_Movie>",
+    "11" : "s(Matt_Groening) dbo:knownFor o'<Futurama>",
+    "12" : "s(Matt_Groening) dbo:occupation o'<Cartoonist>",
+    "13" : "s(Matt_Groening) dbo:occupation o'<Matt_Groening__1>",
+    "14" : "s(Matt_Groening) dbo:party o'<Democratic_Party_(United_States)>",
+    "15" : "s(Matt_Groening) dbp:children o'<3>",
+    "16" : "s(Matt_Groening) dbp:signature o'<Matt Groening Signature.svg>",
+    "17" : "s(Matt_Groening) dbp:spouse o'<1986>",
+    "18" : "s(Matt_Groening) dbp:spouse o'<1999>",
+    "19" : "s(Matt_Groening) dbp:spouse o'<2011>",
+    "20" : "s(Matt_Groening) dbp:spouse o'<Agustina Picasso>",
+    "21" : "s(Matt_Groening) dbp:spouse o'<Deborah Caplan>",
+    "22" : "s(Matt_Groening) dbp:yearsActive o'<1977>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(matt groening=Matt_Groening) [creator of ] o'<life in hell=Life_in_Hell>",
+    "17" : "s(matt groening=Matt_Groening) [won national ] o'<cartoonist=Cartoonist>"
+  },
+  "abstract" : {
+    "2" : "matt groening<Matt_Groening> is the creator of the comic strip life in hell<Life_in_Hell> (1977â€“2012) and the television series the simpsons<The_Simpsons> (1989â€“present) and futurama<Futurama> (1999â€“2003, 2008â€“2013)\n",
+    "17" : "in 2002, matt groening<Matt_Groening> won the national cartoonist<Cartoonist> society reuben award for his work on life in hell<Life_in_Hell>\n"
+  }
+}, {
+  "entityIndex" : "entity10717",
+  "entityUrl" : "http://dbpedia.org/resource/Muhammad",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Muhammad) dbo:activeYearsEndYear o'<0583>",
+    "2" : "s(Muhammad) dbo:activeYearsStartYear o'<0583>",
+    "3" : "s(Muhammad) dbo:alias o'<Abu al-Qasim>",
+    "4" : "s(Muhammad) dbo:alias o'<RasÃ»l'AllÃ¢h>",
+    "5" : "s(Muhammad) dbo:birthDate o'<571-4-22>",
+    "6" : "s(Muhammad) dbo:birthName o'<Muá¸¥ammad ibn `Abd AllÄ�h ()>",
+    "7" : "s(Muhammad) dbo:birthPlace o'<Mecca>",
+    "8" : "s(Muhammad) dbo:birthYear o'<0570>",
+    "9" : "s(Muhammad) dbo:child o'<Genealogy_of_Khadijah's_daughters>",
+    "10" : "s(Muhammad) dbo:child o'<Children_of_Muhammad>",
+    "11" : "s(Muhammad) dbo:deathDate o'<0632-06-08>",
+    "12" : "s(Muhammad) dbo:deathDate o'<632-6-8>",
+    "13" : "s(Muhammad) dbo:deathPlace o'<Medina>",
+    "14" : "s(Muhammad) dbo:deathYear o'<0632>",
+    "15" : "s(Muhammad) dbo:ethnicity o'<Arabs>",
+    "16" : "s(Muhammad) dbo:relative o'<Ahl_al-Bayt>",
+    "17" : "s(Muhammad) dbo:relative o'<Family_tree_of_Muhammad>",
+    "18" : "s(Muhammad) dbo:religion o'<Islam>",
+    "19" : "s(Muhammad) dbo:restingPlacePosition o'<Muhammad__restingPlacePosition__1>",
+    "20" : "s(Muhammad) dbp:align o'<right>",
+    "21" : "s(Muhammad) dbp:imageSize o'<280>",
+    "22" : "s(Muhammad) dbp:notableWorks o'<Constitution_of_Medina>",
+    "23" : "s(Muhammad) dbp:quote o'<\"In your name, O God!>",
+    "24" : "s(Muhammad) dbp:quote o'<This is the treaty of peace between Muhammad Ibn Abdullah and Suhayl Ibn Amr. They have agreed to allow their arms to rest for ten years. During this time each party shall be secure, and neither shall injure the other; no secret damage shall be inflicted, but honesty and honour shall prevail between them. Whoever in Arabia wishes to enter into a treaty or covenant with Muhammad can do so, and whoever wishes to enter into a treaty or covenant with the Quraysh can do so. And if a Qurayshite comes without the permission of his guardian to Muhammad, he shall be delivered up to the Quraysh; but if, on the other hand, one of Muhammad's people comes to the Quraysh, he shall not be delivered up to Muhammad. This year, Muhammad, with his companions, must withdraw from Mecca, but next year, he may come to Mecca and remain for three days, yet without their weapons except those of a traveller; the swords remaining in their sheaths.\">",
+    "25" : "s(Muhammad) dbp:signature o'<Seal_of_Muhammad>",
+    "26" : "s(Muhammad) dbp:source o'<â€”The statement of the treaty of Hudaybiyyah>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(muhammad=Muhammad) [known holy ] o'<muslims=Islam>",
+    "8" : "s(muhammad=Muhammad) [prophet messenger ] o'<islam=Islam>",
+    "10" : "s(muhammad=Muhammad) [his followers migrated from ] o'<mecca=Mecca>"
+  },
+  "abstract" : {
+    "3" : "muhammad<Muhammad> is known as the \"holy prophet\" to muslims<Islam>, almost all of whom consider him to be the last prophet sent by god to mankind to restore islam<Islam>, believed by muslims<Islam> to be the unaltered original monotheistic faith<Islam> of adam, abraham, moses, jesus, and other prophets\n",
+    "8" : "islä�m) to him is the only way (dä«n) acceptable to god, and that muhammad<Muhammad> was a prophet and messenger of god, similar to the other prophets in islam<Islam>\n",
+    "10" : "to escape persecution, muhammad sent some followers to abyssinia before muhammad<Muhammad> and his followers migrated from mecca<Mecca> to medina<Medina> (then known as yathrib) in the year 622\n"
+  }
+}, {
+  "entityIndex" : "entity10718",
+  "entityUrl" : "http://dbpedia.org/resource/Marcel_Achard",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Marcel_Achard) dbo:birthDate o'<1899-7-5>",
+    "2" : "s(Marcel_Achard) dbo:birthPlace o'<Sainte-Foy-lÃ¨s-Lyon>",
+    "3" : "s(Marcel_Achard) dbo:deathDate o'<1974-9-4>",
+    "4" : "s(Marcel_Achard) dbo:deathPlace o'<Paris>",
+    "5" : "s(Marcel_Achard) dbo:imdbId o'<0009766>",
+    "6" : "s(Marcel_Achard) dbp:birthDate o'<FETCH_WIKIDATA>",
+    "7" : "s(Marcel_Achard) dbp:birthPlace o'<FETCH_WIKIDATA>",
+    "8" : "s(Marcel_Achard) dbp:dateformat o'<dmy>",
+    "9" : "s(Marcel_Achard) dbp:name o'<Marcel Achard>",
+    "10" : "s(Marcel_Achard) dbp:spouse o'<FETCH_WIKIDATA>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

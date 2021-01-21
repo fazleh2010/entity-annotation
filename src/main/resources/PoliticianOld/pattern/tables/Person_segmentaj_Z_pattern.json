@@ -1,0 +1,65 @@
+[ {
+  "entityIndex" : "entity11445",
+  "entityUrl" : "http://dbpedia.org/resource/Zolt%C3%A1n_P%C3%A1l_Dienes",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11446",
+  "entityUrl" : "http://dbpedia.org/resource/Zoran_%C5%BDivkovi%C4%87_(handballer)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11447",
+  "entityUrl" : "http://dbpedia.org/resource/Zach_Helm",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Zach_Helm) dbo:birthDate o'<1975-01-21>",
+    "2" : "s(Zach_Helm) dbo:birthDate o'<1975-1-21>",
+    "3" : "s(Zach_Helm) dbo:birthName o'<Zachary E. Helm>",
+    "4" : "s(Zach_Helm) dbo:birthPlace o'<United_States>",
+    "5" : "s(Zach_Helm) dbo:birthPlace o'<Santa_Clara,_California>",
+    "6" : "s(Zach_Helm) dbo:birthYear o'<1975>",
+    "7" : "s(Zach_Helm) dbo:occupation o'<Screenwriter>",
+    "8" : "s(Zach_Helm) dbo:occupation o'<Zach_Helm__1>",
+    "9" : "s(Zach_Helm) dbo:occupation o'<Film_director>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11448",
+  "entityUrl" : "http://dbpedia.org/resource/Zim_Ngqawana",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Zim_Ngqawana) dbo:birthDate o'<1959-12-25>",
+    "2" : "s(Zim_Ngqawana) dbo:birthPlace o'<Port_Elizabeth>",
+    "3" : "s(Zim_Ngqawana) dbo:deathDate o'<2011-5-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11449",
+  "entityUrl" : "http://dbpedia.org/resource/Zlatka_Georgieva",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Zlatka_Georgieva) dbo:birthDate o'<1969-7-20>",
+    "2" : "s(Zlatka_Georgieva) dbp:id o'<67818>",
+    "3" : "s(Zlatka_Georgieva) dbp:name o'<Zlatka Georgieva>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11450",
+  "entityUrl" : "http://dbpedia.org/resource/Zheng_Chengsi",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Zheng_Chengsi) dbo:birthDate o'<1944-1-1>",
+    "2" : "s(Zheng_Chengsi) dbo:country o'<China>",
+    "3" : "s(Zheng_Chengsi) dbo:deathDate o'<2006-9-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,99 @@
+[ {
+  "entityIndex" : "entity14218",
+  "entityUrl" : "http://dbpedia.org/resource/Yeom_Dong-jin",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Yeom_Dong-jin) dbo:birthDate o'<1902-2-14>",
+    "2" : "s(Yeom_Dong-jin) dbo:deathDate o'<1950-0-0>",
+    "3" : "s(Yeom_Dong-jin) dbp:hangul o'<ì—¼ë�™ì§„>",
+    "4" : "s(Yeom_Dong-jin) dbp:hangul o'<ì—¼ì�‘íƒ�>",
+    "5" : "s(Yeom_Dong-jin) dbp:mr o'<Yeom Dong-jin>",
+    "6" : "s(Yeom_Dong-jin) dbp:mr o'<YeÅ�m EÅ�ng-taik>",
+    "7" : "s(Yeom_Dong-jin) dbp:rr o'<Yeom Dong-jin>",
+    "8" : "s(Yeom_Dong-jin) dbp:rr o'<Yeom Eung-taik>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14219",
+  "entityUrl" : "http://dbpedia.org/resource/Yadh_Ben_Achour",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Yadh_Ben_Achour) dbo:birthDate o'<1945-6-1>",
+    "2" : "s(Yadh_Ben_Achour) dbo:office o'<President of theHigher Political Reform Commissionof Tunisia>",
+    "3" : "s(Yadh_Ben_Achour) dbo:termPeriod o'<Yadh_Ben_Achour__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14220",
+  "entityUrl" : "http://dbpedia.org/resource/Yohann_Ploquin",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Yohann_Ploquin) dbo:birthDate o'<1978-5-31>",
+    "2" : "s(Yohann_Ploquin) dbo:birthPlace o'<La_Rochelle>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14221",
+  "entityUrl" : "http://dbpedia.org/resource/Yeghishe_Derderian_of_Jerusalem",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Yeghishe_Derderian_of_Jerusalem) dbo:birthDate o'<1910-1-1>",
+    "2" : "s(Yeghishe_Derderian_of_Jerusalem) dbo:birthPlace o'<Van,_Turkey>",
+    "3" : "s(Yeghishe_Derderian_of_Jerusalem) dbo:deathDate o'<1990-2-1>",
+    "4" : "s(Yeghishe_Derderian_of_Jerusalem) dbo:deathPlace o'<Jerusalem>",
+    "5" : "s(Yeghishe_Derderian_of_Jerusalem) dbp:after o'<Torkom_Manoogian>",
+    "6" : "s(Yeghishe_Derderian_of_Jerusalem) dbp:before o'<Vacant>",
+    "7" : "s(Yeghishe_Derderian_of_Jerusalem) dbp:before o'<Tiran Nersoyan followed by>",
+    "8" : "s(Yeghishe_Derderian_of_Jerusalem) dbp:title o'<Armenian_Patriarchs_of_Jerusalem>",
+    "9" : "s(Yeghishe_Derderian_of_Jerusalem) dbp:years o'<1960>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14222",
+  "entityUrl" : "http://dbpedia.org/resource/Yeghishe_Tourian_of_Jerusalem",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Yeghishe_Tourian_of_Jerusalem) dbo:birthDate o'<1860-1-1>",
+    "2" : "s(Yeghishe_Tourian_of_Jerusalem) dbo:birthPlace o'<Constantinople>",
+    "3" : "s(Yeghishe_Tourian_of_Jerusalem) dbo:deathDate o'<1930-1-1>",
+    "4" : "s(Yeghishe_Tourian_of_Jerusalem) dbo:deathPlace o'<Jerusalem>",
+    "5" : "s(Yeghishe_Tourian_of_Jerusalem) dbp:after o'<Hovhannes Arscharouni>",
+    "6" : "s(Yeghishe_Tourian_of_Jerusalem) dbp:after o'<Torkom Koushagian>",
+    "7" : "s(Yeghishe_Tourian_of_Jerusalem) dbp:before o'<Harootiun Vehabedian>",
+    "8" : "s(Yeghishe_Tourian_of_Jerusalem) dbp:before o'<Malachia Ormanian>",
+    "9" : "s(Yeghishe_Tourian_of_Jerusalem) dbp:title o'<Armenian_Patriarchs_of_Constantinople>",
+    "10" : "s(Yeghishe_Tourian_of_Jerusalem) dbp:title o'<Armenian_Patriarchs_of_Jerusalem>",
+    "11" : "s(Yeghishe_Tourian_of_Jerusalem) dbp:years o'<1909>",
+    "12" : "s(Yeghishe_Tourian_of_Jerusalem) dbp:years o'<1921>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14223",
+  "entityUrl" : "http://dbpedia.org/resource/Yuri_Milner",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Yuri_Milner) dbo:almaMater o'<Moscow_State_University>",
+    "2" : "s(Yuri_Milner) dbo:almaMater o'<Wharton_School_of_the_University_of_Pennsylvania>",
+    "3" : "s(Yuri_Milner) dbo:birthDate o'<1961-11-11>",
+    "4" : "s(Yuri_Milner) dbo:birthPlace o'<Moscow>",
+    "5" : "s(Yuri_Milner) dbo:birthPlace o'<Soviet_Union>",
+    "6" : "s(Yuri_Milner) dbo:birthPlace o'<Russian_Soviet_Federative_Socialist_Republic>",
+    "7" : "s(Yuri_Milner) dbo:birthYear o'<1961>",
+    "8" : "s(Yuri_Milner) dbo:nationality o'<Russians>",
+    "9" : "s(Yuri_Milner) dbo:networth o'<3.1E9>",
+    "10" : "s(Yuri_Milner) dbo:occupation o'<Digital_Sky_Technologies>",
+    "11" : "s(Yuri_Milner) dbo:occupation o'<Venture_capital>",
+    "12" : "s(Yuri_Milner) dbo:occupation o'<Yuri_Milner__1>",
+    "13" : "s(Yuri_Milner) dbo:residence o'<Moscow>",
+    "14" : "s(Yuri_Milner) dbo:spouse o'<Married_and_maiden_names>",
+    "15" : "s(Yuri_Milner) dbo:stateOfOrigin o'<Russians>",
+    "16" : "s(Yuri_Milner) dbp:children o'<3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

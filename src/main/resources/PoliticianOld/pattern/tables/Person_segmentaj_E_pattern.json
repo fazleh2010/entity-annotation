@@ -1,0 +1,75 @@
+[ {
+  "entityIndex" : "entity11319",
+  "entityUrl" : "http://dbpedia.org/resource/Evaristo_Baschenis",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Evaristo_Baschenis) dbo:birthDate o'<1617-12-7>",
+    "2" : "s(Evaristo_Baschenis) dbo:birthPlace o'<Bergamo>",
+    "3" : "s(Evaristo_Baschenis) dbo:deathDate o'<1677-3-16>",
+    "4" : "s(Evaristo_Baschenis) dbo:deathPlace o'<Bergamo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11320",
+  "entityUrl" : "http://dbpedia.org/resource/Eug%C3%A8ne_Schaus",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11321",
+  "entityUrl" : "http://dbpedia.org/resource/Edna_Lee_Booker",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Edna_Lee_Booker) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11322",
+  "entityUrl" : "http://dbpedia.org/resource/Eckart_Kehr",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Eckart_Kehr) dbo:birthDate o'<1902-6-21>",
+    "2" : "s(Eckart_Kehr) dbo:birthPlace o'<Brandenburg_an_der_Havel>",
+    "3" : "s(Eckart_Kehr) dbo:deathDate o'<1933-5-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11323",
+  "entityUrl" : "http://dbpedia.org/resource/Edwin_Hunt",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Edwin_Hunt) dbo:almaMater o'<Vanderbilt_University>",
+    "2" : "s(Edwin_Hunt) dbo:birthDate o'<1902-07-09>",
+    "3" : "s(Edwin_Hunt) dbo:birthDate o'<1902-7-9>",
+    "4" : "s(Edwin_Hunt) dbo:birthPlace o'<Jackson,_Tennessee>",
+    "5" : "s(Edwin_Hunt) dbo:birthYear o'<1902>",
+    "6" : "s(Edwin_Hunt) dbo:deathDate o'<1981-04-11>",
+    "7" : "s(Edwin_Hunt) dbo:deathDate o'<1981-4-11>",
+    "8" : "s(Edwin_Hunt) dbo:deathYear o'<1981>",
+    "9" : "s(Edwin_Hunt) dbo:knownFor o'<Checkers>",
+    "10" : "s(Edwin_Hunt) dbo:occupation o'<Edwin_Hunt__1>",
+    "11" : "s(Edwin_Hunt) dbo:occupation o'<Assistant_Attorney_General>",
+    "12" : "s(Edwin_Hunt) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(edwin hunt=Edwin_Hunt) [gained recognition appellate ] o'<assistant attorney general=Assistant_Attorney_General>",
+    "2" : "s(edwin hunt=Edwin_Hunt) [studied at ] o'<vanderbilt university=Vanderbilt_University>"
+  },
+  "abstract" : {
+    "1" : "his career was as a lawyer and as such edwin hunt<Edwin_Hunt> gained recognition as an appellate advocate and rose to the rank of assistant attorney general<Assistant_Attorney_General>\n",
+    "2" : "edwin hunt<Edwin_Hunt> had studied at vanderbilt university<Vanderbilt_University> where edwin hunt<Edwin_Hunt> won the founder's medal twice\n"
+  }
+}, {
+  "entityIndex" : "entity11324",
+  "entityUrl" : "http://dbpedia.org/resource/Eddie_McGrath",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Eddie_McGrath) dbo:birthDate o'<1906-1-31>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

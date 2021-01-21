@@ -1,0 +1,88 @@
+[ {
+  "entityIndex" : "entity12015",
+  "entityUrl" : "http://dbpedia.org/resource/Leo_Stan_Ekeh",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Leo_Stan_Ekeh) dbo:birthDate o'<1956-2-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12016",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Irby",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Lee_Irby) dbo:birthDate o'<1969-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12017",
+  "entityUrl" : "http://dbpedia.org/resource/Leo_Nocentelli",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Leo_Nocentelli) dbo:activeYearsStartYear o'<1950>",
+    "2" : "s(Leo_Nocentelli) dbo:associatedBand o'<The_Meters>",
+    "3" : "s(Leo_Nocentelli) dbo:associatedMusicalArtist o'<The_Meters>",
+    "4" : "s(Leo_Nocentelli) dbo:background o'<non_vocal_instrumentalist>",
+    "5" : "s(Leo_Nocentelli) dbo:birthDate o'<1946-06-15>",
+    "6" : "s(Leo_Nocentelli) dbo:birthDate o'<1946-6-15>",
+    "7" : "s(Leo_Nocentelli) dbo:birthPlace o'<New_Orleans,_Louisiana>",
+    "8" : "s(Leo_Nocentelli) dbo:birthPlace o'<New_Orleans>",
+    "9" : "s(Leo_Nocentelli) dbo:genre o'<R&B>",
+    "10" : "s(Leo_Nocentelli) dbo:genre o'<Funk>",
+    "11" : "s(Leo_Nocentelli) dbo:genre o'<Soul_music>",
+    "12" : "s(Leo_Nocentelli) dbp:date o'<20080725103621>",
+    "13" : "s(Leo_Nocentelli) dbp:instrument o'<Guitar>",
+    "14" : "s(Leo_Nocentelli) dbp:occupation o'<Musician, songwriter>",
+    "15" : "s(Leo_Nocentelli) dbp:title o'<Interview with Leo Nocentelli>",
+    "16" : "s(Leo_Nocentelli) dbp:url o'<leo_nocentelli_exclus.html>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12018",
+  "entityUrl" : "http://dbpedia.org/resource/Lilly_Ledbetter",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Lilly_Ledbetter) dbo:birthDate o'<1938-04-14>",
+    "2" : "s(Lilly_Ledbetter) dbo:birthDate o'<1938-4-18>",
+    "3" : "s(Lilly_Ledbetter) dbo:birthName o'<Lilly McDaniel>",
+    "4" : "s(Lilly_Ledbetter) dbo:birthPlace o'<Jacksonville,_Alabama>",
+    "5" : "s(Lilly_Ledbetter) dbo:birthYear o'<1938>",
+    "6" : "s(Lilly_Ledbetter) dbo:knownFor o'<Ledbetter_v._Goodyear_Tire_&_Rubber_Co.>",
+    "7" : "s(Lilly_Ledbetter) dbo:knownFor o'<Lilly_Ledbetter_Fair_Pay_Act_of_2009>",
+    "8" : "s(Lilly_Ledbetter) dbo:occupation o'<Goodyear_Tire_and_Rubber_Company>",
+    "9" : "s(Lilly_Ledbetter) dbo:occupation o'<Lilly_Ledbetter__1>",
+    "10" : "s(Lilly_Ledbetter) dbp:spouse o'<1956>",
+    "11" : "s(Lilly_Ledbetter) dbp:spouse o'<2008>",
+    "12" : "s(Lilly_Ledbetter) dbp:spouse o'<widowed>",
+    "13" : "s(Lilly_Ledbetter) dbp:spouse o'<Charles Ledbetter>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12019",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Bellaud",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Louis_Bellaud) dbo:birthDate o'<1543-1-1>",
+    "2" : "s(Louis_Bellaud) dbo:birthPlace o'<Grasse>",
+    "3" : "s(Louis_Bellaud) dbo:deathDate o'<1588-1-1>",
+    "4" : "s(Louis_Bellaud) dbo:deathPlace o'<Grasse>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12020",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Anne_Wong",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Lee_Anne_Wong) dbo:knownFor o'<Unique_Eats>",
+    "2" : "s(Lee_Anne_Wong) dbo:occupation o'<Lee_Anne_Wong__1>",
+    "3" : "s(Lee_Anne_Wong) dbp:birthPlace o'<New York City>",
+    "4" : "s(Lee_Anne_Wong) dbp:nationality o'<United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

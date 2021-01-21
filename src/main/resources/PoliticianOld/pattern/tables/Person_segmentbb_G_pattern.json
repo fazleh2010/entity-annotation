@@ -1,0 +1,60 @@
+[ {
+  "entityIndex" : "entity14278",
+  "entityUrl" : "http://dbpedia.org/resource/Giuseppe_Sciortino",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14279",
+  "entityUrl" : "http://dbpedia.org/resource/Gao_Jiancheng",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Gao_Jiancheng) dbo:birthDate o'<1965-0-0>",
+    "2" : "s(Gao_Jiancheng) dbo:deathDate o'<1998-7-27>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14280",
+  "entityUrl" : "http://dbpedia.org/resource/Glen_Maney",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Glen_Maney) dbo:birthDate o'<1964-10-13>",
+    "2" : "s(Glen_Maney) dbo:birthPlace o'<Battersea>",
+    "3" : "s(Glen_Maney) dbo:birthYear o'<1964>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14281",
+  "entityUrl" : "http://dbpedia.org/resource/Geoffrey_J._Morton",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Geoffrey_J._Morton) dbo:birthDate o'<1907-1-1>",
+    "2" : "s(Geoffrey_J._Morton) dbo:deathDate o'<1996-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14282",
+  "entityUrl" : "http://dbpedia.org/resource/Ginny_Augustin",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14283",
+  "entityUrl" : "http://dbpedia.org/resource/Gilbert_Boone",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Gilbert_Boone) dbp:after o'<Gilbert_Millington>",
+    "2" : "s(Gilbert_Boone) dbp:after o'<William Stanhope>",
+    "3" : "s(Gilbert_Boone) dbp:before o'<Parliament suspended since 1629>",
+    "4" : "s(Gilbert_Boone) dbp:title o'<Member of Parliament for Nottingham>",
+    "5" : "s(Gilbert_Boone) dbp:with o'<Charles_Cavendish_(Nottingham)>",
+    "6" : "s(Gilbert_Boone) dbp:years o'<1640>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

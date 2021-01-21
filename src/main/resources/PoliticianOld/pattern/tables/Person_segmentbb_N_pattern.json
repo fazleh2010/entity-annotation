@@ -1,0 +1,96 @@
+[ {
+  "entityIndex" : "entity14320",
+  "entityUrl" : "http://dbpedia.org/resource/Nada_Awar_Jarrar",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14321",
+  "entityUrl" : "http://dbpedia.org/resource/Nora_Federici",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Nora_Federici) dbo:birthDate o'<1910-4-27>",
+    "2" : "s(Nora_Federici) dbo:birthPlace o'<Rome>",
+    "3" : "s(Nora_Federici) dbo:deathDate o'<2001-9-9>",
+    "4" : "s(Nora_Federici) dbo:deathPlace o'<Grottaferrata>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14322",
+  "entityUrl" : "http://dbpedia.org/resource/Nirut_Sirijanya",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Nirut_Sirijanya) dbo:activeYearsStartYear o'<1970>",
+    "2" : "s(Nirut_Sirijanya) dbo:alias o'<Nhing>",
+    "3" : "s(Nirut_Sirijanya) dbo:birthDate o'<1947-05-02>",
+    "4" : "s(Nirut_Sirijanya) dbo:birthDate o'<1947-5-2>",
+    "5" : "s(Nirut_Sirijanya) dbo:birthName o'<Nirut Sirijanya>",
+    "6" : "s(Nirut_Sirijanya) dbo:birthPlace o'<Bangkok>",
+    "7" : "s(Nirut_Sirijanya) dbo:birthYear o'<1947>",
+    "8" : "s(Nirut_Sirijanya) dbo:nationality o'<Thailand>",
+    "9" : "s(Nirut_Sirijanya) dbo:occupation o'<Nirut_Sirijanya__1>",
+    "10" : "s(Nirut_Sirijanya) dbo:stateOfOrigin o'<Thailand>",
+    "11" : "s(Nirut_Sirijanya) dbp:imageSize o'<250>",
+    "12" : "s(Nirut_Sirijanya) dbp:nativeName o'<à¸™à¸´à¸£à¸¸à¸•à¸•à¸´à¹Œ à¸¨à¸´à¸£à¸´à¸ˆà¸£à¸£à¸¢à¸²>",
+    "13" : "s(Nirut_Sirijanya) dbp:nativeNameLang o'<tha>",
+    "14" : "s(Nirut_Sirijanya) dbp:notableWorks o'<The_Hangover_Part_II>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(nirut sirijanya=Nirut_Sirijanya) [born 2 may 1947 ] o'<thai=Thailand>",
+    "2" : "s(nirut sirijanya=Nirut_Sirijanya) [best known internationally for ] o'<ii=The_Hangover_Part_II>"
+  },
+  "abstract" : {
+    "1" : "nirut sirijanya<Nirut_Sirijanya> (born 2 may 1947) is a thai<Thailand> movie and television actor",
+    "2" : "nirut sirijanya<Nirut_Sirijanya> is best known internationally for his role as lauren's father fong in the 2011 sequel the hangover part ii<The_Hangover_Part_II>\n"
+  }
+}, {
+  "entityIndex" : "entity14323",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_W._Brown",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Nicholas_W._Brown) dbo:birthDate o'<1821-8-8>",
+    "2" : "s(Nicholas_W._Brown) dbo:deathDate o'<1889-11-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14324",
+  "entityUrl" : "http://dbpedia.org/resource/Nazir_Razak",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Nazir_Razak) dbo:birthDate o'<1966-1-1>",
+    "2" : "s(Nazir_Razak) dbo:birthName o'<Mohd Nazir bin Abdul Razak>",
+    "3" : "s(Nazir_Razak) dbo:birthPlace o'<Kuala_Lumpur>",
+    "4" : "s(Nazir_Razak) dbo:birthYear o'<1966>",
+    "5" : "s(Nazir_Razak) dbo:nationality o'<Malaysia>",
+    "6" : "s(Nazir_Razak) dbo:occupation o'<Nazir_Razak__1>",
+    "7" : "s(Nazir_Razak) dbo:occupation o'<Banker>",
+    "8" : "s(Nazir_Razak) dbo:parent o'<Rahah_Noah>",
+    "9" : "s(Nazir_Razak) dbo:parent o'<Tun_Abdul_Razak>",
+    "10" : "s(Nazir_Razak) dbo:stateOfOrigin o'<Malaysia>",
+    "11" : "s(Nazir_Razak) dbp:honorificPrefix o'<Malay_titles>",
+    "12" : "s(Nazir_Razak) dbp:spouse o'<Dato' Azlina Aziz>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(nazir razak=Nazir_Razak) [chairman of cimb group ] o'<malaysia=Malaysia>"
+  },
+  "abstract" : {
+    "2" : "nazir razak<Nazir_Razak> is chairman of cimb group, which is one of the largest financial services providers in malaysia<Malaysia>\n"
+  }
+}, {
+  "entityIndex" : "entity14325",
+  "entityUrl" : "http://dbpedia.org/resource/Ned_McCreery",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Ned_McCreery) dbo:birthDate o'<1945-1-1>",
+    "2" : "s(Ned_McCreery) dbo:deathDate o'<1992-1-1>",
+    "3" : "s(Ned_McCreery) dbp:after o'<Jim_Gray_(UDA_member)>",
+    "4" : "s(Ned_McCreery) dbp:before o'<Billy_Elliot_(UDA)>",
+    "5" : "s(Ned_McCreery) dbp:title o'<Ulster Defence Association East Belfast Brigadier>",
+    "6" : "s(Ned_McCreery) dbp:years o'<1980>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

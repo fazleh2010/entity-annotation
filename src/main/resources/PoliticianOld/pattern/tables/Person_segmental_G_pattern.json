@@ -1,0 +1,100 @@
+[ {
+  "entityIndex" : "entity11656",
+  "entityUrl" : "http://dbpedia.org/resource/George_P._Lee",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(George_P._Lee) dbo:birthDate o'<1943-3-23>",
+    "2" : "s(George_P._Lee) dbo:deathDate o'<2010-7-28>",
+    "3" : "s(George_P._Lee) dbp:birthDate o'<1943-03-23>",
+    "4" : "s(George_P._Lee) dbp:birthName o'<George Patrick Lee>",
+    "5" : "s(George_P._Lee) dbp:birthPlace o'<Towaoc, Colorado, United States>",
+    "6" : "s(George_P._Lee) dbp:deathDate o'<2010-07-28>",
+    "7" : "s(George_P._Lee) dbp:deathPlace o'<Provo, Utah, United States>",
+    "8" : "s(George_P._Lee) dbp:endDate o'<1989-09-01>",
+    "9" : "s(George_P._Lee) dbp:endReason o'<Excommunicated>",
+    "10" : "s(George_P._Lee) dbp:imageSize o'<150>",
+    "11" : "s(George_P._Lee) dbp:name o'<George P. Lee>",
+    "12" : "s(George_P._Lee) dbp:portals o'<LDS>",
+    "13" : "s(George_P._Lee) dbp:positionOrQuorum o'<First_Quorum_of_the_Seventy>",
+    "14" : "s(George_P._Lee) dbp:president o'<Spencer_W._Kimball>",
+    "15" : "s(George_P._Lee) dbp:startDate o'<1975-10-03>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11657",
+  "entityUrl" : "http://dbpedia.org/resource/Gaynor_Fairweather",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Gaynor_Fairweather) dbo:birthDate o'<2000-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11658",
+  "entityUrl" : "http://dbpedia.org/resource/Gwyn_Thomas_(footballer)",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Gwyn_Thomas_(footballer)) dbo:birthDate o'<1957-9-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11659",
+  "entityUrl" : "http://dbpedia.org/resource/George_Strother",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(George_Strother) dbo:birthDate o'<1783-1-1>",
+    "2" : "s(George_Strother) dbo:deathDate o'<1840-11-28>",
+    "3" : "s(George_Strother) dbo:deathPlace o'<St._Louis>",
+    "4" : "s(George_Strother) dbp:after o'<Thomas_L._Moore>",
+    "5" : "s(George_Strother) dbp:before o'<Aylett_Hawes>",
+    "6" : "s(George_Strother) dbp:district o'<10>",
+    "7" : "s(George_Strother) dbp:state o'<Virginia>",
+    "8" : "s(George_Strother) dbp:years o'<--03-04>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11660",
+  "entityUrl" : "http://dbpedia.org/resource/Geoff_Britton",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Geoff_Britton) dbo:background o'<non_vocal_instrumentalist>",
+    "2" : "s(Geoff_Britton) dbo:birthDate o'<1943-08-01>",
+    "3" : "s(Geoff_Britton) dbo:birthDate o'<1943-8-1>",
+    "4" : "s(Geoff_Britton) dbo:birthPlace o'<London>",
+    "5" : "s(Geoff_Britton) dbo:birthPlace o'<Lewisham>",
+    "6" : "s(Geoff_Britton) dbo:genre o'<Power_pop>",
+    "7" : "s(Geoff_Britton) dbo:genre o'<Rock_music>",
+    "8" : "s(Geoff_Britton) dbp:instrument o'<Drums>",
+    "9" : "s(Geoff_Britton) dbp:notableInstruments o'<Drums, percussion>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11661",
+  "entityUrl" : "http://dbpedia.org/resource/Glenn_McQueen",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Glenn_McQueen) dbo:almaMater o'<Sheridan_College>",
+    "2" : "s(Glenn_McQueen) dbo:birthDate o'<1960-12-24>",
+    "3" : "s(Glenn_McQueen) dbo:birthDate o'<1961-12-24>",
+    "4" : "s(Glenn_McQueen) dbo:birthName o'<Glenn John McQueen>",
+    "5" : "s(Glenn_McQueen) dbo:birthPlace o'<Toronto>",
+    "6" : "s(Glenn_McQueen) dbo:birthPlace o'<Toronto,_Ontario,_Canada>",
+    "7" : "s(Glenn_McQueen) dbo:birthYear o'<1960>",
+    "8" : "s(Glenn_McQueen) dbo:deathCause o'<Melanoma>",
+    "9" : "s(Glenn_McQueen) dbo:deathDate o'<2002-10-29>",
+    "10" : "s(Glenn_McQueen) dbo:deathPlace o'<Berkeley,_California>",
+    "11" : "s(Glenn_McQueen) dbo:deathYear o'<2002>",
+    "12" : "s(Glenn_McQueen) dbo:imdbId o'<0574342>",
+    "13" : "s(Glenn_McQueen) dbo:nationality o'<Canada>",
+    "14" : "s(Glenn_McQueen) dbo:occupation o'<Glenn_McQueen__1>",
+    "15" : "s(Glenn_McQueen) dbo:stateOfOrigin o'<Canada>",
+    "16" : "s(Glenn_McQueen) dbp:children o'<1>",
+    "17" : "s(Glenn_McQueen) dbp:spouse o'<Terry McQueen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity11927",
+  "entityUrl" : "http://dbpedia.org/resource/Yosef_Sprinzak",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Yosef_Sprinzak) dbo:birthDate o'<1885-12-8>",
+    "2" : "s(Yosef_Sprinzak) dbo:birthPlace o'<Moscow>",
+    "3" : "s(Yosef_Sprinzak) dbo:deathDate o'<1959-1-28>",
+    "4" : "s(Yosef_Sprinzak) dbo:deathPlace o'<Jerusalem>",
+    "5" : "s(Yosef_Sprinzak) dbp:birthDate o'<1885-12-08>",
+    "6" : "s(Yosef_Sprinzak) dbp:birthPlace o'<Moscow>",
+    "7" : "s(Yosef_Sprinzak) dbp:birthPlace o'<Russian_Empire>",
+    "8" : "s(Yosef_Sprinzak) dbp:deathDate o'<1959-01-28>",
+    "9" : "s(Yosef_Sprinzak) dbp:deathPlace o'<Jerusalem>",
+    "10" : "s(Yosef_Sprinzak) dbp:deathPlace o'<Israel>",
+    "11" : "s(Yosef_Sprinzak) dbp:knesset(s)_ o'<123>",
+    "12" : "s(Yosef_Sprinzak) dbp:otherroles o'<List_of_Knesset_speakers>",
+    "13" : "s(Yosef_Sprinzak) dbp:otherrolesyears o'<1949>",
+    "14" : "s(Yosef_Sprinzak) dbp:party o'<Mapai>",
+    "15" : "s(Yosef_Sprinzak) dbp:partyyears o'<1949>",
+    "16" : "s(Yosef_Sprinzak) dbp:yearOfAliyah o'<1910>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11928",
+  "entityUrl" : "http://dbpedia.org/resource/Yehuda_Leib_Schneersohn",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Yehuda_Leib_Schneersohn) dbo:birthDate o'<1811-1-1>",
+    "2" : "s(Yehuda_Leib_Schneersohn) dbo:deathDate o'<1867-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11929",
+  "entityUrl" : "http://dbpedia.org/resource/Ygnacio_del_Valle",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Ygnacio_del_Valle) dbo:birthDate o'<1808-07-01>",
+    "2" : "s(Ygnacio_del_Valle) dbo:birthDate o'<1808-7-1>",
+    "3" : "s(Ygnacio_del_Valle) dbo:birthPlace o'<Jalisco>",
+    "4" : "s(Ygnacio_del_Valle) dbo:birthPlace o'<New_Spain>",
+    "5" : "s(Ygnacio_del_Valle) dbo:birthYear o'<1808>",
+    "6" : "s(Ygnacio_del_Valle) dbo:deathDate o'<1880-0-0>",
+    "7" : "s(Ygnacio_del_Valle) dbo:deathPlace o'<United_States>",
+    "8" : "s(Ygnacio_del_Valle) dbo:deathYear o'<1880>",
+    "9" : "s(Ygnacio_del_Valle) dbo:occupation o'<Alcalde>",
+    "10" : "s(Ygnacio_del_Valle) dbo:occupation o'<Ygnacio_del_Valle__1>",
+    "11" : "s(Ygnacio_del_Valle) dbo:occupation o'<Rancher>",
+    "12" : "s(Ygnacio_del_Valle) dbo:spouse o'<Ysabel_Varela>",
+    "13" : "s(Ygnacio_del_Valle) dbp:deathPlace o'<United States>",
+    "14" : "s(Ygnacio_del_Valle) dbp:imageSize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11930",
+  "entityUrl" : "http://dbpedia.org/resource/Yekta_Uzunoglu",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Yekta_Uzunoglu) dbo:birthDate o'<1953-05-10>",
+    "2" : "s(Yekta_Uzunoglu) dbo:birthDate o'<1953-1-1>",
+    "3" : "s(Yekta_Uzunoglu) dbo:birthPlace o'<DiyarbakÄ±r>",
+    "4" : "s(Yekta_Uzunoglu) dbo:birthPlace o'<Turkey>",
+    "5" : "s(Yekta_Uzunoglu) dbo:nationality o'<Kurdish_people>",
+    "6" : "s(Yekta_Uzunoglu) dbp:occupation o'<entrepreneur>",
+    "7" : "s(Yekta_Uzunoglu) dbp:occupation o'<Writer,>",
+    "8" : "s(Yekta_Uzunoglu) dbp:occupation o'<physician,>",
+    "9" : "s(Yekta_Uzunoglu) dbp:occupation o'<translator,>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11931",
+  "entityUrl" : "http://dbpedia.org/resource/Youhannan_Semaan_Issayi",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Youhannan_Semaan_Issayi) dbo:deathDate o'<1999-0-0>",
+    "2" : "s(Youhannan_Semaan_Issayi) dbp:after o'<Ramzi_Garmou>",
+    "3" : "s(Youhannan_Semaan_Issayi) dbp:before o'<Joseph_Cheikho>",
+    "4" : "s(Youhannan_Semaan_Issayi) dbp:title o'<Archbishop of Tehran , Iran>",
+    "5" : "s(Youhannan_Semaan_Issayi) dbp:years o'<1970>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11932",
+  "entityUrl" : "http://dbpedia.org/resource/Yutaka_Tachibana",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Yutaka_Tachibana) dbo:birthDate o'<1962-12-28>",
+    "2" : "s(Yutaka_Tachibana) dbo:birthName o'<Yutaka Tachibana>",
+    "3" : "s(Yutaka_Tachibana) dbo:birthPlace o'<Shizuoka_Prefecture>",
+    "4" : "s(Yutaka_Tachibana) dbo:birthYear o'<0008>",
+    "5" : "s(Yutaka_Tachibana) dbo:nationality o'<Japanese_people>",
+    "6" : "s(Yutaka_Tachibana) dbo:occupation o'<Mangaka>",
+    "7" : "s(Yutaka_Tachibana) dbo:occupation o'<Yutaka_Tachibana__1>",
+    "8" : "s(Yutaka_Tachibana) dbo:stateOfOrigin o'<Japanese_people>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

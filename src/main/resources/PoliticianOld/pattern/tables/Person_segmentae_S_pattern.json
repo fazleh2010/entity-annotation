@@ -1,0 +1,111 @@
+[ {
+  "entityIndex" : "entity11413",
+  "entityUrl" : "http://dbpedia.org/resource/Sheldon_Lee_(politician)",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Sheldon_Lee_(politician)) dbo:birthDate o'<1933-3-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11414",
+  "entityUrl" : "http://dbpedia.org/resource/Susan_Cartsonis",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11415",
+  "entityUrl" : "http://dbpedia.org/resource/Shakura_S'Aida",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Shakura_S'Aida) dbo:alias o'<Shakura>",
+    "2" : "s(Shakura_S'Aida) dbo:background o'<solo_singer>",
+    "3" : "s(Shakura_S'Aida) dbo:birthPlace o'<Brooklyn>",
+    "4" : "s(Shakura_S'Aida) dbo:birthPlace o'<New_York_(state)>",
+    "5" : "s(Shakura_S'Aida) dbo:genre o'<Blues>",
+    "6" : "s(Shakura_S'Aida) dbo:genre o'<Jazz>",
+    "7" : "s(Shakura_S'Aida) dbo:occupation o'<Actress>",
+    "8" : "s(Shakura_S'Aida) dbo:recordLabel o'<Ruf_Records>",
+    "9" : "s(Shakura_S'Aida) dbo:recordLabel o'<Electro-Fi_Records>",
+    "10" : "s(Shakura_S'Aida) dbp:origin o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11416",
+  "entityUrl" : "http://dbpedia.org/resource/Sir_Robert_Grierson,_1st_Baronet",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Sir_Robert_Grierson,_1st_Baronet) dbo:deathDate o'<1733-1-1>",
+    "2" : "s(Sir_Robert_Grierson,_1st_Baronet) dbp:after o'<Sir_William_Grierson,_2nd_Baronet>",
+    "3" : "s(Sir_Robert_Grierson,_1st_Baronet) dbp:before o'<New creation>",
+    "4" : "s(Sir_Robert_Grierson,_1st_Baronet) dbp:title o'<Grierson_Baronets>",
+    "5" : "s(Sir_Robert_Grierson,_1st_Baronet) dbp:title o'<'''>",
+    "6" : "s(Sir_Robert_Grierson,_1st_Baronet) dbp:years o'<'''1685â€“1733>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11417",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_Lam",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Stephen_Lam) dbo:almaMater o'<University_of_London>",
+    "2" : "s(Stephen_Lam) dbo:almaMater o'<University_of_Hong_Kong>",
+    "3" : "s(Stephen_Lam) dbo:birthDate o'<1955-11-24>",
+    "4" : "s(Stephen_Lam) dbo:birthPlace o'<Hong_Kong>",
+    "5" : "s(Stephen_Lam) dbo:office o'<Secretary for Constitutional and Mainland Affairs>",
+    "6" : "s(Stephen_Lam) dbo:orderInOffice o'<Chief Secretary for Administration>",
+    "7" : "s(Stephen_Lam) dbo:predecessor o'<Henry_Tang>",
+    "8" : "s(Stephen_Lam) dbo:predecessor o'<Michael_Suen>",
+    "9" : "s(Stephen_Lam) dbo:spouse o'<Florence_Ip>",
+    "10" : "s(Stephen_Lam) dbo:successor o'<Carrie_Lam_(politician)>",
+    "11" : "s(Stephen_Lam) dbo:successor o'<Raymond_Tam>",
+    "12" : "s(Stephen_Lam) dbo:termPeriod o'<Stephen_Lam__1>",
+    "13" : "s(Stephen_Lam) dbo:termPeriod o'<Stephen_Lam__2>",
+    "14" : "s(Stephen_Lam) dbp:after o'<Himself>",
+    "15" : "s(Stephen_Lam) dbp:as o'<Secretary for Constitutional and Mainland Affairs>",
+    "16" : "s(Stephen_Lam) dbp:as o'<Secretary for Constitutional Affairs>",
+    "17" : "s(Stephen_Lam) dbp:before o'<Himself>",
+    "18" : "s(Stephen_Lam) dbp:birthPlace o'<Hong Kong>",
+    "19" : "s(Stephen_Lam) dbp:blankname o'<Chief Executive>",
+    "20" : "s(Stephen_Lam) dbp:honorificPrefix o'<The_Honourable>",
+    "21" : "s(Stephen_Lam) dbp:honorificSuffix o'<Gold_Bauhinia_Star>",
+    "22" : "s(Stephen_Lam) dbp:honorificSuffix o'<Grand_Bauhinia_Medal>",
+    "23" : "s(Stephen_Lam) dbp:honorificSuffix o'<Justice_of_the_peace>",
+    "24" : "s(Stephen_Lam) dbp:honorificSuffix o'<Officer_of_the_Order_of_the_British_Empire>",
+    "25" : "s(Stephen_Lam) dbp:j o'<Lam4 Seoi6kei4>",
+    "26" : "s(Stephen_Lam) dbp:namedata o'<Tung_Chee_Hwa>",
+    "27" : "s(Stephen_Lam) dbp:namedata o'<Sir Donald Tsang>",
+    "28" : "s(Stephen_Lam) dbp:nationality o'<Chinese, Hong Kong>",
+    "29" : "s(Stephen_Lam) dbp:nativeNameLang o'<zh-hk>",
+    "30" : "s(Stephen_Lam) dbp:p o'<LÃ­n RuÃ¬lÃ­n>",
+    "31" : "s(Stephen_Lam) dbp:t o'<æž—ç‘žéºŸ>",
+    "32" : "s(Stephen_Lam) dbp:title o'<Chief_Secretary_for_Administration>",
+    "33" : "s(Stephen_Lam) dbp:title o'<Secretary_for_Constitutional_and_Mainland_Affairs>",
+    "34" : "s(Stephen_Lam) dbp:title o'<Information Coordinator of Chief Executive Office>",
+    "35" : "s(Stephen_Lam) dbp:years o'<1999>",
+    "36" : "s(Stephen_Lam) dbp:years o'<2002>",
+    "37" : "s(Stephen_Lam) dbp:years o'<2007>",
+    "38" : "s(Stephen_Lam) dbp:years o'<2011>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(stephen lam=Stephen_Lam) [graduated from university of ] o'<hong kong=Hong_Kong>",
+    "5" : "s(stephen lam=Stephen_Lam) [attended ] o'<university of london=University_of_London>"
+  },
+  "abstract" : {
+    "4" : "stephen lam<Stephen_Lam> graduated from the university of hong kong<Hong_Kong> in 1978 and then began his public service career\n",
+    "5" : "during his early years in the civil service stephen lam<Stephen_Lam> attended the university of london<University_of_London> law school, from which stephen lam<Stephen_Lam> graduated in 1983\n"
+  }
+}, {
+  "entityIndex" : "entity11418",
+  "entityUrl" : "http://dbpedia.org/resource/Sunder_Lal_Hora",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Sunder_Lal_Hora) dbo:birthDate o'<1896-1-1>",
+    "2" : "s(Sunder_Lal_Hora) dbo:deathDate o'<1955-12-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

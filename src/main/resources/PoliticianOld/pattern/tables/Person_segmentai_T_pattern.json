@@ -1,0 +1,74 @@
+[ {
+  "entityIndex" : "entity11247",
+  "entityUrl" : "http://dbpedia.org/resource/Truby_King",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Truby_King) dbo:birthDate o'<1858-4-1>",
+    "2" : "s(Truby_King) dbo:birthPlace o'<New_Plymouth>",
+    "3" : "s(Truby_King) dbo:deathDate o'<1938-2-10>",
+    "4" : "s(Truby_King) dbo:deathPlace o'<Wellington>",
+    "5" : "s(Truby_King) dbp:id o'<2>",
+    "6" : "s(Truby_King) dbp:plainlink o'<y>",
+    "7" : "s(Truby_King) dbp:title o'<Frederic Truby King biography>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11248",
+  "entityUrl" : "http://dbpedia.org/resource/Tohu_Kakahi",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Tohu_Kakahi) dbo:wikiPageRedirects o'<Tohu_KÄ�kahi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11249",
+  "entityUrl" : "http://dbpedia.org/resource/Tricia_O'Neil",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Tricia_O'Neil) dbo:activeYearsStartYear o'<1972>",
+    "2" : "s(Tricia_O'Neil) dbo:birthDate o'<1945-03-11>",
+    "3" : "s(Tricia_O'Neil) dbo:birthDate o'<1945-3-11>",
+    "4" : "s(Tricia_O'Neil) dbo:birthPlace o'<Shreveport,_Louisiana>",
+    "5" : "s(Tricia_O'Neil) dbo:birthYear o'<1945>",
+    "6" : "s(Tricia_O'Neil) dbo:imdbId o'<0642078>",
+    "7" : "s(Tricia_O'Neil) dbo:occupation o'<Actress>",
+    "8" : "s(Tricia_O'Neil) dbo:occupation o'<Tricia_O'Neil__1>",
+    "9" : "s(Tricia_O'Neil) dbp:name o'<Tricia O'Neil>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11250",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Prendergast",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11251",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Fiennes,_9th_Baron_Dacre",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Thomas_Fiennes,_9th_Baron_Dacre) dbo:birthDate o'<1517-1-1>",
+    "2" : "s(Thomas_Fiennes,_9th_Baron_Dacre) dbo:deathDate o'<1541-1-1>",
+    "3" : "s(Thomas_Fiennes,_9th_Baron_Dacre) dbp:after o'<( )>",
+    "4" : "s(Thomas_Fiennes,_9th_Baron_Dacre) dbp:after o'<Forfeit>",
+    "5" : "s(Thomas_Fiennes,_9th_Baron_Dacre) dbp:before o'<Thomas_Fiennes,_8th_Baron_Dacre>",
+    "6" : "s(Thomas_Fiennes,_9th_Baron_Dacre) dbp:title o'<Baron_Dacre>",
+    "7" : "s(Thomas_Fiennes,_9th_Baron_Dacre) dbp:years o'<1533>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11252",
+  "entityUrl" : "http://dbpedia.org/resource/Tom_Oberheim",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Tom_Oberheim) dbo:birthDate o'<1936-7-7>",
+    "2" : "s(Tom_Oberheim) dbo:birthPlace o'<Manhattan,_Kansas>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

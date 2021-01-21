@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity11949",
+  "entityUrl" : "http://dbpedia.org/resource/August_Batsch",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(August_Batsch) dbo:birthDate o'<1761-10-28>",
+    "2" : "s(August_Batsch) dbo:birthPlace o'<Jena>",
+    "3" : "s(August_Batsch) dbo:deathDate o'<1802-9-29>",
+    "4" : "s(August_Batsch) dbo:deathPlace o'<Jena>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11950",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Wakeling",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Alan_Wakeling) dbo:birthDate o'<1926-1-1>",
+    "2" : "s(Alan_Wakeling) dbo:deathDate o'<2004-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11951",
+  "entityUrl" : "http://dbpedia.org/resource/Alain_Schmitt",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Alain_Schmitt) dbo:birthDate o'<1983-11-2>",
+    "2" : "s(Alain_Schmitt) dbo:birthPlace o'<Forbach>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11952",
+  "entityUrl" : "http://dbpedia.org/resource/A._W._H._Abeyesundere",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11953",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Davitashvili",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Alexander_Davitashvili) dbo:birthDate o'<1974-7-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11954",
+  "entityUrl" : "http://dbpedia.org/resource/Arthur_Looss",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Arthur_Looss) dbo:birthDate o'<1861-1-1>",
+    "2" : "s(Arthur_Looss) dbo:birthPlace o'<Chemnitz>",
+    "3" : "s(Arthur_Looss) dbo:deathDate o'<1923-1-1>",
+    "4" : "s(Arthur_Looss) dbo:deathPlace o'<Giessen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,117 @@
+[ {
+  "entityIndex" : "entity14158",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Peter_Coaldrake",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Owen_Peter_Coaldrake) dbo:birthDate o'<1951-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14159",
+  "entityUrl" : "http://dbpedia.org/resource/Ommanandsing_Kowlessur",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Ommanandsing_Kowlessur) dbo:birthDate o'<1982-3-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14160",
+  "entityUrl" : "http://dbpedia.org/resource/Orla_Feeney",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14161",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Potoker",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Oscar_Potoker) dbo:birthDate o'<1880-04-26>",
+    "2" : "s(Oscar_Potoker) dbo:birthDate o'<1880-4-26>",
+    "3" : "s(Oscar_Potoker) dbo:birthPlace o'<Vinnytsia>",
+    "4" : "s(Oscar_Potoker) dbo:birthYear o'<1880>",
+    "5" : "s(Oscar_Potoker) dbo:deathDate o'<1935-6-26>",
+    "6" : "s(Oscar_Potoker) dbo:deathYear o'<0026>",
+    "7" : "s(Oscar_Potoker) dbo:occupation o'<Oscar_Potoker__1>",
+    "8" : "s(Oscar_Potoker) dbp:deathPlace o'<Los Angeles>",
+    "9" : "s(Oscar_Potoker) dbp:imageSize o'<190>",
+    "10" : "s(Oscar_Potoker) dbp:knownFor o'<movie music>",
+    "11" : "s(Oscar_Potoker) dbp:nationality o'<US>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14162",
+  "entityUrl" : "http://dbpedia.org/resource/Oliver_Burkeman",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Oliver_Burkeman) dbo:nationality o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(oliver burkeman=Oliver_Burkeman) [writes popular weekly column ] o'<london=United_Kingdom>"
+  },
+  "abstract" : {
+    "3" : "oliver burkeman<Oliver_Burkeman> writes a popular weekly column on psychology, this column will change your life, and has reported from london<United_Kingdom>, washington and new york\n"
+  }
+}, {
+  "entityIndex" : "entity14163",
+  "entityUrl" : "http://dbpedia.org/resource/Odell_Pollard",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Odell_Pollard) dbo:almaMater o'<University_of_Arkansas_at_Fayetteville>",
+    "2" : "s(Odell_Pollard) dbo:almaMater o'<Mississippi_College>",
+    "3" : "s(Odell_Pollard) dbo:almaMater o'<University_of_Arkansas_School_of_Law>",
+    "4" : "s(Odell_Pollard) dbo:almaMater o'<Tulane_University>",
+    "5" : "s(Odell_Pollard) dbo:birthDate o'<1927-04-29>",
+    "6" : "s(Odell_Pollard) dbo:birthDate o'<1927-4-29>",
+    "7" : "s(Odell_Pollard) dbo:birthPlace o'<United_States>",
+    "8" : "s(Odell_Pollard) dbo:birthPlace o'<Arkansas>",
+    "9" : "s(Odell_Pollard) dbo:birthPlace o'<Independence_County,_Arkansas>",
+    "10" : "s(Odell_Pollard) dbo:deathDate o'<2015-03-12>",
+    "11" : "s(Odell_Pollard) dbo:deathDate o'<2015-3-12>",
+    "12" : "s(Odell_Pollard) dbo:deathPlace o'<Arkansas>",
+    "13" : "s(Odell_Pollard) dbo:deathPlace o'<Searcy,_Arkansas>",
+    "14" : "s(Odell_Pollard) dbo:deathPlace o'<White_County,_Arkansas>",
+    "15" : "s(Odell_Pollard) dbo:occupation o'<Attorney_at_law_(United_States)>",
+    "16" : "s(Odell_Pollard) dbo:office o'<Arkansas Republican PartyState Chairman>",
+    "17" : "s(Odell_Pollard) dbo:office o'<Republican National Committeeman from Arkansas>",
+    "18" : "s(Odell_Pollard) dbo:religion o'<United_Methodist>",
+    "19" : "s(Odell_Pollard) dbo:residence o'<Arkansas>",
+    "20" : "s(Odell_Pollard) dbo:residence o'<Searcy,_Arkansas>",
+    "21" : "s(Odell_Pollard) dbo:residence o'<White_County,_Arkansas>",
+    "22" : "s(Odell_Pollard) dbo:termPeriod o'<Odell_Pollard__1>",
+    "23" : "s(Odell_Pollard) dbo:termPeriod o'<Odell_Pollard__2>",
+    "24" : "s(Odell_Pollard) dbp:after o'<John_Paul_Hammerschmidt>",
+    "25" : "s(Odell_Pollard) dbp:after o'<Charles_T._Bernard>",
+    "26" : "s(Odell_Pollard) dbp:before o'<John_Paul_Hammerschmidt>",
+    "27" : "s(Odell_Pollard) dbp:before o'<Winthrop_Rockefeller>",
+    "28" : "s(Odell_Pollard) dbp:children o'<Stepchildren:>",
+    "29" : "s(Odell_Pollard) dbp:children o'<Jamie Huett>",
+    "30" : "s(Odell_Pollard) dbp:children o'<Laura P. Roussel>",
+    "31" : "s(Odell_Pollard) dbp:children o'<Mark Odell Pollard>",
+    "32" : "s(Odell_Pollard) dbp:children o'<Mary Jane Norman>",
+    "33" : "s(Odell_Pollard) dbp:children o'<Paula P. Gray>",
+    "34" : "s(Odell_Pollard) dbp:children o'<Tommy Huett>",
+    "35" : "s(Odell_Pollard) dbp:footnotes o'<Pollard never sought elected office himself but was a guiding force of the Arkansas Republican Party during the gubernatorial years of Winthrop Rockefeller.>",
+    "36" : "s(Odell_Pollard) dbp:imagesize o'<175>",
+    "37" : "s(Odell_Pollard) dbp:parents o'<Joseph Franklin and Beulah Scantlin Pollard>",
+    "38" : "s(Odell_Pollard) dbp:preceded o'<John_Paul_Hammerschmidt>",
+    "39" : "s(Odell_Pollard) dbp:preceded o'<Winthrop_Rockefeller>",
+    "40" : "s(Odell_Pollard) dbp:restingPlace o'<White County Memorial Gardens in Searcy>",
+    "41" : "s(Odell_Pollard) dbp:spouse o'<Imogene Stroud Huett>",
+    "42" : "s(Odell_Pollard) dbp:spouse o'<Sammy Lane Lewis Pollard>",
+    "43" : "s(Odell_Pollard) dbp:succeeded o'<John_Paul_Hammerschmidt>",
+    "44" : "s(Odell_Pollard) dbp:succeeded o'<Charles_T._Bernard>",
+    "45" : "s(Odell_Pollard) dbp:termEnd o'<1976>",
+    "46" : "s(Odell_Pollard) dbp:termEnd o'<December 1970>",
+    "47" : "s(Odell_Pollard) dbp:termStart o'<February 1973>",
+    "48" : "s(Odell_Pollard) dbp:title o'<Arkansas Republican Party National Committeeman>",
+    "49" : "s(Odell_Pollard) dbp:title o'<Arkansas Republican Party State Chairman>",
+    "50" : "s(Odell_Pollard) dbp:years o'<1966>",
+    "51" : "s(Odell_Pollard) dbp:years o'<1973>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

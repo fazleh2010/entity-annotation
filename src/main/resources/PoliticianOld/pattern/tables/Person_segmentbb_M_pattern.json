@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity14314",
+  "entityUrl" : "http://dbpedia.org/resource/Mordecai_Seter",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Mordecai_Seter) dbo:birthDate o'<1916-2-26>",
+    "2" : "s(Mordecai_Seter) dbo:birthPlace o'<Novorossiysk>",
+    "3" : "s(Mordecai_Seter) dbo:deathDate o'<1994-8-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14315",
+  "entityUrl" : "http://dbpedia.org/resource/Marcus_Crouch",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Marcus_Crouch) dbo:birthDate o'<1913-2-12>",
+    "2" : "s(Marcus_Crouch) dbo:deathDate o'<1996-4-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14316",
+  "entityUrl" : "http://dbpedia.org/resource/Marie_Elizabeth_Roche",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14317",
+  "entityUrl" : "http://dbpedia.org/resource/Mertcan_Demirer",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Mertcan_Demirer) dbo:birthDate o'<1993-3-14>",
+    "2" : "s(Mertcan_Demirer) dbo:birthPlace o'<Istanbul>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14318",
+  "entityUrl" : "http://dbpedia.org/resource/Maureen_Maher",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Maureen_Maher) dbo:birthPlace o'<Michigan>",
+    "2" : "s(Maureen_Maher) dbo:birthPlace o'<Detroit,_Michigan>",
+    "3" : "s(Maureen_Maher) dbo:education o'<Loyola_University_Chicago>",
+    "4" : "s(Maureen_Maher) dbo:occupation o'<Maureen_Maher__1>",
+    "5" : "s(Maureen_Maher) dbo:occupation o'<News_anchor>",
+    "6" : "s(Maureen_Maher) dbo:occupation o'<Correspondent>",
+    "7" : "s(Maureen_Maher) dbo:occupation o'<Reporter>",
+    "8" : "s(Maureen_Maher) dbo:residence o'<Chicago,_Illinois>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14319",
+  "entityUrl" : "http://dbpedia.org/resource/Maredudd_ap_Rhobert",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Maredudd_ap_Rhobert) dbo:deathDate o'<1244-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

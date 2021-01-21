@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity11053",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Wilhelm_Sonder",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Otto_Wilhelm_Sonder) dbo:birthDate o'<1812-6-13>",
+    "2" : "s(Otto_Wilhelm_Sonder) dbo:deathDate o'<1881-11-21>",
+    "3" : "s(Otto_Wilhelm_Sonder) dbo:deathPlace o'<Hamburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11054",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Malling",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Otto_Malling) dbo:birthDate o'<1848-6-1>",
+    "2" : "s(Otto_Malling) dbo:birthPlace o'<Copenhagen>",
+    "3" : "s(Otto_Malling) dbo:deathDate o'<1915-10-5>",
+    "4" : "s(Otto_Malling) dbo:deathPlace o'<Copenhagen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11055",
+  "entityUrl" : "http://dbpedia.org/resource/Oded_Aharonson",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11056",
+  "entityUrl" : "http://dbpedia.org/resource/Obren_Petrovi%C4%87",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11057",
+  "entityUrl" : "http://dbpedia.org/resource/Osian_Ellis",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Osian_Ellis) dbo:birthDate o'<1928-2-8>",
+    "2" : "s(Osian_Ellis) dbo:birthPlace o'<Ffynnongroew>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11058",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Vicente_Scavone",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Oscar_Vicente_Scavone) dbo:birthDate o'<1955-07-02>",
+    "2" : "s(Oscar_Vicente_Scavone) dbo:birthDate o'<1955-7-2>",
+    "3" : "s(Oscar_Vicente_Scavone) dbo:birthPlace o'<Paraguay>",
+    "4" : "s(Oscar_Vicente_Scavone) dbo:birthPlace o'<AsunciÃ³n>",
+    "5" : "s(Oscar_Vicente_Scavone) dbo:birthYear o'<1955>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

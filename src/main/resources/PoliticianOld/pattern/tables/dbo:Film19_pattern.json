@@ -1,0 +1,23 @@
+[ {
+  "entityIndex" : "entity10821",
+  "entityUrl" : "http://dbpedia.org/resource/-30-_(film)",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s(-30-_(film)) dbo:cinematography o'<Edward_Colman_(cinematographer)>",
+    "2" : "s(-30-_(film)) dbo:director o'<Jack_Webb>",
+    "3" : "s(-30-_(film)) dbo:editing o'<Robert_M._Leeds>",
+    "4" : "s(-30-_(film)) dbo:musicComposer o'<Ray_Heindorf>",
+    "5" : "s(-30-_(film)) dbo:producer o'<Jack_Webb>",
+    "6" : "s(-30-_(film)) dbo:runtime o'<88.0>",
+    "7" : "s(-30-_(film)) dbo:runtime o'<5280.0>",
+    "8" : "s(-30-_(film)) dbo:starring o'<William_Conrad>",
+    "9" : "s(-30-_(film)) dbo:starring o'<Jack_Webb>",
+    "10" : "s(-30-_(film)) dbo:starring o'<Whitney_Blake>",
+    "11" : "s(-30-_(film)) dbo:writer o'<William_Bowers>",
+    "12" : "s(-30-_(film)) dbp:country o'<United States>",
+    "13" : "s(-30-_(film)) dbp:distributor o'<Warner Bros. Pictures>",
+    "14" : "s(-30-_(film)) dbp:language o'<English>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

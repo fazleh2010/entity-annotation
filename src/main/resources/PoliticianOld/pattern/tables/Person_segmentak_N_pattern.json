@@ -1,0 +1,119 @@
+[ {
+  "entityIndex" : "entity11536",
+  "entityUrl" : "http://dbpedia.org/resource/Nicola_Rescigno",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Nicola_Rescigno) dbo:birthDate o'<1916-5-28>",
+    "2" : "s(Nicola_Rescigno) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Nicola_Rescigno) dbo:deathDate o'<2008-8-4>",
+    "4" : "s(Nicola_Rescigno) dbo:deathPlace o'<Viterbo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11537",
+  "entityUrl" : "http://dbpedia.org/resource/Nelson_Tift",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Nelson_Tift) dbo:battle o'<American_Civil_War>",
+    "2" : "s(Nelson_Tift) dbo:birthDate o'<1810-07-23>",
+    "3" : "s(Nelson_Tift) dbo:birthDate o'<1810-7-23>",
+    "4" : "s(Nelson_Tift) dbo:birthPlace o'<Groton,_Connecticut>",
+    "5" : "s(Nelson_Tift) dbo:country o'<Confederate_States_of_America>",
+    "6" : "s(Nelson_Tift) dbo:deathDate o'<1891-11-21>",
+    "7" : "s(Nelson_Tift) dbo:deathPlace o'<Albany,_Georgia>",
+    "8" : "s(Nelson_Tift) dbo:militaryRank o'<Captain_(navy)>",
+    "9" : "s(Nelson_Tift) dbo:militaryUnit o'<Georgia_Militia>",
+    "10" : "s(Nelson_Tift) dbo:party o'<Democratic_Party_(United_States)>",
+    "11" : "s(Nelson_Tift) dbo:predecessor o'<American_Civil_War>",
+    "12" : "s(Nelson_Tift) dbo:region o'<Georgia_(U.S._state)>",
+    "13" : "s(Nelson_Tift) dbo:serviceEndYear o'<1865>",
+    "14" : "s(Nelson_Tift) dbo:serviceStartYear o'<1861>",
+    "15" : "s(Nelson_Tift) dbo:successor o'<Richard_H._Whiteley>",
+    "16" : "s(Nelson_Tift) dbo:termPeriod o'<Nelson_Tift__1>",
+    "17" : "s(Nelson_Tift) dbp:after o'<Richard_H._Whiteley>",
+    "18" : "s(Nelson_Tift) dbp:before o'<American_Civil_War>",
+    "19" : "s(Nelson_Tift) dbp:deathDate o'<--11-21>",
+    "20" : "s(Nelson_Tift) dbp:district o'<2>",
+    "21" : "s(Nelson_Tift) dbp:district o'<state>",
+    "22" : "s(Nelson_Tift) dbp:occupation o'<Businessman>",
+    "23" : "s(Nelson_Tift) dbp:restingPlace o'<Oakview Cemetery, Albany, Georgia>",
+    "24" : "s(Nelson_Tift) dbp:state o'<Georgia_(U.S._state)>",
+    "25" : "s(Nelson_Tift) dbp:state o'<Georgia>",
+    "26" : "s(Nelson_Tift) dbp:termEnd o'<one-year term>",
+    "27" : "s(Nelson_Tift) dbp:termStart o'<18411847>",
+    "28" : "s(Nelson_Tift) dbp:years o'<--07-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11538",
+  "entityUrl" : "http://dbpedia.org/resource/Nadezhda_Wijenberg",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Nadezhda_Wijenberg) dbo:birthDate o'<1964-4-2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11539",
+  "entityUrl" : "http://dbpedia.org/resource/Nikolai_Borschevsky",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Nikolai_Borschevsky) dbo:activeYearsEndYear o'<1998>",
+    "2" : "s(Nikolai_Borschevsky) dbo:activeYearsStartYear o'<1983>",
+    "3" : "s(Nikolai_Borschevsky) dbo:birthDate o'<1965-01-12>",
+    "4" : "s(Nikolai_Borschevsky) dbo:birthDate o'<1965-1-12>",
+    "5" : "s(Nikolai_Borschevsky) dbo:birthPlace o'<Soviet_Union>",
+    "6" : "s(Nikolai_Borschevsky) dbo:birthPlace o'<Tomsk>",
+    "7" : "s(Nikolai_Borschevsky) dbo:draft o'<77th overall>",
+    "8" : "s(Nikolai_Borschevsky) dbo:draftTeam o'<Toronto_Maple_Leafs>",
+    "9" : "s(Nikolai_Borschevsky) dbo:draftYear o'<1992>",
+    "10" : "s(Nikolai_Borschevsky) dbo:formerTeam o'<Calgary_Flames>",
+    "11" : "s(Nikolai_Borschevsky) dbo:formerTeam o'<HC_Spartak_Moscow>",
+    "12" : "s(Nikolai_Borschevsky) dbo:formerTeam o'<Dallas_Stars>",
+    "13" : "s(Nikolai_Borschevsky) dbo:formerTeam o'<HC_Dynamo_Moscow>",
+    "14" : "s(Nikolai_Borschevsky) dbo:formerTeam o'<Toronto_Maple_Leafs>",
+    "15" : "s(Nikolai_Borschevsky) dbo:formerTeam o'<KÃ¶lner_Haie>",
+    "16" : "s(Nikolai_Borschevsky) dbo:height o'<1.7272>",
+    "17" : "s(Nikolai_Borschevsky) dbo:position o'<Right_Wing_(ice_hockey)>",
+    "18" : "s(Nikolai_Borschevsky) dbo:shoots o'<Left>",
+    "19" : "s(Nikolai_Borschevsky) dbo:weight o'<80.7408>",
+    "20" : "s(Nikolai_Borschevsky) dbo:weight o'<80740.8>",
+    "21" : "s(Nikolai_Borschevsky) dbp:heightFt o'<5>",
+    "22" : "s(Nikolai_Borschevsky) dbp:heightIn o'<8>",
+    "23" : "s(Nikolai_Borschevsky) dbp:ntlTeam o'<Russia>",
+    "24" : "s(Nikolai_Borschevsky) dbp:ntlTeam o'<URS>",
+    "25" : "s(Nikolai_Borschevsky) dbp:ntlTeam o'<Unified Team>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11540",
+  "entityUrl" : "http://dbpedia.org/resource/Nazir_Ahmad_Dehlvi",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Nazir_Ahmad_Dehlvi) dbo:birthDate o'<1836-1-1>",
+    "2" : "s(Nazir_Ahmad_Dehlvi) dbo:deathDate o'<1912-1-1>",
+    "3" : "s(Nazir_Ahmad_Dehlvi) dbo:nationality o'<India>",
+    "4" : "s(Nazir_Ahmad_Dehlvi) dbo:occupation o'<Novelist>",
+    "5" : "s(Nazir_Ahmad_Dehlvi) dbo:pseudonym o'<Deputy Nazir Ahmad>",
+    "6" : "s(Nazir_Ahmad_Dehlvi) dbp:birthDate o'<1833>",
+    "7" : "s(Nazir_Ahmad_Dehlvi) dbp:birthPlace o'<district bijnor state up>",
+    "8" : "s(Nazir_Ahmad_Dehlvi) dbp:color o'<#B0C4DE>",
+    "9" : "s(Nazir_Ahmad_Dehlvi) dbp:deathDate o'<1912>",
+    "10" : "s(Nazir_Ahmad_Dehlvi) dbp:period o'<Mughal era, British Indian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11541",
+  "entityUrl" : "http://dbpedia.org/resource/Narayana_Kasturi",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Narayana_Kasturi) dbo:birthDate o'<1897-12-25>",
+    "2" : "s(Narayana_Kasturi) dbo:deathDate o'<1987-8-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

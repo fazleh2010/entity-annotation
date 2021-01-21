@@ -1,0 +1,59 @@
+[ {
+  "entityIndex" : "entity10925",
+  "entityUrl" : "http://dbpedia.org/resource/U._K._Shyam",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(U._K._Shyam) dbo:birthDate o'<1976-7-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10926",
+  "entityUrl" : "http://dbpedia.org/resource/Uesugi_Akisada",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Uesugi_Akisada) dbo:birthDate o'<1454-0-0>",
+    "2" : "s(Uesugi_Akisada) dbo:deathDate o'<1510-7-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10927",
+  "entityUrl" : "http://dbpedia.org/resource/Ushio_Amagatsu",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ushio_Amagatsu) dbo:birthDate o'<1949-12-31>",
+    "2" : "s(Ushio_Amagatsu) dbo:birthPlace o'<Yokosuka,_Kanagawa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10928",
+  "entityUrl" : "http://dbpedia.org/resource/Ueli_Kestenholz",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ueli_Kestenholz) dbo:birthDate o'<1975-5-10>",
+    "2" : "s(Ueli_Kestenholz) dbo:birthPlace o'<Thun>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10929",
+  "entityUrl" : "http://dbpedia.org/resource/Uwe_Kreisel",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Uwe_Kreisel) dbo:birthDate o'<1961-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10930",
+  "entityUrl" : "http://dbpedia.org/resource/Ursula_Bruhin",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Ursula_Bruhin) dbo:birthDate o'<1970-3-19>",
+    "2" : "s(Ursula_Bruhin) dbo:birthPlace o'<Schwyz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

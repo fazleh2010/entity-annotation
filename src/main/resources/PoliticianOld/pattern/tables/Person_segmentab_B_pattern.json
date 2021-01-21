@@ -1,0 +1,119 @@
+[ {
+  "entityIndex" : "entity10811",
+  "entityUrl" : "http://dbpedia.org/resource/B._K._S._Iyengar",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(B._K._S._Iyengar) dbo:birthDate o'<1918-12-14>",
+    "2" : "s(B._K._S._Iyengar) dbo:birthPlace o'<Kolar_district>",
+    "3" : "s(B._K._S._Iyengar) dbo:birthPlace o'<Pune>",
+    "4" : "s(B._K._S._Iyengar) dbo:birthPlace o'<Kingdom_of_Mysore>",
+    "5" : "s(B._K._S._Iyengar) dbo:birthYear o'<1918>",
+    "6" : "s(B._K._S._Iyengar) dbo:child o'<Geeta_Iyengar>",
+    "7" : "s(B._K._S._Iyengar) dbo:deathCause o'<Heart_failure>",
+    "8" : "s(B._K._S._Iyengar) dbo:deathCause o'<Kidney_Failure>",
+    "9" : "s(B._K._S._Iyengar) dbo:deathDate o'<2014-08-20>",
+    "10" : "s(B._K._S._Iyengar) dbo:deathDate o'<2014-8-20>",
+    "11" : "s(B._K._S._Iyengar) dbo:deathPlace o'<Maharashtra>",
+    "12" : "s(B._K._S._Iyengar) dbo:deathPlace o'<Pune>",
+    "13" : "s(B._K._S._Iyengar) dbo:deathYear o'<2014>",
+    "14" : "s(B._K._S._Iyengar) dbo:knownFor o'<Iyengar_Yoga>",
+    "15" : "s(B._K._S._Iyengar) dbo:occupation o'<B._K._S._Iyengar__1>",
+    "16" : "s(B._K._S._Iyengar) dbp:accessdate o'<2015-12-14>",
+    "17" : "s(B._K._S._Iyengar) dbp:author o'<Rajamanickam Antonimuthu>",
+    "18" : "s(B._K._S._Iyengar) dbp:date o'<2015-12-13>",
+    "19" : "s(B._K._S._Iyengar) dbp:date o'<2015-12-14>",
+    "20" : "s(B._K._S._Iyengar) dbp:id o'<TeC9Bv1if6U>",
+    "21" : "s(B._K._S._Iyengar) dbp:id o'<ZApv2zr6bH4>",
+    "22" : "s(B._K._S._Iyengar) dbp:spouse o'<Ramamani>",
+    "23" : "s(B._K._S._Iyengar) dbp:title o'<BKS Iyengar â€“ 97th birthday>",
+    "24" : "s(B._K._S._Iyengar) dbp:title o'<BKS Iyengar Google Doodle. 97th Birthday of \"Iyengar Yoga\" Founder>",
+    "25" : "s(B._K._S._Iyengar) dbp:work o'<Google Doodle Collection>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10812",
+  "entityUrl" : "http://dbpedia.org/resource/Betty_Boo",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Betty_Boo) dbo:activeYearsStartYear o'<1989>",
+    "2" : "s(Betty_Boo) dbo:associatedBand o'<Girl_Thing>",
+    "3" : "s(Betty_Boo) dbo:associatedBand o'<Beatmasters>",
+    "4" : "s(Betty_Boo) dbo:associatedBand o'<She_Rockers>",
+    "5" : "s(Betty_Boo) dbo:associatedBand o'<WigWam_(duo)>",
+    "6" : "s(Betty_Boo) dbo:associatedBand o'<Jack_Rokka>",
+    "7" : "s(Betty_Boo) dbo:associatedMusicalArtist o'<Girl_Thing>",
+    "8" : "s(Betty_Boo) dbo:associatedMusicalArtist o'<Beatmasters>",
+    "9" : "s(Betty_Boo) dbo:associatedMusicalArtist o'<She_Rockers>",
+    "10" : "s(Betty_Boo) dbo:associatedMusicalArtist o'<WigWam_(duo)>",
+    "11" : "s(Betty_Boo) dbo:associatedMusicalArtist o'<Jack_Rokka>",
+    "12" : "s(Betty_Boo) dbo:background o'<solo_singer>",
+    "13" : "s(Betty_Boo) dbo:birthDate o'<1970-03-06>",
+    "14" : "s(Betty_Boo) dbo:birthDate o'<1970-3-6>",
+    "15" : "s(Betty_Boo) dbo:birthPlace o'<London>",
+    "16" : "s(Betty_Boo) dbo:birthPlace o'<Kensington>",
+    "17" : "s(Betty_Boo) dbo:genre o'<Dance-pop>",
+    "18" : "s(Betty_Boo) dbo:genre o'<Hip_hop_music>",
+    "19" : "s(Betty_Boo) dbo:recordLabel o'<Sire_Records>",
+    "20" : "s(Betty_Boo) dbo:recordLabel o'<Instant_Karma_(record_label)>",
+    "21" : "s(Betty_Boo) dbo:recordLabel o'<Music_of_Life>",
+    "22" : "s(Betty_Boo) dbo:recordLabel o'<Rhythm_King>",
+    "23" : "s(Betty_Boo) dbp:instrument o'<Vocals>",
+    "24" : "s(Betty_Boo) dbp:occupation o'<Singer-songwriter, musician>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(betty boo=Betty_Boo) [first came to mainstream prominence ] o'<the beatmasters=Beatmasters>"
+  },
+  "abstract" : {
+    "2" : "betty boo<Betty_Boo> first came to mainstream prominence in the late 1980s and early 1990s following a collaboration with the beatmasters<Beatmasters> and her subsequent solo career, which spawned a number of chart-placing singles, most notably in 1990 with \"doin' the do\"\n"
+  }
+}, {
+  "entityIndex" : "entity10813",
+  "entityUrl" : "http://dbpedia.org/resource/Beornred_of_Mercia",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Beornred_of_Mercia) dbo:birthDate o'<800-1-1>",
+    "2" : "s(Beornred_of_Mercia) dbo:deathDate o'<769-0-0>",
+    "3" : "s(Beornred_of_Mercia) dbo:nationality o'<England>",
+    "4" : "s(Beornred_of_Mercia) dbo:nationality o'<United_Kingdom>",
+    "5" : "s(Beornred_of_Mercia) dbp:after o'<Offa_of_Mercia>",
+    "6" : "s(Beornred_of_Mercia) dbp:before o'<Ã†thelbald_of_Mercia>",
+    "7" : "s(Beornred_of_Mercia) dbp:title o'<List_of_monarchs_of_Mercia>",
+    "8" : "s(Beornred_of_Mercia) dbp:years o'<757>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(beornred of mercia=Beornred_of_Mercia) [defeated by ] o'<offa=Offa_of_Mercia>"
+  },
+  "abstract" : {
+    "2" : "beornred ascended the throne following the murder of king<List_of_monarchs_of_Mercia> ã†thelbald, however, beornred of mercia<Beornred_of_Mercia> was defeated by offa<Offa_of_Mercia> and forced to flee the country<England>\n"
+  }
+}, {
+  "entityIndex" : "entity10814",
+  "entityUrl" : "http://dbpedia.org/resource/Baibars_II",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Baibars_II) dbo:birthDate o'<1300-1-1>",
+    "2" : "s(Baibars_II) dbo:deathDate o'<1310-4-5>",
+    "3" : "s(Baibars_II) dbo:deathPlace o'<Cairo>",
+    "4" : "s(Baibars_II) dbp:title o'<List_of_Mamluk_sultans>",
+    "5" : "s(Baibars_II) dbp:years o'<--03-05>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10815",
+  "entityUrl" : "http://dbpedia.org/resource/Benjamin_McKenzie",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Benjamin_McKenzie) dbo:wikiPageRedirects o'<Ben_McKenzie>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10816",
+  "entityUrl" : "http://dbpedia.org/resource/Botho_Strau%C3%9F",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

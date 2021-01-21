@@ -1,0 +1,70 @@
+[ {
+  "entityIndex" : "entity11443",
+  "entityUrl" : "http://dbpedia.org/resource/Xenia_Gratsos",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Xenia_Gratsos) dbo:birthDate o'<1940-2-12>",
+    "2" : "s(Xenia_Gratsos) dbo:birthPlace o'<Athens>",
+    "3" : "s(Xenia_Gratsos) dbo:imdbId o'<0268187>",
+    "4" : "s(Xenia_Gratsos) dbp:name o'<Xenia Gratsos>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11444",
+  "entityUrl" : "http://dbpedia.org/resource/Xie_Shiguang",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Xie_Shiguang) dbo:birthDate o'<1917-1-1>",
+    "2" : "s(Xie_Shiguang) dbo:deathDate o'<2005-8-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11445",
+  "entityUrl" : "http://dbpedia.org/resource/Xiahou_Shang",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Xiahou_Shang) dbo:birthDate o'<185-1-1>",
+    "2" : "s(Xiahou_Shang) dbo:deathDate o'<225-1-1>",
+    "3" : "s(Xiahou_Shang) dbp:deathDate o'<225>",
+    "4" : "s(Xiahou_Shang) dbp:kingdom o'<Cao_Wei>",
+    "5" : "s(Xiahou_Shang) dbp:name o'<Xiahou Shang>",
+    "6" : "s(Xiahou_Shang) dbp:pinyin o'<XiÃ hÃ³u ShÃ ng>",
+    "7" : "s(Xiahou_Shang) dbp:simp o'<å¤�ä¾¯å°š>",
+    "8" : "s(Xiahou_Shang) dbp:title o'<General>",
+    "9" : "s(Xiahou_Shang) dbp:trad o'<å¤�ä¾¯å°š>",
+    "10" : "s(Xiahou_Shang) dbp:wg o'<Hsia-hou Shang>",
+    "11" : "s(Xiahou_Shang) dbp:zi o'<Boren>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11446",
+  "entityUrl" : "http://dbpedia.org/resource/Xiahou_Wei",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Xiahou_Wei) dbo:country o'<China>",
+    "2" : "s(Xiahou_Wei) dbo:deathDate o'<300-1-1>",
+    "3" : "s(Xiahou_Wei) dbp:t o'<å¤�ä¾¯å¨�>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11447",
+  "entityUrl" : "http://dbpedia.org/resource/Xiahou_Hui",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Xiahou_Hui) dbo:deathDate o'<300-1-1>",
+    "2" : "s(Xiahou_Hui) dbp:t o'<å¤�ä¾¯æ�µ>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11448",
+  "entityUrl" : "http://dbpedia.org/resource/X-Fusion__X-Fusion__1",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

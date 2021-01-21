@@ -1,0 +1,75 @@
+[ {
+  "entityIndex" : "entity10811",
+  "entityUrl" : "http://dbpedia.org/resource/Bjarne_M%C3%B8rk_Eidem",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10812",
+  "entityUrl" : "http://dbpedia.org/resource/Bolek",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Bolek) dbo:birthDate o'<1800-1-1>",
+    "2" : "s(Bolek) dbo:deathDate o'<1821-1-1>",
+    "3" : "s(Bolek) dbp:after o'<Micanopy>",
+    "4" : "s(Bolek) dbp:before o'<King_Payne>",
+    "5" : "s(Bolek) dbp:deathDate o'<1819>",
+    "6" : "s(Bolek) dbp:name o'<Bolek>",
+    "7" : "s(Bolek) dbp:nativeName o'<Boleck, Bolech>",
+    "8" : "s(Bolek) dbp:nicknames o'<Bowlegs>",
+    "9" : "s(Bolek) dbp:parents o'<Ahaya>",
+    "10" : "s(Bolek) dbp:predecessor o'<King_Payne>",
+    "11" : "s(Bolek) dbp:relations o'<Older brother, King Payne>",
+    "12" : "s(Bolek) dbp:successor o'<Micanopy>",
+    "13" : "s(Bolek) dbp:title o'<Leading_chief_of_the_Seminoles>",
+    "14" : "s(Bolek) dbp:tribe o'<Seminole>",
+    "15" : "s(Bolek) dbp:years o'<1812>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(bolek=Bolek) [ 1821 auch bekannt als ] o'<bowlegs=Bolek>"
+  },
+  "abstract" : {
+    "1" : "bolek<Bolek> (â€  1821), auch bekannt als boleck oder bowlegs<Bolek>, war ein oberster hã¤uptling der seminolen"
+  }
+}, {
+  "entityIndex" : "entity10813",
+  "entityUrl" : "http://dbpedia.org/resource/B%C3%BClent_Eczac%C4%B1ba%C5%9F%C4%B1",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10814",
+  "entityUrl" : "http://dbpedia.org/resource/Bergfrid_Fjose",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Bergfrid_Fjose) dbo:birthDate o'<1915-3-31>",
+    "2" : "s(Bergfrid_Fjose) dbo:deathDate o'<2004-5-13>",
+    "3" : "s(Bergfrid_Fjose) dbp:after o'<Sonja_Ludvigsen>",
+    "4" : "s(Bergfrid_Fjose) dbp:before o'<Odd_HÃ¸jdahl>",
+    "5" : "s(Bergfrid_Fjose) dbp:title o'<Minister_of_Social_Affairs_(Norway)>",
+    "6" : "s(Bergfrid_Fjose) dbp:years o'<1972>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10815",
+  "entityUrl" : "http://dbpedia.org/resource/Baltazar_Nicolai_Garben",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Baltazar_Nicolai_Garben) dbo:birthDate o'<1794-2-19>",
+    "2" : "s(Baltazar_Nicolai_Garben) dbo:birthPlace o'<Sparbu>",
+    "3" : "s(Baltazar_Nicolai_Garben) dbo:deathDate o'<1867-4-21>",
+    "4" : "s(Baltazar_Nicolai_Garben) dbo:deathPlace o'<Asker>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10816",
+  "entityUrl" : "http://dbpedia.org/resource/Bj%C3%B8rn_Tore_Godal",
+  "dboClass" : "Person_segmentag",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

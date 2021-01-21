@@ -1,0 +1,75 @@
+[ {
+  "entityIndex" : "entity11572",
+  "entityUrl" : "http://dbpedia.org/resource/Toti_Dal_Monte",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Toti_Dal_Monte) dbo:birthDate o'<1892-6-27>",
+    "2" : "s(Toti_Dal_Monte) dbo:birthPlace o'<Mogliano_Veneto>",
+    "3" : "s(Toti_Dal_Monte) dbo:deathDate o'<1975-1-26>",
+    "4" : "s(Toti_Dal_Monte) dbo:deathPlace o'<Treviso>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11573",
+  "entityUrl" : "http://dbpedia.org/resource/Ted_Hartley",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Ted_Hartley) dbo:activeYearsStartYear o'<1945>",
+    "2" : "s(Ted_Hartley) dbo:birthDate o'<1924-11-06>",
+    "3" : "s(Ted_Hartley) dbo:birthDate o'<1936-11-6>",
+    "4" : "s(Ted_Hartley) dbo:birthName o'<Theodore Ringwalt Hartley>",
+    "5" : "s(Ted_Hartley) dbo:birthPlace o'<Omaha,_Nebraska>",
+    "6" : "s(Ted_Hartley) dbo:birthYear o'<1924>",
+    "7" : "s(Ted_Hartley) dbo:occupation o'<Ted_Hartley__1>",
+    "8" : "s(Ted_Hartley) dbo:occupation o'<Fighter_pilot>",
+    "9" : "s(Ted_Hartley) dbo:occupation o'<Actor>",
+    "10" : "s(Ted_Hartley) dbo:spouse o'<Dina_Merrill>",
+    "11" : "s(Ted_Hartley) dbp:almaMater o'<Harvard_Business_School>",
+    "12" : "s(Ted_Hartley) dbp:almaMater o'<U.S._Naval_Academy>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ted hartley=Ted_Hartley) [married to heiress ] o'<actress=Actor>"
+  },
+  "abstract" : {
+    "2" : "ted hartley<Ted_Hartley> is married to heiress, actress<Actor> and philanthropist dina merrill<Dina_Merrill>\n"
+  }
+}, {
+  "entityIndex" : "entity11574",
+  "entityUrl" : "http://dbpedia.org/resource/Tommy_Edwards_(announcer)",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11575",
+  "entityUrl" : "http://dbpedia.org/resource/Tach%C5%AB_Nait%C5%8D",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11576",
+  "entityUrl" : "http://dbpedia.org/resource/Tursun_Uljabayev",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Tursun_Uljabayev) dbo:birthDate o'<1916-5-1>",
+    "2" : "s(Tursun_Uljabayev) dbo:deathDate o'<1988-5-31>",
+    "3" : "s(Tursun_Uljabayev) dbo:deathPlace o'<Dushanbe>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(tursun uljabayev=Tursun_Uljabayev) [died in ] o'<dushanbe=Dushanbe>"
+  },
+  "abstract" : {
+    "5" : "tursun uljabayev<Tursun_Uljabayev> died in dushanbe<Dushanbe> on 31 may 1988\n"
+  }
+}, {
+  "entityIndex" : "entity11577",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Edmund_Campbell",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Thomas_Edmund_Campbell) dbo:birthDate o'<1809-1-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

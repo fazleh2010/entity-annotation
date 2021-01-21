@@ -1,0 +1,142 @@
+[ {
+  "entityIndex" : "entity10731",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Cohen_(mathematician)",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Paul_Cohen_(mathematician)) dbo:wikiPageRedirects o'<Paul_Cohen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10732",
+  "entityUrl" : "http://dbpedia.org/resource/Pen%C3%A9lope_Cruz",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10733",
+  "entityUrl" : "http://dbpedia.org/resource/Pamela_Anderson",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Pamela_Anderson) dbo:activeYearsStartYear o'<1989>",
+    "2" : "s(Pamela_Anderson) dbo:alias o'<Pam Anderson>",
+    "3" : "s(Pamela_Anderson) dbo:alias o'<Pamela Anderson Lee>",
+    "4" : "s(Pamela_Anderson) dbo:birthDate o'<1967-07-01>",
+    "5" : "s(Pamela_Anderson) dbo:birthDate o'<1967-7-1>",
+    "6" : "s(Pamela_Anderson) dbo:birthName o'<Pamela Denise Anderson>",
+    "7" : "s(Pamela_Anderson) dbo:birthPlace o'<British_Columbia>",
+    "8" : "s(Pamela_Anderson) dbo:birthPlace o'<Ladysmith,_British_Columbia>",
+    "9" : "s(Pamela_Anderson) dbo:birthYear o'<1967>",
+    "10" : "s(Pamela_Anderson) dbo:bustSize o'<0.9144>",
+    "11" : "s(Pamela_Anderson) dbo:height o'<170.18>",
+    "12" : "s(Pamela_Anderson) dbo:height o'<1.7018>",
+    "13" : "s(Pamela_Anderson) dbo:hipSize o'<0.9144>",
+    "14" : "s(Pamela_Anderson) dbo:occupation o'<Pamela_Anderson__1>",
+    "15" : "s(Pamela_Anderson) dbo:partner o'<Tommy_Lee>",
+    "16" : "s(Pamela_Anderson) dbo:partner o'<Marcus_Schenkenberg>",
+    "17" : "s(Pamela_Anderson) dbo:predecessor o'<Peggy_McIntaggart>",
+    "18" : "s(Pamela_Anderson) dbo:spouse o'<Tommy_Lee>",
+    "19" : "s(Pamela_Anderson) dbo:spouse o'<Kid_Rock>",
+    "20" : "s(Pamela_Anderson) dbo:spouse o'<Rick_Salomon>",
+    "21" : "s(Pamela_Anderson) dbo:successor o'<Deborah_Driggs>",
+    "22" : "s(Pamela_Anderson) dbo:waistSize o'<0.6096>",
+    "23" : "s(Pamela_Anderson) dbo:weight o'<47.628>",
+    "24" : "s(Pamela_Anderson) dbo:weight o'<47628.0>",
+    "25" : "s(Pamela_Anderson) dbp:b o'<no>",
+    "26" : "s(Pamela_Anderson) dbp:children o'<2>",
+    "27" : "s(Pamela_Anderson) dbp:imagesize o'<200>",
+    "28" : "s(Pamela_Anderson) dbp:issue o'<February 1990>",
+    "29" : "s(Pamela_Anderson) dbp:m o'<no>",
+    "30" : "s(Pamela_Anderson) dbp:mw o'<no>",
+    "31" : "s(Pamela_Anderson) dbp:species o'<no>",
+    "32" : "s(Pamela_Anderson) dbp:v o'<no>",
+    "33" : "s(Pamela_Anderson) dbp:voy o'<no>",
+    "34" : "s(Pamela_Anderson) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "8" : "s(pamela anderson=Pamela_Anderson) [known ] o'<pamela anderson lee=Pamela_Anderson_Lee>"
+  },
+  "abstract" : {
+    "8" : "for a time, pamela anderson<Pamela_Anderson> was known as pamela anderson lee<Pamela_Anderson_Lee> (or pamela lee) after marrying mã¶tley crã¼e drummer tommy lee<Tommy_Lee>\n"
+  }
+}, {
+  "entityIndex" : "entity10734",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Robeson",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Paul_Robeson) dbo:almaMater o'<Rutgers_University>",
+    "2" : "s(Paul_Robeson) dbo:almaMater o'<Columbia_Law_School>",
+    "3" : "s(Paul_Robeson) dbo:birthDate o'<1898-04-09>",
+    "4" : "s(Paul_Robeson) dbo:birthDate o'<1898-4-9>",
+    "5" : "s(Paul_Robeson) dbo:birthName o'<Paul Leroy Robeson>",
+    "6" : "s(Paul_Robeson) dbo:birthPlace o'<Princeton,_New_Jersey>",
+    "7" : "s(Paul_Robeson) dbo:birthYear o'<1898>",
+    "8" : "s(Paul_Robeson) dbo:child o'<Paul_Robeson,_Jr.>",
+    "9" : "s(Paul_Robeson) dbo:deathDate o'<1976-01-23>",
+    "10" : "s(Paul_Robeson) dbo:deathDate o'<1976-1-23>",
+    "11" : "s(Paul_Robeson) dbo:deathPlace o'<Pennsylvania>",
+    "12" : "s(Paul_Robeson) dbo:deathPlace o'<Philadelphia>",
+    "13" : "s(Paul_Robeson) dbo:deathYear o'<1976>",
+    "14" : "s(Paul_Robeson) dbo:number o'<21, 17>",
+    "15" : "s(Paul_Robeson) dbo:occupation o'<Paul_Robeson__1>",
+    "16" : "s(Paul_Robeson) dbo:position o'<Tackle_(American_football)>",
+    "17" : "s(Paul_Robeson) dbo:position o'<End_(American_football)>",
+    "18" : "s(Paul_Robeson) dbo:spouse o'<Eslanda_Robeson>",
+    "19" : "s(Paul_Robeson) dbo:team o'<Milwaukee_Badgers>",
+    "20" : "s(Paul_Robeson) dbo:team o'<Akron_Pros>",
+    "21" : "s(Paul_Robeson) dbp:college o'<Rutgers_Scarlet_Knights_football>",
+    "22" : "s(Paul_Robeson) dbp:collegehof o'<10080>",
+    "23" : "s(Paul_Robeson) dbp:heightFt o'<6>",
+    "24" : "s(Paul_Robeson) dbp:heightIn o'<3>",
+    "25" : "s(Paul_Robeson) dbp:highlights o'<* 2Ã— Consensus All-American>",
+    "26" : "s(Paul_Robeson) dbp:highschool o'<Somerville_High_School_(New_Jersey)>",
+    "27" : "s(Paul_Robeson) dbp:id o'<EJMwU1kqo7sC>",
+    "28" : "s(Paul_Robeson) dbp:imageSize o'<200>",
+    "29" : "s(Paul_Robeson) dbp:nfl o'<ROB361120>",
+    "30" : "s(Paul_Robeson) dbp:page o'<163>",
+    "31" : "s(Paul_Robeson) dbp:pfr o'<RobePa20>",
+    "32" : "s(Paul_Robeson) dbp:statlabel o'<Touchdowns>",
+    "33" : "s(Paul_Robeson) dbp:statlabel o'<Games played>",
+    "34" : "s(Paul_Robeson) dbp:statlabel o'<Games started>",
+    "35" : "s(Paul_Robeson) dbp:statvalue o'<2>",
+    "36" : "s(Paul_Robeson) dbp:statvalue o'<15>",
+    "37" : "s(Paul_Robeson) dbp:weightLbs o'<219>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "26" : "s(paul robeson=Paul_Robeson) [retired PRONOUN lived out ] o'<philadelphia=Philadelphia>"
+  },
+  "abstract" : {
+    "26" : "paul robeson<Paul_Robeson> retired and paul robeson<Paul_Robeson> lived out the remaining years of his life privately in philadelphia<Philadelphia>\n"
+  }
+}, {
+  "entityIndex" : "entity10735",
+  "entityUrl" : "http://dbpedia.org/resource/Peter_Nilson",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Peter_Nilson) dbo:birthDate o'<1937-10-17>",
+    "2" : "s(Peter_Nilson) dbo:deathDate o'<1998-3-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10736",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Vixie",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Paul_Vixie) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(Paul_Vixie) dbo:knownFor o'<Internet_Systems_Consortium>",
+    "3" : "s(Paul_Vixie) dbo:knownFor o'<BIND>",
+    "4" : "s(Paul_Vixie) dbo:knownFor o'<Mail_Abuse_Prevention_System>",
+    "5" : "s(Paul_Vixie) dbo:knownFor o'<Vixie_cron>",
+    "6" : "s(Paul_Vixie) dbo:nationality o'<United_States>",
+    "7" : "s(Paul_Vixie) dbo:occupation o'<Paul_Vixie__1>",
+    "8" : "s(Paul_Vixie) dbo:stateOfOrigin o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(paul vixie=Paul_Vixie) [authored standard unix system ] o'<vixie cron=Vixie_cron>"
+  },
+  "abstract" : {
+    "5" : "paul vixie<Paul_Vixie> authored the standard unix system programs sends, proxynet, rtty and vixie cron<Vixie_cron>\n"
+  }
+} ]

@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity11225",
+  "entityUrl" : "http://dbpedia.org/resource/O._C._Barber",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(O._C._Barber) dbo:birthDate o'<1841-4-20>",
+    "2" : "s(O._C._Barber) dbo:deathDate o'<1920-2-4>",
+    "3" : "s(O._C._Barber) dbp:sname o'<O. C. Barber>",
+    "4" : "s(O._C._Barber) dbp:sopt o'<t>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11226",
+  "entityUrl" : "http://dbpedia.org/resource/Ouyang_Tzu",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ouyang_Tzu) dbo:almaMater o'<National_Taiwan_University>",
+    "2" : "s(Ouyang_Tzu) dbo:birthDate o'<1939-1-1>",
+    "3" : "s(Ouyang_Tzu) dbo:birthName o'<HÃ³ng ZhÃ¬huÃ¬>",
+    "4" : "s(Ouyang_Tzu) dbo:birthName o'<æ´ªæ™ºæƒ >",
+    "5" : "s(Ouyang_Tzu) dbo:birthPlace o'<Japan>",
+    "6" : "s(Ouyang_Tzu) dbo:birthPlace o'<Hiroshima>",
+    "7" : "s(Ouyang_Tzu) dbo:birthYear o'<1939>",
+    "8" : "s(Ouyang_Tzu) dbo:occupation o'<Ouyang_Tzu__1>",
+    "9" : "s(Ouyang_Tzu) dbo:relative o'<Pai_Hsien-yung>",
+    "10" : "s(Ouyang_Tzu) dbp:hometown o'<Taiwan>",
+    "11" : "s(Ouyang_Tzu) dbp:hometown o'<Nantou_County>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11227",
+  "entityUrl" : "http://dbpedia.org/resource/Oskar_Nedbal",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Oskar_Nedbal) dbo:birthDate o'<1874-3-26>",
+    "2" : "s(Oskar_Nedbal) dbo:birthPlace o'<TÃ¡bor>",
+    "3" : "s(Oskar_Nedbal) dbo:deathDate o'<1930-12-24>",
+    "4" : "s(Oskar_Nedbal) dbo:deathPlace o'<Zagreb>",
+    "5" : "s(Oskar_Nedbal) dbp:cname o'<Oskar Nedbal>",
+    "6" : "s(Oskar_Nedbal) dbp:id o'<Nedbal, Oskar>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11228",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Heilmann",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Otto_Heilmann) dbo:birthDate o'<1888-8-22>",
+    "2" : "s(Otto_Heilmann) dbo:deathDate o'<1945-8-19>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11229",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Janiger",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Oscar_Janiger) dbo:birthDate o'<1918-2-8>",
+    "2" : "s(Oscar_Janiger) dbo:deathDate o'<2001-8-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11230",
+  "entityUrl" : "http://dbpedia.org/resource/Oda_Nobutada",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Oda_Nobutada) dbo:birthDate o'<1557-1-1>",
+    "2" : "s(Oda_Nobutada) dbo:birthPlace o'<Owari_Province>",
+    "3" : "s(Oda_Nobutada) dbo:deathDate o'<1582-6-21>",
+    "4" : "s(Oda_Nobutada) dbo:deathPlace o'<Azuchi_Castle>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

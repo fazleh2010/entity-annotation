@@ -1,0 +1,76 @@
+[ {
+  "entityIndex" : "entity11343",
+  "entityUrl" : "http://dbpedia.org/resource/Ingo_Schulze",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Ingo_Schulze) dbo:birthDate o'<1962-12-15>",
+    "2" : "s(Ingo_Schulze) dbo:birthPlace o'<Dresden>",
+    "3" : "s(Ingo_Schulze) dbo:country o'<Germany>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11344",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_S._Struble",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Isaac_S._Struble) dbo:birthDate o'<1843-11-3>",
+    "2" : "s(Isaac_S._Struble) dbo:birthPlace o'<Fredericksburg,_Virginia>",
+    "3" : "s(Isaac_S._Struble) dbo:deathDate o'<1913-2-13>",
+    "4" : "s(Isaac_S._Struble) dbp:after o'<George_D._Perkins>",
+    "5" : "s(Isaac_S._Struble) dbp:before o'<District created>",
+    "6" : "s(Isaac_S._Struble) dbp:district o'<11>",
+    "7" : "s(Isaac_S._Struble) dbp:state o'<Iowa>",
+    "8" : "s(Isaac_S._Struble) dbp:years o'<1883>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11345",
+  "entityUrl" : "http://dbpedia.org/resource/Inta_K%C4%BCimovi%C4%8Da",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11346",
+  "entityUrl" : "http://dbpedia.org/resource/Isidore_Weiss",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Isidore_Weiss) dbo:birthDate o'<1867-1-1>",
+    "2" : "s(Isidore_Weiss) dbo:birthPlace o'<Marseille>",
+    "3" : "s(Isidore_Weiss) dbo:deathDate o'<1936-6-12>",
+    "4" : "s(Isidore_Weiss) dbo:deathPlace o'<Paris>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11347",
+  "entityUrl" : "http://dbpedia.org/resource/Indra_IV",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Indra_IV) dbo:activeYearsEndYear o'<0982>",
+    "2" : "s(Indra_IV) dbo:activeYearsStartYear o'<0973>",
+    "3" : "s(Indra_IV) dbo:birthDate o'<973-1-1>",
+    "4" : "s(Indra_IV) dbo:deathDate o'<982-1-1>",
+    "5" : "s(Indra_IV) dbo:predecessor o'<Karka_II>",
+    "6" : "s(Indra_IV) dbp:after o'<Tailapa_II>",
+    "7" : "s(Indra_IV) dbp:before o'<Karka_II>",
+    "8" : "s(Indra_IV) dbp:birthDate o'<973>",
+    "9" : "s(Indra_IV) dbp:deathDate o'<982>",
+    "10" : "s(Indra_IV) dbp:succession o'<Last Rashtrakuta King>",
+    "11" : "s(Indra_IV) dbp:title o'<Rashtrakuta>",
+    "12" : "s(Indra_IV) dbp:years o'<973>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11348",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Johnson_(businessman)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Ian_Johnson_(businessman)) dbo:birthDate o'<1949-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

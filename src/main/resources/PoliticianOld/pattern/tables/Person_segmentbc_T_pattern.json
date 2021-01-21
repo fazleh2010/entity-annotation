@@ -1,0 +1,55 @@
+[ {
+  "entityIndex" : "entity14519",
+  "entityUrl" : "http://dbpedia.org/resource/Thors_Hans_Hansson",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Thors_Hans_Hansson) dbo:birthDate o'<1950-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14520",
+  "entityUrl" : "http://dbpedia.org/resource/Tian_Jun",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Tian_Jun) dbo:birthDate o'<858-1-1>",
+    "2" : "s(Tian_Jun) dbo:deathDate o'<0903-12-30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14521",
+  "entityUrl" : "http://dbpedia.org/resource/Tim_Crookall",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14522",
+  "entityUrl" : "http://dbpedia.org/resource/Terry_Groves",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Terry_Groves) dbo:birthDate o'<1946-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14523",
+  "entityUrl" : "http://dbpedia.org/resource/Terry_Hayhurst",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Terry_Hayhurst) dbo:birthDate o'<1985-3-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14524",
+  "entityUrl" : "http://dbpedia.org/resource/Thomas_Triplett",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Thomas_Triplett) dbo:birthDate o'<1602-1-1>",
+    "2" : "s(Thomas_Triplett) dbo:deathDate o'<1670-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

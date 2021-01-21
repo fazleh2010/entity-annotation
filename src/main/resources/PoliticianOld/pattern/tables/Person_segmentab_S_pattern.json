@@ -1,0 +1,118 @@
+[ {
+  "entityIndex" : "entity10913",
+  "entityUrl" : "http://dbpedia.org/resource/Stanley_Finch",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Stanley_Finch) dbo:birthDate o'<1872-8-20>",
+    "2" : "s(Stanley_Finch) dbo:birthPlace o'<Monticello,_New_York>",
+    "3" : "s(Stanley_Finch) dbo:deathDate o'<1951-1-1>",
+    "4" : "s(Stanley_Finch) dbp:after o'<A._Bruce_Bielaski>",
+    "5" : "s(Stanley_Finch) dbp:before o'<New creation>",
+    "6" : "s(Stanley_Finch) dbp:title o'<Director of the Bureau of Investigation>",
+    "7" : "s(Stanley_Finch) dbp:years o'<1908>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10914",
+  "entityUrl" : "http://dbpedia.org/resource/Sharon_Carstairs",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Sharon_Carstairs) dbo:birthDate o'<1942-04-26>",
+    "2" : "s(Sharon_Carstairs) dbo:birthDate o'<1942-4-26>",
+    "3" : "s(Sharon_Carstairs) dbo:birthPlace o'<City_of_Halifax>",
+    "4" : "s(Sharon_Carstairs) dbo:birthPlace o'<Nova_Scotia>",
+    "5" : "s(Sharon_Carstairs) dbo:birthPlace o'<Halifax,_Nova_Scotia>",
+    "6" : "s(Sharon_Carstairs) dbo:office o'<Leader of theManitoba Liberal Party>",
+    "7" : "s(Sharon_Carstairs) dbo:office o'<Member of theLegislative Assembly of ManitobaforRiver Heights>",
+    "8" : "s(Sharon_Carstairs) dbo:office o'<Canadian Senator>",
+    "9" : "s(Sharon_Carstairs) dbo:office o'<Leader of the Opposition in theLegislative Assembly of Manitoba>",
+    "10" : "s(Sharon_Carstairs) dbo:otherParty o'<Manitoba_Liberal_Party>",
+    "11" : "s(Sharon_Carstairs) dbo:party o'<Liberal_Party_of_Canada>",
+    "12" : "s(Sharon_Carstairs) dbo:portfolio o'<Federal:>",
+    "13" : "s(Sharon_Carstairs) dbo:portfolio o'<Minister with Special Responsibility for Palliative Care (2001-2003)>",
+    "14" : "s(Sharon_Carstairs) dbo:portfolio o'<Leader of the Government in the Senate (2001-2003)>",
+    "15" : "s(Sharon_Carstairs) dbo:portfolio o'<Deputy Leader of the Government in the Senate (1997-1999)>",
+    "16" : "s(Sharon_Carstairs) dbo:predecessor o'<Warren_Steen>",
+    "17" : "s(Sharon_Carstairs) dbo:predecessor o'<Doug_Lauchlan>",
+    "18" : "s(Sharon_Carstairs) dbo:predecessor o'<Gary_Filmon>",
+    "19" : "s(Sharon_Carstairs) dbo:region o'<Manitoba>",
+    "20" : "s(Sharon_Carstairs) dbo:relation o'<Harold_Connolly>",
+    "21" : "s(Sharon_Carstairs) dbo:successor o'<Mike_Radcliffe>",
+    "22" : "s(Sharon_Carstairs) dbo:successor o'<Paul_Edwards_(politician)>",
+    "23" : "s(Sharon_Carstairs) dbo:successor o'<Gary_Doer>",
+    "24" : "s(Sharon_Carstairs) dbo:termPeriod o'<Sharon_Carstairs__1>",
+    "25" : "s(Sharon_Carstairs) dbo:termPeriod o'<Sharon_Carstairs__2>",
+    "26" : "s(Sharon_Carstairs) dbo:termPeriod o'<Sharon_Carstairs__3>",
+    "27" : "s(Sharon_Carstairs) dbo:termPeriod o'<Sharon_Carstairs__4>",
+    "28" : "s(Sharon_Carstairs) dbp:appointed o'<Jean_ChrÃ©tien>",
+    "29" : "s(Sharon_Carstairs) dbp:honorificPrefix o'<The_Honourable>",
+    "30" : "s(Sharon_Carstairs) dbp:post o'<Leader_of_the_Government_in_the_Senate_(Canada)>",
+    "31" : "s(Sharon_Carstairs) dbp:post1followed o'<Jack_Austin_(politician)>",
+    "32" : "s(Sharon_Carstairs) dbp:post1preceded o'<Bernie_Boudreau>",
+    "33" : "s(Sharon_Carstairs) dbp:post1years o'<2001>",
+    "34" : "s(Sharon_Carstairs) dbp:termEnd o'<1990>",
+    "35" : "s(Sharon_Carstairs) dbp:termEnd o'<1993>",
+    "36" : "s(Sharon_Carstairs) dbp:termEnd o'<1994>",
+    "37" : "s(Sharon_Carstairs) dbp:termStart o'<1984>",
+    "38" : "s(Sharon_Carstairs) dbp:termStart o'<1986>",
+    "39" : "s(Sharon_Carstairs) dbp:termStart o'<1988>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10915",
+  "entityUrl" : "http://dbpedia.org/resource/Sokuhi_Nyoitsu",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Sokuhi_Nyoitsu) dbo:birthDate o'<1616-0-0>",
+    "2" : "s(Sokuhi_Nyoitsu) dbo:birthPlace o'<Fuzhou>",
+    "3" : "s(Sokuhi_Nyoitsu) dbo:deathDate o'<1671-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10916",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Scheidt",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Samuel_Scheidt) dbo:birthDate o'<1587-11-4>",
+    "2" : "s(Samuel_Scheidt) dbo:birthPlace o'<Halle_(Saale)>",
+    "3" : "s(Samuel_Scheidt) dbo:deathDate o'<1654-3-24>",
+    "4" : "s(Samuel_Scheidt) dbo:deathPlace o'<Halle_(Saale)>",
+    "5" : "s(Samuel_Scheidt) dbp:cname o'<Samuel Scheidt>",
+    "6" : "s(Samuel_Scheidt) dbp:id o'<Scheidt, Samuel>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(samuel scheidt=Samuel_Scheidt) [born in ] o'<halle=Halle_(Saale)>",
+    "4" : "s(samuel scheidt=Samuel_Scheidt) [lost his job of ] o'<halle=Halle_(Saale)>"
+  },
+  "abstract" : {
+    "1" : "scheidt<Samuel_Scheidt> was born in halle<Halle_(Saale)>, and after early studies there, samuel scheidt<Samuel_Scheidt> went to amsterdam to study with sweelinck, the distinguished dutch composer, whose work had a clear influence on scheidt<Samuel_Scheidt>'s style\n",
+    "4" : "when samuel scheidt<Samuel_Scheidt> lost his job because of wallenstein, samuel scheidt<Samuel_Scheidt> was appointed in 1628 as musical director of three churches in halle<Halle_(Saale)>, including the market church\n"
+  }
+}, {
+  "entityIndex" : "entity10917",
+  "entityUrl" : "http://dbpedia.org/resource/Saint_Wenna",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Saint_Wenna) dbo:birthDate o'<470-0-0>",
+    "2" : "s(Saint_Wenna) dbo:birthPlace o'<Brycheiniog>",
+    "3" : "s(Saint_Wenna) dbo:deathDate o'<0544-10-18>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10918",
+  "entityUrl" : "http://dbpedia.org/resource/Silvestre_Revueltas",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Silvestre_Revueltas) dbo:birthDate o'<1899-12-31>",
+    "2" : "s(Silvestre_Revueltas) dbo:birthPlace o'<Durango>",
+    "3" : "s(Silvestre_Revueltas) dbo:deathDate o'<1940-10-5>",
+    "4" : "s(Silvestre_Revueltas) dbo:deathPlace o'<Mexico_City>",
+    "5" : "s(Silvestre_Revueltas) dbo:imdbId o'<0720956>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

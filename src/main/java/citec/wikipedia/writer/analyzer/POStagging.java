@@ -42,9 +42,9 @@ public class POStagging {
             Integer total = DBpediaEntitys.size();
             Integer count = 0;
             for (DBpediaEntity dbpediaEntity : DBpediaEntitys) {
-                //System.out.println();
-                //System.out.println(subject + " count=" + count + " total=" + total + " " + fileName + "........................");
-                //System.out.println("entity:" + dbpediaEntity.getEntityUrl());
+                 System.out.println();
+                 System.out.println(" count=" + count + " total=" + total + " " + fileName + "........................");
+                 System.out.println("entity:" + dbpediaEntity.getEntityUrl());
                 String text = dbpediaEntity.getText();
                 if (text.length() < 10) {
                     continue;

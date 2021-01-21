@@ -1,0 +1,124 @@
+[ {
+  "entityIndex" : "entity11395",
+  "entityUrl" : "http://dbpedia.org/resource/Paolo_Paruta",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Paolo_Paruta) dbo:birthDate o'<1540-5-14>",
+    "2" : "s(Paolo_Paruta) dbo:birthPlace o'<Venice>",
+    "3" : "s(Paolo_Paruta) dbo:deathDate o'<1598-12-6>",
+    "4" : "s(Paolo_Paruta) dbo:deathPlace o'<Venice>",
+    "5" : "s(Paolo_Paruta) dbp:volume o'<11>",
+    "6" : "s(Paolo_Paruta) dbp:volume o'<20>",
+    "7" : "s(Paolo_Paruta) dbp:wstitle o'<Paolo Paruta>",
+    "8" : "s(Paolo_Paruta) dbp:wstitle o'<Paruta, Paolo>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11396",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Musimu",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Patrick_Musimu) dbo:birthDate o'<1970-10-12>",
+    "2" : "s(Patrick_Musimu) dbo:birthPlace o'<Kinshasa>",
+    "3" : "s(Patrick_Musimu) dbo:deathDate o'<2011-7-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11397",
+  "entityUrl" : "http://dbpedia.org/resource/Pellegrino_Artusi",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Pellegrino_Artusi) dbo:birthDate o'<1820-8-4>",
+    "2" : "s(Pellegrino_Artusi) dbo:birthPlace o'<Forlimpopoli>",
+    "3" : "s(Pellegrino_Artusi) dbo:deathDate o'<1911-3-30>",
+    "4" : "s(Pellegrino_Artusi) dbo:deathPlace o'<Florence>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11398",
+  "entityUrl" : "http://dbpedia.org/resource/Patricio_Buenrostro_Gilhuys",
+  "dboClass" : "Person_segmentae",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11399",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Kangas",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Paul_Kangas) dbo:birthPlace o'<Houghton,_Michigan>",
+    "2" : "s(Paul_Kangas) dbo:education o'<University_of_Michigan>",
+    "3" : "s(Paul_Kangas) dbo:ethnicity o'<Finnish_American>",
+    "4" : "s(Paul_Kangas) dbo:occupation o'<Paul_Kangas__1>",
+    "5" : "s(Paul_Kangas) dbp:credits o'<Co-anchor of Nightly Business Report>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11400",
+  "entityUrl" : "http://dbpedia.org/resource/Pat_Eddery",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Pat_Eddery) dbo:award o'<British_flat_racing_Champion_Jockey>",
+    "2" : "s(Pat_Eddery) dbo:birthDate o'<1952-03-18>",
+    "3" : "s(Pat_Eddery) dbo:birthDate o'<1952-3-18>",
+    "4" : "s(Pat_Eddery) dbo:birthPlace o'<County_Kildare>",
+    "5" : "s(Pat_Eddery) dbo:birthPlace o'<Newbridge,_County_Kildare>",
+    "6" : "s(Pat_Eddery) dbo:deathDate o'<2015-11-10>",
+    "7" : "s(Pat_Eddery) dbo:deathPlace o'<Aylesbury>",
+    "8" : "s(Pat_Eddery) dbo:honours o'<Pat_Eddery_Stakes>",
+    "9" : "s(Pat_Eddery) dbo:honours o'<Order_of_the_British_Empire>",
+    "10" : "s(Pat_Eddery) dbo:occupation o'<Jockey>",
+    "11" : "s(Pat_Eddery) dbo:race o'<Epsom_Oaks>",
+    "12" : "s(Pat_Eddery) dbo:race o'<1000_Guineas>",
+    "13" : "s(Pat_Eddery) dbo:race o'<2000_Guineas>",
+    "14" : "s(Pat_Eddery) dbo:race o'<Epsom_Derby>",
+    "15" : "s(Pat_Eddery) dbo:race o'<St_Leger_Stakes>",
+    "16" : "s(Pat_Eddery) dbo:race o'<British_Classic_Races>",
+    "17" : "s(Pat_Eddery) dbo:raceHorse o'<Silver_Patriarch>",
+    "18" : "s(Pat_Eddery) dbo:raceHorse o'<Rainbow_Quest_(horse)>",
+    "19" : "s(Pat_Eddery) dbo:raceHorse o'<Moonax>",
+    "20" : "s(Pat_Eddery) dbo:raceHorse o'<Grundy_(horse)>",
+    "21" : "s(Pat_Eddery) dbo:raceHorse o'<El_Gran_Senor>",
+    "22" : "s(Pat_Eddery) dbo:raceHorse o'<Storm_Bird>",
+    "23" : "s(Pat_Eddery) dbo:raceHorse o'<Moon_Madness>",
+    "24" : "s(Pat_Eddery) dbo:raceHorse o'<Scintillate_(horse)>",
+    "25" : "s(Pat_Eddery) dbo:raceHorse o'<Kings_Lake_(horse)>",
+    "26" : "s(Pat_Eddery) dbo:raceHorse o'<Detroit_(horse)>",
+    "27" : "s(Pat_Eddery) dbo:raceHorse o'<Assert_(horse)>",
+    "28" : "s(Pat_Eddery) dbo:raceHorse o'<Bosra_Sham>",
+    "29" : "s(Pat_Eddery) dbo:raceHorse o'<Lady_Carla>",
+    "30" : "s(Pat_Eddery) dbo:raceHorse o'<Polygamy_(horse)>",
+    "31" : "s(Pat_Eddery) dbo:raceHorse o'<Toulon_(horse)>",
+    "32" : "s(Pat_Eddery) dbo:raceHorse o'<Golden_Fleece_(horse)>",
+    "33" : "s(Pat_Eddery) dbo:raceHorse o'<Dancing_Brave>",
+    "34" : "s(Pat_Eddery) dbo:raceHorse o'<Lomond_(horse)>",
+    "35" : "s(Pat_Eddery) dbo:raceHorse o'<Warning_(horse)>",
+    "36" : "s(Pat_Eddery) dbo:raceHorse o'<Zafonic>",
+    "37" : "s(Pat_Eddery) dbo:raceHorse o'<Quest_for_Fame_(horse)>",
+    "38" : "s(Pat_Eddery) dbp:year o'<1974>",
+    "39" : "s(Pat_Eddery) dbp:year o'<1975>",
+    "40" : "s(Pat_Eddery) dbp:year o'<1979>",
+    "41" : "s(Pat_Eddery) dbp:year o'<1982>",
+    "42" : "s(Pat_Eddery) dbp:year o'<1983>",
+    "43" : "s(Pat_Eddery) dbp:year o'<1984>",
+    "44" : "s(Pat_Eddery) dbp:year o'<1986>",
+    "45" : "s(Pat_Eddery) dbp:year o'<1990>",
+    "46" : "s(Pat_Eddery) dbp:year o'<1991>",
+    "47" : "s(Pat_Eddery) dbp:year o'<1993>",
+    "48" : "s(Pat_Eddery) dbp:year o'<1994>",
+    "49" : "s(Pat_Eddery) dbp:year o'<1996>",
+    "50" : "s(Pat_Eddery) dbp:year o'<1997>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(pat eddery=Pat_Eddery) [rode three winners of ] o'<epsom derby=Epsom_Derby>",
+    "4" : "s(pat eddery=Pat_Eddery) [rode winners of 4632 ] o'<sir=Order_of_the_British_Empire>"
+  },
+  "abstract" : {
+    "2" : "pat eddery<Pat_Eddery> rode three winners of the epsom derby<Epsom_Derby>, and was champion jockey<British_flat_racing_Champion_Jockey> on eleven occasions\n",
+    "4" : "pat eddery<Pat_Eddery> rode the winners of 4,632 british flat races, a figure exceeded only by sir<Order_of_the_British_Empire> gordon richards\n"
+  }
+} ]

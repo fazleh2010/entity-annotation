@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity11903",
+  "entityUrl" : "http://dbpedia.org/resource/Uriel_von_Gemmingen",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Uriel_von_Gemmingen) dbo:birthDate o'<1468-1-1>",
+    "2" : "s(Uriel_von_Gemmingen) dbo:birthPlace o'<Q20011059>",
+    "3" : "s(Uriel_von_Gemmingen) dbo:deathDate o'<1514-2-9>",
+    "4" : "s(Uriel_von_Gemmingen) dbo:deathPlace o'<Mainz>",
+    "5" : "s(Uriel_von_Gemmingen) dbp:title o'<Archbishop_of_Mainz>",
+    "6" : "s(Uriel_von_Gemmingen) dbp:years o'<1508>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11904",
+  "entityUrl" : "http://dbpedia.org/resource/Udayan_Mukherjee",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11905",
+  "entityUrl" : "http://dbpedia.org/resource/Uale_Mai",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Uale_Mai) dbo:birthDate o'<1978-7-20>",
+    "2" : "s(Uale_Mai) dbo:height o'<176.0>",
+    "3" : "s(Uale_Mai) dbo:height o'<1.76>",
+    "4" : "s(Uale_Mai) dbo:weight o'<88.0>",
+    "5" : "s(Uale_Mai) dbo:weight o'<88000.0>",
+    "6" : "s(Uale_Mai) dbp:birthDate o'<1978-07-20>",
+    "7" : "s(Uale_Mai) dbp:birthPlace o'<Samoa>",
+    "8" : "s(Uale_Mai) dbp:ruAmateurclubs o'<Wainuiomata_RFC>",
+    "9" : "s(Uale_Mai) dbp:ruCurrentposition o'<Fly_half>",
+    "10" : "s(Uale_Mai) dbp:ruCurrentteam o'<CR_El_Salvador>",
+    "11" : "s(Uale_Mai) dbp:ruPosition o'<Fly_half>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(uale mai=Uale_Mai) [former captain of ] o'<samoa=Samoa>",
+    "4" : "s(uale mai=Uale_Mai) [joined ] o'<cr el salvador=CR_El_Salvador>"
+  },
+  "abstract" : {
+    "2" : "uale mai<Uale_Mai> is a former captain of the samoa<Samoa> sevens team which represent samoa<Samoa> internationally in the irb sevens world series\n",
+    "4" : "in 2010, uale mai<Uale_Mai> joined the cr el salvador<CR_El_Salvador>\n"
+  }
+}, {
+  "entityIndex" : "entity11906",
+  "entityUrl" : "http://dbpedia.org/resource/Ustad_Daman",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Ustad_Daman) dbo:birthDate o'<1911-9-0>",
+    "2" : "s(Ustad_Daman) dbo:birthName o'<Chiragh Deen>",
+    "3" : "s(Ustad_Daman) dbo:deathDate o'<1984-12-3>",
+    "4" : "s(Ustad_Daman) dbo:deathPlace o'<Pakistan>",
+    "5" : "s(Ustad_Daman) dbo:deathPlace o'<Lahore>",
+    "6" : "s(Ustad_Daman) dbo:deathPlace o'<Punjab_(Pakistan)>",
+    "7" : "s(Ustad_Daman) dbo:nationality o'<Pakistani>",
+    "8" : "s(Ustad_Daman) dbo:occupation o'<Punjabi_poet>",
+    "9" : "s(Ustad_Daman) dbo:occupation o'<Mysticism>",
+    "10" : "s(Ustad_Daman) dbp:birthDate o'<September 1911>",
+    "11" : "s(Ustad_Daman) dbp:deathDate o'<3>",
+    "12" : "s(Ustad_Daman) dbp:poetryBooks o'<'Daman dey Moti'>",
+    "13" : "s(Ustad_Daman) dbp:text o'<Pakistan diyaan mujaan hee maujaan chaarey passay faujaan hee faujan.>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(ustad daman=Ustad_Daman) [celebrated punjabi ] o'<india=Pakistan>",
+    "8" : "s(ustad daman=Ustad_Daman) [goes on PRONOUN introduced ] o'<pakistan=Pakistan>",
+    "17" : "s(ustad daman=Ustad_Daman) [wrote still widely quoted ] o'<punjab=Punjab_(Pakistan)>"
+  },
+  "abstract" : {
+    "2" : "ustad daman<Ustad_Daman> was the most celebrated punjabi language poet at the time of the partition of british india<Pakistan> in 1947\n",
+    "8" : ") ustad daman<Ustad_Daman> goes on: ustad daman<Ustad_Daman> was introduced into politics by mian iftikharuddin, a known left-leaning politician, a member of pakistan<Pakistan> movement and owner of pakistan<Pakistan> times - a major newspaper in lahore<Lahore>, pakistan<Pakistan>\n",
+    "17" : "the poems ustad daman<Ustad_Daman> wrote are still widely quoted in the punjab<Punjab_(Pakistan)> as well as in other regions of pakistan<Pakistan>\n"
+  }
+}, {
+  "entityIndex" : "entity11907",
+  "entityUrl" : "http://dbpedia.org/resource/Uli_II_(mansa)",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Uli_II_(mansa)) dbo:wikiPageRedirects o'<Uli_II>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11908",
+  "entityUrl" : "http://dbpedia.org/resource/Ugolino_III_Trinci",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Ugolino_III_Trinci) dbo:birthPlace o'<Foligno>",
+    "2" : "s(Ugolino_III_Trinci) dbo:deathDate o'<1415-1-1>",
+    "3" : "s(Ugolino_III_Trinci) dbo:deathPlace o'<Foligno>",
+    "4" : "s(Ugolino_III_Trinci) dbp:title o'<Lord of Foligno>",
+    "5" : "s(Ugolino_III_Trinci) dbp:years o'<1386>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

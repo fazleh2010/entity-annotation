@@ -1,0 +1,11 @@
+[ {
+  "entityIndex" : "entity11459",
+  "entityUrl" : "http://dbpedia.org/resource/'Illish",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s('Illish) dbo:birthDate o'<1802-0-0>",
+    "2" : "s('Illish) dbo:deathDate o'<1882-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

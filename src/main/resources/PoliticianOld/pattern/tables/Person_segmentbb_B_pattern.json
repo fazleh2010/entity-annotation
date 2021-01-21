@@ -1,0 +1,101 @@
+[ {
+  "entityIndex" : "entity14248",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_Moir",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14249",
+  "entityUrl" : "http://dbpedia.org/resource/Bo%C4%8Dek_II_of_Pod%C4%9Bbrady",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14250",
+  "entityUrl" : "http://dbpedia.org/resource/Bertram_Stuart_Straus",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Bertram_Stuart_Straus) dbo:birthDate o'<1867-3-17>",
+    "2" : "s(Bertram_Stuart_Straus) dbo:birthPlace o'<Manchester>",
+    "3" : "s(Bertram_Stuart_Straus) dbo:deathDate o'<1933-8-26>",
+    "4" : "s(Bertram_Stuart_Straus) dbp:after o'<Harry_Levy-Lawson,_1st_Viscount_Burnham>",
+    "5" : "s(Bertram_Stuart_Straus) dbp:before o'<Harry_Levy-Lawson,_1st_Viscount_Burnham>",
+    "6" : "s(Bertram_Stuart_Straus) dbp:candidate o'<Thomas_Dewar,_1st_Baron_Dewar>",
+    "7" : "s(Bertram_Stuart_Straus) dbp:candidate o'<Harry_Levy-Lawson,_1st_Viscount_Burnham>",
+    "8" : "s(Bertram_Stuart_Straus) dbp:candidate o'<Bertram Stuart Straus>",
+    "9" : "s(Bertram_Stuart_Straus) dbp:change o'<-14.7>",
+    "10" : "s(Bertram_Stuart_Straus) dbp:change o'<-5.6>",
+    "11" : "s(Bertram_Stuart_Straus) dbp:change o'<-2.3>",
+    "12" : "s(Bertram_Stuart_Straus) dbp:change o'<-2>",
+    "13" : "s(Bertram_Stuart_Straus) dbp:change o'<-0.5>",
+    "14" : "s(Bertram_Stuart_Straus) dbp:change o'<+2.0>",
+    "15" : "s(Bertram_Stuart_Straus) dbp:change o'<+0.5>",
+    "16" : "s(Bertram_Stuart_Straus) dbp:change o'<+2.3>",
+    "17" : "s(Bertram_Stuart_Straus) dbp:change o'<+5.6>",
+    "18" : "s(Bertram_Stuart_Straus) dbp:change o'<+14.7>",
+    "19" : "s(Bertram_Stuart_Straus) dbp:party o'<Conservative Party>",
+    "20" : "s(Bertram_Stuart_Straus) dbp:party o'<Liberal Party>",
+    "21" : "s(Bertram_Stuart_Straus) dbp:party o'<Liberal Unionist Party>",
+    "22" : "s(Bertram_Stuart_Straus) dbp:percentage o'<44.3>",
+    "23" : "s(Bertram_Stuart_Straus) dbp:percentage o'<48.6>",
+    "24" : "s(Bertram_Stuart_Straus) dbp:percentage o'<49.1>",
+    "25" : "s(Bertram_Stuart_Straus) dbp:percentage o'<49.4>",
+    "26" : "s(Bertram_Stuart_Straus) dbp:percentage o'<49.9>",
+    "27" : "s(Bertram_Stuart_Straus) dbp:percentage o'<50.1>",
+    "28" : "s(Bertram_Stuart_Straus) dbp:percentage o'<50.6>",
+    "29" : "s(Bertram_Stuart_Straus) dbp:percentage o'<50.9>",
+    "30" : "s(Bertram_Stuart_Straus) dbp:percentage o'<51.4>",
+    "31" : "s(Bertram_Stuart_Straus) dbp:percentage o'<55.7>",
+    "32" : "s(Bertram_Stuart_Straus) dbp:title o'<Member of Parliament for Mile End>",
+    "33" : "s(Bertram_Stuart_Straus) dbp:votes o'<1141>",
+    "34" : "s(Bertram_Stuart_Straus) dbp:votes o'<1437>",
+    "35" : "s(Bertram_Stuart_Straus) dbp:votes o'<2060>",
+    "36" : "s(Bertram_Stuart_Straus) dbp:votes o'<2138>",
+    "37" : "s(Bertram_Stuart_Straus) dbp:votes o'<2169>",
+    "38" : "s(Bertram_Stuart_Straus) dbp:votes o'<2170>",
+    "39" : "s(Bertram_Stuart_Straus) dbp:votes o'<2176>",
+    "40" : "s(Bertram_Stuart_Straus) dbp:votes o'<2275>",
+    "41" : "s(Bertram_Stuart_Straus) dbp:votes o'<2295>",
+    "42" : "s(Bertram_Stuart_Straus) dbp:votes o'<2332>",
+    "43" : "s(Bertram_Stuart_Straus) dbp:years o'<1906>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14251",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Borger",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Bill_Borger) dbo:birthDate o'<1974-12-15>",
+    "2" : "s(Bill_Borger) dbo:birthPlace o'<Edmonton>",
+    "3" : "s(Bill_Borger) dbo:birthYear o'<1974>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14252",
+  "entityUrl" : "http://dbpedia.org/resource/Bill_Downey",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Bill_Downey) dbo:birthDate o'<1923-11-11>",
+    "2" : "s(Bill_Downey) dbo:birthPlace o'<Shorewood,_Wisconsin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14253",
+  "entityUrl" : "http://dbpedia.org/resource/Bizunesh_Deba",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Bizunesh_Deba) dbo:birthDate o'<1987-09-08>",
+    "2" : "s(Bizunesh_Deba) dbo:birthDate o'<1987-9-8>",
+    "3" : "s(Bizunesh_Deba) dbo:birthPlace o'<Ethiopia>",
+    "4" : "s(Bizunesh_Deba) dbp:country o'<Ethiopia>",
+    "5" : "s(Bizunesh_Deba) dbp:imagesize o'<270>",
+    "6" : "s(Bizunesh_Deba) dbp:resides o'<The Bronx, New York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity10653",
+  "entityUrl" : "http://dbpedia.org/resource/C%C3%A9sar_Costa",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10654",
+  "entityUrl" : "http://dbpedia.org/resource/Caradoc_Evans",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Caradoc_Evans) dbo:birthDate o'<1878-12-31>",
+    "2" : "s(Caradoc_Evans) dbo:birthPlace o'<Llanfihangel-ar-Arth>",
+    "3" : "s(Caradoc_Evans) dbo:deathDate o'<1945-1-11>",
+    "4" : "s(Caradoc_Evans) dbp:id o'<Evans,+Caradoc>",
+    "5" : "s(Caradoc_Evans) dbp:name o'<Caradoc Evans>",
+    "6" : "s(Caradoc_Evans) dbp:sname o'<Caradoc Evans>",
+    "7" : "s(Caradoc_Evans) dbp:sopt o'<t>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10655",
+  "entityUrl" : "http://dbpedia.org/resource/Carmelo_Giaquinta",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Carmelo_Giaquinta) dbo:birthDate o'<1930-6-22>",
+    "2" : "s(Carmelo_Giaquinta) dbo:birthPlace o'<Buenos_Aires>",
+    "3" : "s(Carmelo_Giaquinta) dbo:deathDate o'<2011-6-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10656",
+  "entityUrl" : "http://dbpedia.org/resource/Charles_Didelot",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Charles_Didelot) dbo:birthDate o'<1767-3-27>",
+    "2" : "s(Charles_Didelot) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Charles_Didelot) dbo:deathDate o'<1837-11-7>",
+    "4" : "s(Charles_Didelot) dbo:deathPlace o'<Kiev>",
+    "5" : "s(Charles_Didelot) dbp:en o'<Ruslan and Ludmila>",
+    "6" : "s(Charles_Didelot) dbp:en o'<Adam Glushkovsky>",
+    "7" : "s(Charles_Didelot) dbp:en o'<Auguste Poireau>",
+    "8" : "s(Charles_Didelot) dbp:en o'<Friedrich Scholz>",
+    "9" : "s(Charles_Didelot) dbp:enText o'<Auguste>",
+    "10" : "s(Charles_Didelot) dbp:enText o'<Ruslan and Ludmila>",
+    "11" : "s(Charles_Didelot) dbp:enText o'<Adam Glushkovsky>",
+    "12" : "s(Charles_Didelot) dbp:enText o'<Friedrich Scholz>",
+    "13" : "s(Charles_Didelot) dbp:lang o'<fr>",
+    "14" : "s(Charles_Didelot) dbp:lang o'<ru>",
+    "15" : "s(Charles_Didelot) dbp:langTitle o'<Auguste Poireau>",
+    "16" : "s(Charles_Didelot) dbp:langTitle o'<Ð“Ð»ÑƒÑˆÐºÐ¾Ð²Ñ�ÐºÐ¸Ð¹, Ð�Ð´Ð°Ð¼ ÐŸÐ°Ð²Ð»Ð¾Ð²Ð¸Ñ‡>",
+    "17" : "s(Charles_Didelot) dbp:langTitle o'<Ð ÑƒÑ�Ð»Ð°Ð½ Ð¸ Ð›ÑŽÐ´Ð¼Ð¸Ð»Ð°>",
+    "18" : "s(Charles_Didelot) dbp:langTitle o'<Ð¨Ð¾Ð»ÑŒÑ†, Ð¤Ñ€Ð¸Ð´Ñ€Ð¸Ñ… Ð•Ñ„Ð¸Ð¼Ð¾Ð²Ð¸Ñ‡>",
+    "19" : "s(Charles_Didelot) dbp:verticalAlign o'<sup>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10657",
+  "entityUrl" : "http://dbpedia.org/resource/Carlo_Blasis",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Carlo_Blasis) dbo:birthDate o'<1797-11-4>",
+    "2" : "s(Carlo_Blasis) dbo:birthPlace o'<Naples>",
+    "3" : "s(Carlo_Blasis) dbo:deathDate o'<1878-1-15>",
+    "4" : "s(Carlo_Blasis) dbo:deathPlace o'<Cernobbio>",
+    "5" : "s(Carlo_Blasis) dbo:nationality o'<Italy>",
+    "6" : "s(Carlo_Blasis) dbp:en o'<Sofia Fuoco>",
+    "7" : "s(Carlo_Blasis) dbp:enText o'<Sofia Fuoco>",
+    "8" : "s(Carlo_Blasis) dbp:lang o'<ru>",
+    "9" : "s(Carlo_Blasis) dbp:langTitle o'<Ð¡Ð¾Ñ„Ð¸Ñ� Ð¤ÑƒÐ¾ÐºÐ¾>",
+    "10" : "s(Carlo_Blasis) dbp:verticalAlign o'<sup>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10658",
+  "entityUrl" : "http://dbpedia.org/resource/Charlie_Martin",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Charlie_Martin) dbo:birthDate o'<1913-4-21>",
+    "2" : "s(Charlie_Martin) dbo:birthPlace o'<Abergavenny>",
+    "3" : "s(Charlie_Martin) dbo:deathDate o'<1998-2-19>",
+    "4" : "s(Charlie_Martin) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

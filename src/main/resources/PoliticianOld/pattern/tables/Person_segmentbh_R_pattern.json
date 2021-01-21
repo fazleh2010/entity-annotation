@@ -1,0 +1,62 @@
+[ {
+  "entityIndex" : "entity11399",
+  "entityUrl" : "http://dbpedia.org/resource/Rodman_W._Paul",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Rodman_W._Paul) dbo:birthDate o'<1912-1-1>",
+    "2" : "s(Rodman_W._Paul) dbo:birthPlace o'<Philadelphia>",
+    "3" : "s(Rodman_W._Paul) dbo:deathDate o'<1987-5-15>",
+    "4" : "s(Rodman_W._Paul) dbo:deathPlace o'<Pasadena,_California>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(rodman w. paul=Rodman_W._Paul) [known primarily ] o'<california=Pasadena,_California>"
+  },
+  "abstract" : {
+    "2" : "rodman w. paul<Rodman_W._Paul> was known primarily as a foremost authority on california<Pasadena,_California> mining and agricultural history\n"
+  }
+}, {
+  "entityIndex" : "entity11400",
+  "entityUrl" : "http://dbpedia.org/resource/Rom%C3%A1n_Padilla_Fierro",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11401",
+  "entityUrl" : "http://dbpedia.org/resource/Ra%C3%BAl_Paz_Alonzo",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11402",
+  "entityUrl" : "http://dbpedia.org/resource/Rosa_Elba_P%C3%A9rez",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11403",
+  "entityUrl" : "http://dbpedia.org/resource/Rob_Lake",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Rob_Lake) dbo:birthDate o'<1982-12-30>",
+    "2" : "s(Rob_Lake) dbo:birthPlace o'<Norman,_Oklahoma>",
+    "3" : "s(Rob_Lake) dbo:birthYear o'<1982>",
+    "4" : "s(Rob_Lake) dbo:occupation o'<Illusionist>",
+    "5" : "s(Rob_Lake) dbo:occupation o'<Magic_(illusion)>",
+    "6" : "s(Rob_Lake) dbo:occupation o'<Rob_Lake__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11404",
+  "entityUrl" : "http://dbpedia.org/resource/Rao_Yi",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Rao_Yi) dbo:birthDate o'<1962-1-1>",
+    "2" : "s(Rao_Yi) dbp:p o'<RÃ¡o YÃ¬>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

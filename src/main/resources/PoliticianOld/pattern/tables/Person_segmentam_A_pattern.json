@@ -1,0 +1,60 @@
+[ {
+  "entityIndex" : "entity11783",
+  "entityUrl" : "http://dbpedia.org/resource/Azar_Gat",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Azar_Gat) dbo:birthDate o'<1959-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11784",
+  "entityUrl" : "http://dbpedia.org/resource/Adam_Pi%C5%82sudski",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11785",
+  "entityUrl" : "http://dbpedia.org/resource/Artatama_II",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Artatama_II) dbo:birthDate o'<-1400-1-1>",
+    "2" : "s(Artatama_II) dbo:deathDate o'<-1400-1-1>",
+    "3" : "s(Artatama_II) dbp:title o'<Mitanni>",
+    "4" : "s(Artatama_II) dbp:years o'<late 14th century BC>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11786",
+  "entityUrl" : "http://dbpedia.org/resource/Artatama_I",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Artatama_I) dbp:title o'<Mitanni>",
+    "2" : "s(Artatama_I) dbp:years o'<late 15th century BC>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11787",
+  "entityUrl" : "http://dbpedia.org/resource/Antoni_Stankiewicz",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Antoni_Stankiewicz) dbo:birthDate o'<1935-10-1>",
+    "2" : "s(Antoni_Stankiewicz) dbp:deathstyle o'<none>",
+    "3" : "s(Antoni_Stankiewicz) dbp:dipstyle o'<The_Most_Reverend>",
+    "4" : "s(Antoni_Stankiewicz) dbp:name o'<Antoni Stankiewicz>",
+    "5" : "s(Antoni_Stankiewicz) dbp:offstyle o'<Your_Excellency>",
+    "6" : "s(Antoni_Stankiewicz) dbp:relstyle o'<Bishop>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11788",
+  "entityUrl" : "http://dbpedia.org/resource/Angela_Burt-Murray",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

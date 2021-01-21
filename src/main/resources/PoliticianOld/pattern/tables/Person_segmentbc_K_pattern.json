@@ -1,0 +1,103 @@
+[ {
+  "entityIndex" : "entity14465",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_O'Callaghan",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Karl_O'Callaghan) dbo:birthDate o'<1956-1-1>",
+    "2" : "s(Karl_O'Callaghan) dbp:awards o'<Australian_Police_Medal>",
+    "3" : "s(Karl_O'Callaghan) dbp:birthDate o'<1956>",
+    "4" : "s(Karl_O'Callaghan) dbp:birthPlace o'<England>",
+    "5" : "s(Karl_O'Callaghan) dbp:currentstatus o'<Commissioner of Police>",
+    "6" : "s(Karl_O'Callaghan) dbp:department o'<Western_Australia_Police>",
+    "7" : "s(Karl_O'Callaghan) dbp:honorificSuffix o'<Australian_Police_Medal>",
+    "8" : "s(Karl_O'Callaghan) dbp:name o'<Karl O'Callaghan>",
+    "9" : "s(Karl_O'Callaghan) dbp:rank o'<Commissioner>",
+    "10" : "s(Karl_O'Callaghan) dbp:rank o'<Superintendent>",
+    "11" : "s(Karl_O'Callaghan) dbp:rank o'<Assistant Commissioner>",
+    "12" : "s(Karl_O'Callaghan) dbp:rank o'<Senior Sergeant>",
+    "13" : "s(Karl_O'Callaghan) dbp:service o'<Western_Australia_Police>",
+    "14" : "s(Karl_O'Callaghan) dbp:serviceyears o'<1976>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14466",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Hong-jip",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Kim_Hong-jip) dbo:birthDate o'<1842-1-1>",
+    "2" : "s(Kim_Hong-jip) dbo:deathDate o'<1896-2-11>",
+    "3" : "s(Kim_Hong-jip) dbp:haja o'<é‡‘å®�é›†>",
+    "4" : "s(Kim_Hong-jip) dbp:hangul o'<ê¹€êµ‰ì§‘>",
+    "5" : "s(Kim_Hong-jip) dbp:hangul o'<ê¹€í™�ì§‘>",
+    "6" : "s(Kim_Hong-jip) dbp:hangulho o'<ë�„ì›�>",
+    "7" : "s(Kim_Hong-jip) dbp:hangulja o'<ê²½ëŠ¥>",
+    "8" : "s(Kim_Hong-jip) dbp:img o'<Kim Hong-jip.jpg>",
+    "9" : "s(Kim_Hong-jip) dbp:mr o'<Kim Hongjip>",
+    "10" : "s(Kim_Hong-jip) dbp:mrho o'<TowÅ�n>",
+    "11" : "s(Kim_Hong-jip) dbp:mrja o'<KyÅ�ngnÅ­ng>",
+    "12" : "s(Kim_Hong-jip) dbp:rr o'<Gim Hong-jip>",
+    "13" : "s(Kim_Hong-jip) dbp:rrho o'<Dowon>",
+    "14" : "s(Kim_Hong-jip) dbp:rrja o'<Gyeongneung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14467",
+  "entityUrl" : "http://dbpedia.org/resource/Kasia_Pisarek",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Kasia_Pisarek) dbo:alias o'<Katarina Pisarek; Katarzyna KrzyÅ¼agÃ³rska-Pisarek>",
+    "2" : "s(Kasia_Pisarek) dbo:birthPlace o'<Poland>",
+    "3" : "s(Kasia_Pisarek) dbo:birthPlace o'<Warsaw>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14468",
+  "entityUrl" : "http://dbpedia.org/resource/Katherine_Howell",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Katherine_Howell) dbo:country o'<Australia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14469",
+  "entityUrl" : "http://dbpedia.org/resource/Kase2",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Kase2) dbo:birthDate o'<1958-1-1>",
+    "2" : "s(Kase2) dbo:birthName o'<Real name: Jeff Brown>",
+    "3" : "s(Kase2) dbo:birthPlace o'<Harlem>",
+    "4" : "s(Kase2) dbo:birthPlace o'<New_York_City>",
+    "5" : "s(Kase2) dbo:country o'<United_States>",
+    "6" : "s(Kase2) dbo:deathDate o'<2011-8-14>",
+    "7" : "s(Kase2) dbo:deathPlace o'<Lincoln_Hospital_(Bronx)>",
+    "8" : "s(Kase2) dbo:deathPlace o'<Bronx,_New_York>",
+    "9" : "s(Kase2) dbo:field o'<Graffiti>",
+    "10" : "s(Kase2) dbp:birthDate o'<Date of birth: 1958>",
+    "11" : "s(Kase2) dbp:deathCause o'<Adenocarcinoma_of_the_lung>",
+    "12" : "s(Kase2) dbp:deathDate o'<14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14470",
+  "entityUrl" : "http://dbpedia.org/resource/Kerry_Fitzgerald",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Kerry_Fitzgerald) dbo:birthDate o'<1948-0-0>",
+    "2" : "s(Kerry_Fitzgerald) dbo:deathDate o'<1991-12-18>",
+    "3" : "s(Kerry_Fitzgerald) dbp:birthDate o'<1948>",
+    "4" : "s(Kerry_Fitzgerald) dbp:birthName o'<Kerry Victor Joseph>",
+    "5" : "s(Kerry_Fitzgerald) dbp:deathDate o'<1991-12-18>",
+    "6" : "s(Kerry_Fitzgerald) dbp:ruRefereeapps o'<26>",
+    "7" : "s(Kerry_Fitzgerald) dbp:ruRefereecomps o'<Test_match_(rugby_union)>",
+    "8" : "s(Kerry_Fitzgerald) dbp:ruRefereecomps o'<Rugby_World_Cup>",
+    "9" : "s(Kerry_Fitzgerald) dbp:ruRefereeyears o'<1984>",
+    "10" : "s(Kerry_Fitzgerald) dbp:ruRefereeyears o'<1987>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

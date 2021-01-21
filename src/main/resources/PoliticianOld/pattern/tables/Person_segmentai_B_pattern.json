@@ -1,0 +1,98 @@
+[ {
+  "entityIndex" : "entity11139",
+  "entityUrl" : "http://dbpedia.org/resource/Brian_McConnell,_Baron_McConnell",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Brian_McConnell,_Baron_McConnell) dbo:birthDate o'<1922-11-25>",
+    "2" : "s(Brian_McConnell,_Baron_McConnell) dbo:deathDate o'<2000-10-25>",
+    "3" : "s(Brian_McConnell,_Baron_McConnell) dbp:after o'<William_Craig_(Northern_Ireland_politician)>",
+    "4" : "s(Brian_McConnell,_Baron_McConnell) dbp:after o'<Billy_Boyd_(politician)>",
+    "5" : "s(Brian_McConnell,_Baron_McConnell) dbp:after o'<William_Kennedy_Fitzsimmons>",
+    "6" : "s(Brian_McConnell,_Baron_McConnell) dbp:after o'<James_Chichester-Clark>",
+    "7" : "s(Brian_McConnell,_Baron_McConnell) dbp:after o'<Richard_Ferguson_(politician)>",
+    "8" : "s(Brian_McConnell,_Baron_McConnell) dbp:after o'<Office vacant>",
+    "9" : "s(Brian_McConnell,_Baron_McConnell) dbp:before o'<Joseph_Morgan_(politician)>",
+    "10" : "s(Brian_McConnell,_Baron_McConnell) dbp:before o'<William_Craig_(Northern_Ireland_politician)>",
+    "11" : "s(Brian_McConnell,_Baron_McConnell) dbp:before o'<Terence_O'Neill>",
+    "12" : "s(Brian_McConnell,_Baron_McConnell) dbp:before o'<James_Chichester-Clark>",
+    "13" : "s(Brian_McConnell,_Baron_McConnell) dbp:before o'<John_Milne_Barbour>",
+    "14" : "s(Brian_McConnell,_Baron_McConnell) dbp:before o'<Newly created office>",
+    "15" : "s(Brian_McConnell,_Baron_McConnell) dbp:title o'<Minister_of_Health_and_Local_Government_(Northern_Ireland)>",
+    "16" : "s(Brian_McConnell,_Baron_McConnell) dbp:title o'<Minister_of_Home_Affairs_(Northern_Ireland)>",
+    "17" : "s(Brian_McConnell,_Baron_McConnell) dbp:title o'<Minister_of_Development_(Northern_Ireland)>",
+    "18" : "s(Brian_McConnell,_Baron_McConnell) dbp:title o'<Minister_and_Leader_of_the_House_of_Commons>",
+    "19" : "s(Brian_McConnell,_Baron_McConnell) dbp:title o'<Deputy Chairman of Ways and Means and Deputy Speaker of the Northern Ireland House of Commons>",
+    "20" : "s(Brian_McConnell,_Baron_McConnell) dbp:title o'<Member of Parliament of Northern Ireland for South Antrim>",
+    "21" : "s(Brian_McConnell,_Baron_McConnell) dbp:years o'<1951>",
+    "22" : "s(Brian_McConnell,_Baron_McConnell) dbp:years o'<1962>",
+    "23" : "s(Brian_McConnell,_Baron_McConnell) dbp:years o'<1963>",
+    "24" : "s(Brian_McConnell,_Baron_McConnell) dbp:years o'<1964>",
+    "25" : "s(Brian_McConnell,_Baron_McConnell) dbp:years o'<1966>",
+    "26" : "s(Brian_McConnell,_Baron_McConnell) dbp:years o'<1967>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11140",
+  "entityUrl" : "http://dbpedia.org/resource/Biraban",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Biraban) dbo:alias o'<John McGill>",
+    "2" : "s(Biraban) dbo:deathDate o'<1846-04-14>",
+    "3" : "s(Biraban) dbo:deathDate o'<1846-4-14>",
+    "4" : "s(Biraban) dbo:deathYear o'<1846>",
+    "5" : "s(Biraban) dbp:spouse o'<Patty>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11141",
+  "entityUrl" : "http://dbpedia.org/resource/Bobby_Perry",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Bobby_Perry) dbo:birthDate o'<1985-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11142",
+  "entityUrl" : "http://dbpedia.org/resource/Bouchard_IV_of_Avesnes",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Bouchard_IV_of_Avesnes) dbo:birthDate o'<1182-1-1>",
+    "2" : "s(Bouchard_IV_of_Avesnes) dbo:deathDate o'<1244-1-1>",
+    "3" : "s(Bouchard_IV_of_Avesnes) dbo:parent o'<James_of_Avesnes>",
+    "4" : "s(Bouchard_IV_of_Avesnes) dbo:spouse o'<Margaret_II_of_Flanders>",
+    "5" : "s(Bouchard_IV_of_Avesnes) dbp:birthDate o'<1182>",
+    "6" : "s(Bouchard_IV_of_Avesnes) dbp:deathDate o'<1244>",
+    "7" : "s(Bouchard_IV_of_Avesnes) dbp:imageSize o'<125>",
+    "8" : "s(Bouchard_IV_of_Avesnes) dbp:mother o'<Adela of Guise>",
+    "9" : "s(Bouchard_IV_of_Avesnes) dbp:nobleFamily o'<House_of_Avesnes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11143",
+  "entityUrl" : "http://dbpedia.org/resource/Baron_Omar_Rolf_von_Ehrenfels",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Baron_Omar_Rolf_von_Ehrenfels) dbo:birthDate o'<1901-4-28>",
+    "2" : "s(Baron_Omar_Rolf_von_Ehrenfels) dbo:birthPlace o'<Prague>",
+    "3" : "s(Baron_Omar_Rolf_von_Ehrenfels) dbo:deathDate o'<1980-2-7>",
+    "4" : "s(Baron_Omar_Rolf_von_Ehrenfels) dbo:deathPlace o'<NeckargemÃ¼nd>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11144",
+  "entityUrl" : "http://dbpedia.org/resource/Bob_Fraser_(TV_producer)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Bob_Fraser_(TV_producer)) dbo:birthDate o'<1945-1-1>",
+    "2" : "s(Bob_Fraser_(TV_producer)) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Bob_Fraser_(TV_producer)) dbo:deathDate o'<2011-7-12>",
+    "4" : "s(Bob_Fraser_(TV_producer)) dbo:deathPlace o'<Los_Angeles>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

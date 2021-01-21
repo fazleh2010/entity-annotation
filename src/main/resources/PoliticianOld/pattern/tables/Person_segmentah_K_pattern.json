@@ -1,0 +1,68 @@
+[ {
+  "entityIndex" : "entity11029",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Julius_Perleb",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Karl_Julius_Perleb) dbo:birthDate o'<1794-5-20>",
+    "2" : "s(Karl_Julius_Perleb) dbo:birthPlace o'<Konstanz>",
+    "3" : "s(Karl_Julius_Perleb) dbo:deathDate o'<1845-6-11>",
+    "4" : "s(Karl_Julius_Perleb) dbo:deathPlace o'<Freiburg_im_Breisgau>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11030",
+  "entityUrl" : "http://dbpedia.org/resource/Katie_King-Crowley",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Katie_King-Crowley) dbo:birthDate o'<1975-05-24>",
+    "2" : "s(Katie_King-Crowley) dbo:birthDate o'<1975-5-24>",
+    "3" : "s(Katie_King-Crowley) dbo:birthPlace o'<Salem,_New_Hampshire>",
+    "4" : "s(Katie_King-Crowley) dbp:almaMater o'<Brown_University>",
+    "5" : "s(Katie_King-Crowley) dbp:headercolor o'<lightsteelblue>",
+    "6" : "s(Katie_King-Crowley) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11031",
+  "entityUrl" : "http://dbpedia.org/resource/Kenneth_Macksey",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Kenneth_Macksey) dbo:birthDate o'<1923-7-1>",
+    "2" : "s(Kenneth_Macksey) dbo:deathDate o'<2005-11-30>",
+    "3" : "s(Kenneth_Macksey) dbo:nationality o'<United_Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11032",
+  "entityUrl" : "http://dbpedia.org/resource/Kalyan_Mukherjee_(politician)",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11033",
+  "entityUrl" : "http://dbpedia.org/resource/Karl_Fritsch",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Karl_Fritsch) dbo:birthDate o'<1864-2-24>",
+    "2" : "s(Karl_Fritsch) dbo:birthPlace o'<Vienna>",
+    "3" : "s(Karl_Fritsch) dbo:deathDate o'<1934-1-17>",
+    "4" : "s(Karl_Fritsch) dbo:deathPlace o'<Graz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11034",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Stitt",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Kevin_Stitt) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(Kevin_Stitt) dbo:imdbId o'<0830615>",
+    "3" : "s(Kevin_Stitt) dbp:name o'<Kevin Stitt>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

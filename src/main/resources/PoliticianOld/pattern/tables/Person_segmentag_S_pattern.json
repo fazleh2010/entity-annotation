@@ -1,0 +1,101 @@
+[ {
+  "entityIndex" : "entity10913",
+  "entityUrl" : "http://dbpedia.org/resource/Samuel_Twardowski",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Samuel_Twardowski) dbo:birthDate o'<1501-1-1>",
+    "2" : "s(Samuel_Twardowski) dbo:deathDate o'<1661-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10914",
+  "entityUrl" : "http://dbpedia.org/resource/Steven_Clemons",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Steven_Clemons) dbo:birthDate o'<1962-1-1>",
+    "2" : "s(Steven_Clemons) dbo:birthName o'<Steven Craig Clemons>",
+    "3" : "s(Steven_Clemons) dbo:birthPlace o'<Salina,_Kansas>",
+    "4" : "s(Steven_Clemons) dbo:birthYear o'<1962>",
+    "5" : "s(Steven_Clemons) dbo:imdbId o'<0166333>",
+    "6" : "s(Steven_Clemons) dbp:name o'<Steven C. Clemons>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10915",
+  "entityUrl" : "http://dbpedia.org/resource/Suleka_Mathew",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Suleka_Mathew) dbo:birthDate o'<2000-1-1>",
+    "2" : "s(Suleka_Mathew) dbo:birthPlace o'<Kerala>",
+    "3" : "s(Suleka_Mathew) dbp:date o'<January 2010>",
+    "4" : "s(Suleka_Mathew) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10916",
+  "entityUrl" : "http://dbpedia.org/resource/Simon_B._Conover",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Simon_B._Conover) dbo:birthDate o'<1840-09-23>",
+    "2" : "s(Simon_B._Conover) dbo:birthDate o'<1840-9-23>",
+    "3" : "s(Simon_B._Conover) dbo:birthPlace o'<New_Jersey>",
+    "4" : "s(Simon_B._Conover) dbo:birthPlace o'<Middlesex_County,_New_Jersey>",
+    "5" : "s(Simon_B._Conover) dbo:deathDate o'<1908-04-19>",
+    "6" : "s(Simon_B._Conover) dbo:deathDate o'<1908-4-19>",
+    "7" : "s(Simon_B._Conover) dbo:deathPlace o'<Port_Townsend,_Washington>",
+    "8" : "s(Simon_B._Conover) dbo:deathPlace o'<Washington_(U.S._state)>",
+    "9" : "s(Simon_B._Conover) dbo:office o'<Member of theFlorida House of Representatives>",
+    "10" : "s(Simon_B._Conover) dbo:office o'<4thState Treasurer of Florida>",
+    "11" : "s(Simon_B._Conover) dbo:party o'<Republican_Party_(United_States)>",
+    "12" : "s(Simon_B._Conover) dbo:predecessor o'<Thomas_W._Osborn>",
+    "13" : "s(Simon_B._Conover) dbo:predecessor o'<Charles_H._Austin>",
+    "14" : "s(Simon_B._Conover) dbo:region o'<Florida>",
+    "15" : "s(Simon_B._Conover) dbo:seniority o'<United States Senator>",
+    "16" : "s(Simon_B._Conover) dbo:successor o'<Wilkinson_Call>",
+    "17" : "s(Simon_B._Conover) dbo:successor o'<Charles_H._Foster>",
+    "18" : "s(Simon_B._Conover) dbo:termPeriod o'<Simon_B._Conover__1>",
+    "19" : "s(Simon_B._Conover) dbo:termPeriod o'<Simon_B._Conover__2>",
+    "20" : "s(Simon_B._Conover) dbp:after o'<Wilkinson_Call>",
+    "21" : "s(Simon_B._Conover) dbp:alongside o'<Abijah_Gilbert>",
+    "22" : "s(Simon_B._Conover) dbp:alongside o'<Charles_W._Jones>",
+    "23" : "s(Simon_B._Conover) dbp:before o'<Thomas_W._Osborn>",
+    "24" : "s(Simon_B._Conover) dbp:class o'<3>",
+    "25" : "s(Simon_B._Conover) dbp:state o'<Florida>",
+    "26" : "s(Simon_B._Conover) dbp:term o'<1873>",
+    "27" : "s(Simon_B._Conover) dbp:years o'<1873>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10917",
+  "entityUrl" : "http://dbpedia.org/resource/Sonali_Gulati",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Sonali_Gulati) dbo:imdbId o'<2116380>",
+    "2" : "s(Sonali_Gulati) dbp:name o'<Sonali Gulati>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10918",
+  "entityUrl" : "http://dbpedia.org/resource/Stefan_Glowacz",
+  "dboClass" : "Person_segmentag",
+  "triples" : {
+    "1" : "s(Stefan_Glowacz) dbo:birthDate o'<1965-1-1>",
+    "2" : "s(Stefan_Glowacz) dbo:birthPlace o'<Q2009100>",
+    "3" : "s(Stefan_Glowacz) dbp:birthDate o'<1965-03-22>",
+    "4" : "s(Stefan_Glowacz) dbp:birthPlace o'<Bavaria>",
+    "5" : "s(Stefan_Glowacz) dbp:birthPlace o'<Germany>",
+    "6" : "s(Stefan_Glowacz) dbp:nationality o'<Germany>",
+    "7" : "s(Stefan_Glowacz) dbp:retired o'<1993>",
+    "8" : "s(Stefan_Glowacz) dbp:showMedals o'<yes>",
+    "9" : "s(Stefan_Glowacz) dbp:typeofclimber o'<Sport_climbing>",
+    "10" : "s(Stefan_Glowacz) dbp:typeofclimber o'<Mountaineering>",
+    "11" : "s(Stefan_Glowacz) dbp:updated o'<2013-04-01>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

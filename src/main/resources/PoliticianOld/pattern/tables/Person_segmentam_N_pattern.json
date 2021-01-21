@@ -1,0 +1,58 @@
+[ {
+  "entityIndex" : "entity11861",
+  "entityUrl" : "http://dbpedia.org/resource/Nora_Gal",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Nora_Gal) dbo:birthDate o'<1912-4-14>",
+    "2" : "s(Nora_Gal) dbo:birthPlace o'<Odessa>",
+    "3" : "s(Nora_Gal) dbo:deathDate o'<1991-7-23>",
+    "4" : "s(Nora_Gal) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11862",
+  "entityUrl" : "http://dbpedia.org/resource/Nilofar_Bakhtiar",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Nilofar_Bakhtiar) dbo:birthDate o'<1957-9-9>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11863",
+  "entityUrl" : "http://dbpedia.org/resource/Nino_Anderlini",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Nino_Anderlini) dbo:birthDate o'<1926-3-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11864",
+  "entityUrl" : "http://dbpedia.org/resource/Nirupama_Mankad",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Nirupama_Mankad) dbo:birthDate o'<1947-1-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11865",
+  "entityUrl" : "http://dbpedia.org/resource/Nada_Birko",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Nada_Birko) dbo:birthDate o'<1931-11-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11866",
+  "entityUrl" : "http://dbpedia.org/resource/Nyla_Milleson",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Nyla_Milleson) dbo:birthDate o'<1962-9-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

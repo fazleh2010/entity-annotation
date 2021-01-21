@@ -1,0 +1,112 @@
+[ {
+  "entityIndex" : "entity11267",
+  "entityUrl" : "http://dbpedia.org/resource/Valentin_Mankin",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Valentin_Mankin) dbo:birthDate o'<1938-08-19>",
+    "2" : "s(Valentin_Mankin) dbo:birthDate o'<1938-8-19>",
+    "3" : "s(Valentin_Mankin) dbo:birthPlace o'<Kiev>",
+    "4" : "s(Valentin_Mankin) dbo:deathDate o'<2014-06-01>",
+    "5" : "s(Valentin_Mankin) dbo:deathDate o'<2014-6-1>",
+    "6" : "s(Valentin_Mankin) dbo:deathPlace o'<Viareggio>",
+    "7" : "s(Valentin_Mankin) dbp:deathPlace o'<Viareggio, Italy>",
+    "8" : "s(Valentin_Mankin) dbp:event o'<Finn_(dinghy)>",
+    "9" : "s(Valentin_Mankin) dbp:event o'<Star class>",
+    "10" : "s(Valentin_Mankin) dbp:event o'<Tempest class,>",
+    "11" : "s(Valentin_Mankin) dbp:nationality o'<Ukraine>",
+    "12" : "s(Valentin_Mankin) dbp:sport o'<Sailing>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11268",
+  "entityUrl" : "http://dbpedia.org/resource/Vera_Salvequart",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Vera_Salvequart) dbo:birthDate o'<1919-11-26>",
+    "2" : "s(Vera_Salvequart) dbo:deathDate o'<1947-6-26>",
+    "3" : "s(Vera_Salvequart) dbo:deathPlace o'<Hamelin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11269",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Aim%C3%A9_Huber",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11270",
+  "entityUrl" : "http://dbpedia.org/resource/Vilem_Slavata_of_Chlum",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Vilem_Slavata_of_Chlum) dbo:birthDate o'<1572-12-1>",
+    "2" : "s(Vilem_Slavata_of_Chlum) dbo:birthPlace o'<KutnÃ¡_Hora>",
+    "3" : "s(Vilem_Slavata_of_Chlum) dbo:deathDate o'<1652-1-19>",
+    "4" : "s(Vilem_Slavata_of_Chlum) dbo:deathPlace o'<JindÅ™ichÅ¯v_Hradec>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11271",
+  "entityUrl" : "http://dbpedia.org/resource/Vernon_Benjamin_Mountcastle",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Vernon_Benjamin_Mountcastle) dbo:almaMater o'<Roanoke_College>",
+    "2" : "s(Vernon_Benjamin_Mountcastle) dbo:award o'<National_Medal_of_Science>",
+    "3" : "s(Vernon_Benjamin_Mountcastle) dbo:award o'<Louisa_Gross_Horwitz_Prize>",
+    "4" : "s(Vernon_Benjamin_Mountcastle) dbo:birthDate o'<1918-07-15>",
+    "5" : "s(Vernon_Benjamin_Mountcastle) dbo:birthDate o'<1918-7-15>",
+    "6" : "s(Vernon_Benjamin_Mountcastle) dbo:birthName o'<Vernon Benjamin Mountcastle>",
+    "7" : "s(Vernon_Benjamin_Mountcastle) dbo:deathDate o'<2015-01-14>",
+    "8" : "s(Vernon_Benjamin_Mountcastle) dbo:deathDate o'<2015-1-11>",
+    "9" : "s(Vernon_Benjamin_Mountcastle) dbp:spouse o'<Nancy Clayton>",
+    "10" : "s(Vernon_Benjamin_Mountcastle) dbp:workplaces o'<Johns_Hopkins_University>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(vernon benjamin mountcastle=Vernon_Benjamin_Mountcastle) [shelbyville kentucky 15 de julio ] o'<johns hopkins=Johns_Hopkins_University>"
+  },
+  "abstract" : {
+    "1" : "vernon benjamin mountcastle<Vernon_Benjamin_Mountcastle> (shelbyville, kentucky, 15 de julio de 1918 âˆ’ north baltimore, ohio, 11 de enero de 2015) fue un neurã³logo estadounidense y profesor emã©rito de la universidad johns hopkins<Johns_Hopkins_University>"
+  }
+}, {
+  "entityIndex" : "entity11272",
+  "entityUrl" : "http://dbpedia.org/resource/Vince_Kerrio",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Vince_Kerrio) dbo:birthDate o'<1924-02-05>",
+    "2" : "s(Vince_Kerrio) dbo:birthDate o'<1924-2-5>",
+    "3" : "s(Vince_Kerrio) dbo:birthPlace o'<Niagara_Falls,_Ontario>",
+    "4" : "s(Vince_Kerrio) dbo:deathDate o'<2009-10-30>",
+    "5" : "s(Vince_Kerrio) dbo:deathPlace o'<Niagara_Falls,_Ontario>",
+    "6" : "s(Vince_Kerrio) dbo:office o'<Ontario MPP>",
+    "7" : "s(Vince_Kerrio) dbo:party o'<Ontario_Liberal_Party>",
+    "8" : "s(Vince_Kerrio) dbo:predecessor o'<John_Clement_(politician)>",
+    "9" : "s(Vince_Kerrio) dbo:region o'<Niagara_Falls_(provincial_electoral_district)>",
+    "10" : "s(Vince_Kerrio) dbo:successor o'<Margaret_Harrington>",
+    "11" : "s(Vince_Kerrio) dbo:termPeriod o'<Vince_Kerrio__1>",
+    "12" : "s(Vince_Kerrio) dbp:birthName o'<Vincent George Kerrio>",
+    "13" : "s(Vince_Kerrio) dbp:children o'<2>",
+    "14" : "s(Vince_Kerrio) dbp:occupation o'<Businessman>",
+    "15" : "s(Vince_Kerrio) dbp:post o'<Ministry_of_Natural_Resources_(Ontario)>",
+    "16" : "s(Vince_Kerrio) dbp:post o'<Ministry_of_Energy_(Ontario)>",
+    "17" : "s(Vince_Kerrio) dbp:post1followed o'<Bob_Wong>",
+    "18" : "s(Vince_Kerrio) dbp:post1preceded o'<Mike_Harris>",
+    "19" : "s(Vince_Kerrio) dbp:post1years o'<1985>",
+    "20" : "s(Vince_Kerrio) dbp:post2followed o'<Lyn_McLeod>",
+    "21" : "s(Vince_Kerrio) dbp:post2preceded o'<Alan_Pope>",
+    "22" : "s(Vince_Kerrio) dbp:post2years o'<1985>",
+    "23" : "s(Vince_Kerrio) dbp:spouse o'<Rose>",
+    "24" : "s(Vince_Kerrio) dbp:termEnd o'<1990>",
+    "25" : "s(Vince_Kerrio) dbp:termStart o'<1975>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(vince kerrio=Vince_Kerrio) [served in legislative assembly ] o'<ontario=Ontario_Liberal_Party>",
+    "3" : "s(vince kerrio=Vince_Kerrio) [first italiancanadian to ] o'<ontario=Ontario_Liberal_Party>"
+  },
+  "abstract" : {
+    "2" : "vince kerrio<Vince_Kerrio> served in the legislative assembly of ontario<Ontario_Liberal_Party> as a liberal from 1975 to 1990, and was a cabinet minister in the government of david peterson\n",
+    "3" : "vince kerrio<Vince_Kerrio> was the first italian-canadian to serve as a cabinet minister in ontario<Ontario_Liberal_Party>\n"
+  }
+} ]

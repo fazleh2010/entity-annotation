@@ -1,0 +1,76 @@
+[ {
+  "entityIndex" : "entity14140",
+  "entityUrl" : "http://dbpedia.org/resource/Leopoldine_Blahetka",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Leopoldine_Blahetka) dbo:birthDate o'<1809-11-16>",
+    "2" : "s(Leopoldine_Blahetka) dbo:birthPlace o'<Guntramsdorf>",
+    "3" : "s(Leopoldine_Blahetka) dbo:deathDate o'<1885-1-17>",
+    "4" : "s(Leopoldine_Blahetka) dbo:deathPlace o'<Boulogne-sur-Mer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14141",
+  "entityUrl" : "http://dbpedia.org/resource/L%C3%A1szl%C3%B3_Lad%C3%A1ny",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14142",
+  "entityUrl" : "http://dbpedia.org/resource/Lincoln_Ragsdale",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Lincoln_Ragsdale) dbo:birthDate o'<1926-07-27>",
+    "2" : "s(Lincoln_Ragsdale) dbo:birthDate o'<1926-7-27>",
+    "3" : "s(Lincoln_Ragsdale) dbo:birthPlace o'<Tulsa,_Oklahoma>",
+    "4" : "s(Lincoln_Ragsdale) dbo:birthYear o'<1926>",
+    "5" : "s(Lincoln_Ragsdale) dbo:deathDate o'<1995-06-09>",
+    "6" : "s(Lincoln_Ragsdale) dbo:deathDate o'<1995-6-9>",
+    "7" : "s(Lincoln_Ragsdale) dbo:deathPlace o'<Paradise_Valley,_Arizona>",
+    "8" : "s(Lincoln_Ragsdale) dbo:deathYear o'<1995>",
+    "9" : "s(Lincoln_Ragsdale) dbo:knownFor o'<African-American_Civil_Rights_Movement>",
+    "10" : "s(Lincoln_Ragsdale) dbo:occupation o'<Tuskegee_Airmen>",
+    "11" : "s(Lincoln_Ragsdale) dbo:occupation o'<Lincoln_Ragsdale__1>",
+    "12" : "s(Lincoln_Ragsdale) dbo:spouse o'<Eleanor_Ragsdale>",
+    "13" : "s(Lincoln_Ragsdale) dbp:align o'<right>",
+    "14" : "s(Lincoln_Ragsdale) dbp:quote o'<Phoenix was just like Mississippi. People were just as bigoted. They had segregation. They had signs in many places 'Mexicans and Negroes not welcome.'>",
+    "15" : "s(Lincoln_Ragsdale) dbp:quote o'<I wanted to be a pilot because I wanted to prove something. The papers said that blacks could not do it. I wanted to prove that we could do it. We were very segregated. The army was segregated. The navy was segregated. We couldn't use any of the facilities. We were treated as second-class citizens, but the only way to change something is to prove that you can do something.>",
+    "16" : "s(Lincoln_Ragsdale) dbp:quoted o'<1>",
+    "17" : "s(Lincoln_Ragsdale) dbp:salign o'<right>",
+    "18" : "s(Lincoln_Ragsdale) dbp:source o'<Lincoln Ragsdale>",
+    "19" : "s(Lincoln_Ragsdale) dbp:source o'<Lincoln Ragsdale, 1990>",
+    "20" : "s(Lincoln_Ragsdale) dbp:width o'<35.0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14143",
+  "entityUrl" : "http://dbpedia.org/resource/Lalka_Berberova",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Lalka_Berberova) dbo:birthDate o'<1965-6-11>",
+    "2" : "s(Lalka_Berberova) dbo:birthPlace o'<Plovdiv>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14144",
+  "entityUrl" : "http://dbpedia.org/resource/Lars_Nielsen",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Lars_Nielsen) dbo:birthDate o'<1960-11-3>",
+    "2" : "s(Lars_Nielsen) dbo:birthPlace o'<Copenhagen>",
+    "3" : "s(Lars_Nielsen) dbo:country o'<Denmark>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14145",
+  "entityUrl" : "http://dbpedia.org/resource/Lily_Bloom",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity14405",
+  "entityUrl" : "http://dbpedia.org/resource/Alex_Paez",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Alex_Paez) dbo:birthDate o'<1963-7-25>",
+    "2" : "s(Alex_Paez) dbo:birthPlace o'<Queens>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14406",
+  "entityUrl" : "http://dbpedia.org/resource/Andrea_Zaki",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Andrea_Zaki) dbo:birthDate o'<1960-6-30>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14407",
+  "entityUrl" : "http://dbpedia.org/resource/Arlene_Harris_(inventor)",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Arlene_Harris_(inventor)) dbo:birthDate o'<1948-06-06>",
+    "2" : "s(Arlene_Harris_(inventor)) dbo:birthDate o'<1948-6-6>",
+    "3" : "s(Arlene_Harris_(inventor)) dbo:birthName o'<Arlene Joy Harris>",
+    "4" : "s(Arlene_Harris_(inventor)) dbo:birthPlace o'<Los_Angeles>",
+    "5" : "s(Arlene_Harris_(inventor)) dbo:birthYear o'<1948>",
+    "6" : "s(Arlene_Harris_(inventor)) dbo:occupation o'<Arlene_Harris_(inventor)__1>",
+    "7" : "s(Arlene_Harris_(inventor)) dbo:spouse o'<Martin_Cooper_(inventor)>",
+    "8" : "s(Arlene_Harris_(inventor)) dbp:birthPlace o'<Los Angeles, California, USA>",
+    "9" : "s(Arlene_Harris_(inventor)) dbp:knownFor o'<Co-founder Wireless History Foundation>",
+    "10" : "s(Arlene_Harris_(inventor)) dbp:knownFor o'<First cellular activation system>",
+    "11" : "s(Arlene_Harris_(inventor)) dbp:knownFor o'<First niche cellular offering>",
+    "12" : "s(Arlene_Harris_(inventor)) dbp:knownFor o'<First prepaid cellular>",
+    "13" : "s(Arlene_Harris_(inventor)) dbp:knownFor o'<First wireless health application>",
+    "14" : "s(Arlene_Harris_(inventor)) dbp:knownFor o'<Jitterbug cellular creator>",
+    "15" : "s(Arlene_Harris_(inventor)) dbp:nationality o'<American>",
+    "16" : "s(Arlene_Harris_(inventor)) dbp:residence o'<Del Mar, California USA>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(arlene harris (inventor)=Arlene_Harris_(inventor)) [incubates new ideas businesses ] o'<martin cooper=Martin_Cooper_(inventor)>"
+  },
+  "abstract" : {
+    "5" : "harris is co-founder and ceo of dyna llc, in del mar, california<Los_Angeles>, where arlene harris (inventor)<Arlene_Harris_(inventor)> incubates new ideas and businesses with husband and business partner martin cooper<Martin_Cooper_(inventor)>, a former motorola vice-president and division manager who developed and introduced the first handheld cellular mobile phone in 1973\n"
+  }
+}, {
+  "entityIndex" : "entity14408",
+  "entityUrl" : "http://dbpedia.org/resource/Antonella_Baldini",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Antonella_Baldini) dbo:birthDate o'<1966-05-11>",
+    "2" : "s(Antonella_Baldini) dbo:birthDate o'<1966-5-11>",
+    "3" : "s(Antonella_Baldini) dbo:birthPlace o'<Milan>",
+    "4" : "s(Antonella_Baldini) dbo:birthYear o'<1966>",
+    "5" : "s(Antonella_Baldini) dbo:occupation o'<Antonella_Baldini__1>",
+    "6" : "s(Antonella_Baldini) dbo:relative o'<Nanni_Baldini>",
+    "7" : "s(Antonella_Baldini) dbo:relative o'<Oreste_Baldini>",
+    "8" : "s(Antonella_Baldini) dbo:relative o'<Rita_Baldini>",
+    "9" : "s(Antonella_Baldini) dbp:gender o'<Female>",
+    "10" : "s(Antonella_Baldini) dbp:imagesize o'<160>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14409",
+  "entityUrl" : "http://dbpedia.org/resource/Alfred_J._Lauby",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Alfred_J._Lauby) dbo:birthDate o'<1908-1-1>",
+    "2" : "s(Alfred_J._Lauby) dbo:deathDate o'<1985-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14410",
+  "entityUrl" : "http://dbpedia.org/resource/Anton_Krautheimer",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Anton_Krautheimer) dbo:birthDate o'<1879-6-18>",
+    "2" : "s(Anton_Krautheimer) dbo:birthPlace o'<Munich>",
+    "3" : "s(Anton_Krautheimer) dbo:deathDate o'<1956-7-18>",
+    "4" : "s(Anton_Krautheimer) dbo:deathPlace o'<Munich>",
+    "5" : "s(Anton_Krautheimer) dbp:bot o'<InternetArchiveBot>",
+    "6" : "s(Anton_Krautheimer) dbp:date o'<October 2016>",
+    "7" : "s(Anton_Krautheimer) dbp:fixAttempted o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

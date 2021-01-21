@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity11843",
+  "entityUrl" : "http://dbpedia.org/resource/Keiko_Hanagata",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Keiko_Hanagata) dbo:birthDate o'<1935-6-2>",
+    "2" : "s(Keiko_Hanagata) dbo:birthPlace o'<Tokyo>",
+    "3" : "s(Keiko_Hanagata) dbo:deathDate o'<2015-1-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11844",
+  "entityUrl" : "http://dbpedia.org/resource/Kurankyi-Taylor",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Kurankyi-Taylor) dbo:birthDate o'<1922-1-1>",
+    "2" : "s(Kurankyi-Taylor) dbo:deathDate o'<1959-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11845",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Chol-su",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Kim_Chol-su) dbo:birthDate o'<1982-9-12>",
+    "2" : "s(Kim_Chol-su) dbp:context o'<north>",
+    "3" : "s(Kim_Chol-su) dbp:hangul o'<ê¹€ì² ìˆ˜>",
+    "4" : "s(Kim_Chol-su) dbp:mr o'<Kim Ch'Å�lsu>",
+    "5" : "s(Kim_Chol-su) dbp:rr o'<Gim Cheolsu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11846",
+  "entityUrl" : "http://dbpedia.org/resource/Kimon_Friar",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Kimon_Friar) dbo:birthDate o'<1911-11-18>",
+    "2" : "s(Kimon_Friar) dbo:birthPlace o'<Ä°mralÄ±>",
+    "3" : "s(Kimon_Friar) dbo:deathDate o'<1993-5-26>",
+    "4" : "s(Kimon_Friar) dbo:deathPlace o'<Athens>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11847",
+  "entityUrl" : "http://dbpedia.org/resource/Karl-Henrik_Rob%C3%A8rt",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11848",
+  "entityUrl" : "http://dbpedia.org/resource/Kinoshita_Iesada",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Kinoshita_Iesada) dbo:birthDate o'<1543-0-0>",
+    "2" : "s(Kinoshita_Iesada) dbo:deathDate o'<1608-10-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

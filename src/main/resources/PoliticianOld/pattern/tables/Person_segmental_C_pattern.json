@@ -1,0 +1,64 @@
+[ {
+  "entityIndex" : "entity11632",
+  "entityUrl" : "http://dbpedia.org/resource/Clive_Bourne",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Clive_Bourne) dbo:birthDate o'<1942-9-27>",
+    "2" : "s(Clive_Bourne) dbo:deathDate o'<2007-1-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11633",
+  "entityUrl" : "http://dbpedia.org/resource/Clarence_H._Haring",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Clarence_H._Haring) dbo:birthDate o'<1885-2-9>",
+    "2" : "s(Clarence_H._Haring) dbo:deathDate o'<1960-9-4>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11634",
+  "entityUrl" : "http://dbpedia.org/resource/Cary_Nelson",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Cary_Nelson) dbo:birthDate o'<1946-1-1>",
+    "2" : "s(Cary_Nelson) dbo:birthPlace o'<Philadelphia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11635",
+  "entityUrl" : "http://dbpedia.org/resource/Carmen_Frei",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Carmen_Frei) dbo:birthDate o'<1938-6-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11636",
+  "entityUrl" : "http://dbpedia.org/resource/Chow_Ching_Lie",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Chow_Ching_Lie) dbo:birthDate o'<1936-1-1>",
+    "2" : "s(Chow_Ching_Lie) dbo:birthPlace o'<Shanghai>",
+    "3" : "s(Chow_Ching_Lie) dbp:c o'<å‘¨å‹¤ä¸½>",
+    "4" : "s(Chow_Ching_Lie) dbp:p o'<ZhÅ�u QÃ­nlÃ¬>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11637",
+  "entityUrl" : "http://dbpedia.org/resource/Christian_Erbach",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Christian_Erbach) dbo:birthDate o'<1568-1-1>",
+    "2" : "s(Christian_Erbach) dbo:birthPlace o'<Gau-Algesheim>",
+    "3" : "s(Christian_Erbach) dbo:deathDate o'<1635-6-14>",
+    "4" : "s(Christian_Erbach) dbo:deathPlace o'<Augsburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

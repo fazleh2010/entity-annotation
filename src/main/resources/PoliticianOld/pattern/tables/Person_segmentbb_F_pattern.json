@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "entity14272",
+  "entityUrl" : "http://dbpedia.org/resource/Fr%C3%A9d%C3%A9rique_Bel",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14273",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_Stainforth",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Francis_Stainforth) dbo:deathDate o'<1866-9-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14274",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Vollertsen",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Frank_Vollertsen) dbo:birthDate o'<1958-8-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14275",
+  "entityUrl" : "http://dbpedia.org/resource/Funso_Aiyejina",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Funso_Aiyejina) dbo:birthDate o'<1949-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14276",
+  "entityUrl" : "http://dbpedia.org/resource/Fenwicke_Holmes",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Fenwicke_Holmes) dbo:birthDate o'<1883-1-1>",
+    "2" : "s(Fenwicke_Holmes) dbo:birthPlace o'<Maine>",
+    "3" : "s(Fenwicke_Holmes) dbo:birthPlace o'<Lincoln,_Maine>",
+    "4" : "s(Fenwicke_Holmes) dbo:birthYear o'<1883>",
+    "5" : "s(Fenwicke_Holmes) dbo:deathDate o'<1973-1-1>",
+    "6" : "s(Fenwicke_Holmes) dbo:education o'<Gould_Academy>",
+    "7" : "s(Fenwicke_Holmes) dbo:education o'<Hartford_Seminary>",
+    "8" : "s(Fenwicke_Holmes) dbo:education o'<Colby_College>",
+    "9" : "s(Fenwicke_Holmes) dbo:knownFor o'<Author>",
+    "10" : "s(Fenwicke_Holmes) dbo:knownFor o'<Religious_Science>",
+    "11" : "s(Fenwicke_Holmes) dbo:nationality o'<United_States_of_America>",
+    "12" : "s(Fenwicke_Holmes) dbo:occupation o'<Author>",
+    "13" : "s(Fenwicke_Holmes) dbo:occupation o'<Philosopher>",
+    "14" : "s(Fenwicke_Holmes) dbo:occupation o'<Fenwicke_Holmes__1>",
+    "15" : "s(Fenwicke_Holmes) dbo:occupation o'<Minister_(Christianity)>",
+    "16" : "s(Fenwicke_Holmes) dbo:religion o'<Religious_Science>",
+    "17" : "s(Fenwicke_Holmes) dbo:spouse o'<Katharine_Eggleston>",
+    "18" : "s(Fenwicke_Holmes) dbo:stateOfOrigin o'<United_States_of_America>",
+    "19" : "s(Fenwicke_Holmes) dbp:deathPlace o'<Santa Monica, California>",
+    "20" : "s(Fenwicke_Holmes) dbp:imageSize o'<250>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14277",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Cieszynski",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Frank_Cieszynski) dbo:birthDate o'<1882-12-12>",
+    "2" : "s(Frank_Cieszynski) dbo:country o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

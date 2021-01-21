@@ -1,0 +1,91 @@
+[ {
+  "entityIndex" : "entity12057",
+  "entityUrl" : "http://dbpedia.org/resource/Sergei_Aschwanden",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Sergei_Aschwanden) dbo:birthDate o'<1975-12-22>",
+    "2" : "s(Sergei_Aschwanden) dbo:birthPlace o'<Bern>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12058",
+  "entityUrl" : "http://dbpedia.org/resource/Surveen_Chawla",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Surveen_Chawla) dbo:activeYearsEndYear o'<2003>",
+    "2" : "s(Surveen_Chawla) dbo:activeYearsStartYear o'<2003>",
+    "3" : "s(Surveen_Chawla) dbo:birthDate o'<1984-7-16>",
+    "4" : "s(Surveen_Chawla) dbo:birthPlace o'<India>",
+    "5" : "s(Surveen_Chawla) dbo:birthPlace o'<Chandigarh>",
+    "6" : "s(Surveen_Chawla) dbo:birthYear o'<0001>",
+    "7" : "s(Surveen_Chawla) dbo:imdbId o'<4015689>",
+    "8" : "s(Surveen_Chawla) dbo:occupation o'<Model_(person)>",
+    "9" : "s(Surveen_Chawla) dbo:occupation o'<Actress>",
+    "10" : "s(Surveen_Chawla) dbo:occupation o'<Surveen_Chawla__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12059",
+  "entityUrl" : "http://dbpedia.org/resource/Sarah_Bouyain",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Sarah_Bouyain) dbo:birthDate o'<1968-1-1>",
+    "2" : "s(Sarah_Bouyain) dbo:imdbId o'<0100493>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12060",
+  "entityUrl" : "http://dbpedia.org/resource/Shigenori_Kageyama",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Shigenori_Kageyama) dbo:alias o'<YÅ�sei Morino>",
+    "2" : "s(Shigenori_Kageyama) dbo:occupation o'<Animation_director>",
+    "3" : "s(Shigenori_Kageyama) dbo:occupation o'<Shigenori_Kageyama__1>",
+    "4" : "s(Shigenori_Kageyama) dbp:nationality o'<Japanese>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12061",
+  "entityUrl" : "http://dbpedia.org/resource/Saiful_Rijal",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Saiful_Rijal) dbo:activeYearsEndYear o'<2013>",
+    "2" : "s(Saiful_Rijal) dbo:activeYearsStartYear o'<1533>",
+    "3" : "s(Saiful_Rijal) dbo:birthPlace o'<Brunei>",
+    "4" : "s(Saiful_Rijal) dbo:birthPlace o'<Bandar_Seri_Begawan>",
+    "5" : "s(Saiful_Rijal) dbo:birthPlace o'<Brunei_Town>",
+    "6" : "s(Saiful_Rijal) dbo:deathDate o'<1581-1-1>",
+    "7" : "s(Saiful_Rijal) dbo:deathPlace o'<Brunei>",
+    "8" : "s(Saiful_Rijal) dbo:predecessor o'<Abdul_Kahar>",
+    "9" : "s(Saiful_Rijal) dbo:successor o'<Shah_Berunai>",
+    "10" : "s(Saiful_Rijal) dbo:title o'<8thSultanofBrunei>",
+    "11" : "s(Saiful_Rijal) dbp:religion o'<Sunni_Islam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12062",
+  "entityUrl" : "http://dbpedia.org/resource/Sulaiman_(Brunei)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Sulaiman_(Brunei)) dbo:activeYearsEndYear o'<1485>",
+    "2" : "s(Sulaiman_(Brunei)) dbo:activeYearsStartYear o'<1432>",
+    "3" : "s(Sulaiman_(Brunei)) dbo:birthPlace o'<Brunei>",
+    "4" : "s(Sulaiman_(Brunei)) dbo:deathDate o'<1511-1-1>",
+    "5" : "s(Sulaiman_(Brunei)) dbo:deathPlace o'<Brunei>",
+    "6" : "s(Sulaiman_(Brunei)) dbo:parent o'<Sharif_Ali>",
+    "7" : "s(Sulaiman_(Brunei)) dbo:predecessor o'<Sharif_Ali>",
+    "8" : "s(Sulaiman_(Brunei)) dbo:successor o'<Bolkiah>",
+    "9" : "s(Sulaiman_(Brunei)) dbo:title o'<5thSultanofBrunei>",
+    "10" : "s(Sulaiman_(Brunei)) dbp:deathDate o'<1511>",
+    "11" : "s(Sulaiman_(Brunei)) dbp:issue o'<Bolkiah>",
+    "12" : "s(Sulaiman_(Brunei)) dbp:mother o'<Puteri Ratna Kesuma>",
+    "13" : "s(Sulaiman_(Brunei)) dbp:religion o'<Sunni_Islam>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

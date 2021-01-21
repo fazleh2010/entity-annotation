@@ -1,0 +1,58 @@
+[ {
+  "entityIndex" : "entity11405",
+  "entityUrl" : "http://dbpedia.org/resource/Susan_K._Phillips",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Susan_K._Phillips) dbo:birthDate o'<1831-1-1>",
+    "2" : "s(Susan_K._Phillips) dbo:birthPlace o'<Aldborough,_North_Yorkshire>",
+    "3" : "s(Susan_K._Phillips) dbo:deathDate o'<1897-1-1>",
+    "4" : "s(Susan_K._Phillips) dbo:deathPlace o'<Torquay>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11406",
+  "entityUrl" : "http://dbpedia.org/resource/Socorro_Quintana_Le%C3%B3n",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11407",
+  "entityUrl" : "http://dbpedia.org/resource/Sujit_Meher",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11408",
+  "entityUrl" : "http://dbpedia.org/resource/Stevie_Meyer",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11409",
+  "entityUrl" : "http://dbpedia.org/resource/Simone_Cipriani",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Simone_Cipriani) dbo:birthDate o'<1964-0-0>",
+    "2" : "s(Simone_Cipriani) dbo:birthPlace o'<Tuscany>",
+    "3" : "s(Simone_Cipriani) dbo:birthYear o'<1964>",
+    "4" : "s(Simone_Cipriani) dbo:occupation o'<Simone_Cipriani__1>",
+    "5" : "s(Simone_Cipriani) dbp:knownFor o'<international development, ethical fashion, public speaking>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11410",
+  "entityUrl" : "http://dbpedia.org/resource/Stig_Grybe",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Stig_Grybe) dbo:birthDate o'<1928-7-18>",
+    "2" : "s(Stig_Grybe) dbo:birthPlace o'<Stockholm>",
+    "3" : "s(Stig_Grybe) dbo:nationality o'<Sweden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

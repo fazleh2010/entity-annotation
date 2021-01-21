@@ -1,0 +1,105 @@
+[ {
+  "entityIndex" : "entity11752",
+  "entityUrl" : "http://dbpedia.org/resource/Wilhelm_Reinhard_von_Neipperg",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Wilhelm_Reinhard_von_Neipperg) dbo:birthDate o'<1684-5-27>",
+    "2" : "s(Wilhelm_Reinhard_von_Neipperg) dbo:birthPlace o'<Schwaigern>",
+    "3" : "s(Wilhelm_Reinhard_von_Neipperg) dbo:deathDate o'<1774-5-26>",
+    "4" : "s(Wilhelm_Reinhard_von_Neipperg) dbo:deathPlace o'<Vienna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11753",
+  "entityUrl" : "http://dbpedia.org/resource/Wolf_Erlbruch",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Wolf_Erlbruch) dbo:birthDate o'<1948-1-1>",
+    "2" : "s(Wolf_Erlbruch) dbo:birthPlace o'<Wuppertal>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11754",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Marshall,_Baron_Marshall_of_Goring",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:almaMater o'<Birmingham_University>",
+    "2" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:birthDate o'<1932-03-05>",
+    "3" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:birthDate o'<1932-3-5>",
+    "4" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:birthPlace o'<Cardiff>",
+    "5" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:birthPlace o'<Rumney,_Cardiff>",
+    "6" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:deathDate o'<1996-2-20>",
+    "7" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:deathPlace o'<London>",
+    "8" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:doctoralAdvisor o'<Rudolf_Peierls>",
+    "9" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:field o'<Nuclear_power>",
+    "10" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbo:nationality o'<UK>",
+    "11" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbp:deathDate o'<--02-20>",
+    "12" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbp:spouse o'<Ann V Sheppard>",
+    "13" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbp:title o'<Chairman of the Central Electricity Generating Board>",
+    "14" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbp:workInstitutions o'<Central_Electricity_Generating_Board>",
+    "15" : "s(Walter_Marshall,_Baron_Marshall_of_Goring) dbp:years o'<1982>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11755",
+  "entityUrl" : "http://dbpedia.org/resource/William_Sands_Cox",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(William_Sands_Cox) dbo:birthDate o'<1802-0-0>",
+    "2" : "s(William_Sands_Cox) dbo:birthPlace o'<Birmingham>",
+    "3" : "s(William_Sands_Cox) dbo:deathDate o'<1875-12-23>",
+    "4" : "s(William_Sands_Cox) dbo:deathPlace o'<Kenilworth>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(william sands cox=William_Sands_Cox) [founded ] o'<birmingham's=Birmingham>"
+  },
+  "abstract" : {
+    "2" : "william sands cox<William_Sands_Cox> founded birmingham's<Birmingham> first medical school in 1828 as a residential anglican-based college in temple row, where a blue plaque commemorates him on the house of fraser department store, and in brittle street (now obliterated by snow hill station)\n"
+  }
+}, {
+  "entityIndex" : "entity11756",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_H._Farquharson",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Walter_H._Farquharson) dbo:almaMater o'<University_of_Saskatchewan>",
+    "2" : "s(Walter_H._Farquharson) dbo:birthDate o'<1936-05-30>",
+    "3" : "s(Walter_H._Farquharson) dbo:birthDate o'<1936-5-30>",
+    "4" : "s(Walter_H._Farquharson) dbp:after o'<Stan_McKay>",
+    "5" : "s(Walter_H._Farquharson) dbp:before o'<Sang_Chul_Lee>",
+    "6" : "s(Walter_H._Farquharson) dbp:birthPlace o'<Near Rosetown, Saskatchewan>",
+    "7" : "s(Walter_H._Farquharson) dbp:church o'<United_Church_of_Canada>",
+    "8" : "s(Walter_H._Farquharson) dbp:elected o'<1990>",
+    "9" : "s(Walter_H._Farquharson) dbp:honorificPrefix o'<The_Very_Reverend>",
+    "10" : "s(Walter_H._Farquharson) dbp:ordination o'<1960>",
+    "11" : "s(Walter_H._Farquharson) dbp:predecessor o'<Sang_Chul_Lee>",
+    "12" : "s(Walter_H._Farquharson) dbp:successor o'<Stan_McKay>",
+    "13" : "s(Walter_H._Farquharson) dbp:termEnd o'<1992>",
+    "14" : "s(Walter_H._Farquharson) dbp:title o'<33>",
+    "15" : "s(Walter_H._Farquharson) dbp:title o'<Moderator_of_the_United_Church_of_Canada>",
+    "16" : "s(Walter_H._Farquharson) dbp:years o'<1990>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(walter h. farquharson=Walter_H._Farquharson) [educated at ] o'<university of saskatchewan=University_of_Saskatchewan>",
+    "3" : "s(walter h. farquharson=Walter_H._Farquharson) [year of postgraduate ] o'<church=United_Church_of_Canada>",
+    "4" : "s(walter h. farquharson=Walter_H._Farquharson) [became minister of ] o'<united church=United_Church_of_Canada>",
+    "5" : "s(walter h. farquharson=Walter_H._Farquharson) [noted hymnwriter three ] o'<united churches=United_Church_of_Canada>"
+  },
+  "abstract" : {
+    "2" : "born near rosetown, saskatchewan<University_of_Saskatchewan>, walter h. farquharson<Walter_H._Farquharson> was educated at the university of saskatchewan<University_of_Saskatchewan> (ba, 1957) and st andrew's college in the university of saskatchewan<University_of_Saskatchewan> (bd, 1961)\n",
+    "3" : "after his ordination in 1960 walter h. farquharson<Walter_H._Farquharson> did a year of post-graduate study in edinburgh, where walter h. farquharson<Walter_H._Farquharson> was also assistant minister at morningside parish church<United_Church_of_Canada>\n",
+    "4" : "returning to canada walter h. farquharson<Walter_H._Farquharson> became the minister of the united church<United_Church_of_Canada> in saltcoats, saskatchewan<University_of_Saskatchewan>, where walter h. farquharson<Walter_H._Farquharson> remained until his retirement, and also, believing that ministry involves the whole of life, an english teacher in the local high school\n",
+    "5" : "walter h. farquharson<Walter_H._Farquharson> is a noted hymn-writer; three of his hymns were published in the hymn book (anglican and united churches<United_Church_of_Canada> of canada, 1971); one of his best-known, \"men go to god when they are sorely placed,\" a translation of dietrich bonhoeffer's menschen gehen zu gott in ihrer nott, also appeared in the australian hymn book (anglican, methodist, presbyterian, congregational and roman catholic)\n"
+  }
+}, {
+  "entityIndex" : "entity11757",
+  "entityUrl" : "http://dbpedia.org/resource/William_Castell",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(William_Castell) dbo:birthDate o'<1947-4-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,81 @@
+[ {
+  "entityIndex" : "entity11488",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_K._Humphreys",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Frederick_K._Humphreys) dbo:birthDate o'<1816-03-11>",
+    "2" : "s(Frederick_K._Humphreys) dbo:birthDate o'<1816-3-11>",
+    "3" : "s(Frederick_K._Humphreys) dbo:birthPlace o'<Marcellus,_New_York>",
+    "4" : "s(Frederick_K._Humphreys) dbo:birthYear o'<1816>",
+    "5" : "s(Frederick_K._Humphreys) dbo:deathDate o'<1900-07-18>",
+    "6" : "s(Frederick_K._Humphreys) dbo:deathDate o'<1900-7-18>",
+    "7" : "s(Frederick_K._Humphreys) dbo:deathPlace o'<Monmouth_Beach,_New_Jersey>",
+    "8" : "s(Frederick_K._Humphreys) dbo:deathYear o'<1900>",
+    "9" : "s(Frederick_K._Humphreys) dbo:occupation o'<Frederick_K._Humphreys__1>",
+    "10" : "s(Frederick_K._Humphreys) dbo:occupation o'<Homeopath>",
+    "11" : "s(Frederick_K._Humphreys) dbp:imageSize o'<230>",
+    "12" : "s(Frederick_K._Humphreys) dbp:parents o'<Erastus Humphreys>",
+    "13" : "s(Frederick_K._Humphreys) dbp:spouse o'<Cornelia Palmer>",
+    "14" : "s(Frederick_K._Humphreys) dbp:spouse o'<Frances Maria Sperry>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11489",
+  "entityUrl" : "http://dbpedia.org/resource/Fouzi_Ayoub_Sabri",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11490",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_de_Sola_Mendes",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Frederick_de_Sola_Mendes) dbo:birthDate o'<1850-7-8>",
+    "2" : "s(Frederick_de_Sola_Mendes) dbo:deathDate o'<1927-1-1>",
+    "3" : "s(Frederick_de_Sola_Mendes) dbp:article o'<Mendes>",
+    "4" : "s(Frederick_de_Sola_Mendes) dbp:author o'<Cyrus Adler, H. Pereira Mendes, Joseph Jacobs and Frank H. Vizetelly>",
+    "5" : "s(Frederick_de_Sola_Mendes) dbp:url o'<view.jsp?artid=448&letter=M&search=Frederick%20de%20Sola%20Mendes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11491",
+  "entityUrl" : "http://dbpedia.org/resource/Fyodor_Dmitriev",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11492",
+  "entityUrl" : "http://dbpedia.org/resource/Franck_Marchis",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Franck_Marchis) dbo:birthDate o'<1973-04-06>",
+    "2" : "s(Franck_Marchis) dbo:birthDate o'<1973-4-6>",
+    "3" : "s(Franck_Marchis) dbo:birthPlace o'<Caen>",
+    "4" : "s(Franck_Marchis) dbo:birthYear o'<1973>",
+    "5" : "s(Franck_Marchis) dbo:education o'<Ph.D.>",
+    "6" : "s(Franck_Marchis) dbo:education o'<Master_of_Science>",
+    "7" : "s(Franck_Marchis) dbo:occupation o'<Franck_Marchis__1>",
+    "8" : "s(Franck_Marchis) dbo:occupation o'<SETI_Institute>",
+    "9" : "s(Franck_Marchis) dbo:occupation o'<University_of_California_at_Berkeley>",
+    "10" : "s(Franck_Marchis) dbo:occupation o'<Senior_Planetary_Astronomer>",
+    "11" : "s(Franck_Marchis) dbo:residence o'<California>",
+    "12" : "s(Franck_Marchis) dbo:residence o'<Mountain_View,_California>",
+    "13" : "s(Franck_Marchis) dbp:imageSize o'<180>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11493",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Parkes_Weber",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Frederick_Parkes_Weber) dbo:birthDate o'<1863-5-8>",
+    "2" : "s(Frederick_Parkes_Weber) dbo:deathDate o'<1962-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

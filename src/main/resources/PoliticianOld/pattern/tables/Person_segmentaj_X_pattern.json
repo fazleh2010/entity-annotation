@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "entity11433",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Girard",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Xavier_Girard) dbo:birthDate o'<1970-2-14>",
+    "2" : "s(Xavier_Girard) dbo:birthPlace o'<Saint-Martin-d'HÃ¨res>",
+    "3" : "s(Xavier_Girard) dbp:id o'<20458>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11434",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Rescigno",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Xavier_Rescigno) dbo:deathDate o'<2005-12-24>",
+    "2" : "s(Xavier_Rescigno) dbp:ft o'<5>",
+    "3" : "s(Xavier_Rescigno) dbp:in o'<10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11435",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Elu%C3%A8re",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11436",
+  "entityUrl" : "http://dbpedia.org/resource/Xolilizwe_Mzikayise_Sigcawu",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:activeYearsEndYear o'<2005>",
+    "2" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:activeYearsStartYear o'<1965>",
+    "3" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:birthDate o'<1926-06-26>",
+    "4" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:birthDate o'<1926-6-26>",
+    "5" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:birthPlace o'<Willowvale>",
+    "6" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:birthPlace o'<Nqadu_Great_Palace>",
+    "7" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:deathDate o'<2005-12-31>",
+    "8" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:parent o'<Bungeni_Zwelidumile_Sigcawu>",
+    "9" : "s(Xolilizwe_Mzikayise_Sigcawu) dbo:predecessor o'<Bungeni_Zwelidumile_Sigcawu>",
+    "10" : "s(Xolilizwe_Mzikayise_Sigcawu) dbp:coronation o'<1965>",
+    "11" : "s(Xolilizwe_Mzikayise_Sigcawu) dbp:heir o'<Zwelonke Sigcawu>",
+    "12" : "s(Xolilizwe_Mzikayise_Sigcawu) dbp:othertitles o'<Xolilizwe Mzikayise Sigcawu>",
+    "13" : "s(Xolilizwe_Mzikayise_Sigcawu) dbp:royalHouse o'<House of Phalo>",
+    "14" : "s(Xolilizwe_Mzikayise_Sigcawu) dbp:sucType o'<Heir-Presumptive>",
+    "15" : "s(Xolilizwe_Mzikayise_Sigcawu) dbp:succession o'<List_of_rulers_of_the_Gcaleka>",
+    "16" : "s(Xolilizwe_Mzikayise_Sigcawu) dbp:title o'<King of the Gcaleka Nation>",
+    "17" : "s(Xolilizwe_Mzikayise_Sigcawu) dbp:years o'<1965>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(xolilizwe mzikayise sigcawu=Xolilizwe_Mzikayise_Sigcawu) [succeeded by prince ] o'<zwelonke sigcawu=Zwelonke_Sigcawu>"
+  },
+  "abstract" : {
+    "5" : "xolilizwe mzikayise sigcawu<Xolilizwe_Mzikayise_Sigcawu> has been succeeded by prince zwelonke sigcawu<Zwelonke_Sigcawu>, the older son of iqadi house (3rd queen)\n"
+  }
+}, {
+  "entityIndex" : "entity11437",
+  "entityUrl" : "http://dbpedia.org/resource/Xan_Palay",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Xan_Palay) dbo:birthDate o'<1970-6-10>",
+    "2" : "s(Xan_Palay) dbo:country o'<United_States>",
+    "3" : "s(Xan_Palay) dbp:bot o'<InternetArchiveBot>",
+    "4" : "s(Xan_Palay) dbp:date o'<July 2016>",
+    "5" : "s(Xan_Palay) dbp:fixAttempted o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "9" : "s(xan palay=Xan_Palay) [visiting artist ] o'<state=United_States>"
+  },
+  "abstract" : {
+    "9" : "xan palay<Xan_Palay> has been a visiting artist at the ohio state<United_States> university (columbus, ohio), hastings college (hastings,nebraska), aichi university of education (aichi, japan), tokyo glass art institute (tokyo, japan) and at the forest of creation (kanazu, japan)\n"
+  }
+}, {
+  "entityIndex" : "entity11438",
+  "entityUrl" : "http://dbpedia.org/resource/Xian_Zhang",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Xian_Zhang) dbo:birthDate o'<1973-1-1>",
+    "2" : "s(Xian_Zhang) dbo:birthPlace o'<Dandong>",
+    "3" : "s(Xian_Zhang) dbp:after o'<incumbent>",
+    "4" : "s(Xian_Zhang) dbp:after o'<Ryan Haskins>",
+    "5" : "s(Xian_Zhang) dbp:before o'<Jacques_Lacombe>",
+    "6" : "s(Xian_Zhang) dbp:before o'<Riccardo_Chailly>",
+    "7" : "s(Xian_Zhang) dbp:before o'<Stephen Rogers Radcliffe>",
+    "8" : "s(Xian_Zhang) dbp:title o'<Orchestra_Sinfonica_di_Milano_Giuseppe_Verdi>",
+    "9" : "s(Xian_Zhang) dbp:title o'<Sioux_City_Symphony_Orchestra>",
+    "10" : "s(Xian_Zhang) dbp:title o'<New_Jersey_Symphony_Orchestra>",
+    "11" : "s(Xian_Zhang) dbp:years o'<2005>",
+    "12" : "s(Xian_Zhang) dbp:years o'<2009>",
+    "13" : "s(Xian_Zhang) dbp:years o'<2016>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

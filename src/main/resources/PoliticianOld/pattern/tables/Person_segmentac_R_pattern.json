@@ -1,0 +1,136 @@
+[ {
+  "entityIndex" : "entity11070",
+  "entityUrl" : "http://dbpedia.org/resource/Rose_Porteous",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Rose_Porteous) dbo:birthDate o'<1948-10-26>",
+    "2" : "s(Rose_Porteous) dbo:birthName o'<Rosario Magdalena Teresita Lacson y Ledesma>",
+    "3" : "s(Rose_Porteous) dbo:birthYear o'<1948>",
+    "4" : "s(Rose_Porteous) dbo:child o'<Lang_Hancock>",
+    "5" : "s(Rose_Porteous) dbo:child o'<William_Porteous>",
+    "6" : "s(Rose_Porteous) dbo:child o'<Gina_Rinehart>",
+    "7" : "s(Rose_Porteous) dbo:occupation o'<Model_(person)>",
+    "8" : "s(Rose_Porteous) dbo:occupation o'<Consultant>",
+    "9" : "s(Rose_Porteous) dbo:occupation o'<Maid>",
+    "10" : "s(Rose_Porteous) dbo:occupation o'<Socialite>",
+    "11" : "s(Rose_Porteous) dbo:occupation o'<Hairdresser>",
+    "12" : "s(Rose_Porteous) dbo:occupation o'<Flight_attendant>",
+    "13" : "s(Rose_Porteous) dbo:occupation o'<Businesswoman>",
+    "14" : "s(Rose_Porteous) dbo:occupation o'<Real_Estate>",
+    "15" : "s(Rose_Porteous) dbo:occupation o'<Rose_Porteous__1>",
+    "16" : "s(Rose_Porteous) dbo:relation o'<Aniceto_Lacson>",
+    "17" : "s(Rose_Porteous) dbo:relation o'<Arsenio_Lacson>",
+    "18" : "s(Rose_Porteous) dbo:residence o'<Miami,_Florida>",
+    "19" : "s(Rose_Porteous) dbo:residence o'<Dalkeith,_Western_Australia>",
+    "20" : "s(Rose_Porteous) dbo:residence o'<South_Yarra,_Victoria>",
+    "21" : "s(Rose_Porteous) dbo:residence o'<Mosman_Park,_Western_Australia>",
+    "22" : "s(Rose_Porteous) dbo:residence o'<Ottawa,_Canada>",
+    "23" : "s(Rose_Porteous) dbo:residence o'<Manila,_Philippines>",
+    "24" : "s(Rose_Porteous) dbo:spouse o'<Lang_Hancock>",
+    "25" : "s(Rose_Porteous) dbo:spouse o'<William_Porteous>",
+    "26" : "s(Rose_Porteous) dbp:parents o'<Amparo Lacson>",
+    "27" : "s(Rose_Porteous) dbp:parents o'<Nicolas Lacson y Ledesma>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11071",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Parkes_Bonington",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Richard_Parkes_Bonington) dbo:birthDate o'<1801-10-25>",
+    "2" : "s(Richard_Parkes_Bonington) dbo:birthPlace o'<Arnold,_Nottinghamshire>",
+    "3" : "s(Richard_Parkes_Bonington) dbo:deathDate o'<1828-9-23>",
+    "4" : "s(Richard_Parkes_Bonington) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11072",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_W._Habersham",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Richard_W._Habersham) dbo:birthDate o'<1786-12-1>",
+    "2" : "s(Richard_W._Habersham) dbo:birthPlace o'<Savannah,_Georgia>",
+    "3" : "s(Richard_W._Habersham) dbo:deathDate o'<1842-12-2>",
+    "4" : "s(Richard_W._Habersham) dbp:after o'<George_W._Crawford>",
+    "5" : "s(Richard_W._Habersham) dbp:before o'<Hopkins_Holsey>",
+    "6" : "s(Richard_W._Habersham) dbp:district o'<AL>",
+    "7" : "s(Richard_W._Habersham) dbp:state o'<Georgia>",
+    "8" : "s(Richard_W._Habersham) dbp:years o'<--03-04>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(richard w. habersham=Richard_W._Habersham) [elected representative ] o'<georgia=Georgia>",
+    "5" : "s(richard w. habersham=Richard_W._Habersham) [interred at old ] o'<georgia=Georgia>"
+  },
+  "abstract" : {
+    "4" : "running as a whig, richard w. habersham<Richard_W._Habersham> was elected as a representative of georgia<Georgia> in the united states house of representatives from 1839 to 1842 and died in office\n",
+    "5" : "richard w. habersham<Richard_W._Habersham> is currently interred at old cemetery in clarkesville, georgia<Georgia>\n"
+  }
+}, {
+  "entityIndex" : "entity11073",
+  "entityUrl" : "http://dbpedia.org/resource/Rebel_MC",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Rebel_MC) dbo:activeYearsStartYear o'<1980>",
+    "2" : "s(Rebel_MC) dbo:alias o'<Conquering Lion, Congo Natty, Blackstar, Tribe of Issachar, X Project, Ras Project>",
+    "3" : "s(Rebel_MC) dbo:birthDate o'<1964-08-27>",
+    "4" : "s(Rebel_MC) dbo:birthDate o'<1965-8-27>",
+    "5" : "s(Rebel_MC) dbo:birthName o'<Michael Alec Anthony West>",
+    "6" : "s(Rebel_MC) dbo:birthPlace o'<England>",
+    "7" : "s(Rebel_MC) dbo:birthPlace o'<London>",
+    "8" : "s(Rebel_MC) dbo:birthPlace o'<Tottenham>",
+    "9" : "s(Rebel_MC) dbo:birthPlace o'<Islington>",
+    "10" : "s(Rebel_MC) dbo:birthYear o'<1964>",
+    "11" : "s(Rebel_MC) dbo:occupation o'<Deejay_(Jamaican)>",
+    "12" : "s(Rebel_MC) dbo:occupation o'<Record_producer>",
+    "13" : "s(Rebel_MC) dbo:occupation o'<Rebel_MC__1>",
+    "14" : "s(Rebel_MC) dbp:genre o'<Oldschool jungle, ragga jungle, Drum & Bass>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11074",
+  "entityUrl" : "http://dbpedia.org/resource/Richard_Bonynge",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Richard_Bonynge) dbo:activeYearsStartYear o'<1962>",
+    "2" : "s(Richard_Bonynge) dbo:birthDate o'<1930-09-29>",
+    "3" : "s(Richard_Bonynge) dbo:birthDate o'<1930-9-29>",
+    "4" : "s(Richard_Bonynge) dbo:birthName o'<Richard Alan Bonynge>",
+    "5" : "s(Richard_Bonynge) dbo:birthPlace o'<Sydney>",
+    "6" : "s(Richard_Bonynge) dbo:birthPlace o'<Epping,_New_South_Wales>",
+    "7" : "s(Richard_Bonynge) dbo:birthYear o'<1930>",
+    "8" : "s(Richard_Bonynge) dbo:occupation o'<Conducting>",
+    "9" : "s(Richard_Bonynge) dbo:occupation o'<Richard_Bonynge__1>",
+    "10" : "s(Richard_Bonynge) dbo:spouse o'<Joan_Sutherland>",
+    "11" : "s(Richard_Bonynge) dbp:children o'<Adam Bonynge>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11075",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_Anderson_(New_Zealand_politician)",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Robert_Anderson_(New_Zealand_politician)) dbo:birthDate o'<1936-1-22>",
+    "2" : "s(Robert_Anderson_(New_Zealand_politician)) dbo:deathDate o'<1996-10-24>",
+    "3" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:electorate o'<Kaimai_(New_Zealand_electorate)>",
+    "4" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:electorate o'<Kaimai>",
+    "5" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:end o'<1990>",
+    "6" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:end o'<1993>",
+    "7" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:end o'<1996>",
+    "8" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:party o'<New Zealand National Party>",
+    "9" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:term o'<42>",
+    "10" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:term o'<44>",
+    "11" : "s(Robert_Anderson_(New_Zealand_politician)) dbp:term o'<43.0>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(robert anderson (new zealand politician)=Robert_Anderson_(New_Zealand_politician)) [first elected to parliament ] o'<kaimai=Kaimai_(New_Zealand_electorate)>",
+    "7" : "s(robert anderson (new zealand politician)=Robert_Anderson_(New_Zealand_politician)) [selected national ] o'<kaimai=Kaimai_(New_Zealand_electorate)>"
+  },
+  "abstract" : {
+    "5" : "robert anderson (new zealand politician)<Robert_Anderson_(New_Zealand_politician)> was first elected to parliament in the 1987 election as mp for kaimai<Kaimai_(New_Zealand_electorate)>, replacing bruce townshend\n",
+    "7" : "robert anderson (new zealand politician)<Robert_Anderson_(New_Zealand_politician)> had been selected as national candidate for the new seat of coromandel which replaced kaimai<Kaimai_(New_Zealand_electorate)>, but withdrew due to illness (cancer)\n"
+  }
+} ]

@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity11885",
+  "entityUrl" : "http://dbpedia.org/resource/Rufus_Halley",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Rufus_Halley) dbo:deathDate o'<2001-8-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11886",
+  "entityUrl" : "http://dbpedia.org/resource/Robert_B._Goergen",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11887",
+  "entityUrl" : "http://dbpedia.org/resource/Roger_Corbett",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Roger_Corbett) dbo:birthDate o'<1942-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11888",
+  "entityUrl" : "http://dbpedia.org/resource/Ricardo_Galli",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Ricardo_Galli) dbo:alias o'<Gallir>",
+    "2" : "s(Ricardo_Galli) dbo:birthDate o'<1965-10-19>",
+    "3" : "s(Ricardo_Galli) dbo:birthName o'<Ricardo Adolfo Galli Granada>",
+    "4" : "s(Ricardo_Galli) dbo:birthPlace o'<Argentina>",
+    "5" : "s(Ricardo_Galli) dbo:nationality o'<Spain>",
+    "6" : "s(Ricardo_Galli) dbo:occupation o'<Informatics_(academic_field)>",
+    "7" : "s(Ricardo_Galli) dbo:occupation o'<Ricardo_Galli__1>",
+    "8" : "s(Ricardo_Galli) dbo:occupation o'<Teacher>",
+    "9" : "s(Ricardo_Galli) dbo:stateOfOrigin o'<Spain>",
+    "10" : "s(Ricardo_Galli) dbp:imagesize o'<180>",
+    "11" : "s(Ricardo_Galli) dbp:url o'<gallir.wordpress.com>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11889",
+  "entityUrl" : "http://dbpedia.org/resource/Rebecca_Staab",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Rebecca_Staab) dbo:birthDate o'<1961-7-27>",
+    "2" : "s(Rebecca_Staab) dbo:birthPlace o'<Hays,_Kansas>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11890",
+  "entityUrl" : "http://dbpedia.org/resource/Rod_Connop",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Rod_Connop) dbo:birthDate o'<1959-06-04>",
+    "2" : "s(Rod_Connop) dbo:birthDate o'<1959-6-4>",
+    "3" : "s(Rod_Connop) dbo:birthPlace o'<North_Vancouver_(district_municipality)>",
+    "4" : "s(Rod_Connop) dbp:awards o'<CFL Most Outstanding Offensive Lineman>",
+    "5" : "s(Rod_Connop) dbp:awards o'<DeMarco-Becket Memorial Trophy>",
+    "6" : "s(Rod_Connop) dbp:careerHighlights o'<* Grey Cup champion>",
+    "7" : "s(Rod_Connop) dbp:cfhof o'<connoprod>",
+    "8" : "s(Rod_Connop) dbp:cfhofyear o'<2005>",
+    "9" : "s(Rod_Connop) dbp:cflallstar o'<, , , , ,>",
+    "10" : "s(Rod_Connop) dbp:cfldraftedpick o'<9>",
+    "11" : "s(Rod_Connop) dbp:cfldraftedround o'<1>",
+    "12" : "s(Rod_Connop) dbp:cfldraftedteam o'<Edmonton_Eskimos>",
+    "13" : "s(Rod_Connop) dbp:cfldraftedyear o'<1982>",
+    "14" : "s(Rod_Connop) dbp:cflwestallstar o'<, , , , , ,>",
+    "15" : "s(Rod_Connop) dbp:cis o'<Wilfrid_Laurier_University>",
+    "16" : "s(Rod_Connop) dbp:heightFt o'<6>",
+    "17" : "s(Rod_Connop) dbp:heightIn o'<4>",
+    "18" : "s(Rod_Connop) dbp:honours o'<2005>",
+    "19" : "s(Rod_Connop) dbp:import o'<no>",
+    "20" : "s(Rod_Connop) dbp:playingTeam o'<Edmonton_Eskimos>",
+    "21" : "s(Rod_Connop) dbp:playingYears o'<â€“>",
+    "22" : "s(Rod_Connop) dbp:position o'<Centre>",
+    "23" : "s(Rod_Connop) dbp:position o'<Guard>",
+    "24" : "s(Rod_Connop) dbp:records o'<Eskimos Record>",
+    "25" : "s(Rod_Connop) dbp:weightLb o'<265>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(rod connop=Rod_Connop) [continued to alltime ] o'<eskimo=Edmonton_Eskimos>"
+  },
+  "abstract" : {
+    "6" : "as of 2011, rod connop<Rod_Connop> continued to be the all-time eskimo<Edmonton_Eskimos> leader in games played (274)\n"
+  }
+} ]

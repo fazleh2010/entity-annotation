@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity10841",
+  "entityUrl" : "http://dbpedia.org/resource/George_Darko",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(George_Darko) dbo:birthDate o'<1951-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10842",
+  "entityUrl" : "http://dbpedia.org/resource/Georg_Ludwig_von_Maurer",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Georg_Ludwig_von_Maurer) dbo:birthDate o'<1790-11-2>",
+    "2" : "s(Georg_Ludwig_von_Maurer) dbo:birthPlace o'<Erpolzheim>",
+    "3" : "s(Georg_Ludwig_von_Maurer) dbo:deathDate o'<1872-5-9>",
+    "4" : "s(Georg_Ludwig_von_Maurer) dbo:deathPlace o'<Munich>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10843",
+  "entityUrl" : "http://dbpedia.org/resource/G%C3%A9rald_Godin",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10844",
+  "entityUrl" : "http://dbpedia.org/resource/George_Hickes",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(George_Hickes) dbo:wikiPageDisambiguates o'<George_Hickes_(Manitoba_politician)>",
+    "2" : "s(George_Hickes) dbo:wikiPageDisambiguates o'<George_Hickes_(Nunavut_politician)>",
+    "3" : "s(George_Hickes) dbo:wikiPageDisambiguates o'<George_Hickes_(divine)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10845",
+  "entityUrl" : "http://dbpedia.org/resource/George_Webbe_Dasent",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(George_Webbe_Dasent) dbo:birthDate o'<1817-1-1>",
+    "2" : "s(George_Webbe_Dasent) dbo:birthPlace o'<Saint_Vincent_(Antilles)>",
+    "3" : "s(George_Webbe_Dasent) dbo:deathDate o'<1896-1-1>",
+    "4" : "s(George_Webbe_Dasent) dbo:deathPlace o'<Ascot,_Berkshire>",
+    "5" : "s(George_Webbe_Dasent) dbp:id o'<Dasent,+George+Webbe,+Sir>",
+    "6" : "s(George_Webbe_Dasent) dbp:name o'<George Webbe Dasent>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10846",
+  "entityUrl" : "http://dbpedia.org/resource/Gerald_Campion",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Gerald_Campion) dbo:activeYearsEndYear o'<1992>",
+    "2" : "s(Gerald_Campion) dbo:activeYearsStartYear o'<1938>",
+    "3" : "s(Gerald_Campion) dbo:birthDate o'<1921-04-23>",
+    "4" : "s(Gerald_Campion) dbo:birthDate o'<1921-4-23>",
+    "5" : "s(Gerald_Campion) dbo:birthName o'<Gerald Theron Campion>",
+    "6" : "s(Gerald_Campion) dbo:birthPlace o'<England>",
+    "7" : "s(Gerald_Campion) dbo:birthPlace o'<London>",
+    "8" : "s(Gerald_Campion) dbo:birthYear o'<1921>",
+    "9" : "s(Gerald_Campion) dbo:deathDate o'<2002-07-09>",
+    "10" : "s(Gerald_Campion) dbo:deathDate o'<2002-7-9>",
+    "11" : "s(Gerald_Campion) dbo:deathPlace o'<Agen>",
+    "12" : "s(Gerald_Campion) dbo:deathPlace o'<France>",
+    "13" : "s(Gerald_Campion) dbo:deathYear o'<2002>",
+    "14" : "s(Gerald_Campion) dbo:occupation o'<Gerald_Campion__1>",
+    "15" : "s(Gerald_Campion) dbo:occupation o'<Actor>",
+    "16" : "s(Gerald_Campion) dbo:parent o'<Cyril_Campion>",
+    "17" : "s(Gerald_Campion) dbp:children o'<Ann, Anthony, Angelica>",
+    "18" : "s(Gerald_Campion) dbp:imageSize o'<150>",
+    "19" : "s(Gerald_Campion) dbp:spouse o'<Jean Symond>",
+    "20" : "s(Gerald_Campion) dbp:spouse o'<Susan Mark>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

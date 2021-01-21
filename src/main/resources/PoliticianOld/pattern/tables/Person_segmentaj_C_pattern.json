@@ -1,0 +1,119 @@
+[ {
+  "entityIndex" : "entity11307",
+  "entityUrl" : "http://dbpedia.org/resource/Claramae_Turner",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Claramae_Turner) dbo:activeYearsEndYear o'<1974>",
+    "2" : "s(Claramae_Turner) dbo:activeYearsStartYear o'<1942>",
+    "3" : "s(Claramae_Turner) dbo:birthDate o'<1920-10-28>",
+    "4" : "s(Claramae_Turner) dbo:birthPlace o'<Dinuba,_California>",
+    "5" : "s(Claramae_Turner) dbo:birthYear o'<1920>",
+    "6" : "s(Claramae_Turner) dbo:deathDate o'<2013-05-18>",
+    "7" : "s(Claramae_Turner) dbo:deathDate o'<2013-5-18>",
+    "8" : "s(Claramae_Turner) dbo:deathPlace o'<Santa_Rosa_Beach,_Florida>",
+    "9" : "s(Claramae_Turner) dbo:deathYear o'<2013>",
+    "10" : "s(Claramae_Turner) dbo:occupation o'<Claramae_Turner__1>",
+    "11" : "s(Claramae_Turner) dbo:occupation o'<Actress>",
+    "12" : "s(Claramae_Turner) dbo:occupation o'<Opera_singer>",
+    "13" : "s(Claramae_Turner) dbp:spouse o'<Robert Turner; Frank Hoffmann>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11308",
+  "entityUrl" : "http://dbpedia.org/resource/Constantin_Levaditi",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Constantin_Levaditi) dbo:birthDate o'<1874-08-01>",
+    "2" : "s(Constantin_Levaditi) dbo:birthDate o'<1874-8-1>",
+    "3" : "s(Constantin_Levaditi) dbo:birthPlace o'<GalaÈ›i>",
+    "4" : "s(Constantin_Levaditi) dbo:deathDate o'<1953-09-05>",
+    "5" : "s(Constantin_Levaditi) dbo:deathDate o'<1953-9-5>",
+    "6" : "s(Constantin_Levaditi) dbo:deathPlace o'<Paris>",
+    "7" : "s(Constantin_Levaditi) dbo:field o'<Virology>",
+    "8" : "s(Constantin_Levaditi) dbo:field o'<Immunology>",
+    "9" : "s(Constantin_Levaditi) dbo:field o'<Microbiology>",
+    "10" : "s(Constantin_Levaditi) dbp:nationality o'<Romanian>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11309",
+  "entityUrl" : "http://dbpedia.org/resource/Cesare_Terranova",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Cesare_Terranova) dbo:birthDate o'<1921-08-25>",
+    "2" : "s(Cesare_Terranova) dbo:birthDate o'<1921-8-15>",
+    "3" : "s(Cesare_Terranova) dbo:birthPlace o'<Palermo>",
+    "4" : "s(Cesare_Terranova) dbo:birthPlace o'<Petralia_Sottana>",
+    "5" : "s(Cesare_Terranova) dbo:birthYear o'<1921>",
+    "6" : "s(Cesare_Terranova) dbo:deathCause o'<Sicilian_Mafia>",
+    "7" : "s(Cesare_Terranova) dbo:deathDate o'<1979-9-25>",
+    "8" : "s(Cesare_Terranova) dbo:deathPlace o'<Palermo>",
+    "9" : "s(Cesare_Terranova) dbo:deathYear o'<1979>",
+    "10" : "s(Cesare_Terranova) dbo:nationality o'<Italian_people>",
+    "11" : "s(Cesare_Terranova) dbo:occupation o'<Cesare_Terranova__1>",
+    "12" : "s(Cesare_Terranova) dbo:party o'<Independent_Left_(Italy)>",
+    "13" : "s(Cesare_Terranova) dbo:stateOfOrigin o'<Italian_people>",
+    "14" : "s(Cesare_Terranova) dbp:knownFor o'<Fight against the Mafia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11310",
+  "entityUrl" : "http://dbpedia.org/resource/Clifford_Erskine-Bolst",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Clifford_Erskine-Bolst) dbo:birthDate o'<1878-0-0>",
+    "2" : "s(Clifford_Erskine-Bolst) dbo:deathDate o'<1946-1-11>",
+    "3" : "s(Clifford_Erskine-Bolst) dbp:after o'<Roland_Robinson,_1st_Baron_Martonmere>",
+    "4" : "s(Clifford_Erskine-Bolst) dbp:after o'<Herbert_Morrison>",
+    "5" : "s(Clifford_Erskine-Bolst) dbp:before o'<Horatio_Bottomley>",
+    "6" : "s(Clifford_Erskine-Bolst) dbp:before o'<Walter_de_Frece>",
+    "7" : "s(Clifford_Erskine-Bolst) dbp:title o'<Member of Parliament for Blackpool>",
+    "8" : "s(Clifford_Erskine-Bolst) dbp:title o'<Member of Parliament for Hackney South>",
+    "9" : "s(Clifford_Erskine-Bolst) dbp:years o'<1922>",
+    "10" : "s(Clifford_Erskine-Bolst) dbp:years o'<1931>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(clifford erskine-bolst=Clifford_Erskine-Bolst) [elected member of ] o'<horatio bottomley=Horatio_Bottomley>"
+  },
+  "abstract" : {
+    "3" : "clifford erskine-bolst<Clifford_Erskine-Bolst> was elected as member of parliament (mp) for hackney south at a by-election in august 1922 following the expulsion of the independent mp horatio bottomley<Horatio_Bottomley>, who had been convicted of fraud\n"
+  }
+}, {
+  "entityIndex" : "entity11311",
+  "entityUrl" : "http://dbpedia.org/resource/Cara_Seymour",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Cara_Seymour) dbo:activeYearsStartYear o'<1997>",
+    "2" : "s(Cara_Seymour) dbo:birthDate o'<1964-01-06>",
+    "3" : "s(Cara_Seymour) dbo:birthDate o'<1964-1-1>",
+    "4" : "s(Cara_Seymour) dbo:birthPlace o'<Essex>",
+    "5" : "s(Cara_Seymour) dbo:birthPlace o'<England>",
+    "6" : "s(Cara_Seymour) dbo:birthYear o'<1964>",
+    "7" : "s(Cara_Seymour) dbo:imdbId o'<0786806>",
+    "8" : "s(Cara_Seymour) dbo:occupation o'<Cara_Seymour__1>",
+    "9" : "s(Cara_Seymour) dbp:imageSize o'<220>",
+    "10" : "s(Cara_Seymour) dbp:name o'<Cara Seymour>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11312",
+  "entityUrl" : "http://dbpedia.org/resource/Craig_McDean",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Craig_McDean) dbo:birthDate o'<1964-1-1>",
+    "2" : "s(Craig_McDean) dbo:birthPlace o'<England>",
+    "3" : "s(Craig_McDean) dbo:birthPlace o'<Middlewich>",
+    "4" : "s(Craig_McDean) dbo:birthYear o'<1964>",
+    "5" : "s(Craig_McDean) dbo:occupation o'<Craig_McDean__1>",
+    "6" : "s(Craig_McDean) dbo:occupation o'<Fashion_photographer>",
+    "7" : "s(Craig_McDean) dbo:residence o'<U.S>",
+    "8" : "s(Craig_McDean) dbo:residence o'<New_york_City>",
+    "9" : "s(Craig_McDean) dbp:spouse o'<Tabitha Simmons>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

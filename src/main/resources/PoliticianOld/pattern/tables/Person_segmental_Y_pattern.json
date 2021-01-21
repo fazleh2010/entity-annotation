@@ -1,0 +1,93 @@
+[ {
+  "entityIndex" : "entity11764",
+  "entityUrl" : "http://dbpedia.org/resource/Ylva_L%C3%B6%C3%B6f",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11765",
+  "entityUrl" : "http://dbpedia.org/resource/Yoshimitsu_Banno",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Yoshimitsu_Banno) dbo:birthDate o'<1931-3-30>",
+    "2" : "s(Yoshimitsu_Banno) dbo:nationality o'<Japanese_people>",
+    "3" : "s(Yoshimitsu_Banno) dbo:occupation o'<Film_director>",
+    "4" : "s(Yoshimitsu_Banno) dbo:occupation o'<Yoshimitsu_Banno__1>",
+    "5" : "s(Yoshimitsu_Banno) dbo:stateOfOrigin o'<Japanese_people>",
+    "6" : "s(Yoshimitsu_Banno) dbp:id o'<133710>",
+    "7" : "s(Yoshimitsu_Banno) dbp:name o'<Yoshimitsu Banno>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11766",
+  "entityUrl" : "http://dbpedia.org/resource/Yukihiko_Tsutsumi",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Yukihiko_Tsutsumi) dbo:birthDate o'<1955-11-03>",
+    "2" : "s(Yukihiko_Tsutsumi) dbo:birthDate o'<1955-11-3>",
+    "3" : "s(Yukihiko_Tsutsumi) dbo:birthPlace o'<Japan>",
+    "4" : "s(Yukihiko_Tsutsumi) dbo:birthPlace o'<Chikusa-ku,_Nagoya>",
+    "5" : "s(Yukihiko_Tsutsumi) dbo:birthPlace o'<Yokkaichi,_Mie>",
+    "6" : "s(Yukihiko_Tsutsumi) dbo:birthYear o'<1955>",
+    "7" : "s(Yukihiko_Tsutsumi) dbo:occupation o'<Film_director>",
+    "8" : "s(Yukihiko_Tsutsumi) dbo:occupation o'<Television_director>",
+    "9" : "s(Yukihiko_Tsutsumi) dbo:occupation o'<Yukihiko_Tsutsumi__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11767",
+  "entityUrl" : "http://dbpedia.org/resource/Yohanan_Alemanno",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Yohanan_Alemanno) dbo:birthDate o'<1435-0-0>",
+    "2" : "s(Yohanan_Alemanno) dbo:birthPlace o'<Mantua>",
+    "3" : "s(Yohanan_Alemanno) dbo:deathDate o'<1504-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11768",
+  "entityUrl" : "http://dbpedia.org/resource/Yolande_II,_Countess_of_Nevers",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Yolande_II,_Countess_of_Nevers) dbo:birthDate o'<1247-12-1>",
+    "2" : "s(Yolande_II,_Countess_of_Nevers) dbo:deathDate o'<1280-06-02>",
+    "3" : "s(Yolande_II,_Countess_of_Nevers) dbo:deathDate o'<1280-6-2>",
+    "4" : "s(Yolande_II,_Countess_of_Nevers) dbo:parent o'<Odo,_Count_of_Nevers>",
+    "5" : "s(Yolande_II,_Countess_of_Nevers) dbo:parent o'<Matilda_II,_Countess_of_Nevers>",
+    "6" : "s(Yolande_II,_Countess_of_Nevers) dbo:spouse o'<Robert_III,_Count_of_Flanders>",
+    "7" : "s(Yolande_II,_Countess_of_Nevers) dbo:spouse o'<John_Tristan,_Count_of_Valois>",
+    "8" : "s(Yolande_II,_Countess_of_Nevers) dbo:title o'<Countess of Nevers, suo jure>",
+    "9" : "s(Yolande_II,_Countess_of_Nevers) dbp:after o'<Louis_I,_Count_of_Nevers>",
+    "10" : "s(Yolande_II,_Countess_of_Nevers) dbp:before o'<Matilda II and Odo>",
+    "11" : "s(Yolande_II,_Countess_of_Nevers) dbp:birthDate o'<December 1249?>",
+    "12" : "s(Yolande_II,_Countess_of_Nevers) dbp:birthPlace o'<Nevers>",
+    "13" : "s(Yolande_II,_Countess_of_Nevers) dbp:nobleFamily o'<House_of_Burgundy>",
+    "14" : "s(Yolande_II,_Countess_of_Nevers) dbp:title o'<List_of_counts_and_dukes_of_Nevers>",
+    "15" : "s(Yolande_II,_Countess_of_Nevers) dbp:years o'<1262>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11769",
+  "entityUrl" : "http://dbpedia.org/resource/Yukio_Sakano",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Yukio_Sakano) dbo:birthDate o'<1976-02-03>",
+    "2" : "s(Yukio_Sakano) dbo:birthDate o'<1976-2-3>",
+    "3" : "s(Yukio_Sakano) dbo:birthPlace o'<Yonezawa,_Yamagata>",
+    "4" : "s(Yukio_Sakano) dbp:additionalpodiums o'<0>",
+    "5" : "s(Yukio_Sakano) dbp:club o'<Snow Brand Ski Team>",
+    "6" : "s(Yukio_Sakano) dbp:id o'<53125>",
+    "7" : "s(Yukio_Sakano) dbp:seasons o'<1997>",
+    "8" : "s(Yukio_Sakano) dbp:seasons o'<2001>",
+    "9" : "s(Yukio_Sakano) dbp:seasons o'<2005>",
+    "10" : "s(Yukio_Sakano) dbp:totalpodiums o'<0>",
+    "11" : "s(Yukio_Sakano) dbp:wins o'<0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity11089",
+  "entityUrl" : "http://dbpedia.org/resource/Uwais_al-Qarani__Uwais_Al-Qarni__1",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11090",
+  "entityUrl" : "http://dbpedia.org/resource/Udal_Mahoba",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Udal_Mahoba) dbo:wikiPageRedirects o'<Udal_of_Mahoba>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11091",
+  "entityUrl" : "http://dbpedia.org/resource/U._K._Sinha",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(U._K._Sinha) dbo:birthDate o'<1952-3-3>",
+    "2" : "s(U._K._Sinha) dbo:occupation o'<U._K._Sinha__1>",
+    "3" : "s(U._K._Sinha) dbo:occupation o'<Securities_and_Exchange_Board_of_India>",
+    "4" : "s(U._K._Sinha) dbo:occupation o'<Chairperson>",
+    "5" : "s(U._K._Sinha) dbp:before o'<C._B._Bhave>",
+    "6" : "s(U._K._Sinha) dbp:footnotes o'<IAS Officer, Bihar Cadre - Batch of 1976,>",
+    "7" : "s(U._K._Sinha) dbp:title o'<Chairman & Managing Director of UTI AMC>",
+    "8" : "s(U._K._Sinha) dbp:years o'<2005>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11092",
+  "entityUrl" : "http://dbpedia.org/resource/Uwe_Reimer",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Uwe_Reimer) dbo:birthDate o'<1948-2-16>",
+    "2" : "s(Uwe_Reimer) dbo:birthPlace o'<Hamburg>",
+    "3" : "s(Uwe_Reimer) dbo:country o'<Germany>",
+    "4" : "s(Uwe_Reimer) dbo:deathDate o'<2004-2-23>",
+    "5" : "s(Uwe_Reimer) dbo:deathPlace o'<GÃ¶ttingen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11093",
+  "entityUrl" : "http://dbpedia.org/resource/Urs_Schwaller",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Urs_Schwaller) dbo:birthDate o'<1952-10-31>",
+    "2" : "s(Urs_Schwaller) dbo:birthPlace o'<Fribourg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11094",
+  "entityUrl" : "http://dbpedia.org/resource/Uku_Masing",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Uku_Masing) dbo:activeYearsEndYear o'<1985>",
+    "2" : "s(Uku_Masing) dbo:activeYearsStartYear o'<1934>",
+    "3" : "s(Uku_Masing) dbo:birthDate o'<1909-08-11>",
+    "4" : "s(Uku_Masing) dbo:birthDate o'<1909-8-11>",
+    "5" : "s(Uku_Masing) dbo:birthName o'<Hugo Albert Masing>",
+    "6" : "s(Uku_Masing) dbo:birthPlace o'<RaikkÃ¼la_Parish>",
+    "7" : "s(Uku_Masing) dbo:birthPlace o'<Governorate_of_Estonia>",
+    "8" : "s(Uku_Masing) dbo:birthPlace o'<Rapla_County>",
+    "9" : "s(Uku_Masing) dbo:birthPlace o'<Russian_Empire>",
+    "10" : "s(Uku_Masing) dbo:birthPlace o'<Lipa,_Estonia>",
+    "11" : "s(Uku_Masing) dbo:birthYear o'<1909>",
+    "12" : "s(Uku_Masing) dbo:deathDate o'<1985-04-25>",
+    "13" : "s(Uku_Masing) dbo:deathDate o'<1985-4-25>",
+    "14" : "s(Uku_Masing) dbo:deathPlace o'<Tartu>",
+    "15" : "s(Uku_Masing) dbo:deathPlace o'<Estonia>",
+    "16" : "s(Uku_Masing) dbo:deathYear o'<1985>",
+    "17" : "s(Uku_Masing) dbo:occupation o'<Philosopher>",
+    "18" : "s(Uku_Masing) dbo:occupation o'<Uku_Masing__1>",
+    "19" : "s(Uku_Masing) dbp:spouse o'<Eha Masing . 1939-1985>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

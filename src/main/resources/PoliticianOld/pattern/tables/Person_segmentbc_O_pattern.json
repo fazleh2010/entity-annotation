@@ -1,0 +1,72 @@
+[ {
+  "entityIndex" : "entity14489",
+  "entityUrl" : "http://dbpedia.org/resource/Oscar_Valicelli",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Oscar_Valicelli) dbo:birthDate o'<1915-7-1>",
+    "2" : "s(Oscar_Valicelli) dbo:birthPlace o'<Buenos_Aires>",
+    "3" : "s(Oscar_Valicelli) dbo:deathDate o'<1999-10-11>",
+    "4" : "s(Oscar_Valicelli) dbo:deathPlace o'<Buenos_Aires>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14490",
+  "entityUrl" : "http://dbpedia.org/resource/Owen_Francis_Dudley",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Owen_Francis_Dudley) dbo:birthDate o'<1882-0-0>",
+    "2" : "s(Owen_Francis_Dudley) dbo:deathDate o'<1952-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14491",
+  "entityUrl" : "http://dbpedia.org/resource/Otto_Sauter",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Otto_Sauter) dbo:birthDate o'<1961-6-23>",
+    "2" : "s(Otto_Sauter) dbo:birthPlace o'<Tengen,_Germany>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14492",
+  "entityUrl" : "http://dbpedia.org/resource/Okano_Keijir%C5%8D",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14493",
+  "entityUrl" : "http://dbpedia.org/resource/Oleksandr_Bondar",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Oleksandr_Bondar) dbo:birthDate o'<1955-1-7>",
+    "2" : "s(Oleksandr_Bondar) dbp:after o'<Mykhailo_Chechetov>",
+    "3" : "s(Oleksandr_Bondar) dbp:before o'<Volodymyr_Lanovy>",
+    "4" : "s(Oleksandr_Bondar) dbp:convocation o'<5>",
+    "5" : "s(Oleksandr_Bondar) dbp:convocation o'<6>",
+    "6" : "s(Oleksandr_Bondar) dbp:deputy o'<People's_Deputy_of_Ukraine>",
+    "7" : "s(Oleksandr_Bondar) dbp:deputyfrom o'<No.37>",
+    "8" : "s(Oleksandr_Bondar) dbp:deputyfrom o'<No.66>",
+    "9" : "s(Oleksandr_Bondar) dbp:end o'<2007-06-14>",
+    "10" : "s(Oleksandr_Bondar) dbp:end o'<2012-12-12>",
+    "11" : "s(Oleksandr_Bondar) dbp:party o'<Ukrainian_Platform_%22Sobor%22>",
+    "12" : "s(Oleksandr_Bondar) dbp:start o'<2006-05-25>",
+    "13" : "s(Oleksandr_Bondar) dbp:start o'<2007-11-23>",
+    "14" : "s(Oleksandr_Bondar) dbp:title o'<Director of State Property Fund of Ukraine>",
+    "15" : "s(Oleksandr_Bondar) dbp:years o'<1998>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14494",
+  "entityUrl" : "http://dbpedia.org/resource/Olaf_Hajek",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Olaf_Hajek) dbo:birthDate o'<1965-12-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity11059",
+  "entityUrl" : "http://dbpedia.org/resource/Pyotr_Vershigora",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Pyotr_Vershigora) dbo:birthDate o'<1905-5-16>",
+    "2" : "s(Pyotr_Vershigora) dbo:birthPlace o'<Podolia_Governorate>",
+    "3" : "s(Pyotr_Vershigora) dbo:deathDate o'<1963-3-23>",
+    "4" : "s(Pyotr_Vershigora) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11060",
+  "entityUrl" : "http://dbpedia.org/resource/Piotr_Micha%C5%82owski",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11061",
+  "entityUrl" : "http://dbpedia.org/resource/Patrick_Stewart,_2nd_Earl_of_Orkney",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Patrick_Stewart,_2nd_Earl_of_Orkney) dbo:deathDate o'<1615-2-6>",
+    "2" : "s(Patrick_Stewart,_2nd_Earl_of_Orkney) dbp:title o'<Earl_of_Orkney>",
+    "3" : "s(Patrick_Stewart,_2nd_Earl_of_Orkney) dbp:years o'<1593>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11062",
+  "entityUrl" : "http://dbpedia.org/resource/Pierre_Nora",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Pierre_Nora) dbo:birthDate o'<1931-11-17>",
+    "2" : "s(Pierre_Nora) dbo:birthPlace o'<Paris>",
+    "3" : "s(Pierre_Nora) dbo:birthPlace o'<France>",
+    "4" : "s(Pierre_Nora) dbo:birthYear o'<1931>",
+    "5" : "s(Pierre_Nora) dbo:nationality o'<France>",
+    "6" : "s(Pierre_Nora) dbo:occupation o'<Pierre_Nora__1>",
+    "7" : "s(Pierre_Nora) dbo:stateOfOrigin o'<France>",
+    "8" : "s(Pierre_Nora) dbp:knownFor o'<Member of the AcadÃ©mie franÃ§aise>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11063",
+  "entityUrl" : "http://dbpedia.org/resource/Peggy_McIntosh",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Peggy_McIntosh) dbo:birthName o'<Margaret McIntosh>",
+    "2" : "s(Peggy_McIntosh) dbo:birthPlace o'<Brooklyn>",
+    "3" : "s(Peggy_McIntosh) dbo:employer o'<Wellesley_College>",
+    "4" : "s(Peggy_McIntosh) dbo:knownFor o'<White_privilege>",
+    "5" : "s(Peggy_McIntosh) dbo:knownFor o'<Male_privilege>",
+    "6" : "s(Peggy_McIntosh) dbo:occupation o'<Peggy_McIntosh__1>",
+    "7" : "s(Peggy_McIntosh) dbp:birthPlace o'<Brooklyn, N.Y.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11064",
+  "entityUrl" : "http://dbpedia.org/resource/Pedro_T%C3%A9llez-Gir%C3%B3n,_9th_Duke_of_Osuna",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

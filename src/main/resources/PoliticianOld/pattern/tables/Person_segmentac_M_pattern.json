@@ -1,0 +1,111 @@
+[ {
+  "entityIndex" : "entity11040",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_Hausman",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Michael_Hausman) dbp:class o'<artist>",
+    "2" : "s(Michael_Hausman) dbp:id o'<p85150>",
+    "3" : "s(Michael_Hausman) dbp:label o'<Michael Hausman>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(michael hausman=Michael_Hausman) [american percussionist ] o'<artist=Artist>"
+  },
+  "abstract" : {
+    "1" : "michael hausman<Michael_Hausman> is an american percussionist and artist<Artist> manager in the music industry"
+  }
+}, {
+  "entityIndex" : "entity11041",
+  "entityUrl" : "http://dbpedia.org/resource/Max_Shulman",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Max_Shulman) dbo:birthDate o'<1919-1-1>",
+    "2" : "s(Max_Shulman) dbo:deathDate o'<1988-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11042",
+  "entityUrl" : "http://dbpedia.org/resource/Marin_Preda",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Marin_Preda) dbo:birthDate o'<1922-8-5>",
+    "2" : "s(Marin_Preda) dbo:birthPlace o'<Teleorman_County>",
+    "3" : "s(Marin_Preda) dbo:deathDate o'<1980-5-16>",
+    "4" : "s(Marin_Preda) dbo:deathPlace o'<Ilfov_County>",
+    "5" : "s(Marin_Preda) dbo:imdbId o'<0695737>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11043",
+  "entityUrl" : "http://dbpedia.org/resource/Mario_Bernardi",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Mario_Bernardi) dbo:award o'<Order_of_Canada>",
+    "2" : "s(Mario_Bernardi) dbo:birthDate o'<1930-08-20>",
+    "3" : "s(Mario_Bernardi) dbo:birthDate o'<1930-8-20>",
+    "4" : "s(Mario_Bernardi) dbo:birthPlace o'<Ontario>",
+    "5" : "s(Mario_Bernardi) dbo:birthPlace o'<Kirkland_Lake>",
+    "6" : "s(Mario_Bernardi) dbo:birthYear o'<1930>",
+    "7" : "s(Mario_Bernardi) dbo:deathDate o'<2013-06-02>",
+    "8" : "s(Mario_Bernardi) dbo:deathDate o'<2013-6-2>",
+    "9" : "s(Mario_Bernardi) dbo:deathPlace o'<Ontario>",
+    "10" : "s(Mario_Bernardi) dbo:deathPlace o'<Toronto>",
+    "11" : "s(Mario_Bernardi) dbo:deathYear o'<2013>",
+    "12" : "s(Mario_Bernardi) dbo:occupation o'<Pianist>",
+    "13" : "s(Mario_Bernardi) dbo:occupation o'<Conducting>",
+    "14" : "s(Mario_Bernardi) dbo:occupation o'<Mario_Bernardi__1>",
+    "15" : "s(Mario_Bernardi) dbo:restingPlace o'<Mount_Pleasant_Cemetery,_Toronto>",
+    "16" : "s(Mario_Bernardi) dbp:after o'<Charles_Mackerras>",
+    "17" : "s(Mario_Bernardi) dbp:before o'<Colin_Davis>",
+    "18" : "s(Mario_Bernardi) dbp:title o'<English_National_Opera>",
+    "19" : "s(Mario_Bernardi) dbp:years o'<1966>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11044",
+  "entityUrl" : "http://dbpedia.org/resource/Michael_J._L._Kirby",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Michael_J._L._Kirby) dbo:birthDate o'<1941-08-05>",
+    "2" : "s(Michael_J._L._Kirby) dbo:birthDate o'<1941-8-5>",
+    "3" : "s(Michael_J._L._Kirby) dbo:birthPlace o'<Montreal>",
+    "4" : "s(Michael_J._L._Kirby) dbo:committee o'<Chair, Standing Committee on Banking, Trade and Commerce (1994-1999)>",
+    "5" : "s(Michael_J._L._Kirby) dbo:committee o'<Chair, Standing Committee on Social Affairs, Science and Technology (1999-2006)>",
+    "6" : "s(Michael_J._L._Kirby) dbo:office o'<Senatorfor South Shore, Nova Scotia>",
+    "7" : "s(Michael_J._L._Kirby) dbo:party o'<Liberal_Party_of_Canada>",
+    "8" : "s(Michael_J._L._Kirby) dbo:termPeriod o'<Michael_J._L._Kirby__1>",
+    "9" : "s(Michael_J._L._Kirby) dbp:appointed o'<Pierre_Trudeau>",
+    "10" : "s(Michael_J._L._Kirby) dbp:honorificPrefix o'<The_Honourable>",
+    "11" : "s(Michael_J._L._Kirby) dbp:termEnd o'<2006>",
+    "12" : "s(Michael_J._L._Kirby) dbp:termStart o'<1984>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(michael j. l. kirby=Michael_J._L._Kirby) [former chair of ] o'<canada=Liberal_Party_of_Canada>",
+    "13" : "s(michael j. l. kirby=Michael_J._L._Kirby) [participated in federalprovincial negotiations ] o'<canadian=Montreal>",
+    "14" : "s(michael j. l. kirby=Michael_J._L._Kirby) [elevated to canadian ] o'<pierre trudeau=Pierre_Trudeau>",
+    "15" : "s(michael j. l. kirby=Michael_J._L._Kirby) [remained active in private ] o'<the liberal party=Liberal_Party_of_Canada>",
+    "23" : "s(michael j. l. kirby=Michael_J._L._Kirby) [asked by prime minister ] o'<canada=Liberal_Party_of_Canada>",
+    "24" : "s(michael j. l. kirby=Michael_J._L._Kirby) [made officer of ] o'<canada=Liberal_Party_of_Canada>"
+  },
+  "abstract" : {
+    "5" : "michael j. l. kirby<Michael_J._L._Kirby> is the former chair of the mental health commission of canada<Liberal_Party_of_Canada>\n",
+    "13" : "as such michael j. l. kirby<Michael_J._L._Kirby> participated in the federal-provincial negotiations that led to the patriation of the canadian<Montreal> constitution in 1982\n",
+    "14" : "michael j. l. kirby<Michael_J._L._Kirby> was elevated to the canadian senate by pierre trudeau<Pierre_Trudeau> in january 1984 weeks before the prime minister announced his intention to retire\n",
+    "15" : "michael j. l. kirby<Michael_J._L._Kirby> remained active in the private sector serving as vice-president of goldfarb consultants from 1984 to 1994 at a period when the polling firm was often employed by the liberal party<Liberal_Party_of_Canada> of canada<Liberal_Party_of_Canada>\n",
+    "23" : "in 2007, michael j. l. kirby<Michael_J._L._Kirby> was asked by prime minister stephen harper to become the first chair of the newly created mental health commission of canada<Liberal_Party_of_Canada>, a not-for-profit organization that was created in response to his 2003 senate report on mental health\n",
+    "24" : "in 2008, michael j. l. kirby<Michael_J._L._Kirby> was made an officer of the order of canada<Liberal_Party_of_Canada>\n"
+  }
+}, {
+  "entityIndex" : "entity11045",
+  "entityUrl" : "http://dbpedia.org/resource/Mikael_Ljungberg",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Mikael_Ljungberg) dbo:birthDate o'<1970-6-13>",
+    "2" : "s(Mikael_Ljungberg) dbo:birthPlace o'<Gothenburg>",
+    "3" : "s(Mikael_Ljungberg) dbo:deathDate o'<2004-11-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

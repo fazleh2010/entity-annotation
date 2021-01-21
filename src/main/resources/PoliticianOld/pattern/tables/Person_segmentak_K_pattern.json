@@ -1,0 +1,78 @@
+[ {
+  "entityIndex" : "entity11518",
+  "entityUrl" : "http://dbpedia.org/resource/Kim_Book",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Kim_Book) dbo:birthDate o'<1946-2-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11519",
+  "entityUrl" : "http://dbpedia.org/resource/Kanta_Rao_(Telugu_actor)",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Kanta_Rao_(Telugu_actor)) dbo:activeYearsEndYear o'<1990>",
+    "2" : "s(Kanta_Rao_(Telugu_actor)) dbo:activeYearsStartYear o'<1950>",
+    "3" : "s(Kanta_Rao_(Telugu_actor)) dbo:alias o'<Kattula Kanta Rao>",
+    "4" : "s(Kanta_Rao_(Telugu_actor)) dbo:alias o'<Nata Prapoorna>",
+    "5" : "s(Kanta_Rao_(Telugu_actor)) dbo:birthDate o'<1923-11-16>",
+    "6" : "s(Kanta_Rao_(Telugu_actor)) dbo:birthPlace o'<Kodad>",
+    "7" : "s(Kanta_Rao_(Telugu_actor)) dbo:birthPlace o'<Hyderabad_State>",
+    "8" : "s(Kanta_Rao_(Telugu_actor)) dbo:birthPlace o'<Telangana>",
+    "9" : "s(Kanta_Rao_(Telugu_actor)) dbo:birthPlace o'<Nalgonda>",
+    "10" : "s(Kanta_Rao_(Telugu_actor)) dbo:birthYear o'<1923>",
+    "11" : "s(Kanta_Rao_(Telugu_actor)) dbo:deathDate o'<2009-03-22>",
+    "12" : "s(Kanta_Rao_(Telugu_actor)) dbo:deathDate o'<2009-3-22>",
+    "13" : "s(Kanta_Rao_(Telugu_actor)) dbo:deathPlace o'<Andhra_Pradesh>",
+    "14" : "s(Kanta_Rao_(Telugu_actor)) dbo:deathPlace o'<Hyderabad>",
+    "15" : "s(Kanta_Rao_(Telugu_actor)) dbo:deathPlace o'<Telangana>",
+    "16" : "s(Kanta_Rao_(Telugu_actor)) dbo:deathYear o'<2009>",
+    "17" : "s(Kanta_Rao_(Telugu_actor)) dbo:occupation o'<Kanta_Rao_(Telugu_actor)__1>",
+    "18" : "s(Kanta_Rao_(Telugu_actor)) dbo:occupation o'<Actor>",
+    "19" : "s(Kanta_Rao_(Telugu_actor)) dbp:spouse o'<Susheela, Hymavati>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(kanta rao (telugu actor)=Kanta_Rao_(Telugu_actor)) [starred in ] o'<telugu=Andhra_Pradesh>",
+    "5" : "s(kanta rao (telugu actor)=Kanta_Rao_(Telugu_actor)) [one of primary ] o'<actors=Actor>",
+    "9" : "s(kanta rao (telugu actor)=Kanta_Rao_(Telugu_actor)) [played lakshmana in blockbuster ] o'<film=Actor>"
+  },
+  "abstract" : {
+    "2" : "kanta rao (telugu actor)<Kanta_Rao_(Telugu_actor)> was starred in more than 400 telugu<Andhra_Pradesh> mythological, social and folklore films\n",
+    "5" : "in the 1960s kanta rao (telugu actor)<Kanta_Rao_(Telugu_actor)> was one of the primary actors<Actor> in telugu<Andhra_Pradesh> cinema, along with n\n",
+    "9" : "kanta rao (telugu actor)<Kanta_Rao_(Telugu_actor)> played lakshmana in the blockbuster film<Actor> lava kusha for which kanta rao (telugu actor)<Kanta_Rao_(Telugu_actor)> has won therashtrapati award for best actor<Actor> in 1963\n"
+  }
+}, {
+  "entityIndex" : "entity11520",
+  "entityUrl" : "http://dbpedia.org/resource/Klaus_Berger",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Klaus_Berger) dbo:birthDate o'<1940-11-25>",
+    "2" : "s(Klaus_Berger) dbo:birthPlace o'<Hildesheim>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11521",
+  "entityUrl" : "http://dbpedia.org/resource/Kathy_Parashis",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Kathy_Parashis) dbo:birthDate o'<1960-11-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11522",
+  "entityUrl" : "http://dbpedia.org/resource/Khurram_Ali_Shafique",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11523",
+  "entityUrl" : "http://dbpedia.org/resource/Kira_Mir%C3%B3",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

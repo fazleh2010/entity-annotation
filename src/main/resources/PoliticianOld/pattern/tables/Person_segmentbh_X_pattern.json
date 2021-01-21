@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity11435",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Yang_(Qing_dynasty)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Xu_Yang_(Qing_dynasty)) dbo:birthDate o'<1712-1-1>",
+    "2" : "s(Xu_Yang_(Qing_dynasty)) dbp:t o'<å¾�æ�š>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11436",
+  "entityUrl" : "http://dbpedia.org/resource/Xhovalin_Delia",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Xhovalin_Delia) dbo:birthDate o'<1959-4-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11437",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Zizhou",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Xu_Zizhou) dbo:birthDate o'<1981-1-8>",
+    "2" : "s(Xu_Zizhou) dbp:countryCode o'<CHN>",
+    "3" : "s(Xu_Zizhou) dbp:sport o'<Men's athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11438",
+  "entityUrl" : "http://dbpedia.org/resource/Xiao_Yehua",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Xiao_Yehua) dbo:birthDate o'<1971-11-6>",
+    "2" : "s(Xiao_Yehua) dbp:countryCode o'<CHN>",
+    "3" : "s(Xiao_Yehua) dbp:sport o'<Women's athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11439",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Legrand",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Xavier_Legrand) dbo:birthDate o'<2000-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11440",
+  "entityUrl" : "http://dbpedia.org/resource/Xue_Fei_(host)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Xue_Fei_(host)) dbo:activeYearsStartYear o'<1982>",
+    "2" : "s(Xue_Fei_(host)) dbo:almaMater o'<Communication_University_of_China>",
+    "3" : "s(Xue_Fei_(host)) dbo:knownFor o'<Xinwen_Lianbo>",
+    "4" : "s(Xue_Fei_(host)) dbo:nationality o'<Chinese_people>",
+    "5" : "s(Xue_Fei_(host)) dbo:occupation o'<Xue_Fei_(host)__1>",
+    "6" : "s(Xue_Fei_(host)) dbo:residence o'<Beijing>",
+    "7" : "s(Xue_Fei_(host)) dbo:stateOfOrigin o'<Chinese_people>",
+    "8" : "s(Xue_Fei_(host)) dbp:links o'<no>",
+    "9" : "s(Xue_Fei_(host)) dbp:p o'<Xue Fei>",
+    "10" : "s(Xue_Fei_(host)) dbp:t o'<è–›é£›>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

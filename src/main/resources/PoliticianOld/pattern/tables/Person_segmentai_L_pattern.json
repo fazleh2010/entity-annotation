@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "entity11199",
+  "entityUrl" : "http://dbpedia.org/resource/Louis_Gallois",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Louis_Gallois) dbo:almaMater o'<HEC_Paris>",
+    "2" : "s(Louis_Gallois) dbo:almaMater o'<Ã‰cole_nationale_d'administration>",
+    "3" : "s(Louis_Gallois) dbo:birthDate o'<1944-01-26>",
+    "4" : "s(Louis_Gallois) dbo:birthDate o'<1944-1-26>",
+    "5" : "s(Louis_Gallois) dbo:birthPlace o'<Montauban>",
+    "6" : "s(Louis_Gallois) dbo:birthPlace o'<France>",
+    "7" : "s(Louis_Gallois) dbo:birthYear o'<1944>",
+    "8" : "s(Louis_Gallois) dbo:nationality o'<France>",
+    "9" : "s(Louis_Gallois) dbo:occupation o'<Ã‰cole_Centrale_Paris>",
+    "10" : "s(Louis_Gallois) dbo:occupation o'<Louis_Gallois__1>",
+    "11" : "s(Louis_Gallois) dbo:stateOfOrigin o'<France>",
+    "12" : "s(Louis_Gallois) dbp:after o'<Tom_Enders>",
+    "13" : "s(Louis_Gallois) dbp:before o'<Christian_Streiff>",
+    "14" : "s(Louis_Gallois) dbp:title o'<CEO of EADS>",
+    "15" : "s(Louis_Gallois) dbp:years o'<2007>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11200",
+  "entityUrl" : "http://dbpedia.org/resource/Luis_Ponce_de_Le%C3%B3n_(governor_of_New_Spain)",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11201",
+  "entityUrl" : "http://dbpedia.org/resource/Larry_DiTillio",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Larry_DiTillio) dbo:birthDate o'<1940-0-0>",
+    "2" : "s(Larry_DiTillio) dbo:imdbId o'<0228489>",
+    "3" : "s(Larry_DiTillio) dbp:name o'<Larry DiTillio>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11202",
+  "entityUrl" : "http://dbpedia.org/resource/L%C3%A9on_B%C3%A9rard",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11203",
+  "entityUrl" : "http://dbpedia.org/resource/Linda_Moes",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Linda_Moes) dbo:birthDate o'<1971-9-24>",
+    "2" : "s(Linda_Moes) dbo:birthPlace o'<Q14212973>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11204",
+  "entityUrl" : "http://dbpedia.org/resource/Lewwis_Spence",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Lewwis_Spence) dbo:birthDate o'<1987-10-29>",
+    "2" : "s(Lewwis_Spence) dbo:birthPlace o'<London>",
+    "3" : "s(Lewwis_Spence) dbo:birthPlace o'<Lambeth>",
+    "4" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__1>",
+    "5" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__10>",
+    "6" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__11>",
+    "7" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__2>",
+    "8" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__3>",
+    "9" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__4>",
+    "10" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__5>",
+    "11" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__6>",
+    "12" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__7>",
+    "13" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__8>",
+    "14" : "s(Lewwis_Spence) dbo:careerStation o'<Lewwis_Spence__9>",
+    "15" : "s(Lewwis_Spence) dbo:height o'<180.34>",
+    "16" : "s(Lewwis_Spence) dbo:height o'<1.8034>",
+    "17" : "s(Lewwis_Spence) dbo:position o'<Midfielder>",
+    "18" : "s(Lewwis_Spence) dbo:team o'<Crystal_Palace_Baltimore>",
+    "19" : "s(Lewwis_Spence) dbo:team o'<Crystal_Palace_F.C.>",
+    "20" : "s(Lewwis_Spence) dbo:team o'<Wycombe_Wanderers_F.C.>",
+    "21" : "s(Lewwis_Spence) dbo:team o'<Greenwich_Borough_F.C.>",
+    "22" : "s(Lewwis_Spence) dbo:team o'<Thurrock_F.C.>",
+    "23" : "s(Lewwis_Spence) dbo:team o'<Dover_Athletic_F.C.>",
+    "24" : "s(Lewwis_Spence) dbo:team o'<Forest_Green_Rovers_F.C.>",
+    "25" : "s(Lewwis_Spence) dbo:team o'<Rushden_&_Diamonds_F.C.>",
+    "26" : "s(Lewwis_Spence) dbo:team o'<Bishops_Stortford_F.C.>",
+    "27" : "s(Lewwis_Spence) dbp:caps o'<?>",
+    "28" : "s(Lewwis_Spence) dbp:goals o'<?>",
+    "29" : "s(Lewwis_Spence) dbp:imageSize o'<200>",
+    "30" : "s(Lewwis_Spence) dbp:pcupdate o'<--01-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "entity11005",
+  "entityUrl" : "http://dbpedia.org/resource/Guido_Stampacchia",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Guido_Stampacchia) dbo:birthDate o'<1926-03-26>",
+    "2" : "s(Guido_Stampacchia) dbo:birthDate o'<1922-3-26>",
+    "3" : "s(Guido_Stampacchia) dbo:birthPlace o'<Napoli>",
+    "4" : "s(Guido_Stampacchia) dbo:birthPlace o'<Naples>",
+    "5" : "s(Guido_Stampacchia) dbo:deathCause o'<Heart_attack>",
+    "6" : "s(Guido_Stampacchia) dbo:deathDate o'<1978-4-27>",
+    "7" : "s(Guido_Stampacchia) dbo:deathPlace o'<Paris>",
+    "8" : "s(Guido_Stampacchia) dbo:nationality o'<Italia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11006",
+  "entityUrl" : "http://dbpedia.org/resource/Gennadi_Gerasimov",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Gennadi_Gerasimov) dbo:birthDate o'<1930-3-3>",
+    "2" : "s(Gennadi_Gerasimov) dbo:birthPlace o'<Yelabuga>",
+    "3" : "s(Gennadi_Gerasimov) dbo:deathDate o'<2010-9-14>",
+    "4" : "s(Gennadi_Gerasimov) dbo:deathPlace o'<Moscow>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11007",
+  "entityUrl" : "http://dbpedia.org/resource/Gedhe_Pamanahan",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Gedhe_Pamanahan) dbp:after o'<Sutawijaya>",
+    "2" : "s(Gedhe_Pamanahan) dbp:before o'<&mdash;>",
+    "3" : "s(Gedhe_Pamanahan) dbp:title o'<Sultan_of_Mataram>",
+    "4" : "s(Gedhe_Pamanahan) dbp:years o'<1570>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11008",
+  "entityUrl" : "http://dbpedia.org/resource/Guigues_VII_of_Viennois",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Guigues_VII_of_Viennois) dbo:birthDate o'<1225-0-0>",
+    "2" : "s(Guigues_VII_of_Viennois) dbo:deathDate o'<1269-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11009",
+  "entityUrl" : "http://dbpedia.org/resource/Gail_Brewer-Giorgio",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11010",
+  "entityUrl" : "http://dbpedia.org/resource/Gary_Kinsman",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Gary_Kinsman) dbo:birthDate o'<1955-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

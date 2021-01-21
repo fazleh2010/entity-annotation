@@ -124,6 +124,7 @@ public class FileUtilsAnno {
     }
 
     public static List<File> getFiles(String fileDir, String extension) {
+        System.out.println(fileDir);
         String[] files = new File(fileDir).list();
         List<File> selectedFiles = new ArrayList<File>();
         for (String fileName : files) {

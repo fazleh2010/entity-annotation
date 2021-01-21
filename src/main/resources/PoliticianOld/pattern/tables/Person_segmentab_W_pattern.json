@@ -1,0 +1,152 @@
+[ {
+  "entityIndex" : "entity10937",
+  "entityUrl" : "http://dbpedia.org/resource/Wilhelm_Scherer",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Wilhelm_Scherer) dbo:birthDate o'<1841-04-26>",
+    "2" : "s(Wilhelm_Scherer) dbo:birthDate o'<1841-4-26>",
+    "3" : "s(Wilhelm_Scherer) dbo:birthPlace o'<GÃ¶llersdorf>",
+    "4" : "s(Wilhelm_Scherer) dbo:birthPlace o'<Austria>",
+    "5" : "s(Wilhelm_Scherer) dbo:birthPlace o'<Austrian_Empire>",
+    "6" : "s(Wilhelm_Scherer) dbo:birthPlace o'<Lower_Austria>",
+    "7" : "s(Wilhelm_Scherer) dbo:birthYear o'<1841>",
+    "8" : "s(Wilhelm_Scherer) dbo:deathDate o'<1886-08-06>",
+    "9" : "s(Wilhelm_Scherer) dbo:deathDate o'<1886-8-6>",
+    "10" : "s(Wilhelm_Scherer) dbo:deathPlace o'<Berlin>",
+    "11" : "s(Wilhelm_Scherer) dbo:deathYear o'<1886>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10938",
+  "entityUrl" : "http://dbpedia.org/resource/Weesaw",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Weesaw) dbo:birthDate o'<1785-1-1>",
+    "2" : "s(Weesaw) dbo:deathDate o'<1836-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10939",
+  "entityUrl" : "http://dbpedia.org/resource/Wawatam",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Wawatam) dbo:birthDate o'<1717-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10940",
+  "entityUrl" : "http://dbpedia.org/resource/William_Stephenson",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(William_Stephenson) dbo:birthDate o'<1897-1-23>",
+    "2" : "s(William_Stephenson) dbo:birthPlace o'<Winnipeg>",
+    "3" : "s(William_Stephenson) dbo:deathDate o'<1989-1-31>",
+    "4" : "s(William_Stephenson) dbp:award o'<Companion_of_the_Order_of_Canada>",
+    "5" : "s(William_Stephenson) dbp:award o'<Military_Cross>",
+    "6" : "s(William_Stephenson) dbp:award o'<Medal_for_Merit>",
+    "7" : "s(William_Stephenson) dbp:award o'<Distinguished_Flying_Cross_(United_Kingdom)>",
+    "8" : "s(William_Stephenson) dbp:award o'<Knight_Bachelor>",
+    "9" : "s(William_Stephenson) dbp:birthDate o'<1897-01-23>",
+    "10" : "s(William_Stephenson) dbp:birthName o'<William Samuel Clouston Stanger>",
+    "11" : "s(William_Stephenson) dbp:birthPlace o'<Manitoba>",
+    "12" : "s(William_Stephenson) dbp:birthPlace o'<Winnipeg>",
+    "13" : "s(William_Stephenson) dbp:birthPlace o'<Canada>",
+    "14" : "s(William_Stephenson) dbp:codename o'<Intrepid>",
+    "15" : "s(William_Stephenson) dbp:deathDate o'<1989-01-31>",
+    "16" : "s(William_Stephenson) dbp:deathPlace o'<Paget, Bermuda>",
+    "17" : "s(William_Stephenson) dbp:height o'<165.1>",
+    "18" : "s(William_Stephenson) dbp:name o'<Sir William Samuel Stephenson>",
+    "19" : "s(William_Stephenson) dbp:nationality o'<Canadians>",
+    "20" : "s(William_Stephenson) dbp:nickname o'<\"Little Bill\">",
+    "21" : "s(William_Stephenson) dbp:occupation o'<Industrialist, scientist, inventor, businessman, soldier, spymaster>",
+    "22" : "s(William_Stephenson) dbp:operation o'<World_War_II>",
+    "23" : "s(William_Stephenson) dbp:operation o'<World_War_I>",
+    "24" : "s(William_Stephenson) dbp:rank o'<Captain_(land)>",
+    "25" : "s(William_Stephenson) dbp:religion o'<Presbyterian>",
+    "26" : "s(William_Stephenson) dbp:service o'<British_Security_Coordination>",
+    "27" : "s(William_Stephenson) dbp:spouse o'<Mary French Simmons>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(william stephenson=William_Stephenson) [best known by his ] o'<wartime=World_War_II>"
+  },
+  "abstract" : {
+    "2" : "william stephenson<William_Stephenson> is best known by his wartime<World_War_II> intelligence codename intrepid\n"
+  }
+}, {
+  "entityIndex" : "entity10941",
+  "entityUrl" : "http://dbpedia.org/resource/William_Forsythe_(actor)",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(William_Forsythe_(actor)) dbo:activeYearsStartYear o'<1978>",
+    "2" : "s(William_Forsythe_(actor)) dbo:birthDate o'<1955-06-07>",
+    "3" : "s(William_Forsythe_(actor)) dbo:birthDate o'<1955-6-7>",
+    "4" : "s(William_Forsythe_(actor)) dbo:birthPlace o'<New_York_City>",
+    "5" : "s(William_Forsythe_(actor)) dbo:birthPlace o'<New_York_(state)>",
+    "6" : "s(William_Forsythe_(actor)) dbo:birthPlace o'<Bedford-Stuyvesant,_Brooklyn>",
+    "7" : "s(William_Forsythe_(actor)) dbo:birthYear o'<1955>",
+    "8" : "s(William_Forsythe_(actor)) dbo:nationality o'<United_States>",
+    "9" : "s(William_Forsythe_(actor)) dbo:occupation o'<William_Forsythe_(actor)__1>",
+    "10" : "s(William_Forsythe_(actor)) dbp:imageSize o'<150>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(william forsythe (actor)=William_Forsythe_(actor)) [well known for ] o'<america=United_States>"
+  },
+  "abstract" : {
+    "2" : "william forsythe (actor)<William_Forsythe_(actor)> is most well known for his portrayal of various gangsters and tough guys in films such as raising arizona, once upon a time in america<United_States>, stone cold, out for justice, things to do in denver when you're dead, dick tracy, the rock, and the devil's rejects\n"
+  }
+}, {
+  "entityIndex" : "entity10942",
+  "entityUrl" : "http://dbpedia.org/resource/Walter_Lea",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Walter_Lea) dbo:birthDate o'<1874-02-10>",
+    "2" : "s(Walter_Lea) dbo:birthDate o'<1874-2-10>",
+    "3" : "s(Walter_Lea) dbo:birthPlace o'<Tryon,_Prince_Edward_Island>",
+    "4" : "s(Walter_Lea) dbo:deathDate o'<1936-01-10>",
+    "5" : "s(Walter_Lea) dbo:deathDate o'<1936-1-10>",
+    "6" : "s(Walter_Lea) dbo:deathPlace o'<Prince_Edward_Island>",
+    "7" : "s(Walter_Lea) dbo:deathPlace o'<Charlottetown>",
+    "8" : "s(Walter_Lea) dbo:monarch o'<George_V>",
+    "9" : "s(Walter_Lea) dbo:office o'<Leader of thePrince Edward Island Liberal Party>",
+    "10" : "s(Walter_Lea) dbo:office o'<17thPremier of Prince Edward Island>",
+    "11" : "s(Walter_Lea) dbo:office o'<MLA(Councillor) for4th Prince>",
+    "12" : "s(Walter_Lea) dbo:office o'<Minister of Agriculture (1919â€“1923)>",
+    "13" : "s(Walter_Lea) dbo:office o'<Commissioner of Agriculture and Provincial Secretary-General (1927â€“1930)>",
+    "14" : "s(Walter_Lea) dbo:party o'<Prince_Edward_Island_Liberal_Party>",
+    "15" : "s(Walter_Lea) dbo:predecessor o'<William_J._P._MacMillan>",
+    "16" : "s(Walter_Lea) dbo:predecessor o'<Albert_C._Saunders>",
+    "17" : "s(Walter_Lea) dbo:predecessor o'<John_Howard_Myers>",
+    "18" : "s(Walter_Lea) dbo:predecessor o'<Michael_C._Delaney>",
+    "19" : "s(Walter_Lea) dbo:relation o'<William_C._Lea>",
+    "20" : "s(Walter_Lea) dbo:religion o'<Methodist>",
+    "21" : "s(Walter_Lea) dbo:residence o'<Victoria,_Prince_Edward_Island>",
+    "22" : "s(Walter_Lea) dbo:successor o'<Thane_Campbell>",
+    "23" : "s(Walter_Lea) dbo:successor o'<James_D._Stewart>",
+    "24" : "s(Walter_Lea) dbo:successor o'<Thane_A._Campbell>",
+    "25" : "s(Walter_Lea) dbo:successor o'<John_Howard_Myers>",
+    "26" : "s(Walter_Lea) dbo:successor o'<Horace_Wright>",
+    "27" : "s(Walter_Lea) dbo:termPeriod o'<Walter_Lea__1>",
+    "28" : "s(Walter_Lea) dbo:termPeriod o'<Walter_Lea__2>",
+    "29" : "s(Walter_Lea) dbo:termPeriod o'<Walter_Lea__3>",
+    "30" : "s(Walter_Lea) dbo:termPeriod o'<Walter_Lea__4>",
+    "31" : "s(Walter_Lea) dbo:termPeriod o'<Walter_Lea__5>",
+    "32" : "s(Walter_Lea) dbp:children o'<Marion, Edith, Gordon, Chester, and Clifford>",
+    "33" : "s(Walter_Lea) dbp:lieutenantGovernor o'<Charles_Dalton>",
+    "34" : "s(Walter_Lea) dbp:lieutenantGovernor o'<Frank_Richard_Heartz>",
+    "35" : "s(Walter_Lea) dbp:lieutenantGovernor o'<George_Des_Brisay_de_Blois>",
+    "36" : "s(Walter_Lea) dbp:nationality o'<Canadian>",
+    "37" : "s(Walter_Lea) dbp:occupation o'<farmer and livestock breeder>",
+    "38" : "s(Walter_Lea) dbp:profession o'<Politician>",
+    "39" : "s(Walter_Lea) dbp:spouse o'<1899>",
+    "40" : "s(Walter_Lea) dbp:spouse o'<Helena Esma Maude Mary Rogerson>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(walter lea=Walter_Lea) [lost election next ] o'<prince edward island=Prince_Edward_Island>"
+  },
+  "abstract" : {
+    "5" : "in 1930 lea became premier when his predecessor was appointed to the supreme court of prince edward island<Prince_Edward_Island> but the great depression took a toll on the government's popularity and walter lea<Walter_Lea> lost the election the next year to the rival conservative party of prince edward island<Prince_Edward_Island>\n"
+  }
+} ]

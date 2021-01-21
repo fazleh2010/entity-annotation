@@ -1,0 +1,100 @@
+[ {
+  "entityIndex" : "entity11279",
+  "entityUrl" : "http://dbpedia.org/resource/Xiang_Ying",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Xiang_Ying) dbo:birthDate o'<1895-1-1>",
+    "2" : "s(Xiang_Ying) dbo:deathDate o'<1941-1-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11280",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Zhonglin_(writer)",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Xu_Zhonglin_(writer)) dbo:wikiPageRedirects o'<Xu_Zhonglin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11281",
+  "entityUrl" : "http://dbpedia.org/resource/Xing_Lin",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Xing_Lin) dbo:birthDate o'<1979-5-25>",
+    "2" : "s(Xing_Lin) dbo:birthPlace o'<Shenyang>",
+    "3" : "s(Xing_Lin) dbp:c o'<é‚¢ç�³>",
+    "4" : "s(Xing_Lin) dbp:p o'<XÃ­ng LÃ­n>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11282",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Llobet",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Xavier_Llobet) dbo:birthDate o'<1974-5-16>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11283",
+  "entityUrl" : "http://dbpedia.org/resource/Xun_You",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Xun_You) dbo:birthDate o'<157-1-1>",
+    "2" : "s(Xun_You) dbo:deathDate o'<214-1-1>",
+    "3" : "s(Xun_You) dbp:birthDate o'<157>",
+    "4" : "s(Xun_You) dbp:deathDate o'<214>",
+    "5" : "s(Xun_You) dbp:kingdom o'<Cao_Cao>",
+    "6" : "s(Xun_You) dbp:name o'<Xun You>",
+    "7" : "s(Xun_You) dbp:pinyin o'<XÃºn YÅ�u>",
+    "8" : "s(Xun_You) dbp:post o'<Marquis Jing>",
+    "9" : "s(Xun_You) dbp:simp o'<è�€æ”¸>",
+    "10" : "s(Xun_You) dbp:title o'<Strategist>",
+    "11" : "s(Xun_You) dbp:trad o'<è�€æ”¸>",
+    "12" : "s(Xun_You) dbp:wg o'<HsÃ¼n Yu>",
+    "13" : "s(Xun_You) dbp:zi o'<Gongda>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(xun you=Xun_You) [157214 courtesy name gongda ] o'<cao cao=Cao_Cao>",
+    "2" : "s(xun you=Xun_You) [helped advised ] o'<cao cao=Cao_Cao>",
+    "3" : "s(xun you=Xun_You) [later opposed ] o'<cao cao=Cao_Cao>",
+    "4" : "s(xun you=Xun_You) [in age better known ] o'<cao cao=Cao_Cao>"
+  },
+  "abstract" : {
+    "1" : "xun you<Xun_You> (157â€“214), courtesy name gongda, was a politician who served as an advisor to the warlord cao cao<Cao_Cao> in the late eastern han dynasty",
+    "2" : "xun you<Xun_You> helped advised cao cao<Cao_Cao> in the battle of red cliffs alongside cheng yu\n",
+    "3" : "xun you<Xun_You> later opposed cao cao<Cao_Cao> taking the title of \"king of wei\"\n",
+    "4" : "his uncle xun yu, who was younger than xun you<Xun_You> in age, was better known for opposing cao cao<Cao_Cao> accepting the title of duke"
+  }
+}, {
+  "entityIndex" : "entity11284",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_de_Villepin",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Xavier_de_Villepin) dbo:birthDate o'<1926-03-14>",
+    "2" : "s(Xavier_de_Villepin) dbo:birthDate o'<1926-3-14>",
+    "3" : "s(Xavier_de_Villepin) dbo:birthPlace o'<Belgium>",
+    "4" : "s(Xavier_de_Villepin) dbo:birthPlace o'<Brussels>",
+    "5" : "s(Xavier_de_Villepin) dbo:birthPlace o'<Q9005>",
+    "6" : "s(Xavier_de_Villepin) dbo:birthYear o'<1926>",
+    "7" : "s(Xavier_de_Villepin) dbo:deathDate o'<2014-10-29>",
+    "8" : "s(Xavier_de_Villepin) dbo:deathDate o'<2014-10-30>",
+    "9" : "s(Xavier_de_Villepin) dbo:deathPlace o'<Paris>",
+    "10" : "s(Xavier_de_Villepin) dbo:deathPlace o'<France>",
+    "11" : "s(Xavier_de_Villepin) dbo:deathYear o'<2014>",
+    "12" : "s(Xavier_de_Villepin) dbo:education o'<Harvard_Business_School>",
+    "13" : "s(Xavier_de_Villepin) dbo:education o'<HEC_Paris>",
+    "14" : "s(Xavier_de_Villepin) dbo:nationality o'<France>",
+    "15" : "s(Xavier_de_Villepin) dbo:occupation o'<Xavier_de_Villepin__1>",
+    "16" : "s(Xavier_de_Villepin) dbo:relative o'<Dominique_de_Villepin>",
+    "17" : "s(Xavier_de_Villepin) dbo:stateOfOrigin o'<France>",
+    "18" : "s(Xavier_de_Villepin) dbp:bot o'<InternetArchiveBot>",
+    "19" : "s(Xavier_de_Villepin) dbp:date o'<July 2016>",
+    "20" : "s(Xavier_de_Villepin) dbp:fixAttempted o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,62 @@
+[ {
+  "entityIndex" : "entity14212",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Brouwer",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14213",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Thaninayagam",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Xavier_Thaninayagam) dbo:birthDate o'<1913-08-02>",
+    "2" : "s(Xavier_Thaninayagam) dbo:birthDate o'<1913-8-2>",
+    "3" : "s(Xavier_Thaninayagam) dbo:birthPlace o'<Sri_Lanka>",
+    "4" : "s(Xavier_Thaninayagam) dbo:birthPlace o'<Kayts>",
+    "5" : "s(Xavier_Thaninayagam) dbo:birthPlace o'<Jaffna_District>",
+    "6" : "s(Xavier_Thaninayagam) dbo:birthYear o'<1913>",
+    "7" : "s(Xavier_Thaninayagam) dbo:deathDate o'<1980-09-01>",
+    "8" : "s(Xavier_Thaninayagam) dbo:deathDate o'<1980-9-1>",
+    "9" : "s(Xavier_Thaninayagam) dbo:deathPlace o'<Sri_Lanka>",
+    "10" : "s(Xavier_Thaninayagam) dbo:deathPlace o'<Jaffna>",
+    "11" : "s(Xavier_Thaninayagam) dbo:deathYear o'<1980>",
+    "12" : "s(Xavier_Thaninayagam) dbo:nationality o'<Sri_Lankan_Tamil>",
+    "13" : "s(Xavier_Thaninayagam) dbo:stateOfOrigin o'<Sri_Lankan_Tamil>",
+    "14" : "s(Xavier_Thaninayagam) dbp:knownFor o'<Founder of the International Association for Tamil Research>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14214",
+  "entityUrl" : "http://dbpedia.org/resource/Xuejun_Chen",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14215",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Pag%C3%A8s_i_Corella",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14216",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Serra",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Xavier_Serra) dbo:birthDate o'<1959-9-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14217",
+  "entityUrl" : "http://dbpedia.org/resource/Xander_Kostroma",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Xander_Kostroma) dbo:birthDate o'<1987-4-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,79 @@
+[ {
+  "entityIndex" : "entity11181",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Ritchie_(producer)",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11182",
+  "entityUrl" : "http://dbpedia.org/resource/Ifor_Davies",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Ifor_Davies) dbo:birthDate o'<1910-6-9>",
+    "2" : "s(Ifor_Davies) dbo:deathDate o'<1982-6-6>",
+    "3" : "s(Ifor_Davies) dbp:after o'<Gareth_Wardell>",
+    "4" : "s(Ifor_Davies) dbp:before o'<David_Grenfell>",
+    "5" : "s(Ifor_Davies) dbp:title o'<Member of Parliament for Gower>",
+    "6" : "s(Ifor_Davies) dbp:years o'<1959>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(ifor davies=Ifor_Davies) [election agent to his ] o'<david grenfell=David_Grenfell>",
+    "9" : "s(ifor davies=Ifor_Davies) [succeeded by ] o'<gareth wardell=Gareth_Wardell>"
+  },
+  "abstract" : {
+    "6" : "prior to election to parliament, ifor davies<Ifor_Davies> was election agent to his predecessor david grenfell<David_Grenfell>\n",
+    "9" : "ifor davies<Ifor_Davies> was succeeded by gareth wardell<Gareth_Wardell>\n"
+  }
+}, {
+  "entityIndex" : "entity11183",
+  "entityUrl" : "http://dbpedia.org/resource/Imma_von_Bodmershof",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Imma_von_Bodmershof) dbo:birthDate o'<1895-8-10>",
+    "2" : "s(Imma_von_Bodmershof) dbo:birthPlace o'<Graz>",
+    "3" : "s(Imma_von_Bodmershof) dbo:deathDate o'<1982-8-26>",
+    "4" : "s(Imma_von_Bodmershof) dbo:deathPlace o'<GfÃ¶hl>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11184",
+  "entityUrl" : "http://dbpedia.org/resource/Isabella_of_Villehardouin",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Isabella_of_Villehardouin) dbo:birthDate o'<1263-1-1>",
+    "2" : "s(Isabella_of_Villehardouin) dbo:deathDate o'<1312-1-23>",
+    "3" : "s(Isabella_of_Villehardouin) dbp:title o'<Principality_of_Achaea>",
+    "4" : "s(Isabella_of_Villehardouin) dbp:with o'<Florent of Hainaut and Philip I of Savoy>",
+    "5" : "s(Isabella_of_Villehardouin) dbp:years o'<1289>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11185",
+  "entityUrl" : "http://dbpedia.org/resource/Irving_Green",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Irving_Green) dbo:birthDate o'<1916-2-6>",
+    "2" : "s(Irving_Green) dbo:birthPlace o'<New_York_City>",
+    "3" : "s(Irving_Green) dbo:country o'<United_States>",
+    "4" : "s(Irving_Green) dbo:deathDate o'<2006-7-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11186",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_Schour",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Isaac_Schour) dbo:birthDate o'<1900-1-1>",
+    "2" : "s(Isaac_Schour) dbo:deathDate o'<1964-1-1>",
+    "3" : "s(Isaac_Schour) dbp:after o'<Seymour H. Yale>",
+    "4" : "s(Isaac_Schour) dbp:before o'<Allan_G._Brodie>",
+    "5" : "s(Isaac_Schour) dbp:title o'<Deans of the University of Illinois at Chicago College of Dentistry>",
+    "6" : "s(Isaac_Schour) dbp:years o'<1956>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

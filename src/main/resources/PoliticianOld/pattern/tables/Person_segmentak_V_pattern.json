@@ -1,0 +1,87 @@
+[ {
+  "entityIndex" : "entity11584",
+  "entityUrl" : "http://dbpedia.org/resource/Vincent_McDermott",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Vincent_McDermott) dbo:birthDate o'<1933-9-5>",
+    "2" : "s(Vincent_McDermott) dbp:reference o'<Stabler, David. 1990. \"'The King of Bali' A Crowning Achievement\". The Oregonian : R32.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11585",
+  "entityUrl" : "http://dbpedia.org/resource/Volney_Rogers",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Volney_Rogers) dbo:birthDate o'<1846-12-01>",
+    "2" : "s(Volney_Rogers) dbo:birthDate o'<1846-12-1>",
+    "3" : "s(Volney_Rogers) dbo:birthPlace o'<East_Palestine,_Ohio>",
+    "4" : "s(Volney_Rogers) dbo:birthYear o'<1846>",
+    "5" : "s(Volney_Rogers) dbo:deathDate o'<1919-12-03>",
+    "6" : "s(Volney_Rogers) dbo:deathDate o'<1919-12-3>",
+    "7" : "s(Volney_Rogers) dbo:deathPlace o'<CaÃ±on_City,_Colorado>",
+    "8" : "s(Volney_Rogers) dbo:deathYear o'<1919>",
+    "9" : "s(Volney_Rogers) dbo:knownFor o'<Mill_Creek_Park>",
+    "10" : "s(Volney_Rogers) dbp:imageSize o'<165>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11586",
+  "entityUrl" : "http://dbpedia.org/resource/Vincenzo_Maenza",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Vincenzo_Maenza) dbo:birthDate o'<1962-05-02>",
+    "2" : "s(Vincenzo_Maenza) dbo:birthDate o'<1962-5-2>",
+    "3" : "s(Vincenzo_Maenza) dbo:birthPlace o'<Italy>",
+    "4" : "s(Vincenzo_Maenza) dbo:birthPlace o'<Imola>",
+    "5" : "s(Vincenzo_Maenza) dbo:height o'<160.0>",
+    "6" : "s(Vincenzo_Maenza) dbo:height o'<1.6>",
+    "7" : "s(Vincenzo_Maenza) dbo:weight o'<48.0>",
+    "8" : "s(Vincenzo_Maenza) dbo:weight o'<48000.0>",
+    "9" : "s(Vincenzo_Maenza) dbp:club o'<CISA Faenza>",
+    "10" : "s(Vincenzo_Maenza) dbp:event o'<Greco-Roman_wrestling>",
+    "11" : "s(Vincenzo_Maenza) dbp:showMedals o'<yes>",
+    "12" : "s(Vincenzo_Maenza) dbp:sport o'<Wrestling>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11587",
+  "entityUrl" : "http://dbpedia.org/resource/Vladimir_Shainsky",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Vladimir_Shainsky) dbo:birthDate o'<1925-12-12>",
+    "2" : "s(Vladimir_Shainsky) dbo:birthPlace o'<Ukrainian_SSR>",
+    "3" : "s(Vladimir_Shainsky) dbo:birthPlace o'<Soviet_Union>",
+    "4" : "s(Vladimir_Shainsky) dbo:birthPlace o'<Kiev>",
+    "5" : "s(Vladimir_Shainsky) dbo:birthYear o'<1925>",
+    "6" : "s(Vladimir_Shainsky) dbo:imdbId o'<0787607>",
+    "7" : "s(Vladimir_Shainsky) dbo:occupation o'<Vladimir_Shainsky__1>",
+    "8" : "s(Vladimir_Shainsky) dbo:occupation o'<Composer>",
+    "9" : "s(Vladimir_Shainsky) dbp:imageSize o'<300>",
+    "10" : "s(Vladimir_Shainsky) dbp:name o'<Vladimir Shainskiy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11588",
+  "entityUrl" : "http://dbpedia.org/resource/Victor_Parsonnet",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Victor_Parsonnet) dbo:birthDate o'<1924-8-29>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11589",
+  "entityUrl" : "http://dbpedia.org/resource/Vladimir_Kotov",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Vladimir_Kotov) dbo:birthDate o'<1958-2-21>",
+    "2" : "s(Vladimir_Kotov) dbp:id o'<1501>",
+    "3" : "s(Vladimir_Kotov) dbp:name o'<Vladimir Kotov>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

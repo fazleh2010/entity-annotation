@@ -1,0 +1,76 @@
+[ {
+  "entityIndex" : "entity11789",
+  "entityUrl" : "http://dbpedia.org/resource/Billy_Robinson_(aviator)",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Billy_Robinson_(aviator)) dbo:birthDate o'<1884-09-24>",
+    "2" : "s(Billy_Robinson_(aviator)) dbo:birthDate o'<1884-9-24>",
+    "3" : "s(Billy_Robinson_(aviator)) dbo:birthPlace o'<Redfield,_South_Dakota>",
+    "4" : "s(Billy_Robinson_(aviator)) dbo:birthYear o'<1884>",
+    "5" : "s(Billy_Robinson_(aviator)) dbo:deathDate o'<1916-03-11>",
+    "6" : "s(Billy_Robinson_(aviator)) dbo:deathDate o'<1916-3-11>",
+    "7" : "s(Billy_Robinson_(aviator)) dbo:deathYear o'<1916>",
+    "8" : "s(Billy_Robinson_(aviator)) dbo:hometown o'<Grinnell,_Iowa>",
+    "9" : "s(Billy_Robinson_(aviator)) dbp:almaMater o'<Grinnell College>",
+    "10" : "s(Billy_Robinson_(aviator)) dbp:deathCause o'<Aircraft crash>",
+    "11" : "s(Billy_Robinson_(aviator)) dbp:parents o'<Mrs. Franklin Robinson>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11790",
+  "entityUrl" : "http://dbpedia.org/resource/Binyumen_Schaechter",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Binyumen_Schaechter) dbo:birthDate o'<1963-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11791",
+  "entityUrl" : "http://dbpedia.org/resource/Burgess_Gardner",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Burgess_Gardner) dbo:birthDate o'<1936-4-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11792",
+  "entityUrl" : "http://dbpedia.org/resource/Brent_Frohoff",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Brent_Frohoff) dbo:birthDate o'<1963-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11793",
+  "entityUrl" : "http://dbpedia.org/resource/Beth_Riesgraf",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Beth_Riesgraf) dbo:activeYearsStartYear o'<1999>",
+    "2" : "s(Beth_Riesgraf) dbo:birthDate o'<1978-08-24>",
+    "3" : "s(Beth_Riesgraf) dbo:birthDate o'<1978-8-24>",
+    "4" : "s(Beth_Riesgraf) dbo:birthName o'<Beth Jean Riesgraf>",
+    "5" : "s(Beth_Riesgraf) dbo:birthPlace o'<Belle_Plaine,_Minnesota>",
+    "6" : "s(Beth_Riesgraf) dbo:birthYear o'<1978>",
+    "7" : "s(Beth_Riesgraf) dbo:occupation o'<Actress>",
+    "8" : "s(Beth_Riesgraf) dbo:occupation o'<Beth_Riesgraf__1>",
+    "9" : "s(Beth_Riesgraf) dbp:children o'<1>",
+    "10" : "s(Beth_Riesgraf) dbp:domesticpartner o'<Jason_Lee_(actor)>",
+    "11" : "s(Beth_Riesgraf) dbp:domesticpartner o'<Alan Smyth>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11794",
+  "entityUrl" : "http://dbpedia.org/resource/Biurakn_Hakhverdian",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Biurakn_Hakhverdian) dbo:birthDate o'<1985-10-4>",
+    "2" : "s(Biurakn_Hakhverdian) dbo:birthPlace o'<Leiden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,71 @@
+[ {
+  "entityIndex" : "entity11674",
+  "entityUrl" : "http://dbpedia.org/resource/John_Clavering_(died_1762)",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(John_Clavering_(died_1762)) dbo:birthDate o'<1698-7-19>",
+    "2" : "s(John_Clavering_(died_1762)) dbo:deathDate o'<1762-5-23>",
+    "3" : "s(John_Clavering_(died_1762)) dbp:after o'<Edward_Vernon>",
+    "4" : "s(John_Clavering_(died_1762)) dbp:after o'<George_Robinson_(swindler)>",
+    "5" : "s(John_Clavering_(died_1762)) dbp:after o'<Sir_John_Evelyn,_2nd_Baronet>",
+    "6" : "s(John_Clavering_(died_1762)) dbp:after o'<Edmund_Waller_(died_1771)>",
+    "7" : "s(John_Clavering_(died_1762)) dbp:before o'<Sir_Cecil_Bishopp,_6th_Baronet>",
+    "8" : "s(John_Clavering_(died_1762)) dbp:before o'<Edward_Vernon>",
+    "9" : "s(John_Clavering_(died_1762)) dbp:before o'<Sir_John_Guise,_3rd_Baronet>",
+    "10" : "s(John_Clavering_(died_1762)) dbp:before o'<Edmund_Waller_(died_1771)>",
+    "11" : "s(John_Clavering_(died_1762)) dbp:title o'<Member of Parliament for Penryn>",
+    "12" : "s(John_Clavering_(died_1762)) dbp:title o'<Member of Parliament for Great Marlow>",
+    "13" : "s(John_Clavering_(died_1762)) dbp:with o'<Sir_Richard_Mill,_5th_Baronet>",
+    "14" : "s(John_Clavering_(died_1762)) dbp:with o'<Edmund_Waller_(died_1771)>",
+    "15" : "s(John_Clavering_(died_1762)) dbp:years o'<1727>",
+    "16" : "s(John_Clavering_(died_1762)) dbp:years o'<1734>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(john clavering (died 1762)=John_Clavering_(died_1762)) [son of ] o'<john=Sir_John_Evelyn,_2nd_Baronet>"
+  },
+  "abstract" : {
+    "2" : "john clavering (died 1762)<John_Clavering_(died_1762)> was the son of john<Sir_John_Evelyn,_2nd_Baronet> clavering of chopwell and was a groom of the bedchamber at the court of george ii from 1731 to 1761\n"
+  }
+}, {
+  "entityIndex" : "entity11675",
+  "entityUrl" : "http://dbpedia.org/resource/Jonas_Vailokaitis",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Jonas_Vailokaitis) dbo:birthDate o'<1886-1-1>",
+    "2" : "s(Jonas_Vailokaitis) dbo:deathDate o'<1944-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11676",
+  "entityUrl" : "http://dbpedia.org/resource/Jena_Lacomis_Garcia",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Jena_Lacomis_Garcia) dbo:birthDate o'<1971-8-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11677",
+  "entityUrl" : "http://dbpedia.org/resource/Jim_Riswold",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Jim_Riswold) dbo:birthDate o'<1957-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11678",
+  "entityUrl" : "http://dbpedia.org/resource/Jean-Baptiste_Barri%C3%A8re",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11679",
+  "entityUrl" : "http://dbpedia.org/resource/James_D._Hardy,_Jr.",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

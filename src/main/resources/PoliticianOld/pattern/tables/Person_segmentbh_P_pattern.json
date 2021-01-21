@@ -1,0 +1,74 @@
+[ {
+  "entityIndex" : "entity11387",
+  "entityUrl" : "http://dbpedia.org/resource/Petter_Pettersson",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Petter_Pettersson) dbo:birthDate o'<1939-05-21>",
+    "2" : "s(Petter_Pettersson) dbo:birthDate o'<1939-5-21>",
+    "3" : "s(Petter_Pettersson) dbo:birthPlace o'<Molde>",
+    "4" : "s(Petter_Pettersson) dbo:birthPlace o'<MÃ¸re_og_Romsdal>",
+    "5" : "s(Petter_Pettersson) dbo:birthYear o'<1939>",
+    "6" : "s(Petter_Pettersson) dbo:nationality o'<Norway>",
+    "7" : "s(Petter_Pettersson) dbo:occupation o'<Journalist>",
+    "8" : "s(Petter_Pettersson) dbo:occupation o'<Petter_Pettersson__1>",
+    "9" : "s(Petter_Pettersson) dbo:stateOfOrigin o'<Norway>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11388",
+  "entityUrl" : "http://dbpedia.org/resource/Placido_Mossello",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Placido_Mossello) dbo:birthDate o'<1835-1-1>",
+    "2" : "s(Placido_Mossello) dbo:deathDate o'<1894-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11389",
+  "entityUrl" : "http://dbpedia.org/resource/Patricia_Pe%C3%B1a_Recio",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11390",
+  "entityUrl" : "http://dbpedia.org/resource/Penn_Kimball",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Penn_Kimball) dbo:birthDate o'<1915-10-12>",
+    "2" : "s(Penn_Kimball) dbo:deathDate o'<2013-11-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11391",
+  "entityUrl" : "http://dbpedia.org/resource/Paul_Jacob_Naftel",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Paul_Jacob_Naftel) dbo:birthPlace o'<Guernsey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11392",
+  "entityUrl" : "http://dbpedia.org/resource/Phalgunanda",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Phalgunanda) dbo:alias o'<Falame maila , Falamesingh>",
+    "2" : "s(Phalgunanda) dbo:birthDate o'<1885-0-0>",
+    "3" : "s(Phalgunanda) dbo:deathDate o'<1949-04-04>",
+    "4" : "s(Phalgunanda) dbo:deathDate o'<1949-0-0>",
+    "5" : "s(Phalgunanda) dbo:deathYear o'<1949>",
+    "6" : "s(Phalgunanda) dbo:occupation o'<Phalgunanda__1>",
+    "7" : "s(Phalgunanda) dbp:birthDate o'<1885-11-10>",
+    "8" : "s(Phalgunanda) dbp:birthPlace o'<Ibhang 25 Dandagaun in Illam district>",
+    "9" : "s(Phalgunanda) dbp:deathCause o'<old aged>",
+    "10" : "s(Phalgunanda) dbp:imageSize o'<2>",
+    "11" : "s(Phalgunanda) dbp:nationality o'<Nepalese>",
+    "12" : "s(Phalgunanda) dbp:nativeName o'<à¤«à¤¾à¤²à¥�à¤—à¥�à¤¨à¤¨à¥�à¤¦>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

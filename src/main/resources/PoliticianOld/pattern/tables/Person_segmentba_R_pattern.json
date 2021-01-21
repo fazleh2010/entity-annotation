@@ -1,0 +1,71 @@
+[ {
+  "entityIndex" : "entity14176",
+  "entityUrl" : "http://dbpedia.org/resource/Randy_Hunt_(politician)",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Randy_Hunt_(politician)) dbo:almaMater o'<University_of_Texas_at_El_Paso>",
+    "2" : "s(Randy_Hunt_(politician)) dbo:party o'<Republican_Party_(United_States)>",
+    "3" : "s(Randy_Hunt_(politician)) dbo:predecessor o'<Jeff_Perry_(politician)>",
+    "4" : "s(Randy_Hunt_(politician)) dbo:residence o'<East_Sandwich,_Massachusetts>",
+    "5" : "s(Randy_Hunt_(politician)) dbp:birthPlace o'<El Paso, Texas, USA>",
+    "6" : "s(Randy_Hunt_(politician)) dbp:children o'<6>",
+    "7" : "s(Randy_Hunt_(politician)) dbp:nationality o'<U.S.>",
+    "8" : "s(Randy_Hunt_(politician)) dbp:occupation o'<Certified Public Accountant>",
+    "9" : "s(Randy_Hunt_(politician)) dbp:spouse o'<Mary>",
+    "10" : "s(Randy_Hunt_(politician)) dbp:termStart o'<2011>",
+    "11" : "s(Randy_Hunt_(politician)) dbp:title o'<Member of the Massachusetts House of Representatives from the 5th Barnstable District>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14177",
+  "entityUrl" : "http://dbpedia.org/resource/Rowland_Burdon_(1857%E2%80%931944)",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14178",
+  "entityUrl" : "http://dbpedia.org/resource/Radka_Stoyanova",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Radka_Stoyanova) dbo:birthDate o'<1964-7-7>",
+    "2" : "s(Radka_Stoyanova) dbo:birthPlace o'<Varna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14179",
+  "entityUrl" : "http://dbpedia.org/resource/Rob_Parissi",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Rob_Parissi) dbo:birthDate o'<1950-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14180",
+  "entityUrl" : "http://dbpedia.org/resource/Rowland_Burdon_(died_1838)",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Rowland_Burdon_(died_1838)) dbo:birthDate o'<1757-0-0>",
+    "2" : "s(Rowland_Burdon_(died_1838)) dbo:deathDate o'<1838-9-17>",
+    "3" : "s(Rowland_Burdon_(died_1838)) dbp:after o'<Thomas_Liddell,_1st_Baron_Ravensworth>",
+    "4" : "s(Rowland_Burdon_(died_1838)) dbp:after o'<Sir_Ralph_Noel,_6th_Baronet>",
+    "5" : "s(Rowland_Burdon_(died_1838)) dbp:before o'<Sir_John_Eden,_4th_Baronet>",
+    "6" : "s(Rowland_Burdon_(died_1838)) dbp:before o'<Sir_Thomas_Clavering,_7th_Baronet>",
+    "7" : "s(Rowland_Burdon_(died_1838)) dbp:title o'<Member of Parliament for County Durham>",
+    "8" : "s(Rowland_Burdon_(died_1838)) dbp:with o'<Sir_Ralph_Noel,_6th_Baronet>",
+    "9" : "s(Rowland_Burdon_(died_1838)) dbp:years o'<1790>",
+    "10" : "s(Rowland_Burdon_(died_1838)) dbp:years o'<1801>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14181",
+  "entityUrl" : "http://dbpedia.org/resource/Ren%C3%A9_Rensch",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

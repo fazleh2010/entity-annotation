@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity10689",
+  "entityUrl" : "http://dbpedia.org/resource/Isaac_Orobio_de_Castro",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Isaac_Orobio_de_Castro) dbo:birthDate o'<1617-1-1>",
+    "2" : "s(Isaac_Orobio_de_Castro) dbo:birthPlace o'<Portugal>",
+    "3" : "s(Isaac_Orobio_de_Castro) dbo:deathDate o'<1687-11-7>",
+    "4" : "s(Isaac_Orobio_de_Castro) dbo:deathPlace o'<Amsterdam>",
+    "5" : "s(Isaac_Orobio_de_Castro) dbp:article o'<Castro, de, family>",
+    "6" : "s(Isaac_Orobio_de_Castro) dbp:url o'<view.jsp?artid=255&letter=C>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10690",
+  "entityUrl" : "http://dbpedia.org/resource/Ivan_Nikitich_Nikitin",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ivan_Nikitich_Nikitin) dbo:birthDate o'<1680-1-1>",
+    "2" : "s(Ivan_Nikitich_Nikitin) dbo:birthPlace o'<Moscow>",
+    "3" : "s(Ivan_Nikitich_Nikitin) dbo:deathDate o'<1742-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10691",
+  "entityUrl" : "http://dbpedia.org/resource/Iancu_Sasul",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Iancu_Sasul) dbo:deathDate o'<1582-10-8>",
+    "2" : "s(Iancu_Sasul) dbp:after o'<Petru_Schiopul>",
+    "3" : "s(Iancu_Sasul) dbp:before o'<Petru_Schiopul>",
+    "4" : "s(Iancu_Sasul) dbp:title o'<List_of_Moldavian_rulers>",
+    "5" : "s(Iancu_Sasul) dbp:years o'<1579>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10692",
+  "entityUrl" : "http://dbpedia.org/resource/Ioan_Potcoav%C4%83",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10693",
+  "entityUrl" : "http://dbpedia.org/resource/Ibn_Khafif",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ibn_Khafif) dbo:birthDate o'<882-0-0>",
+    "2" : "s(Ibn_Khafif) dbo:birthPlace o'<Shiraz>",
+    "3" : "s(Ibn_Khafif) dbo:deathDate o'<982-0-0>",
+    "4" : "s(Ibn_Khafif) dbp:color o'<#B0C4DE>",
+    "5" : "s(Ibn_Khafif) dbp:deathDate o'<371>",
+    "6" : "s(Ibn_Khafif) dbp:denomination o'<Sunni>",
+    "7" : "s(Ibn_Khafif) dbp:era o'<Medieval era>",
+    "8" : "s(Ibn_Khafif) dbp:maddhab o'<Zahiri>",
+    "9" : "s(Ibn_Khafif) dbp:name o'<Ibn Khafif>",
+    "10" : "s(Ibn_Khafif) dbp:region o'<Damascus>",
+    "11" : "s(Ibn_Khafif) dbp:schoolTradition o'<Ash'ari>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10694",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_Eagle",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ian_Eagle) dbo:activeYearsStartYear o'<1992>",
+    "2" : "s(Ian_Eagle) dbo:almaMater o'<Syracuse_University>",
+    "3" : "s(Ian_Eagle) dbo:birthDate o'<1969-02-09>",
+    "4" : "s(Ian_Eagle) dbo:birthDate o'<1969-2-9>",
+    "5" : "s(Ian_Eagle) dbo:birthPlace o'<United_States>",
+    "6" : "s(Ian_Eagle) dbo:birthPlace o'<New_Jersey>",
+    "7" : "s(Ian_Eagle) dbo:birthPlace o'<Essex_Fells,_New_Jersey>",
+    "8" : "s(Ian_Eagle) dbo:birthYear o'<1969>",
+    "9" : "s(Ian_Eagle) dbo:occupation o'<Ian_Eagle__1>",
+    "10" : "s(Ian_Eagle) dbo:occupation o'<Sports_announcer>",
+    "11" : "s(Ian_Eagle) dbo:parent o'<Jack_Eagle>",
+    "12" : "s(Ian_Eagle) dbp:blp o'<yes>",
+    "13" : "s(Ian_Eagle) dbp:children o'<2>",
+    "14" : "s(Ian_Eagle) dbp:date o'<May 2009>",
+    "15" : "s(Ian_Eagle) dbp:nickname o'<\"The Bird\">",
+    "16" : "s(Ian_Eagle) dbp:spouse o'<Alisa>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ian eagle=Ian_Eagle) [calls ] o'<national=United_States>",
+    "5" : "s(ian eagle=Ian_Eagle) [graduate of ] o'<syracuse university=Syracuse_University>"
+  },
+  "abstract" : {
+    "3" : "ian eagle<Ian_Eagle> calls national<United_States> football league (nfl) games on cbs and brooklyn nets games on the yes<Yes> network and hosts full court press, a basketball talk show, with former player kenny smith on sirius satellite radio\n",
+    "5" : "ian eagle<Ian_Eagle> is a graduate of syracuse university<Syracuse_University>, where ian eagle<Ian_Eagle> was initiated into the alpha epsilon pi fraternity\n"
+  }
+} ]

@@ -1,0 +1,86 @@
+[ {
+  "entityIndex" : "entity11315",
+  "entityUrl" : "http://dbpedia.org/resource/Davika_Hoorne",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Davika_Hoorne) dbo:activeYearsStartYear o'<2010>",
+    "2" : "s(Davika_Hoorne) dbo:alias o'<Mai Davika>",
+    "3" : "s(Davika_Hoorne) dbo:birthDate o'<1992-05-16>",
+    "4" : "s(Davika_Hoorne) dbo:birthDate o'<1992-5-16>",
+    "5" : "s(Davika_Hoorne) dbo:birthName o'<Davika Hoorne>",
+    "6" : "s(Davika_Hoorne) dbo:birthPlace o'<Bangkok>",
+    "7" : "s(Davika_Hoorne) dbo:birthPlace o'<Thailand>",
+    "8" : "s(Davika_Hoorne) dbo:birthYear o'<1992>",
+    "9" : "s(Davika_Hoorne) dbo:education o'<Rangsit_University>",
+    "10" : "s(Davika_Hoorne) dbo:ethnicity o'<Belgian_people>",
+    "11" : "s(Davika_Hoorne) dbo:ethnicity o'<Thai_people>",
+    "12" : "s(Davika_Hoorne) dbo:height o'<172.72>",
+    "13" : "s(Davika_Hoorne) dbo:height o'<1.7272>",
+    "14" : "s(Davika_Hoorne) dbo:imdbId o'<5310508>",
+    "15" : "s(Davika_Hoorne) dbo:religion o'<Roman_Catholicism_in_Thailand>",
+    "16" : "s(Davika_Hoorne) dbo:religion o'<Buddhism_in_Thailand>",
+    "17" : "s(Davika_Hoorne) dbp:agent o'<Channel_7_(Thailand)>",
+    "18" : "s(Davika_Hoorne) dbp:imagesize o'<250>",
+    "19" : "s(Davika_Hoorne) dbp:name o'<Davika Hoorne>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11316",
+  "entityUrl" : "http://dbpedia.org/resource/David_J._Adelman",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(David_J._Adelman) dbo:almaMater o'<Ohio_State_University>",
+    "2" : "s(David_J._Adelman) dbo:education o'<Political_Science>",
+    "3" : "s(David_J._Adelman) dbo:education o'<Bachelor_of_Arts>",
+    "4" : "s(David_J._Adelman) dbo:ethnicity o'<American_Jews>",
+    "5" : "s(David_J._Adelman) dbo:nationality o'<American_people>",
+    "6" : "s(David_J._Adelman) dbo:occupation o'<David_J._Adelman__1>",
+    "7" : "s(David_J._Adelman) dbo:personFunction o'<David_J._Adelman__1>",
+    "8" : "s(David_J._Adelman) dbo:religion o'<Conservative_Judaism>",
+    "9" : "s(David_J._Adelman) dbo:stateOfOrigin o'<American_people>",
+    "10" : "s(David_J._Adelman) dbo:title o'<CEO and president of Campus Apartments>",
+    "11" : "s(David_J._Adelman) dbp:children o'<Jade Adelman>",
+    "12" : "s(David_J._Adelman) dbp:children o'<Sage Adelman>",
+    "13" : "s(David_J._Adelman) dbp:citizenship o'<United States>",
+    "14" : "s(David_J._Adelman) dbp:spouse o'<Hallee Adelman>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11317",
+  "entityUrl" : "http://dbpedia.org/resource/Diego_Rodr%C3%ADguez_Vallejo",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11318",
+  "entityUrl" : "http://dbpedia.org/resource/Don_Pedro_Falc%C3%B3n_Perales",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11319",
+  "entityUrl" : "http://dbpedia.org/resource/Dom_Simon_Jubani",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Dom_Simon_Jubani) dbo:birthDate o'<1927-3-8>",
+    "2" : "s(Dom_Simon_Jubani) dbo:birthPlace o'<ShkodÃ«r>",
+    "3" : "s(Dom_Simon_Jubani) dbo:deathDate o'<2011-7-12>",
+    "4" : "s(Dom_Simon_Jubani) dbo:deathPlace o'<ShkodÃ«r>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11320",
+  "entityUrl" : "http://dbpedia.org/resource/Dan_Laksov",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Dan_Laksov) dbo:birthDate o'<1940-7-10>",
+    "2" : "s(Dan_Laksov) dbo:deathDate o'<2013-10-25>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

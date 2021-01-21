@@ -1,0 +1,72 @@
+[ {
+  "entityIndex" : "entity11476",
+  "entityUrl" : "http://dbpedia.org/resource/Dadoji_Konddeo",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Dadoji_Konddeo) dbo:birthDate o'<1577-0-0>",
+    "2" : "s(Dadoji_Konddeo) dbo:birthYear o'<1577>",
+    "3" : "s(Dadoji_Konddeo) dbo:deathDate o'<1647-1-1>",
+    "4" : "s(Dadoji_Konddeo) dbo:deathYear o'<1649>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11477",
+  "entityUrl" : "http://dbpedia.org/resource/Dennis_Culp",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Dennis_Culp) dbo:birthDate o'<1970-4-23>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11478",
+  "entityUrl" : "http://dbpedia.org/resource/David_D._Levine",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(David_D._Levine) dbo:award o'<Hugo_Award_for_Best_Short_Story>",
+    "2" : "s(David_D._Levine) dbo:birthDate o'<1961-02-21>",
+    "3" : "s(David_D._Levine) dbo:birthDate o'<1961-2-21>",
+    "4" : "s(David_D._Levine) dbo:birthPlace o'<Minneapolis>",
+    "5" : "s(David_D._Levine) dbo:birthPlace o'<Minneapolis,_Minnesota>",
+    "6" : "s(David_D._Levine) dbo:notableWork o'<Tk'tk'tk>",
+    "7" : "s(David_D._Levine) dbo:spouse o'<Kate_Yule>",
+    "8" : "s(David_D._Levine) dbp:genre o'<Science-fiction>",
+    "9" : "s(David_D._Levine) dbp:nationality o'<American>",
+    "10" : "s(David_D._Levine) dbp:occupation o'<Writer>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11479",
+  "entityUrl" : "http://dbpedia.org/resource/Dario_Kordi%C4%87",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11480",
+  "entityUrl" : "http://dbpedia.org/resource/Danny_Hoch",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Danny_Hoch) dbo:activeYearsStartYear o'<1996>",
+    "2" : "s(Danny_Hoch) dbo:birthDate o'<1970-11-23>",
+    "3" : "s(Danny_Hoch) dbo:birthPlace o'<Brooklyn>",
+    "4" : "s(Danny_Hoch) dbo:birthPlace o'<New_York_City>",
+    "5" : "s(Danny_Hoch) dbo:birthYear o'<1970>",
+    "6" : "s(Danny_Hoch) dbo:occupation o'<Writer>",
+    "7" : "s(Danny_Hoch) dbo:occupation o'<Danny_Hoch__1>",
+    "8" : "s(Danny_Hoch) dbo:occupation o'<Theatre_director>",
+    "9" : "s(Danny_Hoch) dbo:occupation o'<Actor>",
+    "10" : "s(Danny_Hoch) dbo:occupation o'<Performance_artist>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11481",
+  "entityUrl" : "http://dbpedia.org/resource/Davlat_Usmon",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

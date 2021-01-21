@@ -1,0 +1,80 @@
+[ {
+  "entityIndex" : "entity11157",
+  "entityUrl" : "http://dbpedia.org/resource/Emily_Cheney_Neville",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Emily_Cheney_Neville) dbo:birthDate o'<1919-12-28>",
+    "2" : "s(Emily_Cheney_Neville) dbo:country o'<United_States>",
+    "3" : "s(Emily_Cheney_Neville) dbo:deathDate o'<1997-12-14>",
+    "4" : "s(Emily_Cheney_Neville) dbp:by o'<yes>",
+    "5" : "s(Emily_Cheney_Neville) dbp:id o'<Neville,+Emily>",
+    "6" : "s(Emily_Cheney_Neville) dbp:name o'<Emily Neville>",
+    "7" : "s(Emily_Cheney_Neville) dbp:onlinebooksby o'<yes>",
+    "8" : "s(Emily_Cheney_Neville) dbp:viaf o'<42362261>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(emily cheney neville=Emily_Cheney_Neville) [worked for ] o'<new=United_States>"
+  },
+  "abstract" : {
+    "5" : "from bryn mawr, emily cheney neville<Emily_Cheney_Neville> worked for the new<United_States> york daily new<United_States>s and the new<United_States> york daily mirror new<United_States>spapers\n"
+  }
+}, {
+  "entityIndex" : "entity11158",
+  "entityUrl" : "http://dbpedia.org/resource/Elizabeth_Borton_de_Trevi%C3%B1o",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11159",
+  "entityUrl" : "http://dbpedia.org/resource/Emory_Campbell",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11160",
+  "entityUrl" : "http://dbpedia.org/resource/Elmar_Brandt",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Elmar_Brandt) dbo:birthDate o'<1971-9-20>",
+    "2" : "s(Elmar_Brandt) dbo:birthPlace o'<DÃ¼sseldorf>",
+    "3" : "s(Elmar_Brandt) dbo:imdbId o'<1382308>",
+    "4" : "s(Elmar_Brandt) dbp:date o'<December 2010>",
+    "5" : "s(Elmar_Brandt) dbp:name o'<Elmar Brandt>",
+    "6" : "s(Elmar_Brandt) dbp:only o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11161",
+  "entityUrl" : "http://dbpedia.org/resource/Edwin_O._LeGrand",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Edwin_O._LeGrand) dbo:birthDate o'<1801-1-1>",
+    "2" : "s(Edwin_O._LeGrand) dbo:deathDate o'<1861-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11162",
+  "entityUrl" : "http://dbpedia.org/resource/Eugenio_de_Bellard_Pietri",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Eugenio_de_Bellard_Pietri) dbo:birthDate o'<1927-12-17>",
+    "2" : "s(Eugenio_de_Bellard_Pietri) dbo:birthPlace o'<Maracaibo>",
+    "3" : "s(Eugenio_de_Bellard_Pietri) dbo:birthYear o'<1927>",
+    "4" : "s(Eugenio_de_Bellard_Pietri) dbo:deathDate o'<2000-08-31>",
+    "5" : "s(Eugenio_de_Bellard_Pietri) dbo:deathDate o'<2000-8-31>",
+    "6" : "s(Eugenio_de_Bellard_Pietri) dbo:deathPlace o'<Caracas>",
+    "7" : "s(Eugenio_de_Bellard_Pietri) dbo:deathYear o'<2000>",
+    "8" : "s(Eugenio_de_Bellard_Pietri) dbp:birthPlace o'<New York>",
+    "9" : "s(Eugenio_de_Bellard_Pietri) dbp:imageSize o'<200>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(eugenio de bellard pietri=Eugenio_de_Bellard_Pietri) [founder of speleology ] o'<venezuela=Caracas>"
+  },
+  "abstract" : {
+    "2" : "eugenio de bellard pietri<Eugenio_de_Bellard_Pietri> was the founder of speleology in venezuela<Caracas> and a member of the academy of sciences and letters of venezuela<Caracas>, vice-president of the venezuela<Caracas>n society of natural sciences and director of its speleological groups since 1952 when eugenio de bellard pietri<Eugenio_de_Bellard_Pietri> founded this section\n"
+  }
+} ]

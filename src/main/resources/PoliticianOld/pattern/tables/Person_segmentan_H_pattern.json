@@ -1,0 +1,65 @@
+[ {
+  "entityIndex" : "entity11991",
+  "entityUrl" : "http://dbpedia.org/resource/Herm%C3%ADnio_Bello_de_Carvalho",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11992",
+  "entityUrl" : "http://dbpedia.org/resource/Hilary_Shepard",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Hilary_Shepard) dbo:activeYearsStartYear o'<1980>",
+    "2" : "s(Hilary_Shepard) dbo:alias o'<Hilary Shepard-Turner>",
+    "3" : "s(Hilary_Shepard) dbo:birthDate o'<1959-12-10>",
+    "4" : "s(Hilary_Shepard) dbo:birthName o'<Hilary Shapiro>",
+    "5" : "s(Hilary_Shepard) dbo:birthPlace o'<New_York_City>",
+    "6" : "s(Hilary_Shepard) dbo:birthYear o'<1959>",
+    "7" : "s(Hilary_Shepard) dbo:occupation o'<Hilary_Shepard__1>",
+    "8" : "s(Hilary_Shepard) dbp:birthPlace o'<New York City, New York, United States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11993",
+  "entityUrl" : "http://dbpedia.org/resource/Horace_Liveright",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Horace_Liveright) dbo:birthDate o'<1883-12-10>",
+    "2" : "s(Horace_Liveright) dbo:deathDate o'<1933-9-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11994",
+  "entityUrl" : "http://dbpedia.org/resource/Henryk_Flinik",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Henryk_Flinik) dbo:birthDate o'<1928-1-20>",
+    "2" : "s(Henryk_Flinik) dbo:deathDate o'<2008-9-20>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11995",
+  "entityUrl" : "http://dbpedia.org/resource/Hugh_Smith_(politician)",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Hugh_Smith_(politician)) dbo:birthDate o'<1839-9-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11996",
+  "entityUrl" : "http://dbpedia.org/resource/Hendrick_van_den_Broeck",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Hendrick_van_den_Broeck) dbo:birthDate o'<1519-1-1>",
+    "2" : "s(Hendrick_van_den_Broeck) dbo:birthPlace o'<Mechelen>",
+    "3" : "s(Hendrick_van_den_Broeck) dbo:deathDate o'<1597-9-28>",
+    "4" : "s(Hendrick_van_den_Broeck) dbo:deathPlace o'<Rome>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

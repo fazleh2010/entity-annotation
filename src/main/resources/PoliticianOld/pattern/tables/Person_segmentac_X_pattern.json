@@ -1,0 +1,75 @@
+[ {
+  "entityIndex" : "entity11106",
+  "entityUrl" : "http://dbpedia.org/resource/Xaveer_De_Geyter",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Xaveer_De_Geyter) dbo:birthDate o'<1957-1-1>",
+    "2" : "s(Xaveer_De_Geyter) dbo:birthPlace o'<Tournai>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11107",
+  "entityUrl" : "http://dbpedia.org/resource/Xabib_Yunich",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Xabib_Yunich) dbo:birthDate o'<1905-1-1>",
+    "2" : "s(Xabib_Yunich) dbo:deathDate o'<1945-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11108",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Zhihong",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Xu_Zhihong) dbo:birthDate o'<1942-10-14>",
+    "2" : "s(Xu_Zhihong) dbp:after o'<Zhou_Qifeng>",
+    "3" : "s(Xu_Zhihong) dbp:before o'<Chen_Jiaer>",
+    "4" : "s(Xu_Zhihong) dbp:t o'<è¨±æ™ºå®�>",
+    "5" : "s(Xu_Zhihong) dbp:title o'<President of Peking University>",
+    "6" : "s(Xu_Zhihong) dbp:years o'<1999>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11109",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_de_Maistre",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Xavier_de_Maistre) dbo:birthDate o'<1763-10-10>",
+    "2" : "s(Xavier_de_Maistre) dbo:birthPlace o'<Savoy>",
+    "3" : "s(Xavier_de_Maistre) dbo:birthPlace o'<Kingdom_of_Sardinia>",
+    "4" : "s(Xavier_de_Maistre) dbo:birthPlace o'<ChambÃ©ry>",
+    "5" : "s(Xavier_de_Maistre) dbo:birthPlace o'<France>",
+    "6" : "s(Xavier_de_Maistre) dbo:birthYear o'<1763>",
+    "7" : "s(Xavier_de_Maistre) dbo:deathDate o'<1852-06-12>",
+    "8" : "s(Xavier_de_Maistre) dbo:deathDate o'<1852-6-12>",
+    "9" : "s(Xavier_de_Maistre) dbo:deathPlace o'<Saint_Petersburg>",
+    "10" : "s(Xavier_de_Maistre) dbo:deathPlace o'<Russian_Empire>",
+    "11" : "s(Xavier_de_Maistre) dbo:deathYear o'<1852>",
+    "12" : "s(Xavier_de_Maistre) dbo:occupation o'<Xavier_de_Maistre__1>",
+    "13" : "s(Xavier_de_Maistre) dbp:imageSize o'<200>",
+    "14" : "s(Xavier_de_Maistre) dbp:notableWorks o'<Voyage autour de ma chambre>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(xavier de maistre=Xavier_de_Maistre) [served young in ] o'<piedmont-sardinia=Kingdom_of_Sardinia>"
+  },
+  "abstract" : {
+    "3" : "xavier de maistre<Xavier_de_Maistre> served when young in the army of piedmont-sardinia<Kingdom_of_Sardinia>, and in 1790 wrote his fantasy voyage autour de ma chambre (\"voyage around my room\", published 1794), when xavier de maistre<Xavier_de_Maistre> was under arrest in turin<Kingdom_of_Sardinia> as the consequence of a duel\n"
+  }
+}, {
+  "entityIndex" : "entity11110",
+  "entityUrl" : "http://dbpedia.org/resource/Xeno_M%C3%BCller",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11111",
+  "entityUrl" : "http://dbpedia.org/resource/X%C3%A4lil_of_Kazan",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,104 @@
+[ {
+  "entityIndex" : "entity11004",
+  "entityUrl" : "http://dbpedia.org/resource/Guyasuta",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Guyasuta) dbo:birthDate o'<1725-1-1>",
+    "2" : "s(Guyasuta) dbo:deathDate o'<1794-1-1>",
+    "3" : "s(Guyasuta) dbp:battles o'<Battle_of_Oriskany>",
+    "4" : "s(Guyasuta) dbp:battles o'<Pontiac's_Rebellion>",
+    "5" : "s(Guyasuta) dbp:battles o'<*>",
+    "6" : "s(Guyasuta) dbp:birthDate o'<c.1725>",
+    "7" : "s(Guyasuta) dbp:birthPlace o'<Western New York>",
+    "8" : "s(Guyasuta) dbp:deathCause o'<Natural Causes>",
+    "9" : "s(Guyasuta) dbp:deathDate o'<c.1794>",
+    "10" : "s(Guyasuta) dbp:deathPlace o'<Cornplanter Grant>",
+    "11" : "s(Guyasuta) dbp:relations o'<Handsome_Lake>",
+    "12" : "s(Guyasuta) dbp:relations o'<Cornplanter>",
+    "13" : "s(Guyasuta) dbp:relations o'<*>",
+    "14" : "s(Guyasuta) dbp:restingPlace o'<Custaloga_Town_Scout_Reservation>",
+    "15" : "s(Guyasuta) dbp:tribe o'<Seneca_(tribe)>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(guyasuta=Guyasuta) [his family migrated along ] o'<seneca=Seneca_(tribe)>"
+  },
+  "abstract" : {
+    "5" : "at young age, guyasuta<Guyasuta> and his family migrated along the allegheny river and finally settled in logstown, a seneca<Seneca_(tribe)> village in pennsylvania\n"
+  }
+}, {
+  "entityIndex" : "entity11005",
+  "entityUrl" : "http://dbpedia.org/resource/Giselle_Fern%C3%A1ndez",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11006",
+  "entityUrl" : "http://dbpedia.org/resource/Gail_Collins_Pappalardi",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Gail_Collins_Pappalardi) dbo:birthDate o'<1941-02-02>",
+    "2" : "s(Gail_Collins_Pappalardi) dbo:birthDate o'<1941-2-2>",
+    "3" : "s(Gail_Collins_Pappalardi) dbo:birthName o'<Gail Delta Collins>",
+    "4" : "s(Gail_Collins_Pappalardi) dbo:birthYear o'<1941>",
+    "5" : "s(Gail_Collins_Pappalardi) dbo:deathDate o'<2013-12-06>",
+    "6" : "s(Gail_Collins_Pappalardi) dbo:deathDate o'<2013-12-6>",
+    "7" : "s(Gail_Collins_Pappalardi) dbo:deathPlace o'<Mexico>",
+    "8" : "s(Gail_Collins_Pappalardi) dbo:deathPlace o'<Ajijic,_Jalisco>",
+    "9" : "s(Gail_Collins_Pappalardi) dbo:deathYear o'<2013>",
+    "10" : "s(Gail_Collins_Pappalardi) dbo:occupation o'<Gail_Collins_Pappalardi__1>",
+    "11" : "s(Gail_Collins_Pappalardi) dbo:spouse o'<Felix_Pappalardi>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11007",
+  "entityUrl" : "http://dbpedia.org/resource/Griselio_Torresola",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Griselio_Torresola) dbo:birthDate o'<1925-1-1>",
+    "2" : "s(Griselio_Torresola) dbo:birthPlace o'<Jayuya,_Puerto_Rico>",
+    "3" : "s(Griselio_Torresola) dbo:birthYear o'<1925>",
+    "4" : "s(Griselio_Torresola) dbo:deathDate o'<1950-11-01>",
+    "5" : "s(Griselio_Torresola) dbo:deathDate o'<1950-11-1>",
+    "6" : "s(Griselio_Torresola) dbo:deathPlace o'<Washington,_D.C.>",
+    "7" : "s(Griselio_Torresola) dbo:deathYear o'<1950>",
+    "8" : "s(Griselio_Torresola) dbo:party o'<Puerto_Rican_Nationalist_Party>",
+    "9" : "s(Griselio_Torresola) dbp:align o'<center>",
+    "10" : "s(Griselio_Torresola) dbp:movement o'<Puerto Rican Independence>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11008",
+  "entityUrl" : "http://dbpedia.org/resource/Gaspar_van_Weerbeke",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Gaspar_van_Weerbeke) dbo:birthDate o'<1445-1-1>",
+    "2" : "s(Gaspar_van_Weerbeke) dbo:birthPlace o'<Oudenaarde>",
+    "3" : "s(Gaspar_van_Weerbeke) dbo:deathDate o'<1517-1-1>",
+    "4" : "s(Gaspar_van_Weerbeke) dbo:deathPlace o'<Mainz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11009",
+  "entityUrl" : "http://dbpedia.org/resource/George_Axelrod",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(George_Axelrod) dbo:activeYearsStartYear o'<1954>",
+    "2" : "s(George_Axelrod) dbo:birthDate o'<1922-06-09>",
+    "3" : "s(George_Axelrod) dbo:birthDate o'<1922-6-9>",
+    "4" : "s(George_Axelrod) dbo:birthPlace o'<New_York_City>",
+    "5" : "s(George_Axelrod) dbo:birthYear o'<1922>",
+    "6" : "s(George_Axelrod) dbo:deathDate o'<2003-06-21>",
+    "7" : "s(George_Axelrod) dbo:deathDate o'<2003-6-21>",
+    "8" : "s(George_Axelrod) dbo:deathPlace o'<Los_Angeles>",
+    "9" : "s(George_Axelrod) dbo:deathPlace o'<Los_Angeles,_California>",
+    "10" : "s(George_Axelrod) dbo:deathYear o'<2003>",
+    "11" : "s(George_Axelrod) dbp:spouse o'<Gloria Washburn>",
+    "12" : "s(George_Axelrod) dbp:spouse o'<Joan Stanton>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

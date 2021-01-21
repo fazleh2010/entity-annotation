@@ -1,0 +1,61 @@
+[ {
+  "entityIndex" : "entity11283",
+  "entityUrl" : "http://dbpedia.org/resource/Zong_Zoua_Her",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11284",
+  "entityUrl" : "http://dbpedia.org/resource/Zahra_Mansouri",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11285",
+  "entityUrl" : "http://dbpedia.org/resource/Zamy_Steynovitz",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Zamy_Steynovitz) dbo:birthDate o'<1951-1-15>",
+    "2" : "s(Zamy_Steynovitz) dbo:deathDate o'<2000-9-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11286",
+  "entityUrl" : "http://dbpedia.org/resource/Zhu_Yi_(Three_Kingdoms)",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Zhu_Yi_(Three_Kingdoms)) dbo:deathDate o'<257-1-1>",
+    "2" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:deathDate o'<257>",
+    "3" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:kingdom o'<Eastern_Wu>",
+    "4" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:name o'<Zhu Yi>",
+    "5" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:pinyin o'<ZhÅ« YÃ¬>",
+    "6" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:simp o'<æœ±å¼‚>",
+    "7" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:title o'<General>",
+    "8" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:trad o'<æœ±ç•°>",
+    "9" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:wg o'<Chu I>",
+    "10" : "s(Zhu_Yi_(Three_Kingdoms)) dbp:zi o'<Jiwen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11287",
+  "entityUrl" : "http://dbpedia.org/resource/Zered_Bassett",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Zered_Bassett) dbo:birthDate o'<1984-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11288",
+  "entityUrl" : "http://dbpedia.org/resource/Zoheb_Sharif",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Zoheb_Sharif) dbo:birthDate o'<1983-2-22>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

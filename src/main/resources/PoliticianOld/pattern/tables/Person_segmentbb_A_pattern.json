@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity14242",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Gammon",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Alan_Gammon) dbo:birthDate o'<1955-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14243",
+  "entityUrl" : "http://dbpedia.org/resource/Alexander_Palacios",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Alexander_Palacios) dbo:birthDate o'<1982-7-20>",
+    "2" : "s(Alexander_Palacios) dbo:birthPlace o'<Frankfurt>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14244",
+  "entityUrl" : "http://dbpedia.org/resource/Art_Seaberg",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Art_Seaberg) dbo:birthDate o'<1936-12-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14245",
+  "entityUrl" : "http://dbpedia.org/resource/August_Hermann_Ewerbeck",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(August_Hermann_Ewerbeck) dbo:almaMater o'<University_of_Utrecht>",
+    "2" : "s(August_Hermann_Ewerbeck) dbo:almaMater o'<University_of_Berlin>",
+    "3" : "s(August_Hermann_Ewerbeck) dbo:birthDate o'<1816-11-12>",
+    "4" : "s(August_Hermann_Ewerbeck) dbo:birthPlace o'<Danzig>",
+    "5" : "s(August_Hermann_Ewerbeck) dbo:birthPlace o'<GdaÅ„sk>",
+    "6" : "s(August_Hermann_Ewerbeck) dbo:birthPlace o'<Prussia>",
+    "7" : "s(August_Hermann_Ewerbeck) dbo:birthYear o'<1816>",
+    "8" : "s(August_Hermann_Ewerbeck) dbo:deathDate o'<1860-11-04>",
+    "9" : "s(August_Hermann_Ewerbeck) dbo:deathDate o'<1860-11-4>",
+    "10" : "s(August_Hermann_Ewerbeck) dbo:deathPlace o'<Paris>",
+    "11" : "s(August_Hermann_Ewerbeck) dbo:deathYear o'<1860>",
+    "12" : "s(August_Hermann_Ewerbeck) dbo:knownFor o'<Friedrich_Engels>",
+    "13" : "s(August_Hermann_Ewerbeck) dbo:knownFor o'<Karl_Marx>",
+    "14" : "s(August_Hermann_Ewerbeck) dbo:knownFor o'<Utopian_socialism>",
+    "15" : "s(August_Hermann_Ewerbeck) dbo:knownFor o'<Ã‰tienne_Cabet>",
+    "16" : "s(August_Hermann_Ewerbeck) dbo:knownFor o'<League_of_the_Just>",
+    "17" : "s(August_Hermann_Ewerbeck) dbo:knownFor o'<Ludwig_Feuerbach>",
+    "18" : "s(August_Hermann_Ewerbeck) dbp:deathCause o'<consumption>",
+    "19" : "s(August_Hermann_Ewerbeck) dbp:deathPlace o'<Paris>",
+    "20" : "s(August_Hermann_Ewerbeck) dbp:restingPlace o'<PÃ¨re Lachaise>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14246",
+  "entityUrl" : "http://dbpedia.org/resource/August_Gebert",
+  "dboClass" : "Person_segmentbb",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14247",
+  "entityUrl" : "http://dbpedia.org/resource/Ayaz_Mughal",
+  "dboClass" : "Person_segmentbb",
+  "triples" : {
+    "1" : "s(Ayaz_Mughal) dbo:birthDate o'<1984-05-02>",
+    "2" : "s(Ayaz_Mughal) dbo:birthDate o'<1984-5-2>",
+    "3" : "s(Ayaz_Mughal) dbo:birthPlace o'<J&K>",
+    "4" : "s(Ayaz_Mughal) dbo:birthPlace o'<Jammu_and_Kashmir>",
+    "5" : "s(Ayaz_Mughal) dbo:birthYear o'<1984>",
+    "6" : "s(Ayaz_Mughal) dbo:knownFor o'<Freedom_of_information>",
+    "7" : "s(Ayaz_Mughal) dbo:knownFor o'<Free_Lance_Journalism>",
+    "8" : "s(Ayaz_Mughal) dbo:religion o'<Islam>",
+    "9" : "s(Ayaz_Mughal) dbp:nationality o'<Indian>",
+    "10" : "s(Ayaz_Mughal) dbp:organization o'<Awake India, Combat Against Corruption, Sangarsh RTI Movement in J&K, JK RTI Movement in J&K>",
+    "11" : "s(Ayaz_Mughal) dbp:spouse o'<Unmarried>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ayaz mughal=Ayaz_Mughal) [renowned noted rti ] o'<right to information=Freedom_of_information>",
+    "6" : "s(ayaz mughal=Ayaz_Mughal) [privilege to ] o'<information=Freedom_of_information>"
+  },
+  "abstract" : {
+    "3" : "ayaz mughal<Ayaz_Mughal> is renowned as noted rti activist and was associated with right to information<Freedom_of_information> movement in j&k<Jammu_and_Kashmir> and currently ayaz mughal<Ayaz_Mughal> is founder chairman of awake india, organisation working against the corruption and warning and educating the people at grossroot level and impart training to officials\n",
+    "6" : "ayaz mughal<Ayaz_Mughal> has the privilege to be part of the movement responsible for the appointment of first chief information<Freedom_of_information> commissioner of j&k state<Jammu_and_Kashmir> information<Freedom_of_information> commission\n"
+  }
+} ]

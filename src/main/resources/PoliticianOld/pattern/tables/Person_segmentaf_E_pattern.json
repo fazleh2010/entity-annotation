@@ -1,0 +1,95 @@
+[ {
+  "entityIndex" : "entity10665",
+  "entityUrl" : "http://dbpedia.org/resource/Ella_Joyce",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ella_Joyce) dbo:activeYearsStartYear o'<1989>",
+    "2" : "s(Ella_Joyce) dbo:birthDate o'<1954-06-12>",
+    "3" : "s(Ella_Joyce) dbo:birthDate o'<1954-6-12>",
+    "4" : "s(Ella_Joyce) dbo:birthName o'<Cherron Hoye>",
+    "5" : "s(Ella_Joyce) dbo:birthPlace o'<Chicago>",
+    "6" : "s(Ella_Joyce) dbo:birthPlace o'<Chicago,_Illinois>",
+    "7" : "s(Ella_Joyce) dbo:birthYear o'<1954>",
+    "8" : "s(Ella_Joyce) dbo:education o'<Eastern_Michigan_University>",
+    "9" : "s(Ella_Joyce) dbo:education o'<Cass_Technical_High_School>",
+    "10" : "s(Ella_Joyce) dbo:nationality o'<United_States>",
+    "11" : "s(Ella_Joyce) dbo:occupation o'<Actress>",
+    "12" : "s(Ella_Joyce) dbo:occupation o'<Ella_Joyce__1>",
+    "13" : "s(Ella_Joyce) dbo:spouse o'<Dan_Martin_(actor)>",
+    "14" : "s(Ella_Joyce) dbo:stateOfOrigin o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10666",
+  "entityUrl" : "http://dbpedia.org/resource/Esioff-L%C3%A9on_Patenaude",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10667",
+  "entityUrl" : "http://dbpedia.org/resource/E._M._Nathanson",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(E._M._Nathanson) dbo:birthDate o'<1928-02-17>",
+    "2" : "s(E._M._Nathanson) dbo:birthDate o'<1928-1-1>",
+    "3" : "s(E._M._Nathanson) dbo:birthName o'<Erwin Nathanson>",
+    "4" : "s(E._M._Nathanson) dbo:birthPlace o'<The_Bronx>",
+    "5" : "s(E._M._Nathanson) dbo:birthPlace o'<Yonkers,_New_York>",
+    "6" : "s(E._M._Nathanson) dbo:birthPlace o'<New_York_(state)>",
+    "7" : "s(E._M._Nathanson) dbo:birthYear o'<1928>",
+    "8" : "s(E._M._Nathanson) dbo:deathDate o'<2016-04-05>",
+    "9" : "s(E._M._Nathanson) dbo:deathDate o'<2016-4-5>",
+    "10" : "s(E._M._Nathanson) dbo:deathPlace o'<Laguna_Niguel,_California>",
+    "11" : "s(E._M._Nathanson) dbo:deathYear o'<2016>",
+    "12" : "s(E._M._Nathanson) dbo:occupation o'<E._M._Nathanson__1>",
+    "13" : "s(E._M._Nathanson) dbp:notableWorks o'<The Dirty Dozen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10668",
+  "entityUrl" : "http://dbpedia.org/resource/Eliezer_Berkovits",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Eliezer_Berkovits) dbo:birthDate o'<1908-9-8>",
+    "2" : "s(Eliezer_Berkovits) dbo:birthPlace o'<Oradea>",
+    "3" : "s(Eliezer_Berkovits) dbo:deathDate o'<1992-8-20>",
+    "4" : "s(Eliezer_Berkovits) dbo:deathPlace o'<Jerusalem>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10669",
+  "entityUrl" : "http://dbpedia.org/resource/Elisabeth_Dermot_Walsh",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Elisabeth_Dermot_Walsh) dbo:activeYearsStartYear o'<1998>",
+    "2" : "s(Elisabeth_Dermot_Walsh) dbo:alias o'<Elisabeth Dermot Walsh>",
+    "3" : "s(Elisabeth_Dermot_Walsh) dbo:birthDate o'<1974-09-15>",
+    "4" : "s(Elisabeth_Dermot_Walsh) dbo:birthDate o'<1974-9-15>",
+    "5" : "s(Elisabeth_Dermot_Walsh) dbo:birthName o'<Elisabeth Clare Louise Walsh>",
+    "6" : "s(Elisabeth_Dermot_Walsh) dbo:birthPlace o'<England>",
+    "7" : "s(Elisabeth_Dermot_Walsh) dbo:birthPlace o'<London>",
+    "8" : "s(Elisabeth_Dermot_Walsh) dbo:birthPlace o'<London_Borough_of_Merton>",
+    "9" : "s(Elisabeth_Dermot_Walsh) dbo:birthPlace o'<Surrey>",
+    "10" : "s(Elisabeth_Dermot_Walsh) dbo:birthYear o'<1974>",
+    "11" : "s(Elisabeth_Dermot_Walsh) dbp:children o'<2>",
+    "12" : "s(Elisabeth_Dermot_Walsh) dbp:partner o'<Dylan Charles>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10670",
+  "entityUrl" : "http://dbpedia.org/resource/Enrico_Sabbatini",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Enrico_Sabbatini) dbo:birthDate o'<1932-1-1>",
+    "2" : "s(Enrico_Sabbatini) dbo:birthPlace o'<Spoleto>",
+    "3" : "s(Enrico_Sabbatini) dbo:deathDate o'<1998-11-25>",
+    "4" : "s(Enrico_Sabbatini) dbo:deathPlace o'<Ouarzazate>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

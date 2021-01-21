@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity10799",
+  "entityUrl" : "http://dbpedia.org/resource/$_(film)",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s($_(film)) dbo:director o'<Richard_Brooks>",
+    "2" : "s($_(film)) dbo:distributor o'<Columbia_Pictures>",
+    "3" : "s($_(film)) dbo:imdbId o'<0068152>",
+    "4" : "s($_(film)) dbo:musicComposer o'<Don_Elliott>",
+    "5" : "s($_(film)) dbo:musicComposer o'<Quincy_Jones>",
+    "6" : "s($_(film)) dbo:musicComposer o'<Roberta_Flack>",
+    "7" : "s($_(film)) dbo:musicComposer o'<Doug_Kershaw>",
+    "8" : "s($_(film)) dbo:musicComposer o'<Little_Richard>",
+    "9" : "s($_(film)) dbo:producer o'<M.J._Frankovich>",
+    "10" : "s($_(film)) dbo:runtime o'<121.0>",
+    "11" : "s($_(film)) dbo:runtime o'<7260.0>",
+    "12" : "s($_(film)) dbo:starring o'<Goldie_Hawn>",
+    "13" : "s($_(film)) dbo:starring o'<Robert_Webber>",
+    "14" : "s($_(film)) dbo:starring o'<Warren_Beatty>",
+    "15" : "s($_(film)) dbo:starring o'<Gert_Fröbe>",
+    "16" : "s($_(film)) dbo:starring o'<Scott_Brady>",
+    "17" : "s($_(film)) dbo:writer o'<Richard_Brooks>",
+    "18" : "s($_(film)) dbp:cinematography o'<Petrus R. Schlömp>",
+    "19" : "s($_(film)) dbp:country o'<USA>",
+    "20" : "s($_(film)) dbp:editing o'<George Grenville>",
+    "21" : "s($_(film)) dbp:id o'<dollars>",
+    "22" : "s($_(film)) dbp:language o'<English>",
+    "23" : "s($_(film)) dbp:language o'<German>",
+    "24" : "s($_(film)) dbp:title o'<$>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10800",
+  "entityUrl" : "http://dbpedia.org/resource/$9.99",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s($9.99) dbo:country o'<Israel>",
+    "2" : "s($9.99) dbo:country o'<Australia>",
+    "3" : "s($9.99) dbo:director o'<Tatia_Rosenthal>",
+    "4" : "s($9.99) dbo:distributor o'<Regent_Releasing>",
+    "5" : "s($9.99) dbo:releaseDate o'<2008-09-04>",
+    "6" : "s($9.99) dbo:runtime o'<78.0>",
+    "7" : "s($9.99) dbo:runtime o'<4680.0>",
+    "8" : "s($9.99) dbo:starring o'<Geoffrey_Rush>",
+    "9" : "s($9.99) dbo:starring o'<Anthony_LaPaglia>",
+    "10" : "s($9.99) dbo:writer o'<Tatia_Rosenthal>",
+    "11" : "s($9.99) dbo:writer o'<Etgar_Keret>",
+    "12" : "s($9.99) dbp:language o'<English>",
+    "13" : "s($9.99) dbp:music o'<Christopher  Bowen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10801",
+  "entityUrl" : "http://dbpedia.org/resource/$pent",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s($pent) dbo:director o'<Gil_Cates_Jr.>",
+    "2" : "s($pent) dbo:gross o'<9287.0>",
+    "3" : "s($pent) dbo:producer o'<Gil_Cates_Jr.>",
+    "4" : "s($pent) dbo:runtime o'<91.0>",
+    "5" : "s($pent) dbo:runtime o'<5460.0>",
+    "6" : "s($pent) dbo:starring o'<Jason_London>",
+    "7" : "s($pent) dbo:starring o'<Phill_Lewis>",
+    "8" : "s($pent) dbo:writer o'<Gil_Cates_Jr.>",
+    "9" : "s($pent) dbp:cinematography o'<Robert D. Tomer>",
+    "10" : "s($pent) dbp:country o'<USA>",
+    "11" : "s($pent) dbp:distributor o'<Regent Entertainment>",
+    "12" : "s($pent) dbp:editing o'<Jonathan Cates>",
+    "13" : "s($pent) dbp:language o'<English>",
+    "14" : "s($pent) dbp:music o'<Stan Ridgway>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10802",
+  "entityUrl" : "http://dbpedia.org/resource/$1,000_Reward",
+  "dboClass" : "dbo:Film",
+  "triples" : {
+    "1" : "s($1,000_Reward) dbo:director o'<Jack_Harvey_(actor_and_director)>",
+    "2" : "s($1,000_Reward) dbo:releaseDate o'<1915-02-26>",
+    "3" : "s($1,000_Reward) dbo:starring o'<Madeline_Fairbanks>",
+    "4" : "s($1,000_Reward) dbo:starring o'<Marion_Fairbanks>",
+    "5" : "s($1,000_Reward) dbo:starring o'<Jane_Fairbanks>",
+    "6" : "s($1,000_Reward) dbp:country o'<USA>",
+    "7" : "s($1,000_Reward) dbp:language o'<Silent>",
+    "8" : "s($1,000_Reward) dbp:studio o'<Thanhouser_Company>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

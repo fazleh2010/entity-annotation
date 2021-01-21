@@ -1,0 +1,127 @@
+[ {
+  "entityIndex" : "entity10701",
+  "entityUrl" : "http://dbpedia.org/resource/Keanu_Reeves",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Keanu_Reeves) dbo:birthDate o'<1964-09-02>",
+    "2" : "s(Keanu_Reeves) dbo:birthDate o'<1964-9-2>",
+    "3" : "s(Keanu_Reeves) dbo:birthName o'<Keanu Charles Reeves>",
+    "4" : "s(Keanu_Reeves) dbo:birthPlace o'<Lebanon>",
+    "5" : "s(Keanu_Reeves) dbo:birthPlace o'<Beirut>",
+    "6" : "s(Keanu_Reeves) dbo:birthYear o'<1964>",
+    "7" : "s(Keanu_Reeves) dbo:nationality o'<Canadians>",
+    "8" : "s(Keanu_Reeves) dbo:occupation o'<Keanu_Reeves__1>",
+    "9" : "s(Keanu_Reeves) dbo:stateOfOrigin o'<Canadians>",
+    "10" : "s(Keanu_Reeves) dbp:title o'<Awards for Keanu Reeves>",
+    "11" : "s(Keanu_Reeves) dbp:yearsActive o'<1984>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10702",
+  "entityUrl" : "http://dbpedia.org/resource/Kurt_Cobain",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Kurt_Cobain) dbo:birthDate o'<1967-02-20>",
+    "2" : "s(Kurt_Cobain) dbo:birthDate o'<1967-2-20>",
+    "3" : "s(Kurt_Cobain) dbo:birthName o'<Kurt Donald Cobain>",
+    "4" : "s(Kurt_Cobain) dbo:birthPlace o'<Aberdeen,_Washington>",
+    "5" : "s(Kurt_Cobain) dbo:birthYear o'<1967>",
+    "6" : "s(Kurt_Cobain) dbo:child o'<Frances_Bean_Cobain>",
+    "7" : "s(Kurt_Cobain) dbo:deathDate o'<1994-04-05>",
+    "8" : "s(Kurt_Cobain) dbo:deathDate o'<1994-4-5>",
+    "9" : "s(Kurt_Cobain) dbo:deathPlace o'<Seattle>",
+    "10" : "s(Kurt_Cobain) dbo:deathPlace o'<Washington_(state)>",
+    "11" : "s(Kurt_Cobain) dbo:deathYear o'<1994>",
+    "12" : "s(Kurt_Cobain) dbo:occupation o'<Kurt_Cobain__1>",
+    "13" : "s(Kurt_Cobain) dbo:spouse o'<Courtney_Love>",
+    "14" : "s(Kurt_Cobain) dbp:class o'<artist>",
+    "15" : "s(Kurt_Cobain) dbp:deathCause o'<Suicide>",
+    "16" : "s(Kurt_Cobain) dbp:id o'<p65214>",
+    "17" : "s(Kurt_Cobain) dbp:signature o'<Firma de Kurt Cobain.svg>",
+    "18" : "s(Kurt_Cobain) dbp:signatureAlt o'<Cobain's signature>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "8" : "s(kurt cobain=Kurt_Cobain) [difficulty coping with ] o'<courtney love=Courtney_Love>"
+  },
+  "abstract" : {
+    "8" : "kurt cobain<Kurt_Cobain> also had difficulty coping with his fame and public image, and the professional and personal pressures surrounding himself and his wife, musician courtney love<Courtney_Love>\n"
+  }
+}, {
+  "entityIndex" : "entity10703",
+  "entityUrl" : "http://dbpedia.org/resource/Kul_Tigin",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Kul_Tigin) dbo:birthDate o'<685-1-1>",
+    "2" : "s(Kul_Tigin) dbo:deathDate o'<731-2-27>",
+    "3" : "s(Kul_Tigin) dbp:date o'<May 2014>",
+    "4" : "s(Kul_Tigin) dbp:reason o'<what is Hot.-Sak.? Appears to an unexplained abbreviation>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10704",
+  "entityUrl" : "http://dbpedia.org/resource/Kinky_Friedman",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Kinky_Friedman) dbo:almaMater o'<University_of_Texas_at_Austin>",
+    "2" : "s(Kinky_Friedman) dbo:birthDate o'<1944-11-01>",
+    "3" : "s(Kinky_Friedman) dbo:birthDate o'<1944-11-1>",
+    "4" : "s(Kinky_Friedman) dbo:birthPlace o'<United_States>",
+    "5" : "s(Kinky_Friedman) dbo:birthPlace o'<Chicago>",
+    "6" : "s(Kinky_Friedman) dbo:birthPlace o'<Illinois>",
+    "7" : "s(Kinky_Friedman) dbo:party o'<Independent_politician>",
+    "8" : "s(Kinky_Friedman) dbo:party o'<Democratic_Party_(United_States)>",
+    "9" : "s(Kinky_Friedman) dbo:party o'<Republican_Party_(United_States)>",
+    "10" : "s(Kinky_Friedman) dbo:religion o'<Judaism>",
+    "11" : "s(Kinky_Friedman) dbp:birthName o'<Richard Samet Friedman>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(kinky friedman=Kinky_Friedman) [one of two ] o'<independent candidates=Independent_politician>"
+  },
+  "abstract" : {
+    "2" : "kinky friedman<Kinky_Friedman> was one of two independent candidates<Independent_politician> in the 2006 election for the office of governor of texas<University_of_Texas_at_Austin>\n"
+  }
+}, {
+  "entityIndex" : "entity10705",
+  "entityUrl" : "http://dbpedia.org/resource/Kyle_MacLachlan",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Kyle_MacLachlan) dbo:activeYearsStartYear o'<1984>",
+    "2" : "s(Kyle_MacLachlan) dbo:almaMater o'<University_of_Washington>",
+    "3" : "s(Kyle_MacLachlan) dbo:birthDate o'<1959-02-22>",
+    "4" : "s(Kyle_MacLachlan) dbo:birthDate o'<1959-2-22>",
+    "5" : "s(Kyle_MacLachlan) dbo:birthName o'<Kyle Merritt MacLachlan>",
+    "6" : "s(Kyle_MacLachlan) dbo:birthPlace o'<Yakima,_Washington>",
+    "7" : "s(Kyle_MacLachlan) dbo:birthYear o'<1959>",
+    "8" : "s(Kyle_MacLachlan) dbo:occupation o'<Kyle_MacLachlan__1>",
+    "9" : "s(Kyle_MacLachlan) dbo:occupation o'<Actor>",
+    "10" : "s(Kyle_MacLachlan) dbo:residence o'<Manhattan,_New_York>",
+    "11" : "s(Kyle_MacLachlan) dbp:children o'<1>",
+    "12" : "s(Kyle_MacLachlan) dbp:signature o'<Kyle MacLachlan signature.svg>",
+    "13" : "s(Kyle_MacLachlan) dbp:spouse o'<Desiree Gruber>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(kyle maclachlan=Kyle_MacLachlan) [prominent roles ] o'<television=Actor>"
+  },
+  "abstract" : {
+    "4" : "kyle maclachlan<Kyle_MacLachlan> has also had prominent roles in television<Actor> shows including appearing as special agent dale cooper in twin peaks (1990â€“1991; 2017) and its subsequent film<Actor> continuation twin peaks: fire walk with me (1992), trey macdougal in sex and the city (2000â€“2002), orson hodge in desperate housewives (2006â€“2012), the captain in how i met your mother (2010â€“2014), the mayor of portland in portlandia (2011â€“present), and calvin zabo in agents of s\n"
+  }
+}, {
+  "entityIndex" : "entity10706",
+  "entityUrl" : "http://dbpedia.org/resource/Kevin_Spacey",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Kevin_Spacey) dbo:activeYearsStartYear o'<1981>",
+    "2" : "s(Kevin_Spacey) dbo:almaMater o'<Juilliard_School>",
+    "3" : "s(Kevin_Spacey) dbo:birthDate o'<1959-07-26>",
+    "4" : "s(Kevin_Spacey) dbo:birthDate o'<1959-7-26>",
+    "5" : "s(Kevin_Spacey) dbo:birthName o'<Kevin Spacey Fowler>",
+    "6" : "s(Kevin_Spacey) dbo:birthPlace o'<South_Orange,_New_Jersey>",
+    "7" : "s(Kevin_Spacey) dbo:birthYear o'<1959>",
+    "8" : "s(Kevin_Spacey) dbo:occupation o'<Kevin_Spacey__1>",
+    "9" : "s(Kevin_Spacey) dbp:title o'<Awards for Kevin Spacey>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

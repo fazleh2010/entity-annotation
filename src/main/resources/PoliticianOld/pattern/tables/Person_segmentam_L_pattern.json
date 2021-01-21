@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity11849",
+  "entityUrl" : "http://dbpedia.org/resource/Laurence_Dermott",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Laurence_Dermott) dbo:birthDate o'<1720-1-1>",
+    "2" : "s(Laurence_Dermott) dbo:birthPlace o'<County_Roscommon>",
+    "3" : "s(Laurence_Dermott) dbo:deathDate o'<1791-1-1>",
+    "4" : "s(Laurence_Dermott) dbo:deathPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11850",
+  "entityUrl" : "http://dbpedia.org/resource/Lee_Gordon",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Lee_Gordon) dbo:birthDate o'<1923-3-8>",
+    "2" : "s(Lee_Gordon) dbo:deathDate o'<1963-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11851",
+  "entityUrl" : "http://dbpedia.org/resource/Lawrence_R._Goldfarb",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Lawrence_R._Goldfarb) dbo:birthDate o'<1958-11-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11852",
+  "entityUrl" : "http://dbpedia.org/resource/Len_Whitehouse",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Len_Whitehouse) dbo:birthDate o'<1957-9-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11853",
+  "entityUrl" : "http://dbpedia.org/resource/Lha-bzang_Khan",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Lha-bzang_Khan) dbo:birthDate o'<1700-1-1>",
+    "2" : "s(Lha-bzang_Khan) dbo:deathDate o'<1717-1-1>",
+    "3" : "s(Lha-bzang_Khan) dbo:deathPlace o'<Lhasa_(prefecture-level_city)>",
+    "4" : "s(Lha-bzang_Khan) dbp:after o'<Tagtsepa>",
+    "5" : "s(Lha-bzang_Khan) dbp:before o'<Tenzin_Wangchuk_Khan>",
+    "6" : "s(Lha-bzang_Khan) dbp:l o'<Buddhism Respecting, Deferential Khan>",
+    "7" : "s(Lha-bzang_Khan) dbp:p o'<YÃ¬fÇŽ gÅ�ngshÃ¹n HÃ n>",
+    "8" : "s(Lha-bzang_Khan) dbp:t o'<à½£à¾·à¼‹à½–à½Ÿà½„à¼Œà¼�>",
+    "9" : "s(Lha-bzang_Khan) dbp:title o'<List_of_rulers_of_Tibet>",
+    "10" : "s(Lha-bzang_Khan) dbp:title o'<Khan of the Khoshut Khanate>",
+    "11" : "s(Lha-bzang_Khan) dbp:years o'<1697>",
+    "12" : "s(Lha-bzang_Khan) dbp:z o'<Lhasang>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11854",
+  "entityUrl" : "http://dbpedia.org/resource/Lucrezia_de'_Medici,_Duchess_of_Ferrara",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:birthDate o'<1545-02-14>",
+    "2" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:birthDate o'<1545-2-24>",
+    "3" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:birthPlace o'<Florence>",
+    "4" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:deathDate o'<1561-04-21>",
+    "5" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:deathDate o'<1561-5-1>",
+    "6" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:deathPlace o'<Ferrara>",
+    "7" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:parent o'<Eleanor_of_Toledo>",
+    "8" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:parent o'<Cosimo_I_de'_Medici,_Grand_Duke_of_Tuscany>",
+    "9" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:spouse o'<Alfonso_II_d'Este,_Duke_of_Ferrara>",
+    "10" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbo:title o'<Duchess consort of Ferrara>",
+    "11" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbp:nobleFamily o'<Medici>",
+    "12" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbp:nobleFamily o'<Este>",
+    "13" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbp:title o'<List_of_Ferrarese_consorts>",
+    "14" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbp:title o'<List_of_Modenese_consorts>",
+    "15" : "s(Lucrezia_de'_Medici,_Duchess_of_Ferrara) dbp:years o'<--10-03>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

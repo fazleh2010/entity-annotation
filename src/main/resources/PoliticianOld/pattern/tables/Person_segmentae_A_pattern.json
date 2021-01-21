@@ -1,0 +1,106 @@
+[ {
+  "entityIndex" : "entity11305",
+  "entityUrl" : "http://dbpedia.org/resource/Arron_Perry",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Arron_Perry) dbp:after o'<Rob_Furlong>",
+    "2" : "s(Arron_Perry) dbp:before o'<Carlos_Hathcock>",
+    "3" : "s(Arron_Perry) dbp:title o'<Longest_recorded_sniper_kills>",
+    "4" : "s(Arron_Perry) dbp:years o'<2002>",
+    "5" : "s(Arron_Perry) dbp:years o'<2,310 m>",
+    "6" : "s(Arron_Perry) dbp:years o'< Hornady A-MAX .50)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11306",
+  "entityUrl" : "http://dbpedia.org/resource/Anant_Nag",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Anant_Nag) dbo:birthDate o'<1948-09-04>",
+    "2" : "s(Anant_Nag) dbo:birthDate o'<1948-9-4>",
+    "3" : "s(Anant_Nag) dbo:birthName o'<Anant Nagarakatte>",
+    "4" : "s(Anant_Nag) dbo:birthPlace o'<India>",
+    "5" : "s(Anant_Nag) dbo:birthPlace o'<Karnataka>",
+    "6" : "s(Anant_Nag) dbo:birthPlace o'<Uttara_Kannada>",
+    "7" : "s(Anant_Nag) dbo:birthPlace o'<Honnavar>",
+    "8" : "s(Anant_Nag) dbo:birthYear o'<1948>",
+    "9" : "s(Anant_Nag) dbo:imdbId o'<0619047>",
+    "10" : "s(Anant_Nag) dbo:nationality o'<India>",
+    "11" : "s(Anant_Nag) dbo:occupation o'<Anant_Nag__1>",
+    "12" : "s(Anant_Nag) dbo:spouse o'<Gayathri_(actress)>",
+    "13" : "s(Anant_Nag) dbo:stateOfOrigin o'<India>",
+    "14" : "s(Anant_Nag) dbp:children o'<1>",
+    "15" : "s(Anant_Nag) dbp:family o'<Shankar_Nag>",
+    "16" : "s(Anant_Nag) dbp:title o'<Anant Nag>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(anant nag=Anant_Nag) [considered one of ] o'<kannada=Karnataka>",
+    "4" : "s(anant nag=Anant_Nag) [acted in marathi tamil ] o'<hindi=India>",
+    "5" : "s(anant nag=Anant_Nag) [acted in malgudi ] o'<shankar nag=Shankar_Nag>",
+    "9" : "s(anant nag=Anant_Nag) [fluent in ] o'<kannada=Karnataka>"
+  },
+  "abstract" : {
+    "2" : "anant nag<Anant_Nag> is considered one of kannada<Karnataka> cinema's finest actors\n",
+    "4" : "in addition to kannada<Karnataka> movies, anant nag<Anant_Nag> has acted in marathi, tamil, malayalam, telugu and hindi<India> movies\n",
+    "5" : "anant nag<Anant_Nag> has also acted in malgudi days, directed by his younger brother shankar nag<Shankar_Nag> based on the stories by r\n",
+    "9" : "anant nag<Anant_Nag> is fluent in kannada<Karnataka>, konkani, marathi, hindi<India>\n"
+  }
+}, {
+  "entityIndex" : "entity11307",
+  "entityUrl" : "http://dbpedia.org/resource/Abraham_Cohen_Labatt",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Abraham_Cohen_Labatt) dbo:birthDate o'<1802-0-0>",
+    "2" : "s(Abraham_Cohen_Labatt) dbo:deathDate o'<1899-8-16>",
+    "3" : "s(Abraham_Cohen_Labatt) dbp:article o'<Labatt, Abraham Cohen>",
+    "4" : "s(Abraham_Cohen_Labatt) dbp:author o'<Cyrus_Adler>",
+    "5" : "s(Abraham_Cohen_Labatt) dbp:url o'<view.jsp?artid=3&letter=L&search=Abraham%20Cohen%20Labatt>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11308",
+  "entityUrl" : "http://dbpedia.org/resource/Abraham_Salomon_Camondo",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Abraham_Salomon_Camondo) dbo:birthDate o'<1781-1-1>",
+    "2" : "s(Abraham_Salomon_Camondo) dbo:birthPlace o'<Istanbul>",
+    "3" : "s(Abraham_Salomon_Camondo) dbo:deathDate o'<1873-3-30>",
+    "4" : "s(Abraham_Salomon_Camondo) dbo:deathPlace o'<Paris>",
+    "5" : "s(Abraham_Salomon_Camondo) dbp:article o'<Camondo>",
+    "6" : "s(Abraham_Salomon_Camondo) dbp:url o'<view.jsp?artid=72&letter=C>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(abraham salomon camondo=Abraham_Salomon_Camondo) [born in ] o'<constantinople=Istanbul>",
+    "5" : "s(abraham salomon camondo=Abraham_Salomon_Camondo) [received austrian subject ] o'<constantinople=Istanbul>",
+    "12" : "s(abraham salomon camondo=Abraham_Salomon_Camondo) [established in ] o'<constantinople=Istanbul>"
+  },
+  "abstract" : {
+    "2" : "abraham salomon camondo<Abraham_Salomon_Camondo> was born in constantinople<Istanbul>, during the ottoman empire\n",
+    "5" : "while venice was under austrian rule, abraham salomon camondo<Abraham_Salomon_Camondo> received as an austrian subject the title of knight of the order of franz joseph, and in 1854, as the representative of the austrian community of constantinople<Istanbul>, abraham salomon camondo<Abraham_Salomon_Camondo> and his family went to vienna to attend the wedding of emperor franz joseph\n",
+    "12" : "abraham salomon camondo<Abraham_Salomon_Camondo> established in constantinople<Istanbul> a central consistory for the jews of the empire, of which abraham salomon camondo<Abraham_Salomon_Camondo> was almost continuously the president; abraham salomon camondo<Abraham_Salomon_Camondo> introduced reforms into the communal administration; and abraham salomon camondo<Abraham_Salomon_Camondo> founded in 1858 an educational institution, the institution camondo<Camondo>, at peri pasha, the poorest and most densely populated suburb of the capital<Paris>\n"
+  }
+}, {
+  "entityIndex" : "entity11309",
+  "entityUrl" : "http://dbpedia.org/resource/Aureo_Castro",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Aureo_Castro) dbo:birthDate o'<1917-0-0>",
+    "2" : "s(Aureo_Castro) dbo:deathDate o'<1993-1-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11310",
+  "entityUrl" : "http://dbpedia.org/resource/Augustin_Joseph_Caron",
+  "dboClass" : "Person_segmentae",
+  "triples" : {
+    "1" : "s(Augustin_Joseph_Caron) dbo:birthDate o'<1774-10-29>",
+    "2" : "s(Augustin_Joseph_Caron) dbo:birthPlace o'<Creuse,_Somme>",
+    "3" : "s(Augustin_Joseph_Caron) dbo:deathDate o'<1822-10-1>",
+    "4" : "s(Augustin_Joseph_Caron) dbo:deathPlace o'<Strasbourg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

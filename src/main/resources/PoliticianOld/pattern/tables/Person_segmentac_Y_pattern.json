@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "entity11112",
+  "entityUrl" : "http://dbpedia.org/resource/Yefim_Bronfman",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Yefim_Bronfman) dbo:birthDate o'<1958-4-10>",
+    "2" : "s(Yefim_Bronfman) dbo:birthPlace o'<Tashkent>",
+    "3" : "s(Yefim_Bronfman) dbp:blp o'<yes>",
+    "4" : "s(Yefim_Bronfman) dbp:date o'<January 2016>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(yefim bronfman=Yefim_Bronfman) [born in ] o'<tashkent=Tashkent>"
+  },
+  "abstract" : {
+    "1" : "yefim bronfman<Yefim_Bronfman> was born in tashkent<Tashkent>, uzbek ssr, and immigrated to israel at the age of 15\n"
+  }
+}, {
+  "entityIndex" : "entity11113",
+  "entityUrl" : "http://dbpedia.org/resource/Yaowapa_Boorapolchai",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Yaowapa_Boorapolchai) dbo:birthDate o'<1984-9-6>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11114",
+  "entityUrl" : "http://dbpedia.org/resource/Yosef_Haim_Brenner",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Yosef_Haim_Brenner) dbo:birthDate o'<1881-9-11>",
+    "2" : "s(Yosef_Haim_Brenner) dbo:birthPlace o'<Chernigov_Governorate>",
+    "3" : "s(Yosef_Haim_Brenner) dbo:deathDate o'<1921-5-2>",
+    "4" : "s(Yosef_Haim_Brenner) dbo:deathPlace o'<Tel_Aviv>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11115",
+  "entityUrl" : "http://dbpedia.org/resource/Yanelis_Labrada",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Yanelis_Labrada) dbo:birthDate o'<1981-10-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11116",
+  "entityUrl" : "http://dbpedia.org/resource/Yamada_Arinaga",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Yamada_Arinaga) dbo:birthDate o'<1578-8-16>",
+    "2" : "s(Yamada_Arinaga) dbo:deathDate o'<1668-10-7>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11117",
+  "entityUrl" : "http://dbpedia.org/resource/Yamada_Arinobu",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Yamada_Arinobu) dbo:birthDate o'<1544-0-0>",
+    "2" : "s(Yamada_Arinobu) dbo:deathDate o'<1609-7-15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

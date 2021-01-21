@@ -1,0 +1,134 @@
+[ {
+  "entityIndex" : "entity10761",
+  "entityUrl" : "http://dbpedia.org/resource/Uffington_White_Horse",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Uffington_White_Horse) dbo:elevation o'<261.0>",
+    "2" : "s(Uffington_White_Horse) dbo:locatedInArea o'<England>",
+    "3" : "s(Uffington_White_Horse) dbo:locatedInArea o'<Oxfordshire>",
+    "4" : "s(Uffington_White_Horse) dbo:nationalTopographicSystemMapNumber o'<OSLandranger 174>",
+    "5" : "s(Uffington_White_Horse) dbo:prominence o'<79.0>",
+    "6" : "s(Uffington_White_Horse) dbp:gridRefUk o'<SU301866>",
+    "7" : "s(Uffington_White_Horse) dbp:listing o'<List_of_English_counties_by_highest_point>",
+    "8" : "s(Uffington_White_Horse) dbp:photo o'<Uffington-White-Horse-sat.jpg>",
+    "9" : "s(Uffington_White_Horse) dbp:photoCaption o'<Aerial view of the White Horse>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10762",
+  "entityUrl" : "http://dbpedia.org/resource/Untersberg",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Untersberg) dbo:elevation o'<1973.0>",
+    "2" : "s(Untersberg) dbo:firstAscentYear o'<0012>",
+    "3" : "s(Untersberg) dbo:locatedInArea o'<Germany>",
+    "4" : "s(Untersberg) dbo:locatedInArea o'<Austria>",
+    "5" : "s(Untersberg) dbo:mountainRange o'<Berchtesgaden_Alps>",
+    "6" : "s(Untersberg) dbp:photo o'<Duerrnberg 20050207 005.jpg>",
+    "7" : "s(Untersberg) dbp:photoCaption o'<View from the south, in Göll massif. The Salzburg Hochthron is the peak on the right of the picture, the Berchtesgaden Hochthron the one on the left.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10763",
+  "entityUrl" : "http://dbpedia.org/resource/Ulriken",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Ulriken) dbo:elevation o'<643.0>",
+    "2" : "s(Ulriken) dbo:locatedInArea o'<Hordaland>",
+    "3" : "s(Ulriken) dbo:locatedInArea o'<Norway>",
+    "4" : "s(Ulriken) dbo:locatedInArea o'<Bergen>",
+    "5" : "s(Ulriken) dbp:easiestRoute o'<Aerial_tramway>",
+    "6" : "s(Ulriken) dbp:photo o'<Ulriken.jpg>",
+    "7" : "s(Ulriken) dbp:photoCaption o'<Ulriken, as seen from the centre of Bergen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10764",
+  "entityUrl" : "http://dbpedia.org/resource/Uncompahgre_Peak",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Uncompahgre_Peak) dbo:elevation o'<4365.04>",
+    "2" : "s(Uncompahgre_Peak) dbo:locatedInArea o'<United_States>",
+    "3" : "s(Uncompahgre_Peak) dbo:locatedInArea o'<Colorado>",
+    "4" : "s(Uncompahgre_Peak) dbo:locatedInArea o'<List_of_Colorado_county_high_points>",
+    "5" : "s(Uncompahgre_Peak) dbo:mountainRange o'<San_Juan_Mountains>",
+    "6" : "s(Uncompahgre_Peak) dbo:mountainRange o'<List_of_mountain_ranges_of_Colorado>",
+    "7" : "s(Uncompahgre_Peak) dbo:nationalTopographicSystemMapNumber o'<USGS 7.5' topographic map>",
+    "8" : "s(Uncompahgre_Peak) dbo:nationalTopographicSystemMapNumber o'<Uncompahgre Peak, Colorado>",
+    "9" : "s(Uncompahgre_Peak) dbo:prominence o'<1303.63>",
+    "10" : "s(Uncompahgre_Peak) dbp:easiestRoute o'<Hike>",
+    "11" : "s(Uncompahgre_Peak) dbp:elevationSystem o'<NAVD88>",
+    "12" : "s(Uncompahgre_Peak) dbp:isolation o'<85.0>",
+    "13" : "s(Uncompahgre_Peak) dbp:latD o'<38.0717>",
+    "14" : "s(Uncompahgre_Peak) dbp:listing o'<6>",
+    "15" : "s(Uncompahgre_Peak) dbp:listing o'<35>",
+    "16" : "s(Uncompahgre_Peak) dbp:listing o'<68>",
+    "17" : "s(Uncompahgre_Peak) dbp:listing o'<List_of_Colorado_fourteeners>",
+    "18" : "s(Uncompahgre_Peak) dbp:listing o'<List_of_the_highest_major_summits_of_Colorado>",
+    "19" : "s(Uncompahgre_Peak) dbp:listing o'<List_of_the_highest_major_summits_of_the_United_States>",
+    "20" : "s(Uncompahgre_Peak) dbp:listing o'<List_of_the_most_isolated_major_summits_of_North_America>",
+    "21" : "s(Uncompahgre_Peak) dbp:listing o'<List_of_the_highest_major_summits_of_North_America>",
+    "22" : "s(Uncompahgre_Peak) dbp:listing o'<List_of_Colorado_county_high_points>",
+    "23" : "s(Uncompahgre_Peak) dbp:listing o'<21.0>",
+    "24" : "s(Uncompahgre_Peak) dbp:longD o'<-107.462>",
+    "25" : "s(Uncompahgre_Peak) dbp:mapCaption o'<Colorado>",
+    "26" : "s(Uncompahgre_Peak) dbp:photo o'<Uncompahgre_peak.jpg>",
+    "27" : "s(Uncompahgre_Peak) dbp:photoCaption o'<Uncompahgre Peak from the west>",
+    "28" : "s(Uncompahgre_Peak) dbp:regionCode o'<US-CO>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10765",
+  "entityUrl" : "http://dbpedia.org/resource/Urra_Moor",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Urra_Moor) dbo:elevation o'<454.0>",
+    "2" : "s(Urra_Moor) dbo:locatedInArea o'<England>",
+    "3" : "s(Urra_Moor) dbo:locatedInArea o'<North_York_Moors>",
+    "4" : "s(Urra_Moor) dbo:nationalTopographicSystemMapNumber o'<OSLandranger 93>",
+    "5" : "s(Urra_Moor) dbo:prominence o'<409.0>",
+    "6" : "s(Urra_Moor) dbp:gridRefUk o'<NZ594015>",
+    "7" : "s(Urra_Moor) dbp:listing o'<Marilyn_(hill)>",
+    "8" : "s(Urra_Moor) dbp:photo o'<Round Hill - geograph.org.uk - 12959.jpg>",
+    "9" : "s(Urra_Moor) dbp:photoCaption o'<Round Hill, the summit of Urra Moor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10766",
+  "entityUrl" : "http://dbpedia.org/resource/Ute_Mountain",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Ute_Mountain) dbo:elevation o'<3043.12>",
+    "2" : "s(Ute_Mountain) dbo:locatedInArea o'<United_States>",
+    "3" : "s(Ute_Mountain) dbo:locatedInArea o'<Colorado>",
+    "4" : "s(Ute_Mountain) dbo:locatedInArea o'<Montezuma_County,_Colorado>",
+    "5" : "s(Ute_Mountain) dbo:locatedInArea o'<Ute_Mountain_Ute_Tribe_Reservation>",
+    "6" : "s(Ute_Mountain) dbo:mountainRange o'<Ute_Mountains>",
+    "7" : "s(Ute_Mountain) dbo:nationalTopographicSystemMapNumber o'<USGS 7.5' topographic map>",
+    "8" : "s(Ute_Mountain) dbo:nationalTopographicSystemMapNumber o'<Battle Rock, Colorado>",
+    "9" : "s(Ute_Mountain) dbo:otherName o'<Ute Mountain>",
+    "10" : "s(Ute_Mountain) dbo:prominence o'<1231.09>",
+    "11" : "s(Ute_Mountain) dbp:isolationMi o'<34.27>",
+    "12" : "s(Ute_Mountain) dbp:latD o'<37.2841>",
+    "13" : "s(Ute_Mountain) dbp:listing o'<Colorado_prominent_summits>",
+    "14" : "s(Ute_Mountain) dbp:listing o'<Colorado_range_high_points>",
+    "15" : "s(Ute_Mountain) dbp:longD o'<-108.779>",
+    "16" : "s(Ute_Mountain) dbp:mapCaption o'<Colorado>",
+    "17" : "s(Ute_Mountain) dbp:photo o'<Utemountain.JPG>",
+    "18" : "s(Ute_Mountain) dbp:photoCaption o'<(Ute Peak from the north.)>",
+    "19" : "s(Ute_Mountain) dbp:regionCode o'<US-CO>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(ute mountain=Ute_Mountain) [or ute peak sleeping ] o'<ute mountains=Ute_Mountains>",
+    "8" : "s(ute mountain=Ute_Mountain) [eighth topographically ] o'<the state=Colorado>"
+  },
+  "abstract" : {
+    "1" : "ute mountain<Ute_Mountain> (or ute peak or sleeping ute mountain<Ute_Mountain>), is a peak within the ute mountains<Ute_Mountains>, a small mountain range in the southwestern corner of colorado<Colorado>",
+    "8" : "despite being much lower than colorado's<Colorado> highest peaks, ute mountain<Ute_Mountain> is the eighth most topographically prominent peak in the state<Colorado>, due to this isolation"
+  }
+} ]

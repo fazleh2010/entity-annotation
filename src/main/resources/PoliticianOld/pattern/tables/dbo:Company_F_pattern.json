@@ -1,0 +1,163 @@
+[ {
+  "entityIndex" : "entity10676",
+  "entityUrl" : "http://dbpedia.org/resource/First_National",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(First_National) dbo:wikiPageDisambiguates o'<First_National_Pictures>",
+    "2" : "s(First_National) dbo:wikiPageDisambiguates o'<First_National_Bank_(disambiguation)>",
+    "3" : "s(First_National) dbo:wikiPageDisambiguates o'<First_National_(TV_series)>",
+    "4" : "s(First_National) dbo:wikiPageDisambiguates o'<First_National_Financial_Corporation>",
+    "5" : "s(First_National) dbo:wikiPageDisambiguates o'<First_National_Records>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10677",
+  "entityUrl" : "http://dbpedia.org/resource/Ferrari",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Ferrari) dbo:assets o'<3.875E9>",
+    "2" : "s(Ferrari) dbo:equity o'<2.5123E7>",
+    "3" : "s(Ferrari) dbo:foundationPlace o'<Modena>",
+    "4" : "s(Ferrari) dbo:foundedBy o'<Enzo_Ferrari>",
+    "5" : "s(Ferrari) dbo:foundingDate o'<1939-09-13>",
+    "6" : "s(Ferrari) dbo:foundingYear o'<1939>",
+    "7" : "s(Ferrari) dbo:industry o'<Automotive_industry>",
+    "8" : "s(Ferrari) dbo:keyPerson o'<Piero_Ferrari>",
+    "9" : "s(Ferrari) dbo:keyPerson o'<Sergio_Marchionne>",
+    "10" : "s(Ferrari) dbo:netIncome o'<2.87816E8>",
+    "11" : "s(Ferrari) dbo:operatingIncome o'<4.4432E8>",
+    "12" : "s(Ferrari) dbo:product o'<Sports_car>",
+    "13" : "s(Ferrari) dbo:production o'<7664>",
+    "14" : "s(Ferrari) dbo:revenue o'<2.854E9>",
+    "15" : "s(Ferrari) dbo:type o'<Naamloze_vennootschap>",
+    "16" : "s(Ferrari) dbp:assetsYear o'<2015>",
+    "17" : "s(Ferrari) dbp:equityYear o'<2015>",
+    "18" : "s(Ferrari) dbp:incomeYear o'<2015>",
+    "19" : "s(Ferrari) dbp:logo o'<150>",
+    "20" : "s(Ferrari) dbp:nativeName o'<Ferrari N.V.>",
+    "21" : "s(Ferrari) dbp:nativeNameLang o'<it>",
+    "22" : "s(Ferrari) dbp:netIncomeYear o'<2015>",
+    "23" : "s(Ferrari) dbp:productionYear o'<2015>",
+    "24" : "s(Ferrari) dbp:revenueYear o'<2015>",
+    "25" : "s(Ferrari) dbp:subsid o'<Ferrari S.p.A.>",
+    "26" : "s(Ferrari) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(ferrari=Ferrari) [in 1939 ] o'<auto=Automotive_industry>",
+    "8" : "s(ferrari=Ferrari) [250 gto became ] o'<car=Sports_car>"
+  },
+  "abstract" : {
+    "5" : "founded by enzo ferrari<Enzo_Ferrari> in 1939 as auto<Automotive_industry> avio costruzioni, the company built its first car<Sports_car> in 1940",
+    "8" : "in may 2012 the 1962 ferrari<Enzo_Ferrari> 250 gto became the most expensive car<Sports_car> in history, selling in a private transaction for us$38"
+  }
+}, {
+  "entityIndex" : "entity10678",
+  "entityUrl" : "http://dbpedia.org/resource/FASA",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(FASA) dbo:extinctionDate o'<2001-04-30>",
+    "2" : "s(FASA) dbo:extinctionYear o'<2001>",
+    "3" : "s(FASA) dbo:foundingYear o'<1980>",
+    "4" : "s(FASA) dbo:industry o'<Wargaming>",
+    "5" : "s(FASA) dbo:industry o'<Role-playing_game>",
+    "6" : "s(FASA) dbo:keyPerson o'<L._Ross_Babcock_III>",
+    "7" : "s(FASA) dbo:keyPerson o'<Jordan_Weisman>",
+    "8" : "s(FASA) dbo:location o'<United_States>",
+    "9" : "s(FASA) dbo:location o'<Chicago>",
+    "10" : "s(FASA) dbo:location o'<Illinois>",
+    "11" : "s(FASA) dbo:product o'<Earthdawn>",
+    "12" : "s(FASA) dbo:product o'<Renegade_Legion>",
+    "13" : "s(FASA) dbo:product o'<Shadowrun>",
+    "14" : "s(FASA) dbo:product o'<Crimson_Skies>",
+    "15" : "s(FASA) dbo:product o'<VOR:_The_Maelstrom>",
+    "16" : "s(FASA) dbo:product o'<Demonworld>",
+    "17" : "s(FASA) dbo:product o'<Battletech>",
+    "18" : "s(FASA) dbp:date o'<20010713055048>",
+    "19" : "s(FASA) dbp:logo o'<FASA Logo.png>",
+    "20" : "s(FASA) dbp:title o'<Official website>",
+    "21" : "s(FASA) dbp:url o'<www.fasa.com>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10679",
+  "entityUrl" : "http://dbpedia.org/resource/Fiat_S.p.A.",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Fiat_S.p.A.) dbo:assets o'<8.2119E10>",
+    "2" : "s(Fiat_S.p.A.) dbo:equity o'<1.3173E10>",
+    "3" : "s(Fiat_S.p.A.) dbo:extinctionDate o'<2014-10-12>",
+    "4" : "s(Fiat_S.p.A.) dbo:extinctionYear o'<2014>",
+    "5" : "s(Fiat_S.p.A.) dbo:fate o'<Merged into successorFiat Chrysler Automobiles, taking control of the Fiat Group.>",
+    "6" : "s(Fiat_S.p.A.) dbo:foundationPlace o'<Turin>",
+    "7" : "s(Fiat_S.p.A.) dbo:foundedBy o'<Giovanni_Agnelli>",
+    "8" : "s(Fiat_S.p.A.) dbo:foundingDate o'<1899-07-11>",
+    "9" : "s(Fiat_S.p.A.) dbo:foundingYear o'<1899>",
+    "10" : "s(Fiat_S.p.A.) dbo:industry o'<Automotive_industry>",
+    "11" : "s(Fiat_S.p.A.) dbo:internationally o'<true>",
+    "12" : "s(Fiat_S.p.A.) dbo:keyPerson o'<John_Elkann>",
+    "13" : "s(Fiat_S.p.A.) dbo:keyPerson o'<Sergio_Marchionne>",
+    "14" : "s(Fiat_S.p.A.) dbo:location o'<Turin>",
+    "15" : "s(Fiat_S.p.A.) dbo:numberOfEmployees o'<214836>",
+    "16" : "s(Fiat_S.p.A.) dbo:operatingIncome o'<3.814E9>",
+    "17" : "s(Fiat_S.p.A.) dbo:owner o'<Exor_(company)>",
+    "18" : "s(Fiat_S.p.A.) dbo:owningCompany o'<Exor_(company)>",
+    "19" : "s(Fiat_S.p.A.) dbo:product o'<Commercial_vehicles>",
+    "20" : "s(Fiat_S.p.A.) dbo:product o'<List_of_auto_parts>",
+    "21" : "s(Fiat_S.p.A.) dbo:production o'<4>",
+    "22" : "s(Fiat_S.p.A.) dbo:production o'<2012>",
+    "23" : "s(Fiat_S.p.A.) dbo:revenue o'<8.3957E10>",
+    "24" : "s(Fiat_S.p.A.) dbo:successor o'<Fiat_Chrysler_Automobiles>",
+    "25" : "s(Fiat_S.p.A.) dbo:successor o'<FCA_Italy_S.p.A.>",
+    "26" : "s(Fiat_S.p.A.) dbo:type o'<Joint_stock_company>",
+    "27" : "s(Fiat_S.p.A.) dbp:logo o'<Fiat S.p.A. logo.svg>",
+    "28" : "s(Fiat_S.p.A.) dbp:logoSize o'<190>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10680",
+  "entityUrl" : "http://dbpedia.org/resource/FilmLight",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(FilmLight) dbo:foundationPlace o'<London>",
+    "2" : "s(FilmLight) dbo:foundingYear o'<2002>",
+    "3" : "s(FilmLight) dbo:industry o'<Film>",
+    "4" : "s(FilmLight) dbp:imageCaption o'<FilmLight headquarters - Artists House, London>",
+    "5" : "s(FilmLight) dbp:logo o'<300>",
+    "6" : "s(FilmLight) dbp:logoCaption o'<FilmLight logo>",
+    "7" : "s(FilmLight) dbp:type o'<Private>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10681",
+  "entityUrl" : "http://dbpedia.org/resource/Fokker",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Fokker) dbo:extinctionDate o'<1996-03-15>",
+    "2" : "s(Fokker) dbo:extinctionYear o'<1996>",
+    "3" : "s(Fokker) dbo:fate o'<Bankruptcy>",
+    "4" : "s(Fokker) dbo:foundingDate o'<1912-02-22>",
+    "5" : "s(Fokker) dbo:foundingYear o'<1912>",
+    "6" : "s(Fokker) dbo:industry o'<Aerospace>",
+    "7" : "s(Fokker) dbo:keyPerson o'<Anthony_Fokker>",
+    "8" : "s(Fokker) dbo:keyPerson o'<Reinhold_Platz>",
+    "9" : "s(Fokker) dbo:keyPerson o'<Walter_Rethel>",
+    "10" : "s(Fokker) dbo:location o'<Amsterdam>",
+    "11" : "s(Fokker) dbo:location o'<Netherlands>",
+    "12" : "s(Fokker) dbo:successor o'<Stork_B.V.>",
+    "13" : "s(Fokker) dbp:logo o'<File:Fokker_logo.png>",
+    "14" : "s(Fokker) dbp:products o'<Commercial airliners>",
+    "15" : "s(Fokker) dbp:products o'<Military aircraft>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(fokker=Fokker) [dutch ] o'<aircraft=Military_aircraft>",
+    "4" : "s(fokker=Fokker) [went into ] o'<bankruptcy=Bankruptcy>"
+  },
+  "abstract" : {
+    "1" : "fokker<Anthony_Fokker> was a dutch aircraft<Military_aircraft> manufacturer named after its founder, anthony fokker<Anthony_Fokker>",
+    "4" : "fokker<Anthony_Fokker> went into bankruptcy<Bankruptcy> in 1996, and its operations were sold to competitors"
+  }
+} ]

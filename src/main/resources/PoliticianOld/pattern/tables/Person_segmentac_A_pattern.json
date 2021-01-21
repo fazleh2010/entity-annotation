@@ -1,0 +1,105 @@
+[ {
+  "entityIndex" : "entity10968",
+  "entityUrl" : "http://dbpedia.org/resource/Aaron_Mannes",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Aaron_Mannes) dbo:birthDate o'<1970-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10969",
+  "entityUrl" : "http://dbpedia.org/resource/A._N._Wilson",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(A._N._Wilson) dbo:birthDate o'<1950-10-27>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10970",
+  "entityUrl" : "http://dbpedia.org/resource/Alan_Hansen",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Alan_Hansen) dbo:birthDate o'<1955-06-13>",
+    "2" : "s(Alan_Hansen) dbo:birthDate o'<1955-6-13>",
+    "3" : "s(Alan_Hansen) dbo:birthPlace o'<Scotland>",
+    "4" : "s(Alan_Hansen) dbo:birthPlace o'<Alloa>",
+    "5" : "s(Alan_Hansen) dbo:birthPlace o'<Sauchie>",
+    "6" : "s(Alan_Hansen) dbo:careerStation o'<Alan_Hansen__1>",
+    "7" : "s(Alan_Hansen) dbo:careerStation o'<Alan_Hansen__2>",
+    "8" : "s(Alan_Hansen) dbo:careerStation o'<Alan_Hansen__3>",
+    "9" : "s(Alan_Hansen) dbo:height o'<188.0>",
+    "10" : "s(Alan_Hansen) dbo:height o'<1.88>",
+    "11" : "s(Alan_Hansen) dbo:position o'<Defender_(football)>",
+    "12" : "s(Alan_Hansen) dbo:team o'<Scotland_national_football_team>",
+    "13" : "s(Alan_Hansen) dbo:team o'<Liverpool_F.C.>",
+    "14" : "s(Alan_Hansen) dbo:team o'<Partick_Thistle_F.C.>",
+    "15" : "s(Alan_Hansen) dbp:bg o'<gold>",
+    "16" : "s(Alan_Hansen) dbp:fg o'<#0000c0>",
+    "17" : "s(Alan_Hansen) dbp:title o'<Awards>",
+    "18" : "s(Alan_Hansen) dbp:totalcaps o'<520>",
+    "19" : "s(Alan_Hansen) dbp:totalgoals o'<14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10971",
+  "entityUrl" : "http://dbpedia.org/resource/Abby_Aldrich_Rockefeller",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Abby_Aldrich_Rockefeller) dbo:birthDate o'<1874-10-26>",
+    "2" : "s(Abby_Aldrich_Rockefeller) dbo:birthName o'<Abigail Greene Aldrich>",
+    "3" : "s(Abby_Aldrich_Rockefeller) dbo:birthPlace o'<Providence,_Rhode_Island>",
+    "4" : "s(Abby_Aldrich_Rockefeller) dbo:birthYear o'<1874>",
+    "5" : "s(Abby_Aldrich_Rockefeller) dbo:child o'<Abby_Rockefeller_MauzÃ©>",
+    "6" : "s(Abby_Aldrich_Rockefeller) dbo:child o'<Winthrop_Rockefeller>",
+    "7" : "s(Abby_Aldrich_Rockefeller) dbo:child o'<David_Rockefeller>",
+    "8" : "s(Abby_Aldrich_Rockefeller) dbo:child o'<John_D._Rockefeller_III>",
+    "9" : "s(Abby_Aldrich_Rockefeller) dbo:child o'<Laurance_Rockefeller>",
+    "10" : "s(Abby_Aldrich_Rockefeller) dbo:child o'<Nelson_Rockefeller>",
+    "11" : "s(Abby_Aldrich_Rockefeller) dbo:deathDate o'<1948-04-05>",
+    "12" : "s(Abby_Aldrich_Rockefeller) dbo:deathDate o'<1948-4-5>",
+    "13" : "s(Abby_Aldrich_Rockefeller) dbo:deathPlace o'<New_York_City>",
+    "14" : "s(Abby_Aldrich_Rockefeller) dbo:deathYear o'<1948>",
+    "15" : "s(Abby_Aldrich_Rockefeller) dbo:occupation o'<Abby_Aldrich_Rockefeller__1>",
+    "16" : "s(Abby_Aldrich_Rockefeller) dbo:parent o'<Nelson_W._Aldrich>",
+    "17" : "s(Abby_Aldrich_Rockefeller) dbo:relative o'<Richard_S._Aldrich>",
+    "18" : "s(Abby_Aldrich_Rockefeller) dbo:relative o'<Lucy_Aldrich>",
+    "19" : "s(Abby_Aldrich_Rockefeller) dbo:relative o'<Winthrop_W._Aldrich>",
+    "20" : "s(Abby_Aldrich_Rockefeller) dbo:spouse o'<John_D._Rockefeller_Jr.>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(abby aldrich rockefeller=Abby_Aldrich_Rockefeller) [prominent member of ] o'<rockefeller family=David_Rockefeller>",
+    "5" : "s(abby aldrich rockefeller=Abby_Aldrich_Rockefeller) [known for ] o'<new york=New_York_City>"
+  },
+  "abstract" : {
+    "4" : ", abby aldrich rockefeller<Abby_Aldrich_Rockefeller> was a prominent member of the rockefeller family<David_Rockefeller>\n",
+    "5" : "referred to as the \"woman in the family\", abby aldrich rockefeller<Abby_Aldrich_Rockefeller> was known for being the driving force behind the establishment of the museum of modern art, on 53rd street in new york<New_York_City>, in november 1929\n"
+  }
+}, {
+  "entityIndex" : "entity10972",
+  "entityUrl" : "http://dbpedia.org/resource/Aimee_Bender",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Aimee_Bender) dbo:almaMater o'<University_of_California_at_San_Diego>",
+    "2" : "s(Aimee_Bender) dbo:almaMater o'<University_of_California_at_Irvine>",
+    "3" : "s(Aimee_Bender) dbo:birthDate o'<1969-06-28>",
+    "4" : "s(Aimee_Bender) dbo:birthDate o'<1969-6-28>",
+    "5" : "s(Aimee_Bender) dbo:birthPlace o'<United_States>",
+    "6" : "s(Aimee_Bender) dbo:genre o'<Fiction>",
+    "7" : "s(Aimee_Bender) dbo:genre o'<Short_story>",
+    "8" : "s(Aimee_Bender) dbo:language o'<English_language>",
+    "9" : "s(Aimee_Bender) dbo:occupation o'<Writer>",
+    "10" : "s(Aimee_Bender) dbo:occupation o'<Author>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10973",
+  "entityUrl" : "http://dbpedia.org/resource/Auguste-Louis-Alb%C3%A9ric,_prince_d'Arenberg",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

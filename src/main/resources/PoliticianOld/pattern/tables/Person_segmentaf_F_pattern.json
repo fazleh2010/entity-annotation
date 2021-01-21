@@ -1,0 +1,80 @@
+[ {
+  "entityIndex" : "entity10671",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_C._Kulow",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Frederick_C._Kulow) dbo:birthDate o'<1925-1-1>",
+    "2" : "s(Frederick_C._Kulow) dbo:birthPlace o'<Milwaukee>",
+    "3" : "s(Frederick_C._Kulow) dbo:birthPlace o'<Wisconsin>",
+    "4" : "s(Frederick_C._Kulow) dbo:birthYear o'<1925>",
+    "5" : "s(Frederick_C._Kulow) dbo:deathDate o'<2004-12-02>",
+    "6" : "s(Frederick_C._Kulow) dbo:deathDate o'<2004-12-2>",
+    "7" : "s(Frederick_C._Kulow) dbo:deathYear o'<2004>",
+    "8" : "s(Frederick_C._Kulow) dbo:occupation o'<Frederick_C._Kulow__1>",
+    "9" : "s(Frederick_C._Kulow) dbp:deathPlace o'<New London, New Hampshire>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10672",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_Bayeu_y_Sub%C3%ADas",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10673",
+  "entityUrl" : "http://dbpedia.org/resource/Fernando_Quejas",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Fernando_Quejas) dbo:birthDate o'<1922-4-30>",
+    "2" : "s(Fernando_Quejas) dbo:birthPlace o'<Praia,_Cape_Verde_(municipality)>",
+    "3" : "s(Fernando_Quejas) dbo:deathDate o'<2005-10-28>",
+    "4" : "s(Fernando_Quejas) dbo:deathPlace o'<Lisbon>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10674",
+  "entityUrl" : "http://dbpedia.org/resource/Fran_Ryan",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Fran_Ryan) dbo:activeYearsEndYear o'<1922>",
+    "2" : "s(Fran_Ryan) dbo:activeYearsStartYear o'<1922>",
+    "3" : "s(Fran_Ryan) dbo:birthDate o'<1916-11-29>",
+    "4" : "s(Fran_Ryan) dbo:birthName o'<Frances Mary Ryan>",
+    "5" : "s(Fran_Ryan) dbo:birthPlace o'<California>",
+    "6" : "s(Fran_Ryan) dbo:birthPlace o'<Los_Angeles>",
+    "7" : "s(Fran_Ryan) dbo:birthYear o'<1916>",
+    "8" : "s(Fran_Ryan) dbo:deathDate o'<2000-01-15>",
+    "9" : "s(Fran_Ryan) dbo:deathDate o'<2000-1-15>",
+    "10" : "s(Fran_Ryan) dbo:deathPlace o'<Burbank,_California>",
+    "11" : "s(Fran_Ryan) dbo:deathYear o'<2000>",
+    "12" : "s(Fran_Ryan) dbo:occupation o'<Fran_Ryan__1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10675",
+  "entityUrl" : "http://dbpedia.org/resource/Fionn_MacColla",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Fionn_MacColla) dbo:birthDate o'<1906-3-4>",
+    "2" : "s(Fionn_MacColla) dbo:country o'<Scotland>",
+    "3" : "s(Fionn_MacColla) dbo:country o'<United_Kingdom>",
+    "4" : "s(Fionn_MacColla) dbo:deathDate o'<1975-7-20>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(fionn maccolla=Fionn_MacColla) [wrote in ] o'<english=United_Kingdom>"
+  },
+  "abstract" : {
+    "2" : "although fionn maccolla<Fionn_MacColla> wrote in english<United_Kingdom>, fionn maccolla<Fionn_MacColla> was very interested in scottish gaelic language and culture and campaigned for it to return to, what fionn maccolla<Fionn_MacColla> perceived to be, its rightful place in the scottish mainstream\n"
+  }
+}, {
+  "entityIndex" : "entity10676",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_Sarri%C3%B3n",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

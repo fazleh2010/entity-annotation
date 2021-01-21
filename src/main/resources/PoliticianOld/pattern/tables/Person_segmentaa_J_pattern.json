@@ -1,0 +1,148 @@
+[ {
+  "entityIndex" : "entity10695",
+  "entityUrl" : "http://dbpedia.org/resource/Jean-Baptiste-Sim%C3%A9on_Chardin",
+  "dboClass" : "Person_segmentaa",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10696",
+  "entityUrl" : "http://dbpedia.org/resource/John_Woo",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(John_Woo) dbo:award o'<Off>",
+    "2" : "s(John_Woo) dbo:award o'<The_Killer_(1989_film)>",
+    "3" : "s(John_Woo) dbo:award o'<Hard-Boiled>",
+    "4" : "s(John_Woo) dbo:award o'<Bullet_in_the_Head>",
+    "5" : "s(John_Woo) dbo:award o'<Saturn_Award_for_Best_Direction>",
+    "6" : "s(John_Woo) dbo:birthDate o'<1946-5-1>",
+    "7" : "s(John_Woo) dbo:birthPlace o'<Guangzhou>",
+    "8" : "s(John_Woo) dbo:country o'<People's_Republic_of_China>",
+    "9" : "s(John_Woo) dbo:occupation o'<Screenwriter>",
+    "10" : "s(John_Woo) dbo:occupation o'<Film_editor>",
+    "11" : "s(John_Woo) dbo:occupation o'<Film_director>",
+    "12" : "s(John_Woo) dbo:occupation o'<Film_producer>",
+    "13" : "s(John_Woo) dbp:birthDate o'<1946-05-01>",
+    "14" : "s(John_Woo) dbp:birthPlace o'<China>",
+    "15" : "s(John_Woo) dbp:birthPlace o'<Guangzhou>",
+    "16" : "s(John_Woo) dbp:birthPlace o'<Guangdong_Province>",
+    "17" : "s(John_Woo) dbp:date o'<20100612203217>",
+    "18" : "s(John_Woo) dbp:df o'<yes>",
+    "19" : "s(John_Woo) dbp:j o'<Ng4 Jyu5 Sam1>",
+    "20" : "s(John_Woo) dbp:myr o'<WÃº YÇ”sÄ“n>",
+    "21" : "s(John_Woo) dbp:origin o'<Hong_Kong>",
+    "22" : "s(John_Woo) dbp:p o'<WÃº YÇ”sÄ“n>",
+    "23" : "s(John_Woo) dbp:showflag o'<stp>",
+    "24" : "s(John_Woo) dbp:spouse o'<Annie Woo>",
+    "25" : "s(John_Woo) dbp:t o'<å�³å®‡æ£®>",
+    "26" : "s(John_Woo) dbp:title o'<Awards for John Woo>",
+    "27" : "s(John_Woo) dbp:title o'<John Woo interview with Underground Republik>",
+    "28" : "s(John_Woo) dbp:url o'<john-woo-interview>",
+    "29" : "s(John_Woo) dbp:w o'<Wu YÃ¼-Sen>",
+    "30" : "s(John_Woo) dbp:y o'<Ç¸gh YÃºhsÃ¡m>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10697",
+  "entityUrl" : "http://dbpedia.org/resource/Joshua_Jackson",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Joshua_Jackson) dbo:activeYearsStartYear o'<1991>",
+    "2" : "s(Joshua_Jackson) dbo:birthDate o'<1978-06-11>",
+    "3" : "s(Joshua_Jackson) dbo:birthDate o'<1978-6-11>",
+    "4" : "s(Joshua_Jackson) dbo:birthName o'<Joshua Browning  Carter Jackson>",
+    "5" : "s(Joshua_Jackson) dbo:birthPlace o'<Vancouver>",
+    "6" : "s(Joshua_Jackson) dbo:birthYear o'<1978>",
+    "7" : "s(Joshua_Jackson) dbo:occupation o'<Joshua_Jackson__1>",
+    "8" : "s(Joshua_Jackson) dbo:partner o'<Diane_Kruger>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10698",
+  "entityUrl" : "http://dbpedia.org/resource/James_Joyce",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(James_Joyce) dbo:birthDate o'<1882-2-2>",
+    "2" : "s(James_Joyce) dbo:birthPlace o'<Dublin>",
+    "3" : "s(James_Joyce) dbo:deathDate o'<1941-1-13>",
+    "4" : "s(James_Joyce) dbo:deathPlace o'<ZÃ¼rich>",
+    "5" : "s(James_Joyce) dbp:author o'<yes>",
+    "6" : "s(James_Joyce) dbp:b o'<no>",
+    "7" : "s(James_Joyce) dbp:id o'<Joyce,+James>",
+    "8" : "s(James_Joyce) dbp:name o'<James Joyce>",
+    "9" : "s(James_Joyce) dbp:species o'<no>",
+    "10" : "s(James_Joyce) dbp:v o'<no>",
+    "11" : "s(James_Joyce) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(james joyce=James_Joyce) [augustine aloysius ] o'<joyce=James_Joyce>",
+    "8" : "s(james joyce=James_Joyce) [went on to attend university ] o'<dublin=Dublin>",
+    "11" : "s(james joyce=James_Joyce) [fictional universe centres on ] o'<dublin=Dublin>",
+    "13" : "s(james joyce=James_Joyce) [elucidated preoccupation somewhat saying ] o'<dublin=Dublin>"
+  },
+  "abstract" : {
+    "1" : "james<James_Joyce> augustine aloysius joyce<James_Joyce> (2 february 1882 â€“ 13 january 1941) was an irish novelist and poet",
+    "8" : "james joyce<James_Joyce> went on to attend university college dublin<Dublin>\n",
+    "11" : "though most of his adult life was spent abroad, joyce's<James_Joyce> fictional universe centres on dublin<Dublin>, and is populated largely by characters who closely resemble family members, enemies and friends from his time there",
+    "13" : "shortly after the publication of ulysses, james joyce<James_Joyce> elucidated this preoccupation somewhat, saying, \"for myself, i always write about dublin<Dublin>, because if i can get to the heart of dublin<Dublin> i can get to the heart of all the cities of the world\n"
+  }
+}, {
+  "entityIndex" : "entity10699",
+  "entityUrl" : "http://dbpedia.org/resource/James_Cameron",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(James_Cameron) dbo:activeYearsStartYear o'<1975>",
+    "2" : "s(James_Cameron) dbo:birthDate o'<1954-08-16>",
+    "3" : "s(James_Cameron) dbo:birthDate o'<1954-8-16>",
+    "4" : "s(James_Cameron) dbo:birthName o'<James Francis Cameron>",
+    "5" : "s(James_Cameron) dbo:birthPlace o'<Ontario>",
+    "6" : "s(James_Cameron) dbo:birthPlace o'<Kapuskasing>",
+    "7" : "s(James_Cameron) dbo:birthPlace o'<Canada>",
+    "8" : "s(James_Cameron) dbo:birthYear o'<1954>",
+    "9" : "s(James_Cameron) dbo:education o'<Brea_Olinda_High_School>",
+    "10" : "s(James_Cameron) dbo:imdbId o'<0000116>",
+    "11" : "s(James_Cameron) dbo:networth o'<1.79E9>",
+    "12" : "s(James_Cameron) dbo:occupation o'<James_Cameron__1>",
+    "13" : "s(James_Cameron) dbo:residence o'<Malibu,_California>",
+    "14" : "s(James_Cameron) dbo:residence o'<Wairarapa>",
+    "15" : "s(James_Cameron) dbo:spouse o'<Linda_Hamilton>",
+    "16" : "s(James_Cameron) dbo:spouse o'<Suzy_Amis>",
+    "17" : "s(James_Cameron) dbo:spouse o'<Kathryn_Bigelow>",
+    "18" : "s(James_Cameron) dbo:spouse o'<Gale_Anne_Hurd>",
+    "19" : "s(James_Cameron) dbp:almaMater o'<Fullerton_College>",
+    "20" : "s(James_Cameron) dbp:almaMater o'<California_State_University,_Fullerton>",
+    "21" : "s(James_Cameron) dbp:awards o'<[[#Awards>",
+    "22" : "s(James_Cameron) dbp:children o'<4>",
+    "23" : "s(James_Cameron) dbp:name o'<James Cameron>",
+    "24" : "s(James_Cameron) dbp:title o'<Awards for James Cameron>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10700",
+  "entityUrl" : "http://dbpedia.org/resource/John_Baskerville",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(John_Baskerville) dbo:birthDate o'<1706-01-28>",
+    "2" : "s(John_Baskerville) dbo:birthDate o'<1706-0-0>",
+    "3" : "s(John_Baskerville) dbo:birthPlace o'<Wolverley>",
+    "4" : "s(John_Baskerville) dbo:birthPlace o'<Wolverley_and_Cookley>",
+    "5" : "s(John_Baskerville) dbo:birthYear o'<1706>",
+    "6" : "s(John_Baskerville) dbo:deathDate o'<1775-01-08>",
+    "7" : "s(John_Baskerville) dbo:deathDate o'<1775-0-0>",
+    "8" : "s(John_Baskerville) dbo:deathPlace o'<Birmingham>",
+    "9" : "s(John_Baskerville) dbo:deathYear o'<1775>",
+    "10" : "s(John_Baskerville) dbo:occupation o'<John_Baskerville__1>",
+    "11" : "s(John_Baskerville) dbo:occupation o'<Type_designer>",
+    "12" : "s(John_Baskerville) dbp:imageSize o'<220>",
+    "13" : "s(John_Baskerville) dbp:monuments o'<Industry and Genius>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(john baskerville=John_Baskerville) [best remembered ] o'<type designer=Type_designer>"
+  },
+  "abstract" : {
+    "1" : "john baskerville (28 january 1706 â€“ 8 january 1775) was an english businessman, in areas including japanning and papier-mã¢chã©, but john baskerville<John_Baskerville> is best remembered as a printer and type designer<Type_designer>\n"
+  }
+} ]

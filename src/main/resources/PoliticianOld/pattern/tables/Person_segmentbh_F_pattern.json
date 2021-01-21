@@ -1,0 +1,65 @@
+[ {
+  "entityIndex" : "entity11327",
+  "entityUrl" : "http://dbpedia.org/resource/Fernando_Briones_Carmona",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Fernando_Briones_Carmona) dbo:birthDate o'<1905-1-1>",
+    "2" : "s(Fernando_Briones_Carmona) dbo:deathDate o'<1988-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11328",
+  "entityUrl" : "http://dbpedia.org/resource/Farooq_Nazki",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11329",
+  "entityUrl" : "http://dbpedia.org/resource/Fernand_Deschamps",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(Fernand_Deschamps) dbo:birthDate o'<1868-7-13>",
+    "2" : "s(Fernand_Deschamps) dbo:birthPlace o'<ChÃ¢telet,_Belgium>",
+    "3" : "s(Fernand_Deschamps) dbo:deathDate o'<1957-3-15>",
+    "4" : "s(Fernand_Deschamps) dbo:deathPlace o'<Q9005>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11330",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Marshall_(priest)",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11331",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_Tom%C3%A1s_Rodr%C3%ADguez_Montero",
+  "dboClass" : "Person_segmentbh",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11332",
+  "entityUrl" : "http://dbpedia.org/resource/F._L._Barnard",
+  "dboClass" : "Person_segmentbh",
+  "triples" : {
+    "1" : "s(F._L._Barnard) dbo:birthDate o'<1896-11-02>",
+    "2" : "s(F._L._Barnard) dbo:birthDate o'<1896-11-2>",
+    "3" : "s(F._L._Barnard) dbo:birthName o'<Franklyn Leslie Barnard>",
+    "4" : "s(F._L._Barnard) dbo:birthPlace o'<England>",
+    "5" : "s(F._L._Barnard) dbo:birthPlace o'<London>",
+    "6" : "s(F._L._Barnard) dbo:birthYear o'<1896>",
+    "7" : "s(F._L._Barnard) dbo:deathDate o'<1927-07-28>",
+    "8" : "s(F._L._Barnard) dbo:deathDate o'<1927-7-28>",
+    "9" : "s(F._L._Barnard) dbo:deathPlace o'<England>",
+    "10" : "s(F._L._Barnard) dbo:deathPlace o'<Filton>",
+    "11" : "s(F._L._Barnard) dbo:deathYear o'<1927>",
+    "12" : "s(F._L._Barnard) dbo:occupation o'<F._L._Barnard__1>",
+    "13" : "s(F._L._Barnard) dbp:nationality o'<United Kingdom>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

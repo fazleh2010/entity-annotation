@@ -1,0 +1,16 @@
+[ {
+  "entityIndex" : "entity14241",
+  "entityUrl" : "http://dbpedia.org/resource/6th_Jebtsundamba_Khutughtu",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(6th_Jebtsundamba_Khutughtu) dbo:birthDate o'<1842-1-1>",
+    "2" : "s(6th_Jebtsundamba_Khutughtu) dbo:deathDate o'<1848-1-1>",
+    "3" : "s(6th_Jebtsundamba_Khutughtu) dbp:birthDate o'<1842>",
+    "4" : "s(6th_Jebtsundamba_Khutughtu) dbp:deathDate o'<1848>",
+    "5" : "s(6th_Jebtsundamba_Khutughtu) dbp:occupation o'<Spiritual head of Mongolia>",
+    "6" : "s(6th_Jebtsundamba_Khutughtu) dbp:predecessor o'<LuvsanchÃ¼ltimjigmed, 5th Jebtsundamba Khutughtu>",
+    "7" : "s(6th_Jebtsundamba_Khutughtu) dbp:title o'<His Holiness the 6th Jebtsundamba Khutughtu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,150 @@
+[ {
+  "entityIndex" : "entity10784",
+  "entityUrl" : "http://dbpedia.org/resource/Xerox",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Xerox) dbo:assets o'<2.48E10>",
+    "2" : "s(Xerox) dbo:foundationPlace o'<United_States>",
+    "3" : "s(Xerox) dbo:foundationPlace o'<Rochester,_New_York>",
+    "4" : "s(Xerox) dbo:foundationPlace o'<New_York_(state)>",
+    "5" : "s(Xerox) dbo:industry o'<Document_management_system>",
+    "6" : "s(Xerox) dbo:keyPerson o'<Ursula_Burns>",
+    "7" : "s(Xerox) dbo:locationCity o'<Connecticut>",
+    "8" : "s(Xerox) dbo:locationCity o'<Norwalk,_Connecticut>",
+    "9" : "s(Xerox) dbo:locationCountry o'<United_States>",
+    "10" : "s(Xerox) dbo:netIncome o'<4.88E8>",
+    "11" : "s(Xerox) dbo:numberOfEmployees o'<140800>",
+    "12" : "s(Xerox) dbo:operatingIncome o'<6.45E8>",
+    "13" : "s(Xerox) dbo:product o'<Printer_(computing)>",
+    "14" : "s(Xerox) dbo:product o'<Image_scanner>",
+    "15" : "s(Xerox) dbo:product o'<Office_equipment>",
+    "16" : "s(Xerox) dbo:product o'<Image_projector>",
+    "17" : "s(Xerox) dbo:revenue o'<1.804E10>",
+    "18" : "s(Xerox) dbo:service o'<Business_consulting>",
+    "19" : "s(Xerox) dbo:service o'<Outsourcing>",
+    "20" : "s(Xerox) dbp:areaServed o'<Worldwide>",
+    "21" : "s(Xerox) dbp:equity o'<9430000000>",
+    "22" : "s(Xerox) dbp:founders o'<Joseph_C._Wilson_(entrepreneur)>",
+    "23" : "s(Xerox) dbp:founders o'<Chester_Carlson>",
+    "24" : "s(Xerox) dbp:hoovers o'<Xerox_Corporation.aefe0d67664e64fb>",
+    "25" : "s(Xerox) dbp:imageCaption o'<Xerox headquarters in Norwalk>",
+    "26" : "s(Xerox) dbp:imageSize o'<250>",
+    "27" : "s(Xerox) dbp:logo o'<Xerox 2008 Logo.png>",
+    "28" : "s(Xerox) dbp:name o'<Xerox Corp>",
+    "29" : "s(Xerox) dbp:secCik o'<108772>",
+    "30" : "s(Xerox) dbp:symbol o'<XRX>",
+    "31" : "s(Xerox) dbp:tradedAs o'<S&P_500>",
+    "32" : "s(Xerox) dbp:type o'<Public>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10785",
+  "entityUrl" : "http://dbpedia.org/resource/Ximian",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(Ximian) dbo:fate o'<AcquiredbyNovell(4 August 2003)>",
+    "2" : "s(Ximian) dbo:foundationPlace o'<Massachusetts>",
+    "3" : "s(Ximian) dbo:foundationPlace o'<Boston>",
+    "4" : "s(Ximian) dbo:foundingDate o'<1999-10-19>",
+    "5" : "s(Ximian) dbo:foundingYear o'<1999>",
+    "6" : "s(Ximian) dbo:industry o'<Software>",
+    "7" : "s(Ximian) dbo:locationCity o'<Massachusetts>",
+    "8" : "s(Ximian) dbo:locationCity o'<Boston>",
+    "9" : "s(Ximian) dbo:type o'<Private_company>",
+    "10" : "s(Ximian) dbp:areaServed o'<Worldwide>",
+    "11" : "s(Ximian) dbp:locationCountry o'<United States>",
+    "12" : "s(Ximian) dbp:logo o'<File:Logo_ximian.png>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10786",
+  "entityUrl" : "http://dbpedia.org/resource/XS4ALL",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(XS4ALL) dbo:foundedBy o'<Rop_Gonggrijp>",
+    "2" : "s(XS4ALL) dbo:foundedBy o'<Cor_Bosman>",
+    "3" : "s(XS4ALL) dbo:foundedBy o'<Paul_Jongsma>",
+    "4" : "s(XS4ALL) dbo:industry o'<Internet_service_provider>",
+    "5" : "s(XS4ALL) dbo:location o'<Netherlands>",
+    "6" : "s(XS4ALL) dbo:locationCity o'<Amsterdam>",
+    "7" : "s(XS4ALL) dbo:owner o'<Xs4all>",
+    "8" : "s(XS4ALL) dbo:owningCompany o'<Xs4all>",
+    "9" : "s(XS4ALL) dbo:parentCompany o'<KPN>",
+    "10" : "s(XS4ALL) dbp:foundation o'<Hack-Tick and NEABBS>",
+    "11" : "s(XS4ALL) dbp:imageCaption o'<XS4ALL office at Sloterdijk, Amsterdam>",
+    "12" : "s(XS4ALL) dbp:imageSize o'<250>",
+    "13" : "s(XS4ALL) dbp:predecessor o'<Hacktic Net>",
+    "14" : "s(XS4ALL) dbp:services o'<Internet, TV and Telephone>",
+    "15" : "s(XS4ALL) dbp:slogan o'<First Class Internet>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(xs4all=XS4ALL) [a play on english ] o'<internet service provider=Internet_service_provider>",
+    "2" : "s(xs4all=XS4ALL) [second company to ] o'<internet access=Internet_service_provider>",
+    "5" : "s(xs4all=XS4ALL) [one of larger ] o'<isps=Internet_service_provider>"
+  },
+  "abstract" : {
+    "1" : "internet service provider<Internet_service_provider>0 (a play on the english pronunciation of access for all) is the third-oldest internet service provider<Internet_service_provider> (isp) in the netherlands<Netherlands>, after nlnet and surfnet",
+    "2" : "xs4all<XS4ALL> was the second company to offer internet access<Internet_service_provider> to private individuals, since 1993",
+    "5" : "as of 2007, xs4all<XS4ALL> was one of the larger isps<Internet_service_provider> in the netherlands<Netherlands>"
+  }
+}, {
+  "entityIndex" : "entity10787",
+  "entityUrl" : "http://dbpedia.org/resource/XM_Satellite_Radio",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(XM_Satellite_Radio) dbo:extinctionDate o'<2011-01-13>",
+    "2" : "s(XM_Satellite_Radio) dbo:extinctionYear o'<2011>",
+    "3" : "s(XM_Satellite_Radio) dbo:fate o'<Dissolved>",
+    "4" : "s(XM_Satellite_Radio) dbo:foundingYear o'<1988>",
+    "5" : "s(XM_Satellite_Radio) dbo:industry o'<Radio_broadcasting>",
+    "6" : "s(XM_Satellite_Radio) dbo:parentCompany o'<Sirius_XM_Holdings>",
+    "7" : "s(XM_Satellite_Radio) dbo:product o'<Satellite_radio>",
+    "8" : "s(XM_Satellite_Radio) dbo:type o'<Division_(business)>",
+    "9" : "s(XM_Satellite_Radio) dbp:date o'<20000301024042>",
+    "10" : "s(XM_Satellite_Radio) dbp:location o'<Washington, D.C., U.S.>",
+    "11" : "s(XM_Satellite_Radio) dbp:logo o'<220>",
+    "12" : "s(XM_Satellite_Radio) dbp:title o'<XM Satellite Radio>",
+    "13" : "s(XM_Satellite_Radio) dbp:url o'<have.asp>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "11" : "s(xm satellite radio=XM_Satellite_Radio) [former competitor ] o'<sirius=Sirius_XM_Holdings>",
+    "19" : "s(xm satellite radio=XM_Satellite_Radio) [largest ] o'<satellite radio=Satellite_radio>"
+  },
+  "abstract" : {
+    "11" : "on july 29, 2008, xm<XM_Satellite_Radio> and former competitor sirius<Sirius_XM_Holdings> satellite radio<Satellite_radio> formally completed their merger, following u",
+    "19" : "prior to its merger with sirius<Sirius_XM_Holdings>, xm<XM_Satellite_Radio> was the largest satellite radio<Satellite_radio> company in the united states"
+  }
+}, {
+  "entityIndex" : "entity10788",
+  "entityUrl" : "http://dbpedia.org/resource/XGI_Technology",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(XGI_Technology) dbo:foundingYear o'<2003>",
+    "2" : "s(XGI_Technology) dbo:locationCity o'<Taipei>",
+    "3" : "s(XGI_Technology) dbo:locationCountry o'<Taiwan>",
+    "4" : "s(XGI_Technology) dbo:product o'<Graphics_card>",
+    "5" : "s(XGI_Technology) dbp:c o'<圖誠科技>",
+    "6" : "s(XGI_Technology) dbp:p o'<Tú Chéng Kējì>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10789",
+  "entityUrl" : "http://dbpedia.org/resource/XanGo",
+  "dboClass" : "dbo:Company",
+  "triples" : {
+    "1" : "s(XanGo) dbo:foundingYear o'<2002>",
+    "2" : "s(XanGo) dbo:industry o'<Multi-level_Marketing>",
+    "3" : "s(XanGo) dbo:location o'<United_States>",
+    "4" : "s(XanGo) dbo:location o'<Lehi,_UT>",
+    "5" : "s(XanGo) dbo:type o'<Private_company>",
+    "6" : "s(XanGo) dbp:keyPeople o'<Aaron Garrity, Gary Hollister, Joe Morton, Gordon Morton and Kent Wood>",
+    "7" : "s(XanGo) dbp:logo o'<200>",
+    "8" : "s(XanGo) dbp:revenue o'<$360,000,000 USD per year>",
+    "9" : "s(XanGo) dbp:slogan o'<Life. As it should be.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

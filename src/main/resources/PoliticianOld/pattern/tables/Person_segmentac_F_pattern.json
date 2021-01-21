@@ -1,0 +1,83 @@
+[ {
+  "entityIndex" : "entity10998",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7ois_Louis_Thomas_Francia",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10999",
+  "entityUrl" : "http://dbpedia.org/resource/Frans_Br%C3%BCggen",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11000",
+  "entityUrl" : "http://dbpedia.org/resource/Friedrich_von_Amerling",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Friedrich_von_Amerling) dbo:birthDate o'<1803-4-14>",
+    "2" : "s(Friedrich_von_Amerling) dbo:birthPlace o'<Vienna>",
+    "3" : "s(Friedrich_von_Amerling) dbo:deathDate o'<1887-1-14>",
+    "4" : "s(Friedrich_von_Amerling) dbo:deathPlace o'<Vienna>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11001",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Dinenage",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Fred_Dinenage) dbo:alias o'<Freddie D>",
+    "2" : "s(Fred_Dinenage) dbo:birthDate o'<1942-06-08>",
+    "3" : "s(Fred_Dinenage) dbo:birthDate o'<1942-6-8>",
+    "4" : "s(Fred_Dinenage) dbo:birthName o'<Frederick Edgar Dinenage>",
+    "5" : "s(Fred_Dinenage) dbo:birthPlace o'<UK>",
+    "6" : "s(Fred_Dinenage) dbo:birthPlace o'<England>",
+    "7" : "s(Fred_Dinenage) dbo:birthPlace o'<Birmingham>",
+    "8" : "s(Fred_Dinenage) dbo:birthPlace o'<Warwickshire>",
+    "9" : "s(Fred_Dinenage) dbo:birthYear o'<1942>",
+    "10" : "s(Fred_Dinenage) dbo:child o'<Caroline_Dinenage>",
+    "11" : "s(Fred_Dinenage) dbo:education o'<Portsmouth_Grammar_School>",
+    "12" : "s(Fred_Dinenage) dbo:employer o'<ITV_Meridian>",
+    "13" : "s(Fred_Dinenage) dbo:imdbId o'<0227577>",
+    "14" : "s(Fred_Dinenage) dbo:knownFor o'<ITV_News_Meridian>",
+    "15" : "s(Fred_Dinenage) dbo:knownFor o'<How_2>",
+    "16" : "s(Fred_Dinenage) dbo:knownFor o'<How_(TV_series)>",
+    "17" : "s(Fred_Dinenage) dbo:occupation o'<Fred_Dinenage__1>",
+    "18" : "s(Fred_Dinenage) dbp:ethnicity o'<English>",
+    "19" : "s(Fred_Dinenage) dbp:imagesize o'<300>",
+    "20" : "s(Fred_Dinenage) dbp:name o'<Fred Dinenage>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11002",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Bywaters",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Frederick_Bywaters) dbo:lccnId o'<nb97023532>",
+    "2" : "s(Frederick_Bywaters) dbo:viafId o'<50138816>",
+    "3" : "s(Frederick_Bywaters) dbo:wikiPageRedirects o'<Edith_Thompson_and_Frederick_Bywaters>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11003",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Waitzkin",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Fred_Waitzkin) dbo:birthDate o'<1943-1-1>",
+    "2" : "s(Fred_Waitzkin) dbo:child o'<Joshua_Waitzkin>",
+    "3" : "s(Fred_Waitzkin) dbp:nationality o'<American>",
+    "4" : "s(Fred_Waitzkin) dbp:notableworks o'<Searching for Bobby Fischer>",
+    "5" : "s(Fred_Waitzkin) dbp:occupation o'<Writer, novelist>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(fred waitzkin=Fred_Waitzkin) [father of chess ] o'<joshua waitzkin=Joshua_Waitzkin>"
+  },
+  "abstract" : {
+    "3" : "fred waitzkin<Fred_Waitzkin> is the father of chess prodigy joshua waitzkin<Joshua_Waitzkin>\n"
+  }
+} ]

@@ -1,0 +1,56 @@
+[ {
+  "entityIndex" : "entity14435",
+  "entityUrl" : "http://dbpedia.org/resource/Francisco_Churruca",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Francisco_Churruca) dbo:birthDate o'<1936-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14436",
+  "entityUrl" : "http://dbpedia.org/resource/Fran%C3%A7ois-Jude_Gaulard",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14437",
+  "entityUrl" : "http://dbpedia.org/resource/Friedrich_Spanheim_the_Younger",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Friedrich_Spanheim_the_Younger) dbo:birthDate o'<1632-5-1>",
+    "2" : "s(Friedrich_Spanheim_the_Younger) dbo:birthPlace o'<Geneva>",
+    "3" : "s(Friedrich_Spanheim_the_Younger) dbo:deathDate o'<1701-5-18>",
+    "4" : "s(Friedrich_Spanheim_the_Younger) dbo:deathPlace o'<Leiden>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14438",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_III,_Duke_of_Brunswick-L%C3%BCneburg",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14439",
+  "entityUrl" : "http://dbpedia.org/resource/Francis_J._Lallensack",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Francis_J._Lallensack) dbo:birthDate o'<1916-1-16>",
+    "2" : "s(Francis_J._Lallensack) dbo:deathDate o'<1999-12-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14440",
+  "entityUrl" : "http://dbpedia.org/resource/Federico_Moccia",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Federico_Moccia) dbo:birthDate o'<1963-7-20>",
+    "2" : "s(Federico_Moccia) dbo:birthPlace o'<Rome>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

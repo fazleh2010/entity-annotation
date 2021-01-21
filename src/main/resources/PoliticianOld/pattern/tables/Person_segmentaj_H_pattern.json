@@ -1,0 +1,65 @@
+[ {
+  "entityIndex" : "entity11337",
+  "entityUrl" : "http://dbpedia.org/resource/Hong_Bao",
+  "dboClass" : "Person_segmentaj",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11338",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Cravatte",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Henry_Cravatte) dbo:birthDate o'<1911-5-21>",
+    "2" : "s(Henry_Cravatte) dbo:birthPlace o'<Diekirch>",
+    "3" : "s(Henry_Cravatte) dbo:deathDate o'<1990-11-4>",
+    "4" : "s(Henry_Cravatte) dbp:title o'<President_of_the_Luxembourg_Socialist_Workers'_Party>",
+    "5" : "s(Henry_Cravatte) dbp:title o'<Deputy_Prime_Minister_of_Luxembourg>",
+    "6" : "s(Henry_Cravatte) dbp:years o'<1959>",
+    "7" : "s(Henry_Cravatte) dbp:years o'<1964>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11339",
+  "entityUrl" : "http://dbpedia.org/resource/Heinrich_C._Berann",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Heinrich_C._Berann) dbo:birthDate o'<1915-3-31>",
+    "2" : "s(Heinrich_C._Berann) dbo:birthPlace o'<Innsbruck>",
+    "3" : "s(Heinrich_C._Berann) dbo:deathDate o'<1999-12-4>",
+    "4" : "s(Heinrich_C._Berann) dbo:deathPlace o'<Lans,_Tyrol>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11340",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_Lowe_(footballer,_born_March_1886)",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Harry_Lowe_(footballer,_born_March_1886)) dbo:birthDate o'<1886-3-20>",
+    "2" : "s(Harry_Lowe_(footballer,_born_March_1886)) dbo:deathDate o'<1958-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11341",
+  "entityUrl" : "http://dbpedia.org/resource/Heike_Schulte-Mattler",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Heike_Schulte-Mattler) dbo:birthDate o'<1958-5-27>",
+    "2" : "s(Heike_Schulte-Mattler) dbo:birthPlace o'<Oberhausen>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11342",
+  "entityUrl" : "http://dbpedia.org/resource/Heidi-Elke_Gaugel",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Heidi-Elke_Gaugel) dbo:birthDate o'<1959-7-11>",
+    "2" : "s(Heidi-Elke_Gaugel) dbo:birthPlace o'<SchÃ¶naich>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

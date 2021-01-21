@@ -1,0 +1,80 @@
+[ {
+  "entityIndex" : "entity11064",
+  "entityUrl" : "http://dbpedia.org/resource/Qadura_Fares",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Qadura_Fares) dbo:birthDate o'<1962-6-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11065",
+  "entityUrl" : "http://dbpedia.org/resource/Qi_Jianhua",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11066",
+  "entityUrl" : "http://dbpedia.org/resource/Quintero_brothers",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Quintero_brothers) dbp:birth o'<1871>",
+    "2" : "s(Quintero_brothers) dbp:birth o'<1873>",
+    "3" : "s(Quintero_brothers) dbp:death o'<1938>",
+    "4" : "s(Quintero_brothers) dbp:death o'<1944>",
+    "5" : "s(Quintero_brothers) dbp:id o'<Alvarez+Quintero,+Joaquin>",
+    "6" : "s(Quintero_brothers) dbp:id o'<Alvarez+Quintero,+Serafin>",
+    "7" : "s(Quintero_brothers) dbp:name o'<Joaquin Alvarez Quintero>",
+    "8" : "s(Quintero_brothers) dbp:name o'<JoaquÃ­n Ã�lvarez Quintero>",
+    "9" : "s(Quintero_brothers) dbp:name o'<Serafin Alvarez Quintero>",
+    "10" : "s(Quintero_brothers) dbp:name o'<SerafÃ­n Ã�lvarez Quintero>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11067",
+  "entityUrl" : "http://dbpedia.org/resource/Qutuz",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Qutuz) dbo:activeYearsEndYear o'<1260>",
+    "2" : "s(Qutuz) dbo:activeYearsStartYear o'<1259>",
+    "3" : "s(Qutuz) dbo:birthDate o'<1300-1-1>",
+    "4" : "s(Qutuz) dbo:birthPlace o'<Egypt>",
+    "5" : "s(Qutuz) dbo:deathDate o'<1260-10-23>",
+    "6" : "s(Qutuz) dbo:placeOfBurial o'<Cairo>",
+    "7" : "s(Qutuz) dbo:predecessor o'<Al-Mansur_Ali>",
+    "8" : "s(Qutuz) dbo:successor o'<Baibars>",
+    "9" : "s(Qutuz) dbp:after o'<Baibars>",
+    "10" : "s(Qutuz) dbp:deathDate o'<1260-10-24>",
+    "11" : "s(Qutuz) dbp:deathPlace o'<Salihiyah>",
+    "12" : "s(Qutuz) dbp:dynasty o'<Bahri_dynasty>",
+    "13" : "s(Qutuz) dbp:reign o'<--10-24>",
+    "14" : "s(Qutuz) dbp:religion o'<Islam>",
+    "15" : "s(Qutuz) dbp:rows o'<2>",
+    "16" : "s(Qutuz) dbp:succession o'<List_of_Mamluk_sultans>",
+    "17" : "s(Qutuz) dbp:succession o'<Sultan of Syria>",
+    "18" : "s(Qutuz) dbp:successor o'<Baibars>",
+    "19" : "s(Qutuz) dbp:title o'<List_of_Mamluk_sultans>",
+    "20" : "s(Qutuz) dbp:title o'<Sultan of Syria>",
+    "21" : "s(Qutuz) dbp:years o'<--10-24>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11068",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Willson",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11069",
+  "entityUrl" : "http://dbpedia.org/resource/Qutbu_l-Din_Aibak",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Qutbu_l-Din_Aibak) dbo:wikiPageRedirects o'<Qutb_al-Din_Aibak>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

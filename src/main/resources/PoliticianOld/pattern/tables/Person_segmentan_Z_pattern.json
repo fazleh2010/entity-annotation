@@ -1,0 +1,51 @@
+[ {
+  "entityIndex" : "entity12099",
+  "entityUrl" : "http://dbpedia.org/resource/Zviadi_Khanjaliashvili",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Zviadi_Khanjaliashvili) dbo:birthDate o'<1983-1-5>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12100",
+  "entityUrl" : "http://dbpedia.org/resource/Z%C3%A9_Rui",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12101",
+  "entityUrl" : "http://dbpedia.org/resource/Zvinitsa",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Zvinitsa) dbo:birthDate o'<814-0-0>",
+    "2" : "s(Zvinitsa) dbo:deathDate o'<831-0-0>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12102",
+  "entityUrl" : "http://dbpedia.org/resource/Zolt%C3%A1n_P%C3%A1lkov%C3%A1cs",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12103",
+  "entityUrl" : "http://dbpedia.org/resource/Zvi_Chalamish",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12104",
+  "entityUrl" : "http://dbpedia.org/resource/Zhang_Zhenwang",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Zhang_Zhenwang) dbo:birthDate o'<1988-3-1>",
+    "2" : "s(Zhang_Zhenwang) dbo:birthPlace o'<Tianjin>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

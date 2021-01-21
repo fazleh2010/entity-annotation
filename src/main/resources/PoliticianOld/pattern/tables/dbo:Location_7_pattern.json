@@ -1,0 +1,33 @@
+[ {
+  "entityIndex" : "entity11288",
+  "entityUrl" : "http://dbpedia.org/resource/7_Subway_Extension",
+  "dboClass" : "dbo:Location",
+  "triples" : {
+    "1" : "s(7_Subway_Extension) dbo:isPartOf o'<New_York_City_Subway>",
+    "2" : "s(7_Subway_Extension) dbo:lineLength o'<2414.02>",
+    "3" : "s(7_Subway_Extension) dbo:numberOfStations o'<1>",
+    "4" : "s(7_Subway_Extension) dbo:numberOfTracks o'<2>",
+    "5" : "s(7_Subway_Extension) dbo:operator o'<New_York_City_Transit_Authority>",
+    "6" : "s(7_Subway_Extension) dbo:routeEnd o'<34th_Street–Hudson_Yards_(IRT_Flushing_Line)>",
+    "7" : "s(7_Subway_Extension) dbo:routeStart o'<Times_Square_(IRT_Flushing_Line)>",
+    "8" : "s(7_Subway_Extension) dbo:type o'<Rapid_transit>",
+    "9" : "s(7_Subway_Extension) dbo:typeOfElectrification o'<Volt>",
+    "10" : "s(7_Subway_Extension) dbp:align o'<right>",
+    "11" : "s(7_Subway_Extension) dbp:character o'<Underground>",
+    "12" : "s(7_Subway_Extension) dbp:headerimage o'<220>",
+    "13" : "s(7_Subway_Extension) dbp:imageAlt o'<7.0>",
+    "14" : "s(7_Subway_Extension) dbp:imageWidth o'<150>",
+    "15" : "s(7_Subway_Extension) dbp:topic o'<YouTube video clips about the 7 Subway Extension by Metropolitan Transportation Authority>",
+    "16" : "s(7_Subway_Extension) dbp:video o'<--01-12>",
+    "17" : "s(7_Subway_Extension) dbp:video o'<--05-04>",
+    "18" : "s(7_Subway_Extension) dbp:video o'<--07-16>",
+    "19" : "s(7_Subway_Extension) dbp:video o'<--09-13>",
+    "20" : "s(7_Subway_Extension) dbp:video o'<--11-16>",
+    "21" : "s(7_Subway_Extension) dbp:video o'<--12-21>",
+    "22" : "s(7_Subway_Extension) dbp:video o'<--05-10>",
+    "23" : "s(7_Subway_Extension) dbp:video o'<--05-31>",
+    "24" : "s(7_Subway_Extension) dbp:width o'<220>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

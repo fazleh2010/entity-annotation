@@ -1,0 +1,147 @@
+[ {
+  "entityIndex" : "entity10683",
+  "entityUrl" : "http://dbpedia.org/resource/Hirohito",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Hirohito) dbo:birthDate o'<1901-4-29>",
+    "2" : "s(Hirohito) dbo:birthPlace o'<Q7473516>",
+    "3" : "s(Hirohito) dbo:deathDate o'<1989-1-7>",
+    "4" : "s(Hirohito) dbo:deathPlace o'<Tokyo>",
+    "5" : "s(Hirohito) dbp:altstyle o'<Sir>",
+    "6" : "s(Hirohito) dbp:dipstyle o'<His_Imperial_Majesty>",
+    "7" : "s(Hirohito) dbp:offstyle o'<Your Imperial Majesty>",
+    "8" : "s(Hirohito) dbp:royalName o'<Emperor ShÅ�wa>",
+    "9" : "s(Hirohito) dbp:title o'<List_of_Emperors_of_Japan>",
+    "10" : "s(Hirohito) dbp:years o'<--12-25>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(hirohito=Hirohito) [referred to primarily ] o'<emperor=List_of_Emperors_of_Japan>"
+  },
+  "abstract" : {
+    "3" : "although better known outside japan by his personal name hirohito (è£•ä»�), in japan, hirohito<Hirohito> is now referred to primarily by his posthumous name emperor<List_of_Emperors_of_Japan> shå�wa\n"
+  }
+}, {
+  "entityIndex" : "entity10684",
+  "entityUrl" : "http://dbpedia.org/resource/Howard_Hawks",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Howard_Hawks) dbo:activeYearsEndYear o'<1970>",
+    "2" : "s(Howard_Hawks) dbo:activeYearsStartYear o'<1916>",
+    "3" : "s(Howard_Hawks) dbo:birthDate o'<1896-05-30>",
+    "4" : "s(Howard_Hawks) dbo:birthDate o'<1896-5-30>",
+    "5" : "s(Howard_Hawks) dbo:birthName o'<Howard Winchester Hawks>",
+    "6" : "s(Howard_Hawks) dbo:birthPlace o'<Goshen,_Indiana>",
+    "7" : "s(Howard_Hawks) dbo:birthPlace o'<Indiana>",
+    "8" : "s(Howard_Hawks) dbo:birthYear o'<1896>",
+    "9" : "s(Howard_Hawks) dbo:child o'<Kitty_Hawks>",
+    "10" : "s(Howard_Hawks) dbo:deathDate o'<1977-12-26>",
+    "11" : "s(Howard_Hawks) dbo:deathPlace o'<Palm_Springs,_California>",
+    "12" : "s(Howard_Hawks) dbo:deathYear o'<1977>",
+    "13" : "s(Howard_Hawks) dbo:occupation o'<Howard_Hawks__1>",
+    "14" : "s(Howard_Hawks) dbo:spouse o'<Slim_Keith>",
+    "15" : "s(Howard_Hawks) dbo:spouse o'<Athole_Shearer>",
+    "16" : "s(Howard_Hawks) dbo:spouse o'<Dee_Hartford>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10685",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Mayhew",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Henry_Mayhew) dbo:birthDate o'<1812-11-25>",
+    "2" : "s(Henry_Mayhew) dbo:birthPlace o'<London>",
+    "3" : "s(Henry_Mayhew) dbo:deathDate o'<1887-7-25>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(henry mayhew=Henry_Mayhew) [known for his ] o'<london=LONDON>"
+  },
+  "abstract" : {
+    "3" : "henry mayhew<Henry_Mayhew> is also known for his work as a social researcher, publishing an extensive series of newspaper articles in the morning chronicle that was later compiled into the book series london<LONDON> labour and the london<LONDON> poor (1851), a groundbreaking and influential survey of the city's poor\n"
+  }
+}, {
+  "entityIndex" : "entity10686",
+  "entityUrl" : "http://dbpedia.org/resource/Henry_Ford",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Henry_Ford) dbo:birthDate o'<1863-07-30>",
+    "2" : "s(Henry_Ford) dbo:birthDate o'<1863-7-30>",
+    "3" : "s(Henry_Ford) dbo:birthPlace o'<Wayne_County,_Michigan>",
+    "4" : "s(Henry_Ford) dbo:birthPlace o'<Greenfield_Township,_Michigan>",
+    "5" : "s(Henry_Ford) dbo:birthYear o'<1863>",
+    "6" : "s(Henry_Ford) dbo:child o'<Edsel_Ford>",
+    "7" : "s(Henry_Ford) dbo:deathDate o'<1947-04-07>",
+    "8" : "s(Henry_Ford) dbo:deathDate o'<1947-4-7>",
+    "9" : "s(Henry_Ford) dbo:deathPlace o'<Fair_Lane>",
+    "10" : "s(Henry_Ford) dbo:deathPlace o'<Dearborn,_Michigan>",
+    "11" : "s(Henry_Ford) dbo:deathYear o'<1947>",
+    "12" : "s(Henry_Ford) dbo:networth o'<1.881E11>",
+    "13" : "s(Henry_Ford) dbo:occupation o'<Henry_Ford__1>",
+    "14" : "s(Henry_Ford) dbo:occupation o'<Ford_Motor_Company>",
+    "15" : "s(Henry_Ford) dbo:parent o'<William_Ford_(businessman)>",
+    "16" : "s(Henry_Ford) dbo:religion o'<Episcopal_Church_(USA)>",
+    "17" : "s(Henry_Ford) dbp:date o'<March 2014>",
+    "18" : "s(Henry_Ford) dbp:id o'<Ford,+Henry>",
+    "19" : "s(Henry_Ford) dbp:name o'<Henry Ford>",
+    "20" : "s(Henry_Ford) dbp:nationality o'<American>",
+    "21" : "s(Henry_Ford) dbp:reason o'<Maybe an less than perferct RS>",
+    "22" : "s(Henry_Ford) dbp:signature o'<Henry Ford Signature.svg>",
+    "23" : "s(Henry_Ford) dbp:spouse o'<1888-04-11>",
+    "24" : "s(Henry_Ford) dbp:spouse o'<Clara Jane Bryant>",
+    "25" : "s(Henry_Ford) dbp:title o'<Chief Executive Officer of the Ford Motor Company>",
+    "26" : "s(Henry_Ford) dbp:years o'<1906>",
+    "27" : "s(Henry_Ford) dbp:years o'<1943>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(henry ford=Henry_Ford) [july 30 1863  april ] o'<the founder=Henry_Ford>"
+  },
+  "abstract" : {
+    "1" : "henry ford<Henry_Ford> (july 30, 1863 â€“ april 7, 1947) was an american industrialist, the founder<Henry_Ford> of the ford motor company<Ford_Motor_Company>, and the sponsor of the development of the assembly line technique of mass production"
+  }
+}, {
+  "entityIndex" : "entity10687",
+  "entityUrl" : "http://dbpedia.org/resource/Horace_Engdahl",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Horace_Engdahl) dbo:birthDate o'<1948-12-30>",
+    "2" : "s(Horace_Engdahl) dbo:birthPlace o'<Karlskrona>",
+    "3" : "s(Horace_Engdahl) dbo:birthPlace o'<Sweden>",
+    "4" : "s(Horace_Engdahl) dbo:birthYear o'<1948>",
+    "5" : "s(Horace_Engdahl) dbo:occupation o'<Horace_Engdahl__1>",
+    "6" : "s(Horace_Engdahl) dbo:occupation o'<University_of_Aarhus>",
+    "7" : "s(Horace_Engdahl) dbo:spouse o'<Ebba_Witt-BrattstrÃ¶m>",
+    "8" : "s(Horace_Engdahl) dbp:title o'<Swedish_Academy>",
+    "9" : "s(Horace_Engdahl) dbp:title o'<List_of_members_of_the_Swedish_Academy>",
+    "10" : "s(Horace_Engdahl) dbp:years o'<1997>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(horace engdahl=Horace_Engdahl) [permanent secretary of ] o'<the swedish academy=Swedish_Academy>"
+  },
+  "abstract" : {
+    "2" : "horace engdahl<Horace_Engdahl> was the permanent secretary of the swedish academy<Swedish_Academy>, i\n"
+  }
+}, {
+  "entityIndex" : "entity10688",
+  "entityUrl" : "http://dbpedia.org/resource/Harald_Tveit_Alvestrand",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Harald_Tveit_Alvestrand) dbo:birthDate o'<1959-06-29>",
+    "2" : "s(Harald_Tveit_Alvestrand) dbo:birthDate o'<1959-6-29>",
+    "3" : "s(Harald_Tveit_Alvestrand) dbo:birthPlace o'<Norway>",
+    "4" : "s(Harald_Tveit_Alvestrand) dbo:birthPlace o'<Namsos>",
+    "5" : "s(Harald_Tveit_Alvestrand) dbo:birthYear o'<1959>",
+    "6" : "s(Harald_Tveit_Alvestrand) dbo:occupation o'<Harald_Tveit_Alvestrand__1>",
+    "7" : "s(Harald_Tveit_Alvestrand) dbo:occupation o'<Computer_scientist>",
+    "8" : "s(Harald_Tveit_Alvestrand) dbp:children o'<3>",
+    "9" : "s(Harald_Tveit_Alvestrand) dbp:title o'<IETF Chair>",
+    "10" : "s(Harald_Tveit_Alvestrand) dbp:years o'<2001>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(harald tveit alvestrand=Harald_Tveit_Alvestrand) [born in ] o'<namsos=Namsos>",
+    "6" : "s(harald tveit alvestrand=Harald_Tveit_Alvestrand) [2008 lives in trondheim ] o'<norway=Norway>"
+  },
+  "abstract" : {
+    "4" : "harald tveit alvestrand<Harald_Tveit_Alvestrand> was born in namsos<Namsos>, norway<Norway>, received his education from bergen katedralskole and the norwegian institute of technology, and has worked for norsk<Norway> data, uninett, edb maxware and cisco systems, inc\n",
+    "6" : "harald tveit alvestrand<Harald_Tveit_Alvestrand> currently (2008) lives in trondheim, norway<Norway>, and works for google\n"
+  }
+} ]

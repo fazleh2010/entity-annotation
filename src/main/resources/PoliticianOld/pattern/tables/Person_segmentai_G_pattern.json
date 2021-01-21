@@ -1,0 +1,82 @@
+[ {
+  "entityIndex" : "entity11169",
+  "entityUrl" : "http://dbpedia.org/resource/Guy_Michelmore",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Guy_Michelmore) dbo:imdbId o'<0585064>",
+    "2" : "s(Guy_Michelmore) dbp:name o'<Guy Michelmore>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11170",
+  "entityUrl" : "http://dbpedia.org/resource/Guy_L._Moser",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Guy_L._Moser) dbo:birthDate o'<1886-1-23>",
+    "2" : "s(Guy_L._Moser) dbo:deathDate o'<1961-5-9>",
+    "3" : "s(Guy_L._Moser) dbp:after o'<Daniel_K._Hoch>",
+    "4" : "s(Guy_L._Moser) dbp:before o'<William_E._Richardson>",
+    "5" : "s(Guy_L._Moser) dbp:district o'<14>",
+    "6" : "s(Guy_L._Moser) dbp:state o'<Pennsylvania>",
+    "7" : "s(Guy_L._Moser) dbp:years o'<1937>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11171",
+  "entityUrl" : "http://dbpedia.org/resource/Giuliano_Sangiorgi",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Giuliano_Sangiorgi) dbo:birthDate o'<1979-1-24>",
+    "2" : "s(Giuliano_Sangiorgi) dbo:birthPlace o'<NardÃ²>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11172",
+  "entityUrl" : "http://dbpedia.org/resource/Gustavo_Gorriti",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Gustavo_Gorriti) dbo:award o'<CPJ_International_Press_Freedom_Award>",
+    "2" : "s(Gustavo_Gorriti) dbo:award o'<Maria_Moors_Cabot_Prize>",
+    "3" : "s(Gustavo_Gorriti) dbo:birthDate o'<1948-1-1>",
+    "4" : "s(Gustavo_Gorriti) dbo:birthPlace o'<Lima>",
+    "5" : "s(Gustavo_Gorriti) dbo:birthPlace o'<Peru>",
+    "6" : "s(Gustavo_Gorriti) dbo:birthYear o'<1948>",
+    "7" : "s(Gustavo_Gorriti) dbo:nationality o'<Peru>",
+    "8" : "s(Gustavo_Gorriti) dbo:occupation o'<Gustavo_Gorriti__1>",
+    "9" : "s(Gustavo_Gorriti) dbo:stateOfOrigin o'<Peru>",
+    "10" : "s(Gustavo_Gorriti) dbp:organization o'<Caretas, La Prensa>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11173",
+  "entityUrl" : "http://dbpedia.org/resource/Geoffrey_Dodsworth",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Geoffrey_Dodsworth) dbo:birthDate o'<1928-06-07>",
+    "2" : "s(Geoffrey_Dodsworth) dbo:birthDate o'<1928-6-7>",
+    "3" : "s(Geoffrey_Dodsworth) dbo:birthPlace o'<York>",
+    "4" : "s(Geoffrey_Dodsworth) dbo:birthPlace o'<Yorkshire>",
+    "5" : "s(Geoffrey_Dodsworth) dbo:birthYear o'<1928>",
+    "6" : "s(Geoffrey_Dodsworth) dbo:occupation o'<Geoffrey_Dodsworth__1>",
+    "7" : "s(Geoffrey_Dodsworth) dbp:after o'<Richard_Page>",
+    "8" : "s(Geoffrey_Dodsworth) dbp:before o'<Sir Gilbert Longden>",
+    "9" : "s(Geoffrey_Dodsworth) dbp:children o'<3>",
+    "10" : "s(Geoffrey_Dodsworth) dbp:spouse o'<Elizabeth Beeston>",
+    "11" : "s(Geoffrey_Dodsworth) dbp:spouse o'<Isabel Neale>",
+    "12" : "s(Geoffrey_Dodsworth) dbp:title o'<Member of Parliament for South West Hertfordshire>",
+    "13" : "s(Geoffrey_Dodsworth) dbp:years o'<Feb 1974&ndash;1979>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11174",
+  "entityUrl" : "http://dbpedia.org/resource/Gene_Stone",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

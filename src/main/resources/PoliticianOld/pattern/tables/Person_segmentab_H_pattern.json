@@ -1,0 +1,94 @@
+[ {
+  "entityIndex" : "entity10847",
+  "entityUrl" : "http://dbpedia.org/resource/Heinrich_von_Br%C3%BChl",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10848",
+  "entityUrl" : "http://dbpedia.org/resource/Harry_de_Windt",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Harry_de_Windt) dbo:birthDate o'<1856-4-9>",
+    "2" : "s(Harry_de_Windt) dbo:birthPlace o'<Paris>",
+    "3" : "s(Harry_de_Windt) dbo:deathDate o'<1933-11-30>",
+    "4" : "s(Harry_de_Windt) dbo:deathPlace o'<Bournemouth>",
+    "5" : "s(Harry_de_Windt) dbp:id o'<De+Windt,+Harry>",
+    "6" : "s(Harry_de_Windt) dbp:name o'<Harry De Windt>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10849",
+  "entityUrl" : "http://dbpedia.org/resource/Horia_Sima",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Horia_Sima) dbo:birthDate o'<1903-7-3>",
+    "2" : "s(Horia_Sima) dbo:birthPlace o'<FÄƒgÄƒraÈ™>",
+    "3" : "s(Horia_Sima) dbo:deathDate o'<1993-5-25>",
+    "4" : "s(Horia_Sima) dbo:deathPlace o'<Madrid>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10850",
+  "entityUrl" : "http://dbpedia.org/resource/Hans_K%C3%BCng",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10851",
+  "entityUrl" : "http://dbpedia.org/resource/Hikaru_Nakamura",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Hikaru_Nakamura) dbo:birthDate o'<1987-12-09>",
+    "2" : "s(Hikaru_Nakamura) dbo:birthDate o'<1987-12-9>",
+    "3" : "s(Hikaru_Nakamura) dbo:birthName o'<Hikaru Nakamura>",
+    "4" : "s(Hikaru_Nakamura) dbo:birthPlace o'<Japan>",
+    "5" : "s(Hikaru_Nakamura) dbo:birthPlace o'<Osaka>",
+    "6" : "s(Hikaru_Nakamura) dbo:birthPlace o'<Hirakata>",
+    "7" : "s(Hikaru_Nakamura) dbo:birthPlace o'<Hirakata,_Osaka>",
+    "8" : "s(Hikaru_Nakamura) dbo:country o'<United_States>",
+    "9" : "s(Hikaru_Nakamura) dbo:rating o'<2787.0>",
+    "10" : "s(Hikaru_Nakamura) dbo:title o'<Grandmaster>",
+    "11" : "s(Hikaru_Nakamura) dbp:after o'<Alexander_Onischuk>",
+    "12" : "s(Hikaru_Nakamura) dbp:after o'<Fabiano_Caruana>",
+    "13" : "s(Hikaru_Nakamura) dbp:after o'<Gata_Kamsky>",
+    "14" : "s(Hikaru_Nakamura) dbp:before o'<Alexander_Shabalov>",
+    "15" : "s(Hikaru_Nakamura) dbp:before o'<Gata_Kamsky>",
+    "16" : "s(Hikaru_Nakamura) dbp:before o'<Yury_Shulman>",
+    "17" : "s(Hikaru_Nakamura) dbp:peakranking o'<No. 2>",
+    "18" : "s(Hikaru_Nakamura) dbp:peakrating o'<2816>",
+    "19" : "s(Hikaru_Nakamura) dbp:title o'<United_States_Chess_Championship>",
+    "20" : "s(Hikaru_Nakamura) dbp:years o'<2005>",
+    "21" : "s(Hikaru_Nakamura) dbp:years o'<2009>",
+    "22" : "s(Hikaru_Nakamura) dbp:years o'<2012>",
+    "23" : "s(Hikaru_Nakamura) dbp:years o'<2015>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(hikaru nakamura=Hikaru_Nakamura) [  ] o'<nakamura=Hikaru_Nakamura>",
+    "2" : "s(hikaru nakamura=Hikaru_Nakamura) [fourtime ] o'<united states=United_States>"
+  },
+  "abstract" : {
+    "1" : "hikaru nakamura<Hikaru_Nakamura> (ãƒ’ã‚«ãƒ«ãƒ»ãƒšã‚«ãƒ ãƒ© nakamura<Hikaru_Nakamura> hikaru, born december 9, 1987) is an american chess grandmaster",
+    "2" : "hikaru nakamura<Hikaru_Nakamura> is a four-time united states<United_States> chess champion, who won the 2011 edition of tata steel group a and represented the united states<United_States> at five chess olympiads, winning two team bronze medals\n"
+  }
+}, {
+  "entityIndex" : "entity10852",
+  "entityUrl" : "http://dbpedia.org/resource/Heinrich_Kuhl",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Heinrich_Kuhl) dbo:birthDate o'<1797-9-17>",
+    "2" : "s(Heinrich_Kuhl) dbo:birthPlace o'<Hanau>",
+    "3" : "s(Heinrich_Kuhl) dbo:deathDate o'<1821-9-14>",
+    "4" : "s(Heinrich_Kuhl) dbo:deathPlace o'<Bogor>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "10" : "s(heinrich kuhl=Heinrich_Kuhl) [died in ] o'<buitenzorg=Bogor>"
+  },
+  "abstract" : {
+    "10" : "in 1821 heinrich kuhl<Heinrich_Kuhl> died in buitenzorg<Bogor> (now bogor) of a liver infection brought on by the climate and overexertion\n"
+  }
+} ]

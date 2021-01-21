@@ -1,0 +1,92 @@
+[ {
+  "entityIndex" : "entity11022",
+  "entityUrl" : "http://dbpedia.org/resource/John_H._Collins",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(John_H._Collins) dbo:birthDate o'<1902-11-14>",
+    "2" : "s(John_H._Collins) dbo:deathDate o'<1981-1-8>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11023",
+  "entityUrl" : "http://dbpedia.org/resource/Joseph_Bodin_de_Boismortier",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Joseph_Bodin_de_Boismortier) dbo:birthDate o'<1689-12-23>",
+    "2" : "s(Joseph_Bodin_de_Boismortier) dbo:birthPlace o'<Thionville>",
+    "3" : "s(Joseph_Bodin_de_Boismortier) dbo:deathDate o'<1755-10-28>",
+    "4" : "s(Joseph_Bodin_de_Boismortier) dbo:deathPlace o'<Thionville>",
+    "5" : "s(Joseph_Bodin_de_Boismortier) dbp:cname o'<Joseph Bodin de Boismortier>",
+    "6" : "s(Joseph_Bodin_de_Boismortier) dbp:id o'<Boismortier%2C_Joseph_Bodin_de>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11024",
+  "entityUrl" : "http://dbpedia.org/resource/Jacques-Nicolas_Bellin",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Jacques-Nicolas_Bellin) dbo:birthDate o'<1703-1-1>",
+    "2" : "s(Jacques-Nicolas_Bellin) dbo:birthPlace o'<Paris>",
+    "3" : "s(Jacques-Nicolas_Bellin) dbo:deathDate o'<1772-3-21>",
+    "4" : "s(Jacques-Nicolas_Bellin) dbo:deathPlace o'<Versailles,_Yvelines>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(jacques-nicolas bellin=Jacques-Nicolas_Bellin) [died at ] o'<versailles=Versailles,_Yvelines>"
+  },
+  "abstract" : {
+    "6" : "jacques-nicolas bellin<Jacques-Nicolas_Bellin> died at versailles<Versailles,_Yvelines>\n"
+  }
+}, {
+  "entityIndex" : "entity11025",
+  "entityUrl" : "http://dbpedia.org/resource/John_Habersham",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(John_Habersham) dbo:birthDate o'<1754-12-23>",
+    "2" : "s(John_Habersham) dbo:birthPlace o'<Savannah,_Georgia>",
+    "3" : "s(John_Habersham) dbo:deathDate o'<1799-12-17>",
+    "4" : "s(John_Habersham) dbo:deathPlace o'<Savannah,_Georgia>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(john habersham=John_Habersham) [served officer in ] o'<georgia=Savannah,_Georgia>"
+  },
+  "abstract" : {
+    "3" : "john habersham<John_Habersham> served as an officer in the 1st georgia<Savannah,_Georgia> regiment during the american revolutionary war\n"
+  }
+}, {
+  "entityIndex" : "entity11026",
+  "entityUrl" : "http://dbpedia.org/resource/James_Hillman",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(James_Hillman) dbo:activeYearsEndYear o'<2006>",
+    "2" : "s(James_Hillman) dbo:activeYearsStartYear o'<1965>",
+    "3" : "s(James_Hillman) dbo:birthDate o'<1926-04-12>",
+    "4" : "s(James_Hillman) dbo:birthDate o'<1926-4-12>",
+    "5" : "s(James_Hillman) dbo:birthPlace o'<Atlantic_City,_New_Jersey>",
+    "6" : "s(James_Hillman) dbo:birthYear o'<1926>",
+    "7" : "s(James_Hillman) dbo:deathCause o'<Pneumonia>",
+    "8" : "s(James_Hillman) dbo:deathDate o'<2011-10-27>",
+    "9" : "s(James_Hillman) dbo:deathPlace o'<Thompson,_Connecticut>",
+    "10" : "s(James_Hillman) dbo:deathYear o'<2011>",
+    "11" : "s(James_Hillman) dbo:nationality o'<United_States>",
+    "12" : "s(James_Hillman) dbo:occupation o'<Psychologist>",
+    "13" : "s(James_Hillman) dbo:occupation o'<James_Hillman__1>",
+    "14" : "s(James_Hillman) dbo:stateOfOrigin o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "5" : "s(james hillman=James_Hillman) [founded movement toward archetypal ] o'<psychology=Psychologist>"
+  },
+  "abstract" : {
+    "5" : "james hillman<James_Hillman> founded a movement toward archetypal psychology<Psychologist> and retired into private practice, writing and traveling to lecture, until his death at his home in connecticut\n"
+  }
+}, {
+  "entityIndex" : "entity11027",
+  "entityUrl" : "http://dbpedia.org/resource/John_Hall_(Maryland)",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(John_Hall_(Maryland)) dbo:wikiPageRedirects o'<John_Hall_(Maryland_politician)>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

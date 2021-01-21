@@ -1,0 +1,102 @@
+[ {
+  "entityIndex" : "entity14501",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Seonui",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Queen_Seonui) dbo:activeYearsEndYear o'<1720>",
+    "2" : "s(Queen_Seonui) dbo:activeYearsStartYear o'<1720>",
+    "3" : "s(Queen_Seonui) dbo:birthDate o'<1705-12-14>",
+    "4" : "s(Queen_Seonui) dbo:birthDate o'<1705-1-1>",
+    "5" : "s(Queen_Seonui) dbo:deathDate o'<1730-1-1>",
+    "6" : "s(Queen_Seonui) dbo:deathPlace o'<Changdeokgung>",
+    "7" : "s(Queen_Seonui) dbo:spouse o'<Gyeongjong_of_Joseon>",
+    "8" : "s(Queen_Seonui) dbo:title o'<Queen Consort of Joseon>",
+    "9" : "s(Queen_Seonui) dbp:after o'<Queen_Jeongseong>",
+    "10" : "s(Queen_Seonui) dbp:before o'<Queen_Inwon>",
+    "11" : "s(Queen_Seonui) dbp:deathDate o'<--08-12>",
+    "12" : "s(Queen_Seonui) dbp:reign o'<1724>",
+    "13" : "s(Queen_Seonui) dbp:reign1Type o'<Tenure>",
+    "14" : "s(Queen_Seonui) dbp:reignType o'<Tenure>",
+    "15" : "s(Queen_Seonui) dbp:succession o'<Queen Consort of Joseon>",
+    "16" : "s(Queen_Seonui) dbp:sucession o'<Queen Consort of Joseon>",
+    "17" : "s(Queen_Seonui) dbp:title o'<Queen consort of Korea>",
+    "18" : "s(Queen_Seonui) dbp:years o'<1720>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14502",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Hyohyeon",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Queen_Hyohyeon) dbo:birthDate o'<1828-1-1>",
+    "2" : "s(Queen_Hyohyeon) dbo:deathDate o'<1843-1-1>",
+    "3" : "s(Queen_Hyohyeon) dbp:after o'<Queen_Myeongheon>",
+    "4" : "s(Queen_Hyohyeon) dbp:before o'<Queen_Sunwon>",
+    "5" : "s(Queen_Hyohyeon) dbp:title o'<Queen consort of Korea>",
+    "6" : "s(Queen_Hyohyeon) dbp:years o'<1837>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14503",
+  "entityUrl" : "http://dbpedia.org/resource/Queen_Hyojeong",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Queen_Hyojeong) dbo:birthDate o'<1831-1-1>",
+    "2" : "s(Queen_Hyojeong) dbo:deathDate o'<1903-1-1>",
+    "3" : "s(Queen_Hyojeong) dbp:after o'<Queen_Cheol-in>",
+    "4" : "s(Queen_Hyojeong) dbp:before o'<Queen_Hyohyeon>",
+    "5" : "s(Queen_Hyojeong) dbp:title o'<Queen consort of Korea>",
+    "6" : "s(Queen_Hyojeong) dbp:years o'<1844>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14504",
+  "entityUrl" : "http://dbpedia.org/resource/Qurban_Hussain,_Baron_Hussain",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Qurban_Hussain,_Baron_Hussain) dbo:birthDate o'<1956-03-27>",
+    "2" : "s(Qurban_Hussain,_Baron_Hussain) dbo:birthDate o'<1956-3-27>",
+    "3" : "s(Qurban_Hussain,_Baron_Hussain) dbo:birthPlace o'<Kotly>",
+    "4" : "s(Qurban_Hussain,_Baron_Hussain) dbo:birthPlace o'<Azad_Jammu_Kashmir>",
+    "5" : "s(Qurban_Hussain,_Baron_Hussain) dbo:orderInOffice o'<Member of the House of Lords>",
+    "6" : "s(Qurban_Hussain,_Baron_Hussain) dbo:party o'<Liberal_Democrats_(UK)>",
+    "7" : "s(Qurban_Hussain,_Baron_Hussain) dbo:religion o'<Muslim>",
+    "8" : "s(Qurban_Hussain,_Baron_Hussain) dbp:birthName o'<Qurban Hussain>",
+    "9" : "s(Qurban_Hussain,_Baron_Hussain) dbp:leader o'<Tim_Farron>",
+    "10" : "s(Qurban_Hussain,_Baron_Hussain) dbp:leader o'<Nick_Clegg>",
+    "11" : "s(Qurban_Hussain,_Baron_Hussain) dbp:nationality o'<British>",
+    "12" : "s(Qurban_Hussain,_Baron_Hussain) dbp:occupation o'<Politician>",
+    "13" : "s(Qurban_Hussain,_Baron_Hussain) dbp:parliament o'<United Kingdom>",
+    "14" : "s(Qurban_Hussain,_Baron_Hussain) dbp:termStart o'<2011>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14505",
+  "entityUrl" : "http://dbpedia.org/resource/Qin_Guan",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Qin_Guan) dbo:birthDate o'<1049-1-1>",
+    "2" : "s(Qin_Guan) dbo:deathDate o'<1100-1-1>",
+    "3" : "s(Qin_Guan) dbp:bot o'<InternetArchiveBot>",
+    "4" : "s(Qin_Guan) dbp:date o'<July 2016>",
+    "5" : "s(Qin_Guan) dbp:fixAttempted o'<yes>",
+    "6" : "s(Qin_Guan) dbp:t o'<ç§¦è§€>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14506",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Bandera",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Quentin_Bandera) dbo:birthDate o'<1837-0-0>",
+    "2" : "s(Quentin_Bandera) dbo:birthPlace o'<Santiago_de_Cuba>",
+    "3" : "s(Quentin_Bandera) dbo:deathDate o'<1906-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

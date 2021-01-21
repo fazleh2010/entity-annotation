@@ -1,0 +1,113 @@
+[ {
+  "entityIndex" : "entity10901",
+  "entityUrl" : "http://dbpedia.org/resource/Qaitbay",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Qaitbay) dbo:birthDate o'<1416-1-1>",
+    "2" : "s(Qaitbay) dbo:deathDate o'<1496-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10902",
+  "entityUrl" : "http://dbpedia.org/resource/Qin_Jiushao",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Qin_Jiushao) dbo:birthDate o'<1201-1-1>",
+    "2" : "s(Qin_Jiushao) dbo:birthPlace o'<Sichuan>",
+    "3" : "s(Qin_Jiushao) dbo:deathDate o'<1261-1-1>",
+    "4" : "s(Qin_Jiushao) dbo:deathPlace o'<Guangdong>",
+    "5" : "s(Qin_Jiushao) dbp:c o'<ç§¦ä¹�éŸ¶>",
+    "6" : "s(Qin_Jiushao) dbp:p o'<QÃ­n JiÇ”shÃ¡o>",
+    "7" : "s(Qin_Jiushao) dbp:w o'<Ch'in Chiu-shao>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10903",
+  "entityUrl" : "http://dbpedia.org/resource/Quentin_Bryce",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Quentin_Bryce) dbo:almaMater o'<University_of_Queensland>",
+    "2" : "s(Quentin_Bryce) dbo:birthDate o'<1942-12-23>",
+    "3" : "s(Quentin_Bryce) dbo:birthName o'<Quentin Alice Louise Strachan>",
+    "4" : "s(Quentin_Bryce) dbo:birthPlace o'<Queensland>",
+    "5" : "s(Quentin_Bryce) dbo:birthPlace o'<Brisbane>",
+    "6" : "s(Quentin_Bryce) dbo:monarch o'<Elizabeth_II>",
+    "7" : "s(Quentin_Bryce) dbo:office o'<24thGovernor of Queensland>",
+    "8" : "s(Quentin_Bryce) dbo:office o'<25thGovernor-General of Australia>",
+    "9" : "s(Quentin_Bryce) dbo:predecessor o'<Michael_Jeffery>",
+    "10" : "s(Quentin_Bryce) dbo:predecessor o'<Peter_Arnison>",
+    "11" : "s(Quentin_Bryce) dbo:primeMinister o'<Tony_Abbott>",
+    "12" : "s(Quentin_Bryce) dbo:primeMinister o'<Julia_Gillard>",
+    "13" : "s(Quentin_Bryce) dbo:primeMinister o'<Kevin_Rudd>",
+    "14" : "s(Quentin_Bryce) dbo:spouse o'<Michael_Bryce>",
+    "15" : "s(Quentin_Bryce) dbo:successor o'<Penelope_Wensley>",
+    "16" : "s(Quentin_Bryce) dbo:successor o'<Peter_Cosgrove>",
+    "17" : "s(Quentin_Bryce) dbo:termPeriod o'<Quentin_Bryce__1>",
+    "18" : "s(Quentin_Bryce) dbo:termPeriod o'<Quentin_Bryce__2>",
+    "19" : "s(Quentin_Bryce) dbp:altstyle o'<Ma'am>",
+    "20" : "s(Quentin_Bryce) dbp:children o'<5>",
+    "21" : "s(Quentin_Bryce) dbp:dipstyle o'<Her Excellency the Honourable>",
+    "22" : "s(Quentin_Bryce) dbp:honorificPrefix o'<The_Honourable>",
+    "23" : "s(Quentin_Bryce) dbp:name o'<Quentin Bryce>",
+    "24" : "s(Quentin_Bryce) dbp:offstyle o'<Your Excellency>",
+    "25" : "s(Quentin_Bryce) dbp:premier o'<Peter_Beattie>",
+    "26" : "s(Quentin_Bryce) dbp:premier o'<Anna_Bligh>",
+    "27" : "s(Quentin_Bryce) dbp:title o'<Governor-General_of_Australia>",
+    "28" : "s(Quentin_Bryce) dbp:title o'<Sex_Discrimination_Commissioner>",
+    "29" : "s(Quentin_Bryce) dbp:title o'<Governor_of_Queensland>",
+    "30" : "s(Quentin_Bryce) dbp:years o'<1988>",
+    "31" : "s(Quentin_Bryce) dbp:years o'<2003>",
+    "32" : "s(Quentin_Bryce) dbp:years o'<2008>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "4" : "s(quentin bryce=Quentin_Bryce) [attended ] o'<university of queensland=University_of_Queensland>",
+    "15" : "s(quentin bryce=Quentin_Bryce) [succeeded by general ] o'<sir peter cosgrove=Peter_Cosgrove>"
+  },
+  "abstract" : {
+    "4" : "quentin bryce<Quentin_Bryce> attended the university of queensland<University_of_Queensland>, where quentin bryce<Quentin_Bryce> completed a bachelor of arts and a bachelor of laws, becoming one of the first women accepted to the queensland<Queensland> bar\n",
+    "15" : "quentin bryce<Quentin_Bryce> was succeeded by general sir peter cosgrove<Peter_Cosgrove> as governor-general<Governor-General_of_Australia> on 28 march 2014\n"
+  }
+}, {
+  "entityIndex" : "entity10904",
+  "entityUrl" : "http://dbpedia.org/resource/Qingde_Wang",
+  "dboClass" : "Person_segmentab",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10905",
+  "entityUrl" : "http://dbpedia.org/resource/Quincy_Wright",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Quincy_Wright) dbo:birthDate o'<1890-12-28>",
+    "2" : "s(Quincy_Wright) dbo:birthPlace o'<Medford,_Massachusetts>",
+    "3" : "s(Quincy_Wright) dbo:deathDate o'<1970-10-17>",
+    "4" : "s(Quincy_Wright) dbo:deathPlace o'<Charlottesville,_Virginia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10906",
+  "entityUrl" : "http://dbpedia.org/resource/Quintus_Aurelius_Symmachus",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Quintus_Aurelius_Symmachus) dbo:birthDate o'<340-1-1>",
+    "2" : "s(Quintus_Aurelius_Symmachus) dbo:birthPlace o'<Rome>",
+    "3" : "s(Quintus_Aurelius_Symmachus) dbo:deathDate o'<402-1-1>",
+    "4" : "s(Quintus_Aurelius_Symmachus) dbp:regent o'<Flavius Eutolmius Tatianus>",
+    "5" : "s(Quintus_Aurelius_Symmachus) dbp:title o'<Consul of the Roman Empire>",
+    "6" : "s(Quintus_Aurelius_Symmachus) dbp:title o'<Praefectus urbi of Rome>",
+    "7" : "s(Quintus_Aurelius_Symmachus) dbp:years o'<391>",
+    "8" : "s(Quintus_Aurelius_Symmachus) dbp:years o'<Feb 385>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(quintus aurelius symmachus=Quintus_Aurelius_Symmachus) [held offices of governor ] o'<rome=Rome>",
+    "4" : "s(quintus aurelius symmachus=Quintus_Aurelius_Symmachus) [ordered altar of victory ] o'<roman=Rome>"
+  },
+  "abstract" : {
+    "3" : "quintus aurelius symmachus<Quintus_Aurelius_Symmachus> held the offices of governor of proconsular africa in 373, urban prefect of rome<Rome> in 384 and 385, and consul in 391\n",
+    "4" : "symmachus sought to preserve the traditional religions of rome<Rome> at a time when the aristocracy was converting to christianity, and led an unsuccessful delegation of protest against gratian, when quintus aurelius symmachus<Quintus_Aurelius_Symmachus> ordered the altar of victory removed from the curia, the principal meeting place of the roman<Rome> senate in the forum roman<Rome>um\n"
+  }
+} ]

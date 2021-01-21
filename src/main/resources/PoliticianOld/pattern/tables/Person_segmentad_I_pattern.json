@@ -1,0 +1,90 @@
+[ {
+  "entityIndex" : "entity11189",
+  "entityUrl" : "http://dbpedia.org/resource/Isabella_of_Armenia,_Princess_of_Tyre",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:birthDate o'<1276-1-12>",
+    "2" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:deathDate o'<1323-04-09>",
+    "3" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:deathDate o'<1323-4-0>",
+    "4" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:deathPlace o'<Kozan,_Adana>",
+    "5" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:deathPlace o'<Armenian_Kingdom_of_Cilicia>",
+    "6" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:parent o'<Leo_II,_King_of_Armenia>",
+    "7" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:parent o'<Keran_of_Lampron>",
+    "8" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:spouse o'<Amalric,_Prince_of_Tyre>",
+    "9" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbo:title o'<Princess of Tyre>",
+    "10" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbp:birthDate o'<1275>",
+    "11" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbp:house o'<House_of_Lambron>",
+    "12" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbp:issue o'<BohÃ©mond of Lusignan>",
+    "13" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbp:issue o'<Guy of Lusignan>",
+    "14" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbp:issue o'<Henry of Lusignan>",
+    "15" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbp:issue o'<Hugh of Lusignan>",
+    "16" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbp:issue o'<John of Lusignan>",
+    "17" : "s(Isabella_of_Armenia,_Princess_of_Tyre) dbp:issue o'<Mary, Queen of Armenia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11190",
+  "entityUrl" : "http://dbpedia.org/resource/Ignaz_Friedman",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ignaz_Friedman) dbo:birthDate o'<1882-02-13>",
+    "2" : "s(Ignaz_Friedman) dbo:birthDate o'<1882-2-14>",
+    "3" : "s(Ignaz_Friedman) dbo:birthName o'<Solomon Isaac Freudman>",
+    "4" : "s(Ignaz_Friedman) dbo:birthPlace o'<KrakÃ³w>",
+    "5" : "s(Ignaz_Friedman) dbo:birthPlace o'<PodgÃ³rze>",
+    "6" : "s(Ignaz_Friedman) dbo:birthPlace o'<Austrian_Poland>",
+    "7" : "s(Ignaz_Friedman) dbo:birthYear o'<1882>",
+    "8" : "s(Ignaz_Friedman) dbo:deathDate o'<1948-01-26>",
+    "9" : "s(Ignaz_Friedman) dbo:deathDate o'<1948-1-26>",
+    "10" : "s(Ignaz_Friedman) dbo:deathPlace o'<Sydney>",
+    "11" : "s(Ignaz_Friedman) dbo:deathPlace o'<Australia>",
+    "12" : "s(Ignaz_Friedman) dbo:deathYear o'<1948>",
+    "13" : "s(Ignaz_Friedman) dbo:nationality o'<Poland>",
+    "14" : "s(Ignaz_Friedman) dbo:occupation o'<Pianist>",
+    "15" : "s(Ignaz_Friedman) dbo:occupation o'<Composer>",
+    "16" : "s(Ignaz_Friedman) dbo:occupation o'<Ignaz_Friedman__1>",
+    "17" : "s(Ignaz_Friedman) dbo:stateOfOrigin o'<Poland>",
+    "18" : "s(Ignaz_Friedman) dbp:cname o'<Ignaz Friedman>",
+    "19" : "s(Ignaz_Friedman) dbp:id o'<Friedman, Ignaz>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11191",
+  "entityUrl" : "http://dbpedia.org/resource/Inoke_Takiveikata",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Inoke_Takiveikata) dbo:birthDate o'<1949-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11192",
+  "entityUrl" : "http://dbpedia.org/resource/Irena_Degutien%C4%97",
+  "dboClass" : "Person_segmentad",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11193",
+  "entityUrl" : "http://dbpedia.org/resource/Ian_MacLaurin,_Baron_MacLaurin_of_Knebworth",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ian_MacLaurin,_Baron_MacLaurin_of_Knebworth) dbo:birthDate o'<1937-03-30>",
+    "2" : "s(Ian_MacLaurin,_Baron_MacLaurin_of_Knebworth) dbo:birthDate o'<1937-3-30>",
+    "3" : "s(Ian_MacLaurin,_Baron_MacLaurin_of_Knebworth) dbo:birthPlace o'<Blackheath,_London>",
+    "4" : "s(Ian_MacLaurin,_Baron_MacLaurin_of_Knebworth) dbo:birthYear o'<1937>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11194",
+  "entityUrl" : "http://dbpedia.org/resource/Ibn_Qayyim_Al-Jawziyya",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Ibn_Qayyim_Al-Jawziyya) dbo:wikiPageRedirects o'<Ibn_Qayyim_al-Jawziyya>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

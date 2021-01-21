@@ -1,0 +1,101 @@
+[ {
+  "entityIndex" : "entity11077",
+  "entityUrl" : "http://dbpedia.org/resource/Svetlana_Zakharova_(dancer)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Svetlana_Zakharova_(dancer)) dbo:birthDate o'<1979-6-10>",
+    "2" : "s(Svetlana_Zakharova_(dancer)) dbo:birthPlace o'<Lutsk>",
+    "3" : "s(Svetlana_Zakharova_(dancer)) dbp:birthDate o'<1979-06-10>",
+    "4" : "s(Svetlana_Zakharova_(dancer)) dbp:birthPlace o'<Ukrainian_SSR>",
+    "5" : "s(Svetlana_Zakharova_(dancer)) dbp:birthPlace o'<Soviet_Union>",
+    "6" : "s(Svetlana_Zakharova_(dancer)) dbp:birthPlace o'<Lutsk>",
+    "7" : "s(Svetlana_Zakharova_(dancer)) dbp:currentGroup o'<Bolshoi_Ballet>",
+    "8" : "s(Svetlana_Zakharova_(dancer)) dbp:education o'<Kiev_Ballet>",
+    "9" : "s(Svetlana_Zakharova_(dancer)) dbp:education o'<Vaganova_Academy_of_Russian_Ballet>",
+    "10" : "s(Svetlana_Zakharova_(dancer)) dbp:formerGroups o'<Mariinsky_Ballet>",
+    "11" : "s(Svetlana_Zakharova_(dancer)) dbp:knownFor o'<Swan_Lake>",
+    "12" : "s(Svetlana_Zakharova_(dancer)) dbp:knownFor o'<Giselle>",
+    "13" : "s(Svetlana_Zakharova_(dancer)) dbp:knownFor o'<Don_Quixote>",
+    "14" : "s(Svetlana_Zakharova_(dancer)) dbp:knownFor o'<The_Sleeping_Beauty_(ballet)>",
+    "15" : "s(Svetlana_Zakharova_(dancer)) dbp:knownFor o'<La_BayadÃ¨re>",
+    "16" : "s(Svetlana_Zakharova_(dancer)) dbp:knownFor o'<Raymonda>",
+    "17" : "s(Svetlana_Zakharova_(dancer)) dbp:name o'<Svetlana Zakharova>",
+    "18" : "s(Svetlana_Zakharova_(dancer)) dbp:occupation o'<Ballerina>",
+    "19" : "s(Svetlana_Zakharova_(dancer)) dbp:politicalParty o'<United_Russia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11078",
+  "entityUrl" : "http://dbpedia.org/resource/Sharon_Angela",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Sharon_Angela) dbo:activeYearsStartYear o'<1992>",
+    "2" : "s(Sharon_Angela) dbo:birthDate o'<2000-1-1>",
+    "3" : "s(Sharon_Angela) dbo:imdbId o'<0029512>",
+    "4" : "s(Sharon_Angela) dbo:occupation o'<Screenwriter>",
+    "5" : "s(Sharon_Angela) dbo:occupation o'<Actress>",
+    "6" : "s(Sharon_Angela) dbo:occupation o'<Sharon_Angela__1>",
+    "7" : "s(Sharon_Angela) dbo:occupation o'<Film_director>",
+    "8" : "s(Sharon_Angela) dbp:name o'<Sharon Angela>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11079",
+  "entityUrl" : "http://dbpedia.org/resource/Stephen_Wade",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Stephen_Wade) dbo:birthDate o'<1960-3-28>",
+    "2" : "s(Stephen_Wade) dbo:office o'<Member of theLegislative Council>",
+    "3" : "s(Stephen_Wade) dbo:party o'<Liberal_Party_of_Australia_(South_Australian_Division)>",
+    "4" : "s(Stephen_Wade) dbo:termPeriod o'<Stephen_Wade__1>",
+    "5" : "s(Stephen_Wade) dbp:honorificPrefix o'<The_Honourable>",
+    "6" : "s(Stephen_Wade) dbp:honorificSuffix o'<Member_of_the_Legislative_Council>",
+    "7" : "s(Stephen_Wade) dbp:parliament o'<South Australian>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(stephen wade=Stephen_Wade) [member of ] o'<south australian=South_Australian>"
+  },
+  "abstract" : {
+    "3" : "stephen wade<Stephen_Wade> has been a member of the south australian<South_Australian> legislative council after an appointment in may 2006, representing the south australian<South_Australian> division of the liberal party<Liberal_Party_of_Australia_(South_Australian_Division)> of australia\n"
+  }
+}, {
+  "entityIndex" : "entity11080",
+  "entityUrl" : "http://dbpedia.org/resource/Syed_Jaafar_Albar",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Syed_Jaafar_Albar) dbo:birthDate o'<1914-1-1>",
+    "2" : "s(Syed_Jaafar_Albar) dbo:deathDate o'<1977-1-14>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11081",
+  "entityUrl" : "http://dbpedia.org/resource/Syed_Nasir_Ismail",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Syed_Nasir_Ismail) dbo:birthDate o'<1921-3-7>",
+    "2" : "s(Syed_Nasir_Ismail) dbo:deathDate o'<1982-1-1>",
+    "3" : "s(Syed_Nasir_Ismail) dbp:title o'<Speaker_of_the_Dewan_Rakyat>",
+    "4" : "s(Syed_Nasir_Ismail) dbp:years o'<1978>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "7" : "s(syed nasir ismail=Syed_Nasir_Ismail) [served 5th ] o'<speaker=Speaker_of_the_Dewan_Rakyat>"
+  },
+  "abstract" : {
+    "7" : "a prominent politician from the united malays national organisation (umno) â€“ the leading party of the governing barisan nasional coalition â€“ syed nasir ismail<Syed_Nasir_Ismail> served as the 5th speaker<Speaker_of_the_Dewan_Rakyat> of the dewan rakyat from 1978 till his death in 1982\n"
+  }
+}, {
+  "entityIndex" : "entity11082",
+  "entityUrl" : "http://dbpedia.org/resource/Sarah_Parsons",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Sarah_Parsons) dbo:birthDate o'<1987-07-27>",
+    "2" : "s(Sarah_Parsons) dbo:birthDate o'<1987-7-27>",
+    "3" : "s(Sarah_Parsons) dbp:headercolor o'<lightsteelblue>",
+    "4" : "s(Sarah_Parsons) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

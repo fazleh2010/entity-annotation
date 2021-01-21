@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity11915",
+  "entityUrl" : "http://dbpedia.org/resource/Wu_Yuzhang",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Wu_Yuzhang) dbo:birthDate o'<1878-12-30>",
+    "2" : "s(Wu_Yuzhang) dbo:birthPlace o'<Rong_County,_Sichuan>",
+    "3" : "s(Wu_Yuzhang) dbo:deathDate o'<1966-12-12>",
+    "4" : "s(Wu_Yuzhang) dbp:after o'<Cheng_Fangwu>",
+    "5" : "s(Wu_Yuzhang) dbp:before o'<none>",
+    "6" : "s(Wu_Yuzhang) dbp:c o'<æ°¸ç�Š>",
+    "7" : "s(Wu_Yuzhang) dbp:p o'<WÃº YÃ¹zhÄ�ng>",
+    "8" : "s(Wu_Yuzhang) dbp:p o'<YÅ�ngshÄ�n>",
+    "9" : "s(Wu_Yuzhang) dbp:t o'<å�³çŽ‰ç« >",
+    "10" : "s(Wu_Yuzhang) dbp:title o'<President of Renmin University of China>",
+    "11" : "s(Wu_Yuzhang) dbp:years o'<1950>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11916",
+  "entityUrl" : "http://dbpedia.org/resource/Wilhelm_Weber_(gymnast)",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Wilhelm_Weber_(gymnast)) dbo:birthDate o'<1880-1-1>",
+    "2" : "s(Wilhelm_Weber_(gymnast)) dbo:deathDate o'<1963-4-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11917",
+  "entityUrl" : "http://dbpedia.org/resource/William_Madison_Wood",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(William_Madison_Wood) dbo:birthDate o'<1858-0-0>",
+    "2" : "s(William_Madison_Wood) dbo:deathDate o'<1926-2-2>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11918",
+  "entityUrl" : "http://dbpedia.org/resource/William_J._Barney",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(William_J._Barney) dbo:birthDate o'<1867-08-14>",
+    "2" : "s(William_J._Barney) dbo:birthYear o'<1867>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11919",
+  "entityUrl" : "http://dbpedia.org/resource/William_F._Halsey,_Sr.",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(William_F._Halsey,_Sr.) dbo:wikiPageRedirects o'<William_F._Halsey_Sr.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11920",
+  "entityUrl" : "http://dbpedia.org/resource/Warren_Akin,_Sr.",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Warren_Akin,_Sr.) dbo:birthDate o'<1811-10-9>",
+    "2" : "s(Warren_Akin,_Sr.) dbo:deathDate o'<1877-12-17>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,69 @@
+[ {
+  "entityIndex" : "entity11813",
+  "entityUrl" : "http://dbpedia.org/resource/Fernando_de_Toro",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Fernando_de_Toro) dbo:birthDate o'<1950-1-13>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11814",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Toye",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Fred_Toye) dbo:activeYearsStartYear o'<1989>",
+    "2" : "s(Fred_Toye) dbo:almaMater o'<University_of_California,_Santa_Barbara>",
+    "3" : "s(Fred_Toye) dbo:birthDate o'<1967-09-26>",
+    "4" : "s(Fred_Toye) dbo:birthDate o'<1967-9-26>",
+    "5" : "s(Fred_Toye) dbo:birthName o'<Frederick E.O. Toye>",
+    "6" : "s(Fred_Toye) dbo:birthPlace o'<Los_Angeles>",
+    "7" : "s(Fred_Toye) dbo:birthPlace o'<Los_Angeles,_California>",
+    "8" : "s(Fred_Toye) dbo:birthYear o'<1967>",
+    "9" : "s(Fred_Toye) dbo:occupation o'<Fred_Toye__1>",
+    "10" : "s(Fred_Toye) dbo:residence o'<Santa_Barbara,_California>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11815",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Carruthers_Cornell",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Frederick_Carruthers_Cornell) dbo:birthDate o'<1867-5-6>",
+    "2" : "s(Frederick_Carruthers_Cornell) dbo:birthPlace o'<Devon>",
+    "3" : "s(Frederick_Carruthers_Cornell) dbo:deathDate o'<1921-3-6>",
+    "4" : "s(Frederick_Carruthers_Cornell) dbp:id o'<Cornell,+Frederick+Carruthers>",
+    "5" : "s(Frederick_Carruthers_Cornell) dbp:name o'<Frederick Carruthers Cornell>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11816",
+  "entityUrl" : "http://dbpedia.org/resource/Fletcher_Beasley",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11817",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Forest",
+  "dboClass" : "Person_segmentam",
+  "triples" : {
+    "1" : "s(Frank_Forest) dbo:birthDate o'<1896-10-17>",
+    "2" : "s(Frank_Forest) dbo:birthPlace o'<Saint_Paul,_Minnesota>",
+    "3" : "s(Frank_Forest) dbo:deathDate o'<1976-12-23>",
+    "4" : "s(Frank_Forest) dbo:deathPlace o'<Santa_Monica,_California>",
+    "5" : "s(Frank_Forest) dbo:imdbId o'<0286115>",
+    "6" : "s(Frank_Forest) dbp:name o'<Frank Forest>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11818",
+  "entityUrl" : "http://dbpedia.org/resource/Frederick_Adamson",
+  "dboClass" : "Person_segmentam",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

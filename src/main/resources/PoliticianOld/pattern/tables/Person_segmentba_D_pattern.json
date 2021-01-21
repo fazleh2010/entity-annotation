@@ -1,0 +1,79 @@
+[ {
+  "entityIndex" : "entity14092",
+  "entityUrl" : "http://dbpedia.org/resource/David_Vieira_(politician)",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(David_Vieira_(politician)) dbo:almaMater o'<Suffolk_University>",
+    "2" : "s(David_Vieira_(politician)) dbo:party o'<Republican_Party_(United_States)>",
+    "3" : "s(David_Vieira_(politician)) dbo:predecessor o'<Matthew_Patrick_(politician)>",
+    "4" : "s(David_Vieira_(politician)) dbo:residence o'<Teaticket,_Massachusetts>",
+    "5" : "s(David_Vieira_(politician)) dbp:termStart o'<2011>",
+    "6" : "s(David_Vieira_(politician)) dbp:title o'<Member of the Massachusetts House of Representatives from the 3rd Barnstable district>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "6" : "s(david vieira (politician)=David_Vieira_(politician)) [later earned mpa degree ] o'<suffolk university=Suffolk_University>"
+  },
+  "abstract" : {
+    "6" : "david vieira (politician)<David_Vieira_(politician)> later earned an mpa degree from suffolk university<Suffolk_University>\n"
+  }
+}, {
+  "entityIndex" : "entity14093",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_Quataert",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Donald_Quataert) dbo:birthDate o'<1941-9-10>",
+    "2" : "s(Donald_Quataert) dbo:birthPlace o'<Rochester,_New_York>",
+    "3" : "s(Donald_Quataert) dbo:deathDate o'<2011-2-10>",
+    "4" : "s(Donald_Quataert) dbo:deathPlace o'<Binghamton,_New_York>",
+    "5" : "s(Donald_Quataert) dbo:nationality o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14094",
+  "entityUrl" : "http://dbpedia.org/resource/Daniel_Toscan_du_Plantier",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Daniel_Toscan_du_Plantier) dbo:birthDate o'<1941-04-07>",
+    "2" : "s(Daniel_Toscan_du_Plantier) dbo:birthDate o'<1941-4-7>",
+    "3" : "s(Daniel_Toscan_du_Plantier) dbo:birthPlace o'<ChambÃ©ry>",
+    "4" : "s(Daniel_Toscan_du_Plantier) dbo:birthYear o'<1941>",
+    "5" : "s(Daniel_Toscan_du_Plantier) dbo:deathDate o'<2003-02-11>",
+    "6" : "s(Daniel_Toscan_du_Plantier) dbo:deathDate o'<2003-2-11>",
+    "7" : "s(Daniel_Toscan_du_Plantier) dbo:deathPlace o'<Berlin>",
+    "8" : "s(Daniel_Toscan_du_Plantier) dbo:deathYear o'<2003>",
+    "9" : "s(Daniel_Toscan_du_Plantier) dbo:education o'<Institut_d'Etudes_Politiques>",
+    "10" : "s(Daniel_Toscan_du_Plantier) dbo:nationality o'<French_nationality_law>",
+    "11" : "s(Daniel_Toscan_du_Plantier) dbo:occupation o'<Film_producer>",
+    "12" : "s(Daniel_Toscan_du_Plantier) dbo:occupation o'<Daniel_Toscan_du_Plantier__1>",
+    "13" : "s(Daniel_Toscan_du_Plantier) dbo:stateOfOrigin o'<French_nationality_law>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14095",
+  "entityUrl" : "http://dbpedia.org/resource/Doina_%C8%98nep-B%C4%83lan",
+  "dboClass" : "Person_segmentba",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14096",
+  "entityUrl" : "http://dbpedia.org/resource/Dirk_Crois",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Dirk_Crois) dbo:birthDate o'<1961-4-18>",
+    "2" : "s(Dirk_Crois) dbo:birthPlace o'<Bruges>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14097",
+  "entityUrl" : "http://dbpedia.org/resource/Dorothy_Quita_Buchanan",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Dorothy_Quita_Buchanan) dbo:birthDate o'<1945-9-28>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

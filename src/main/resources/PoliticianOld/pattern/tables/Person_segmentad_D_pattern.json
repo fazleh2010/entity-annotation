@@ -1,0 +1,133 @@
+[ {
+  "entityIndex" : "entity11159",
+  "entityUrl" : "http://dbpedia.org/resource/Dmitry_Kozak",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Dmitry_Kozak) dbo:birthDate o'<1958-11-07>",
+    "2" : "s(Dmitry_Kozak) dbo:birthDate o'<1958-11-7>",
+    "3" : "s(Dmitry_Kozak) dbo:birthPlace o'<Ukrainian_SSR>",
+    "4" : "s(Dmitry_Kozak) dbo:birthPlace o'<Soviet_Union>",
+    "5" : "s(Dmitry_Kozak) dbo:birthPlace o'<Kirovohrad_Oblast>",
+    "6" : "s(Dmitry_Kozak) dbo:birthPlace o'<Q4077293>",
+    "7" : "s(Dmitry_Kozak) dbo:office o'<Minister of Regional Development>",
+    "8" : "s(Dmitry_Kozak) dbo:orderInOffice o'<Deputy Prime Minister of Russia>",
+    "9" : "s(Dmitry_Kozak) dbo:predecessor o'<Vladimir_Yakovlev>",
+    "10" : "s(Dmitry_Kozak) dbo:successor o'<Victor_Basargin>",
+    "11" : "s(Dmitry_Kozak) dbo:termPeriod o'<Dmitry_Kozak__1>",
+    "12" : "s(Dmitry_Kozak) dbp:after o'<Grigory_Rapota>",
+    "13" : "s(Dmitry_Kozak) dbp:before o'<Vladimir_Anatolyevich_Yakovlev>",
+    "14" : "s(Dmitry_Kozak) dbp:imagesize o'<220>",
+    "15" : "s(Dmitry_Kozak) dbp:title o'<Presidential Envoy to the Southern Federal District>",
+    "16" : "s(Dmitry_Kozak) dbp:years o'<--09-13>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(dmitry kozak=Dmitry_Kozak) [known cheshire ] o'<part of the=Ukrainian_SSR>",
+    "10" : "s(dmitry kozak=Dmitry_Kozak) [lives in ] o'<moscow=Soviet_Union>"
+  },
+  "abstract" : {
+    "2" : "dmitry kozak<Dmitry_Kozak> is known as the cheshire cat (russian: ð§ðµñˆð¸ñ€ñ�ðºð¸ð¹ ðºð¾ñ‚) because of his smile and is part of the<Ukrainian_SSR> vlast' (russian: ð’ð»ð°ñ�ñ‚ñœ) or power group from st\n",
+    "10" : "as of 2016, dmitry kozak<Dmitry_Kozak> lives in moscow<Soviet_Union> in the same house as sergei ivanov, victor ivanov, and german gref\n"
+  }
+}, {
+  "entityIndex" : "entity11160",
+  "entityUrl" : "http://dbpedia.org/resource/Domenicus_Verwilt",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Domenicus_Verwilt) dbo:birthDate o'<1520-1-1>",
+    "2" : "s(Domenicus_Verwilt) dbo:deathDate o'<1565-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11161",
+  "entityUrl" : "http://dbpedia.org/resource/Dwarkanath_Tagore",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Dwarkanath_Tagore) dbo:birthDate o'<1794-1-1>",
+    "2" : "s(Dwarkanath_Tagore) dbo:birthPlace o'<Bengal_Presidency>",
+    "3" : "s(Dwarkanath_Tagore) dbo:birthPlace o'<British_India>",
+    "4" : "s(Dwarkanath_Tagore) dbo:birthYear o'<1794>",
+    "5" : "s(Dwarkanath_Tagore) dbo:deathDate o'<1847-08-01>",
+    "6" : "s(Dwarkanath_Tagore) dbo:deathDate o'<1846-8-1>",
+    "7" : "s(Dwarkanath_Tagore) dbo:deathPlace o'<England>",
+    "8" : "s(Dwarkanath_Tagore) dbo:deathPlace o'<London>",
+    "9" : "s(Dwarkanath_Tagore) dbo:deathYear o'<1847>",
+    "10" : "s(Dwarkanath_Tagore) dbo:ethnicity o'<Bengali_people>",
+    "11" : "s(Dwarkanath_Tagore) dbo:nationality o'<British_India>",
+    "12" : "s(Dwarkanath_Tagore) dbo:occupation o'<Entrepreneur>",
+    "13" : "s(Dwarkanath_Tagore) dbo:occupation o'<Dwarkanath_Tagore__1>",
+    "14" : "s(Dwarkanath_Tagore) dbo:religion o'<Brahmoism>",
+    "15" : "s(Dwarkanath_Tagore) dbo:stateOfOrigin o'<British_India>",
+    "16" : "s(Dwarkanath_Tagore) dbp:imageSize o'<200>",
+    "17" : "s(Dwarkanath_Tagore) dbp:parents o'<Rammoni Tagore  Menoka DeviAlokasundari Devi adopted Dwarakanath as son.Alokasundari was elder sister of Menoka Devi.>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11162",
+  "entityUrl" : "http://dbpedia.org/resource/Donald_Laycock",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Donald_Laycock) dbo:birthDate o'<1936-1-1>",
+    "2" : "s(Donald_Laycock) dbo:deathDate o'<1988-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11163",
+  "entityUrl" : "http://dbpedia.org/resource/Dean_Marney_(author)",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Dean_Marney_(author)) dbo:birthDate o'<1952-1-1>",
+    "2" : "s(Dean_Marney_(author)) dbo:country o'<United_States>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11164",
+  "entityUrl" : "http://dbpedia.org/resource/Derrek_Lee",
+  "dboClass" : "Person_segmentad",
+  "triples" : {
+    "1" : "s(Derrek_Lee) dbo:birthDate o'<1975-09-06>",
+    "2" : "s(Derrek_Lee) dbo:birthDate o'<1975-9-6>",
+    "3" : "s(Derrek_Lee) dbo:birthPlace o'<Sacramento,_California>",
+    "4" : "s(Derrek_Lee) dbo:debutTeam o'<San_Diego_Padres>",
+    "5" : "s(Derrek_Lee) dbo:position o'<First_baseman>",
+    "6" : "s(Derrek_Lee) dbp:after o'<Bobby_Abreu>",
+    "7" : "s(Derrek_Lee) dbp:after o'<Kelly_Johnson_(baseball)>",
+    "8" : "s(Derrek_Lee) dbp:after o'<Albert_Pujols>",
+    "9" : "s(Derrek_Lee) dbp:awards o'<*2Ã— All-Star>",
+    "10" : "s(Derrek_Lee) dbp:bats o'<Right>",
+    "11" : "s(Derrek_Lee) dbp:before o'<Barry_Bonds>",
+    "12" : "s(Derrek_Lee) dbp:before o'<AdriÃ¡n_BeltrÃ©>",
+    "13" : "s(Derrek_Lee) dbp:before o'<Ryan_Howard>",
+    "14" : "s(Derrek_Lee) dbp:br o'<leede02>",
+    "15" : "s(Derrek_Lee) dbp:brm o'<lee---003der>",
+    "16" : "s(Derrek_Lee) dbp:cube o'<Derrek-Lee>",
+    "17" : "s(Derrek_Lee) dbp:debutdate o'<--04-28>",
+    "18" : "s(Derrek_Lee) dbp:debutleague o'<MLB>",
+    "19" : "s(Derrek_Lee) dbp:debutyear o'<1997>",
+    "20" : "s(Derrek_Lee) dbp:espn o'<3614>",
+    "21" : "s(Derrek_Lee) dbp:fangraphs o'<525>",
+    "22" : "s(Derrek_Lee) dbp:finaldate o'<--09-28>",
+    "23" : "s(Derrek_Lee) dbp:finalleague o'<MLB>",
+    "24" : "s(Derrek_Lee) dbp:finalteam o'<Pittsburgh Pirates>",
+    "25" : "s(Derrek_Lee) dbp:finalyear o'<2011>",
+    "26" : "s(Derrek_Lee) dbp:mlb o'<117601>",
+    "27" : "s(Derrek_Lee) dbp:stat1label o'<Batting_average>",
+    "28" : "s(Derrek_Lee) dbp:stat1value o'<0.281>",
+    "29" : "s(Derrek_Lee) dbp:stat3label o'<Home runs>",
+    "30" : "s(Derrek_Lee) dbp:stat3value o'<331>",
+    "31" : "s(Derrek_Lee) dbp:stat4label o'<Run_batted_in>",
+    "32" : "s(Derrek_Lee) dbp:stat4value o'<1078>",
+    "33" : "s(Derrek_Lee) dbp:statleague o'<MLB>",
+    "34" : "s(Derrek_Lee) dbp:teams o'<*San Diego Padres>",
+    "35" : "s(Derrek_Lee) dbp:throws o'<Right>",
+    "36" : "s(Derrek_Lee) dbp:title o'<Major_League_Baseball_Player_of_the_Month>",
+    "37" : "s(Derrek_Lee) dbp:title o'<List_of_National_League_Slugging_Percentage_Leaders>",
+    "38" : "s(Derrek_Lee) dbp:years o'<September 2009>",
+    "39" : "s(Derrek_Lee) dbp:years o'<April 2005>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

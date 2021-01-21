@@ -1,0 +1,89 @@
+[ {
+  "entityIndex" : "entity11301",
+  "entityUrl" : "http://dbpedia.org/resource/Beno_Lapajne",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Beno_Lapajne) dbo:birthDate o'<1973-06-10>",
+    "2" : "s(Beno_Lapajne) dbo:birthDate o'<1973-6-10>",
+    "3" : "s(Beno_Lapajne) dbo:birthPlace o'<Ljubljana>",
+    "4" : "s(Beno_Lapajne) dbo:birthPlace o'<Socialist_Federal_Republic_of_Yugoslavia>",
+    "5" : "s(Beno_Lapajne) dbp:after o'<UrÅ¡ka_Å½olnir>",
+    "6" : "s(Beno_Lapajne) dbp:before o'<Iztok_ÄŒop>",
+    "7" : "s(Beno_Lapajne) dbp:championshipsAsPlayer o'<9>",
+    "8" : "s(Beno_Lapajne) dbp:currentPosition o'<Goalkeeper>",
+    "9" : "s(Beno_Lapajne) dbp:currentTeam o'<Slovenian National Team,RK Celje Pivovarna LaÅ¡ko>",
+    "10" : "s(Beno_Lapajne) dbp:previousTeams o'<RK Inles, RK Celje, RK Celje Pivovarna LaÅ¡ko, RK Gorenje, RK Prule, US Ivry, RK Gold Club, RK Zagreb, BM Aragon>",
+    "11" : "s(Beno_Lapajne) dbp:title o'<Flagbearer for>",
+    "12" : "s(Beno_Lapajne) dbp:years o'<2004_Summer_Olympics>",
+    "13" : "s(Beno_Lapajne) dbp:yearsWithTeam o'<15>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11302",
+  "entityUrl" : "http://dbpedia.org/resource/Beverley_Goddard",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Beverley_Goddard) dbo:birthDate o'<1956-8-28>",
+    "2" : "s(Beverley_Goddard) dbo:birthPlace o'<Barbados>",
+    "3" : "s(Beverley_Goddard) dbp:nation o'<GBR2>",
+    "4" : "s(Beverley_Goddard) dbp:sport o'<Women's Athletics>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11303",
+  "entityUrl" : "http://dbpedia.org/resource/Barry_England",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Barry_England) dbo:birthDate o'<1932-3-16>",
+    "2" : "s(Barry_England) dbo:birthPlace o'<London>",
+    "3" : "s(Barry_England) dbo:deathDate o'<2009-5-21>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11304",
+  "entityUrl" : "http://dbpedia.org/resource/Brady_Rawlings",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Brady_Rawlings) dbo:birthDate o'<1981-6-10>",
+    "2" : "s(Brady_Rawlings) dbo:birthPlace o'<Devonport,_Tasmania>",
+    "3" : "s(Brady_Rawlings) dbp:birthDate o'<1981-06-10>",
+    "4" : "s(Brady_Rawlings) dbp:birthPlace o'<Devonport,_Tasmania>",
+    "5" : "s(Brady_Rawlings) dbp:careerhighlights o'<*Syd Barker Medal 2004, 2006, 2010>",
+    "6" : "s(Brady_Rawlings) dbp:draftpick o'<No. 15, 1998 National Draft,>",
+    "7" : "s(Brady_Rawlings) dbp:games(goals)_ o'<245>",
+    "8" : "s(Brady_Rawlings) dbp:heightweight o'<184>",
+    "9" : "s(Brady_Rawlings) dbp:nationalgames(goals)_ o'<2>",
+    "10" : "s(Brady_Rawlings) dbp:nationalteams o'<Australian_International_rules_football_team>",
+    "11" : "s(Brady_Rawlings) dbp:nationalyears o'<2004>",
+    "12" : "s(Brady_Rawlings) dbp:originalteam o'<Tassie Mariners>",
+    "13" : "s(Brady_Rawlings) dbp:statsend o'<2011>",
+    "14" : "s(Brady_Rawlings) dbp:years o'<1999>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11305",
+  "entityUrl" : "http://dbpedia.org/resource/Brewster_Ghiselin",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Brewster_Ghiselin) dbo:birthDate o'<1903-6-13>",
+    "2" : "s(Brewster_Ghiselin) dbo:deathDate o'<2002-6-11>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11306",
+  "entityUrl" : "http://dbpedia.org/resource/Boniface_II,_Margrave_of_Tuscany",
+  "dboClass" : "Person_segmentaj",
+  "triples" : {
+    "1" : "s(Boniface_II,_Margrave_of_Tuscany) dbo:birthDate o'<788-1-1>",
+    "2" : "s(Boniface_II,_Margrave_of_Tuscany) dbo:deathDate o'<838-1-1>",
+    "3" : "s(Boniface_II,_Margrave_of_Tuscany) dbp:title o'<Margrave_of_Tuscany>",
+    "4" : "s(Boniface_II,_Margrave_of_Tuscany) dbp:years o'<828>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

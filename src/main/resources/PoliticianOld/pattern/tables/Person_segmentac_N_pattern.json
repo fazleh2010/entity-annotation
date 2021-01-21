@@ -1,0 +1,90 @@
+[ {
+  "entityIndex" : "entity11046",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Green",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Nicholas_Green) dbo:birthDate o'<1987-09-09>",
+    "2" : "s(Nicholas_Green) dbo:birthDate o'<1987-9-9>",
+    "3" : "s(Nicholas_Green) dbo:birthPlace o'<California>",
+    "4" : "s(Nicholas_Green) dbo:birthPlace o'<San_Francisco>",
+    "5" : "s(Nicholas_Green) dbo:birthPlace o'<Sonoma_County,_California>",
+    "6" : "s(Nicholas_Green) dbo:birthYear o'<1987>",
+    "7" : "s(Nicholas_Green) dbo:deathDate o'<1994-10-01>",
+    "8" : "s(Nicholas_Green) dbo:deathDate o'<1994-10-1>",
+    "9" : "s(Nicholas_Green) dbo:deathPlace o'<Italy>",
+    "10" : "s(Nicholas_Green) dbo:deathPlace o'<Messina>",
+    "11" : "s(Nicholas_Green) dbo:deathYear o'<1994>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11047",
+  "entityUrl" : "http://dbpedia.org/resource/No%C3%ABl_Kinsella",
+  "dboClass" : "Person_segmentac",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11048",
+  "entityUrl" : "http://dbpedia.org/resource/Neville_Figgis",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Neville_Figgis) dbo:birthDate o'<1866-1-1>",
+    "2" : "s(Neville_Figgis) dbo:deathDate o'<1919-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11049",
+  "entityUrl" : "http://dbpedia.org/resource/Nathan_Bryan",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Nathan_Bryan) dbo:birthDate o'<1748-1-1>",
+    "2" : "s(Nathan_Bryan) dbo:birthPlace o'<Jones_County,_North_Carolina>",
+    "3" : "s(Nathan_Bryan) dbo:country o'<United_States>",
+    "4" : "s(Nathan_Bryan) dbo:deathDate o'<1798-6-4>",
+    "5" : "s(Nathan_Bryan) dbo:deathPlace o'<Philadelphia>",
+    "6" : "s(Nathan_Bryan) dbp:title o'<Member of the U.S. House of Representatives>",
+    "7" : "s(Nathan_Bryan) dbp:title o'<from North Carolina's 10th congressional district>",
+    "8" : "s(Nathan_Bryan) dbp:years o'<1795>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "8" : "s(nathan bryan=Nathan_Bryan) [died in office on june ] o'<philadelphia=Philadelphia>"
+  },
+  "abstract" : {
+    "8" : "congress; nathan bryan<Nathan_Bryan> died in office on june 4, 1798 in philadelphia<Philadelphia>, where nathan bryan<Nathan_Bryan> is buried\n"
+  }
+}, {
+  "entityIndex" : "entity11050",
+  "entityUrl" : "http://dbpedia.org/resource/Nathaniel_Bagshaw_Ward",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Nathaniel_Bagshaw_Ward) dbo:birthDate o'<1791-1-1>",
+    "2" : "s(Nathaniel_Bagshaw_Ward) dbo:birthPlace o'<London>",
+    "3" : "s(Nathaniel_Bagshaw_Ward) dbo:deathDate o'<1868-6-4>",
+    "4" : "s(Nathaniel_Bagshaw_Ward) dbo:deathPlace o'<Sussex>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11051",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_MacKenzie_(politician)",
+  "dboClass" : "Person_segmentac",
+  "triples" : {
+    "1" : "s(Norman_MacKenzie_(politician)) dbo:award o'<Canadian_Forces_Decoration>",
+    "2" : "s(Norman_MacKenzie_(politician)) dbo:award o'<Military_Medal>",
+    "3" : "s(Norman_MacKenzie_(politician)) dbo:birthDate o'<1894-01-05>",
+    "4" : "s(Norman_MacKenzie_(politician)) dbo:birthDate o'<1894-1-5>",
+    "5" : "s(Norman_MacKenzie_(politician)) dbo:birthPlace o'<Nova_Scotia>",
+    "6" : "s(Norman_MacKenzie_(politician)) dbo:birthPlace o'<Pugwash,_Nova_Scotia>",
+    "7" : "s(Norman_MacKenzie_(politician)) dbo:deathDate o'<1986-01-26>",
+    "8" : "s(Norman_MacKenzie_(politician)) dbo:deathDate o'<1986-1-26>",
+    "9" : "s(Norman_MacKenzie_(politician)) dbo:office o'<Senatorfor University-Point Grey, British Columbia>",
+    "10" : "s(Norman_MacKenzie_(politician)) dbo:termPeriod o'<Norman_MacKenzie_(politician)__1>",
+    "11" : "s(Norman_MacKenzie_(politician)) dbp:appointed o'<Lester_B._Pearson>",
+    "12" : "s(Norman_MacKenzie_(politician)) dbp:honorificPrefix o'<The Hon.>",
+    "13" : "s(Norman_MacKenzie_(politician)) dbp:party o'<Independent Liberal>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

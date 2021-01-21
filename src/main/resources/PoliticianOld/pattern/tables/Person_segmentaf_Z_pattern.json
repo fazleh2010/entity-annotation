@@ -1,0 +1,97 @@
+[ {
+  "entityIndex" : "entity10791",
+  "entityUrl" : "http://dbpedia.org/resource/Zahra_Shojaei",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10792",
+  "entityUrl" : "http://dbpedia.org/resource/Zalmay_A._Gulzad",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10793",
+  "entityUrl" : "http://dbpedia.org/resource/Ze_Rong",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ze_Rong) dbo:birthDate o'<161-1-1>",
+    "2" : "s(Ze_Rong) dbo:deathDate o'<197-1-1>",
+    "3" : "s(Ze_Rong) dbp:deathDate o'<195>",
+    "4" : "s(Ze_Rong) dbp:name o'<Ze Rong>",
+    "5" : "s(Ze_Rong) dbp:pinyin o'<ZÃ© RÃ³ng>",
+    "6" : "s(Ze_Rong) dbp:simp o'<ç¬®èž�>",
+    "7" : "s(Ze_Rong) dbp:title o'<Warlord>",
+    "8" : "s(Ze_Rong) dbp:trad o'<ç¬®èž�>",
+    "9" : "s(Ze_Rong) dbp:wg o'<Tse Jung>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10794",
+  "entityUrl" : "http://dbpedia.org/resource/Zadok_Casey",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Zadok_Casey) dbo:birthDate o'<1796-03-07>",
+    "2" : "s(Zadok_Casey) dbo:birthDate o'<1796-3-7>",
+    "3" : "s(Zadok_Casey) dbo:birthPlace o'<Greene_County,_Georgia>",
+    "4" : "s(Zadok_Casey) dbo:deathDate o'<1862-09-04>",
+    "5" : "s(Zadok_Casey) dbo:deathDate o'<1862-9-4>",
+    "6" : "s(Zadok_Casey) dbo:deathPlace o'<Caseyville,_Illinois>",
+    "7" : "s(Zadok_Casey) dbo:governor o'<John_Reynolds_(U.S._politician)>",
+    "8" : "s(Zadok_Casey) dbo:office o'<4thLieutenant Governor of Illinois>",
+    "9" : "s(Zadok_Casey) dbo:party o'<Democratic_Party_(United_States)>",
+    "10" : "s(Zadok_Casey) dbo:predecessor o'<William_Kinney>",
+    "11" : "s(Zadok_Casey) dbo:region o'<Illinois>",
+    "12" : "s(Zadok_Casey) dbo:successor o'<John_Alexander_McClernand>",
+    "13" : "s(Zadok_Casey) dbo:successor o'<William_Lee_D._Ewing>",
+    "14" : "s(Zadok_Casey) dbo:termPeriod o'<Zadok_Casey__1>",
+    "15" : "s(Zadok_Casey) dbo:termPeriod o'<Zadok_Casey__2>",
+    "16" : "s(Zadok_Casey) dbp:after o'<John_Alexander_McClernand>",
+    "17" : "s(Zadok_Casey) dbp:after o'<William_Lee_D._Ewing>",
+    "18" : "s(Zadok_Casey) dbp:before o'<William_Kinney>",
+    "19" : "s(Zadok_Casey) dbp:before o'<District created>",
+    "20" : "s(Zadok_Casey) dbp:district o'<2>",
+    "21" : "s(Zadok_Casey) dbp:predecessor o'<District created>",
+    "22" : "s(Zadok_Casey) dbp:state o'<Illinois>",
+    "23" : "s(Zadok_Casey) dbp:title o'<List_of_lieutenant_governors_of_Illinois>",
+    "24" : "s(Zadok_Casey) dbp:years o'<1830>",
+    "25" : "s(Zadok_Casey) dbp:years o'<1833>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10795",
+  "entityUrl" : "http://dbpedia.org/resource/Zofia_Czeska",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Zofia_Czeska) dbo:beatifiedBy o'<Angelo_Amato>",
+    "2" : "s(Zofia_Czeska) dbo:beatifiedDate o'<2013-06-09>",
+    "3" : "s(Zofia_Czeska) dbo:beatifiedPlace o'<Poland>",
+    "4" : "s(Zofia_Czeska) dbo:birthDate o'<1584-1-1>",
+    "5" : "s(Zofia_Czeska) dbo:birthPlace o'<Poland>",
+    "6" : "s(Zofia_Czeska) dbo:birthPlace o'<Gmina_Czarnocin,_ÅšwiÄ™tokrzyskie_Voivodeship>",
+    "7" : "s(Zofia_Czeska) dbo:birthPlace o'<Kazimierski>",
+    "8" : "s(Zofia_Czeska) dbo:birthYear o'<1584>",
+    "9" : "s(Zofia_Czeska) dbo:deathDate o'<1650-04-01>",
+    "10" : "s(Zofia_Czeska) dbo:deathDate o'<1650-4-1>",
+    "11" : "s(Zofia_Czeska) dbo:deathPlace o'<KrakÃ³w>",
+    "12" : "s(Zofia_Czeska) dbo:deathPlace o'<Poland>",
+    "13" : "s(Zofia_Czeska) dbo:deathYear o'<1650>",
+    "14" : "s(Zofia_Czeska) dbo:title o'<Nun>",
+    "15" : "s(Zofia_Czeska) dbo:veneratedIn o'<Roman_Catholic_Church>",
+    "16" : "s(Zofia_Czeska) dbp:attributes o'<Nun's habit>",
+    "17" : "s(Zofia_Czeska) dbp:feastDay o'<--04-01>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10796",
+  "entityUrl" : "http://dbpedia.org/resource/Zbylut_Twardowski",
+  "dboClass" : "Person_segmentaf",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

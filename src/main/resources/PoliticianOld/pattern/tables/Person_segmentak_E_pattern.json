@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity11482",
+  "entityUrl" : "http://dbpedia.org/resource/Emmanuel_Shaw",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Emmanuel_Shaw) dbo:birthDate o'<1946-7-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11483",
+  "entityUrl" : "http://dbpedia.org/resource/Eric_Hahn",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Eric_Hahn) dbo:birthDate o'<1960-03-19>",
+    "2" : "s(Eric_Hahn) dbo:birthDate o'<1960-3-19>",
+    "3" : "s(Eric_Hahn) dbo:birthYear o'<1960>",
+    "4" : "s(Eric_Hahn) dbo:nationality o'<United_States>",
+    "5" : "s(Eric_Hahn) dbo:residence o'<Palo_Alto,_California>",
+    "6" : "s(Eric_Hahn) dbp:children o'<Two sons>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11484",
+  "entityUrl" : "http://dbpedia.org/resource/Eugen_von_Keyserling",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Eugen_von_Keyserling) dbo:birthDate o'<1832-3-22>",
+    "2" : "s(Eugen_von_Keyserling) dbo:birthPlace o'<Pakruojis>",
+    "3" : "s(Eugen_von_Keyserling) dbo:deathDate o'<1889-4-4>",
+    "4" : "s(Eugen_von_Keyserling) dbo:deathPlace o'<DzierÅ¼oniÃ³w>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11485",
+  "entityUrl" : "http://dbpedia.org/resource/Eggert_Magn%C3%BAsson",
+  "dboClass" : "Person_segmentak",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11486",
+  "entityUrl" : "http://dbpedia.org/resource/Edward_S._Lacey",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Edward_S._Lacey) dbo:birthDate o'<1835-11-26>",
+    "2" : "s(Edward_S._Lacey) dbo:deathDate o'<1916-10-2>",
+    "3" : "s(Edward_S._Lacey) dbo:deathPlace o'<Evanston,_Illinois>",
+    "4" : "s(Edward_S._Lacey) dbp:after o'<A._Barton_Hepburn>",
+    "5" : "s(Edward_S._Lacey) dbp:after o'<Philip_T._Van_Zile>",
+    "6" : "s(Edward_S._Lacey) dbp:after o'<James_O'Donnell_(politician)>",
+    "7" : "s(Edward_S._Lacey) dbp:before o'<Jonas_H._McGowan>",
+    "8" : "s(Edward_S._Lacey) dbp:before o'<Henry_P._Baldwin>",
+    "9" : "s(Edward_S._Lacey) dbp:before o'<William_L._Trenholm>",
+    "10" : "s(Edward_S._Lacey) dbp:title o'<Michigan_Republican_Party>",
+    "11" : "s(Edward_S._Lacey) dbp:title o'<United_States_Congressional_Delegations_from_Michigan>",
+    "12" : "s(Edward_S._Lacey) dbp:title o'<Comptroller_of_the_Currency>",
+    "13" : "s(Edward_S._Lacey) dbp:years o'<1881>",
+    "14" : "s(Edward_S._Lacey) dbp:years o'<1882>",
+    "15" : "s(Edward_S._Lacey) dbp:years o'<1889>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11487",
+  "entityUrl" : "http://dbpedia.org/resource/Elliot_Koffman",
+  "dboClass" : "Person_segmentak",
+  "triples" : {
+    "1" : "s(Elliot_Koffman) dbo:birthDate o'<1942-05-07>",
+    "2" : "s(Elliot_Koffman) dbo:birthDate o'<1942-5-7>",
+    "3" : "s(Elliot_Koffman) dbo:birthPlace o'<Massachusetts>",
+    "4" : "s(Elliot_Koffman) dbo:birthPlace o'<Boston>",
+    "5" : "s(Elliot_Koffman) dbo:birthYear o'<1942>",
+    "6" : "s(Elliot_Koffman) dbo:nationality o'<United_States>",
+    "7" : "s(Elliot_Koffman) dbo:occupation o'<Elliot_Koffman__1>",
+    "8" : "s(Elliot_Koffman) dbo:occupation o'<Computer_scientist>",
+    "9" : "s(Elliot_Koffman) dbo:stateOfOrigin o'<United_States>",
+    "10" : "s(Elliot_Koffman) dbp:knownFor o'<Educational development and textbooks>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

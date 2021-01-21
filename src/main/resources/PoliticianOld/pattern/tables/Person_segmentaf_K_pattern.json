@@ -1,0 +1,126 @@
+[ {
+  "entityIndex" : "entity10701",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Sheridan",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Keith_Sheridan) dbo:birthDate o'<1971-3-26>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10702",
+  "entityUrl" : "http://dbpedia.org/resource/Kristin_Booth",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Kristin_Booth) dbo:activeYearsStartYear o'<1997>",
+    "2" : "s(Kristin_Booth) dbo:birthDate o'<1974-08-28>",
+    "3" : "s(Kristin_Booth) dbo:birthDate o'<1974-8-28>",
+    "4" : "s(Kristin_Booth) dbo:birthPlace o'<Kitchener,_Ontario>",
+    "5" : "s(Kristin_Booth) dbo:birthYear o'<1974>",
+    "6" : "s(Kristin_Booth) dbo:imdbId o'<0095746>",
+    "7" : "s(Kristin_Booth) dbo:occupation o'<Kristin_Booth__1>",
+    "8" : "s(Kristin_Booth) dbp:birthPlace o'<Kitchener, Ontario, Canada>",
+    "9" : "s(Kristin_Booth) dbp:name o'<Kristin Booth>",
+    "10" : "s(Kristin_Booth) dbp:spouse o'<Tim Ware>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10703",
+  "entityUrl" : "http://dbpedia.org/resource/Keith_Barron",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Keith_Barron) dbo:activeYearsStartYear o'<1961>",
+    "2" : "s(Keith_Barron) dbo:birthDate o'<1934-08-08>",
+    "3" : "s(Keith_Barron) dbo:birthDate o'<1934-8-8>",
+    "4" : "s(Keith_Barron) dbo:birthName o'<Keith Barron>",
+    "5" : "s(Keith_Barron) dbo:birthPlace o'<West_Riding_of_Yorkshire>",
+    "6" : "s(Keith_Barron) dbo:birthPlace o'<Mexborough>",
+    "7" : "s(Keith_Barron) dbo:birthYear o'<1934>",
+    "8" : "s(Keith_Barron) dbo:occupation o'<Television_presenter>",
+    "9" : "s(Keith_Barron) dbo:occupation o'<Keith_Barron__1>",
+    "10" : "s(Keith_Barron) dbo:occupation o'<Actor>",
+    "11" : "s(Keith_Barron) dbp:children o'<James>",
+    "12" : "s(Keith_Barron) dbp:spouse o'<Mary Pickard>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(keith barron=Keith_Barron) [born 8 august 1934 ] o'<actor=Actor>"
+  },
+  "abstract" : {
+    "1" : "keith barron<Keith_Barron> (born 8 august 1934) is an english actor<Actor> and television presenter<Television_presenter>, well-known from numerous roles on british television<Television_presenter> from the 1960s to the present day"
+  }
+}, {
+  "entityIndex" : "entity10704",
+  "entityUrl" : "http://dbpedia.org/resource/Kamil_Iskhakov",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Kamil_Iskhakov) dbo:birthDate o'<1949-02-08>",
+    "2" : "s(Kamil_Iskhakov) dbo:birthDate o'<1949-2-8>",
+    "3" : "s(Kamil_Iskhakov) dbo:birthPlace o'<Tatar_Autonomous_Soviet_Socialist_Republic>",
+    "4" : "s(Kamil_Iskhakov) dbo:birthPlace o'<Kazan>",
+    "5" : "s(Kamil_Iskhakov) dbo:birthPlace o'<Russian_Soviet_Federative_Socialist_Republic>",
+    "6" : "s(Kamil_Iskhakov) dbo:birthPlace o'<USSR>",
+    "7" : "s(Kamil_Iskhakov) dbo:office o'<Mayor of Kazan>",
+    "8" : "s(Kamil_Iskhakov) dbo:successor o'<Ilsur_Metshin>",
+    "9" : "s(Kamil_Iskhakov) dbo:termPeriod o'<Kamil_Iskhakov__1>",
+    "10" : "s(Kamil_Iskhakov) dbp:after o'<Ä°lsur_MetÅŸin>",
+    "11" : "s(Kamil_Iskhakov) dbp:after o'<Oleg_Safonov>",
+    "12" : "s(Kamil_Iskhakov) dbp:before o'<Konstantin_Pulikovsky>",
+    "13" : "s(Kamil_Iskhakov) dbp:before o'<Revo Idiatullin>",
+    "14" : "s(Kamil_Iskhakov) dbp:predecessor o'<Revo Idiatullin>",
+    "15" : "s(Kamil_Iskhakov) dbp:title o'<Mayor_of_Kazan>",
+    "16" : "s(Kamil_Iskhakov) dbp:title o'<Presidential Envoy to the Far Eastern Federal District>",
+    "17" : "s(Kamil_Iskhakov) dbp:years o'<1991>",
+    "18" : "s(Kamil_Iskhakov) dbp:years o'<--11-14>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(kamil iskhakov=Kamil_Iskhakov) [ethnic ] o'<tatar=Tatar_Autonomous_Soviet_Socialist_Republic>",
+    "3" : "s(kamil iskhakov=Kamil_Iskhakov) [graduate of ] o'<kazan=Kazan>",
+    "4" : "s(kamil iskhakov=Kamil_Iskhakov) [director of ] o'<kazan=Kazan>",
+    "5" : "s(kamil iskhakov=Kamil_Iskhakov) [chairman of ] o'<kazan=Kazan>"
+  },
+  "abstract" : {
+    "2" : "kamil iskhakov<Kamil_Iskhakov> is an ethnic tatar<Tatar_Autonomous_Soviet_Socialist_Republic>\n",
+    "3" : "kamil iskhakov<Kamil_Iskhakov> is a graduate of kazan<Kazan> technical school and physical department kazan<Kazan> state university\n",
+    "4" : "in the 1980s, kamil iskhakov<Kamil_Iskhakov> was the director of the kazan<Kazan> science and education center and the kazan<Kazan> science and manufacturing association\n",
+    "5" : "from 1989-1991, kamil iskhakov<Kamil_Iskhakov> was the chairman of the kazan<Kazan> city council executive committee\n"
+  }
+}, {
+  "entityIndex" : "entity10705",
+  "entityUrl" : "http://dbpedia.org/resource/Kay_Alden",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Kay_Alden) dbo:activeYearsStartYear o'<1974>",
+    "2" : "s(Kay_Alden) dbo:birthDate o'<1946-10-24>",
+    "3" : "s(Kay_Alden) dbo:birthName o'<Priscilla Kay Alden>",
+    "4" : "s(Kay_Alden) dbo:birthPlace o'<Hutchinson,_Kansas>",
+    "5" : "s(Kay_Alden) dbo:birthYear o'<1946>",
+    "6" : "s(Kay_Alden) dbo:occupation o'<Kay_Alden__1>",
+    "7" : "s(Kay_Alden) dbp:after o'<Scott_Hamner>",
+    "8" : "s(Kay_Alden) dbp:after o'<Lynn_Marie_Latham>",
+    "9" : "s(Kay_Alden) dbp:after o'<Bradley_Bell>",
+    "10" : "s(Kay_Alden) dbp:after o'<Michael Minnis>",
+    "11" : "s(Kay_Alden) dbp:before o'<William_J._Bell>",
+    "12" : "s(Kay_Alden) dbp:before o'<Bradley_Bell>",
+    "13" : "s(Kay_Alden) dbp:title o'<Head Writer of The Bold and the Beautiful>",
+    "14" : "s(Kay_Alden) dbp:title o'<Head Writer of The Young and the Restless>",
+    "15" : "s(Kay_Alden) dbp:years o'<--04-16>",
+    "16" : "s(Kay_Alden) dbp:years o'<--12-22>",
+    "17" : "s(Kay_Alden) dbp:years o'<--02-05>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10706",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Andrew",
+  "dboClass" : "Person_segmentaf",
+  "triples" : {
+    "1" : "s(Ken_Andrew) dbo:birthDate o'<1943-5-30>",
+    "2" : "s(Ken_Andrew) dbo:office o'<Federal chairman of the Democratic Party>",
+    "3" : "s(Ken_Andrew) dbo:termPeriod o'<Ken_Andrew__1>",
+    "4" : "s(Ken_Andrew) dbp:termEnd o'<1994>",
+    "5" : "s(Ken_Andrew) dbp:termStart o'<1991>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,110 @@
+[ {
+  "entityIndex" : "entity10731",
+  "entityUrl" : "http://dbpedia.org/resource/Peatrig_Hill",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Peatrig_Hill) dbo:locatedInArea o'<Scotland>",
+    "2" : "s(Peatrig_Hill) dbo:locatedInArea o'<Moorfoot_Hills>",
+    "3" : "s(Peatrig_Hill) dbo:nationalTopographicSystemMapNumber o'<OSLandranger 73>",
+    "4" : "s(Peatrig_Hill) dbp:gridRefUk o'<NT360487>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10732",
+  "entityUrl" : "http://dbpedia.org/resource/Preikestolen",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Preikestolen) dbo:elevation o'<604.0>",
+    "2" : "s(Preikestolen) dbo:locatedInArea o'<Norway>",
+    "3" : "s(Preikestolen) dbo:locatedInArea o'<Rogaland>",
+    "4" : "s(Preikestolen) dbo:type o'<Granite>",
+    "5" : "s(Preikestolen) dbp:label o'<Preikestolen>",
+    "6" : "s(Preikestolen) dbp:labelPosition o'<bottom>",
+    "7" : "s(Preikestolen) dbp:latD o'<58>",
+    "8" : "s(Preikestolen) dbp:latM o'<59>",
+    "9" : "s(Preikestolen) dbp:latNs o'<N>",
+    "10" : "s(Preikestolen) dbp:latS o'<10>",
+    "11" : "s(Preikestolen) dbp:longD o'<6>",
+    "12" : "s(Preikestolen) dbp:longEw o'<E>",
+    "13" : "s(Preikestolen) dbp:longM o'<11>",
+    "14" : "s(Preikestolen) dbp:longS o'<19>",
+    "15" : "s(Preikestolen) dbp:mapAlt o'<Map of the location>",
+    "16" : "s(Preikestolen) dbp:mapCaption o'<Location in Rogaland>",
+    "17" : "s(Preikestolen) dbp:photo o'<Lysefjorden - Man standing on Preikestolen.JPG>",
+    "18" : "s(Preikestolen) dbp:photoCaption o'<Preikestolen and Lysefjorden>",
+    "19" : "s(Preikestolen) dbp:region o'<NO>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(preikestolen=Preikestolen) [prekestolen english preachers pulpit ] o'<rogaland county=Rogaland>"
+  },
+  "abstract" : {
+    "1" : "preikestolen<Preikestolen> or prekestolen (english: preacher's pulpit or pulpit rock) is a famous tourist attraction in the municipality of forsand in rogaland county<Rogaland>, norway<Norway>"
+  }
+}, {
+  "entityIndex" : "entity10733",
+  "entityUrl" : "http://dbpedia.org/resource/Puy_de_D%C3%B4me",
+  "dboClass" : "dbo:Mountain",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10734",
+  "entityUrl" : "http://dbpedia.org/resource/Par%C3%ADcutin",
+  "dboClass" : "dbo:Mountain",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10735",
+  "entityUrl" : "http://dbpedia.org/resource/Pumori",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Pumori) dbo:elevation o'<7161.0>",
+    "2" : "s(Pumori) dbo:firstAscentPerson o'<Gerhard_Lenser>",
+    "3" : "s(Pumori) dbo:firstAscentYear o'<1962>",
+    "4" : "s(Pumori) dbo:locatedInArea o'<Nepal>",
+    "5" : "s(Pumori) dbo:mountainRange o'<Himalayas>",
+    "6" : "s(Pumori) dbo:prominence o'<1278.0>",
+    "7" : "s(Pumori) dbp:easiestRoute o'<ice climb>",
+    "8" : "s(Pumori) dbp:labelPosition o'<left>",
+    "9" : "s(Pumori) dbp:latD o'<28>",
+    "10" : "s(Pumori) dbp:latM o'<0>",
+    "11" : "s(Pumori) dbp:latNs o'<N>",
+    "12" : "s(Pumori) dbp:latS o'<53>",
+    "13" : "s(Pumori) dbp:longD o'<86>",
+    "14" : "s(Pumori) dbp:longEw o'<E>",
+    "15" : "s(Pumori) dbp:longM o'<49>",
+    "16" : "s(Pumori) dbp:longS o'<41>",
+    "17" : "s(Pumori) dbp:mapCaption o'<Location in Nepal>",
+    "18" : "s(Pumori) dbp:photo o'<Mt_Pumori.jpg>",
+    "19" : "s(Pumori) dbp:photoCaption o'<(View of Pumori from Everest Base Camp, Khumbu Valley)>",
+    "20" : "s(Pumori) dbp:regionCode o'<NP>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10736",
+  "entityUrl" : "http://dbpedia.org/resource/Pilot_Mountain_(North_Carolina)",
+  "dboClass" : "dbo:Mountain",
+  "triples" : {
+    "1" : "s(Pilot_Mountain_(North_Carolina)) dbo:elevation o'<737.921>",
+    "2" : "s(Pilot_Mountain_(North_Carolina)) dbo:locatedInArea o'<Surry_County,_North_Carolina>",
+    "3" : "s(Pilot_Mountain_(North_Carolina)) dbo:locatedInArea o'<North_Carolina>",
+    "4" : "s(Pilot_Mountain_(North_Carolina)) dbo:mountainRange o'<Sauratown_Mountains>",
+    "5" : "s(Pilot_Mountain_(North_Carolina)) dbo:nationalTopographicSystemMapNumber o'<USGSPinnacle>",
+    "6" : "s(Pilot_Mountain_(North_Carolina)) dbp:easiestRoute o'<Goldilocks, Grandpa's Belay. Big Pinnacle is closed to climbing.>",
+    "7" : "s(Pilot_Mountain_(North_Carolina)) dbp:labelPosition o'<right>",
+    "8" : "s(Pilot_Mountain_(North_Carolina)) dbp:latD o'<36.3401>",
+    "9" : "s(Pilot_Mountain_(North_Carolina)) dbp:latNs o'<N>",
+    "10" : "s(Pilot_Mountain_(North_Carolina)) dbp:longD o'<80.4742>",
+    "11" : "s(Pilot_Mountain_(North_Carolina)) dbp:longEw o'<W>",
+    "12" : "s(Pilot_Mountain_(North_Carolina)) dbp:mapCaption o'<Location in North Carolina>",
+    "13" : "s(Pilot_Mountain_(North_Carolina)) dbp:mapSize o'<250>",
+    "14" : "s(Pilot_Mountain_(North_Carolina)) dbp:photo o'<Pilot Mtn Knob 2.JPG>",
+    "15" : "s(Pilot_Mountain_(North_Carolina)) dbp:photoCaption o'<The Big Pinnacle of Pilot Mountain, as viewed from Little Pinnacle Overlook.>",
+    "16" : "s(Pilot_Mountain_(North_Carolina)) dbp:regionCode o'<US-NC>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

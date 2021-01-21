@@ -1,0 +1,198 @@
+[ {
+  "entityIndex" : "entity10719",
+  "entityUrl" : "http://dbpedia.org/resource/Nicolas_Cage",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Nicolas_Cage) dbo:activeYearsStartYear o'<1981>",
+    "2" : "s(Nicolas_Cage) dbo:birthDate o'<1964-01-07>",
+    "3" : "s(Nicolas_Cage) dbo:birthDate o'<1964-1-7>",
+    "4" : "s(Nicolas_Cage) dbo:birthName o'<Nicolas Kim Coppola>",
+    "5" : "s(Nicolas_Cage) dbo:birthPlace o'<Long_Beach,_California>",
+    "6" : "s(Nicolas_Cage) dbo:birthYear o'<1964>",
+    "7" : "s(Nicolas_Cage) dbo:occupation o'<Nicolas_Cage__1>",
+    "8" : "s(Nicolas_Cage) dbo:parent o'<August_Coppola>",
+    "9" : "s(Nicolas_Cage) dbo:partner o'<Christina_Fulton>",
+    "10" : "s(Nicolas_Cage) dbo:residence o'<Nevada>",
+    "11" : "s(Nicolas_Cage) dbo:residence o'<Las_Vegas>",
+    "12" : "s(Nicolas_Cage) dbo:spouse o'<Lisa_Marie_Presley>",
+    "13" : "s(Nicolas_Cage) dbo:spouse o'<Patricia_Arquette>",
+    "14" : "s(Nicolas_Cage) dbp:children o'<Kal-El Coppola Cage>",
+    "15" : "s(Nicolas_Cage) dbp:children o'<Weston Coppola Cage>",
+    "16" : "s(Nicolas_Cage) dbp:family o'<Francis_Ford_Coppola>",
+    "17" : "s(Nicolas_Cage) dbp:family o'<Christopher_Coppola>",
+    "18" : "s(Nicolas_Cage) dbp:family o'<Talia_Shire>",
+    "19" : "s(Nicolas_Cage) dbp:family o'<Jason_Schwartzman>",
+    "20" : "s(Nicolas_Cage) dbp:family o'<Sofia_Coppola>",
+    "21" : "s(Nicolas_Cage) dbp:family o'<Marc_Coppola_(actor)>",
+    "22" : "s(Nicolas_Cage) dbp:family o'<Eleanor_Coppola>",
+    "23" : "s(Nicolas_Cage) dbp:id o'<26848>",
+    "24" : "s(Nicolas_Cage) dbp:name o'<Nicolas Cage>",
+    "25" : "s(Nicolas_Cage) dbp:signature o'<CageAutograph.png>",
+    "26" : "s(Nicolas_Cage) dbp:title o'<Awards for Nicolas Cage>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "1" : "s(nicolas cage=Nicolas_Cage) [kim ] o'<coppola=Francis_Ford_Coppola>"
+  },
+  "abstract" : {
+    "1" : "nicolas<Nicolas_Cage> kim coppola<Francis_Ford_Coppola> (born january 7, 1964), known professionally as nicolas cage<Nicolas_Cage>, is an american actor and producer"
+  }
+}, {
+  "entityIndex" : "entity10720",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Reagan",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Nancy_Reagan) dbo:almaMater o'<Smith_College>",
+    "2" : "s(Nancy_Reagan) dbo:birthDate o'<1921-07-06>",
+    "3" : "s(Nancy_Reagan) dbo:birthDate o'<1921-7-6>",
+    "4" : "s(Nancy_Reagan) dbo:birthPlace o'<New_York_City>",
+    "5" : "s(Nancy_Reagan) dbo:child o'<Ron_Reagan>",
+    "6" : "s(Nancy_Reagan) dbo:child o'<Maureen_Reagan>",
+    "7" : "s(Nancy_Reagan) dbo:child o'<Michael_Reagan>",
+    "8" : "s(Nancy_Reagan) dbo:child o'<Patti_Davis>",
+    "9" : "s(Nancy_Reagan) dbo:deathDate o'<2016-03-06>",
+    "10" : "s(Nancy_Reagan) dbo:deathDate o'<2016-3-6>",
+    "11" : "s(Nancy_Reagan) dbo:deathPlace o'<Bel_Air,_Los_Angeles>",
+    "12" : "s(Nancy_Reagan) dbo:governor o'<Ronald_Reagan>",
+    "13" : "s(Nancy_Reagan) dbo:office o'<First Lady of California>",
+    "14" : "s(Nancy_Reagan) dbo:office o'<First Lady of the United States>",
+    "15" : "s(Nancy_Reagan) dbo:party o'<Republican_Party_(United_States)>",
+    "16" : "s(Nancy_Reagan) dbo:predecessor o'<Rosalynn_Carter>",
+    "17" : "s(Nancy_Reagan) dbo:predecessor o'<Bernice_Layne_Brown>",
+    "18" : "s(Nancy_Reagan) dbo:president o'<Ronald_Reagan>",
+    "19" : "s(Nancy_Reagan) dbo:religion o'<Presbyterianism>",
+    "20" : "s(Nancy_Reagan) dbo:signature o'<NReagansignature.jpg>",
+    "21" : "s(Nancy_Reagan) dbo:spouse o'<Ronald_Reagan>",
+    "22" : "s(Nancy_Reagan) dbo:successor o'<Gloria_Deukmejian>",
+    "23" : "s(Nancy_Reagan) dbo:successor o'<Barbara_Bush>",
+    "24" : "s(Nancy_Reagan) dbo:termPeriod o'<Nancy_Reagan__1>",
+    "25" : "s(Nancy_Reagan) dbo:termPeriod o'<Nancy_Reagan__2>",
+    "26" : "s(Nancy_Reagan) dbp:birthName o'<Anne Frances Robbins>",
+    "27" : "s(Nancy_Reagan) dbp:occupation o'<Actress>",
+    "28" : "s(Nancy_Reagan) dbp:parents o'<Edith_Luckett_Davis>",
+    "29" : "s(Nancy_Reagan) dbp:parents o'<Kenneth Seymour Robbins>",
+    "30" : "s(Nancy_Reagan) dbp:restingPlace o'<Ronald_Reagan_Presidential_Library>",
+    "31" : "s(Nancy_Reagan) dbp:restingPlace o'<Simi_Valley,_California>",
+    "32" : "s(Nancy_Reagan) dbp:termLabel o'<In role>",
+    "33" : "s(Nancy_Reagan) dbp:title o'<First_Lady_of_the_United_States>",
+    "34" : "s(Nancy_Reagan) dbp:title o'<First Lady of California>",
+    "35" : "s(Nancy_Reagan) dbp:years o'<1967>",
+    "36" : "s(Nancy_Reagan) dbp:years o'<1981>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(nancy reagan=Nancy_Reagan) [served ] o'<the first lady=First_Lady_of_the_United_States>",
+    "3" : "s(nancy reagan=Nancy_Reagan) [born in ] o'<new york city=New_York_city>",
+    "6" : "s(nancy reagan=Nancy_Reagan) [hollywood ] o'<actress=Actress>",
+    "10" : "s(nancy reagan=Nancy_Reagan) [married ] o'<ronald reagan=Ronald_Reagan>",
+    "16" : "s(nancy reagan=Nancy_Reagan) [championed recreational drug prevention causes ] o'<first lady=First_Lady_of_the_United_States>"
+  },
+  "abstract" : {
+    "2" : "nancy reagan<Nancy_Reagan> served as the first lady<First_Lady_of_the_United_States> of the united states<First_Lady_of_the_United_States> from 1981 to 1989\n",
+    "3" : "nancy reagan<Nancy_Reagan> was born in new york city<New_York_city>\n",
+    "6" : "as nancy davis, nancy reagan<Nancy_Reagan> was a hollywood actress<Actress> in the 1940s and 1950s, starring in films such as the next voice you hear\n",
+    "10" : "in 1952, nancy reagan<Nancy_Reagan> married ronald reagan<Ronald_Reagan>, who was then president<Ronald_Reagan> of the screen actors guild\n",
+    "16" : "nancy reagan<Nancy_Reagan> championed recreational drug prevention causes by founding the \"just say no\" drug awareness campaign, which was considered her major initiative as first lady<First_Lady_of_the_United_States>\n"
+  }
+}, {
+  "entityIndex" : "entity10721",
+  "entityUrl" : "http://dbpedia.org/resource/Nicholas_Lemann",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Nicholas_Lemann) dbo:occupation o'<Academic>",
+    "2" : "s(Nicholas_Lemann) dbp:description o'<\"The Open Mind - \"The further education of a journalist\", Part I \">",
+    "3" : "s(Nicholas_Lemann) dbp:description o'<\"The Open Mind - \"The further education of a journalist\", Part II>",
+    "4" : "s(Nicholas_Lemann) dbp:id o'<openmind_ep1743>",
+    "5" : "s(Nicholas_Lemann) dbp:id o'<openmind_ep1744>",
+    "6" : "s(Nicholas_Lemann) dbp:nationality o'<American>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10722",
+  "entityUrl" : "http://dbpedia.org/resource/Nicanor_Parra",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Nicanor_Parra) dbo:award o'<Miguel_de_Cervantes_Prize>",
+    "2" : "s(Nicanor_Parra) dbo:birthDate o'<1914-09-05>",
+    "3" : "s(Nicanor_Parra) dbo:birthDate o'<1914-9-5>",
+    "4" : "s(Nicanor_Parra) dbo:birthName o'<Nicanor Segundo Parra Sandoval>",
+    "5" : "s(Nicanor_Parra) dbo:birthPlace o'<Chile>",
+    "6" : "s(Nicanor_Parra) dbo:birthPlace o'<ChillÃ¡n>",
+    "7" : "s(Nicanor_Parra) dbo:birthPlace o'<San_FabiÃ¡n_de_Alico,_Chile>",
+    "8" : "s(Nicanor_Parra) dbo:birthYear o'<1914>",
+    "9" : "s(Nicanor_Parra) dbo:occupation o'<Nicanor_Parra__1>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(nicanor parra=Nicanor_Parra) [considered influential poet ] o'<chile=Chile>"
+  },
+  "abstract" : {
+    "2" : "nicanor parra<Nicanor_Parra> is considered an influential poet in chile<Chile> and throughout latin america\n"
+  }
+}, {
+  "entityIndex" : "entity10723",
+  "entityUrl" : "http://dbpedia.org/resource/Norma_MacMillan",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Norma_MacMillan) dbo:activeYearsEndYear o'<2001>",
+    "2" : "s(Norma_MacMillan) dbo:activeYearsStartYear o'<1954>",
+    "3" : "s(Norma_MacMillan) dbo:birthDate o'<1921-09-15>",
+    "4" : "s(Norma_MacMillan) dbo:birthDate o'<1921-9-15>",
+    "5" : "s(Norma_MacMillan) dbo:birthPlace o'<British_Columbia>",
+    "6" : "s(Norma_MacMillan) dbo:birthPlace o'<Vancouver>",
+    "7" : "s(Norma_MacMillan) dbo:birthPlace o'<Canada>",
+    "8" : "s(Norma_MacMillan) dbo:birthYear o'<1921>",
+    "9" : "s(Norma_MacMillan) dbo:child o'<Alison_Arngrim>",
+    "10" : "s(Norma_MacMillan) dbo:child o'<Stefan_Arngrim>",
+    "11" : "s(Norma_MacMillan) dbo:deathDate o'<2001-03-16>",
+    "12" : "s(Norma_MacMillan) dbo:deathDate o'<2001-3-16>",
+    "13" : "s(Norma_MacMillan) dbo:deathPlace o'<British_Columbia>",
+    "14" : "s(Norma_MacMillan) dbo:deathPlace o'<Vancouver>",
+    "15" : "s(Norma_MacMillan) dbo:deathPlace o'<Canada>",
+    "16" : "s(Norma_MacMillan) dbo:deathYear o'<2001>",
+    "17" : "s(Norma_MacMillan) dbo:occupation o'<Norma_MacMillan__1>",
+    "18" : "s(Norma_MacMillan) dbo:restingPlace o'<Strait_of_Juan_de_Fuca>",
+    "19" : "s(Norma_MacMillan) dbp:imageSize o'<175>",
+    "20" : "s(Norma_MacMillan) dbp:spouse o'<Thor Arngrim>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10724",
+  "entityUrl" : "http://dbpedia.org/resource/Nikola_Tesla",
+  "dboClass" : "Person_segmentaa",
+  "triples" : {
+    "1" : "s(Nikola_Tesla) dbo:birthDate o'<1856-07-10>",
+    "2" : "s(Nikola_Tesla) dbo:birthDate o'<1856-7-10>",
+    "3" : "s(Nikola_Tesla) dbo:birthPlace o'<Smiljan>",
+    "4" : "s(Nikola_Tesla) dbo:birthPlace o'<Austrian_Empire>",
+    "5" : "s(Nikola_Tesla) dbo:birthYear o'<1856>",
+    "6" : "s(Nikola_Tesla) dbo:deathCause o'<Coronary_thrombosis>",
+    "7" : "s(Nikola_Tesla) dbo:deathDate o'<1943-01-07>",
+    "8" : "s(Nikola_Tesla) dbo:deathDate o'<1943-1-7>",
+    "9" : "s(Nikola_Tesla) dbo:deathPlace o'<United_States>",
+    "10" : "s(Nikola_Tesla) dbo:deathPlace o'<Manhattan>",
+    "11" : "s(Nikola_Tesla) dbo:deathPlace o'<New_York_City>",
+    "12" : "s(Nikola_Tesla) dbo:deathPlace o'<New_York_(state)>",
+    "13" : "s(Nikola_Tesla) dbo:deathYear o'<1943>",
+    "14" : "s(Nikola_Tesla) dbo:education o'<Graz_University_of_Technology>",
+    "15" : "s(Nikola_Tesla) dbo:ethnicity o'<Serbs>",
+    "16" : "s(Nikola_Tesla) dbp:citizenship o'<--07-30>",
+    "17" : "s(Nikola_Tesla) dbp:citizenship o'<Austrian>",
+    "18" : "s(Nikola_Tesla) dbp:id o'<Tesla,+Nikola>",
+    "19" : "s(Nikola_Tesla) dbp:name o'<Nikola Tesla>",
+    "20" : "s(Nikola_Tesla) dbp:signature o'<Nikola Tesla signature 1900.svg>",
+    "21" : "s(Nikola_Tesla) dbp:v o'<no>",
+    "22" : "s(Nikola_Tesla) dbp:wikt o'<no>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(nikola tesla=Nikola_Tesla) [gained experience in telephony ] o'<the united states=United_States>",
+    "7" : "s(nikola tesla=Nikola_Tesla) [became naturalized ] o'<us=United_States>",
+    "8" : "s(nikola tesla=Nikola_Tesla) [went on to pursue his ] o'<new york=New_York_(state)>",
+    "14" : "s(nikola tesla=Nikola_Tesla) [lived of his life ] o'<new york=New_York_(state)>"
+  },
+  "abstract" : {
+    "3" : "tesla<Nikola_Tesla> gained experience in telephony and electrical engineering before emigrating to the united states<United_States> in 1884 to work for thomas edison in new york city<New_York_city>",
+    "7" : "nikola tesla<Nikola_Tesla> became a naturalized us<United_States> citizen in 1891\n",
+    "8" : "tesla<Nikola_Tesla> went on to pursue his ideas of wireless lighting and electricity distribution in his high-voltage, high-frequency power experiments in new york<New_York_(state)> and colorado springs and made early (1893) pronouncements on the possibility of wireless communication with his devices",
+    "14" : "nikola tesla<Nikola_Tesla> lived most of his life in a series of new york<New_York_(state)> hotels through his retirement\n"
+  }
+} ]

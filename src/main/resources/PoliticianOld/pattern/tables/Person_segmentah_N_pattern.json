@@ -1,0 +1,84 @@
+[ {
+  "entityIndex" : "entity11047",
+  "entityUrl" : "http://dbpedia.org/resource/Nikolai_Malko",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Nikolai_Malko) dbo:birthDate o'<1883-5-4>",
+    "2" : "s(Nikolai_Malko) dbo:birthPlace o'<Chernihiv_Oblast>",
+    "3" : "s(Nikolai_Malko) dbo:deathDate o'<1961-6-23>",
+    "4" : "s(Nikolai_Malko) dbo:deathPlace o'<Sydney>",
+    "5" : "s(Nikolai_Malko) dbp:after o'<Aleksandr_Gauk>",
+    "6" : "s(Nikolai_Malko) dbp:after o'<Fritz_Busch>",
+    "7" : "s(Nikolai_Malko) dbp:before o'<Launy_GrÃ¸ndahl>",
+    "8" : "s(Nikolai_Malko) dbp:before o'<Valery_Berdyaev>",
+    "9" : "s(Nikolai_Malko) dbp:title o'<Saint_Petersburg_Philharmonic_Orchestra>",
+    "10" : "s(Nikolai_Malko) dbp:title o'<Danish_National_Symphony_Orchestra>",
+    "11" : "s(Nikolai_Malko) dbp:years o'<1926>",
+    "12" : "s(Nikolai_Malko) dbp:years o'<1930>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11048",
+  "entityUrl" : "http://dbpedia.org/resource/Neil_McLean_(judge)",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Neil_McLean_(judge)) dbo:birthDate o'<1759-1-1>",
+    "2" : "s(Neil_McLean_(judge)) dbo:deathDate o'<1832-9-3>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11049",
+  "entityUrl" : "http://dbpedia.org/resource/Neill_Blomkamp",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Neill_Blomkamp) dbo:activeYearsStartYear o'<1996>",
+    "2" : "s(Neill_Blomkamp) dbo:birthDate o'<1979-09-17>",
+    "3" : "s(Neill_Blomkamp) dbo:birthDate o'<1979-9-17>",
+    "4" : "s(Neill_Blomkamp) dbo:birthPlace o'<Johannesburg>",
+    "5" : "s(Neill_Blomkamp) dbo:birthPlace o'<South_Africa>",
+    "6" : "s(Neill_Blomkamp) dbo:birthYear o'<1979>",
+    "7" : "s(Neill_Blomkamp) dbo:occupation o'<Screenwriter>",
+    "8" : "s(Neill_Blomkamp) dbo:occupation o'<Animator>",
+    "9" : "s(Neill_Blomkamp) dbo:occupation o'<Neill_Blomkamp__1>",
+    "10" : "s(Neill_Blomkamp) dbo:occupation o'<Film_director>",
+    "11" : "s(Neill_Blomkamp) dbo:occupation o'<Film_producer>",
+    "12" : "s(Neill_Blomkamp) dbo:residence o'<Vancouver>",
+    "13" : "s(Neill_Blomkamp) dbo:residence o'<Canada>",
+    "14" : "s(Neill_Blomkamp) dbo:spouse o'<Terri_Tatchell>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11050",
+  "entityUrl" : "http://dbpedia.org/resource/Nathaniel_Hedge",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11051",
+  "entityUrl" : "http://dbpedia.org/resource/Norman_Bay",
+  "dboClass" : "Person_segmentah",
+  "triples" : {
+    "1" : "s(Norman_Bay) dbo:birthPlace o'<Illinois>",
+    "2" : "s(Norman_Bay) dbo:birthPlace o'<Champaign-Urbana>",
+    "3" : "s(Norman_Bay) dbo:nationality o'<Chinese-American>",
+    "4" : "s(Norman_Bay) dbo:office o'<U.S. Attorney for the District of New Mexico>",
+    "5" : "s(Norman_Bay) dbo:successor o'<David_Iglesias_(attorney)>",
+    "6" : "s(Norman_Bay) dbo:termPeriod o'<Norman_Bay__1>",
+    "7" : "s(Norman_Bay) dbp:education o'<Dartmouth_College>",
+    "8" : "s(Norman_Bay) dbp:education o'<Harvard_Law_School>",
+    "9" : "s(Norman_Bay) dbp:education o'<Albuquerque_Academy>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11052",
+  "entityUrl" : "http://dbpedia.org/resource/Nina_Garc%C3%ADa",
+  "dboClass" : "Person_segmentah",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

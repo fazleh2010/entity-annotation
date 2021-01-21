@@ -1,0 +1,67 @@
+[ {
+  "entityIndex" : "entity11253",
+  "entityUrl" : "http://dbpedia.org/resource/Urs_Egger",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Urs_Egger) dbo:birthDate o'<1955-1-1>",
+    "2" : "s(Urs_Egger) dbo:birthPlace o'<Bern>",
+    "3" : "s(Urs_Egger) dbo:imdbId o'<0250914>",
+    "4" : "s(Urs_Egger) dbp:name o'<Urs Egger>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11254",
+  "entityUrl" : "http://dbpedia.org/resource/Umar_Hassan",
+  "dboClass" : "Person_segmentai",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11255",
+  "entityUrl" : "http://dbpedia.org/resource/Uwe_Storch",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Uwe_Storch) dbo:birthDate o'<1940-7-12>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11256",
+  "entityUrl" : "http://dbpedia.org/resource/Uwe_Peschel",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Uwe_Peschel) dbo:birthDate o'<1968-11-04>",
+    "2" : "s(Uwe_Peschel) dbo:birthDate o'<1968-11-4>",
+    "3" : "s(Uwe_Peschel) dbo:birthPlace o'<Berlin>",
+    "4" : "s(Uwe_Peschel) dbp:showMedals o'<yes>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11257",
+  "entityUrl" : "http://dbpedia.org/resource/Uriel_Davidi",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Uriel_Davidi) dbo:birthDate o'<1922-1-1>",
+    "2" : "s(Uriel_Davidi) dbo:deathDate o'<2006-12-24>",
+    "3" : "s(Uriel_Davidi) dbp:after o'<Yosef_Hamadani_Cohen>",
+    "4" : "s(Uriel_Davidi) dbp:before o'<Yedidia_Shofet>",
+    "5" : "s(Uriel_Davidi) dbp:title o'<List_of_Chief_Rabbis_of_Iran>",
+    "6" : "s(Uriel_Davidi) dbp:years o'<1980>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11258",
+  "entityUrl" : "http://dbpedia.org/resource/Urpo_Korhonen",
+  "dboClass" : "Person_segmentai",
+  "triples" : {
+    "1" : "s(Urpo_Korhonen) dbo:birthDate o'<1923-2-8>",
+    "2" : "s(Urpo_Korhonen) dbo:birthPlace o'<Rautalampi>",
+    "3" : "s(Urpo_Korhonen) dbo:deathDate o'<2009-8-10>",
+    "4" : "s(Urpo_Korhonen) dbo:deathPlace o'<Lahti>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

@@ -1,0 +1,73 @@
+[ {
+  "entityIndex" : "entity14074",
+  "entityUrl" : "http://dbpedia.org/resource/Arif_Hasan",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Arif_Hasan) dbo:birthDate o'<1943-6-10>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14075",
+  "entityUrl" : "http://dbpedia.org/resource/Andrey_Vasilyev",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Andrey_Vasilyev) dbo:birthDate o'<1962-6-27>",
+    "2" : "s(Andrey_Vasilyev) dbo:birthPlace o'<Saint_Petersburg>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14076",
+  "entityUrl" : "http://dbpedia.org/resource/Aleksandr_Dumchev",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Aleksandr_Dumchev) dbo:birthDate o'<1961-10-27>",
+    "2" : "s(Aleksandr_Dumchev) dbo:birthPlace o'<Kaunas>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14077",
+  "entityUrl" : "http://dbpedia.org/resource/Arsh_Malsiani",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Arsh_Malsiani) dbo:birthDate o'<1908-1-1>",
+    "2" : "s(Arsh_Malsiani) dbo:country o'<India>",
+    "3" : "s(Arsh_Malsiani) dbo:deathDate o'<1979-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14078",
+  "entityUrl" : "http://dbpedia.org/resource/Antonio_Lante_Montefeltro_della_Rovere",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Antonio_Lante_Montefeltro_della_Rovere) dbo:birthDate o'<1737-12-17>",
+    "2" : "s(Antonio_Lante_Montefeltro_della_Rovere) dbo:birthPlace o'<Rome>",
+    "3" : "s(Antonio_Lante_Montefeltro_della_Rovere) dbo:deathDate o'<1817-10-23>",
+    "4" : "s(Antonio_Lante_Montefeltro_della_Rovere) dbo:deathPlace o'<Rome>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14079",
+  "entityUrl" : "http://dbpedia.org/resource/Arken_Arystanov",
+  "dboClass" : "Person_segmentba",
+  "triples" : {
+    "1" : "s(Arken_Arystanov) dbo:birthDate o'<1966-03-07>",
+    "2" : "s(Arken_Arystanov) dbo:birthDate o'<1966-3-7>",
+    "3" : "s(Arken_Arystanov) dbo:birthPlace o'<Kazakhstan>",
+    "4" : "s(Arken_Arystanov) dbo:birthPlace o'<Almaty>",
+    "5" : "s(Arken_Arystanov) dbo:nationality o'<Kazakhs>",
+    "6" : "s(Arken_Arystanov) dbo:office o'<Chairman of Kazpost>",
+    "7" : "s(Arken_Arystanov) dbo:office o'<Counsellor of the Embassy of RK in France>",
+    "8" : "s(Arken_Arystanov) dbo:termPeriod o'<Arken_Arystanov__1>",
+    "9" : "s(Arken_Arystanov) dbo:termPeriod o'<Arken_Arystanov__2>",
+    "10" : "s(Arken_Arystanov) dbp:termEnd o'<2013>",
+    "11" : "s(Arken_Arystanov) dbp:termStart o'<2011>",
+    "12" : "s(Arken_Arystanov) dbp:termStart o'<2013>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

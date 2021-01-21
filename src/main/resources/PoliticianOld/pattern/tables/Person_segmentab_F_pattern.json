@@ -1,0 +1,128 @@
+[ {
+  "entityIndex" : "entity10835",
+  "entityUrl" : "http://dbpedia.org/resource/Frances_Morrell",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Frances_Morrell) dbo:birthDate o'<1937-12-28>",
+    "2" : "s(Frances_Morrell) dbo:deathDate o'<2010-1-10>",
+    "3" : "s(Frances_Morrell) dbp:after o'<Neil_Fletcher>",
+    "4" : "s(Frances_Morrell) dbp:before o'<Bryn_Davies>",
+    "5" : "s(Frances_Morrell) dbp:title o'<Leader of the Inner London Education Authority>",
+    "6" : "s(Frances_Morrell) dbp:years o'<1983>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "15" : "s(frances morrell=Frances_Morrell) [chosen deputy leader ] o'<bryn davies=Bryn_Davies>"
+  },
+  "abstract" : {
+    "15" : "frances morrell<Frances_Morrell> was chosen as deputy leader of the new left leadership under bryn davies<Bryn_Davies>\n"
+  }
+}, {
+  "entityIndex" : "entity10836",
+  "entityUrl" : "http://dbpedia.org/resource/Fred_Emney",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Fred_Emney) dbo:birthDate o'<1900-02-12>",
+    "2" : "s(Fred_Emney) dbo:birthDate o'<1900-2-12>",
+    "3" : "s(Fred_Emney) dbo:birthName o'<Frederick Arthur Round Emney>",
+    "4" : "s(Fred_Emney) dbo:birthPlace o'<England>",
+    "5" : "s(Fred_Emney) dbo:birthPlace o'<Prescot>",
+    "6" : "s(Fred_Emney) dbo:birthPlace o'<Lancashire>",
+    "7" : "s(Fred_Emney) dbo:birthYear o'<1900>",
+    "8" : "s(Fred_Emney) dbo:country o'<England>",
+    "9" : "s(Fred_Emney) dbo:deathDate o'<1980-12-25>",
+    "10" : "s(Fred_Emney) dbo:deathPlace o'<England>",
+    "11" : "s(Fred_Emney) dbo:deathPlace o'<Bognor_Regis>",
+    "12" : "s(Fred_Emney) dbo:deathPlace o'<Sussex>",
+    "13" : "s(Fred_Emney) dbo:deathYear o'<1980>",
+    "14" : "s(Fred_Emney) dbo:occupation o'<Fred_Emney__1>",
+    "15" : "s(Fred_Emney) dbp:spouse o'<Hazel Wiles>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10837",
+  "entityUrl" : "http://dbpedia.org/resource/Fernando_Lamas",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Fernando_Lamas) dbo:activeYearsEndYear o'<1981>",
+    "2" : "s(Fernando_Lamas) dbo:activeYearsStartYear o'<1942>",
+    "3" : "s(Fernando_Lamas) dbo:birthDate o'<1915-01-09>",
+    "4" : "s(Fernando_Lamas) dbo:birthDate o'<1915-1-9>",
+    "5" : "s(Fernando_Lamas) dbo:birthName o'<Fernando Ã�lvaro Lamas y de Santos>",
+    "6" : "s(Fernando_Lamas) dbo:birthPlace o'<Buenos_Aires>",
+    "7" : "s(Fernando_Lamas) dbo:birthPlace o'<Buenos_Aires,_Argentina>",
+    "8" : "s(Fernando_Lamas) dbo:birthYear o'<1915>",
+    "9" : "s(Fernando_Lamas) dbo:child o'<Lorenzo_Lamas>",
+    "10" : "s(Fernando_Lamas) dbo:deathDate o'<1982-10-08>",
+    "11" : "s(Fernando_Lamas) dbo:deathDate o'<1982-10-8>",
+    "12" : "s(Fernando_Lamas) dbo:deathPlace o'<Los_Angeles>",
+    "13" : "s(Fernando_Lamas) dbo:deathPlace o'<Los_Angeles,_California>",
+    "14" : "s(Fernando_Lamas) dbo:deathYear o'<1982>",
+    "15" : "s(Fernando_Lamas) dbo:occupation o'<Fernando_Lamas__1>",
+    "16" : "s(Fernando_Lamas) dbo:occupation o'<Actor>",
+    "17" : "s(Fernando_Lamas) dbo:spouse o'<Esther_Williams>",
+    "18" : "s(Fernando_Lamas) dbo:spouse o'<Arlene_Dahl>",
+    "19" : "s(Fernando_Lamas) dbp:imageSize o'<220>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10838",
+  "entityUrl" : "http://dbpedia.org/resource/Fathi_Eljahmi",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Fathi_Eljahmi) dbo:birthDate o'<1941-04-04>",
+    "2" : "s(Fathi_Eljahmi) dbo:birthDate o'<1941-4-4>",
+    "3" : "s(Fathi_Eljahmi) dbo:birthYear o'<1941>",
+    "4" : "s(Fathi_Eljahmi) dbo:deathDate o'<2009-05-21>",
+    "5" : "s(Fathi_Eljahmi) dbo:deathDate o'<2009-5-21>",
+    "6" : "s(Fathi_Eljahmi) dbo:deathPlace o'<Amman>",
+    "7" : "s(Fathi_Eljahmi) dbo:deathPlace o'<Jordan>",
+    "8" : "s(Fathi_Eljahmi) dbo:deathYear o'<2009>",
+    "9" : "s(Fathi_Eljahmi) dbp:knownFor o'<Political dissident>",
+    "10" : "s(Fathi_Eljahmi) dbp:nationality o'<Libyan>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10839",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Wills_(security_guard)",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Frank_Wills_(security_guard)) dbo:birthDate o'<1948-2-4>",
+    "2" : "s(Frank_Wills_(security_guard)) dbo:birthPlace o'<Savannah,_Georgia>",
+    "3" : "s(Frank_Wills_(security_guard)) dbo:deathDate o'<2000-9-27>",
+    "4" : "s(Frank_Wills_(security_guard)) dbo:deathPlace o'<Augusta,_Georgia>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity10840",
+  "entityUrl" : "http://dbpedia.org/resource/Frank_Bridge",
+  "dboClass" : "Person_segmentab",
+  "triples" : {
+    "1" : "s(Frank_Bridge) dbo:birthDate o'<1879-2-26>",
+    "2" : "s(Frank_Bridge) dbo:birthPlace o'<Brighton>",
+    "3" : "s(Frank_Bridge) dbo:deathDate o'<1941-1-10>",
+    "4" : "s(Frank_Bridge) dbo:deathPlace o'<Eastbourne>",
+    "5" : "s(Frank_Bridge) dbp:cname o'<Frank Bridge>",
+    "6" : "s(Frank_Bridge) dbp:id o'<Bridge, Frank>",
+    "7" : "s(Frank_Bridge) dbp:reference o'<--07-18>",
+    "8" : "s(Frank_Bridge) dbp:reference o'<Meyer, Leonard B. 1967. Music, the Arts, and Ideas. Chicago: University of Chicago Press. ISBN 978-0-226-52141-1.>",
+    "9" : "s(Frank_Bridge) dbp:reference o'<Little, Karen R. 1991. Frank Bridge: A Bio-Bibliography. Bio-Bibliographies in Music 36. New York, Westport, CT, and London: Greenwood Press. ISBN 9780313262326.>",
+    "10" : "s(Frank_Bridge) dbp:reference o'<Hindmarsh, Paul. 1980. Liner notes for The Organ Music of Frank Bridge. Stuart Campbell, organ.  Pearl SHE 545. Kent: Pearl Records.>",
+    "11" : "s(Frank_Bridge) dbp:reference o'<Payne, Anthony. 1984. Frank Bridge: Radical and Conservative. Published in conjunction with the Frank Bridge Trust. London: Thames Publishing. ISBN 9780905210254.>",
+    "12" : "s(Frank_Bridge) dbp:reference o'<Cerabona, Ron. 2014. \"Pianists Celebrate Wartime Composers\". Canberra Times .>",
+    "13" : "s(Frank_Bridge) dbp:reference o'<Banfield, Stephen. 1986. \"'Too Much of an Albion?': Mrs Coolidge and Her British Connections\". American Music 4, no. 1 , 59â€“88.>",
+    "14" : "s(Frank_Bridge) dbp:reference o'<Mitchell, Donald . 1991. Letters from a Life: The Selected Letters and Diaries of Benjamin Britten 1913â€“1976, assistant editor Philip Reed; associate editors Rosamund Strode, Kathleen Mitchell, and Judy Young. Vol. 1: 1923â€“1939. London: Faber and Faber. ISBN 9780571152216.>",
+    "15" : "s(Frank_Bridge) dbp:reference o'<Pirie, Peter J. 1971. Frank Bridge. London: Triad Press. ISBN 9780902070028.>",
+    "16" : "s(Frank_Bridge) dbp:reference o'<Huss, Fabian. 2015. The Music of Frank Bridge. Woodbridge: The Boydell Press. ISBN 9781783270590.>",
+    "17" : "s(Frank_Bridge) dbp:reference o'<Payne, Anthony, Lewis Foreman, and John Bishop. 1976. The Music of Frank Bridge. London: Thames Publishing. ISBN 9780905210025.>",
+    "18" : "s(Frank_Bridge) dbp:reference o'<Bray, Trevor. 1977. \"Frank Bridge and Mrs Coolidge\". Music and Musicians 26, no. 2 : 28â€“30.>",
+    "19" : "s(Frank_Bridge) dbp:reference o'<Payne, Anthony, Paul Hindmarsh, and Lewis Foreman. 2001. \"Bridge, Frank\". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers.>",
+    "20" : "s(Frank_Bridge) dbp:reference o'<Anon. 1915. \"Concerts. &c\" . The Times, issue 40960 : 1.>",
+    "21" : "s(Frank_Bridge) dbp:reference o'<Kildea, Paul. 2013. Benjamin Britten: A Life in the Twentieth Century. London: Allen Lane. ISBN 9780141924304 ; ISBN 9781846142321. Reprinted, London: Penguin Books, 2014. ISBN 9781846142338 .>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

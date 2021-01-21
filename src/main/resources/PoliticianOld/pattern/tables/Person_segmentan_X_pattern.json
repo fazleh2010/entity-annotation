@@ -1,0 +1,63 @@
+[ {
+  "entityIndex" : "entity12087",
+  "entityUrl" : "http://dbpedia.org/resource/Xiaodong_Wang",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Xiaodong_Wang) dbo:wikiPageRedirects o'<Wang_Xiaodong>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12088",
+  "entityUrl" : "http://dbpedia.org/resource/Xiang_Zhejun",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Xiang_Zhejun) dbo:deathDate o'<1987-0-0>",
+    "2" : "s(Xiang_Zhejun) dbp:c o'<å�‘å“²æµš>",
+    "3" : "s(Xiang_Zhejun) dbp:w o'<Hsiang Che-chun>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12089",
+  "entityUrl" : "http://dbpedia.org/resource/Xavier_Delamare",
+  "dboClass" : "Person_segmentan",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12090",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Zaisi",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Xu_Zaisi) dbp:bot o'<InternetArchiveBot>",
+    "2" : "s(Xu_Zaisi) dbp:c o'<å¾�å†�æ€�>",
+    "3" : "s(Xu_Zaisi) dbp:date o'<July 2016>",
+    "4" : "s(Xu_Zaisi) dbp:fixAttempted o'<yes>",
+    "5" : "s(Xu_Zaisi) dbp:w o'<HsÃ¼ Tsai-szu>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12091",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Jialu",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Xu_Jialu) dbo:birthDate o'<1937-0-0>",
+    "2" : "s(Xu_Jialu) dbp:p o'<XÇ” JiÄ�lÃ¹>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity12092",
+  "entityUrl" : "http://dbpedia.org/resource/Xu_Jiyu",
+  "dboClass" : "Person_segmentan",
+  "triples" : {
+    "1" : "s(Xu_Jiyu) dbo:birthDate o'<1795-1-1>",
+    "2" : "s(Xu_Jiyu) dbo:deathDate o'<1873-1-1>",
+    "3" : "s(Xu_Jiyu) dbp:p o'<XÃº JÃ¬yÃº>",
+    "4" : "s(Xu_Jiyu) dbp:t o'<å¾�ç¹¼ç•¬>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

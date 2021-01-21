@@ -1,0 +1,99 @@
+[ {
+  "entityIndex" : "entity11680",
+  "entityUrl" : "http://dbpedia.org/resource/Kerstin_Ringberg",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Kerstin_Ringberg) dbo:birthDate o'<1925-1-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11681",
+  "entityUrl" : "http://dbpedia.org/resource/Ken_Khachigian",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Ken_Khachigian) dbo:almaMater o'<Columbia_Law_School>",
+    "2" : "s(Ken_Khachigian) dbo:almaMater o'<UC_Santa_Barbara>",
+    "3" : "s(Ken_Khachigian) dbo:birthDate o'<1944-09-14>",
+    "4" : "s(Ken_Khachigian) dbo:birthDate o'<1944-9-14>",
+    "5" : "s(Ken_Khachigian) dbo:birthPlace o'<Visalia,_California>",
+    "6" : "s(Ken_Khachigian) dbo:nationality o'<Armenian_Americans>",
+    "7" : "s(Ken_Khachigian) dbo:occupation o'<Lawyer>",
+    "8" : "s(Ken_Khachigian) dbo:occupation o'<Speechwriter>",
+    "9" : "s(Ken_Khachigian) dbo:occupation o'<Political_Consultant>",
+    "10" : "s(Ken_Khachigian) dbo:office o'<Deputy Special Assistant to the President>",
+    "11" : "s(Ken_Khachigian) dbo:office o'<Staff Assistant to the President>",
+    "12" : "s(Ken_Khachigian) dbo:office o'<Chief Speechwriter and Special Consultant to the President>",
+    "13" : "s(Ken_Khachigian) dbo:party o'<Republican_Party_(United_States)>",
+    "14" : "s(Ken_Khachigian) dbo:president o'<Richard_Nixon>",
+    "15" : "s(Ken_Khachigian) dbo:president o'<Ronald_Reagan>",
+    "16" : "s(Ken_Khachigian) dbp:imagesize o'<250>",
+    "17" : "s(Ken_Khachigian) dbp:termEnd o'<1972>",
+    "18" : "s(Ken_Khachigian) dbp:termEnd o'<1974>",
+    "19" : "s(Ken_Khachigian) dbp:termEnd o'<May 1981>",
+    "20" : "s(Ken_Khachigian) dbp:termStart o'<1970>",
+    "21" : "s(Ken_Khachigian) dbp:termStart o'<1973>",
+    "22" : "s(Ken_Khachigian) dbp:termStart o'<January 1981>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "3" : "s(ken khachigian=Ken_Khachigian) [best known for ] o'<president richard nixon=Richard_Nixon>",
+    "4" : "s(ken khachigian=Ken_Khachigian) [served chief ] o'<speechwriter=Speechwriter>",
+    "5" : "s(ken khachigian=Ken_Khachigian) [resigned after several months to ] o'<speechwriter=Speechwriter>"
+  },
+  "abstract" : {
+    "3" : "ken khachigian<Ken_Khachigian> is best known for being a longtime aide to president richard nixon<Richard_Nixon> and chief speechwriter<Speechwriter> to president ronald reagan<Ronald_Reagan>\n",
+    "4" : "ken khachigian<Ken_Khachigian> served as chief speechwriter<Speechwriter> on reagan's<Ronald_Reagan> successful 1980 presidential campaign, and continued as chief speechwriter<Speechwriter> in the reagan administration<Ronald_Reagan>, writing reagan's<Ronald_Reagan> first inaugural address, his three main economic speeches, and the welcome home speech to the iranian hostages\n",
+    "5" : "although ken khachigian<Ken_Khachigian> resigned after several months to return to the private sector in california, ken khachigian<Ken_Khachigian> continued to write many of the major political and policy speeches as chief speechwriter<Speechwriter> on reagan's<Ronald_Reagan> successful 1984 re-election campaign and throughout the second term, including the 1984 nomination acceptance speech, the 1985 remarks at the former bergen-belsen concentration camp in germany, and the 1988 republican national convention<Republican_Party_(United_States)> farewell address\n"
+  }
+}, {
+  "entityIndex" : "entity11682",
+  "entityUrl" : "http://dbpedia.org/resource/Kate_Royal",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Kate_Royal) dbo:birthDate o'<1979-1-1>",
+    "2" : "s(Kate_Royal) dbo:birthPlace o'<London>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11683",
+  "entityUrl" : "http://dbpedia.org/resource/Konstantyn_K._Kuzminsky",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Konstantyn_K._Kuzminsky) dbo:birthDate o'<1940-4-16>",
+    "2" : "s(Konstantyn_K._Kuzminsky) dbo:birthPlace o'<Saint_Petersburg>",
+    "3" : "s(Konstantyn_K._Kuzminsky) dbo:deathDate o'<2015-5-2>",
+    "4" : "s(Konstantyn_K._Kuzminsky) dbo:deathPlace o'<New_York>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11684",
+  "entityUrl" : "http://dbpedia.org/resource/Kazuki_%C5%8Cmori",
+  "dboClass" : "Person_segmental",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity11685",
+  "entityUrl" : "http://dbpedia.org/resource/Katsuhito_Ishii",
+  "dboClass" : "Person_segmental",
+  "triples" : {
+    "1" : "s(Katsuhito_Ishii) dbo:activeYearsStartYear o'<1992>",
+    "2" : "s(Katsuhito_Ishii) dbo:almaMater o'<Musashino_Art_University>",
+    "3" : "s(Katsuhito_Ishii) dbo:birthDate o'<1966-12-31>",
+    "4" : "s(Katsuhito_Ishii) dbo:birthPlace o'<Niigata,_Niigata>",
+    "5" : "s(Katsuhito_Ishii) dbo:birthPlace o'<Japan>",
+    "6" : "s(Katsuhito_Ishii) dbo:birthPlace o'<Niigata_Prefecture>",
+    "7" : "s(Katsuhito_Ishii) dbo:birthYear o'<1966>",
+    "8" : "s(Katsuhito_Ishii) dbo:imdbId o'<0411002>",
+    "9" : "s(Katsuhito_Ishii) dbo:occupation o'<Screenwriter>",
+    "10" : "s(Katsuhito_Ishii) dbo:occupation o'<Film_editor>",
+    "11" : "s(Katsuhito_Ishii) dbo:occupation o'<Film_director>",
+    "12" : "s(Katsuhito_Ishii) dbo:occupation o'<Katsuhito_Ishii__1>",
+    "13" : "s(Katsuhito_Ishii) dbp:id o'<458780>",
+    "14" : "s(Katsuhito_Ishii) dbp:name o'<çŸ³äº•å…‹äºº>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]

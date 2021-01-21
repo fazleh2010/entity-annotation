@@ -1,0 +1,86 @@
+[ {
+  "entityIndex" : "entity14483",
+  "entityUrl" : "http://dbpedia.org/resource/Nigel_Unwin",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Nigel_Unwin) dbo:birthDate o'<1942-11-1>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14484",
+  "entityUrl" : "http://dbpedia.org/resource/Nancy_Hult_Ganis",
+  "dboClass" : "Person_segmentbc",
+  "triples" : { },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14485",
+  "entityUrl" : "http://dbpedia.org/resource/Neville_Meade",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Neville_Meade) dbo:birthDate o'<1948-09-12>",
+    "2" : "s(Neville_Meade) dbo:birthDate o'<1948-9-12>",
+    "3" : "s(Neville_Meade) dbo:birthPlace o'<Montserrat>",
+    "4" : "s(Neville_Meade) dbo:deathDate o'<2010-03-13>",
+    "5" : "s(Neville_Meade) dbo:deathDate o'<2010-3-13>",
+    "6" : "s(Neville_Meade) dbo:deathPlace o'<Swansea>",
+    "7" : "s(Neville_Meade) dbo:deathPlace o'<Wales>",
+    "8" : "s(Neville_Meade) dbo:height o'<182.88>",
+    "9" : "s(Neville_Meade) dbo:height o'<1.8288>",
+    "10" : "s(Neville_Meade) dbo:nationality o'<British_nationality_law>",
+    "11" : "s(Neville_Meade) dbp:draws o'<1>",
+    "12" : "s(Neville_Meade) dbp:ko o'<18>",
+    "13" : "s(Neville_Meade) dbp:losses o'<13>",
+    "14" : "s(Neville_Meade) dbp:noContests o'<0>",
+    "15" : "s(Neville_Meade) dbp:total o'<34>",
+    "16" : "s(Neville_Meade) dbp:weight o'<Heavyweight>",
+    "17" : "s(Neville_Meade) dbp:wins o'<20>"
+  },
+  "PatternsFoundFromAbstract" : {
+    "2" : "s(neville meade=Neville_Meade) [moved to ] o'<wales=Wales>",
+    "3" : "s(neville meade=Neville_Meade) [rose to prominence PRONOUN ] o'<heavyweight division=Heavyweight>",
+    "4" : "s(neville meade=Neville_Meade) [turned professional in 1974 ] o'<welsh=Wales>"
+  },
+  "abstract" : {
+    "2" : "born in montserrat<Montserrat>, neville meade<Neville_Meade> moved to wales<Wales> at the age of nine\n",
+    "3" : "neville meade<Neville_Meade> rose to prominence when neville meade<Neville_Meade> won the gold medal in the heavyweight division<Heavyweight> at the 1974 commonwealth games in new zealand\n",
+    "4" : "neville meade<Neville_Meade> turned professional in 1974 and won the welsh<Wales> heavyweight<Heavyweight> title in 1976 and then followed this with the british title in 1981\n"
+  }
+}, {
+  "entityIndex" : "entity14486",
+  "entityUrl" : "http://dbpedia.org/resource/Niamh_Wilson",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Niamh_Wilson) dbo:activeYearsStartYear o'<2003>",
+    "2" : "s(Niamh_Wilson) dbo:birthDate o'<1997-03-09>",
+    "3" : "s(Niamh_Wilson) dbo:birthDate o'<1997-3-9>",
+    "4" : "s(Niamh_Wilson) dbo:birthPlace o'<Oakville,_Ontario>",
+    "5" : "s(Niamh_Wilson) dbo:birthYear o'<1997>",
+    "6" : "s(Niamh_Wilson) dbo:occupation o'<Niamh_Wilson__1>",
+    "7" : "s(Niamh_Wilson) dbo:occupation o'<Actor>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14487",
+  "entityUrl" : "http://dbpedia.org/resource/Ned_Goodman",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Ned_Goodman) dbo:knownFor o'<Brock_University>",
+    "2" : "s(Ned_Goodman) dbo:nationality o'<Canada>",
+    "3" : "s(Ned_Goodman) dbo:stateOfOrigin o'<Canada>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+}, {
+  "entityIndex" : "entity14488",
+  "entityUrl" : "http://dbpedia.org/resource/Nouzha_Skalli",
+  "dboClass" : "Person_segmentbc",
+  "triples" : {
+    "1" : "s(Nouzha_Skalli) dbo:birthDate o'<1950-5-25>",
+    "2" : "s(Nouzha_Skalli) dbo:birthPlace o'<El_Jadida>"
+  },
+  "PatternsFoundFromAbstract" : { },
+  "abstract" : { }
+} ]
