@@ -42,21 +42,19 @@ public class POStagTest implements TextAnalyzer, DirectoryLocation {
 
     public static void main(String[] args) throws IOException, Exception {
         exclude();
-        CLASSES = getClasses(dbpediaDir);
-
+        //CLASSES = getClasses(dbpediaDir);
+         CLASSES.add("dbo:MilitaryConflict");
+         CLASSES.add("dbo:River");
+         CLASSES.add("dbo:Place");
         for (String dbo_Class : CLASSES) {
-            if(!dbo_Class.contains(Property.dbo_Mountain)){
-                continue;
-            }
-                
+            
             String classDir = FileFolderUtils.getClassDir(dbo_Class) + "/";
             String inputDir = dbpediaDir + classDir + rawFiles;
             String outputDir = dbpediaDir + classDir + nlpDir;
            
-            if(dbo_Class.contains("Mountain"))
               System.out.println("inputDir:" + inputDir); 
-            Map<String, List<DBpediaEntity>> fileDBpediaEntities = FileUtilsAnno.readTables(inputDir, JSON);
-            POStagging main = new POStagging(dbo_Class, outputDir, fileDBpediaEntities);
+              Map<String, List<DBpediaEntity>> fileDBpediaEntities = FileUtilsAnno.readTables(inputDir, JSON);
+              POStagging main = new POStagging(dbo_Class, outputDir, fileDBpediaEntities);
         }
 
     }
@@ -71,7 +69,7 @@ public class POStagTest implements TextAnalyzer, DirectoryLocation {
         done.add(Property.dbo_Country);
         done.add(Property.dbo_Lake);
         done.add(Property.dbo_Location);
-        //done.add(Property.dbo_Mountain);
+        done.add(Property.dbo_Mountain);
         done.add(Property.dbo_Person);
         done.add(Property.dbo_Politician);
         done.add(Property.dbo_Stadium);
