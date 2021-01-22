@@ -1,7 +1,7 @@
 
-import static citec.wikipedia.entity.linking.EntityAnnotation.PRONOUN;
-import citec.wikipedia.entity.utils.Pronoun;
-import citec.wikipedia.writer.utils.FormatAndMatch;
+import static citec.wikipedia.annotation.linking.EntityAnnotation.PRONOUN;
+import citec.wikipedia.annotation.utils.Pronoun;
+import citec.wikipedia.extractor.utils.FormatAndMatch;
 import java.util.HashSet;
 import java.util.Set;
 import org.javatuples.Pair;

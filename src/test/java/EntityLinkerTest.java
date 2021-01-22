@@ -8,14 +8,14 @@
  *
  * @author elahi
  */
-import citec.wikipedia.entity.linking.AbstractEntityLinker;
-import citec.wikipedia.entity.linking.LinkingDictionary;
-import citec.wikipedia.entity.utils.FileUtilsAnno;
-import citec.wikipedia.writer.analyzer.TextAnalyzer;
-import citec.wikipedia.writer.constants.DirectoryLocation;
-import citec.wikipedia.writer.constants.Property;
-import citec.wikipedia.writer.table.DBpediaEntity;
-import citec.wikipedia.writer.utils.FileFolderUtils;
+import citec.wikipedia.annotation.linking.AbstractEntityLinker;
+import citec.wikipedia.annotation.linking.LinkingDictionary;
+import citec.wikipedia.annotation.utils.FileUtilsAnno;
+import citec.wikipedia.extractor.analyzer.TextAnalyzer;
+import citec.wikipedia.extractor.constants.DirectoryLocation;
+import citec.wikipedia.extractor.constants.Property;
+import citec.wikipedia.extractor.table.DBpediaEntity;
+import citec.wikipedia.extractor.utils.FileFolderUtils;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;

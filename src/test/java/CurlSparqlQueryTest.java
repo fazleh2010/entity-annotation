@@ -5,9 +5,9 @@
  */
 
 
-import citec.wikipedia.writer.sparql.SparqlQueryImpl;
-import citec.wikipedia.writer.sparql.SparqlQuery;
-import static citec.wikipedia.writer.sparql.SparqlQuery.DBO_ABSTRACT;
+import citec.wikipedia.extractor.sparql.SparqlQueryImpl;
+import citec.wikipedia.extractor.sparql.SparqlQuery;
+import static citec.wikipedia.extractor.sparql.SparqlQuery.DBO_ABSTRACT;
 import static org.junit.Assert.assertEquals;
 import org.junit.Ignore;
 import org.junit.Test;
