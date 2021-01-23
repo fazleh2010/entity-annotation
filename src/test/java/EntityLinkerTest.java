@@ -79,7 +79,7 @@ public class EntityLinkerTest implements TextAnalyzer, DirectoryLocation {
         }*/
  
         List<String> CLASSES = new ArrayList<String>();
-        CLASSES.add(Property.dbo_City);
+        CLASSES.add(Property.dbo_Person);
         //CLASSES.add(Property.dbo_Company);
        
         for (String dbo_Class : CLASSES) {

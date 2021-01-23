@@ -34,6 +34,7 @@ public interface TextAnalyzer {
         {
             put(Property.dbo_Album, new HashSet<String>(Arrays.asList("it", "this")));
             put(Property.dbo_Book, new HashSet<String>(Arrays.asList("it", "this")));
+            put(Property.dbo_Airport, new HashSet<String>(Arrays.asList("it", "this")));
             put(Property.dbo_City, new HashSet<String>(Arrays.asList("it", "this")));
             put(Property.dbo_Colour, new HashSet<String>(Arrays.asList("the_color_", "this_color_", "it_is_", "this_is_")));
             put(Property.dbo_Company, new HashSet<String>(Arrays.asList("it", "this", "it_is_", "this_is_")));
